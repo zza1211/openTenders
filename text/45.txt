@@ -1,0 +1,2662 @@
+  University of Agriculture, Faisalabad
+
+
+
+         B i d d i n g D o c u m e n t s
+
+
+        Tender No.15/2022
+
+
+
+SPECIAL INSTRUCTIONS
+
+-    No cutting, erasing is allowed in the Tender bid.
+
+-     Bid offered strictly in accordance with the bid document will only be
+      accepted.
+
+-    Only typed bid will be accepted
+
+-     Call Deposit Receipt (CDR) will be preferred. However, Bank Guarantee
+    may also be accepted in case of performance security. CDR and Bank
+      Guarantee be deposited in the University relevant account and in  that
+       eventuality, the release of the requisite amount would be made in shape of
+      crossed cheque after deductions of necessary taxes and bank charges
+
+-     All bidders and the representative  visits the University of Agriculture,
+      Faisalabad must ensure safety measures for COVID-19 as directed by the
+      Govt. of Pakistan
+
+THIS IS FOR STRICT COMPLIANCE, FAILING WHICH THE
+RESPECTIVE BID SHALL STAND CANCELLED
+
+                           Contents
+
+Section I.......................................................................................................................................3
+Invitation for Bids ......................................................................................................................3
+
+Section II. ....................................................................................................................................4
+Instructions to Bidders ..............................................................................................................5
+Table of Clauses ...........................................................................................................……6
+
+Section III. ..................................................................................................................................25
+Bid Data Sheet ............................................................................................................................25
+
+Section IV. ...................................................................................................................................31
+General Condition of Contract                                                32
+
+Section V.
+Special Conditions of Contract ....................................................................................................42
+Table of Clauses
+
+Section VI.
+Schedule of Requirement                                                    49
+
+Section VII
+Technical Specifications                                                 51
+
+Section VIII.................................................................................................................................
+Sample Forms ....................................................................................................................54
+Bids Form & Price Schedule                                                     55,56
+Manufacturer’s Authorization Form............................................................................................57
+
+       Section I.
+
+
+
+
+Invitation for Bids
+
+Section II. Instructions to Bidders                                                           4
+
+
+       UNIVERSITY OF AGRICULTURE, FAISALABAD
+               (TENDER NOTICE No.15/2022)
+
+            Sealed tenders are invited from Income Tax and Sales Tax registered firms on
+
+the basis of Single Stage (two envelop procedure) for supply/installation/commissioning of
+
+Networking Equipment for UAF Community College, PARS and PARS Hostels, Near
+
+Airport Chowk, Faisalabad.
+
+ Date of Receiving and Opening  11.02.2022     Receiving Time     10:30 a.m.
+                                         Opening Time      11:00 a.m.
+                                           Bid Security     2% of the
+                                                               Estimated Cost
+                                         Tender Fee         Rs.500/-*
+                                                                       (Free, if Downloading)
+ * Link for free Downloading:http://uaf.edu.pk/directorates/dpiv/dpiv_tenders.html
+
+1.    The bidding documents are available in the office of the Treasurer (Tender Cell) and
+
+the same may be obtained subject to payment of the cost of the printing and provision of the
+
+document (tender Fee) as mentioned above to be deposited in the University Income Account
+
+(No.11-9/NBP, UAF Branch).
+
+2.     All the interested bidders will submit the bids in the Tender Cell, 1st Floor
+
+Admin. Block Treasurer's Office, University of Agriculture, Faisalabad (UAF) as per
+
+schedule mentioned above.
+
+                                     DIRECTOR (DPIC)
+                                              (For & On behalf of the Committee)
+                                                  Phone#041-9200898,9200161
+                                                   Extn.3503/3504/3505
+                                                                 E.Mail: dpic@uaf.edu.pk
+                                                         store_officer@uaf.edu.pk
+
+Section II. Instructions to Bidders                                                           5
+
+
+
+                     Section II.
+
+
+
+          Instructions to Bidders
+
+Section II. Instructions to Bidders                                                           6
+
+
+                          Table of Clauses
+
+A. Introduction ..................................................................................................................7
+        1.     Source of Funds ...........................................................................................7
+        2.      Eligible Bidders ...........................................................................................7
+        3.      Eligible Goods and Services ........................................................................7
+        4.     Cost of Bidding ............................................................................................7
+
+B. The Bidding Documents...............................................................................................8
+        5.     Content of Bidding Documents ...................................................................8
+        6.      Clarification of Bidding Documents ............................................................8
+        7.    Amendment of Bidding Documents ............................................................8
+
+C. Preparation of Bids ......................................................................................................9
+        8.     Language of Bid ...........................................................................................9
+        9.    Documents Constituting the Bid ..................................................................9
+       10.    Bid Form ......................................................................................................9
+       11.    Bid Prices ...................................................................................................10
+       12.    Bid Currencies ...........................................................................................12
+       13.   Documents Establishing Bidder’s Eligibility and Qualification ................12
+       14.   Documents Establishing Goods’ Eligibility and Conformity to Bidding
+            Documents .................................................................................................13
+       15.    Bid Security ...............................................................................................13
+       16.    Period of Validity of Bids ..........................................................................14
+       17.    Format and Signing of Bid .........................................................................14
+
+D. Submission of Bids .....................................................................................................15
+       18.    Sealing and Marking of Bids .....................................................................15
+       19.    Deadline for Submission of Bids ...............................................................15
+       20.    Late Bids ....................................................................................................15
+       21.    Modification and Withdrawal of Bids .......................................................15
+
+E. Opening and Evaluation of Bids ...............................................................................16
+       22.    Opening of Bids by the Purchaser .............................................................16
+       23.     Clarification of Bids ...................................................................................16
+       24.    Preliminary Examination ...........................................................................16
+       25.    Conversion to Single Currency ..................................................................18
+       26.    Evaluation and Comparison of Bids ..........................................................19
+       27.    Domestic Preference ..................................................................................21
+       28.    Contacting the Purchaser ...........................................................................21
+
+F. Award of Contract ......................................................................................................21
+       29.    Post-qualification .......................................................................................21
+       30.   Award Criteria ...........................................................................................22
+       31.    Purchaser’s Right to Vary Quantities at Time of Award ...........................22
+       32.    Purchaser’s Right to Accept Any Bid and to Reject Any or All Bids .......23
+       33.    Notification of Award ................................................................................23
+       34.    Signing of Contract ....................................................................................23
+       35.    Performance Security .................................................................................23
+       36.    Corrupt or Fraudulent Practices .................................................................23
+       37.    Blacklisting and deregistration…………………………………………...25
+
+Section II. Instructions to Bidders                                                           7
+
+
+                          Instructions to Bidders
+
+                          A. Introduction
+
+1.  Source of       University of Agriculture, Faisalabad.
+   Funds
+2.  Eligible        2.1  The invitation for Bids is opened to all supplier having trade
+   Bidders               relations  with  Pakistan and  registration  for  National Tax
+                   Number &Sales Tax Number with Federal Board of Revenue
+
+                    2.2  Bidders should not be associated, or have been associated in the
+                            past, directly or indirectly, with a firm or any of its affiliates
+                     which  have  been  engaged  by  the  Purchaser  to  provide
+                         consulting  services  for  the  preparation  of  the  design,
+                           specifications,  and  other  documents  to  be  used  for  the
+                       procurement of the goods to be purchased under this Invitation
+                           for Bids.
+
+                    2.3  Only Government owned enterprises may participate, only if
+                        they are legally allowed.
+
+                    2.4  bidders  shall not be under a declaration of  ineligibility in
+                       accordance   with  ITB  36.1&37  by  any  Government
+                          organization. The bidder shall provide affidavit to this effect.
+
+3.  Eligible        3.1  All goods and related services to be supplied under the contract
+   Goods and            shall have  their origin in eligible source countries, and  all
+   Services             expenditures made under the contract will be limited to such
+                      goods and services.
+
+                    3.2  For purposes of this clause, “origin” means the place where the
+                      goods are mined, grown, or produced, or the place from which
+                          the related services are supplied.  Goods are produced when,
+                        through manufacturing, processing, or substantial and major
+                      assembly of components, a commercially-recognized product
+                            results that is substantially different in basic characteristics or in
+                       purpose or utility from its components.
+
+                    3.3  The origin of goods and services is distinct from the nationality
+                         of the Bidder.
+
+4.  Cost of         4.1  The Bidder shall bear all costs associated with the preparation
+   Bidding            and submission of its bid, and the Purchaser named in the bid
+                         date sheet, hereinafter referred to as “the purchaser” will in no
+                        case be responsible or liable for those costs, regardless of the
+                       conduct or outcome of the bidding process.
+
+Section II. Instructions to Bidders                                                           8
+
+
+                      B. The Bidding Documents
+
+5.  Content of      5.1  The goods required, bidding procedures, and contract terms are
+   Bidding              prescribed  in  the bidding documents.   In  addition  to  the
+   Documents           Invitation for Bids, the bidding documents include:
+
+                             (a)   Instructions to Bidders (ITB)
+
+                           (b)  Bid Data Sheet
+                             (c)  General Conditions of Contract (GCC)
+                           (d)  Special Conditions of Contract (SCC)
+                             (e)  Schedule of Requirements
+                                (f)   Technical Specifications
+                           (g)  Bid Form and Price Schedules
+                           (h)  Manufacturer’s Authorization Form
+                                  (i)   Integrity pact.
+                                  (j)  Mechanism of Blacklisting and Deregistration
+                    5.2  The Bidder  is expected to examine  all instructions, forms,
+                          terms, and specifications in the bidding documents.  Failure to
+                          furnish all information required by the bidding documents or to
+                       submit  a  bid  not  substantially  responsive  to  the  bidding
+                      documents in every respect will be at the Bidder’s risk and may
+                             result in the rejection of its bid.
+
+6.  Clarification   6.1 A prospective Bidder requiring any clarification of the bidding
+    of Bidding          documents may  notify  the  Purchaser  in  writing  at  the
+   Documents          Purchaser’s address indicated in the Bid Data Sheet.  The
+                        Purchaser  will  respond  in  writing  to  any  request  for
+                             clarification of the bidding documents which it receives prior to
+                          the deadline for the submission of bids prescribed in ITB
+                       Clause  19.1.   Written copies of  the  Purchaser’s response
+                          (including an explanation of the query but without identifying
+                          the source of inquiry) will be sent to all prospective bidders that
+                       have received the bidding documents.
+
+7. Amendment    7.1  At any time prior to the deadline for submission of bids, the
+    of Bidding           Purchaser, for any reason, whether at its own initiative or in
+   Documents          response to a clarification requested by a prospective Bidder,
+                  may modify the bidding documents by amendment.
+
+                    7.2  All  prospective  bidders  that  have  received  the  bidding
+                      documents will be notified of the amendment in writing and
+                           will be binding on them.
+
+                    7.3  In order to allow prospective bidders reasonable time in which
+                           to take the amendment into account in preparing their bids, the
+                         Purchaser, at its discretion, may extend the deadline for the
+                        submission of bids.
+
+Section II. Instructions to Bidders                                                           9
+
+
+                       C. Preparation of Bids
+
+8. Language of    8.1  The bid prepared by the Bidder, as well as all correspondence
+   Bid                and documents relating to the bid exchanged by the Bidder and
+                          the Purchaser shall be written in English. Supporting documents
+                      and printed literature furnished by the Bidder may be in another
+                        language  provided  they  are  accompanied  by  an  accurate
+                            translation of the relevant passages in the language specified
+                        above, in which case, for purposes of interpretation of the Bid,
+                          the translation shall govern.
+
+9. Documents     9.1  The bid prepared by the Bidder shall comprise the following
+   Constituting        components:
+   the Bid
+                             (a)   a Bid Form and a Price Schedule completed in accordance
+                             with ITB Clauses 10, 11, and 12;
+
+                           (b)  documentary evidence established in accordance with ITB
+                            Clause 13 that the Bidder is eligible to bid and is qualified
+                                 to perform the contract if its bid is accepted;
+
+                             (c)  documentary evidence established in accordance with ITB
+                            Clause 14 that the goods and ancillary services to be
+                              supplied by the Bidder are eligible goods and services and
+                           conform to the bidding documents; and
+
+                           (d)   bid security furnished in accordance with ITB Clause 15.
+
+
+10. Bid Form      10.1 The Bidder shall complete the Bid Form and the appropriate
+                          Price Schedule furnished in the bidding documents, indicating
+                          the goods to be supplied, a brief description of the goods, their
+                        country of origin, quantity, and prices.
+
+                   10.2   Bidders tendering for engineering goods produced in Pakistan
+                              shall be accorded a price preference in rupees up to a specific
+                          percentage (in proportion to the value addition) of the lowest
+                         quoted landed cost of an item of foreign origin with similar
+                             specifications as mentioned in the tenders:
+
+                             (1)    Provided that-
+                                       (a)    The saving in foreign exchange is not less than
+                                          the amount of price preference: and
+                                     (b)       It  is  ensured  that  in  each  case  of  such
+                                           preference, the total import requirements for
+                                       producing the supplies tendered for locally
+                                       manufactured items has been duly indicated
+                                   by the bidders.
+
+                             (2)     Price preference shall be allowed as under:-
+
+                                       (a)    Having minimum  of  twenty  percent  value
+                                          addition  through  indigenous  manufacturing
+                                           price preference shall fifteen percent;
+
+                                     (b)    Having over twenty percent and up to thirty
+                                         percent  value  addition  through  indigenous
+                                        manufacturing,  price  preference   shall  be
+                                      twenty percent, and
+
+
+                                       (c)    Having  over  thirty  percent  value  addition
+                                       through   indigenous   manufacturing,   price
+                                         preference shall be twenty five percent.
+
+Section II. Instructions to Bidders                                                         10
+
+
+                         (3) For the purpose of granting a margin of domestic preference
+                           bids will be classified into following groups.
+
+                 Group.A. Bids offering engineering goods produced in  Pakistan.
+
+                 Group.B. Bids offering good of foreign origin to be imported by the
+                                      purchaser through the supplier’s Local (Pakistan)
+                                     Agent.
+
+                 Group.C. Bids offering good of foreign origin to be imported by the
+                                      purchaser directly.
+
+
+
+11. Bid Prices      11.1 The Bidder shall indicate on the appropriate Price Schedule the
+                           unit prices (where applicable) and total bid price of the goods it
+                        proposes to supply under the contract.
+
+                   11.2 Prices  indicated  on  the  Price  Schedule  shall  be  entered
+                          separately in the following manner or specified otherwise in the
+                      Bid Data Sheet:-
+
+                                 a). for goods offered from within Pakistan;
+
+                               the price shall be quoted on FOR  UAF basis. (FOR
+                         means the price of goods quoted by the bidder    shall be
+                                inclusive of all costs, expenses, charges, duties and taxes
+                                    etc. whatsoever incidental to  their delivery, installation
+                           and commissioning as the case may be at UAF site).
+
+                           b)      for  goods  offered from  abroad by  the LOCAL
+                   AGENT:
+
+                               the price shall be quoted Cost and Freight (CFR), Carriage
+                          Pad   to  (Duty   Paid)  (CPT)  Karachi   seaport   or
+                              Lahore/Faisalabad airport Pakistan, as the case may be.
+                         The bidder shall also add all cost expenses, charges, duties
+                           and taxes etc. whatsoever expect customs, incidental to
+                               delivery installation/commissioning of goods from the port
+                               of destination to UAF  site. The bidder, in quoting the
+                                  price, shall be free to use transportation in abroad except
+                                    transit and means of transport through/of Israel. The LC at
+                                   sight, as on Usance basis and Advance Payment will be
+                            governed as per following:-
+
+                               i.    LC AT SIGHT
+                      The bidder shall provide Performa Invoice of principal on
+               CPT/CFR basis as per supply order along with Insurance  / Cover
+                 Note and CDR within fortnight in favor of Director (DPIC) as
+                     security equal to 100% amount of the goods to initiate the LC at
+                       sight.
+
+                               ii.   LC ON USANCE BASIS
+                            In case the bidder, is unable to provide CDR in favor of
+                    Director (DPIC) as security equal to 100% amount of the goods to be
+                   imported, may chose this option and shall provide Performa Invoice
+                    of principal on CPT/CFR basis as per supply order along with
+                   Insurance / Cover Note within fortnight to initiate the LC on usance
+                     basis (minimum usance period 60 days from the date of Airway Bill
+           OR 90 days from the date of Bill of Lading).
+
+                               iii.   ADVANCE PAYMENT
+                      The bidder shall provide Performa Invoice of principal on
+               CPT/CFR basis as per supply order along with Insurance  / Cover
+                 Note and CDR within fortnight in favor of Director (DPIC) as
+
+Section II. Instructions to Bidders                                                         11
+
+
+                     security equal to 100% amount of the goods to be imported to
+                  proceed for advance payment to the exporter. However, this option
+                     will be had where the value of the goods to be imported is up to US $
+                  10,000 or varied in accordance with the instructions of the State Bank
+                    of Pakistan and Pakistan Customs issued from time to time and
+                    remittance will also be made accordingly.
+
+                        iv.   OPEN ACCOUNT
+                            In case the bidder has not opted for import through LC (at
+                     sight or Usance basis or advance payment) may opt this option and
+                      shall provide Performa Invoice of principal on CPT/CFR basis as per
+                   supply order within fortnight. However, remittance will be made
+              maximum up  to  six months from  the date of  filing of Goods
+                    Declaration (GD) form or otherwise as per Foreign Exchange Manual
+                    of State Bank of Pakistan and Pakistan Customs or instruction issued
+                     in this regard from time to time.
+
+                      v.   CONTRACT / COLLECTION
+                            In case the bidder has not opted the options referred to “i to
+                    iv” above and may opt for this option. The bidder shall provide
+                  Performa Invoice of principal on CPT/CFR basis as per supply order
+                  within fortnight. The minimum period for remittance will be 60
+                  days from the date of Airway Bill OR 90 days from the date of Bill
+                    of  Lading. However,  remittance  will be made  as  per Foreign
+                 Exchange Manual of State Bank of Pakistan and Pakistan Customs or
+                     instruction issued in this regard from time to time.
+
+
+                        vi.   INCIDENTAL CHARGES FOR IMPORT OF GOODS:
+                    All charges (Inside/outside Pakistan) like insurance, LC/bank and
+                    clearance of consignment from port/custom authorities will be borne
+                by the bidder.
+
+                         vii.   RELEASE OF CDR
+                    In case of LC at sight and advance payment to exporter, the CDR
+                   equal to 100% amount of the shipment as security will be released by
+                    Director (DPIC) after receiving of satisfactory inspection/installation/
+                  commissioning report from convener tender committee concerned.
+
+                          viii.  INITIATION OF REMITTANCE TO THE EXPORTER
+                    In case of LC on usance basis, import on Open Account and Contract
+                              /  Collection  basis,  the  Director (DPIC)  will  initiate  remittance
+                   through  the  concern bank  to  the  exporter  after  receiving  the
+                      satisfactory  inspection/installation/commissioning  report from  the
+                   purchaser or the convener tender committee as the case may be.
+
+             DELIVERY PERIOD
+                    After receiving the transmitted LC (at sight OR Usance Basis) OR
+                     swift acknowledgment against advance payment / proof of advance
+                 payment OR supply  order on “Open Account”  or  “Contract  /
+                    Collection”  basis,  the  local  supplier  is  responsible  to  provide
+                  complete  set  of  shipping  documents  [i.e. Airway  Bill/Seaway
+                       Bill/Bill of Lading, Commercial Invoice, Packing List, Country of
+                   Origin Certificate and any other document(s) related to shipment (if
+                    required) along with detail of bidder’s clearing agent for issuance of
+                     authority letter for clearance of consignment from port  / custom
+                      authorities] within 6 weeks from the date of opening of LC (at sight
+                   or usance basis), advance payment and date of supply order for
+                  import of goods on “Open Account” or “Contract  / Collection”
+                      basis. Moreover, after clearance of consignment by bidder from
+                    port  / custom  authorities,  will  deliver the consignment  to the
+                  purchaser along with complete set of post shipment documents
+
+Section II. Instructions to Bidders                                                         12
+
+
+                   within 05 days from the date of Authority Letter. After expiry of the
+                      requisite period, firm will require to apply for extension in delivery
+                     period. However, after due scrutiny the Committee may extend the
+                    delivery period with liquidated damages as per applicable rate if the
+                   delay is on part of the bidder or without liquidated damages if the
+                   delay  is on the  part of the procuring agency or due  to “force
+                   majeure”.
+
+             NOTE:
+                    In case of late submission of Proforma Invoice, shipping documents
+                 and delivery of goods, difference of exchange rate on higher side as
+                   well as liquidated damages shall be recovered out of belongings of
+                    the bidders @ 0.67% of the value of the goods up to maximum 10%
+                    of the value of goods.
+
+
+                   11.3 The terms CFR, CPT,  etc., shall be governed by the rules
+                          prescribed in the current edition of Incoterms published by the
+                           International  Chamber  of  Commerce,  Paris  or  otherwise
+                           specified in the Bid Data Sheet and SCC
+
+                   11.4 The Bidder’s separation of price components in accordance with
+                    ITB Clause 11.2 above will be solely for the purpose of facilitating
+                           the comparison of bids by the Purchaser and will not in any way
+                             limit the Purchaser’s right to contract on any of the terms offered.
+
+                   11.5 Prices quoted by the Bidder shall be fixed during the Bidder’s
+                        performance of the contract and not subject to variation on any
+                          account, unless otherwise specified in the Bid Data Sheet. A bid
+                         submitted with an adjustable price quotation will be treated as non-
+                          responsive and will be rejected, pursuant to ITB Clause 24.   If,
+                        however, in accordance with the Bid Data Sheet, prices quoted by
+                           the Bidder shall be subject to adjustment during the performance of
+                           the contract, a bid submitted with a fixed price quotation will not
+                       be rejected, but the price adjustment would be treated as zero.
+
+12. Bid            12.1 Prices shall be quoted in the following currencies:
+   Currencies
+                             (a)   For goods and services that the Bidder will supply from
+                              within the Purchaser Country, the prices shall be quoted in
+                          Pak Rupees, unless otherwise specified in the Bid Data
+                              Sheet.
+
+                           (b)  For goods and services that the Bidder will supply from
+                               outside the Purchaser Country, the prices shall be quoted in
+                           any currency. However the payment will only be made by
+                               the purchaser in pak rupees in case of ITB clause 11.2 (b)
+                           and SCC.
+
+13. Documents     13.1 Pursuant to ITB Clause 9, the Bidder shall furnish, as part of its
+   Establishing          bid, documents establishing the Bidder’s eligibility to bid and its
+   Bidder’s              qualifications to perform the contract if its bid is accepted.
+    Eligibility
+                   13.2 The documentary evidence of the Bidder’s eligibility to bid shall   and
+                           establish to the Purchaser’s satisfaction that the Bidder, at the   Qualification
+                        time of submission of its bid, is from an eligible country as
+                         defined under ITB Clause 2.
+
+                   13.3 The documentary evidence of the Bidder’s qualifications to
+                       perform the contract if its bid is accepted shall establish to the
+                         Purchaser’s satisfaction:
+
+                             (a)   that, in the case of a Bidder offering to supply goods under
+                               the contract which the Bidder did not manufacture or
+                              otherwise produce, the Bidder has been duly authorized by
+
+Section II. Instructions to Bidders                                                         13
+
+
+                               the goods’ Manufacturer or producer to supply the goods
+                                 in the Purchaser Country;
+
+                           (b)   that the Bidder has the financial, technical, and production
+                                capability necessary to perform the contract;
+
+                             (c)   that, in the case of a Bidder not doing business within the
+                             Purchaser Country, the Bidder is or will be (if awarded the
+                                 contract) represented by an Agent in that country equipped
+                           and able to carry out the Supplier’s maintenance, repair,
+                           and  spare  parts-stocking  obligations  prescribed  in  the
+                             Conditions of Contract and/or Technical Specifications;
+                           and
+
+                           (d)   that the Bidder meets the qualification criteria listed in the
+                          Bid Data Sheet.
+
+14. Documents     14.1 Pursuant to ITB Clause 9, the Bidder shall furnish, as part of its
+   Establishing          bid, documents establishing the eligibility and conformity to the
+   Goods’              bidding documents of all goods and services which the Bidder
+    Eligibility           proposes to supply under the contract.
+   and
+                   14.2 The documentary evidence of the eligibility of the goods and   Conformity
+                          services shall consist of a statement in the Price Schedule of the    to Bidding
+                        country of origin of the goods and services offered which shall   Documents
+                      be confirmed by a certificate of origin issued at the time of
+                        shipment.
+
+                   14.3 The documentary evidence of conformity of the goods and
+                          services  to the bidding documents may be  in the form of
+                              literature, drawings, and data, and shall consist of:
+
+                             (a)   a  detailed  description  of  the  essential  technical  and
+                            performance characteristics of the goods;
+
+                           (b)   a  list giving full particulars, including available sources
+                           and  current  prices  of  spare  parts,  special  tools,  etc.,
+                              necessary for the proper and continuing functioning of the
+                           goods for a period to be specified in the Bid Data Sheet,
+                              following commencement of the use of the goods by the
+                              Purchaser; and
+
+                             (c)   an item-by-item commentary on the Purchaser’s Technical
+                                Specifications demonstrating substantial responsiveness of
+                               the goods and  services  to  those  specifications,  or  a
+                              statement of deviations and exceptions to the provisions of
+                               the Technical Specifications.
+
+                   14.4 For purposes of the commentary to be furnished pursuant to ITB
+                       Clause 14.3(c) above, the Bidder shall note that standards for
+                      workmanship, material, and equipment, as well as references to
+                       brand names or catalogue numbers designated by the Purchaser
+                           in its Technical Specifications, are intended to be descriptive
+                        only and not restrictive. The Bidder may substitute alternative
+                          standards, brand names, and/or catalogue numbers in  its bid,
+                        provided that it demonstrates to the Purchaser’s satisfaction that
+                          the  substitutions  ensure  substantial  equivalence  to  those
+                         designated in the Technical Specifications.
+
+15. Bid Security   15.1 Pursuant to ITB Clause 9, the Bidder shall furnish, as part of its
+                            bid, a bid security @ 2% of the Estimated Cost or in the amount
+                           specified otherwise in the Bid Data Sheet.
+
+                   15.2 The bid security is required to protect the Purchaser against the
+                            risk of Bidder’s conduct which would warrant the security’s
+
+Section II. Instructions to Bidders                                                         14
+
+
+                             forfeiture, pursuant to ITB Clause 15.7.
+
+                   15.3 The bid security shall be denominated in the currency of the bid
+                         or in another freely convertible currency, and shall be in one of
+                          the following forms:
+
+                             (a)   Call deposit receipt (CDR).
+
+                   15.4 Any bid not secured in accordance with ITB Clauses 15.1 and
+                        15.3  will be  rejected by  the  Purchaser  as  nonresponsive,
+                         pursuant to ITB Clause 24.
+
+                   15.5 Unsuccessful  bidders’  bid  securities  will be  discharged  or
+                          returned as promptly as possible but not later than thirty (30)
+                       days after the expiration of the period of bid validity prescribed
+                     by the Purchaser pursuant to ITB Clause 16.
+
+                   15.6 The successful Bidder’s bid security will be discharged upon the
+                       Bidder signing the contract, pursuant to ITB Clause 34, and
+                          furnishing the performance security, pursuant to ITB Clause 35.
+
+                   15.7 The bid security may be forfeited:
+
+                             (a)    if a Bidder:
+
+                                         (i)   withdraws its bid during the period of bid validity
+                                      specified by the Bidder on the Bid Form, or
+
+                                          (ii)  does not accept the correction of errors pursuant to
+                            ITB Clause 24.2; or
+
+                           (b)   in the case of a successful Bidder, if the Bidder fails:
+
+                                         (i)   to sign the contract in accordance with ITB Clause
+                                   34; or
+
+                                          (ii)   to furnish performance security in accordance with
+                            ITB Clause 35.
+
+16. Period of       16.1 Bids shall remain valid for the period specified in the Bid Data
+   Validity of          Sheet after the deadline date of bid submission prescribed by the
+   Bids                 Purchaser, pursuant to ITB Clause 19. A bid valid for a shorter
+                         period shall be rejected by the Purchaser as nonresponsive.
+
+                   16.2 In exceptional circumstances, the Purchaser may  solicit the
+                         Bidder’s consent to an extension of the period of validity. The
+                          request and the responses thereto shall be made in writing. The
+                         bid security provided under ITB Clause 15 shall also be suitably
+                         extended. A Bidder may refuse the request without forfeiting its
+                         bid security. A Bidder granting the request will not be required
+                        nor permitted to modify its bid.
+
+
+
+17. Format and    17.1 The Bidder shall prepare an original bid indicated in the Bid
+   Signing of         Data Sheet, clearly marking each “TECHNICAL BID” and
+   Bid             “FINANCIAL BID,” as  appropriate.   In  the event of any
+                        discrepancy between them, the original shall govern.
+
+                   17.2 The original bid shall be typed and signed by the Bidder or a
+                        person or persons duly authorized to bind the Bidder to the
+                            contract.  All pages of the bid, except for unamended printed
+                              literature, shall be initialed by the person or persons signing the
+                            bid.
+
+Section II. Instructions to Bidders                                                         15
+
+
+                   17.3 Any interlineations, erasures, or overwriting shall be valid only
+                                   if they are initialed by the person or persons signing the bid.
+
+                   17.4 The Bidder shall furnish information as described in the Form of
+                      Bid on commissions or gratuities, if any, paid or to be paid to
+                         agents relating to this Bid, and to contract execution  if the
+                       Bidder is awarded the contract.
+
+
+                       D. Submission of Bids
+
+18. Sealing and    18.1 The Bidder  shall  seal the Technical and Financial Bid  in
+   Marking of          separate   envelopes,   duly  marking   the   envelopes   as
+   Bids            “TECHNICAL” and “FINANCIAL.” The envelopes shall then
+                      be sealed in an outer envelope.
+
+                   18.2 The inner and outer envelopes shall:
+
+                             (a)  be addressed to the Purchaser at the address given in the
+                          Bid Data Sheet; and
+
+                           (b)   bear the Project name indicated in the Bid Data Sheet, the
+                                 Invitation for Bids (IFB) title and number indicated in the
+                           Bid Data Sheet, and a statement:  “DO NOT OPEN
+                       BEFORE,” to be completed with the time and the date
+                                specified in the Bid Data Sheet, pursuant to ITB Clause
+                                22.1.
+
+                   18.3 The inner envelopes shall also indicate the name and address of
+                          the Bidder to enable the bid to be returned unopened in case it
+                                is declared “late.”
+
+                   18.4  If the outer envelope is not sealed and marked as required by
+                    ITB Clause 18.2, the Purchaser will assume no responsibility
+                           for the bid’s misplacement or premature opening.
+
+19. Deadline for   19.1 Bids must be received by the Purchaser at the address specified
+   Submission         under ITB Clause 18.2 (a) not later than the time and date
+    of Bids               specified in the Bid Data Sheet.
+
+                   19.2 The Purchaser may, at its discretion, extend this deadline for the
+                        submission  of  bids by amending  the bidding documents  in
+                        accordance with ITB Clause 7, in which case  all rights and
+                           obligations of the Purchaser and bidders previously subject to the
+                          deadline will thereafter be subject to the deadline as extended.
+
+20. Late Bids      20.1 Any bid received by the Purchaser  after the deadline  for
+                        submission of bids prescribed by the Purchaser pursuant to ITB
+                       Clause 19 will be rejected and returned unopened to the Bidder.
+
+21. Modification   21.1 The Bidder may modify or withdraw  its bid  after the bid’s
+   and                  submission, provided  that written notice of the modification,
+   Withdrawal          including substitution or withdrawal of the bids, is received by the
+    of Bids              Purchaser prior to the deadline prescribed for submission of bids.
+
+                   21.2 The  Bidder’s  modification  or  withdrawal  notice  shall be
+                          prepared, sealed, marked, and dispatched in accordance with
+                          the provisions of ITB Clause 18. A withdrawal notice may also
+                      be sent by fax, but followed by a signed confirmation copy,
+                       postmarked not later than the deadline for submission of bids.
+
+                   21.3 No bid may be modified after the deadline for submission of
+                            bids.
+
+                   21.4 No bid may be withdrawn in the interval between the deadline
+                     for submission of bids and the expiration of the period of bid validity
+
+Section II. Instructions to Bidders                                                         16
+
+
+                     specified by the Bidder on the Bid Form. Withdrawal of a bid during
+                       this interval may result in the Bidder’s forfeiture of its bid security,
+                   pursuant to the ITB Clause 15.7.
+
+
+                   E. Opening and Evaluation of Bids
+
+22. Opening of     22.1 The Purchaser will open all bids in the presence of bidders’
+   Bids by the           representatives who choose to attend, at the time, on the date,
+   Purchaser          and at the place specified in the Bid Data Sheet. The bidders’
+                          representatives who are present shall sign a register evidencing
+                             their attendance.
+
+                   22.2 The bidders’ names, bid modifications or withdrawals, bid
+                            prices, discounts, and the presence or absence of requisite bid
+                           security and  such  other  details  as  the  Purchaser,  at  its
+                            discretion, may consider appropriate, will be announced at the
+                        opening. No bid shall be rejected at bid opening, except for
+                             late bids, which  shall be returned unopened to the Bidder
+                         pursuant to ITB Clause 20.
+
+                   22.3 Bids (and modifications sent pursuant to ITB Clause 21.2) that
+                          are not opened and read out  at bid opening  shall not be
+                        considered   further   for   evaluation,   irrespective   of   the
+                         circumstances.
+
+                   22.4 The Purchaser will prepare minutes of the bid opening.
+
+23. Clarification   23.1 During  evaluation  of  the  bids,  the Purchaser may,  at  its
+    of Bids                discretion, ask the Bidder for a clarification of its bid.  The
+                          request for clarification and the response shall be in writing,
+                      and no change in the prices or substance of the bid shall be
+                         sought, offered, or permitted.
+
+24. Preliminary    24.1 The Purchaser will examine the bids to determine whether they
+   Examination         are complete, whether any computational errors have been
+                      made, whether required sureties have been furnished, whether
+                          the documents have been properly signed, and whether the bids
+                          are generally in order.
+
+                   24.2 Arithmetical errors will be rectified on the following basis.  If
+                           there is a discrepancy between the unit price and the total price
+                            that is obtained by multiplying the unit price and quantity, the
+                           unit price shall prevail, and the total price shall be corrected. If
+                           there is a discrepancy between words and figures, the amount in
+                      words  will  prevail.    If  the  Supplier does  not  accept  the
+                          correction of the errors,  its bid will be rejected, and its bid
+                           security may be forfeited.
+
+                   24.3 The   Purchaser  may   waive   any   minor   informality,
+                        nonconformity,  or  irregularity  in  a  bid  which  does  not
+                           constitute a material deviation, provided such waiver does not
+                          prejudice or affect the relative ranking of any Bidder.
+
+                   24.4 Prior to the detailed evaluation, pursuant to ITB Clause 26, the
+                        Purchaser will determine the substantial responsiveness of each
+                         bid to the bidding documents. For purposes of these Clauses, a
+                           substantially responsive bid is one which conforms to all the
+                        terms and conditions of the bidding documents without material
+                           deviations.  Deviations from, or objections or reservations to
+                               critical provisions, such as those concerning Bid Security (ITB
+                       Clause 15), Applicable Law (GCC Clause 31), and Taxes and
+                        Duties (GCC Clause 33), will be deemed to be a material
+
+Section II. Instructions to Bidders                                                         17
+
+
+                           deviation.  The   Purchaser’s   determination   of  a   bid’s
+                         responsiveness is to be based on the contents of the bid itself
+                        without recourse to extrinsic evidence.
+
+                   24.5  If a bid is not substantially responsive, it will be rejected by the
+                        Purchaser and may not subsequently be made responsive by the
+                       Bidder by correction of the nonconformity.
+
+Section II. Instructions to Bidders                                                         18
+
+
+25. Conversion    25.1 To  facilitate evaluation and comparison, the Purchaser  will
+    to Single             convert  all bid prices expressed  in the amounts  in various
+   Currency            currencies in which the bid prices are payable to either:
+
+                             (a)   Purchaser Country at the selling exchange rate established
+                                  for similar transactions by the State Bank of Pakistan and
+                               National Bank of Pakistan or specified otherwise;
+
+                        25.2 The currency  selected  for  converting  bid  prices  to a
+                      common base for the purpose of evaluation is Pak Rupees
+                                 to be converted as per rate of the bank shown in ITB 25.1
+                                   (a) on the date of opening of the financial bid or specified
+                              otherwise in the Bid Data Sheet.
+
+Section II. Instructions to Bidders                                                         19
+
+
+26. Evaluation     26.1 The Purchaser will evaluate and compare the bids which have
+   and                been determined to be substantially responsive, pursuant to ITB
+   Comparison        Clause 24.
+    of Bids
+                   26.2 The Purchaser’s evaluation of a bid will take into account, in
+                          addition to the bid price quoted in accordance with ITB Clause
+                          11.2, one or more of the following factors as specified in the Bid
+                     Data Sheet, and quantified in ITB Clause 26.3:
+
+                             (a)   delivery schedule offered in the bid;
+
+                           (b)   deviations in payment schedule from that specified in the
+                               Special Conditions of Contract;
+
+                             (c)   the  cost  of  components, mandatory  spare  parts, and
+                                 service;
+
+                           (d)   the availability in the Purchaser’s country of spare parts
+                           and after-sales services for the equipment offered in the
+                                 bid;
+
+                             (e)   the projected operating and maintenance costs during the
+                                      life of the equipment;
+
+                                (f)   the  performance  and  productivity  of  the  equipment
+                                offered; and/or
+
+                           (g)   other specific criteria indicated in the Bid Data Sheet
+                              and/or in the Technical Specifications.
+
+                   26.3 For factors retained in the Bid Data Sheet pursuant to ITB 26.2,
+                      one or more of the following quantification methods will be
+                           applied, as detailed in the Bid Data Sheet:
+
+                             (a)   Delivery schedule.
+
+                                         (i)   The goods covered under this invitation are required
+                                       to be delivered (shipped) within an acceptable range
+                                    of weeks specified in the Schedule of Requirement.
+                         No credit will be given to earlier deliveries, and bids
+                                     offering delivery beyond this range will be treated as
+                                   nonresponsive.   Within  this acceptable range, an
+                                  adjustment per week, as specified in the Bid Data
+                                   Sheet, will be added for evaluation to the bid price of
+                                    bids offering deliveries later than the earliest delivery
+                                   period specified in the Schedule of Requirements.
+
+                            (b)  Deviation in payment schedule.
+
+                                          (i)  The SCC stipulates the payment schedule offered by
+                                     the Purchaser.  If a bid deviates from the schedule it
+                                       will be considered as non-responsive bid.
+
+                             (c)  Cost of spare parts.
+
+                                         (i)   The list of items and quantities of major assemblies,
+                                 components, and selected spare parts, likely to be
+                                    required during the initial period of operation shall be
+                                      specified by the bidder. The total cost of these items,
+                                          at the unit prices quoted in each bid, will be added to
+                                     the bid price.
+
+                           or
+
+                                          (ii)  The bidder will draw up a  list of high-usage and
+                                   high-value items of components and spare  parts,
+                                  along with estimated quantities of usage in the initial
+
+Section II. Instructions to Bidders                                                         20
+
+
+                                   period of operation. The total cost of these items and
+                                       quantities will be computed from spare parts unit
+                                      prices submitted by the Bidder and added to the bid
+                                        price.
+
+                           (d)  Spare  parts and  after  sales  service  facilities  in  the
+                             Purchaser’s country.
+
+                         The cost to the Purchaser of establishing the minimum
+                                service facilities and parts inventories, if outlined in the
+                          Bid Data Sheet or elsewhere in the bidding documents, if
+                            quoted separately, shall be added to the bid price.
+
+                             (e)   Operating and maintenance costs.
+
+                             Since the operating and maintenance costs of the goods
+                            under procurement form a major part of the life cycle cost
+                               of  the  equipment,  these  costs  will  be  evaluated  in
+                             accordance with the  criteria specified in the Bid Data
+                            Sheet or in the Technical Specifications.
+
+                                (f)   Performance and productivity of the equipment.
+
+                                          (i)  Goods offered shall have a minimum productivity
+                                      specified  under  the  relevant  provision  in  the
+                                   Technical Specifications to be considered responsive.
+                                   Evaluation shall be based on the cost per unit of the
+                                      actual productivity of goods offered in the bid or
+                                   otherwise specified in the Bid Data Sheet or in the
+                                   Technical Specifications.
+
+
+
+
+
+                           (g)   Specific additional criteria
+
+                            Other specific additional criteria to be considered in the
+                               evaluation and the evaluation method shall be detailed in
+                               the Bid Data Sheet and/or the Technical Specifications.
+
+                     26.4. Delivery Schedule.
+
+                   As mentioned in Bid Data Sheet.
+
+Section II. Instructions to Bidders                                                         21
+
+
+
+
+27. Domestic       27.1  If the Bid Data Sheet so specifies, the Purchaser will grant a
+Preference             margin of preference to goods manufactured in the Purchaser’s
+                        country for the purpose of bid comparison, in accordance with
+                          the procedures outlined in subsequent paragraphs, provided the
+                       Bidder shall have established to the satisfaction of the Purchaser
+                            that its bid complies with the criteria specified in ITB Clause
+                        10.2 (a):
+
+                   27.2 The  Purchaser  will  first  review  the  bids  to  confirm  the
+                         appropriateness of, and to modify as necessary, the bid group
+                            classification to which bidders assigned their bids in preparing
+                             their Bid Forms and Price Schedules, pursuant to ITB Clauses
+                     10 and 11.
+
+                   27.3 All evaluated bids in each group will then be compared among
+                        themselves to determine the lowest evaluated bid of each group.
+                    The lowest evaluated bid of each group will next be compared
+                        with the lowest evaluated bids of the other groups.   If this
+                       comparison results in a bid from Group A or Group B being the
+                          lowest, it will be selected for contract award.
+
+                   27.4  If, as a result of the preceding comparison, the lowest evaluated
+                         bid is from Group C, all Group C bids will then be further
+                      compared with the lowest evaluated bid from Group A, after
+                       adding to the evaluated bid price of the imported goods offered
+                           in each Group C bid, for the purpose of this further comparison
+                          only:
+
+                             (a)   the amount of customs duties and other import taxes that a
+                          nonexempt importer would have to pay for the importation
+                               of goods offered in each Group C bid;
+
+                                If the Group A bid in the further comparison is the lowest, it will
+                      be selected for award.   If not, the lowest evaluated bid from
+                     Group C, as determined from the comparison under ITB Clause
+                        27.3 above, will be selected for award.
+
+28. Contacting     28.1 From the time of bid opening to the time of contract award, if
+   the                any bidder wishes to contact the Purchaser on any matter related
+   Purchaser            to the bid, it should do so in writing.
+
+                   28.2 Any effort by a Bidder to influence the Purchaser in its decisions
+                     on bid evaluation, bid comparison, or contract award may result
+                           in the rejection of the Bidder’s bid.
+
+
+
+
+
+                          F. Award of Contract
+
+29. Post-           29.1 In the absence of prequalification, the Purchaser will determine
+    qualification          to its satisfaction whether the Bidder that is selected as having
+                        submitted the lowest evaluated responsive bid is qualified to
+                       perform the  contract  satisfactorily,  in accordance with  the
+                              criteria listed in ITB Clause 13.3.
+
+                   29.2 The determination will take into account the Bidder’s financial,
+                            technical, and production capabilities.  It will be based upon an
+                        examination of  the documentary evidence of  the Bidder’s
+                           qualifications submitted by the Bidder, pursuant to ITB Clause
+
+Section II. Instructions to Bidders                                                         22
+
+
+                           13.3, as well as such other information as the Purchaser deems
+                        necessary and appropriate.
+
+                   29.3 An affirmative determination will be a prerequisite for award of
+                          the contract to the Bidder. A negative determination will result
+                           in rejection of the Bidder’s bid, in which event the Purchaser
+                           will proceed to the next lowest evaluated bid to make a similar
+                         determination  of   that  Bidder’s   capabilities  to  perform
+                             satisfactorily.
+
+30. Award         30.1 Subject to ITB Clause 32, the Purchaser will award the contract
+   Criteria         to the successful Bidder whose bid has been determined to be
+                     substantially responsive and has been determined to be the lowest
+                    evaluated bid, provided further that the Bidder is determined to be
+                     qualified to perform the contract satisfactorily.
+
+31. Purchaser’s    31.1 The Purchaser reserves the right at the time of contract award to
+   Right to Vary        increase or decrease, as per requirement, the quantity of goods
+   Quantities at       and  services   originally  specified   in  the  Schedule  of
+   Time of             Requirements without any change in unit price or other terms
+   Award             and conditions.
+
+Section II. Instructions to Bidders                                                         23
+
+
+32. Purchaser’s    32.1 The Purchaser reserves the right to accept bid and to annul the
+   Right to             bidding process and reject all bids at any time prior to contract
+   Accept Bid          award, without thereby incurring any liability to the affected
+   and to Reject        Bidder or bidders.
+    All Bids
+
+33. Notification    33.1 Prior  to  the  expiration  of  the period  of bid  validity,  the
+    of Award            Purchaser will notify/inform the successful and unsuccessful
+                       Bidder in writing by letter or by Fax/ e-mail, or telephonically,
+                            that its bid has been accepted and unaccepted as the case may
+                          by.
+
+                   33.2 The notification of award will constitute the formation of the
+                          Contract.
+
+                   33.3 Upon the successful Bidder’s  furnishing of the performance
+                            security pursuant to ITB Clause 35, the Purchaser will discharge
+                          bid security to each unsuccessful Bidder on his written request,
+                          pursuant to ITB Clause 15.
+
+                   33.4  If, after notification of award, a Bidder wishes to ascertain the
+                       grounds on which its bid was not selected, it should address its
+                          request to the Purchaser. The Purchaser will promptly respond
+                           in writing to the unsuccessful Bidder.
+
+34. Signing of      34.1 After 10 days from the announcement of evaluation report, the
+   Contract            Purchaser will send supply order or Formal Contract as the case
+                  may be to successful bidder. In case of formal contract, the
+                          successful bidder will send back the contract to the purchaser
+                        duly signed within 7 days from the issuance date. Failing which
+                          the Purchaser reserves the right under ITB Clause 15.7.
+
+35. Performance   35.1 Within Seven (07) days from the issuance of acceptance letter
+   Security            from  the  Purchaser,  the  successful Bidder  shall  furnish  the
+                        performance security in shape of any bank instrument as desired
+                            in Page # 1 of Bidding Document. In case the amount of bid
+                            security is equal or greater than the value of the goods to be
+                          supplied  then  the  bidder  shall  not  require  furnishing  the
+                        performance security separately and the bid security will be
+                           retained to meet the requirement of performance security.
+
+                   35.2 Failure of the successful Bidder to comply with the requirement
+                         of ITB Clause 35.1 shall constitute sufficient grounds for the
+                       annulment of the award and forfeiture of the bid security, in
+                      which event the Purchaser may make the award to the next
+                        lowest evaluated Bidder or call for new bids.
+
+36. Corrupt or     36.1 The purchaser as well as Bidders/Suppliers/Contractors should
+   Fraudulent          observe the highest standard of ethics during the procurement
+   Practices           and execution of such contracts.  In pursuance of this policy,
+                          the PPRA Govt. of the Punjab;
+
+                             (a)   the terms set forth below as follows:
+
+                                         (i)   “corrupt  practice”  means  the  offering,  giving,
+                                    receiving  or  soliciting  of  anything  of  value  to
+                                     influence  the  action  of a  public  official  in  the
+                                 procurement process or in contract execution; and
+
+                                          (ii)  “fraudulent practice” means a misrepresentation of
+                                        facts in order to influence a procurement process or
+                                     the execution of a contract to the detriment of the
+                                    Purchaser, and includes collusive practice among
+                                  Bidders (prior to or after bid submission) designed
+                                       to establish bid prices at artificial non-competitive
+
+Section II. Instructions to Bidders                                                         24
+
+
+                                       levels and to deprive the Purchaser of the benefits of
+                                       free and open competition;
+
+                           (b)  The purchaser  will  reject a proposal  for award  if  it
+                             determines that the Bidder recommended for award has
+                           engaged in corrupt or fraudulent practices in competing
+                                 for the contract in question;
+
+                             (c)  The  Purchaser  will  declare  a  firm  ineligible,  either
+                                 indefinitely or for a stated period of time, to be awarded a
+                              University Contract if it at any time determines that the
+                              firm has engaged in corrupt or fraudulent practices in
+                           competing for, or in executing, a University Contract.
+
+                   36.2 Furthermore, Bidders shall be aware of the provision stated in
+                        Clauses 5.4 and 24.1 of the General Conditions of Contract.
+
+
+37.Blacklisting/37.1 the Purchaser reserves the right to blacklist or deregister (may
+Deregistration      impose Permanent or temporary bar for participation in
+                         the procurement proceedings respectively) the bidder as
+                          follows:-
+
+                                 (a) Blacklisting: The bidder who
+
+                                           (i) Fail to perform contractual obligations or the
+                                 performance under the contract is not upto the mark;
+                                            (ii) Found to be indulging in corrupt or fraudulent
+                                       practices;
+                               (iii)Commit an action causing or liable to cause loss to the
+                                     University;
+                                     (iv) Furnish false information;
+                               (b) Deregistration: The bidder who
+
+                                           (i)    Submit bid as employee of the firm, or proprietor or
+                                       shareholder being an employee of the University:
+                                            (ii)   Show non-responsive attitude in case of summoning
+                                 by the University.
+                                             (iii)   Back out from their offers after opening of tender;
+                                     (iv)   Misbehave with the University employee;
+
+
+37.2        The bidder shall provide affidavit that the firm was not
+              declared blacklisted or deregistered by any of the Federal
+            and Provincial Government institution.
+
+    Section III.
+
+
+
+Bid Data Sheet
+
+Section IV. General Conditions of Contract                                                  26
+
+
+                           Bid Data Sheet
+
+The following specific data for the goods to be procured shall complement, supplement,
+or amend the provisions in the Instructions to Bidders (ITB).  Whenever there is a
+conflict, the provisions herein shall prevail over those in ITB.
+
+
+                           A-Introduction
+ ITB 2.1          The invitation for Bids is opened to all suppliers having registration
+                      for National Tax Number & Sales Tax Number with Federal Board
+                     of Revenue.
+ ITB2.3          Government owned enterprises may participate, only if they are
+                      legally allowed.
+ ITB 2.4            In addition to the contents of ITB 2.4 the bidder shall not be
+                      blacklisted by any organization of the Government of the Punjab as
+                    well as Federal Government. The bidder shall provide affidavit to
+                        this effect.
+                     B- Bidding Documents
+ ITB 5.1(h)        Not applicable
+ ITB 6.1            Purchaser’s   address:   Principal,  UAF-Community   College
+            THROUGH
+                     Directorate of Procurement & Inventory Control (DPIC)
+                     University of Agriculture, Faisalabad
+                 Phone No. 041-9200898
+
+            FOR TECHNICAL RESPONSE:
+                           1.  Principal, UAF Community College
+                           2.  Principal, ITRCDB
+                             3.  Executive Engineer (ECD-M)
+                             4.  Incharge, ITRCDB
+
+                       C-Preparation of Bid
+ ITB 8.1          Language of the bid.    “English”
+ ITB 11.2           Prices on F.O.R. basis is required
+ ITB 11.2 (c)      Not applicable
+ ITB 11.3
+ ITB 13.3 (d)         Qualification requirements attached with Technical Bid:-
+                              1. Company /Bidder Profile:
+
+                                     a.    Name of owner/proprietor
+                                  b.     Copy of CNIC
+                                     c.     Date of Establishment, Age of Firm
+                                  d.     Copy of NTN and Sales Tax Registration
+                                     e.      Valid Copy of Professional Tax
+                                           f.       Affidavit (Submission of undertaking on legal valid
+                                  stamp paper (valuing Rs.100/-) that the firm not
+                                         blacklisted by any of Provincial or Federal Government
+                                   Department, Agency, Organization or autonomous body
+                                      or private Sector Organization anywhere in Pakistan
+
+Section IV. General Conditions of Contract                                                  27
+
+
+ ITB 15.1          Amount of bid security.
+              2% of the Estimated Cost in shape of Call Deposit Receipt (CDR) in
+                      favour of Director (DPIC), UAF to be attached with the technical Bid.
+                   However, if attached with financial bid, please mention CDR No., Date
+                    and Bank Name
+ ITB 16.1           Bid validity period. 90 Days
+ ITB 17.1            Bid: Single Stage (two envelop procedure)
+                               D-Submission of Bid
+ ITB 18.2 (a)        Address for bid submission. Tender Cell, Treasurer’s Office, University
+                       of Agriculture, Faisalabad
+ ITB 18.2 (b)        Tender Notice No.15/2022
+ ITB 19.1            Deadline for bid submission: 11.02.2022
+                                E-Bid Evaluation
+ ITB 25.1(a)          State Bank or a Commercial Bank to be read as State Bank of Pakistan
+                    and National Bank of Pakistan
+ ITB 25.2          The common base currency is PAK Rupee to be converted as per rate of
+                       the bank shown in ITB 25.1(a) of the bid data sheet on the date of
+                     opening of the financial bid.
+ ITB 26.3 (a)(i)     The SCC stipulates the payment schedule offered by the purchaser. If a
+                      bid deviates from the schedule then  it  will be considered as non-
+                       responsive.
+ ITB 26.3 (c)       The bidder will provide the cost of spare parts required to be replaced
+                      during whole life of the goods after the expiry of warranty period.
+ ITB 26.3 (e)       The bidder will provide :-
+                                 i)      Cost of consumables                 N/A
+                                  ii)     Unit of energy consumption per hour     N/A
+                                   iii)     Life cycle of the goods               N/A
+ ITB 26.3 (f)         Performance and productivity of Articles.
+                 As per Technical Specification
+ ITB 26.3 (g)       As per specification.
+ ITB 27           As per ITB clause 10.2 prior to the award of procurement contract
+ ITB 33              Subject to PPRA Rule 2014/UAF Procurement Rule 2014, the bidder
+                     with the lowest evaluated bid, if not in conflict with any other law, shall
+                    be awarded the procurement contract within the original or extended bid
+                         validity period after 10 days of announcement of the evaluation report.
+
+Section IV. General Conditions of Contract                                                  28
+
+
+
+               Section IV.
+
+
+
+
+
+      General Conditions of Contract
+
+Section IV. General Conditions of Contract                                                  29
+
+
+Table of Clauses
+
+        1.        Definitions..................................................................................................30
+        2.     Application .................................................................................................31
+        3.     Country of Origin .......................................................................................31
+        4.     Standards ....................................................................................................31
+        5.    Use of Contract Documents and Information; Inspection and Audit by
+              Purchaser ....................................................................................................31
+        6.     Patent Rights ..............................................................................................32
+        7.     Performance Security .................................................................................32
+        8.     Inspections and Tests .................................................................................32
+        9.     Packing .......................................................................................................33
+       10.    Delivery and Documents............................................................................33
+       11.    Insurance ....................................................................................................34
+       12.    Transpor-tation ...........................................................................................34
+       13.    Incidental Services .....................................................................................35
+       14.    Spare Parts .................................................................................................35
+       15.    Warranty ....................................................................................................35
+       16.      Payment......................................................................................................36
+       17.    Prices ..........................................................................................................37
+       18.   Change Orders ...........................................................................................37
+       19.    Contract Amendments ...............................................................................37
+       20.    Assignment ................................................................................................37
+       21.    Subcontracts ...............................................................................................37
+       22.    Delays in the Supplier’s Performance........................................................38
+       23.    Liquidated Damages ..................................................................................38
+       24.    Termination for Default .............................................................................38
+       25.    Force Majeure ............................................................................................39
+       26.    Termination for Insolvency ........................................................................39
+       27.    Termination for Convenience ....................................................................40
+       28.    Settlement of Disputes ...............................................................................40
+       29.    Limitation of Liability................................................................................41
+       30.    Governing Language ..................................................................................41
+       31.    Applicable Law ..........................................................................................41
+       32.    Notices .......................................................................................................41
+       33.    Taxes and Duties ........................................................................................41
+
+Section IV. General Conditions of Contract                                                  30
+
+
+                  General Conditions of Contract
+
+1.  Definitions       1.1  In this Contract, the following terms shall be interpreted as
+                             indicated:
+
+                               (a)  “The  Contract” means  the  agreement  entered  into
+                            between the Purchaser and the Supplier, as recorded in
+                                 the Contract Form signed by the parties, or the supply
+                                order issued by the purchaser to the supplier, as the case
+                       may  be,  including  all  attachments  and  appendices
+                                  thereto and  all documents incorporated by reference
+                                    therein.
+
+                             (b)  “The Contract Price” means the price payable to the
+                                Supplier under the Contract for the  full and proper
+                             performance of its contractual obligations.
+
+                               (c)  “The Goods” means all of the equipment, machinery,
+                                and/or other materials which the Supplier is required to
+                              supply to the Purchaser under the Contract.
+
+                             (d)  “The Services” means those services ancillary to the
+                              supply  of  the  Goods,  such  as  transportation  and
+                                 insurance, and any other incidental services, such as
+                                     installation,  commissioning,  provision  of  technical
+                                   assistance, training, and other such obligations of the
+                                Supplier covered under the Contract.
+
+                               (e)  “GCC” means  the  General  Conditions  of  Contract
+                               contained in this section.
+
+                                  (f)  “SCC” means the Special Conditions of Contract.
+
+                             (g)  “The Purchaser” means the organization purchasing the
+                            Goods, as mentioned in Bid Data Sheet.
+
+                             (h)  “The Purchaser’s country” is Pakistan.
+
+                                    (i)   “The Supplier” means the individual or firm supplying
+                                 the Goods and Services under this Contract and named
+                                in Supply Order.
+
+                                    (j)   “The University” means the University of Agriculture,
+                              Faisalabad.
+
+                             (k)  “The Project Site,” where applicable, means the place or
+                                 places named  in Bid Data  Sheet and  technical
+                                 specifications
+
+                                    (l)   “Day” means calendar day.
+
+Section IV. General Conditions of Contract                                                  31
+
+
+2.  Application      2.1  These General Conditions shall apply to the extent that they
+                            are  not superseded by  provisions  of  other  parts  of  the
+                           Contract.
+
+3. Country of       3.1  All Goods and Services supplied under the Contract shall
+   Origin               have  their  origin  in  the  countries  as  elaborated  in  the
+                         Technical Specifications.
+
+                      3.2  For purposes of this Clause, “origin” means the place where
+                            the Goods were mined, grown, or produced, or from which
+                            the Services are supplied. Goods are produced when, through
+                          manufacturing, processing, or substantial and major assembly
+                           of components,  a commercially recognized new  product
+                              results that is substantially different in basic characteristics or
+                             in purpose or utility from its components.
+
+                      3.3  The  origin  of Goods and  Services  is  distinct from  the
+                             nationality of the Supplier.
+
+4.  Standards       4.1  The Goods supplied under this Contract shall conform to the
+                           standards mentioned in the Technical Specifications, and,
+                     when no applicable standard is mentioned, to the authoritative
+                           standards appropriate to the Goods’ country of origin. Such
+                           standards  shall  be  the  latest  issued  by  the  concerned
+                               institution.
+
+5. Use of            5.1  The Supplier shall not, without the Purchaser’s prior written
+   Contract              consent, disclose the Contract, or any provision thereof, or
+   Documents          any  specification,  plan,  drawing,   pattern,  sample,  or
+   and                   information furnished by or on behalf of the Purchaser in
+   Information;          connection therewith,  to any person other than a person
+   Inspection and       employed by the Supplier in the performance of the Contract.
+   Audit by              Disclosure to any such employed person shall be made in
+   Purchaser            confidence and shall extend only so far as may be necessary
+                             for purposes of such performance.
+
+                      5.2  The Supplier shall not, without the Purchaser’s prior written
+                           consent,  make  use  of  any  document  or  information
+                        enumerated  in GCC Clause  5.1  except  for purposes  of
+                         performing the Contract.
+
+                      5.3  Any document, other than the Contract itself, enumerated in
+                GCC Clause 5.1 shall remain the property of the Purchaser
+                       and  shall be  returned  (all  copies)  to  the  Purchaser on
+                         completion of the Supplier’s performance under the Contract
+                                     if so required by the Purchaser.
+
+                      5.4  The  Supplier  shall  permit  the  Purchaser  to  inspect  the
+                           Supplier’s accounts and records relating to the performance of
+                            the Supplier and to have them audited by auditors appointed
+                      by the Purchaser, if so required by the Purchaser.
+
+Section IV. General Conditions of Contract                                                  32
+
+
+
+
+6.  Patent Rights    6.1  The  Supplier  shall  indemnify  the  Purchaser  against  all
+                             third-party claims of infringement of patent, trademark, or
+                              industrial design rights arising from use of the Goods or any
+                             part thereof in the Purchaser’s country.
+
+7. Performance     7.1  Within Seven (07) days from the issuance of acceptance letter
+   Security             from the Purchaser, the successful Bidder shall furnish the
+                         performance security in shape of CDR at the discretion of the
+                           Purchaser in the amount specified in SCC. In case the amount
+                            of bid security is equal or greater than the value of the goods to
+                        be supplied then the bidder shall not require furnishing the
+                         performance security separately, it will be retained or deducted
+                        from the bidder’s claim on bidder’s choice.
+
+                      7.2  The proceeds of the performance security shall be payable to
+                            the Purchaser as compensation for any loss resulting from the
+                           Supplier’s  failure  to  complete  its  obligations  under  the
+                           Contract.
+
+                      7.3  The  performance  security  shall  be  denominated  in  the
+                          currency of the Contract, or in a freely convertible currency
+                           acceptable  to  the Purchaser and  shall be  in one  of  the
+                          following forms:
+
+                               (a)  CDR  issued  by  a  reputable  bank  located  in  the
+                                Purchaser’s  country  or  abroad,  acceptable  to  the
+                                Purchaser,  in  the  form  provided  in  the  bidding
+                            documents or another form acceptable to the Purchaser.
+
+                      7.4  The performance security will be discharged by the Purchaser
+                       and returned to the Supplier not later than thirty (30) days
+                          following  the  date  of  completion  of  the  Supplier’s
+                         performance obligations under the Contract, including any
+                         warranty obligations, unless otherwise specified in SCC.
+
+8.  Inspections      8.1  The Purchaser or  its representative shall have the right to
+   and Tests              inspect and/or to test the Goods to confirm their conformity to
+                            the Contract specifications at no extra cost to the Purchaser.
+                 SCC and the Technical Specifications  shall specify what
+                            inspections and tests the Purchaser requires and where they
+                            are to be conducted. The Purchaser shall notify the Supplier
+                             in  writing,  in a  timely manner,  of  the  identity  of any
+                            representatives retained for these purposes.
+
+                      8.2  The inspections and tests may be conducted on the premises
+                           of the Supplier or its subcontractor(s), at point of delivery,
+                          and/or at the Goods’ final destination.   If conducted on the
+                         premises of the Supplier or its subcontractor(s), all reasonable
+                                 facilities and assistance, including access to drawings and
+                          production data, shall be furnished to the inspectors at no
+
+Section IV. General Conditions of Contract                                                  33
+
+
+                         charge to the Purchaser.
+
+                      8.3  Should any inspected or tested Goods fail to conform to the
+                             Specifications, the Purchaser may reject the Goods, and the
+                           Supplier  shall  either replace the rejected Goods or make
+                              alterations necessary to meet specification requirements free
+                           of cost to the Purchaser.
+
+                      8.4  The Purchaser’s right to inspect, test and, where necessary,
+                               reject the Goods after the Goods’ arrival in the Purchaser’s
+                          country shall in no way be limited or waived by reason of the
+                      Goods having previously been inspected, tested, and passed
+                      by the Purchaser or  its representative prior to the Goods’
+                         shipment from the country of origin.
+
+                      8.5  Nothing in GCC Clause 8  shall  in any way release the
+                           Supplier from any warranty or other obligations under this
+                           Contract.
+
+9.  Packing          9.1  The Supplier shall provide such packing of the Goods as is
+                           required  to prevent  their damage or  deterioration during
+                                transit to their final destination, as indicated in the Contract.
+                      The  packing  shall  be  sufficient  to  withstand,  without
+                              limitation, rough handling during  transit and exposure to
+                        extreme temperatures, salt and precipitation during transit,
+                       and open storage.  Packing case size and weights shall take
+                             into consideration, where appropriate, the remoteness of the
+                       Goods’ final destination and the absence of heavy handling
+                                 facilities at all points in transit.
+
+                      9.2  The packing, marking, and documentation within and outside
+                            the  packages  shall  comply  strictly  with  such  special
+                          requirements  as  shall  be  expressly  provided  for  in  the
+                           Contract, including additional requirements, if any, specified
+                             in SCC, and in any subsequent instructions ordered by the
+                           Purchaser.
+
+10. Delivery and     10.1 Delivery of the Goods shall be made by the Supplier in
+   Documents           accordance with  the terms  specified  in  the Schedule  of
+                         Requirements.   The  details  of  shipping  and/or  other
+                       documents to be furnished by the Supplier are specified in
+                     SCC.
+
+                     10.2 For purposes of the Contract, “CFR,” “CPT”, the terms used to
+                             describe the obligations of the parties shall have the meanings
+                            assigned to them by the current edition of Incoterms published by
+                              the International Chamber of Commerce, Paris.
+
+                      10.3 Documents to be submitted by the Supplier are specified inSCC.
+
+Section IV. General Conditions of Contract                                                  34
+
+
+11. Insurance       11.1 The Goods supplied under the Contract shall be fully insured
+                             in a  freely  convertible currency  against  loss  or damage
+                             incidental  to  manufacture  or  acquisition,  transportation,
+                             storage, and delivery in the manner specified in the SCC.
+
+                     11.2 Where delivery of the Goods is required by the Purchaser on a
+                  CFR or CPT basis, the Purchaser shall arrange and pay for
+                         cargo insurance, naming the supplier as beneficiary.
+
+12. Transpor-       12.1 Where the Supplier is required under Contract to deliver the
+    tation              Goods FOB, transport of the Goods, up to and including the
+                           point of putting the Goods on board the vessel at the specified
+                            port of loading, shall be arranged and paid for by the Supplier,
+                       and the cost thereof shall be included in the Contract Price.
+                     Where the Supplier is required under the Contract to deliver
+                            the Goods FCA, transport of the Goods and delivery into the
+                         custody of the carrier at the place named by the Purchaser or
+                           other agreed point shall be arranged and paid for by the
+                            Supplier, and the cost thereof shall be included in the Contract
+                             Price.
+
+                     12.2 Where the Supplier is required under Contract to deliver the
+                      Goods CFR or CPT, transport of the Goods to the port of
+                            destination or such other named place of destination in the
+                           Purchaser’s country, as shall be specified in the Contract,
+                              shall be arranged and paid for by the Supplier, and the cost
+                            thereof shall be included in the Contract Price.
+
+                     12.3 Where the Supplier is required under the Contract to transport
+                            the Goods to a specified place of destination within the
+                           Purchaser’s country, defined as the Project Site, transport to
+                         such place of destination in the Purchaser’s country, including
+                          insurance and storage, as shall be specified in the Contract,
+                              shall be arranged by the Supplier, and related costs shall be
+                          included in the Contract Price.
+
+                     12.4 Where the Supplier is required under Contract to deliver the
+                      Goods CFR or CPT, no restriction shall be placed on the
+                          choice of  carrier.  Where the Supplier  is required under
+                          Contract (a) to deliver the Goods FOB or FCA, and (b) to
+                          arrange on behalf and at the expense of the Purchaser for
+                             international  transportation  on  specified  carriers  or  on
+                            national flag carriers of the Purchaser’s country, the Supplier
+                    may arrange for such transportation on alternative carriers if
+                            the specified or national flag carriers are not available to
+                             transport the Goods within the period(s) specified in the
+                           Contract.
+
+Section IV. General Conditions of Contract                                                  35
+
+
+13. Incidental       13.1 The Supplier may be required to provide any or all of the
+   Services              following  services,  including  additional  services,  if  any,
+                           specified in SCC:
+
+                               (a)   performance or supervision of on-site assembly and/or
+                                   start-up of the supplied Goods;
+
+                             (b)   furnishing  of  tools  required  for  assembly  and/or
+                             maintenance of the supplied Goods;
+
+                               (c)   furnishing of a detailed operations and maintenance
+                            manual for each appropriate unit of the supplied Goods;
+
+                             (d)  performance  or  supervision  or  maintenance  and/or
+                                   repair of the supplied Goods, for a period of time agreed
+                           by the parties, provided that this service shall not relieve
+                                 the Supplier of any warranty obligations under  this
+                                 Contract; and
+
+                               (e)   training of the Purchaser’s personnel, at the Supplier’s
+                                  plant and/or on-site, in assembly, start-up, operation,
+                               maintenance, and/or repair of the supplied Goods.
+
+                     13.2 Prices charged by the Supplier for incidental services, if not
+                          included in the Contract Price for the Goods, shall be agreed
+                       upon in advance by the parties and shall not exceed the
+                            prevailing rates charged to other parties by the Supplier for
+                            similar services.
+
+14. Spare Parts      14.1 As specified in SCC, the Supplier may be required to provide
+                       any  or  all  of  the following  materials,  notifications, and
+                          information  pertaining  to  spare  parts  manufactured  or
+                             distributed by the Supplier:
+
+                               (a)   such spare parts as the Purchaser may elect to purchase
+                            from the Supplier, provided that this election shall not
+                                   relieve the Supplier of any warranty obligations under
+                                 the Contract; and
+
+                             (b)   in the event of termination of production of the spare
+                                     parts:
+
+                                           (i)   advance  notification  to  the  Purchaser  of  the
+                                  pending termination, in sufficient time to permit
+                                       the Purchaser to procure needed requirements; and
+
+                                            (ii)  following such termination, furnishing at no cost
+                                        to the Purchaser, the blueprints, drawings, and
+                                        specifications of the spare parts, if requested.
+
+15. Warranty       15.1 The Supplier warrants that the Goods supplied under the
+                          Contract are new, unused, of the most recent or current
+                         models, and that they incorporate all recent improvements in
+
+Section IV. General Conditions of Contract                                                  36
+
+
+                          design  and  materials  unless  provided  otherwise  in  the
+                            Contract.  The Supplier  further warrants  that  all Goods
+                           supplied under this Contract shall have no defect, arising from
+                            design, materials, or workmanship (except when the design
+                           and/or material is required by the Purchaser’s specifications)
+                           or from any act or omission of the Supplier, that may develop
+                         under normal use of the supplied Goods in the conditions
+                            prevailing in the country of final destination.
+
+                     15.2 This warranty shall remain valid for twelve (12) months after
+                            the Goods, or any portion thereof as the case may be, have
+                        been  delivered  to and  accepted  at  the  final  destination
+                            indicated in the Contract, or for eighteen (18) months after the
+                           date of shipment from the port or place of loading in the
+                          source country, whichever period concludes earlier, unless
+                           specified otherwise in SCC.
+
+                     15.3 The Purchaser shall promptly notify the Supplier in writing of
+                       any claims arising under this warranty.
+
+                     15.4 Upon receipt of such notice, the Supplier shall, within the
+                           period specified in notice or in SCC and with all reasonable
+                           speed, repair or replace the defective Goods or parts thereof,
+                          without costs to the Purchaser.
+
+                     15.5  If the Supplier, having been notified,  fails to remedy the
+                             defect(s) within the period specified in the notice or in SCC,
+                            the Purchaser may proceed to take such remedial action as
+                    may be necessary, at the Supplier’s risk and expense and
+                          without prejudice to any other rights which the Purchaser may
+                        have against the Supplier under the Contract.
+
+16. Payment         16.1 The method and conditions of payment to be made to the
+                           Supplier under this Contract shall be specified in SCC.
+
+                     16.2 The Supplier’s request(s) for payment shall be made to the
+                          Purchaser in writing, accompanied by an invoice describing,
+                           as appropriate, the Goods delivered and Services performed,
+                        and by documents submitted pursuant to GCC Clause 10, and
+                       upon  fulfillment  of  other  obligations  stipulated  in  the
+                            Contract.
+
+                     16.3 Payments shall be made promptly by the Purchaser, but in no
+                          case later than thirty (30) days after submission of an invoice
+                           or claim by the Supplier.
+
+                     16.4 The currency or currencies in which payment is made to the
+                           Supplier under  this Contract  shall be  specified  in SCC
+                            subject to the following general principle:  payment will be
+                     made in the currency or currencies in which the payment has
+                        been requested in the Supplier’s bid.
+
+                     16.5 All payments  shall be made in the currency or currencies
+
+Section IV. General Conditions of Contract                                                  37
+
+
+                             specified in the SCC pursuant to GCC 16.4.
+
+17. Prices           17.1 Prices charged by the Supplier  for Goods delivered and
+                     Services performed under the Contract shall not vary from the
+                       prices quoted by the Supplier in its bid, with the exception of any
+                       price adjustments authorized in SCC or in the Purchaser’s request
+                       for bid validity extension, as the case may be.
+
+18. Change Orders  18.1 The Purchaser may at any time, by a written order given to
+                            the Supplier pursuant to GCC Clause 32, make changes
+                          within the general scope of the Contract in any one or more of
+                            the following:
+
+                               (a)   drawings, designs, or specifications, where Goods to be
+                                furnished under  the Contract  are  to be  specifically
+                              manufactured for the Purchaser;
+                             (b)   the method of shipment or packing;
+                               (c)   the place of delivery; and/or
+                             (d)   the Services to be provided by the Supplier.
+
+                     18.2  If any such change causes an increase or decrease in the cost
+                               of, or the time required for, the Supplier’s performance of any
+                           provisions under the Contract, an equitable adjustment shall
+                        be made in the Contract Price or delivery schedule, or both,
+                       and the Contract shall accordingly be amended. Any claims
+                      by the Supplier for adjustment under this clause must be
+                            asserted within thirty (30) days from the date of the Supplier’s
+                             receipt of the Purchaser’s change order.
+
+19. Contract        19.1 Subject to GCC Clause 18, no variation in or modification of
+   Amendments          the terms of the Contract shall be made except by written
+                      amendment signed by the parties.
+
+20. Assignment      20.1 The  Supplier  shall  not  assign,  in whole  or  in  part,  its
+                            obligations to perform under this Contract, except with the
+                           Purchaser’s prior written consent.
+
+21. Subcontracts    21.1 The Supplier shall notify the Purchaser in writing of  all
+                           subcontracts awarded under  this  Contract  if  not  already
+                            specified in the bid. Such notification, in the original bid or
+                                 later,  shall not relieve the Supplier from any  liability or
+                            obligation under the Contract.
+
+                     21.2 Subcontracts must comply with the provisions of GCC Clause
+                              3.
+
+Section IV. General Conditions of Contract                                                  38
+
+
+22. Delays in the     22.1 Delivery of the Goods and performance of Services shall be
+   Supplier’s          made by the Supplier in accordance with the time schedule
+   Performance          prescribed by the Purchaser in the Schedule of Requirements.
+
+                     22.2  If  at any time during performance  of  the  Contract,  the
+                           Supplier or its subcontractor(s) should encounter conditions
+                        impeding timely delivery of the Goods and performance of
+                            Services, the Supplier  shall promptly notify the Director
+                       (DPIC) in writing of the fact of the delay, its likely duration
+                       and its cause(s). As soon as practicable after receipt of the
+                           Supplier’s  notice, the Director (DPIC)  shall evaluate the
+                             situation and may at its discretion extend the Supplier’s time
+                             for performance, with or without  liquidated damages,  in
+                       which case the extension shall be ratified by the parties by
+                      amendment of Contract.
+
+                     22.3 Except as provided under GCC Clause 25, a delay by the
+                           Supplier in the performance of its delivery obligations shall
+                           render the Supplier  liable to the imposition of liquidated
+                       damages pursuant to GCC Clause 23, unless an extension of
+                         time is agreed upon pursuant to GCC Clause 22.2 without the
+                            application of liquidated damages.
+
+23. Liquidated      23.1 Subject to GCC Clause 25, if the Supplier fails to deliver any
+   Damages              or all of the Goods or to perform the Services within the
+                            period(s)  specified  in  the  Contract,  the  Purchaser  shall,
+                          without prejudice to its other remedies under the Contract,
+                         deduct from the Contract Price, as liquidated damages, a sum
+                           equivalent to the percentage specified in SCC of the delivered
+                            price of the delayed Goods or unperformed Services for each
+                     week  or  part  thereof  of  delay  until  actual  delivery  or
+                          performance, up to a maximum deduction of the percentage
+                           specified in SCC.  Once  the maximum  is reached,  the
+                          Purchaser may consider termination of the Contract pursuant
+                             to GCC Clause 24.
+
+24. Termination     24.1 The Purchaser, without prejudice to any other remedy for
+    for Default           breach of Contract, by written notice of default sent to the
+                            Supplier, may terminate this Contract in whole or in part:
+
+                               (a)    if the Supplier fails to deliver any or all of the Goods
+                                within the period(s) specified in the Contract, or within
+                            any extension thereof granted by the Purchaser pursuant
+                                   to GCC Clause 22; or
+
+                             (b)    if the Supplier fails to perform any other obligation(s)
+                              under the Contract.
+
+                               (c)    if the Supplier, in the judgment of the Purchaser, has
+                            engaged in corrupt or fraudulent practices in competing
+                                   for or in executing the Contract.
+
+Section IV. General Conditions of Contract                                                  39
+
+
+                             For the purpose of this clause:
+
+                                 “corrupt practice” means the offering, giving, receiving,
+                                or soliciting of anything of value to influence the action
+                                of a public official in the procurement process or in
+                                  contract execution.
+
+                                 “fraudulent practice” means a misrepresentation of facts
+                                   in order  to influence a procurement process or the
+                               execution of a contract to the detriment of the Borrower,
+                            and includes collusive practice among Bidders (prior to
+                                or after bid submission) designed to establish bid prices
+                                      at artificial non-competitive levels and to deprive the
+                               Purchaser of the benefits of free and open competition.
+
+                     24.2 In the event the Purchaser terminates the Contract in whole or
+                             in part, pursuant to GCC Clause 24.1, the Purchaser may
+                           procure, upon such terms and in such manner as  it deems
+                            appropriate, Goods or Services similar to those undelivered,
+                       and the Supplier shall be liable to the Purchaser for any
+                          excess costs for such similar Goods or Services.  However,
+                            the Supplier shall continue performance of the Contract to the
+                            extent not terminated.
+
+25. Force Majeure   25.1 Notwithstanding the provisions of GCC Clauses 22, 23, and
+                           24, the Supplier  shall not be  liable  for  forfeiture of  its
+                         performance security, liquidated damages, or termination for
+                            default if and to the extent that its delay in performance or
+                           other failure to perform its obligations under the Contract is
+                            the result of an event of Force Majeure.
+
+                     25.2 For purposes of this clause, “Force Majeure” means an event
+                       beyond the control of the Supplier and not involving the
+                           Supplier’s fault or negligence and not foreseeable.  Such
+                           events may include, but are not restricted  to, acts of the
+                          Purchaser in its sovereign capacity, wars or revolutions, fires,
+                             floods,  epidemics,  quarantine   restrictions,  and   freight
+                         embargoes.
+
+                     25.3  If  a  Force  Majeure  situation  arises,  the  Supplier  shall
+                        promptly notify the Purchaser in writing of such condition
+                       and the cause thereof.  Unless otherwise directed by the
+                          Purchaser in writing, the Supplier shall continue to perform
+                                    its obligations under the Contract as far as  is reasonably
+                               practical, and shall seek all reasonable alternative means for
+                         performance not prevented by the Force Majeure event.
+
+26. Termination     26.1 The Purchaser may at any time terminate the Contract by
+    for Insolvency         giving written notice to the Supplier if the Supplier becomes
+                         bankrupt or otherwise insolvent.  In this event, termination
+                             will be without compensation to the Supplier, provided that
+                         such termination will not prejudice or affect any right of
+
+Section IV. General Conditions of Contract                                                  40
+
+
+                            action or remedy which has accrued or will accrue thereafter
+                             to the Purchaser.
+
+27. Termination     27.1 The Purchaser, by written notice sent to the Supplier, may
+    for                    terminate the Contract, in whole or in part, at any time for its
+   Convenience          convenience.  The notice of termination shall specify that
+                           termination is for the Purchaser’s convenience, the extent to
+                       which performance of the Supplier under the Contract  is
+                           terminated,  and  the  date upon  which  such  termination
+                       becomes effective.
+
+                     27.2 The Goods that are complete and ready for shipment within
+                               thirty (30) days  after the Supplier’s  receipt of notice of
+                           termination shall be accepted by the Purchaser at the Contract
+                         terms and prices.  For the remaining Goods, the Purchaser
+                    may elect:
+
+                               (a)   to have any portion completed and delivered  at the
+                               Contract terms and prices; and/or
+
+                             (b)   to cancel the remainder and pay to the Supplier an
+                               agreed amount  for  partially  completed Goods  and
+                                Services and for materials and parts previously procured
+                           by the Supplier.
+
+28. Settlement of    28.1  If any dispute or difference of any kind whatsoever shall arise
+   Disputes             between the Purchaser and the Supplier in connection with or
+                             arising out of the Contract, the parties shall make every effort
+                             to resolve amicably such dispute or difference by mutual
+                            consultation.
+
+                     28.2  If the parties have failed to resolve their dispute or difference
+                      by such mutual consultation, then either the Purchaser or the
+                           Supplier may give notice to the other party of its intention to
+                     commence  arbitration,  as  hereinafter provided,  as  to  the
+                          matter in dispute, and no arbitration in respect of this matter
+                    may be commenced unless such notice is given.
+
+                           28.2.1  Any dispute or difference in respect of which a
+                                     notice of intention to commence  arbitration has
+                                been given in accordance with this Clause shall be
+                                        finally settled by arbitration.  Arbitration may be
+                            commenced prior to or after delivery of the Goods
+                                 under the Contract.
+
+                           28.2.2   Arbitration  proceedings  shall  be  conducted  in
+                                 accordance with the rules of procedure specified in
+                                  the SCC.
+
+                     28.3 Notwithstanding any reference to arbitration herein,
+
+                               (a)   the parties shall continue to perform their respective
+                                 obligations under the Contract unless they otherwise
+
+Section IV. General Conditions of Contract                                                  41
+
+
+                                 agree; and
+
+                             (b)   the Purchaser shall pay the Supplier any monies due the
+                                 Supplier.
+
+29. Limitation of    29.1 Except in cases of criminal negligence or willful misconduct,
+    Liability             and in the case of infringement pursuant to Clause 6,
+
+                               (a)   the Supplier shall not be liable to the Purchaser, whether
+                                   in  contract,  tort,  or  otherwise,  for any  indirect  or
+                                consequential  loss  or damage,  loss  of  use,  loss  of
+                                production, or loss of profits or interest costs, provided
+                                    that this exclusion shall not apply to any obligation of
+                                 the Supplier to pay liquidated damages to the Purchaser
+                            and
+
+                             (b)   the aggregate liability of the Supplier to the Purchaser,
+                             whether under the Contract, in tort or otherwise, shall
+                                not exceed the total Contract Price, provided that this
+                                   limitation shall not apply to the cost of repairing or
+                                 replacing defective equipment.
+
+30. Governing       30.1 The Contract shall be written in the language specified in
+   Language          SCC. Subject to GCC Clause 31, the version of the Contract
+                            written   in   the   specified  language   shall  govern   its
+                              interpretation.   All correspondence and  other documents
+                            pertaining to the Contract which are exchanged by the parties
+                              shall be written in the same language.
+
+31. Applicable       31.1 The Contract shall be interpreted in accordance with the laws
+  Law                   of the Purchaser’s country, unless otherwise specified in
+                    SCC.
+
+32. Notices          32.1 Any notice given by one party to the other pursuant to this
+                          Contract shall be sent to the other party in writing or facsimile
+                       and  confirmed  in  writing  to  the  other  party’s  address
+                           specified in SCC.
+
+                     32.2 A notice shall be effective when delivered or on the notice’s
+                             effective date, whichever is later.
+
+33. Taxes and       33.1 A foreign Supplier shall be entirely responsible for all taxes,
+   Duties               stamp duties, license fees, and other such levies imposed
+                           outside the Purchaser’s country and purchaser’s country as
+                           specified in SCC.
+
+                     33.2 A local Supplier shall be entirely responsible for all taxes,
+                              duties,  license  fees,  etc.,  incurred  until  delivery  of  the
+                           contracted Goods to the Purchaser.
+
+            Section V.
+
+
+
+Special Conditions of Contract
+
+Section IV. General Conditions of Contract                                                  43
+
+
+                           Table of Clauses
+
+        1.     Performance Security (GCC Clause 7) ......................................................44
+        2.     Warranty (GCC Clause 15) ........................................................................44
+        3.     Payment (GCC Clause 16) .........................................................................44
+         4.     Settlement of Disputes (GCC Clause 28) ..................................................46
+        5.     Applicable Law (GCC Clause 31) .............................................................47
+        6.     Notices (GCC Clause 32)...........................................................................47
+        7.     Taxes and Duties (GCC Clause 33) ...........................................................47
+
+Section IV. General Conditions of Contract                                                  44
+
+
+            SPECIAL CONDITIONS OF CONTRACT
+
+The following Special Conditions of Contract shall supplement the General Conditions of
+Contract.  Whenever there is a conflict, the provisions herein shall prevail over those in the
+General Conditions of Contract. The corresponding clause number of the GCC is indicated in
+parentheses.
+
+1.   Performance Security (GCC Clause 7)
+   GCC 7.1—
+            A. For goods offered from within Pakistan and abroad by the local agent by
+                  Pakistan:
+                              the successful Bidder shall furnish the performance security @ 10%
+                                for the warranty period of one year of the value of Supply Order or
+                             Contract in shape of CDR or any bank instrument except bank
+                             guarantee in favour of Director (DPIC), UAF within Seven (07) days
+                         from the issuance of acceptance and 10% performance security letters
+                         from the Purchaser for permanent equipment. In case the amount of
+                             bid security is equal or greater than the value of  the performance
+                                 security, then the bidder shall not require to furnish the performance
+                               security separately.
+
+             B.        2% CDR or any bank instrument except bank guarantee in favour of
+                              Director (DPIC) already received in lieu of earnest money in case of
+                              general type/consumable good(s) will be retained by the office for 3
+                        month from the day of supply of the respective good(s) or fully
+                        consumed whichever is earlier.
+
+2.     Inspection and Tests (GCC Clause 8)
+    GCC 8.1- By the incumbent mentioned sr. # 1 to 4 in committee notification No.Acs.
+      Dev./4150736304/463-71 dated 04.08.2021 in accordance with the specifications or
+       samples or both as required.
+
+3.    The representative of the firm(s) shall present the Authority Letter from the respective
+       firm in the tender opening meetings with them, failing which he will not allowed to sit in
+       the said meeting
+
+4.   Warranty (GCC Clause 15)
+    GCC15.2&15.4: One year free of cost labour and material etc. at site from the date of
+     commissioning of goods.
+
+5.    Bid Prices (11.2 ITB)
+
+         a).     for goods offered from within Pakistan;
+
+           the price shall be quoted on FOR UAF basis. (FOR means the price of goods quoted
+         by the bidder shall be inclusive of all costs, expenses, charges, duties and taxes etc.
+          whatsoever incidental to their delivery, installation and commissioning as the case
+        may be at UAF site).
+
+       b)      If the firm quoted the rates on CFR/CPT basis, the firm is bound to quote the
+         FOR prices also
+
+        c)      for goods offered from abroad by the LOCAL AGENT:
+           the price shall be quoted Cost and Freight (CFR), Carriage Pad to (Duty Paid) (CPT)
+          Karachi seaport or Lahore/Faisalabad airport Pakistan, as the case may be. The bidder
+            shall also add all cost expenses, charges, duties and taxes etc. whatsoever expect
+          customs, incidental to delivery installation/commissioning of goods from the port of
+           destination to UAF  site. The bidder, in quoting the price, shall be free to use
+           transportation in abroad except transit and means of transport through/of Israel. The
+       LC at sight, as on Usance basis and Advance Payment will be governed as per
+           following: -
+
+Section IV. General Conditions of Contract                                                  45
+
+
+
+
+i.    LC AT SIGHT
+      The bidder shall provide Performa Invoice of principal on CPT/CFR basis as per supply
+order along with Insurance / Cover Note and CDR within fortnight in favor of Director (DPIC)
+as security equal to 100% amount of the goods to initiate the LC at sight.
+
+ii.   LC ON USANCE BASIS
+       In case the bidder, is unable to provide CDR in favor of Director (DPIC) as security equal
+to 100% amount of the goods to be imported, may chose this option and shall provide Performa
+Invoice of principal on CPT/CFR basis as per supply order along with Insurance / Cover Note
+within fortnight to initiate the LC on usance basis (minimum usance period 60 days from the
+date of Airway Bill OR 90 days from the date of Bill of Lading).
+
+iii.   ADVANCE PAYMENT
+      The bidder shall provide Performa Invoice of principal on CPT/CFR basis as per supply
+order along with Insurance / Cover Note and CDR within fortnight in favor of Director (DPIC)
+as security equal to 100% amount of the goods to be imported to proceed for advance payment to
+the exporter. However, this option will be had where the value of the goods to be imported is up
+to US $ 10,000 or varied in accordance with the instructions of the State Bank of Pakistan and
+Pakistan Customs issued from time to time and remittance will also be made accordingly.
+
+iv.   OPEN ACCOUNT
+       In case the bidder has not opted for import through LC (at sight or Usance basis or
+advance payment) may opt this option and shall provide Performa Invoice of principal on
+CPT/CFR basis as per supply order within fortnight. However, remittance will be made
+maximum up to six months from the date of filing of Goods Declaration (GD) form or otherwise
+as per Foreign Exchange Manual of State Bank of Pakistan and Pakistan Customs or instruction
+issued in this regard from time to time.
+
+v.   CONTRACT / COLLECTION
+       In case the bidder has not opted the options referred to “i to iv” above and may opt for
+this option. The bidder shall provide Performa Invoice of principal on CPT/CFR basis as per
+supply order within fortnight. The minimum period for remittance will be 60 days from the date
+of Airway Bill OR 90 days from the date of Bill of Lading. However, remittance will be made as
+per Foreign Exchange Manual of State Bank of Pakistan and Pakistan Customs or instruction
+issued in this regard from time to time.
+
+
+vi.   INCIDENTAL CHARGES FOR IMPORT OF GOODS:
+All charges (Inside/outside Pakistan) like insurance, LC/bank and clearance of consignment from
+port/custom authorities will be borne by the bidder.
+
+vii.   RELEASE OF CDR
+In case of LC at sight and advance payment to exporter, the CDR equal to 100% amount of the
+shipment as  security  will be released by Director (DPIC)  after receiving of  satisfactory
+inspection/installation/ commissioning report from convener tender committee concerned.
+
+viii.  INITIATION OF REMITTANCE TO THE EXPORTER
+In case of LC on usance basis, import on Open Account and Contract / Collection basis, the
+Director (DPIC) will initiate remittance through the concern bank to the exporter after receiving
+the satisfactory inspection/installation/commissioning report from the purchaser or the convener
+tender committee as the case may be.
+
+DELIVERY PERIOD
+After receiving the transmitted LC (at sight OR Usance Basis) OR swift acknowledgment against
+advance payment / proof of advance payment OR supply order on “Open Account” or “Contract
+/ Collection”  basis, the local supplier  is responsible to provide complete  set of shipping
+documents  [i.e. Airway Bill/Seaway Bill/Bill of Lading, Commercial Invoice, Packing List,
+Country of Origin Certificate and any other document(s) related to shipment (if required) along
+with detail of bidder’s clearing agent for issuance of authority letter for clearance of consignment
+from port / custom authorities] within 6 weeks from the date of opening of LC (at sight or
+
+Section IV. General Conditions of Contract                                                  46
+
+
+usance basis), advance payment and date of supply order for import of goods on “Open
+Account” or “Contract  / Collection” basis. Moreover, after clearance of consignment by
+bidder from port / custom authorities, will deliver the consignment to the purchaser along with
+complete set of post shipment documents within 05 days from the date of Authority Letter.
+After expiry of the requisite period, firm will require to apply for extension in delivery period.
+However, after due scrutiny the Committee may extend the delivery period with liquidated
+damages as per applicable rate if the delay is on part of the bidder or without liquidated damages
+if the delay is on the part of the procuring agency or due to “force majeure”.
+
+NOTE:
+In case of late submission of Proforma Invoice, shipping documents and delivery of goods,
+difference of exchange rate on higher side as well as liquidated damages shall be recovered out
+of belongings of the bidders @ 0.67% of the value of the goods up to maximum 10% of the
+value of goods.
+
+6.    Payment (GCC Clause 16)
+
+7.     Prices (GCC Clause 17)
+      GCC17.1: The successful bidder(s) shall provide the price reasonability certificate to the
+        effect that the rates quoted are reasonable in accordance with the market. If it is found at
+      any stage, the quoted rates are higher than the market ones  or the item(s) have been
+       provided to any other Institute/Department etc at less rates than the quoted ones. The firm
+       undertakes to refund the difference amount to the purchaser on demand.
+
+8.    Change Orders (GCC Clause 18)
+      Not applicable
+
+9.     Liquidated Damages (GCC Clause 23)
+
+    GCC 23.1—Applicable rate:
+     The liquidated damages, if imposed, will be recovered at the rate of upto0.67% of the
+      value of goods supplied/installed/commission late per day or a part of a period exceeding
+      the original delivery period, subject to the provision that the total liquidated damages thus
+     imposed    will   not   exceed  10%   of   the    total   value   of   the   goods
+      delivered/installed/commission late.
+
+10.  Settlement of Disputes (GCC Clause 28)
+The settlement of dispute will be settled in accordance with mechanism for redresal of
+grievances and settlement of dispute as specified below:-
+
+Complaints of bidder/contractor shall be disposed/settled by a committee and arbitration prior
+to the entry into force and after into force of procurement contract respectively. Accordingly,
+grievances committee with powers and terms of reference and method of arbitration are as
+under:-
+
+A.     Grievances Committee:
+      The committee comprises the following to address the complaints of the bidders prior
+to entry into force of the procurement contract:-
+
+           i.     The Treasurer                                         (Convener)
+
+           ii.      Principal, UAF-Community College                   (Member)
+
+
+           iii.    Resident Auditor or the Technical Expert(s) not          (Member)
+            below the rank of Assistant Professor
+
+         iv.    The Director (DPIC)                                       (Secretary)
+
+Section IV. General Conditions of Contract                                                  47
+
+
+Any bidder feeling aggrieved by any act of the procuring agency after the submission of his bid may
+lodge a written complaint concerning his grievances not later than 10 days after the announcement of
+the bid evaluation report under rule 37 of the UAF Procurement Rules 2014.
+
+The committee shall address the complaints of bidders that may occur prior to the entry into force of
+the procurement contract. The committee shall investigate and decide upon the complaint within
+fifteen days of the receipt of the complaint. Mere fact of lodging of a complaint shall not warrant
+suspension of the procurement process.
+
+      Any bidder not satisfied with the decision of the committee may lodge an appeal in the relevant
+court of jurisdiction.
+
+B.     Arbitration:
+        After coming into force of the procurement contract, all matters of dispute or difference except
+ regarding rejection of goods by the Inspector under GCC clause 8 (Standard Bidding Document) or
+ cancellation of the contract by the Purchaser, under GCC Clause 24 and 27 (Standard Bidding
+ Document) arising out of the agreement between the parties thereto, the settlement of which is not
+ otherwise specially provided for in contract agreement, shall be referred to arbitration as under:-
+             (a) Foreign Currency Contracts (CFR/CPT, etc.) made directly with Foreign Principal /
+      Manufacturer
+            i.     The dispute shall be referred for adjudication to two arbitrators one to be nominated by
+each party, who before entering upon the reference shall appoint an umpire by mutual agreement, and if
+they do not agree, a judge of the Superior Court will be requested to appoint the umpire. The arbitration
+proceedings shall be held in Pakistan and under Pakistan Law.
+            ii.     The venue of arbitration shall be the place from which the contract is issued or such other
+places as the Purchaser at his discretion may determine.
+            iii.     Arbitration award so given will be firm and final.
+
+           (b)Indigenous (FOR) contracts
+      The settlement of dispute, if not otherwise especially provided for in the contract shall be referred
+for the decision of Vice Chancellor, University of Agriculture, Faisalabad. His decision shall be final and
+binding on both the parties. The work under the contract shall if reasonably possible continue, under the
+proceedings before the Vice Chancellor and no account of such proceeding unless they are subject of the
+dispute.
+
+Note:
+         -  The arbitration award shall be recorded in writing.
+         -  CFR/CPT, etc., contracts made through local agents would be dealt under sub para-B
+            (b) above.
+
+            (c) Prior Notice for arbitration:
+              If the supplier intends to go for arbitration, he shall have to give 30 days notice in
+           writing informing the purchaser of his intention to refer to the points of differences or
+           dispute of arbitration. He shall have to define clearly the point of difference and or
+           dispute in his notice.
+
+C.   Court Jurisdiction
+
+   Only the Courts at Faisalabad shall have exclusive jurisdiction to adjudicate upon any “lis”
+   brought by either of the parties in relation to the contract.’
+
+11.  Applicable Law (GCC Clause 31)
+
+   GCC 31.1—UAF Procurement Rules 2014 and Laws governing in Pakistan
+
+12.  Notices (GCC Clause 32)
+   GCC 32.1: The Supplier shall provide address for notice purposes:
+
+13.  Taxes and Duties (GCC Clause 33)
+
+14.   Stamp Act
+     In accordance with the Stamp Act 1899 amended from time to time.
+
+Section IV. General Conditions of Contract                                                  48
+
+
+
+
+                     Section VI.
+
+
+
+         Schedule of Requirements
+
+  Section IV. General Conditions of Contract                                                  49
+
+
+                        Schedule of Requirements
+
+
+ Number     Description        Quantity     Delivery schedule:
+                                           Supply within 4 weeks
+
+
+    Specification and Estimated Cost for Community College PARAS
+                          (Turnkey Basis)
+
+                                                                     Estimated Cost per      Total Estimated
+S.No        Items                            Quantity
+                                                                         Unit                    cost
+
+
+1      GPON OLT                     2                 199,000              398,000
+
+
+
+2      PON SFP                       4                 5,500                          22,000
+
+
+3      ONU/ONT                      85                 10,500                        892,500
+
+4      ONU/ONT                      20               17500                        350,000
+
+5      ONT-UPS                      20               6000                         120,000
+
+6       FIBER PATCH                100               550                            55,000
+
+7       SPLIITTER                    100               950                            95,000
+
+8       FIBER CABLE                 27               4500                         121,500
+
+
+9       JOINT BOX                    35               3300                         115,500
+
+
+10        HDPE Pipe                        25               1000                          25,000
+
+
+11         Duct                            400               550                          220,000
+
+
+12          Cable Laying                      700               850                          595,000
+
+
+13            Electric Cable                     4,000                34                           136,000
+
+
+14            Installation and integration            1               250000                       250,000
+
+
+
+15        UPS                              2               180000                       360,000
+
+
+                                                 Total                                          3,812,000
+
+Section IV. General Conditions of Contract                                                  50
+
+
+                     Section VII.
+
+
+
+         Technical Specifications
+
+        Section IV. General Conditions of Contract                                                  51
+
+
+
+                   TECHNICAL SPECIFICATIONS
+
+       The bidder shall quote the goods along with the serial number mentioned below
+          against each and provide soft copy in MS Word Sheet without price. The
+         quoted goods shall have point to point commentary.
+
+
+ Specification and Estimated Cost for Community College PARAS (Turnkey Basis)
+
+                                                                                                      Estimated   Total
+S.No    Items             Description                                                        Quantity   Cost per    Estimated
+                                                                                                          Unit        cost
+                 Chassis :      Rack Mount Uplink Port
+                  (10G) SFP+
+             GPON Port       4 SFP Slot, Class B+/C+, Split
+                    Ratio 1:128
+                Management Ports   out-band port, 1*CONSOLE
+                (SNMP, Telnet ,CLI)
+                Management Function Fan Group Detecting;
+                    Port Status monitoring and configuration
+                 management; Layer2 switch configuration such as
+                VLAN, Trunk, RSTP,IGMP,QOS, etc; GPON
+                management function: DBA,ONU authorization,
+                 ACL, QOS, etc; Online ONU configuration and
+                 management; User management; Alarm
+                 management. Layer2 Switch 16K Mac address
+                   Support 4096 VLANs; Support port VLAN and
+                     protocol VLAN; Support VLAN tag/Un-tag ,VLAN
+                    transparent transmission; Support VLAN translation
+                 and QinQ; Support storm control based on port
+                   Support port isolation Support port rate limitation
+                   Support 802.1D and 802.1W; Support static LACP
+               ,QOS based on port, VID, TOS and MAC address;
+                 Access control list; IEEE802.x flow control; Port
+1    GPON OLT                                                                 2    199,000    398,000                         stability statistic and monitoring.
+             GPON Function Tcont dba; Gemport traffic In
+                    compliant with ITUT984.x standard; Up to 20KM
+                    transmission Distance; Support data encryption,
+                       multi-cast, port VLAN, separation, RSTP, etc;
+                   Support ONU auto-discovery/link detection/remote
+                  upgrade of software; Support VLAN division and
+                   user separation to avoid broadcast storm; Support
+                    power-off alarm function, easy for link problem
+                      detection; Support broadcasting storm resistance
+                      function; Support port isolation between different
+                      ports; Support ACL and SNMP to configure data
+                   packet filter flexibly; Specialized design for system
+                 breakdown prevention to maintain stable system;
+                   Support RSTP,IGMP Proxy. AC Power Supply
+                AC:100～240V, 47/63Hz
+                 Double Power Module Hot Backup √
+                Power Consumption 75W max
+                  Operating Environment Working Temperature 0～
+              +50℃
+                  Storage Temperature -40～+85℃
+                    Relative Humidity 5～90%(non-conditioning)
+
+        Section IV. General Conditions of Contract                                                  52
+
+
+                   (Class C+ module) Transmission Distance 20KM
+             GPON port speed Upstream 1.244G Downstream
+                 2.488G
+                 Wavelength   TX 1490nm, RX 1310nm
+2    PON SFP    Connector SC/UPC                                        4    5,500
+                                                                                                            22,000
+                   Fiber Type 9/125μm SMF
+               TX Power +3~+7dBm
+               Rx Sensitivity -27dBm
+                   Saturation Optical Power -8dBm
+
+                 2 POTS + 4 FE + 2.4G Wi-Fi + 1 USB
+3    ONU/ONT                                                                 85    10,500
+                  Connector type:SC/UPC                                                       892,500
+                  Antenna gain: 5dBi
+
+                 2 POTS + 4 GE + CATV + 2.4G Wi-Fi + 1 USB
+4    ONU/ONT   Connector type:SC/APC                                    20   17500
+                                                                                                           350,000
+                  Antenna gain: 5dBi
+
+                INPUT : 12V OUTPUT: 12V
+5    ONT-UPS   BACKUP TIME : 6 Hour                                    20   6000
+                                                                                                           120,000
+                  High quality battery management module
+
+                SC/UPC-SC/APC-SM-3.0mm
+     FIBER
+6                    Fiber Jumper Single Mode Single Core                   100   550
+    PATCH                                                                                            55,000
+              APC Connector Optic Cable Patch Cord Fiber
+
+                The PLC splitters, cassette box
+                    pre-terminated with
+7     SPLIITTER                                                               100   950
+                SC/FC/LC connector.                                                           95,000
+                  1:N 1:2 1:4 1:8 1:16
+
+                     Fiber Optic Cable
+                     Fiber Count: 2 Fibers
+     FIBER
+8                    Construction: Standard Loose Tube (5mm)                27   4500
+     CABLE                                                                                           121,500
+                     Fiber Type: Singlemode G.652D
+                  Bending Radius (long/short term): 10D/20D(mm)
+
+                      metal(plastic) box enclosure
+9    JOINT BOX                                                                35   3300
+                    waterproof plastic project box                                                 115,500
+
+10     HDPE Pipe     HDPE Pipe per Feet                                       25   1000
+                                                                                                            25,000
+
+11      Duct       PVC Duct 16x25 mm (10' Length)                         400   550
+                                                                                                           220,000
+
+12      Cable Laying    Cable laying digging/refilling, and splicing etc.            700   850
+                                                                                                           595,000
+
+13       Electric Cable    3/29 Electric cable imported                                 4,000    34
+                                                                                                           136,000
+
+          Installation and  One time Charges Installation/ Configuration/
+14                                                                                  1    250000
+         integration     Commissioning/ Testing of Paras Campus one job                          250,000
+
+                        Output power capacity 900 Watts / 1.5kVA Max Configurable Power
+                          (Watts) 900 Watts / 1.5kVA
+                       Nominal Output Voltage 230V Output Voltage Distortion Less than 5
+                % at full load
+                        Output Frequency (sync to mains) 47 - 53 Hz For 50 Hz nominal Sync
+                           to mains, 57 - 63 Hz For 60 Hz nominal Sync to
+15     UPS             mains Topology Line interactive Waveform type Sine wave                2    180000
+                                                                                                           360,000
+                          Input Nominal Input Voltage 230V Input frequency 50/60 Hz +/- 3 Hz
+                          Auto-sensing
+                          Input Connections IEC 320 C14
+                          Input voltage range for main operations 170 - 300 Adjustable, 180 -
+                      287V
+                        Other Input Voltages 220 V, 240 V
+
+Section IV. General Conditions of Contract                                                  53
+
+
+
+                   Batteries & Runtime
+                  Battery type Lead-acid battery
+                   Typical recharge time 3hour(s)
+                Replacement Battery RBC6
+                 Expected Battery Life (years) 3 - 5
+                   Batteries & Runtime
+              RBC Quantity 1
+                  Battery Charge Power (Watts) 73 Watts
+                Communications & Management
+                   Interface Port(s) USB
+                  Control panel Multifunction LCD status and control console
+                 Surge Protection and Filtering
+                 Surge energy rating 459Joules
+                     Filtering Full time multi-pole noise filtering : 0.3% IEEE surge let-
+                 through : zero clamping
+                 response time : meets UL 1449
+                 Approvals C-Tick, CE, CSA, EAC, GOST, UL 1778, VDE
+                 Standard warranty 2 years repair or replace
+                                                                                           Total                  3,812,000
+
+Section IV. General Conditions of Contract                                                  54
+
+
+
+                     Section VIII.
+
+
+
+
+           Sample Forms
+
+Section IV. General Conditions of Contract                                                  55
+
+
+                          Sample Forms
+
+        1.     Bid Form and Price Schedules ..............................................................56,57
+        2.      Manufacturer’s/Distrbutor's/Dealer's Certificate Form           58
+
+Section IV. General Conditions of Contract                                                  56
+
+
+                                1. Bid Form and Price Schedules
+
+
+                                                        Date:
+                                              Tender No.
+To:
+
+                Principal,
+           UAF-Community College,
+              University of Agriculture,
+               Faisalabad.
+
+Gentlemen and/or Ladies:
+     Having examined the bidding documents including Tender No.15/2022, the receipt of
+
+which is hereby duly acknowledged, we, the undersigned, offer to supply and deliver [description
+
+of goods and services]in conformity with the said bidding documents for the sum of [total bid amount
+
+in words and figures]or such other sums as may be ascertained in accordance with the Schedule of
+
+Prices attached herewith and made part of this Bid. We understand that failure to furnish all
+
+information required by the bidding documents or to submit a bid not substantially responsive to
+
+the bidding documents in every respect will be at our risk and may result in the rejection of its
+
+bid.
+
+       If our bid is accepted, we undertake to provide a performance security in the form, in the
+
+amounts, and within the times specified in the bidding documents and to deliver the goods in
+
+accordance with the delivery schedule specified in the Schedule of Requirements. Failure to
+
+which, the Purchaser reserve the right to take action as per provisions of the bidding documents.
+
+
+   We agree to abide by this Bid for the Bid Validity Period specified in Clause 16.1 of the
+
+Bid Data Sheet and it shall remain binding upon us and may be accepted at any time before the
+
+expiration of that period.
+
+
+     Commissions or gratuities, if any, paid or to be paid by us to agents relating to this Bid, and
+
+to contract execution if we are awarded the contract, are listed below:
+
+          Name and address    Amount and          Purpose of
+               of agent             Currency           Commission or
+                                                                gratuity
+
+
+
+                   (if none, state “none”)
+
+Until a formal Contract is prepared and executed, this Bid, together with your written acceptance
+thereof and your notification of award, shall constitute a binding Contract between us.
+We understand that you are not bound to accept the lowest or any bid you may receive.
+
+We certify/confirm that we comply with all requirements as per ITB Clause 2 of the bidding
+documents.
+
+Dated this ________________ day of ________________ 20______.
+
+[signature]                                            [in the capacity of]
+
+Duly authorized to sign Bid for and on behalf of
+
+Section IV. General Conditions of Contract                                                  57
+
+
+Price Schedule for Goods Offered from within the Purchaser’s Country
+
+
+
+Name of Bidder                          .Tender Number     .Page   of        .
+
+
+             1      2      3      4       5
+                    Item    Description   Country    Quantity    Price including
+                                              of origin                        all Taxes
+
+
+
+
+
+Signature of Bidder
+
+Note: In case of discrepancy between unit price and total, the unit price shall prevail.
+
+Section IV. General Conditions of Contract                                                  58
+
+
+           Manufacturer’s/Distributor’s/Dealer’s Certificate Form
+
+
+                     [See Clause 13.3 (a) of the Instructions to Bidders.]
+
+
+To: [name of the Purchaser]
+
+WHEREAS [name of the Manufacturer/Distributor/Dealer] who are established and reputable
+Manufacturer/Distributor/Dealer   of   [name   and/or    description    of    the   goods]   having
+factories/Warehouse/trading house at [address of factory]
+
+do hereby authorize [name and address of Agent] to submit a bid, and subsequently negotiate and
+sign the Contract with you against Tender No.  [reference of the Invitation to Bid] for the above goods
+manufactured by us.
+
+We hereby extend our full guarantee and warranty as per Clause 15 of the General Conditions of
+Contract for the goods offered for supply by the above firm against this Invitation for Bids.
+
+
+
+
+
+         [signature for and on behalf of Manufacturer]
+
+
+
+Note:  This letter of authority should be on the letterhead of the Manufacturer/Distributor/Dealer
+      and should be signed by a person competent and having the power of attorney to bind the
+       Manufacturer.  It should be included by the Bidder in its bid.

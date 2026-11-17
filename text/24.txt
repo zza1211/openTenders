@@ -1,0 +1,511 @@
+            TENDER
+
+
+             FOR
+
+         Supply and Installation of
+
+              Firewall Appliance
+
+                       in
+
+          BIT MESRA, Ranchi
+
+
+
+
+
+          Tender No.: IC/000180
+
+
+      Tender date:  22nd JULY 2024
+
+
+Last Date of submission:   12th AUGUST 2024
+
+            Office of the Registrar
+
+      Birla Institute of Technology, Mesra
+
+
+
+
+
+                   Page 1 of 10
+
+        Birla Institute of Technology, Mesra, Ranchi invites tender for the Supply and Installation of
+
+                       Supply and Installation of Firewall Appliance
+                                   , as per specifications given in the Annexure attached to the Tender.
+
+  Tender Reference No.                                         IC/000180
+
+  Last Date and Time for receipt of Tender         12th AUGUST 2024 at 1500 Hrs
+  Address for Communication                 As Stated below in the Instructions to the bidders.
+  Contact Telephone Numbers (For Technical        pic-ictc@bitmesra.ac.in
+   specification/clarification)
+
+
+  For technical Details Contact                      Dr. Abhijit Mustafi
+
+                                               Mobile No.9431382747
+
+ EMD Cost (in the form of DD) in favour of “
+   Birla Institute of Technology” payable at Ranchi   Rs.60,000 /-
+
+
+            INSTRUCTIONS TO BIDDERS
+
+
+All interested vendors are requested to send their sealed quotation for the supply of the above item under
+two bid systems in the following manner:
+
+    a)  Envelope – I: Technical Bid.
+    b)  Envelope – II: Financial Bid.
+
+NOTE: The bid documents are not transferable, and the firm’s seal and signature of the authorized
+official must appear on all papers and envelopes submitted.
+Both the envelops should be sealed, signed, marked and kept in a bigger envelop superscribed with
+the Tender Reference No. and Tender notice detail as appended hereunder.
+
+
+                  TENDER FOR Supply and Installation of
+
+                                        Firewall Appliance
+               TENDER REF. NO: IC/000180, DATE: 22nd JULY 2024
+       LAST DATE FOR SUBMISSION:  12th AUGUST 2024 Till 1500 Hrs.
+
+
+    To,
+   Dy. Registrar (Purchase & MM)
+    Birla Institute of Technology, Mesra
+   Ranchi - 835215.
+
+
+                                                                 From: M/s --------------------------
+                                                                     Contact No: ----------------------
+                                                                   E-mail ID: ------------------------
+
+
+
+
+
+                                          Page 2 of 10
+
+The EMD of the unsuccessful bidder’s will be refunded only after the finalization of the tendering
+process. No interest will be payable on the earnest money. lf any bidder withdraws his bid at any
+point of time during the tendering process, the EMD of the bidder concerned will stand forfeited.
+BIT Mesra reserves the right to cancel the tender at any time/ stage or relax/amend/withdraw any of
+the terms and conditions contained in the Tender Document without assigning any reason thereof.
+Any inquiry after submission of the bid shall not be entertained. Before submission of the bid,
+enquiry can be made over through email at dr.purchase@bitmesra.ac.in. In case of withdrawal of
+bids, the EMD of the bidder concerned will stand forfeited.
+
+
+
+
+                                                                                  Page number in
+                                                                                             support of
+                                                                  Comply   compliance.
+                                               Criteria                              (Yes/No)   Deviations (if
+ Sr. No.                                                                                    any) should be
+                                                                                     mentioned
+                                                                                                             clearly, and
+                                                                                                          details thereof
+                                                                                         should be
+                                                                                                      indicated.
+             The supplier must have sold at least 3 such Supply and
+                                     Installation of
+                               Firewall Appliance
+        1.                 within India in the last 5 (five) years.
+         The supplier should provide a list of installations in India with all
+            contact details and model details so that BIT Mesra can approach
+            the contact person for any feedback.
+            Specification claimed must be supported by printed literature of        2.
+           the company.
+         The supplier of the instrument must confirm in writing that the
+            spares for the entire instrument will be available for a period of at
+        3.   least ten years after the model of equipment supplied has been
+          phased out. For frequently required spares, there should be
+           adequate inventory with the Indian agency.
+            Supplier  must  have  proven  capability  and  trained  expert
+        4.  manpower to troubleshoot equipment both in the hardware and
+            application part.
+           Bidders shall invariably furnish documentary evidence (client’s
+        5.   certificate)  in  support  of  the  satisfactory  operation  of  the
+           equipment.
+            Suitable and essential tool kit is to be supplied with the equipment        6.
+             for the required maintenance.
+        Any accessories  that must be needed  for  operation  of  the
+        7.  equipment, but not mentioned in this specification shall also be
+           quoted by the vendor.
+          The instrument should be installed and commissioned at site.
+             Site requirement has to be mentioned by the supplier.
+          Complete technical details of pre-installation requirements
+           should be furnished along with the technical bid. Birla Institute
+            of Technology, Mesra will only provide the installation room,
+        8.   air-conditioning units and required electrical outlets. Vendors
+            are expected to supply all other installation accessories,
+             infrastructures, facilities and services required for successful
+             installation and smooth operation of the equipment. Vendors
+        may conduct the site survey before installation at no additional
+            cost
+
+
+                                          Page 3 of 10
+
+          If in any case, shifting of the instrument is required in the future,
+        the vendor needs to shift the instrument being offered after
+         installation. It should be the free cost for the dismounting, packing,    9.
+       unpacking, re-installation and commissioning of the system with test
+       running of the systems. Damage during the shifting if any of
+        the machines must be the liability of the vendor.
+      The annual turnover of the company must have a minimum of 3    10.
+        Crore.
+      Tender Specific Manufacturer authorization form from    11.
+    OEM
+
+
+                 Terms & conditions
+
+
+1.  Representation: Indian agent can represent different suppliers if the agent is duly authorized by
+    the Principal Company.
+2.  Instructions  to the OEM:  Either  the Indian Agent on behalf  of  the Principal/OEM  or
+    Principal/OEM can bid but both cannot bid simultaneously for the same item/product in the same
+    tender.
+3.  Single Order: A single order will be processed for entire configuration.
+4.  Support: The supplier of the instrument must confirm after warranty the bidder must provide the
+    necessary after sales support for smooth operation of the system for 5year or more.
+5.  Delivery date etc.: Time taken for delivery, installation and commissioning should be separately
+    specified.
+6.  Bid Submission: The bids can be sent to us by Hand/ Speed post/ Courier so as to reach the marked
+    address by due date and time. Late bids will not be accepted. The price bids of only those firms
+    will only be opened who are found to be technically qualified after evaluation. The Institute reserves
+    the right to cancel/reject any or all bids without assigning any reason thereof.
+7.  Bid document: The vendor should read the Tender documents carefully before quoting. It shall be
+   deemed that the vendor has gone through the documents carefully and has understood  its
+    implication. Any lack of information shall not relieve the bidder of its responsibility to fulfill its
+    obligations under the Bid.
+8.  Price: Prices quoted should be on F.O.R., BIT Mesra, Ranchi on Door Delivery basis.
+9.  Technical bid: The technical bid should accompany full technical literature, pamphlets, leaflets of
+    the technical features of the offered equipment must be submitted for proper evaluation.
+10. Dealers: Dealership certificate/ authorization certificate from OEM if the bidder is a dealer.
+11. Similar Installation: A complete list of Institutes’ / Organizations’ list wherein the installation has
+   been done and a Performance certificate along with such list where these installation has been done
+    in past three years.
+12. Validity of Quotation: Quotations should be valid at least for 90 days.
+13. Declaration: The bidder should attach a self-declaration stating that he is not debarred/ blacklisted
+    or banned from any University/ Central Government / PSU / State Govt of India / any other Govt.
+    agencies or any Institute of National / International importance.
+14. GST etc: Copy of up-to-date GST clearance certificate & sales tax registration certificate indicating
+    also the GSTIN number of the Firm will have to accompany the quotations. Copy of PAN must be
+    submitted of Firm / Company along with the Technical Bid.
+15. Bank Details: Banker’s details of quoting Firm/ Vendor should be clearly mentioned as attached
+16. Performance security: The supplier shall furnish a Performance Security after installation of the
+    material for an amount of 10% (Ten percent) of the Purchase order value, valid up to 60 days after
+    the  date  of  completion  of performance  obligations  including  warranty  obligations.  This
+    Performance Bank guarantee should be issued from any Nationalized Bank and validity of the same
+    will be till warranty period +60 days from the date of installation of the material. The claim of
+    the same can be done by email, email id of the bank for correspondence shall be mentioned. The
+
+
+                                      Page 4 of 10
+
+    claim period of Performance Bank Guarantee shall be one year after expiry of Performance Bank
+    Guarantee.
+17. Delivery: Unless otherwise stated, delivery of goods at BIT, Mesra, will have to be executed within
+    Eight (8) weeks from the date of issue of the Purchase Order. All aspects of safe delivery shall be
+    the exclusive responsibility of the OEM / Bidder.
+18. Bid Currencies: The quoted price should be in Indian Rupees for offers received for suppliers
+    within India and in freely convertible foreign currency in case of offers received for supply from
+    foreign countries.
+19. Foreign bidders: In case a bidder not doing business within India, it shall furnish the certificate to
+    the effect that the bidder is or will be represented by an agent in India equipped and able to carry
+    out the supply, maintenance, repair obligations etc. during the warranty and post warranty period
+    or ensure a mechanism at place for carrying out the supply, maintenance, repair obligations etc.
+    during the warranty and post-warranty period, without which their offers are liable to be ignored.
+20. Conditional tenders: Conditional tenders shall not be accepted.
+21. Late and delayed Tenders: Late and delayed tender will not be considered. In case any
+    unscheduled holiday occurs on prescribed closing/opening date the next working day shall be the
+    prescribed date of closing/opening.
+22. Rejection of Tender: The tenders are liable to be rejected if the conditions mentioned in the tender
+   documents are not complied with. The tender should be complete in all respects and duly signed
+    wherever required. Incomplete and unsigned offer will not be accepted.
+23. Liquidated Damage: If a firm accepts an order and fails to execute the order in full as per the
+    terms and conditions stipulated therein,  it will be open to this Institute to recover liquidated
+   damages from the firm at the rate of 0.5% to 1% per week of the order value subject to a maximum
+    of 10% of the order value. It will also be open to this Institute alternatively, to arrange procurement
+    of the required stores from any other source at the risk and expense of the firm, which accepted the
+    order but failed to execute the order according to stipulated agreed upon.
+24. Payment Terms: - 100% payment will be released after receiving of stores in good order and
+    condition and successful installation and commissioning duly certified by the concern authority.
+25. Termination for default: Default is said to have occurred: -
+
+(a) If the supplier fails to deliver any or all of the services within the time period(s) specified in the
+   purchase order or any extension thereof granted by BIT, Mesra.
+(b) If the supplier fails to perform any other obligation(s) stated in the Purchase Order.
+(c) If the vendor, in either of the above circumstances, does not take remedial steps within a period of
+   30 days after receipt of the default notice from BIT Mesra (or takes longer period in-spite of what
+   BIT Mesra may authorize in writing). BIT Mesra may terminate the contract / purchase order in
+    completely or in part. In addition to above, BIT Mesra may at its discretion also take the following
+    actions: BIT Mesra may procure, upon such terms and in such manner, as it deems appropriate,
+   goods similar to the undelivered items/products and the defaulting supplier shall be liable to
+   compensate BIT Mesra for any extra expenditure involved towards goods and services to complete
+    the scope of.
+26. Acceptance and rejection of bids: The Institute may accept or reject any or all the bids in part of
+    in full without assigning any reason and doesn’t bind himself to accept the lower bid, without
+    thereby incurring any liability to the affected Bidder or bidders. The institute at its discretion may
+   change the quantity / upgrade the criteria / drop any item or thereof at any time before placing the
+    Purchase Order.
+27. Manual: One set of operating manual and service manual including detailed drawings and
+     circuit diagrams (in English) should be provided with the instrument
+28. Blacklisting of Supplier: Furnishing of wrong/ambiguous information in the compliance
+    statement may lead to rejection of bid and further black listing of the bidder, if prima-facie
+
+
+
+                                      Page 5 of 10
+
+     it appears that the information in the compliance statement was given with a malafied/
+    fraudulent intent.
+29. Delivery at Kolkata Airport/ Seaport only: Since our SFIS bond is valid in Kolkata Airport/
+    Seaport only delivery is to be made through Kolkata Airport/ Seaport.
+30. No part Shipment: While transshipment will be allowed, part shipment will not be allowed.
+31. Clarification of Bids: Clarifications may be sought by the Evaluation committee of the Institute
+    during the Process of Technical Evaluation. The request for the clarification and the response shall
+   be in writing. There shall be no change in prices or substance of the bid shall be sought, offered or
+    permitted. The Purchaser will examine the bids to determine whether they are complete, whether
+   any computational errors have been made, whether required sureties have been furnished, whether
+    the documents have been properly signed, and whether the bids are generally in order.
+32. Waivers: The Institute may waive off any minor informality non-conformity or irregularity in a
+    bid which does not constitute a material deviation, provided such a waiver does not prejudice or
+    affect the relative ranking of any Bidder.
+33. Bid responsiveness: A responsive bid is one in which the bid is substantively responsible i.e. the
+    bid which conforms to all the terms and conditions of the bidding documents without material
+    deviations. Deviations from or objections or reservations to critical provisions such as those
+    concerning Performance Security, Warranty, Force Majeure, Limitation of liability, Applicable
+    law, and Taxes & Duties will be deemed to be a material deviation. The Purchaser's determination
+    of a bid's responsiveness is to be based on the contents of the bid itself without recourse to extrinsic
+    evidence.
+34. No Canvassing: Any effort by a Bidder to influence the Purchaser in  its decisions on bid
+    evaluation, bid comparison or contract award may result in rejection of the Bidder's bid.
+35. Rejection of Bid: If a bid is not substantially responsive, it will be rejected by the Purchaser and
+   may not subsequently be made responsive by the Bidder by correction of the non-conformity.
+36. Patent Rights: The Supplier shall indemnify the Institute against  all third-party claims of
+    trademark, industrial design right or infringement of Patent arising from the use of Goods or any
+    part thereof in India.
+37. Insurance: For delivery of goods at site, the insurance shall be obtained by the Supplier in an
+   amount equal to 110% of the value of the goods from "warehouse to warehouse" (final destinations)
+   on "All Risks" basis including War Risks and Strikes.
+38. Packaging: The packaging should be such to prevent their damage, rough handling during transit
+   and exposure to extreme temperatures etc or deterioration during transit to the final destination as
+    indicated in the Purchase order. Packing case size and weights shall take into consideration, where
+    appropriate, the remoteness of the Goods' final destination and the absence of heavy handling
+     facilities at all points in transit.
+39. Tax liabilities: Suppliers shall be entirely responsible for all duties, taxes, license fees, octroi,
+    road permits, etc., incurred until delivery of the Goods to the Purchaser as per the Purchase order.
+40. Termination for Insolvency: The Purchaser may at any time terminate the P.O by giving written
+    notice to the Supplier, if the Supplier becomes bankrupt or otherwise insolvent. In such event,
+    termination will be without compensation to the Supplier, provided that such termination will not
+    prejudice or affect any right of action or remedy which has accrued or will accrue thereafter to the
+    Purchaser.
+41. Jurisdiction : Any suit, action, or other proceedings arising out of this tender or the subject matter
+    hereof shall be subject to the exclusive jurisdiction of courts of Ranchi.
+
+                                                                    Registrar
+
+
+
+
+
+                                      Page 6 of 10
+
+                          Price bid
+
+
+1.  Bid Price: The Bid Price should be enclosed in a sealed envelope and properly marked. The Bidder
+    shall indicate on the appropriate price bid, the unit prices and total bid prices of the goods  it
+    proposes to supply under the contract.
+2.  Bid Currencies: Prices should be quoted in Indian Rupees for offers received for supply within
+    India and in freely convertible foreign currency for offers received for supply from foreign country.
+3.  Vendor should mention of packing, forwarding, freight, insurance charges, taxes etc. such
+    offer shall be rejected as incomplete.
+4.  The price quoted shall remain fixed during the contract period and shall not vary on any account.
+5.  All lots and items must be listed and priced separately in the Price bid. If a Price bid shows items
+    listed but not priced, their prices shall be assumed to be included in the prices of other items. Lots
+    or items not listed in the Price bid shall be assumed to be not included in the bid.
+6.  Customs Duty: The Institute  is exempted from payment of Customs Duty Vide GOI
+    Notification No.  51/96  Customs,  dated  23.07.1996 & No.24/2007-Customs  dated
+   01.03.2007 with registration no 11/161/1990-TU-V dated 23.03.2022.
+7.  Arithmetical errors: The arithmetical errors will be rectified as follows. If there is a discrepancy
+   between the unit price and the total price that is obtained by multiplying the unit price and quantity,
+    the unit price shall prevail and the total price shall be corrected. If there is a discrepancy between
+    the figures and words. The amount in words will prevail. If the supplier does not accept the
+    correction of errors, its bid will be rejected.
+8.  Prices indicated on the price-bid should be mentioned in the following manner:
+
+                          For Goods manufactured within India
+       i)  The price of the goods should be quoted Ex –works.
+       ii) GST and other taxes etc. which will be payable on the goods if the contract is awarded. The
+          details should be mentioned separately.
+       iii) The charges for inland transportation, insurance and other local services required for
+         delivering the goods at the desired destination as specified in the price bid.
+      iv) The installation, commissioning and training charges including any incidental services, (if
+        any) should be clearly mentioned.
+
+
+                             For Imported Goods:
+       i)  The price of the goods, quoted on FCA (named place of delivery abroad) or FOB (named port
+         of shipment), as specified in the price schedule form.
+       ii) The charges for insurance and transportation of the goods to the port/place of destination.
+       iii) The agency commission charges, (if any).
+      iv) The installation, commissioning, and training charges including any incidental services, (if
+         any).
+     v)  The terms FOB, FCA, CIF, CIP etc. shall be governed by the rules prescribed in the current
+         edition of the Incoterms published by the International Chambers of Commerce, Paris.
+      vi) Delivery at Kolkata Airport/ Seaport only: As we do not have a clearing agent in any other
+         Airport, delivery is to be made only at Kolkata.
+
+
+
+
+
+                                                          Registrar
+
+
+
+
+
+                                      Page 7 of 10
+
+                                                                               Annexure- I.
+
+
+                           Proforma for Performance Statement (last three years)
+
+
+
+
+
+Sr.  Name of   Order    Full       PO     Delivery         Delay   Attach        Contact
+No   the Buyer  No.      description    Value   Details            reason   satisfactory   Persons
+     (With     and      of the Item                                          (if any)  performance   Details and
+       full        date     and value                                                certificate     contact No.
+      address)                                                                        (from the
+                                                                            buyer)
+                                       As     Supply
+                                                   per     date
+                                         P.O
+
+
+
+
+
+                                                Page 8 of 10
+
+                                              Annexure II
+
+               Technical specification for Supply and Installation of
+                             Firewall Appliance at BIT Mesra Campus
+Srl.no.  Item Description       Specification/ Model No. & Manufacture            Quantity
+1     FIREWALL             Technical Specifications for Firewall                    1 Nos.
+       APPLIANCE           1.The appliance should be a 1U/2U/3U rack mountable
+                                   with CPU architecture of at least 16/32 core or higher
+                                   with a hardened operating system and should have at least
+                                 64/128 GB or higher of RAM for running the NGFW
+                                      feature without interruption, Redundant hot-swappable
+                              Power supply, Storage: 2x1 TB SSD hot-swappable,
+                                   Fans: 4 hot-swappable fans.
+                                     2.Firewall throughput minimum 80Gbps or higher
+                         3.NGFW throughput minimum 45Gbps or higher
+                            4.VPN throughput minimum 26Gbps or higher
+                                   5.Concurrent Session: 40 million or higher, Connection
+                                    per second: 800K or higher
+                                   6.IPS throughput minimum 45 Gbps or higher
+                                    7.Threat protection/ prevention minimum 25Gbps or
+                                    higher
+                                      8.Shall support RIPv1 & v2, OSPF, BGP and policy-
+                                  based routing, Multicast Routing, DWAN routing from
+                               day one
+                                 9.The appliance should have at least 8
+                                x10/100/1000BaseT Ports or higher, 8 x 1/10/25G SFP+
+                                     Port from day one with capability to scale and have
+                               4x40/100G QSFP+ port from day one with all respective
+                                   modules(Transceiver 40G X 2 Nos,25G X 2 Nos and 10G
+                     X 4 Nos). 1 USB 3.0 or higher, 1X Management port,
+                                      additional HA ports & min 4 expansion bay from day one
+                                        for future expansion.
+                                     10.Shall support 802.1Q VLANs, source and destination
+                          NAT, NAT Traversal for Voice protocols.
+                                     11.Shall support deployment in Active-Active HA mode
+                               and state full failover with Multiple ISP
+                                     12.Shall provide Gateway Anti - Malware with capability
+                                       to scan, detect, remove and/or quarantine packets infected
+                                   with Virus, Trojan, works, etc.
+                                    13.Solution should have machine learning based
+                                      detection and ransomware protection capability
+                                     14.Shall have protocol anomaly detection and support IPS
+                                      signatures with provision for regular updates with
+                           minimum 30K signature.
+                                     15.Shall provide multi factor authentication for admin
+                                        user, SSL/IPSec VPN client without extra cost
+                                     16.Shall support filters/policies based on user identity, IP
+                                      address, MAC address.
+                                     17.Shall support configuration of different security zones
+                               and apply access control policies/filters based on zones.
+                                     18.Shall provide mechanisms to detect and protect from
+                               DoS, DDoS attacks and spoof
+                                     19.Shall have capability to filter websites various
+                                      categories including URL, keywords, file/MIME type as
+
+
+
+
+
+                                              Page 9 of 10
+
+well as custom categories/keywords and block pages
+suspected of containing phishing and/or pharming links
+20.Shall provide application security based on application
+categories including - P2P, Gaming, Internet Proxies. Etc
+21.Shall support 10000 IPSEC & 10000 SSL VPN
+22.Solution should have SDWAN capability, failover &
+load balancing between Internet, MPLS, VPN link . Must
+support link health status-based application routing and
+failover.
+23.Shall support user/category/application/IP based
+bandwidth management and load balancing
+24.Shall support cloud-based sandboxing with machine
+learning enabled dynamic analysis engine
+25.Solution should be capable of XDR technology, to
+able to share log & intelligence with endpoint, server, and
+other security solution.
+26.Shall include 5 years warranty for the appliance along
+with license & subscription for Gateway Antivirus,
+spyware, ransomware, Advance Threat prevention, Cloud
+Sandboxing Web / URL filtering, application filtering,
+IPS, 24 X 7 support from OEM.
+27.Solution should have on appliance reporting & logging
+28.Solution should have capability to store at least 3 years
+reporting/logs of Firewal on cloud (Optional).
+29.Solution should also provide 100 licenses for endpoint
+security.
+A1.Product or product family should have TEC,
+EAL4+/Common criteria certified
+A2.Product or product family should have FIPS-2
+certified
+A3.OEM must be present in India for last 10 years
+A4.Make: Checkpoint/ SonicWALL/ Cisco/
+Sophos/Paloalto
+A5. Tender Specific MAF is mandatory
+
+
+
+                           ----------X----------
+
+
+
+
+
+              Page 10 of 10

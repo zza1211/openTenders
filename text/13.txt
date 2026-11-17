@@ -1,0 +1,131 @@
+ BANKS SCHOOL DISTRICT
+      12950 NW MAIN ST
+     BANKS, OR 97106
+
+
+
+
+
+TECHNOLOGY DEPARTMENT
+
+      Request for Proposal
+
+Category Two: Network Switches
+
+
+
+
+
+ Release Date: February 23, 2024
+
+  Bid Due Date: March 23, 2024
+
+                     Banks School District #13 – Banks, OR
+                              Request for Proposal
+                              Category TWO RFP:
+                             Network Switches
+                                 Posted on 2/23/24
+
+
+Network Switches
+The amount of devices accessing The Banks School District on a daily basis has steadily
+increased over the last several years. Alongside the use of more devices needs for a stable POE
+switch infrastructure have increased proportionally.
+
+Banks School District in Banks, Oregon is seeking proposals to replace (19) nineteen Network
+Switches spread across our schools to continue to support our expanding network infrastructure.
+Banks High School is seeking replacements of nine (9) Network Switches. Banks Middle School
+is seeking replacements of six (6) Network Switches. Banks Elementary School is seeking
+replacements of four (4) Network Switches.
+
+Network Switch Specifications
+    •  48 Port POE+ or POE++
+    •  4x 25GbE stacking/uplink ports
+    •  VLAN support and tagging
+    •   Virtual Chassis Capability
+    •  Layer 3 Routing Capability
+
+Juniper EX4100 48-Port POE+ or equivalent is preferred.
+
+March 23, 2024 at 11:59 PM PST
+    •  Submission may be made by email or paper copy
+    •    If submitting by email, please call to verify that it is received. Banks School District
+       cannot be responsible for an RFP sent through email without the vendor verifying that it
+      was sent and received. Email Submissions must include “Network Switches - 2024” in
+       the subject line.
+
+Proposals Received After the Exact Time and Date Noted will NOT be Considered.
+
+        Contact information is:
+
+       Banks School District
+         Attn: Dr. Max Sigander, Director of Technology
+       12950 NW Main St
+        Banks, OR 97106
+
+        Phone: 503-324-5681
+        Email: maxs@banks.k12.or.us
+
+                     Banks School District #13 – Banks, OR
+                              Request for Proposal
+                              Category TWO RFP:
+                             Network Switches
+                                 Posted on 2/23/24
+
+Reservations and Annulments
+Banks School District reserves the right to award all or no portions of this RFP to a single or
+multiple bidders. The District reserves the right to accept or reject any or all proposals and to
+waive any and/or all technicalities in the interest of the District. The District further reserves the
+right to increase or decrease the given quantity. In the event quantities are increased or
+decreased, the amount added or deducted shall be based upon unit prices quoted.
+Considerations of Proposals
+Banks School District shall have the right to accept or reject any or all Proposals, or any part
+thereof; to waive any technicalities in the interest of the District.
+
+Proposal Errors
+All proposals shall be deemed final, conclusive, and irrevocable, and no proposal shall be subject
+to correction or amended for errors or miscalculations by the proposer after proposal opening
+date.
+
+Value Added Services
+Value added services included in the proposal will be considered for award of contract. All value
+added services must be declared in detail by the Proposer, in writing, at the time of submittal of
+the formal proposal.
+Pricing and Payment Structure
+The equipment and services will be purchased only following a favorable funding commitment
+decision letter. This RFP will automatically become part of any contract awarded to a vendor.
+Once a contract is awarded, the total dollar amount is the responsibility of the District.
+
+Discrepancies and Omissions
+Vendors finding discrepancies or omissions in the RFP or having any doubts as to the meaning
+or intent of any part thereof shall submit such questions or concerns to Dr. Max Sigander, Banks
+School District, maxs@banks.k12.or.us. Addenda issued in correspondence to this RFP shall be
+considered a part of this RFP and shall become part of any final Contract that may be derived
+from this RFP. This RFP and its addenda will be part of any possible future contract with
+successful vendor(s).
+
+                     Banks School District #13 – Banks, OR
+                              Request for Proposal
+                              Category TWO RFP:
+                             Network Switches
+                                 Posted on 2/23/24
+
+Contingencies
+This RFP should not be considered as a Contract to purchase goods or services, but is a Request
+for Proposal in accordance with the Terms and Conditions herein and will not necessarily give
+rise to a contract. However, RFP responses should be as detailed and complete as possible to
+facilitate the formation of a contract based on the RFP response(s) that are pursued should Banks
+School District decide to do so. Proposals stating that pricing is valid dependent upon availability
+and/or subject to prior sale will be considered as non-responsive.
+
+Vendors must submit RFP responses by the due date and time as specified herein. Electronic
+submissions will be accepted if created in PDF format and e-mailed to maxs@banks.k12.or.us
+by the due date and time as specified herein. Date and time stamp of the receiving computer
+(Pacific Standard Time) will govern all e-mails. Vendors will be considered nonresponsive if the
+above requirements are not submitted as requested. Banks School District has the right to reject
+all submitted proposals and resubmit for new proposals through a revised RFP.
+
+If no bids have been received following the 28 day waiting window the District reserves the right
+to extend deadline and proper notification(s) will be posted accordingly.
+
+We look forward to reviewing your bids.

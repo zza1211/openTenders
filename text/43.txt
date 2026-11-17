@@ -1,0 +1,1027 @@
+               Tender Document
+
+
+
+                                             For
+
+
+
+
+
+                            IT Infrastructure
+Supply Installation and Configuration of Servers, Storage
+          Servers, SAN Switch and GPON OLT
+                            Ref. No: DAVV/ITC/INF/2025/1
+
+
+
+
+
+                                        At
+
+
+
+
+
+                                      IT CENTER
+
+                  Devi Ahilya Vishwavidyalaya
+                Takshashila Campus, Khandwa Road,
+                              Indore
+                      https://www.dauniv.ac.in
+
+
+
+
+
+          Ref. No: DAVV/ITC/INF/2025/1                            pg. 1
+
+                       On Line Bidding Notice
+
+Online bids are invited under two bid system (Technical and Financial) from reputed
+experienced and financially sound Companies/Firms/OEMS/Agencies for purchase of Servers
+and Storage Servers. The bid document may be downloaded on payment of Rs. 3000/- (Rs. Three
+Thousand only) at http://www.mptenders.gov.in (main portal)
+
+      The detailed technical specifications and terms & conditions, are given in the portal
+ http://www.mptenders.gov.in
+Sr No.             Particulars                            Description
+
+   1   Name                    IT Infrastructure: Supply Installation and
+                                  Configuration of Servers ,Storage Servers
+                                                                    , SAN Switch and GPON OLT
+        Uploading/Publication of
+   2    Tender                       18/07/2025 by 10:30 hrs.
+       Document
+
+   3    Downloading of Tender        18/07/2025 by 11:00 hrs.
+       Document through website
+        https:www.mptenders.gov.in
+                                     25/07/2025 by 15:00-14.00 hrs. at IT
+                                    Centre, DAVV,Takshashila Campus, Khandwa
+4       Pre-Bid Meeting date            Road, Indore
+   5    Seek clarification start Date     18/07/2025 by 11:00 hrs.
+
+   6    Seek clarification End Date      13/08/2025 by 17:00 hrs.
+   7    Last date of bid submission     18/08/2025 by 16:00 hrs.
+
+                                     27/08/2025 by 16:30 hrs.
+   8    Technical bid opening          (Bidders are invited to attend the meeting)
+
+   9    Financial Bid Opening         Date will be notified on University website
+                                         https:// www.dauniv.ac.in
+   10   Bid Security/Earnest Money    INR Rs.2,02,000 (Rs two lac two thousand) to
+        Deposit (EMD)                be paid online through e-procurement portal
+                                           in   favor   of   Registrar,   Devi   Ahilya
+                                      Vishwavidyalaya, Indore. Bidder is required
+                                           to upload the scanned copy of e-transaction
+                                               details.
+
+   11   Tender Fee                               INR Rs. 3000/- (Rupees three Thousand only)
+                                       (nonrefundable) + GST  to be paid online
+                                     through e-procurement  portal  in  favor  of
+                                            Registrar,  Devi  Ahilya  Vishwavidyalaya,
+                                         Indore. Bidder  is  required  to upload  the
+                                    scanned copy of e-transaction details.
+
+
+
+
+              Ref. No: DAVV/ITC/INF/2025/1                            pg. 2
+
+Item I : S e r v e r s
+
+                                                                   Quantity
+
+Attach Brochure and clearly highlight below mentioned features on it.      3 Nos.
+Also write the page number of the brochure, where the required features
+are given
+
+                          Make & Model
+
+                                                  Compliance   Page number of
+Sno             Specifications                                                         Status        Brochure
+.                                                       (Yes/No)
+    The proposed servers should not reach End of Life by
+1     the OEM until at least 5 years from the date of bid
+    submission
+2   Rack Server (Upto 2U Rack Mountable)
+    Server should have Two number of x86 64 bit
+3     processors
+     Latest generation Intel gold/platinum highest series
+4    processor with highest L3 cache in selected core
+   Minimum equivalent CPU processor speed of 2.8GHz
+5    16-Core or higher. Processor should be from latest
+    announced series. Each CPU must have minimum 16
+     cores.
+   Minimum 256 GB DIMMS scalable upto 8 TB using
+6   DDR5 RDIMM operating at 4800 MT/s. Server should
+    have minimum 32 DIMM slots.
+    Advanced ECC or equivalent should be provided for
+7   memory protection
+    Server should be supplied with at least 02 Hot plug
+8   SSD drives with minimum 1.6 TB NVMe SSD drives or
+    higher
+
+9   Server Hard drive bay should have minimum 8 slot
+
+    Server should support up-to eight PCI-Express 5.0 x16
+10      slots. Additional two or higher PCIe 3.0/ OCP slots
+    Embedded / PCIe based x16 RAID controller with
+11   8GB Flash backed write cache, supporting RAID,1, 5, 6,
+    10 or Better
+    Must support mix-and-match SAS, SATA, and NVMe
+12     drives to the same controller.
+     Controller must support following:
+13      1.  Hardware root of trust and secure encryption and
+    decryption of critical drive data
+      2.  Online Capacity Expansion (OCE)
+      3.  Configurable stripe size up to 1 MB
+      4.  Global and dedicated Hot Spare with Revertible
+
+             Ref. No: DAVV/ITC/INF/2025/1                            pg. 3
+
+    Hot
+     5.  Instant Secure Erase
+     6.  Migrate RAID/Stripe Size
+     7.  Modifying Cache Write Policy
+     8.  Move Logical Drive
+     9.  Re-enable Failed Logical Drive
+    Server should be supplied with below networking
+14     cards:
+     1.  1Gb 4-port network adaptors
+     2.  10Gb 4-port Ethernet adaptor- SFP + Port with SFP
+       Module.
+     3.  Dual Port 32Gbps FC HBA
+     Serial - 1
+15   Minimum 3 USB port:- 1 front, 2 rear side.
+   1GbE Dedicated management port.
+   OEM Intrusion detection and security Bezel kit along
+    with Cable Management Arm"
+    Should be supplied with hot plug system, minimum
+16    800 W redundant Titanium level certified power
+    supplies or higher
+17  Redundant hot-plug system fans
+    The Management software should be from the
+18    Hardware OEM only. The Server Management
+    Software should be of the same brand as of the server
+     supplier.
+    System offered must comply with DIPPs notification
+19    no. P- 45021/2/2017- PP(BE-II) with revisions till date
+    and compliance with P- 45021/102/2019-BE- II-Part (1)
+     (E-50310) Office Memorandum issued by GoI. LC
+     Certificate should be on OEM Letter head.
+20  PCIe 5.0 Compliant WOL Support
+21  IPMI 2.0
+22  Secure Digital 4.0
+
+23 TPM 2.0 Certified
+
+    Advanced Encryption Standard (AES) Triple Data
+24    Encryption Standard (3DES) SNMP v3
+25  TLS 1.2 or higher
+    3-year warranty & on-site support 24x7 with 4 Hrs.
+26    Response time. Post installation, 3-year product
+    warranty should reflect in the support web site of the
+   OEM.
+    The OEM should be manufacturer of Server at least 10
+27     years. OEM need to submit the declaration for the
+    same from Authorized Signatory. Power of Attorney
+     of Authorized Signatory also need to submit.
+
+
+             Ref. No: DAVV/ITC/INF/2025/1                            pg. 4
+
+Item II : S t o r a g e S e r v e r
+
+                                                                    Quantity
+ Attach Brochure and clearly highlight below mentioned features on it.       01 No.
+ Also write the page number of the brochure, where the required features
+ are given
+                           Make & Model
+
+                                                   Compliance   Page number of
+ Features                 Specifications                                                          Status        Brochure
+                                                         (Yes/No)
+Operating       1. The storage array should support
+System &      industry-leading Operating System
+Clustering     platforms including: Windows 2019 / 2022,
+Support     VMware and Linux.
+                   2. Offered Storage Shall support all above
+               operating systems in Clustering.
+Capacity &      1. The Storage Array shall be offered with
+Scalability     30TB Usable Capacity using SAS 10K RPM
+               Drives
+                   2. For effective power saving, Storage
+             subystem shall be supplied with 2.5" Small
+             form factor SFF drives however storage
+              subsystem shall also support LFF drives
+              with the addition of required disk
+                enclosures.
+                   3. Storage Array shall support at least 240
+                Enterprise SAS SFF drives or more than 100+
+            LFF drives.
+Front-end Ports 1. Offered Storage system shall be supplied
+& Back-end    with minimum of dual 16 Gbps FC ports on
+Ports          the array
+                   2. Offered storage system shall support 12G
+            SAS Back-end connectivity.
+Architecture   The storage array should support dual,
+              redundant, hot-pluggable, active-active
+               array controllers for high performance and
+                  reliability
+No Single point Offered Storage Array shall be configurable
+of Failure       in a No Single Point of configuration
+               including Array Controller card, Cache
+             memory, FAN, Power supply etc.
+Disk Drive      1. The storage system shall support
+Support        Enterprise SAS Drives, SSD and mid-line
+            SAS drives of 7.2k rpm drives.
+                   2. Offered storage array shall also have
+              support for FIPS 140-2 validating self-
+              encrypted drives.
+
+              Ref. No: DAVV/ITC/INF/2025/1                            pg. 5
+
+Cache            1. Offerd Storage Array shall be given with
+           Minimum of 48GB cache / memory per
+               array in a single unit.
+                   2. Cache shall be backed up in case of power
+                 failure for indefinite time either using
+                 batteries or capacitors or any other
+               equivalent technology.
+                   3. Offered Storage shall also have optional
+              support for Flash cache using SSD / Flash
+                 drives. Offered storage shall support at-least
+            8TB Flash Cache.
+Raid Support   1. Offered Storage Subsystem shall support
+              Raid 1 , 10, 5 and Raid 6
+                   2. All Raid Sets shall support thin
+                provisioning. Vendor shall offer the license
+                of thin provisioning for complete supported
+                capacity of the array.
+                   3. Thin provisioning shall be supported with
+                offered Flash Cache.
+                   4. Raid processing shall be offloaded to a
+               dedicated ASIC instead of CPU. In case
+             vendor is not supporting it then vendor shall
+              ensure that additional 32GB Cache is
+               configured inside the storage arrays to offset
+               the raid processing workload.
+Point in time    1. Offered Storage array shall be configured
+and clone copy with array based Snapshot and clone
+                functionality and shall be configured for a
+           minimum of 512 snapshot licenses.
+                   2. Offered Storage array shall support at-
+                  least 512 point in time copies (Snapshots)
+             and 128 volume / Clone copies.
+                   3. The offered storage snapshot technology
+                 shall use Redirect on write technology.
+Replication      1. Offered storage subsystem shall support
+               storage based replication to DR location.
+               License for maximum supported capacity of
+               the array shall be offered.
+                   2. Offered storage subsystem shall support
+                 replication to multiple storage array of the
+            same family in fan-out mode. At least 1:4
+           mode shall be supported.
+Virtualization   1. Offered storage shall be offered and
+and Thin      configured with virtualization capability so
+provisioning   that a given volume can be striped across all
+               spindles of given drive type within a given
+               disk pool. Disk pool shall support all listed
+                raid sets of Raid 1, Raid 10, Raid 5 and Raid
+                VI.
+                   2. Offered Storage shall be offered and
+               configured with Thin Provisioning
+              Ref. No: DAVV/ITC/INF/2025/1                            pg. 6
+
+                 capability.
+Data Tiring    The offered storage shall also be licensed for
+             Sub-Lun Data tiering in real time fashion
+                across different type of drives within a given
+              pool like SSD, SAS, Midline SAS etc. License
+                 for same shall be offered for maximum
+              supported capacity of the array.
+Global and      1. Offered Storage Array shall support
+dedicated Hot  Global hot Spare for offered Disk drives.
+Spare            2. Atleast 2 Global hot spare drive shall be
+               configured for every 30 drives.
+                   3. Offered storage array shall have the
+              support for distributed hot spare
+Logical Volume 1. Storage Subsystem shall support
+& Performance minimum of 512 Logical Units. Storage
+              Array shall also support creation of more
+              than 120TB volume at controller level.
+                   2. Offered Storage shall have inbuilt
+              performance management software.
+               Configuration Dashboard shall show overall
+             IOPS and MB/sec performance.
+Load Balancing Multi-path and load balancing software
+& Multi-path   shall be provided, if vendor does not
+              support MPIO functionality of Operating
+               system.
+Performance   Offered storage shall have listed benchmark
+                 for performance of more than 700,000 IOPS
+                 for 100% random read and more than
+             14GB/sec for segmented sequential write
+                operations. Vendor shall provide
+             documentary proof for it.
+Array         Offered storage array shall have plug-in for
+Integration   VMware VCenter, Microsoft System center
+               as well as vStorage APIs (VAAI) for array
+                 integration.
+Warranty      3 year warranty & on-site support. Post
+                  installation, 3-year product warranty should
+                  reflect in the support web site of the OEM.
+OEM         The OEM should be manufacturer of Storage
+Credentials     atleast 10 years. OEM need to submit the
+                declaration for the same from Authorized
+                Signatory. Power of Attorney of Authorized
+               Signatory also need to submit.
+Accessories    Bidder must supply required number of
+                cables and connectors with the solution
+
+
+
+
+
+              Ref. No: DAVV/ITC/INF/2025/1                            pg. 7
+
+Item III : SAN Switch
+
+                                                                     Quantity
+  Attach Brochure and clearly highlight below mentioned features on it.    01 No.
+  Also write the page number of the brochure, where the required features
+   are given
+                            Make & Model
+
+                                                    Compliance    Page number
+  SNo.                          Specifications          Status          of Brochure
+                                                          (Yes/No)
+  Make & Model
+   1    SAN switch shall be configured with
+        minimum of 8 Ports scalable to 24 ports.
+   2      Required scalability shall not be achieved by
+          cascading the number of switches and shall
+          be offered within the common chassis only
+   3      Should deliver 32 Gbit/Sec Non-blocking
+           architecture with 1:1 performance for up to 24
+           ports in a energy-efficient fashion
+   4      Should protect existing device investments
+          with auto-sensing 8, 16, and 32 Gbit/sec
+            capabilities.
+   5     The switch shall support different port types
+          such as F_Port, E_Port, M_Port, D_Port.
+   6     The switch should be rack mountable
+   7      Offered SAN Switch shall support less than
+          900 nanosecond for port to port latency with
+         no contention.
+   8      Offered switch shall support at-least 2000
+          dynamically allocated frame buffers.
+   9     The switch shall provide Aggregate
+         bandwidth of 768 Gbit/sec end to end.
+   10     Switch shall have support for web based
+         management and should also support CLI.
+   11    The switch should have USB port for
+          firmware download, support save, and
+           configuration upload/download.
+   12     Offered SAN switches shall be highly efficient
+           in power consumption. Bidder shall ensure
+           that each offered SAN switch shall consume
+            less than 80 Watt of power.
+   13     Switch shall support POST and online/offline
+           diagnostics, including RAStrace logging,
+          environmental monitoring, non-disruptive
+        daemon restart, FCping and Pathinfo (FC
+            traceroute), port mirroring (SPAN port).
+                Ref. No: DAVV/ITC/INF/2025/1                            pg. 8
+
+ 14     Offered SAN switch shall support services
+        such as Quality of Service (QoS) to help
+        optimize application performance in
+         consolidated, virtual environments. It should
+        be possible to define high, medium and low
+         priority QOS zones to expidite high-priority
+          traffic
+ 15    The switch shall be able to support ISL trunk
+       up to 256 Gbit/sec between a pair of switches
+         for optimal bandwidth utilization and load
+         balancing.
+ 16   SAN switch shall support to restrict data flow
+       from less critical hosts at preset bandwidths.
+ 17       It should be possible to isolate the high
+       bandwidth data flows traffic to specific ISLs
+       by using simple zoning
+ 18    The Switch should be configured with the
+       Zoning and shall support ISL Trunking
+         features when cascading more than 2
+       numbers of SAN switches into a single fabric.
+ 19     Offered SAN switches shall support to
+       measure the top bandwidth-consuming traffic
+         in real time for a specific port or a fabric
+       which should detail the physical or virtual
+         device.
+ 20     3 year warranty & on-site support. Post
+          installation, 3-year product warranty should
+          reflect in the support web site of the OEM.
+
+Item IV: GPON OLT
+
+                                                                   Quantity
+Attach Brochure and clearly highlight below mentioned features on it.    01
+Also write the page number of the brochure, where the required features
+are given
+                       Make & Model
+
+                                               Compliance      Page number of
+Features                 Specifications                                                     Status (Yes/No)    Brochure
+
+
+ 1     General Requirements
+
+      The proposed OLT switch should not
+       reach End of Life by the OEM until at least
+        five years from the date of bid submission.
+
+
+             Ref. No: DAVV/ITC/INF/2025/1                            pg. 9
+
+     The OLT must be enterprise-grade,
+      designed for high-performance optical
+      networking.
+
+     The switch should be 1U rack-mountable,
+      meeting standard data center installation
+      requirements.
+
+2     System & Performance
+     The OLT should support a total
+      throughput capacity of up to 20 Gbps
+     downstream (8 × 2.5 Gbps) and 10 Gbps
+      upstream (8 × 1.25 Gbps).
+
+      Each GPON port must support 2.5 Gbps
+     downstream and 1.25 Gbps upstream.
+
+     The device should provide a maximum
+       splitting ratio of 1:128 per port, supporting
+     up to 1024 ONTs per device.
+
+3   GPON SFP Modules
+
+     The bidder must supply a minimum of
+      four (4) GPON SFP modules from day one.
+
+     The supplied SFP modules must be Class
+    C+ compliant and support high-
+      performance optical transmission.
+
+     The modules must be DS-PMA-C+ GPON
+      Class C+ compatible.
+
+     The wavelength specifications must be:
+
+      Transmit (Tx): 1490nm.
+
+      Receive (Rx): 1310nm.
+
+     The connector type should be SC/UPC.
+
+     The fiber type should be Single-mode
+      (9/125 µm).
+
+     The data rates must be:
+
+     Downstream: 2.488Gbps.
+
+      Upstream: 1.244Gbps.
+
+     The transmission distance should be up to
+      20 km.
+
+           Ref. No: DAVV/ITC/INF/2025/1                            pg. 10
+
+     The transmit power must range between
+     +3 to +7 dBm.
+
+4      Interfaces & Hardware
+
+     The OLT must have 2 × 10G SFP+ uplink
+       ports.
+
+     The device must have 8 × 2.5G GPON
+       ports.
+
+     Management interfaces must include 1 ×
+     1G RJ45 management port and 1 × RJ45
+      console port.
+
+     The alarm interface must provide 1 ×
+      reserved port.
+
+    A reset button must be available for quick
+      system reboot.
+
+     The device should feature dual redundant,
+      hot-swappable power supplies.
+
+     The maximum power consumption should
+      not exceed 70W.
+
+5     Security & Network Features
+
+     The device should support 802.1X
+       authentication, Access Control Lists (ACL),
+    ARP Inspection, and IP Source Guard.
+
+      Uplink and downlink data encryption
+     must be included.
+
+    ONU Management should enable auto
+      authentication and rogue ONU detection
+      with isolation capabilities.
+
+     The device must include multi-service
+        traffic identification and rate limiting.
+
+      Multicast security should be provided
+      using IGMP and MLD Snooping.
+
+     The switch should support Layer 2/3
+      networking functionalities, including
+     VLAN, QoS, DHCP, and ACL.
+
+6    Management & Software Features
+
+
+           Ref. No: DAVV/ITC/INF/2025/1                            pg. 11
+
+     The device should support DeltaStream
+    PON Management System (DPMS) for
+       centralized control.
+
+    Command Line Interface (CLI), SNMP,
+     and Web UI must be available for system
+      monitoring and configuration.
+
+     QoS capabilities, including IEEE
+      802.1p/DSCP, Voice VLAN, and Auto
+      VoIP, must be supported.
+
+       Static routing should be available for
+       efficient traffic management.
+
+     The switch must support IGMP & MLD
+      Snooping for multicast optimization.
+
+    DHCP services, including DHCP Server &
+      Relay, must be included.
+
+    OMCI support should be available for
+      standard ONU management.
+
+       Multi-service support should enable
+       service classification and bandwidth
+       limiting.
+
+     The system must allow large-scale device
+     management, including:
+
+      Batch configuration for OLT devices.
+
+     Remote upgrades and reboot functions.
+
+      Real-time system monitoring and
+      overview.
+
+       Multi-site orchestration for efficient
+     management.
+
+7     Safety & Compliance
+
+     The OLT supplied by the bidder must
+     comply with CE, FCC, RoHS, REACH, and
+    UL certifications, as outlined in the
+      following compliance details:
+
+    CE (Conformite Europeene): Ensures
+      compliance with European Union safety,
+       health, and environmental protection
+      standards.
+
+           Ref. No: DAVV/ITC/INF/2025/1                            pg. 12
+
+    FCC (Federal Communications
+      Commission): Certifies that the device
+      meets electromagnetic interference
+      regulations applicable in the United States.
+
+     RoHS (Restriction of Hazardous
+       Substances): Ensures the product is free
+     from specific hazardous materials,
+      promoting environmental safety.
+
+    REACH (Registration, Evaluation,
+      Authorization, and Restriction of
+      Chemicals): Guarantees compliance with
+    EU regulations concerning the safe use of
+      chemicals in manufacturing.
+
+    UL (Underwriters Laboratories): Certifies
+      adherence to strict safety and reliability
+      standards, particularly in electrical
+      components.
+
+8     Warranty & Support
+
+     The OLT must be supplied with a
+     minimum three-year warranty that
+      includes on-site support (24x7) and a four-
+      hour response time.
+
+       Post-installation, the three-year product
+      warranty must be reflected on the OEM
+      support website.
+
+     The OEM must be an established
+      manufacturer of OLT for at least five years.
+
+     The bidder must submit an official
+       declaration from an authorized signatory
+      confirming compliance.
+
+    A Power of Attorney for the authorized
+      signatory must also be submitted.
+
+9     Submission Guidelines
+
+      Bidders must submit sealed quotations
+      accompanied by detailed technical
+      datasheets demonstrating compliance with
+       specifications.
+
+     The bidder must submit the Manufacturer
+      Authorization Letter from the OEM as part
+           Ref. No: DAVV/ITC/INF/2025/1                            pg. 13
+
+     of the bid submission.
+
+
+
+I.     Bidders Qualification Criteria
+      (A) Technical Evaluation
+
+   1)  Only OEM or OEM authorized vendors are allowed to participate in this bid. In
+       case of OEM authorized vendors, OEM authorization letter for this bid must be
+      submitted by the vendor, failing this will result in bid rejection. The letter must also
+      mention that all support and services will be ensured by OEM for successful and
+       effective execution of software and hardware operations for at least 03 years from
+      the placement of the date of successful installation active network component in
+     DAVV.
+   2)  Bidder financial standing: The bidder should not be under liquidation, court
+       receivership or similar proceedings, should not be bankrupt. Bidder to upload
+      undertaking in to this effect with the bid.
+  3)   Turnover Criteria: The minimum average annual financial turnover of the bidder of IT
+       equipment’s during the last three years, ending on 31st March of the previous financial year,
+      should be as Rs.35 Crore.
+      Necessary documentary proof should be uploaded.
+   4)  The bidder should have minimum of 5 years of experience of sale/supply of
+     number of IT equipment
+    A table to be prepared having columns as Purchaser's Name and Address, order
+     number and date, ordered quantity, order value. The supporting documents to
+      be uploaded along
+      with the bid. For fulfilling the experience criteria any one of the following
+      documents may be considered as valid proof for meeting the experience criteria:
+                (i) Order Execution completion certificate by client with order value.
+                 (ii) Any other document in support of order execution  like Third Party
+             Inspection release note, etc.
+   5)  The track record of the bidder should be clean and should not have any
+      involvement in illegal activities or financial misappropriation /frauds or should
+      not be blacklisted by any organization etc. (submit declaration as per the format
+       specified)
+       (B) Financial Bid Comparison: For required items Financial Bid Comparison will
+         be on the total price of all the 04 (Item I-IV) items (i.e. lump- sum basis).
+
+
+II.    Acceptance Criteria:
+
+ 1) The material will be accepted only after testing of continuous operations for 5 days
+   (24X5), without electrical shutdown, in Indian environmental conditions.
+          Ref. No: DAVV/ITC/INF/2025/1                            pg. 14
+
+ 2) All  the equipment will be accepted after physical verification of the complete
+   inventory and all features as specified in the bid will be tested to full satisfaction for
+   acceptance.
+ 3) The unique support service tag numbers associated with the network equipment’s
+    will be tested and verified by DAVV for escalation of support calls as per the call
+   escalation matrix.
+ 4) The bidder must demonstrate the facility to perform online checking and downloading
+   of updates of associated software, device drivers, and firmware from OEMs website
+   with the serial no/service tag/device id of the offered equipment.
+ 5) The bidder must demonstrate the facility to perform online hardware diagnostics from
+  OEMs website with the serial no/service tag/device id of the offered equipment.
+  6) OEM embossed logo will be verified on all the offered motherboards before acceptance.
+
+III.   General Terms and Conditions for all items:
+
+ 1) Scope of supply (Bid price to include all cost components): Supply, Installation,
+   Testing and Commissioning of goods. The Delivery period is 6-8 weeks from the date
+   of issue of purchase order.
+ 2) Actual delivery (and Installation & Commissioning (covered in scope of supply)) is to
+   be done at following address :
+      IT Centre Takshashila Campus, Devi Ahilya Vishwavidyalaya, Khandwa Road,
+      Indore.
+ 3) Bid Validity Period: Bid should be valid for acceptance for at least 180 days from the
+   date of bid opening.
+ 4) Bidders are advised to check applicable GST on their own before quoting. Buyer will
+   not take any responsibility in this regards.
+  5)    The Bidder should submit the following documents along with the quotation:
+          (i) Profile giving complete details about the firm, including period for which
+          it is in the similar business, duly signed by an authorized person(s). Also fill
+       general information in the format specified.
+          (ii) Documentary evidence in the form of certified Audited Balance Sheets of last
+       three years shall be uploaded with the bid.
+          (iii)   CA certificate giving Company Turnover details of last five years.
+ 6) The EMD shall stand forfeited if the successful bidder, who’s bid is accepted, fails or
+   refuses to furnish the security deposit amount within a fortnight from the date of
+   acceptance of his offer, fails or refuses to execute the contract. No interest would be
+   payable for any period on EMD. The amount of EMD will be refunded only after
+    finalization of bids. The EMD in case of successful bidder may be adjusted against
+   security deposit. It will be refunded only after the receipt of the Prescribed Security
+   Deposit.
+ 7) The successful bidder has to supply all essential accessories required for the successful
+
+          Ref. No: DAVV/ITC/INF/2025/1                            pg. 15
+
+    installation and commissioning of the goods supplied, cost should be included in bid
+    price.
+ 8) Bidders will submit the EMD with Payment online through RTGS / internet banking
+   in Beneficiary name Registrar, DAVV, Bidder to indicate bid number and name of
+   bidding entity in the transaction details field at the time of on-line transfer. Bidder has
+   to upload scanned copy / proof of the Online Payment Transfer along with bid.
+ 9) Payment Terms: 100% payment  after supply and  satisfactory  installation and
+    verification of devices.
+ 10)     Bidder's offer is liable to be rejected if they don't upload any of the certificates /
+   documents sought in the Bid document, ATC and Corrigendum if any, proof of EMD.
+11) Bidder to provide call escalation matrix provided by OEM for service support.
+12) The DAVV has full right to accept or reject any bid, without assigning any reason.
+13) Quality Assurance: The OEM of the offered products must have required Quality
+   Assurance Plan (QAP) for manufacturing of the products. The QAP must conform to
+   national/ international standards and verified by national/international authorities.
+   Necessary documentation of the same must be produced along with the quotation.
+  DAVV reserves the right to carry out physical inspection of the OEMs manufacturing
+    facility by its technical team.
+14) DAVV reserves the right to accept or reject any bid, without assigning any reason
+   thereof to the bidder.
+15) JURISDICTION: Any dispute or difference, arising under, out of, or in connection with
+    this Bid/ Purchase order shall be subject to exclusive jurisdiction of competent court at
+   Indore only.
+
+
+
+
+
+          Ref. No: DAVV/ITC/INF/2025/1                            pg. 16
+
+                                                                            Annexure I
+
+
+                                                         [ Envelope A]
+
+
+Format for General Information:
+
+        Sno.  Particulars                                  Details
+
+        1    Name and Address of the Bidder
+
+
+        2     Year of establishment
+
+        3     Contacts
+
+                Office Telephones
+
+              Mobile No.
+
+
+               e-mail address
+
+        5    Name of the Chief Executive and
+              Telephone No
+
+        6    GST Registration Nos.
+
+        7    Income Tax PAN / GIR No
+
+        8    EPF No. (enclose certificate)
+
+        9             Turnover of last three financial
+                           years:
+
+                                Financial year-1(2023-24) :
+                                Financial year -2(2022-23) :
+
+                                Financial year -3(2021-22):
+
+
+
+
+
+    Signature with seal:
+
+   Name and Designation of Authorized
+
+    Signatory Date & Place:
+
+
+
+             Ref. No: DAVV/ITC/INF/2025/1                            pg. 17
+
+To:
+The Registrar
+DAVV, Indore.
+
+Dear Sir,
+      We, the undersigned, have examined the Tender Document, hereby offer to Supply Installation and
+Configuration of Servers, Storage Servers, SAN Switch and GPON OLT. We are hereby submitting our proposal,
+which includes this Pre-Qualification Information, Technical proposal and Commercial proposal. We have enclosed
+the receipt of Earnest Money Deposit online submission, as mentioned in the tender document.
+All the rates quoted in our proposal are in accordance with the terms as specified in tender documents. All the prices
+and other terms and conditions of this proposal are valid for a period of 180 calendar days from the last date of
+submission of tenders.
+We do hereby confirm that our prices include all taxes including GST or other tax. We have studied the clauses
+relating to Indian Taxes and hereby declare that if any Tax, Surcharge on Tax and any other Corporate Tax altered
+under the law, we shall pay the same.
+We declare that  all the supply & installation shall be performed strictly in accordance with the technical
+specifications and other tender conditions except the deviations as mentioned in the technical deviation proforma.
+We further declare that the rates stated in our proposal are in accordance with your terms and conditions in the
+tender document, except the deviations as mentioned in the commercial deviation proforma.
+Our proposal is binding upon us and subject to the modifications resulting from the Contract negotiations. Until a
+formal contract is prepared and executed, this bid together with your written acceptance thereof and your
+notification of award shall constitute a binding Contract between us.
+We understand that you are not bound to accept any/ all Proposal(s) you receive.
+
+Yours sincerely,
+
+Signature with seal
+Name and Designation of Authorized Signatory
+Date & Place
+
+
+
+
+
+               Ref. No: DAVV/ITC/INF/2025/1                            pg. 18
+
+                        DECLARATION
+
+(I)    I… ................................................................. do hereby declare that our firm is not black listed
+      and
+      no  enquiry/cases  are  pending  against  us  by  the  Govt.  of  India/any  State
+       Board/Universities, since inception of the firm/company. I further undertake that if above
+       declaration  probes  to be  wrong/incorrect  or  misleading  our  bid  stands  to  be
+       canceled/terminated.
+
+(II)    I/We solemnly declare that I/we have attached all the documents mentioned here above
+      and mentioned in the bid. I/We also understand that non-compliance of any documents
+        will be treated as no- respective bid and we will lose our claim to participate in the bid
+       enquiry automatically and our bid will be liable to rejected
+
+(III)   I/We further declare that the details given are correct to the best of my/our
+      knowledge and agree to abide by all bid/order terms and conditions mentioned in the
+       bid document.
+
+
+
+       Signature with seal:
+    Name and Designation of Authorized
+
+      Signatory
+
+      Date & Place:
+
+
+
+
+
+          Ref. No: DAVV/ITC/INF/2025/1                            pg. 19
+
+Mention Yes/No with the Details required:
+ 1.    Tender Document                                           Status (YES/NO)
+ 2.    E.M.D. Paid (online envelop A)
+       Enclose online generated receipt copy
+
+ 3.    Income tax Return
+ 4.    Technical Bid
+              I.     General Information
+             II.     Technical Compliance Sheet
+             III.    Bidders Qualifications documents
+
+
+            all supporting documents required in above.
+
+ 4.   Have you submitted all documentary evidence dully attested
+ 5.    Other Documents (if any)
+
+
+                         DECLARATION
+      I/We solemnly declare that I/we have attached all the documents mentioned here above and
+mentioned in the tender. I/We also understand that non-compliance of any documents will be treated as
+no- respective tender and we will lose our claim to participate in the tender inquiry automatically and our
+tender will be liable to rejected.
+
+
+
+
+Signature of Authorized:
+
+
+Name of the authorized Person:
+ Seal of the Company
+
+
+
+
+
+               Ref. No: DAVV/ITC/INF/2025/1                            pg. 20
+
+                         DECLARATION
+                                      (Envelope A)
+
+
+
+
+I………………………………………………………………….. do hereby declare that our firm is not
+
+black listed and no inquiry/cases are pending against us by the Govt. of India/any State Board/Universities,
+
+since inception of the firm/company.
+
+I further undertake that if above declaration probes to be wrong/incorrect or misleading our tender/contract
+
+stands to be canceled/terminated.
+
+
+
+
+
+Date: ………………
+Place: ……………..                                     Signature of Authorized Person
+
+
+
+
+
+               Ref. No: DAVV/ITC/INF/2025/1                            pg. 21
+
+                                                                      Annexure II
+
+                           Online Financial Bid (Envelop B)
+                   (To be quoted Online on prescribed proforma only)
+To,
+
+  The Registrar,
+   Devi Ahilya Vishwavidyalaya,
+   Nalanda Campus, RNT Marg, Indore.
+
+   Sub: –
+
+Sir,
+
+This has reference to your call for submitting quotation for Quotation for IT Infrastructure- Supply Installation and
+Configuration of Servers, Storage Servers, SAN Switch and GPON OLT at Devi Ahilya Vishwavidyalaya, Indore. I have
+read all the terms and the conditions as stipulated in the above. I have gone through all the terms and conditions mentioned
+in the tender document and already given my acceptance for it. I confirm that I fulfill the eligibility criteria as stipulated
+by you.
+
+I offer my rate in INR for tender Ref. No: DAVV/ITC/INF/2025/1  as under:
+
+ Sno.   Details                  Qty     Price per     Tax (Rs.)    Total Amount
+                                        Nos. (Rs.)     Per Nos.    (Rs.)
+                      A      B        C      A*(B+C)
+ 1.     Item I: Servers           03
+
+ 2.     Item II: Storage Server     01
+
+ 3.     Item III: SAN Switch      01
+
+ 4.     Item IV: GPON OLT      01
+
+                            Grand Total Amount(1+2+3+4)=
+
+
+
+
+
+     Signature with seal:
+   Name and Designation of Authorized Signatory
+
+    Date & Place
+
+
+
+
+
+               Ref. No: DAVV/ITC/INF/2025/1                            pg. 22

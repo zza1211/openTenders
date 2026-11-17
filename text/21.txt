@@ -1,0 +1,2286 @@
+                                            Indian Institute of Technology Hyderabad
+                                                       Kandi, Sangareddy - 502 284, Telangana, India
+                                                                         Phone: 040-23016071:
+                                                Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                            GLOBAL OPEN TENDER
+
+                                                                                  Date: 21.05.2025
+   Global Open Tender Ref. No: IITH/CC/KOTARO/2025/O/T011G
+
+   Indian Institute of Technology Hyderabad invites online bids (e-tender) in Two bid systems, from
+   OEM/Authorized distributors/Authorized dealer of the following categories for the following item.
+   Category of Suppliers invited for this Tender
+
+         i)      Class I local Supplier – has local content equal to or more than 50%
+         ii)     Class II local Supplier – has local content equal to 20% but less than 50%
+          iii)    Non-Local Supplier – has local content less than 20%
+
+                Item Description                   Qty      Tender fee    EMD (in Rs.)
+                                                      (GST 18%)
+
+Supply,   Installation,  Testing &  Commissioning  of    01      INR: 2,360/-      INR: 60,000/-
+Enterprise Grade Campus Core Network Internet Edge
+Router with its Transceivers
+
+   The Tender Document can be downloaded from https://eprocure.gov.in/eprocure/app OR Institute
+   website- https://iith.ac.in/tenders
+
+   The  bid   is  to  be  submitted  online  only  through  the  E-procurement   portal   of
+   https://eprocure.gov.in/eprocure/app up to the last date and time of submission of tender.
+
+   Schedule of Dates
+
+      Sr.No    Particulars                                      Date         Time
+
+       1     Date of Online Publication/Download of Tender      21.05.2025    04.00 P.M.
+
+       2     Bid Submission Start Date                         21.05.2025    04.30 P.M.
+
+       3     Bid Submission Close Date                         20.06.2025    11.00 A.M.
+
+       4    Opening of Technical Bids                          21.06.2025    11.30 A.M.
+
+  No manual bids will be accepted. All quotation (both Technical and Financial) should be submitted
+   online through E-procurement portal of https://eprocure.gov.in/eprocure/app
+  Any queries relating to the process of online bid submission or queries relating to CPP Portal in
+   general may be directed to the 24x7 CPP Portal Helpdesk. The contact details of the helpdesk are
+   +91  0120-4711  508,  +91  0120-4200462,  +91  0120-4001002,  +91  0120-4001005  and
+   support-eproc@nic.in.
+
+
+
+
+                                           Page 1 of 45
+
+                                    Indian Institute of Technology Hyderabad
+                                              Kandi, Sangareddy - 502 284, Telangana, India
+                                                                Phone: 040-23016071:
+                                       Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                               Index Page
+
+Sr.No                                  Contents
+
+  1   INSTRUCTIONS FOR ONLINE BID SUBMISSION
+
+  2   CHAPTER 1 INVITATION FOR TENDER OFFERS
+
+  3   CHAPTER 2 INSTRUCTIONS TO BIDDERS
+
+  4   CHAPTER - 3 CONDITIONS OF CONTRACT
+
+  5   CHAPTER 4- SCHEDULE OF REQUIREMENTS, SPECIFICATIONS & ALLIED
+      TECHNICAL DETAILS
+
+  6   CHAPTER-5 – BILL OF MATERIAL
+
+  7   ANNEXURE – A - FORMAT OF COMPLIANCE STATEMENT OF SPECIFICATIONS
+
+  8   ANNEXURE – B – BID SECURING DECLARATION
+
+  9   ANNEXURE – C – UNPRICED TECHNICAL BID
+
+ 10   ANNEXURE – D - MANUFACTURER’S AUTHORIZATION FORM
+
+ 11   ANNEXURE – E – PREVIOUS SUPPLY ORDER LIST FORMAT
+
+ 12   ANNEXURE – F - BIDDER INFORMATION FORM
+
+ 13   ANNEXURE – G - DECLARATION REGARDING CLEAN TRACK/NO LEGAL ACTION
+
+ 14   ANNEXURE – H – ACCEPTANCE OF TENDER TERMS
+
+ 15   ANNEXURE – I – RELATION CERTIFICATE
+
+ 16   ANNEXURE – J- DECLARATION FOR LOCAL CONTENT
+
+ 17   ANNEXURE – K- CERTIFICATE FOR DPIIT REGISTRATION
+      REFER CHAPTER 3 – CLAUSE NO 18
+
+ 18   ANNEXURE –L – FORMAT OF PERFORMANCE B G
+
+ 19   ANNEXURE –M – PRE-CONTRACT INTEGRITY PACT (Not Applicable)
+
+ 20   CHECKLIST FOR BIDDERS
+
+
+                                   Page 2 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                   INSTRUCTIONS FOR ONLINE BID SUBMISSION
+
+The bidders are required to submit soft copies of their bid electronically on the CPP Portal, using
+valid Digital Signature Certificates. Below mentioned instructions are meant to guide the bidders for
+registration on the CPP Portal, prepare their bids in accordance with the requirements and submit
+their bids online on the CPP Portal.
+
+For more information, bidders may visit the Portal (https://eprocure.gov.in/eprocure/app)
+
+    1. REGISTRATION PROCESS ON ONLINE PORTAL
+
+        1. Bidders are required to enroll on the e-Procurement module of the Central Public
+         Procurement Portal (URL: https://eprocure.gov.in/eprocure/app) by clicking on the
+           link “Online bidder Enrollment” on the CPP Portal which is free of charge.
+        2. As part of the enrolment process, the bidders will be required to choose a unique
+         username and assign a password for their accounts.
+        3. Bidders are advised to register their valid email address and mobile numbers as part of
+          the registration process. These would be used for any communication from the CPP
+            Portal.
+        4. Upon enrolment, the bidders will be required to register their valid Digital Signature
+            Certificate (Class  III Certificates with signing key usage) issued by any Certifying
+          Authority recognized by CCA India (e.g. Sify /nCode /eMudhra etc.), with their profile.
+        5. Only one valid DSC should be registered by a bidder. Please note that the bidders are
+          responsible to ensure that they do not lend their DSC’s to others which may lead to
+          misuse.
+        6.  Bidder then logs in to the site through the secured log-in by entering their user ID /
+         password and the password of the DSC / e-Token.
+
+    2. TENDER DOCUMENTS SEARCH
+
+        1. There are various search options built in the CPP Portal, to facilitate bidders to search
+           active tenders by several parameters. These parameters could include Tender ID,
+          Organization Name, Location, Date, Value, etc. There is also an option of advanced search
+           for tenders, wherein the bidders may combine a number of search parameters such as
+          Organization Name, Form of Contract, Location, Date, Other keywords etc. to search for
+          a tender published on the CPP Portal.
+        2. Once the bidders have selected the tenders they are interested in, they may download the
+          required documents / tender schedules. These tenders can be moved to the respective
+         ‘My Tenders’ folder. This would enable the CPP Portal to intimate the bidders through
+        SMS / e- mail in case there is any corrigendum issued to the tender document.
+        3. The bidder should make a note of the unique Tender ID assigned to each tender, in case
+          they want to obtain any clarification / help from the Helpdesk.
+
+                                        Page 3 of 45
+
+                                      Indian Institute of Technology Hyderabad
+                                                Kandi, Sangareddy - 502 284, Telangana, India
+                                                                  Phone: 040-23016071:
+                                         Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+3. BID PREPARATION
+
+    1. Bidder should take into account any corrigendum published on the tender document
+       before submitting their bids.
+    2. Please go through the tender advertisement and the tender document carefully to
+      understand the documents required to be submitted as part of the bid. Please note the
+      number of covers in which the bid documents have to be submitted, the number of
+      documents - including the names and content of each of the document that need to be
+       submitted. Any deviations from these may lead to rejection of the bid.
+    3. Bidder, in advance, should get ready the bid documents to be submitted as indicated in the
+       tender document / schedule and generally, they can be in PDF / XLS / RAR / DWF/JPG
+       formats. Bid documents may be scanned with 100 dpi with black and white option which
+       helps in reducing size of the scanned document.
+    4. To avoid the time and effort required in uploading the same set of standard documents
+      which are required to be submitted as a part of every bid, a provision of uploading such
+       standard documents (e.g. PAN card copy, annual reports, auditor certificates etc.) has
+      been provided to the bidders. Bidders can use “My Space” or ‘’Other Important
+       Documents’’ area available to them to upload such documents. These documents may be
+        directly submitted from the “My Space” area while submitting a bid, and need not be
+      uploaded again and again. This will lead to a reduction in the time required for bid
+      submission process.
+
+      Note: My Documents space is only a repository given to the Bidders to ease the  uploading
+      process.  If Bidder has uploaded his Documents in My Documents space, this does not
+     automatically ensure these Documents being part of Technical Bid.
+
+4. BID SUBMISSION
+
+  1.  Bidder should log into the site well in advance for bid submission so that they can upload
+     the bid in time i.e. on or before the bid submission time. Bidder will be responsible for any
+     delay due to other issues.
+  2.  The bidder has to digitally sign and upload the required bid documents one by one as
+     indicated in the tender document.
+  3.  Bidder has to select the payment option as “offline” to pay the tender fee / EMD as
+     applicable and enter details of the instrument.
+  4.  Bidder should prepare the EMD as per the instructions specified in the tender document.
+    The original should be posted/couriered/given in person to the concerned official, latest
+     by the last date of bid submission or as specified in the tender documents. The details of
+     the DD/any other accepted instrument, physically sent, should tally with the details
+      available in the scanned copy and the data entered during bid submission time. Otherwise
+     the uploaded bid will be rejected.
+
+
+
+                                     Page 4 of 45
+
+                                      Indian Institute of Technology Hyderabad
+                                                Kandi, Sangareddy - 502 284, Telangana, India
+                                                                  Phone: 040-23016071:
+                                         Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+  5.  Bidders are requested to note that they should necessarily submit their financial bids in
+     the format provided and no other format is acceptable. If the price bid has been given as a
+     standard BoQ format with the tender document, then the same is to be downloaded and to
+     be filled by all the bidders. Bidders are required to download the BoQ file, open it and
+     complete the white coloured (unprotected) cells with their respective financial quotes and
+     other details (such as name of the bidder). No other cells should be changed. Once the
+      details have been completed, the bidder should save it and submit it online, without
+     changing the filename. If the BoQ file is found to be modified by the bidder, the bid will be
+      rejected.
+  6.  The server time (which is displayed on the bidders’ dashboard) will be considered as the
+     standard time for referencing the deadlines for submission of the bids by the bidders,
+     opening of bids etc. The bidders should follow this time during bid submission.
+  7.  All the documents being submitted by the bidders would be encrypted using PKI
+     encryption techniques to ensure the secrecy of the data. The data entered cannot be
+     viewed by unauthorized persons until the time of bid opening. The confidentiality of the
+     bids is maintained using the secured Socket Layer 128 bit encryption technology. Data
+     storage encryption of sensitive fields is done. Any bid document that is uploaded to the
+     server is subjected to symmetric encryption using a system generated symmetric key.
+     Further this key is subjected to asymmetric encryption using buyers/bid opener’s public
+      keys. Overall, the uploaded tender documents become readable only after the tender
+     opening by the authorized bid openers.
+
+  8.  The uploaded tender documents become readable only after the tender opening by the
+     authorized bid openers.
+  9. Upon the successful and timely submission of bids  (i.e. after Clicking “Freeze Bid
+     Submission” in the portal), the portal will give a successful bid submission message & a bid
+    summary will be displayed with the bid no. and the date & time of submission of the bid
+     with all other relevant details.
+  10. The bid summary has to be printed and kept as an acknowledgement of the submission of
+     the bid. This acknowledgement may be used as an entry pass for any bid opening meetings.
+
+5. AMENDMENT OF BID DOCUMENT
+   At any time prior to the deadline for submission of proposals, the department reserve the
+    right to add/modify/delete any portion of this document by the issuance of a Corrigendum,
+   which would be published on the website and will also be made available to the all the Bidder
+   who has been issued the tender document. The Corrigendum shall be binding on all bidders
+   and will form part of the bid documents.
+
+
+
+
+
+                                     Page 5 of 45
+
+                                      Indian Institute of Technology Hyderabad
+                                                Kandi, Sangareddy - 502 284, Telangana, India
+                                                                  Phone: 040-23016071:
+                                         Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+6. ASSISTANCE TO BIDDERS
+
+    1.  Any queries relating to the tender document and the terms and conditions contained
+       therein should be addressed to the Tender Inviting Authority for a tender or the
+       relevant contact person indicated in the tender.
+    2.  Any queries relating to the process of online bid submission or queries relating to
+     CPP Portal in general may be directed to the 24x7 CPP Portal Helpdesk. The contact
+       details of the helpdesk are +91 0120-4711 508, +91 0120-4200462, +91 0120-
+      4001002, +91 0120-4001005 and support-eproc@nic.in .
+
+
+
+
+
+                                     Page 6 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                 CHAPTER 1 INVITATION FOR TENDER OFFERS
+
+Indian Institute of Technology Hyderabad invites online bids (e-tender) in Two bid system, from
+OEM/Authorized distributers/Authorized dealer of the following categories for the following item
+
+Item:  Supply, Installation, Testing & Commissioning of Enterprise Grade Campus Core Network
+Internet Edge Router with its Transceivers
+
+Category of Suppliers invited for this Tender
+     i)      Class I local Supplier – has local content equal to or more than 50%
+     ii)     Class II local Supplier – has local content equal to 20% but less than 50%
+     iii)    Non-Local Supplier – has local content less than 20%
+
+1. The Bidders are requested to give detailed tender in Two Bid i.e.
+
+              a.  Part - I: Technical
+            b.  Part – II: Commercial Bid.
+
+        3.  Date & Time Schedule:
+    Sr.No                      Particulars                      Date       Time
+
+     1     Date of Online Publication/Download of Tender
+                                                          As mentioned above
+     2     Bid Submission Start Date
+
+     3     Bid Submission Close Date
+
+     4    Opening of Technical Bids
+
+Supply means: “Supply, Installation, Commissioning and satisfactory demonstration of the whole
+system and training”. If any charges extra are payable for Installation, Commissioning and training,
+the same should be specified in the commercial offer.
+
+3. Availability of Tender:
+The Tender Document can be downloaded from Central Public Procurement (CPP) Portal
+https://eprocure.gov.in/epublish/app OR Institute website- https://iith.ac.in/tenders
+
+4. Envelope 1- Technical Bid:
+4.1. The online envelope clearly marked as "Technical Bid - Envelope No. 1” shall contain all
+scanned copies of originals documents in PDF Format.
+
+a) Compliance statement of specifications as per Annexure- ‘A’.
+b) Bid Securing Declaration Form as per Annexure- ‘B’.
+c) Unpriced Technical Bid as per Annexure- ‘C’
+d) Manufacturer authorization as per Annexure –‘D’.
+
+                                        Page 7 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+e) Previous Supply Order List Format as per Annexure –‘E’.
+f) Bidder Information Form as per Annexure –‘F’.
+g) Declaration Regarding Clean Track/No Legal Action as per Annexure –‘G’.
+h) Acceptance of Tender Terms as per Annexure – ‘H’
+i) Relation Certificate – as per Annexure – ‘I’
+J) Local Content Declaration as per Annexure – ‘J’
+k) Certificate as per DPIIT Order – as per Annexure ‘K’
+L) Format of Performance B G - as per Annexure ‘L’
+M) Integrity pact – as per Annexure ‘M’ (Not Applicable)
+
+o) Copy of GST/ PAN No. allotted by the concerned authorities. If registered with the National Small
+Industries Corporation, the registration number, purpose of registration and the validity period of
+registration and a copy of NISC/MSME registration wherever it is applicable should also be provided
+in Technical Bid.
+
+p) Technical literature/  leaflets and complete specifications of quoted model(s) along with
+commercial terms and conditions.
+
+q) Undertaking that the successful BIDDER agrees to give a security deposit amounting to 10% of
+the purchase order value by way of Demand Draft / Bank Guarantee in favour of The Director, IIT
+Hyd.
+
+r) In case of exemption from submission of Bid security, proof of registration with NSIC/MSME or
+appropriate authority.
+
+s) Details of supplies of similar Works/Supplies along with photocopies of previous Purchase orders
+and details of place of supply along with contact details
+
+t) Check List
+
+4.2. (a) Tender Fees:  Tender Fees of Rs. 2,360/- (including 18% GST) in the form of Demand
+Draft/Bankers cheque in the name of Director IIT Hyd, should be submitted. The Demand
+Draft/Bankers Cheque in original should be posted/couriered/given in person to the Stores &
+Purchase Section of IIT Hyd , before the last date of Opening of Technical Bid. In case of non-receipt
+of original document before the due date of opening of technical bid, the uploaded bid will be
+summarily rejected.
+
+(b) Earnest Money Deposit (EMD) –Rs. INR: 60,000/-
+
+For Online Payment of EMD/Tender Fees: The EMD/Tender Fees can also be paid online, the bank
+details are as follows:
+
+
+ Name of the Bank Of IIT Hyderabad     Account Number   IFSC CODE   Branch code
+
+ SBI                                 30412797764      SBIN0014182   14182
+
+                                        Page 8 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+The Online payment proof needs to be uploaded along with the Technical Bid.
+
+The firm registered with NSIC/MSME must give proof of registration along with their
+quotation failing which the bid will not be considered.
+
+Exemption from submission  of EMD/Tender Fees against  valid and relevant NSIC /MSME
+Certification is permitted, however it shall be subject to scrutiny by the IITH and if during scrutiny,
+it is found that the NSIC Certificate is invalid and/or irrelevant, then that bid is liable to be rejected
+as “not-accompanying EMD”. Therefore, Bidders claiming exemption from EMD/Bid Securing
+Declaration against NSIC certificate, should ensure the same carefully, while submission of their bids.
+
+Note: If in the view of bidder, any exemption / relaxation is applicable to them from any of the
+eligibility requirements, under any Rules / Guidelines/ Directives of Government of India, bidder
+may  submit  their  claim  for  the  applicable  exemption  /relaxation,  quoting  the  valid
+Rule/Guidelines/ Directives with a copy of such notification. In this case the bidder must submit
+necessary and sufficient documents along with the technical bid, in support of their claim. The
+relevant and valid certificates in support of claim of exemption must be submitted along with the
+Technical Bid.
+
+i) The BIDDER who submits the tender on behalf of their principals should produce documentary
+evidence in support of their authority to quote or submit Proforma invoice of their principals for this
+tender.
+
+ii) The successful BIDDER, on award of contract / order, must send the contract / order acceptance
+in writing, within 15 days of award of contract.
+
+iii)  Bids submitted without Bid Securing Declaration / relevant MSME/NSIC Certificates will be
+rejected & no correspondence in this regard shall be entertained.
+
+iv) These exemptions /relaxations are meant for procurement of only goods produced and services
+rendered by MSEs. Traders/ distributors/ sole agent/ Works Contract are excluded from the purview
+of the policy.
+
+This Bid is also governed by the latest General terms and conditions as per GeM.
+
+4.3. Technical Specifications:
+It must be ensured that the offers must be strictly as per our specifications. At the same time, it must
+be kept in mind that merely copying our specifications in the quotation shall not make the parties
+eligible for consideration of the quotation. A quotation has to be supported with the printed technical
+leaflet/literature of the quoted model of the item by the quoting party/manufacturer and the
+specifications mentioned in the quotation must be reflected /supported by the printed technical
+leaflet/literature. Therefore, the model quoted invariably be highlighted in the leaflet/literature
+enclosed with the quotation. Non-compliance of the above shall be treated as incomplete/ambiguous
+
+
+                                        Page 9 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+and the offer can be ignored without giving an opportunity for clarification/negotiation etc. to the
+quoting party.
+
+4.4. Compliance Statements:
+i) Bidders must furnish a Compliance Statement of each and every required Specification of our
+tender in the format at ANNEXURE–‘A’. The deviations, if any, from the tendered specifications
+should be clearly brought out in the statement. Technical literature/leaflet showing the compliance
+of the specification may also be attached with the quotation.
+
+ii) Similarly, the Compliance Statement/questionnaire for Terms & Conditions of the tender may be
+furnished, as per the enclosed format at Annexure  –‘A’, along with quotation (with techno-
+commercial bid in case of two bid tender system).
+
+iii) The firms are advised to submit both the compliance statements essentially along with their
+quotation failing which their offer may not be considered.
+
+5. Envelope 2: “Commercial Bid” shall contain:
+i.) Cost of all the items should be mentioned clearly and individually in the Commercial Offer
+(Part-II) only.
+
+ii) The BIDDERs are requested to quote for Educational Institutional Price for Equipment and
+software, since IITH is an educational institution of national importance and is entitled for the
+concessional price.
+
+iii) The prices should be shown against each item for the purpose of Insurance claims / replacements
+if any.
+
+iv) List of deliverables / Bill of materials and services.
+
+v) In case of foreign quote, the address of Principal’s / Manufacturer’s and their Banker’s details
+should be furnished.
+
+Note:
+
+(i) No request for extension of due date will be considered under any circumstances.
+
+(ii) No sub-contracting is allowed with regard to installation, commissioning, training, warranty
+maintenance and after sales service. This is the sole responsibility of the Principals’/their authorized
+agents
+
+6. IIT Hyd may issue corrigendum to tender documents before due date of Submission of bid. The
+bidder is required to read the tender documents in conjunction with the corrigendum, if any, issued
+by IIT Hyd.
+
+
+
+
+                                       Page 10 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+7. Bid Opening and Evaluation Process:
+a. Technical Bids will be opened as per the Date Schedule & Time.
+b. Financial Bids/Commercial Bids of the eligible bidders will be opened on a later date. The date and
+time for opening of Financial Bids /Commercial will be announced later.
+c. Bids would be summarily rejected, if tender is submitted other than through an online portal. The
+Bid is to be submitted within the stipulated date / time.
+
+8. Technical Committee:
+
+(i) On the due date the Technical bids will be opened and referred to a duly constituted technical committee.
+The committee will go through the technical aspects of the tender and recommend short listed firms. The
+recommendation of the technical committee is the final and binding on all the parties.
+
+ (ii) The technical evaluation will be an assessment of the Technical Bid.  IIT Hyd  representatives will
+proceed through a detailed evaluation of the Technical Bids as defined in Chapter IV (Schedule of
+requirements,  specifications and  allied  technical  details),  in order  to determine whether they are
+substantially responsive to the requirements set forth in the tender. In order to reach such a determination,
+IIT Hyd  will examine the information supplied by the BIDDERs, and shall evaluate the same as per the
+specifications mentioned in this tender.
+
+ (iii) The technical committee may formulate evaluation criteria in addition to the specifications and
+requirements indicated in the tender, in the interest of IIT Hyd and these criteria/recommendation will also
+form as a part of short-listing of the firms.
+
+ (iv) The Technical Committee will examine all the Technical aspects of the bids received. Further, the
+Technical Committee may seek additional information from the existing users at IIT Hyd or from other
+Institutes, these feedbacks will be considered for technical evaluation, the bidders will also be called for
+technical  presentations if it is required so. The bidders who are exempted from “ prior experience &
+turnover” will also be required to provide the details of the previous supplies if asked for at the stage of
+technical evaluation  to enable the technical committee to take feedback from the existing users of the
+bidders.
+
+ (v) The information received and the bids already submitted together will be examined with reference to
+the tendered specifications and evaluation is made by the Technical Committee.
+
+ (vi) After the technical evaluation is completed and approved, IIT Hyd  shall inform to the BIDDERs
+whose bids have been rejected technically with the reasons for rejection.
+
+ (vii) The successful BIDDERs will be informed regarding the date and time of Commercial bid opening.
+
+ (viii) In the event of seeking any clarification from various BIDDERs by IIT Hyd , the BIDDERs are
+required to furnish only technical clarifications that are asked for. No amendment to commercial bid
+will be entertained at that stage. In case if a BIDDER fails to quote for a particular item it amounts to
+non-compliance and hence such bid will not be considered for further evaluation. Further during this
+process if any BIDDER indicates the price during the clarification such bids also will not be considered
+for further evaluation.
+
+
+                                       Page 11 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+9. Commercial Bid Evaluation:
+Based on results of the Technical evaluation IIT Hyd evaluates the Commercial Bid of those Bidders
+who qualify in the Technical evaluation.
+
+a) IIT Hyd shall be free to correct arithmetical errors on the following basis:
+(i) If there is a discrepancy between the unit price and the line item total that is obtained by
+multiplying the unit price by the quantity, the unit price shall prevail and the line item total shall be
+corrected, unless in the opinion of the Purchaser there is an obvious misplacement of the decimal
+point in the unit price, in which case the line item total as quoted shall govern and the unit price shall
+be corrected.
+(ii) If there is an error in a total corresponding to the addition or subtraction of subtotals, the
+subtotals shall prevail and the total shall be corrected; and
+(iii) If there is a discrepancy between words & figures, the amount in words shall prevail, unless the
+amount expressed in words is related to an arithmetic error, in which case the amount in figures shall
+prevail subject to (i) and (ii) above.
+
+b) Selling exchange rate/equivalent to Indian currency will be as on the date of bid opening in the
+case of single bidding and the rate on the date of opening of the Techno-Commercial bids i.e.
+Technical Bid in the case of two-part bidding.
+c) The bids shall be evaluated on the basis of final landing cost as per format given in Price Schedule
+in case of import / indigenous items.
+d) The comparison between the indigenous and the foreign offers shall be made on FOR destination
+basis and CIF/CIP basis respectively. However, the CIF/CIP prices quoted by any foreign bidders shall
+be loaded further as under:
+• Towards customs duty and other statutory levies-as per applicable rates.
+e) Where the price quoted on FOB/FCA and CIF/CIP basis are the same, the Contract would be made
+on CIF/CIP basis only.
+f) The Vague terms like “packing, forwarding, transportation. Etc. extra” without mentioning the
+specific amount/percentage of these charges will not be accepted. Such offers shall be treated as
+incomplete and rejected.
+
+g) After arriving at final pricing of individual offers of all the short listed firms, the lowest firm will
+be awarded with Contract/Purchase Order.
+
+1. The Director, IIT Hyd reserves the right to accept the offer in full or in parts or reject summarily
+   or partly and also reserves the right to cancel the tender at any stage without assigning reasons
+
+
+
+
+
+                                       Page 12 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                   CHAPTER 2: INSTRUCTIONS TO BIDDERS
+
+1. PREPARATION AND SUBMISSION OF OFFERS:
+
+a) Quotation should be submitted directly by the original manufacturer/supplier or  its sole
+authorized distributor/dealer/ Agent. In case of bid by authorized dealer/distributor/ Agent, the
+manufacturer authorization should be attached with the technical bid as per Annexure-‘C’.
+
+One Agent can participate in a tender on behalf of one manufacturer only. No offer will be
+entertained if the same Agent is representing another manufacturer for the same item.
+
+Bids from only one authorized distributor/retailer/reseller will be entertained, who has
+authorization from the company to quote for this tender. Multiple bids from various
+distributors from the same manufacturer will not be entertained & the company / principle
+providing multiple authorizations will be rejected from the tender.
+
+b) The bidder shall bear all costs associated with the preparation and submission of its bid
+irrespective of the conduct or outcome of the bidding process.
+
+c) The bidder should not indulge in any corrupt, fraudulent, collusive, coercive practices during the
+entire process of procurement and execution of contract/order.
+
+d) Before the deadline for submission of the bid, IIT Hyd reserves the right to modify the bidding
+document and to extend or not to extend the date of submission. Such amendment/modification will
+be hosted on https://eprocure.gov.in/eprocure/app OR Institute website- https://iith.ac.in/tenders
+
+f) Conditional tenders will be summarily rejected.
+
+2. Delivery Period / Timeliness:
+The deliveries & installation must be completed within 12 Weeks from the purchase order. The time
+is the essence of the contract. It is mandatory for the BIDDERs who respond to this bid to meet these
+expectations, as they are tightly linked to IIT Hyd plans of completing the project within the time
+frame.
+
+3 Security Deposit:
+
+a. Within fifteen (15) days of the award of contract, the vendor shall furnish a Security Deposit
+amounting to 5% of the purchase order value in the form of Insurance Surety Bonds, Account
+Payee, Demand Draft, Fixed Deposit Receipt, Banker’s Cheque or Bank guarantee from any
+commercial Banks or payment online of a scheduled bank in the name of Director, IIT Hyd
+favouring the Director, IIT Hyd.
+
+b. The Security Deposit will be encashed/claimed if the vendor fails to execute the order as
+per the Purchase Order.
+
+
+                                       Page 13 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+c. The Security Deposit should be valid for a period of 3 Years CAMC + 60 days, as the same will
+extend the same as Performance Bank Guarantee. Hence while preparing the BG, the time
+required for delivery and installation and warranty + 60 days needs to be accounted for to
+cover the BG validity period.
+
+d) This Security Deposit will be refunded to the vendor only on satisfactory completion of all
+contractual obligations as per this Tender and Purchase Order issued against this Tender.
+
+e) Bank Guarantee wherever mentioned in this document may be read as “Bank Guarantee
+from any Scheduled Bank” only. The Bank Guarantee should be submitted in Hard Copy to
+IITH and the issuing Bank should send the IFN 760 COV Bank Guarantee Advice Messages to
+our bankers through SFMS (Structured Finance Messaging System). Our Bank details are as
+follows:
+
+Name of Bank: Canara Bank
+Branch: IIT Kandi Campus
+Account No: 3458101000222
+IFSC Code: CNRB0003458
+SWIFT: CNRBINBBBFD.
+
+4. Amalgamation/Acquisition etc.:
+In the event the Manufacturer/Supplier proposes for amalgamation, acquisition or sale of its business
+to any firm during the contract period, the BUYER/Successor of the Principal Company are liable for
+execution of the contract and also fulfilment of contractual obligations  i.e. supply, installation,
+commissioning, warranty, maintenance/replacement of spares accessories etc. while submitting
+your bid, you may confirm this condition.
+
+5. Bid Validity Period:
+a. The prices must be valid at least for a period of 120 days from the date of opening of the Tender.
+No changes in prices will be acceptable in any condition after opening of tender till the validity of the
+offer or execution of the order whichever is later
+
+b. IIT Hyd may ask for the BIDDER’s consent to extend the period of validity. Such request and the
+response shall be made in writing only. The BIDDER is free not to accept such request. A BIDDER
+agreeing to the request for extension will not be permitted to modify his bid.
+
+c.  Bid evaluation will be based on the bid prices without taking into consideration the above
+corrections
+
+6. AWARD OF CONTRACT:
+a. IIT Hyd, shall award the contract to the technically qualified eligible BIDDER whose bid has been
+determined as the lowest evaluated commercial bid.
+
+b. If more than one BIDDER happens to quote the same lowest price, IIT Hyd reserves the right to
+award the contract to more than one BIDDER or any BIDDER.
+
+                                       Page 14 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+7. IIT Hyd reserves the right to vary quantities at the time of Award:
+
+  a. IIT Hyd reserves the right at the time of Contract award to increase or decrease the quantity of
+    goods and services originally specified in the tender document without any change in unit price
+    or other terms and conditions. Further, at the discretion of IIT Hyd, the quantities in the contract
+   may be enhanced by 25% within the delivery period.
+
+  b. Firms which have already supplied similar equipment to IIT Hyd and have not completed
+    required installation/commissioning/after sales service/warranty replacements etc. such firms
+     offer will not be considered for further evaluation and no enquiries thereafter will be
+    entertained.
+
+8. Cargo Consolidation and Customs Clearance:
+    IIT Hyd has appointed its own Freight Forwarder and Custom House Agent for all the imports.
+    Please note that all the consignments have to be routed through their associates only. The
+    address and contact details will be provided at the time of placing the Purchase Order.
+
+9. Fraud and Corruption:
+IIT Hyd requires that bidders, suppliers, contractors and consultants, if any, observe the highest
+standard of ethics during the procurement and execution of such contracts. In pursuit of this policy,
+
+(a) The terms set forth below are defined as follows:
+
+(i) “Corrupt practice” means the offering, giving, receiving, or soliciting, directly or in directly, of
+anything of value to influence the action of a public official in the procurement process or in contract
+execution;
+(ii) “Fraudulent practice” means a misrepresentation or omission of facts in order to influence a
+procurement process or the execution of a contract;
+(iii) “Collusive practice” means a scheme or arrangement between two or more bidders, designed
+to establish bid prices at artificial, non -competitive levels; and
+(iv) Coercive practice” means harming or threatening to harm, directly or indirectly, persons or
+their property to influence their participation in the procurement process or affect the execution of
+a contract
+
+(b) IIT Hyd will reject a proposal for award if it determines that Bidder recommended for award has,
+directly or through an agent, engaged in corrupt, fraudulent collusive or coercive practices in
+competing for the Contract in question
+
+10. Interpretation of the clauses in the Tender Document / Contract Document
+In case of any ambiguity / dispute in the interpretation of any of the clauses in this Tender Document,
+Director, IIT Hyd’s interpretation of the clauses shall be final and binding on all parties.
+
+
+
+
+
+                                       Page 15 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                   CHAPTER - 3: CONDITIONS OF CONTRACT
+1. Prices:
+Bid prices should be filled in the appropriate format as mentioned in Price Schedule. All the bidders
+should quote prices for each item/accessory separately
+
+A. Bidders Quoting in Indian Rupees (INR)
+(i) The price of the goods must be as per the BoQ.
+
+(ii) The price mentioned in BoQ must be inclusive of transportation, Insurance, loading and unloading
+and any other local service required for delivering the goods for the desired destination as decided
+by IIT Hyd. Loading and unloading is strictly in vendor scope. IIT Hyd will not provide any manpower
+support towards the same.
+
+(iii) The installation, commissioning and training charges (If any) must be mentioned as per the BoQ
+(if requested separately in BoQ) else the price quoted will be taken as inclusive of installation,
+commissioning and training.
+
+(iv) The institute will not be responsible in case of the bidders failing to include any of the above
+mentioned prices in their bid. The price mentioned in the BoQ will be final and the bidder has to
+comply with that, if awarded the tender.
+
+(v) Unloading of the goods at IIT Hyd is strictly in the scope of the bidder, no manpower will be
+provided by IIT Hyd.
+
+B. Bidders Quoting in Foreign Currency
+(i) The mode of shipment must be clearly mentioned in the BoQ viz Ex-works, FCA, FOB, CIP, DDP etc.
+
+(ii) Courier mode of shipments will not be acceptable. The Shipments must be dispatched under
+Cargo Mode only.
+
+(iii) The mode of shipment once mentioned cannot be changes without the consent of IIT Hyd.
+
+(iv) Any financial implication leading to change of mode of shipment or any deviation from the bid
+submitted shall be borne by the bidder.
+
+(v) The charges towards insurance and transportation of the goods and agency commission must be
+clearly mentioned.
+
+(vi) The installation, commissioning and training charges (If any) must be mentioned as per the BoQ
+(if requested separately in BoQ) else the price quoted will be taken as inclusive of installation,
+commissioning and training.
+
+(vii) The institute will not be responsible in case of the bidders failing to include any of the above
+mentioned prices in their bid. The price mentioned in the BoQ will be final and the bidder has to
+comply with that, if awarded the tender.
+
+                                       Page 16 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+C.  IIT Hyd   is  exempted from payment of Customs Duty under notification No.51/96 dated
+23.07.1996. No other charges than those mentioned clearly in the quotation will be paid.
+
+2. Bank Charges:
+All Bank charges inside India, including opening of LC, to IIT Hyd Account and all charges outside
+India to Beneficiary’s Account only. In case the BIDDER seeks confirmation of LC such confirmation
+charges are to the Beneficiary’s account.
+
+3. Agency Commission & Services:
+a) The Indian Agency commission if any will be payable in Indian currency only after the receipt of
+consignment in good condition at our Stores and satisfactory installation and commissioning of the
+ordered equipment.
+b) In case of foreign quote, the principal supplier should clearly indicate the address of the Indian
+Agent and percentage (%) of Agency Commission and taxes if any payable to him. Such amounts will
+be paid in Indian Currency to the Indian Agent.
+c) Details of services rendered by the Agency/Indian Agent as well as after-sales services offered are
+to be clearly specified in the bid.
+
+4. Currency of Payment - The contract price will be paid in the currency/currencies in which the
+price is stated in the contract.
+
+5.    Performance Bank Guarantee: The 5% Security Deposit which  is mentioned above
+(Chapter 2 Point No 3) will be extended as Performance Bank Guarantee for a period of warranty
+period.
+
+6. Pre-installation: The BIDDER must state in detail the Electrical Power/UPS requirements, floor
+Space, head room, foundation needed and also to state whether Air-conditioned environment is
+needed to house the system and to run the tests. i.e. pre-installation facilities required for installation
+may please be intimated in the technical bid. Subsequently, before the consignment lands in IIT Hyd
+the bidder shall confirm that the pre-installation requirements are sufficient for installation of the
+equipment. The BIDDER should continuously monitor the pre-installation requirements and see that
+everything is ready before the consignment is taken to the site for installation.
+
+7. Installation:
+a) BIDDER shall be responsible for installation / demonstration wherever applicable and for
+after sales service during the warranty and thereafter.
+b)  Installation demonstration to be arranged by the supplier free of cost and the same is to be done
+within a week of the arrival of the equipment at site, unless otherwise instructed by the Institute
+c) After successful installation what will be the minimum down time of equipment/instrument in
+case of breakdown. If the identified firm or person fails to put the system into working condition
+what is the further alternative course of action suggested to adhere to minimum down time should
+be covered in the Technical Bid.
+
+8. Inspection:
+a) The inspection of the system will be done by our technical expert /Scientist in the presence of
+firm’s representative.
+                                       Page 17 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+b) In case of receipt of the material in short supply or damaged condition the supplier will have to
+arrange the supplies/ replacement of goods free of cost pending the settlement of the insurance case
+wherever applicable on FOR at the IIT Hyd.
+
+9. Training: Wherever needed, Scientist/Technical persons of the Institute should be trained by the
+supplier at the project site free of cost. In case the person is to be trained at supplier’s site abroad or
+in India it should be mentioned in the quotation clearly. The supplier should bear all the expenses for
+such training including ‘to & fro’ fares and lodging & boarding charges.
+
+10. Warranty / Support:
+a) The items covered by the schedule of requirement shall carry minimum 3 Years CAMC from the
+date of acceptance of the equipment by IIT Hyd. Warranty shall include free maintenance of the whole
+equipment supplied including free replacement of parts. The defects, if any, shall be attended to on
+immediate basis but in no case any defect should prolong for more than 24 hours. The comprehensive
+warranty includes onsite warranty with parts.
+
+b) The defects, if any, during the guarantee/warranty period are to be rectified free of charge by
+arranging free replacement wherever necessary. This includes cost, insurance, freight, custom duty,
+local taxes if any should be borne by the beneficiary or his agent. No cost will be borne by IIT Hyd.
+
+c) The warranty on the associated software should cover providing of upgraded version/s, if any,
+released during the warranty period free of cost.
+
+d) The Bidder shall assure the supply of spare parts after warranty is over for maintenance of the
+equipment supplied if and when required for a period of 10 years from the date of supply of
+equipment on payment on approved price list basis.
+
+e) The equipment must be supported by a Service Centre in India manned by the technical support
+engineers. Also it should be possible to contact the Principal’s vendor support Centre on a toll free
+number/web/mail. The support through this Centre must be available during all working days and
+hours.
+
+f) The manufacturer/OEM should facilitate the bidder/Agent on regular basis with technology /
+product updates & extend support for the warranty as well.
+
+g) The vendor will have to arrange for all the testing equipment & tools required for installation,
+testing & maintenance etc.
+h) The principal vendor must have a local logistics support by maintaining a spares in the country of
+deployment of the equipment, with the Indian Agent. This is to ensure immediate delivery of spares
+parts from Principal Vendor of equipment to its channel partner/system integrator.
+
+i) Details of the agency who shall maintain during warranty and undertake Annual Maintenance
+Contract/Comprehensive Service Maintenance Contract beyond warranty shall be given in the offer.
+In case of foreign quote, the Indian Agent who shall maintain during warranty and AMC beyond
+warranty shall be given in the Technical Offer
+
+                                       Page 18 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+j) Commencement of Warranty Period: The warranty period of an item shall commence from the
+date of successful installation, commissioning and demonstration at IIT Hyd. The warranty period
+and validity of Performance Guarantee shall be extended for the period of delay in satisfactory
+installation and delay in warranty services.
+
+11. Reasonability of Prices:  The prices quoted must be the prices applicable for a premiere
+Educational and Research Institute of national importance. The bidder must give details of identical
+or similar equipment, if any, supplied to other IITs/ IISERs/ CSIR lab/ CFTI’s during last three years
+along with the final price paid and Performance certificate from them
+
+12. Annual Maintenance Contract: The bidder must mention in the quotation, the rate/amount of
+annual maintenance charges, if we opt for maintenance contract after expiry of the warranty period.
+This is mandatory to mention, wherever applicable.  No sub-contracting will be allowed for
+installation or maintaining system/ equipment / instrument during or after warranty period.
+
+13. Indemnity: The vendor shall indemnify, protect and save IIT Hyd against all claims, losses, costs,
+damages, expenses, action suits and other proceeding, resulting from infringement of any law
+pertaining to patent, trademarks, copyrights etc. or such other statutory infringements in respect of
+all the equipment’s supplied by the bidder/OEM.
+
+14. Freight & Insurance:
+a) Imports: In case of imports the freight & insurance will be paid by IIT Hyd ,  if the consignments
+are shipped through the IIT Hyd nominated freight forwarder (applicable only cases of FCA/FOB
+shipments).
+b) Indigenous: The equipment’/items to be supplied will be insured by the vendor against all risks
+of loss or damage from the date of shipment till such time it is delivered at IIT Hyd site in case of
+Rupee transaction.
+
+15. Payment: - No advance payments are allowed.
+
+A) INDIGENIOUS
+For Indigenous items,90% payment will be made against Delivery and remaining 10%  after
+installation, commissioning & acceptance by IIT Hyd and submission of Performance Bank Guarantee
+for the value of 5% of the order value valid for a period of warranty period plus 60 days.
+
+B) IMPORT
+i) Letter of Credit will be established for 100% order value excluding the Agency Commission due to
+the Indian Agents. 90% payment shall be made against the presentation of original Shipping
+documents to our bankers or as per the LC terms and conditions. Balance 10% will be released after
+completion of satisfactory installation, commissioning, demonstration of the whole system to the
+satisfaction of the Institute/User Scientist Technologist/Indentor/Professor and submission of
+Performance Bank Guarantee for the value of 5% of the order value valid for a period of warranty
+period plus 60 days.
+
+OR
+
+                                       Page 19 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+ii) By Wire Transfer - 100% payment shall be made against delivery, installation, commissioning and
+demonstration  of  the  whole  system  to  the  satisfaction  of  the  Institute/User  Scientist
+/Technologist/Indentor/Professor iii) The payment of local currency portion shall be payable in
+Indian Rupees, within 30 days after the receipt of the equipment in good condition and after
+satisfactory installation and commissioning and demonstration.
+
+iii) The payment of local currency portion shall be payable in Indian Rupees, within 30 days after the
+receipt of the equipment in good condition and after satisfactory installation and commissioning and
+demonstration.
+
+iv) The Agency Commission to the Indian Agent will be paid in INR only after successful installation,
+commissioning and satisfactory demonstration and acceptance of the items ordered for by the end
+user.
+
+16. Liquidity Damage for delayed Services
+i) As time is the essence of the contract, Delivery period mentioned in the Purchase Order should be
+strictly adhered to, failing which, IIT Hyd will forfeit SD and also LD clause will be applicable
+/enforced.
+
+ii) If the supplier fails to Supply, Install and Commission the system as per specifications mentioned
+in the order within the due date, the Supplier is liable to pay liquidated damages of 0.5% of order
+value per every week of delay subject to a maximum of 10% beyond the due date. Such money will
+be deducted from any amount due or which may become due to the supplier.
+iii) IIT Hyd reserves the right to cancel the order in case the delay is more than 10 weeks. Penalties,
+if any, will be deducted from the Security Deposit.
+
+17. Public Procurement (Preference to Make in India), Order 2017:
+a) IIT Hyd shall compare all substantially responsive bids to determine the lowest valuated bid. This
+Institute is following and abide with the Public Procurement (Preference to Make in India), Order
+2017, DIPP, MoCI Order No. P-45021/2/2017-B.E. II dated 15th June 2017 and its subsequent
+amendments. Accordingly, preference will be given to the Make in India products while evaluating
+the bids, however, it is the sole responsibility of the bidder(s) to specify the product quoted by them
+is of Make in India product along with respective documentary evidence as stipulated in the aforesaid
+order in the technical bid itself.
+
+b) As per the above order and its subsequent amendments “Local Content” means the amount of
+value added in India which shall be value of the item procured (excluding net domestic indirect taxes)
+minus the value of the imported content in the item (including all the custom duties) as a proportion
+of the total value, in percent. Accordingly, the suppliers will be classified in following categories.
+
+     i)      Class I local Supplier – has local content equal to more than 50%
+     ii)     Class II local Supplier – has local content equal to more than 20% but less than 50%
+     iii)    Non-Local Supplier – has local content less than 20%
+
+c) Verification of Local Content: The Class I Local Supplier /Class II Local Supplier at the time of
+bidding shall be required to indicate the percentage of local content and provide self-certification
+                                       Page 20 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+as per Annexure ‘I’ that the items offered meet the local content requirement. The details of the
+location(s) at which the local value addition is made also needs to be specified.
+
+In case of procurement more than Rs.10 crores, the suppliers shall be required to provide the
+certificate from the Statutory auditor or cost auditor of the company giving the percentage of local
+content.
+
+The bidders can be debarred for a period up to two years as, per Rule 151(iii) of GFR 2017, in
+case of false declaration.
+
+Complaint Redressal Mechanism:
+
+In case any complaint received by the procuring agency or the concerned Ministry/Department
+against the claim of a bidder regarding local content/domestic value addition in a product, the same
+shall be referred to competent authority at IITH or the relevant Ministry.
+
+The bidder against whom the complaint is received shall be required to furnish the necessary
+documentation in support of the domestic value addition claimed in the product to authority. If no
+information is furnished by the bidder, such laboratories may take further necessary action, to
+establish the bonafides of the claim
+
+A complaint fee of Rs. 2 lakh or 1% of the value of the domestically manufactured products being
+procured (subject to a maximum of Rs.5 lakh), whichever is higher, to be paid by Demand Draft to be
+deposited with Procuring Institute. In case, the complaint is found to be incorrect, the complaint fee
+shall be forfeited. In case, the complaint is upheld and found to be substantially correct, deposited fee
+of the complainant would be refunded without any interest.
+
+False declarations will be in breach of the Code of Integrity under Rule 175 (1)(i)(h) of the General
+Financial Rules for which a bidder or its successors can be debarred for up to two years as per Rule
+151 (iii) of the General Financial Rules along with such other actions as may be permissible under
+law.
+
+18. Requirement of registration: Vide Ministry of Finance OM No. 6/18/2019-PPD dated 23rd July
+2020.
+
+i. Any bidder from a country sharing a land border with India will be eligible to bid in this tender only
+if the bidder is registered with the Department for Promotion of Industry and Internal Trade (DPIIT).
+
+ii. "Bidder" (including the term 'tenderer', 'consultant' or 'service provider' in certain contexts)
+means any person or firm or company, including any member of a consortium or joint venture (that
+is an association of several persons, or firms or companies), every artificial juridical person not falling
+in any of the descriptions of bidders stated hereinbefore, including any agency branch or office
+controlled by such person, participating in a procurement process.
+
+
+                                       Page 21 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+iii. "Bidder from a country which shares a land border with India" for the purpose of this Order
+means:
+a) An entity incorporated, established or registered in such a country; or
+b) A subsidiary of an entity incorporated, established or registered in such a country; or
+c) An entity substantially controlled through entities incorporated, established or registered in such
+a country; or
+d) An entity whose beneficial owner is situated in such a country; or
+e) An Indian (or other) agent of such an entity; or
+f) A natural person who is a citizen of such a country; or
+g) A consortium or joint venture where any member of the consortium or joint venture falls under
+any of the above
+
+For details about registration procedures please  visit the above mentioned OM. Mandatory
+documentary evidence regarding the bidder’s registration with DPIIT is to be submitted along with
+the tender, failing which the tender shall be liable for rejection. Bidders are also requested to submit
+the Model Certificates as per Annexure ‘J’ for this tender as mentioned in the Ministry of Finance
+OM No. 6/18/2019-PPD dated 23rd July 2020.
+
+19. Force Majeure: IIT Hyd may consider relaxing the penalty and delivery requirements, as
+specified in this document, if and to the extent that the delay, in performance or other failure to
+perform its obligations under the Contract, is the result of a Force Majeure. Force Majeure is defined
+as an event of effect that cannot reasonably be anticipated such as acts of God (like earthquakes,
+floods, storms etc.) acts of states, the direct and indirect consequences of wars (declared or
+undeclared) hostilities, national emergencies, civil commotion and strikes at successful Bidder’s
+premises.
+
+20. Dispute Settlement:
+IIT Hyd and the Supplier shall make every effort to resolve amicably by direct informal negotiation
+any disagreement or dispute arising between them under or in connection with the Contract.
+
+If, after twenty-one (21) days, the parties have failed to resolve their dispute or difference by such
+mutual consultation, then either the IIT Hyd or the Supplier may give notice to the other party of its
+intention to commence arbitration, as hereinafter provided, as to the matter in dispute, and no
+arbitration in respect of this matter may be commenced unless such notice is given. Any dispute or
+difference in respect of which a notice of intention to commence arbitration has been given in
+accordance with this Clause shall be finally settled by arbitration.
+
+Arbitration may be commenced prior to or after delivery of the Goods under the Contract. The
+dispute settlement mechanism/arbitration proceedings shall be concluded as under:
+
+(a) In case of Dispute or difference arising between the IIT Hyd and a domestic supplier relating to
+any matter arising out of or connected with this agreement, such disputes or difference shall be
+settled in accordance with the Indian Arbitration & Conciliation Act, 1996, the rules there under and
+any statutory modifications or re-enactments thereof shall apply to the arbitration proceedings. The
+dispute shall be referred to the Director IIT Hyd, if he is unable/ unwilling to act, to the sole
+
+                                       Page 22 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+arbitration of some other person appointed by his willing to act as such Arbitrator. The award of the
+arbitrator so appointed shall be final, conclusive and binding on all parties to this order.
+
+(b) In the case of a dispute between the Purchase and a Foreign suppler, the dispute shall be settled
+by arbitration in accordance with provision of sub-clause (a) above. But if this is not acceptable to
+the supplier then the dispute shall be settled in accordance with provisions of UNCITRAL (United
+Nations Commission on International Trade Law) Arbitration Rules. The venue of the arbitration
+shall be the place from where the purchase order or contract is issued.
+
+21. Jurisdiction: The disputes, legal matters, court matters, if any, shall be subject to Hyderabad
+Jurisdiction only.
+
+
+
+                                                                         Assistant Registrar (S&P)
+
+
+
+
+
+                                       Page 23 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                              CHAPTER 4
+
+TECHNICAL SPECIFICATIONS OF Enterprise Grade Campus Core Network Internet
+Edge Router:
+
+                    TECHNICAL SPECIFICATIONS
+  Item - 1: Enterprise Grade Campus Core Network Internet Edge Router – Quantity - 1 no’s
+                          with 36 Months Warranty and Support
+The solution should support all the below-mentioned features from Day One. Additional
+ licenses or Additional Modules or Parts, Mounting Kits, brackets and required material,
+Antennas, any hardware or software required for the Network Router of IIT Hyderabad.
+ Sr.
+       Feature   Minimum Technical Specification
+No
+                The Router should support multi-core Processor, internal redundant field
+                    replaceable power supply with 1+1 or N+1 power supply redundancy from Day1.
+                  Router should support high availability with non-disruptive hardware and
+                   software upgrade capabilities.
+                  Router should have a physical separation between control and data planes
+                    processor. The Router should support hardware acceleration for encryption to
+ 1   Architecture                   ensure high-throughput IPsec and MACsec performance from Day-1.
+                  Router should have a minimum of 16 GB of on-board/inbuilt DRAM/RAM for
+                    data plane + control plane processes from Day-1
+                The router shall support the following type of interfaces: Min 8 no. of SFP - 1
+                   Gigabit Ethernet and min 4 no. of SFP/SFP+ 1/10 Gigabit Ethernet ports from
+                Day-1
+                  Router should have minimum IP forwarding throughput of 38 Gbps from Day-1
+                  Router should support minimum 4M IPv4 & IPv6 routes from Day-1
+                  Router should support minimum 4K ACL or more per system from Day-1 2   Performance
+                The router should support min 18 Gbps of IPSEC Bandwidth from Day-1
+                  Router should be scalable to support up to 4000 tunnels & VRF level
+                  segmentation with min support for 8000 VRF segments from Day-1
+                  Router should support IGMP v1/v2/v3 and PIM multicast routing from Day-1
+                  Router should support static Routes, OSPFv2, OSPFv3, BGP4, BGP Route
+                    Reflector (RR), MBGP, BFD, Policy based routing, IPv4 and IPv6 tunneling from
+               Day 1
+                  Router should support Network Address Translation (NAT) from Day-1
+       Protocol
+ 3              The router should support firewall features with security zones from Day-1       Support
+                  Router should support traffic optimization features built into the router operating
+                  system or an external appliance can be provided for similar functionality from
+                Day-1
+                    Shall have 802.1p class of service and marking, classification, policing and
+                  shaping from Day-1
+
+                                       Page 24 of 45
+
+                                        Indian Institute of Technology Hyderabad
+                                                  Kandi, Sangareddy - 502 284, Telangana, India
+                                                                    Phone: 040-23016071:
+                                           Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                Should support advanced encryption algorithms like AES-256 and AES-GCM
+                from Day-1
+               The router should be able to support Hierarchical QoS. QoS should be supported
+                 both at Physical and sub-interface level from Day-1
+               The router should support deep packet inspection (DPI) and application layer
+                    identification (Layer-7) with the ability to define QoS and access control policies
+                 based on applications from Day-1
+               The router must support the IPv4 and IPv6 stack. It must support both IPv4 and
+                IPv6 routing domains separately and concurrently from Day-1
+                 Router should support SSHv2, SNMPv2c, SNMPv3 and NTP from Day-1
+                 Routers should support AAA using RADIUS and TACACS+ from Day-1
+               The router should support IP SLA or equivalent feature for path selection based
+               on metrics such as delay, latency, jitter, and packet loss to assure business-critical
+                 IP applications from Day-1.
+                 Router should support deep packet inspection (DPI) and monitoring of network
+4  Manageability traffic with application-level insight, including visibility into web traffic and
+               RTP-based VoIP traffic from Day-1
+                 Router should have traffic load balancing capability on dual WAN Links based on
+                 based on advanced criteria, such as reachability, delay, loss, jitter and bandwidth
+                     utilization from Day-1
+               The router should support dynamic establishment of multipoint-to-multipoint
+                 IPSec-based spoke-to-spoke VPN tunnels based on traffic conditions from Day-1.
+               4x 1/10GE SFP/SFP+ interfaces from day 1 with compatible transceivers loaded
+                  as per the BoM mentioned below from Day-1
+5     Interface   8x 1GE interfaces of SFP from day with compatible transceivers loaded as per the
+           BoM mentioned below from Day-1
+                 Supported Transceivers should be from same OEM as with quoted router model.
+                 Supported Operating temperature: 5 to 40 degrees from Day-1
+6  Environmental
+                Humidity – 10% to 85% Non-Condensing from Day-1
+                 Router shall conform to UL 60950 or IEC 60950 or CSA 60950 or EN 60950
+                 Standards for Safety requirements of Information Technology Equipment from
+               Day-1
+                 Router shall conform to EN 55022 Class A/B or CISPR22 Class A/B or CE Class
+              A/B or FCC Class A/B Standards for EMC (Electro Magnetic Compatibility)7   Certification
+                 requirements from Day-1
+                  Router/Router’s Operating System should be tested and certified for EAL
+              3/NDPP or above under Common Criteria Certification from Day-1
+                 Router should be IPv6 Certified/IPv6 logo ready from Day-1
+
+
+
+
+
+                                      Page 25 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+Solution:
+
+  Sr.
+      Description
+ No
+  1  A solution should be proposed with all the required licenses to work from Day-1
+      Bidder shall ensure to propose enterprise campus core grade internet edge router and not
+    SMB category. Bidder should submit the datasheets of the proposed router and transceivers
+      along with clear pictures of the connector types of transceivers. SMB category shall be
+  2   rejected.
+  3  The Total solution should have 36 months hardware warranty.
+     The Total solution should have technical support for software, Software upgrades for 36
+  4   months.
+  5  The Total solution should come with the latest and updated version available at no extra cost.
+      Submission End-of-sale certificate on OEM Letter Head, which includes the last date to order
+       the product and its accessories, additional hardware modules, subscriptions, and licenses
+      through the OEM, for a minimum of 5 years from the date of Installation shall be provided on
+  6    letter head.
+  7   Supported modules/cables need to be provided as per the solution from Day 1.
+  8  The quoted router and its transceivers and modules should be from same OEM
+      3 years’ support and support should be provided directly from OEM. It should start after
+  9   completion of the Installation
+      Proposed Router and transceivers quoted in the BoQ should form the same OEM for
+  10   interoperability and ease of management.
+  11  Bidder must submit Part Coded Bill of Materials of the offered Product
+  12  Supported Transceivers need to be provided as per the solution from Day 1.
+     The Total solution should have technical support for software, Software upgrades for 36
+  13  months
+  14  The Total solution should come with the latest and updated version available at no extra cost
+  15  Solution should be proposed with all the required licenses to work from Day-1
+  16  The Total solution should come with all required feature licenses from first day of installation
+      Supplied products should be supported for 3 years warranty from the Installation completion
+       date. 3 Years OEM support bundle with 24x7x365 days online TAC support, 8x5xNBD
+  17  RMA, software updates and subscription update support.
+      Bidder should provide onsite support within 6 Hrs and provide 8x5xNBD Advance Hardware
+  18 RMA replacement part delivery for hardware problems.
+     Warranty & Support
+      Warranty & Support: Router should have a 3 Year Hardware Warranty and software updates
+      and subscription update support.
+       Additional Licenses: Shall be Permanent mode if available from the OEM or shall be supplied
+       for 5 years which should be quoted in the bid.
+       Service :24x7x365 High Priority resolution OEM Technical support for 3 years
+  19  Bidder response time: Onsite support within 6 Hrs over a period of 3 years from the date of
+
+                                       Page 26 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                   Kandi, Sangareddy - 502 284, Telangana, India
+                                                                     Phone: 040-23016071:
+                                            Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+      complete installation.
+     Hardware Warranty: 8x5xNBD RMA for Hardware problems for 3 years
+      Software upgrades/updates shall be included as part of the warranty"
+
+
+
+           Item: 2 Transceivers (OEM should be same as with quoted Router Model)
+                          2 (a)10G Multimode Transceivers
+                                          Specifications
+Speed     10Gbps
+Type      Multi-mode - OM4 supported
+Connection LC
+OEM     Same as Router OEM
+Distance   Upto 150 Mtr
+                         2 (b )10G Single mode Transceivers
+                                          Specifications
+
+Speed     10Gbps
+Type        Single mode
+Connection LC
+OEM     Same as Router OEM
+Distance   10 KM
+
+
+                              Table 1. Bill of Material (BoM):
+                                      Description                                Qty
+      Enterprise Grade Campus Core Network Internet Edge Router – Quantity - 1 no and its
+      Transceivers
+      Enterprise Grade Campus Core Network Internet Edge Router (Rack mounted and
+  1   Appliance based)                                                              1
+     Supported Transceivers for Enterprise Grade Campus Core Network Internet
+  2  Edge Router (OEM should be same as with quoted router model)
+ 2 (a) 10G Multimode Transceivers of Enterprise Class including 3 years warranty                2
+ 2 (b) 10G Single mode Transceivers of Enterprise Class including 3 years warranty               2
+  3  Power Supply
+ 3 (a) Supported Power Modules in redundancy                                       2
+ 3 (b) Supported Power Cords type C13/C14 in redundancy                              2
+                                                                                  As per
+  4  BGP Basic and Advance Licenses including Router Reflector licenses (for 5 years)           solution
+                                                                                  As per
+  5   Subscriptions/ Licenses (If Any) for min 5 year                                             solution
+                                                                                  As per
+  6   Internet Gateway License (If Any) for min 5 years                                          solution
+
+                                       Page 27 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+
+                                                                                   As per
+  7   Compliance Licenses (if any) for min 5 years                                               solution
+                                                                                   As per
+  8   Rack mount Kits                                                                          solution
+  9  OEM specific licenses to enable required throughout/ licenses/ enable all interfaces for
+     5 years and support the mentioned forwarding throughput of 38 Gbps from Day-1 for      As per
+      next 5 years                                                                              solution
+  10                                                                               As per
+      24x7x365 High Priority resolution OEM Technical support for Router for 3 years            solution
+  11                                                                               As per
+    RMA Support for Router Hardware 8x5xNBD for 36 months                                solution
+  12                                                                               As per
+       Delivery Charges for Router and Transceiver and all required components                  solution
+  13                                                                               As per
+       Installation Charges                                                                      solution
+  14  Any other additional licenses or Additional Modules or Parts, Mounting Kits , brackets
+     and required material, Antennas, any hardware or software required for the proposed     As per
+       solution for next 5 years after the date of installation                                      solution
+  15  (* Bidders shall include additional line items, if necessary, to ensure the completeness     As per
+     and accuracy of their proposals to fulfill the solution from Day-1)                          solution
+
+Eligibility Criteria:
+        1.  Throughout the warranty and support period of 36 months initially and further AMCs in
+            future, considering IIT Hyderabad’s academic and Research activities, the bidder should
+          provide onsite technical support at IIT Hyderabad within 6 Hours from the time at which a
+          support ticket/ complaint has been raised by IIT Hyderabad with the bidder.
+        2.  Specify the proposed solution Brand name, Model no., Supporting software package
+            details. The quoted product should have minimum life period of 5 years and OEM letter to
+         be submitted for the same. The solution should be an appliance based, and standard rack
+         mounted.
+        3.  Proposed components must be Original from the OEM and not refurbished or partly/fully
+          used in some other locations.
+        4.  All the equipment must be compatible with Indian electrical standards and codes.
+        5.  IIT Hyderabad reserves the right to alter the quantity of the components, and no reason
+           will be necessary to be provided by IIT Hyderabad for the same
+        6. The Bidder/OEM should configure the entire system as per the scope of work defined by
+          IIT Hyderabad post-supply. (e.g. install and integrate the router with ISPs router and an
+           existing Cisco 9500 WAN switch along with existing firewall. Also migrate existing
+          Cisco 1001-X router configuration/policies/ routing -BGP and OSPF routing protocols,
+           interfaces configuration etc. to the new proposed product and verify internet access.
+
+
+
+                                       Page 28 of 45
+
+                                      Indian Institute of Technology Hyderabad
+                                                Kandi, Sangareddy - 502 284, Telangana, India
+                                                                  Phone: 040-23016071:
+                                         Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+    7. The bidder must provide evidence of successful installation of the same or higher models
+       of the proposed router within the last three (3) years from the date of submitting their bid.
+      The required evidence shall include copies of the purchase orders for the relevant
+        installations and Installation Reports. The bidder must have experience of
+       configuring the BGP and OSPF routing protocols.
+    8.  The bidder shall have at least 1 certified Network routing engineers like CCNP Routing
+       Certified(Preferred) Or CCNA R&S or any equivalent or higher certificate in Routing
+       specialization of various OEMs.. Declaration from bidder and requisite certificate in the
+     name of employees to be submitted along with the bid.
+    9.  Bidder must submit the publicly available technical datasheets for the proposed router,
+       transceivers etc.
+   10. Bidder must adhere to the requirements and quote the products/components/licenses
+       transceivers as per the solution from Day-1.
+   11. All above mentioned features should be available from day 1. Any license required
+        shall be factored from day 1
+
+For any technical query related to enquiry you may to contact
+
+Dr. Kotaro Kataoka, Dept. of CC, Email: kotaro@cse.iith.ac.in
+For Commercial query
+Mr. Venkatesh M – Senior Assistant Registrar Email: ar.purchase@iith.ac.in
+Mr. Ramesh Kumar - Assistant Registrar Email: ar.stores@iith.ac.in
+Ms. D Chanchala Devi– Joint Registrar, Email: hos.snp@iith.ac.in
+With CC: office.stores@iith.ac.in
+
+
+
+
+
+                                    Page 29 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                                                          ANNEXURE – A
+
+             FORMAT OF COMPLIANCE STATEMENT OF SPECIFICATIONS
+
+
+ 1           2                    3               4           5           6
+
+
+S. N.  Name of                 Specifications of quoted   Compliance   Deviation, if   Whether the
+       specifications/part /    Model/ Item                              any, to be     compliance /
+                                               Whether      Accessories of tender                                             indicated in    deviation is
+                                                     “YES” Or      enquiry                                                 unambiguous  clearly
+                                                 “NO”                                                                terms        mentioned in
+     As per Chapter 4 of the                                                                                          technical
+      Tender Document.                                                                                                  leaflet/
+                                                                                               literature
+
+
+ 1
+
+
+ 2
+
+
+ 3
+
+
+
+Note :  Bidders are required to fill this table as per the specifications given in the Chapter 4 of this
+Tender Document. The points needs to be reproduced in the table at Column No 2 and then fill in the
+relevant details for each specifications. Please attach the Product Brochure..
+
+
+Signature of the Bidder
+
+Name
+
+Stamp
+
+
+
+
+
+                                       Page 30 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                                                          ANNEXURE – B
+                           Bid Securing Declaration Form
+
+Date:___________________                                    Tender No. _________________
+
+To (insert complete name and address of the purchaser)
+
+I/We. The undersigned, declare that:
+
+I/We understand that, according to your conditions, bids must be supported with EMD . -
+
+I/We accept that I/We may be disqualified from bidding for any contract with you for a period of
+two year from the date of notification if I am /We are in a breach of any obligation under the bid
+conditions, because I/We
+
+       a) have withdrawn/modified/amended, impairs or derogates from the tender, my/our Bid
+       during the period of bid validity specified in the form of Bid; or
+
+       b) having been notified of the acceptance of our Bid by the purchaser during the period of
+       bid validity (i) fail or reuse to execute the contract, if required, or (ii) fail or refuse to furnish
+       the Performance Security, in accordance with the Instructions to Bidders.
+
+I/We understand this Bid Securing Declaration shall cease to be valid if I am/we are not the
+successful Bidder, upon the earlier of (i) the receipt of your notification of the name of the
+successful Bidder; or (ii) thirty days after the expiration of the validity of my/our Bid.
+
+
+Signed:                       (insert signature of person whose name and capacity are shown)
+in the capacity of     (insert legal capacity of person signing the Bid Securing Declaration)
+
+Name:                (insert complete name of person signing he Bid Securing Declaration)
+
+Duly authorized to sign the bid for an on behalf of (insert complete name of Bidder)
+
+Dated on _____________ day of ___________________ (insert date of signing)
+
+Corporate Seal (where appropriate)
+
+
+(Note: In case of a Joint Venture, the Bid Securing Declaration must be in the name of all partners to
+the Joint Venture that submits the bid)
+
+
+
+
+
+                                       Page 31 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                                                 ANNEXURE - C
+
+                      UNPRICED TECHNICAL BID
+          (Bidder should provide the following details on Letter head)
+
+
+
+Quotation No :                                                        Date:
+
+
+
+Name of the Bidder ____________________            GeM bid No.____________________
+
+
+
+
+ Sr.No    Item Description   Country   Make &   HSN Code   GST %      Qty
+                              of Origin   Model
+
+
+ 1
+
+ 2
+
+ 3
+
+ n
+
+
+
+
+Other Terms & Conditions
+
+
+ 1        Payment terms                                                                             :
+ 2         Delivery Period from the date of Issue of PO                             :
+ 3        Warranty                                                                                       :
+ 4       Any other additional terms                                                         :
+
+
+
+
+
+                                       Page 32 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                                                          ANNEXURE – D
+
+      MANUFACTURER’S AUTHORIZATION & WARRANTY SUPPORT DECLARATION
+
+                           (ON OEMs Letter head)
+
+                                                                                          Date:
+
+Tender No / GeM bid no:
+
+To
+The Director,
+Indian Institute of Technology Hyderabad,
+Kandi, Hyderabad – 502 284
+We,_________________ [name of Manufacturer], who are official manufacturers of [Insert type of goods
+manufactured] having factories at [insert full address of Manufacturer’s factories], do hereby
+authorize [insert complete name of Bidder] to submit a bid the purpose of which is to provide the
+following goods, manufactured by us [insert name and or brief description of the goods], and to
+subsequently negotiate and sign the contract.
+
+We hereby extend our full guarantee,  warranty, availability of spare parts and AMC support  in
+accordance with the Terms and Conditions of Contract with respect to the Goods offered by the above
+firm.
+
+ Authorized representative of the Manufacturer     Authorized representative Bidder
+
+
+ Signature:                                         Signature:
+
+
+ Name:                                    Name:
+
+
+ Address:                                        Address:
+
+
+ Mobile No:                                    Mobile No:
+
+
+ Email ID:                                      Email ID:
+
+
+
+                                       Page 33 of 45
+
+                                              Indian Institute of Technology Hyderabad
+                                                         Kandi, Sangareddy - 502 284, Telangana, India
+                                                                           Phone: 040-23016071:
+                                                  Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                                                              ANNEXURE – E
+
+                        PREVIOUS SUPPLY ORDER LIST FORMAT
+
+
+Order      Order  Description  Value  Date of      Date of     Remarks    Has the        Contact
+placed by   No.    and          of     completion  actual       indicating   equipment     Person
+          and    quantity of   order  of delivery   completion  reasons for  been installed  along with
+{Full           Date   ordered             as per        of delivery   late           satisfactorily?  Telephone
+address of                 equipment          contract                   delivery, if                      no., Fax
+Purchaser]                                                                     (Attach a                                                         any and                      no. and e-
+                                                                                             certificate                                                                            justification                 mail
+                                                                       from the                                                                       for price                     address.
+                                                                            Purchaser/                                                                     difference
+                                                                                Consigner]                                                                       of their
+                                                              supply
+                                                              order &
+                                                               those
+                                                           quoted to
+                                                                           us.
+
+
+
+
+
+     Signature and Seal of the Manufacturer/ bidder …………………………………
+
+
+
+      Place:
+
+     Date:
+
+
+
+
+
+                                            Page 34 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                                                          ANNEXURE – F
+                        BIDDER INFORMATION FORM
+
+Company Name                      : ___________________________________________
+
+Registration Number  : ___________________________________________
+
+Registered Address    : __________________________________________
+
+                           ____________________________________________
+
+Name of Partners /Director:____________________________________________
+
+                         ____________________________________________
+
+City                             : ___________________________________________
+
+Postal Code            :___________________________________________
+
+Company’s Establishment Year :____________________________________________
+
+Company’s Nature of Business :____________________________________________
+
+
+
+Company’s Legal Status     1) Limited Company
+
+(tick on appropriate option ) 2) Undertaking
+
+                           3) Joint Venture
+
+                           4) Partnership
+
+                           5) Others ( In case of Others please specify)
+
+
+
+Company Category         1) Micro Unit as per MSME
+
+                           2) Small Unit as per MSME
+
+                           3) Medium Unit as per MSME
+
+                           4) Ancillary Unit
+
+                           5) SSI
+
+                           6) Others (In case of Others please specify)
+
+                                       Page 35 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+CONTACT DETAILS
+
+Contact Name :____________________________________
+
+Email Id       :____________________________________
+
+Designation   :____________________________________
+
+Phone No       :( ______) ____________________________
+
+
+
+Mobile No :____________________________________
+
+
+
+BANK DETAILS
+
+Name of Beneficiary   : _____________________________
+
+
+
+A/c. No. CC/CD/SB/OD: _____________________________
+
+Name of Bank             : _____________________________
+
+IFSC NO. (Bank)          : _____________________________
+
+Branch Address and Branch Code: __________________________________
+
+                                 __________________________________
+
+Other Details
+
+PAN No. _______________________________
+
+GST No. _________________
+
+GeM Registration (If available) _________________
+
+
+
+
+                                                                                                                                                                                                              .
+
+
+
+
+
+                                       Page 36 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                                                          ANNEXURE – G
+
+            DECLARATION REGARDING CLEAN TRACK/NO LEGAL ACTION
+
+
+                              (to be provided on letter head of the firm)
+
+I hereby certify that our firm namely ___________________________ is neither blacklisted by any Central/State
+
+Government/Public Undertaking/Institute nor any criminal case registered / pending against the firm or
+its owner / partners anywhere in India.
+
+I also certify that the above information is true and correct in every respect and in any case at a later date
+
+it is found that any of the details provided above are incorrect, any contract given to the above firm may
+be summarily terminated and the firm blacklisted.
+
+OR
+
+I  hereby  certify  that    our  firm  namely  ___________________________________  was  blacklisted  by
+__________________________________ for a period of ___________years/months at the Institute Level/ All Indian
+Level.
+
+
+
+Date:                                                Authorized Signatory
+
+                                             Name:
+
+Place:                                                  Designation:
+
+                                                      Contact No.:
+
+
+
+
+
+                                       Page 37 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                                                          ANNEXURE – H
+                      ACCEPTANCE OF TENDER TERMS
+                          (To be given on Company Letter Head)
+                                                                     Date: DD/MM/YYYY
+
+To,
+The Director
+Indian Institute of Technology Hyderabad
+Kandi – 502 285.Telangana, India
+
+Sub: Acceptance of Terms & Conditions of Tender.
+Tender Reference No: ________________________
+Name of Tender / Work: -
+Dear Sir,
+ 1.  I/ We have downloaded / obtained the tender document(s) for the above mentioned ‘Tender’
+from the web site(s) namely ____________________________________________________as per your advertisement,
+given in the above mentioned website(s).
+ 2. I / We hereby certify that I / we have read the entire terms and conditions of the tender documents
+(including all documents like annexure(s), schedule(s), etc  .,), which form part of the contract
+agreement and I / we shall abide hereby by the terms / conditions / clauses contained therein.
+ 3. The corrigendum(s) issued from time to time by your department/ organisation too have also
+been taken into consideration, while submitting this acceptance letter.
+ 4.  I / We hereby unconditionally accept the tender conditions of above mentioned tender
+document(s) / corrigendum(s) in its totality / entirety.
+
+ 5. I / We certify that all information furnished by the our Firm is true & correct and in the event that
+the information  is found to be incorrect/untrue or found violated, then your department/
+organisation shall without giving any notice or reason therefore or summarily reject the bid or
+terminate the contract, without prejudice to any other rights or remedy including the forfeiture of
+the full said earnest money deposit absolutely.
+
+Yours Faithfully,
+
+
+
+(Signature of the Bidder, with Official Seal)
+
+
+
+
+
+                                       Page 38 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                                                          ANNEXURE – I
+
+                     NO RELATIONSHIP CERTIFICATE
+
+                             (On Company Letterhead )
+
+1. I/We hereby certify that I/We* am/are* related/not related(*) to any officer of IIT Hyderabad. (
+If Related provide the details of the employee)
+
+2. I/We* am/are* aware that, if the facts subsequently proved to be false, my/our* contract will be
+rescinded with forfeiture of E.M.D and security deposit and I/We* shall be liable to make good the
+loss or damage resulting from such cancellation.
+
+3. I//We also note that, non-submission of this certificate will render my / our tender liable for
+rejection.
+
+
+
+Date:                                                Authorized Signatory
+                                             Name:
+
+Place:                                                  Designation:
+
+                                                      Contact No.:
+
+
+
+
+
+                                       Page 39 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                                                          ANNEXURE – J
+
+
+                  Declaration for Local Content from OEMs Letter Head
+
+(To be given on Company Letter Head ‐ For tender value below Rs.10 Crores)
+(To be given by Statutory Auditor/Cost Auditor/Cost Accountant/CA for tender value above
+Rs.10 Crores)
+
+Date: _____________
+
+To,
+The Director,
+Indian Institute of Technology Hyderabad,
+Kandi, Sangareddy 502284
+
+Sub: Declaration of Local content
+
+Tender Reference No: ________________________
+
+Name of Tender / Work: ‐ ________________________________________________________
+
+1. Country of Origin of Goods being offered: _______________________
+
+2. We hereby declare that items offered has ____% local content (Please provide exact %).
+
+3. Details of location at which local value addition will be made / made: (Complete address to be
+mentioned) _______________________________________________________
+
+_____________________________________________________________________________
+
+
+“Local Content” means the amount of value added in India which shall, be the total value of the item
+being offered minus the value of the imported content in the item (including all customs duties) as a
+proportion of the total value, in percent.
+“*False declaration will be in breach of Code of Integrity under Rule 175(1)(i)(h) of the General
+Financial Rules for which a bidder or its successors can be debarred for up to two years as per Rule 151
+(iii) of the General Financial Rules along with such other actions as may be permissible under law.”
+
+
+Yours Faithfully,
+(Signature of the Bidder/OEM, with Official Seal)
+
+
+
+
+
+                                       Page 40 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                                                          ANNEXURE –K
+                                 CERTIFICATE
+                      ON COMPANY LETTERHEAD
+
+
+
+                  CERTIFICATE BY BIDDER- DPIIT REGISTRATION
+
+“ I have read the clause regarding restrictions on procurement from a bidder of a country which
+shares a land border with India; I certify that this bidder is not from such a country or, / if from such
+a county, has been registered with the Competent Authority (copy of the Registration Certificate
+enclosed) . I hereby certify that his bidder fulfils all requirements in this regard and is eligible to be
+considered.
+
+
+Signature with Date and Stamp
+Of the Bidder
+
+
+
+
+
+                                       Page 41 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                                                           ANNEXURE -L
+               FORMAT FOR PERFORMANCE BANK GUARANTEE
+
+To
+Indian Institute of Technology Hyderabad.
+Kandi, Sangareddy 502284
+
+Dear Sirs,
+
+       In consideration of the Indian Institute of Technology Hyderabad (hereinafter referred to as
+the "Buyer" which expression shall unless excluded by or repugnant to the context or meaning
+thereof, include its successors administrators and assigns) having issued to ………………………………..
+(Name of the seller) with its Registered / Head Office at …………………………….. (hereinafter referred to
+as the "Seller" which expression shall unless excluded by or repugnant to the context or meaning
+thereof, include its successors, administrators, executors and assigns) an order bearing Purchase
+Order No. …………………………….. dated …………………….. and the same having been unequivocally
+accepted by the seller resulting into a Contract between the buyer and the seller for supply of
+……………………………………., more fully described in the said Purchase Order and the buyer in terms of
+one of the provisions of the said Purchase Order and whereas the Seller has undertaken to produce
+a Bank Guarantee amounting  to Rs. ____________________  , which is 10% of the Contract value in
+aggregate for Performance and Warranty to the Buyers.
+
+      We, the _____________________________ bank hereby expressly, irrevocably and unreservedly
+undertake the guarantee as Principal obligators on behalf of the SELLER that, in the event that the
+BUYER declares to us that the amount claimed is due by way of loss or damage caused to or would
+be caused or suffered by the BUYER by reason of breach/failure to perform by the said SELLER of
+any of the terms and conditions in the contract related to the Performance and Warranty clauses, we
+will pay you, on demand and without demur, all and any sum upto (10% of the contract value)
+Rs. ______________ only at any one instance under this Guarantee. Your written demand shall be
+conclusive evidence to us that such repayment is due under the terms of the said contract. We shall
+not be entitled to ask you to establish your claim or claims under this guarantee but will pay the same
+forthwith without any protest or demur. We undertake to effect the payment upon receipt of such
+written demand.
+
+    We shall not be discharged or released from the undertaking and guarantee by any
+arrangements, variations made between you and the SELLER, indulgence to the SELLER by you, or
+by any alterations in the obligations of the SELLER or by any forbearance whether as to payment,
+time performance or otherwise.
+
+    We further agree that any such demand made by the BUYER on the Bank shall be conclusive,
+binding, absolute and unequivocal notwithstanding any difference or dispute or controversy that
+may exist or arise between you and the Seller or any other person.
+                                       Page 42 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+       In no case shall the amount of this guarantee be increased.
+
+       This Performance-cum-Warranty guarantee shall remain valid for a period until 60 days
+beyond the warranty period i.e. upto ____________
+
+       Subject to the terms of this Bank Guarantee , the issuing bank hereby irrevocably authorizes
+the beneficiary to draw the amount upto  Rs. _______________ ( 10% of the total contact value) for
+breach/failure to perform by the Seller of any of the terms and conditions of the contract related to
+performance and warranty clause. Notwithstanding anything mentioned herein, the total drawings
+under the Guarantee by the buyer shall not exceed 10% of the total contract value. Partial drawing
+and multiple drawings under this Bank Guarantee are allowed within the cumulative amount and
+subject to each such drawing not exceeding 10% of the contract value.
+
+       This guarantee shall be continuing guarantee and shall not be discharged by any change in
+the constitution of the Bank or in the constitution of M/s. ___________________. We undertake not to
+revoke this guarantee during the currency except with previous consent of BUYER in writing.
+
+Notwithstanding anything contained herein above:
+
+       a) Our    liability   under    this   Guarantee    shall   not   exceed   Rs.    __________
+            (Rupees____________________________only ( in words)
+       b) This Bank Guarantee shall remain valid until 2 months from the date of expiry of warranty
+          period of the contact i.e. upto _________________ ( mention the date) which is 2 months after
+          expiry of the warranty period and the BG shall cease to be valid after _______________
+           irrespective whether the Original Bank Guarantee is returned to us nor not.
+        c) We are liable to pay guaranteed amount or any part thereof under this Bank Guarantee
+          only and only if you serve upon us a written demand or a claim in writing on or before
+             ___________________ (Expiry Date)
+
+         Dated the _______________ day of _______________ ( month and year)
+
+          Place
+
+          Signed and delivered by _____________________ ( name of the bank)
+
+
+                                                      Through its authorized signatory
+                                                                           (Signature with Seal)
+
+
+
+
+
+                                       Page 43 of 45
+
+                                         Indian Institute of Technology Hyderabad
+                                                    Kandi, Sangareddy - 502 284, Telangana, India
+                                                                      Phone: 040-23016071:
+                                             Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+                                   Checklist for BIDDERs
+
+BIDDERS  to  indicate whether  the  following are enclosed/mentioned by  striking out  the
+non-relevant option
+
+              Envelope-1(Technical & Commercial -Bid)
+          (Following documents to be provided as single PDF file)
+
+
+  Sl.   Documents                       Content                              File    Document
+ No.                                                              Types    Attached
+
+
+ 1               Format of compliance statement of specification as per  .PDF     ( Yes /No )
+                    Annexure-‘A’
+
+
+ 2                 Bid Securing Declaration as per Annexure-‘B’           .PDF     ( Yes /No )
+
+
+ 3                 Manufacturer’s Authorization Form as per Annexure-‘C’  .PDF    (NA)
+
+
+
+ 4                 Previous supply order format as per Annexure-‘D’       .PDF     ( Yes /No )
+
+
+ 5                 Bidder Information form as per Annexure-‘E’           .PDF     ( Yes /No )
+
+
+ 6                  Declaration Regarding Clean Track/No Legal Action as   .PDF     ( Yes /No )
+                   per Annexure-‘F’
+
+
+ 7                 Acceptance of Tender Terms as per Annexure- ‘G’       .PDF     ( Yes /No )
+
+
+ 8                  Relation Certificate as per Annexure- ‘H’               .PDF     ( Yes /No )
+
+
+ 9                  Local Content Declaration as per Annexure ‘I’           .PDF     ( Yes /No )
+
+
+
+
+
+                                       Page 44 of 45
+
+                                        Indian Institute of Technology Hyderabad
+                                                   Kandi, Sangareddy - 502 284, Telangana, India
+                                                                     Phone: 040-23016071:
+                                            Website: www.iith.ac.in, Email: office.stores@iith.ac.in>
+
+
+
+10                   Certificate For DPIIT Registration as per Annexure – ‘J’   .PDF     ( Yes /No )
+
+
+11              Format    for    Performance   Bank    Guarantee  .PDF     ( Yes /No )
+                   as per Annexure – ‘K’
+
+
+12                     Bill of Material as Per Chapter 5                       .PDF     ( Yes /No )
+
+
+13                   List of deliverables as per Chapter-4, along with the    . PDF   (Yes /No )
+                   Technical  Brochures  and  Commercial Terms  and
+                   Conditions
+
+
+14                   All other documents as per Chapter 1 Point No - 4.1.     .PDF     ( Yes /No)
+
+
+
+
+
+                                            Signature Not Verified
+                                                                                 Digitally signed by M VENKATESH
+                                      Page 45 of 45         Date: 2025.05.21 15:58:55 IST
+                                                                      Location: eProcure-EPROC

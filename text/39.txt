@@ -1,0 +1,928 @@
+                                                DOC - 4
+
+
+
+                        CENTRAL COMPUTER CENTRE
+               POST-SRINIVASNAGAR, MANGALORE – 575 025 (D K)
+  Phone: (0824) 2474000.                                             Fax: (0824) 2474033
+  E- mail: info@nitk.ac.in                                      Website: http://www.nitk.ac.in
+
+
+
+
+
+Tender Notification No: NITK/CCC/8-PORT-GPON-OLT/2024-25/DOC4 Date: 03/06/2024
+ Name of Goods                                   8-Port GPON OLT
+ The estimated amount put to Tender            ₹ 3,85,000/- (Including GST) (Refer Section 1B,21)
+ EMD Amount (2% of estimated amount)         ₹ 7,700/-
+ Time for Supply of item                          15 days
+ Bid Document Download Start Date                  03/06/2024, 05.00 PM
+
+  Clarification Start Date                              03/06/2024, 05.00 PM
+
+  Clarification End Date                               14/06/2024, 05.00 PM
+
+ Online Bid Submission Start Date                    03/06/2024, 05.00 PM
+
+ Online Bid Submission End Date                     24/06/2024, 05.00 PM
+
+ Address for Submission of Tender                      https://eprocure.gov.in/
+
+ Opening date of technical bid                        25/06/2024, 05.00 PM
+
+                                                     Mr. C. Vairavanathan,
+                                                     Technical Officer,
+ Contact Details of Buyer                              Central Computer Centre (CCC), NITK, Surathkal
+                                                  Post Srinivasnagar, Mangalore-575025,
+                                                  Ph.No: 0824-2473947
+
+                    NATIONAL INSTITUTE OF TECHNOLOGY KARNATAKA, SURATHKAL
+                                 (Institute of National Importance Under Ministry of Education, Govt. of India)
+                                POST-SRINIVASNAGAR, MANGALURU – 575 025
+               Phone: (0824) 2474 000.                                         Fax: (0824) 2474 033/ 2474 039
+                 Email: registrar@nitk.ac.in                                          Website: http://www.nitk.ac.in
+Tender Notification No: NITK/CCC/8-PORT-GPON-OLT/2024-25/DOC4                    Date: 03/06/2024
+
+                           NOTICE INVITING e-TENDER (e-NIT)
+ The National Institute of Technology Karnataka, Surathkal (in short – NITK, Surathkal) is an Institute Of National
+  Importance Under Ministry of Education, Govt of India imparting Technical Education and engaged in Research
+  Activities.
+  Online Tender (https://eprocure.gov.in/) is invited for the following items in two cover systems (i.e., Technical bid
+ and financial bid) subject to the following terms and conditions, from the reputed manufacturers or its authorized
+  dealers so as to reach this office on or before scheduled date and time. The tender (Technical bid) will be opened
+  online  on  the due  date  as  mentioned.  Bidders  can  verify  their  bid  status  through  the  online  portal
+  https://eprocure.gov.in/. The financial bid of only such bidders whose technical bid is accepted shall be opened on
+  the same day or later pre-informed date.
+
+Name of Goods                                       8-Port GPON OLT
+
+Estimated amount put to Tender                   ₹ 3,85,000/- (Including GST) (Refer Section 1B,21)
+
+EMD Amount (2% of estimated amount)            ₹ 7,700/-
+
+Bid Document Download Start Date                       03/06/2024, 05.00 PM
+
+Clarification Start Date                                   03/06/2024, 05.00 PM
+
+Clarification End Date                                    14/06/2024, 05.00 PM
+
+Online Bid Submission Start Date                         03/06/2024, 05.00 PM
+
+Online Bid Submission End Date                          24/06/2024, 05.00 PM
+
+Address for Submission of Tender                            https://eprocure.gov.in/
+
+Opening date of technical bid                             25/06/2024, 05.00 PM
+                                                        Mr. C. Vairavanathan,
+                                                         Technical Officer,
+Contact Details of Buyer                                   Central Computer Centre (CCC), NITK, Surathkal
+                                                      Post Srinivasnagar, Mangalore-575025,
+                                                     Ph.No: 0824-2473947
+
+
+
+                                                                                                Sd/-
+                                                             HOD
+                                                                                    Seal & Signature
+
+
+
+                                       Page 2 of 22
+
+                       SECTION 1 A: Instructions for Online Bid Submission
+The bidders are required to submit soft copies of their bids electronically on the CPP Portal, using valid Digital
+Signature Certificates. The instructions given below are meant to assist the bidders in registering on the CPP Portal,
+prepare their bids in accordance with the requirements and submit their bids online on the CPP Portal.
+
+More information useful for submitting online bids on the CPP Portal may be obtained at:
+https://eprocure.gov.in/eprocure/app.
+
+REGISTRATION
+
+1) Bidders are required to enroll on the e-Procurement module of the Central Public Procurement Portal (URL:
+https://eprocure.gov.in/eprocure/app) by clicking on the link “Online bidder Enrolment” on the CPP Portal which is
+free of charge.
+
+2) As part of the enrolment process, the bidders will be required to choose a unique username and assign a password
+for their accounts.
+
+3) Bidders are advised to register their valid email addresses and mobile numbers as part of the registration process.
+These would be used for any communication from the CPP Portal.
+
+4) Upon enrolment, the bidders will be required to register their valid Digital Signature Certificate (Class II or Class III
+Certificates with signing key usage) issued by any Certifying Authority recognized by CCA India (e.g. Sify / nCode /
+eMudhra, etc.), with their profile.
+
+5) Only one valid DSC should be registered by a bidder. Please note that the bidders are responsible to ensure that
+they do not lend their DSC’s to others which may lead to misuse.
+
+6) Bidder then logs in to the site through the secured log-in by entering their user ID/password and the password of
+the DSC / e-Token.
+
+SEARCHING FOR TENDER DOCUMENTS
+
+1) There are various search options built in the CPP Portal, to facilitate bidders to search active tenders by several
+parameters. These parameters could include Tender ID, Organization Name, Location, Date, Value, etc. There is also
+an option of advanced search for tenders, wherein the bidders may combine a number of search parameters such as
+Organization Name, Form of Contract, Location, Date, Other keywords, etc. to search for a tender published on the
+CPP Portal.
+
+2) Once  the  bidders have  selected  the  tenders  they are  interested  in,  they may download  the  required
+documents/tender schedules. These tenders can be moved to the respective ‘My Tenders’ folder. This would enable
+the CPP Portal to intimate the bidders through SMS / email in case there is any corrigendum issued to the tender
+document.
+
+3) The bidder should make a note of the unique Tender ID assigned to each tender, in case they want to obtain any
+clarification/help from the Helpdesk.
+
+
+
+
+
+                                       Page 3 of 22
+
+PREPARATION OF BIDS
+
+1) Bidder should take into account any corrigendum published on the tender document before submitting their bids.
+
+2) Please go through the tender advertisement and the tender document carefully to understand the documents
+required to be submitted as part of the bid. Please note the number of covers in which the bid documents have to be
+submitted, the number of documents - including the names and content of each of the documents that need to be
+submitted. Any deviations from these may lead to the rejection of the bid.
+
+3)  Bidder,  in advance, should  get ready  the  bid documents  to be  submitted as  indicated  in  the  tender
+document/schedule and generally, they can be in PDF  / XLS  / RAR  / DWF/JPG formats. Bid documents may be
+scanned with 100 dpi with the black and white option which helps in reducing the size of the scanned document.
+
+4) To avoid the time and effort required in uploading the same set of standard documents which are required to be
+submitted as a part of every bid, a provision of uploading such standard documents (e.g. PAN card copy, annual
+reports, auditor certificates, etc.) has been provided to the bidders. Bidders can use the “My Space” or ‘’Other
+Important Documents’’ area available to them to upload such documents. These documents may be directly
+submitted from the “My Space” area while submitting a bid, and need not be uploaded again and again. This will lead
+to a reduction in the time required for the bid submission process.
+
+Note: My Documents space is only a repository given to the Bidders to ease the uploading process. If Bidder
+has uploaded his Documents in the My Documents space, this does not automatically ensure these
+Documents being part of the Technical Bid.
+
+SUBMISSION OF BIDS
+
+1. Bidder should log into the site well in advance for bid submission so that they can upload the bid in time i.e. on or
+before the bid submission time. Bidder will be responsible for any delay due to other issues.
+
+2. The bidder has to digitally sign and upload the required bid documents one by one as indicated in the tender
+document.
+
+3. Bidder has to select the payment option as “online” to pay the tender fee/ EMD as applicable and enter details of
+the instrument.
+
+4. Bidders are requested to note that they should necessarily submit their financial bids in the format provided and no
+other format is acceptable. If the price bid has been given as a standard BOQ format with the tender document, then
+the same is to be downloaded and to be filled by all the bidders. Bidders are required to download the BOQ file, open
+it and complete the white coloured (unprotected) cells with their respective financial quotes and other details (such as
+the name of the bidder). No other cells should be changed. Once the details have been completed, the bidder should
+save it and submit it online, without changing the filename. If the BOQ file is found to be modified by the bidder, the
+bid will be rejected.
+
+5. The server time (which is displayed on the bidders’ dashboard) will be considered as the standard time for
+referencing the deadlines for submission of the bids by the bidders, the opening of bids, etc. The bidders should
+follow this time during bid submission.
+
+6. All the documents being submitted by the bidders would be encrypted using PKI encryption techniques to ensure
+the secrecy of the data. The data entered cannot be viewed by unauthorized persons until the time of bid opening.
+
+                                       Page 4 of 22
+
+The confidentiality of the bids is maintained using the secured Socket Layer 128-bit encryption technology. Data
+storage encryption of sensitive fields is done. Any bid document that is uploaded to the server is subjected to
+symmetric encryption using a system-generated symmetric key. Further,  this key  is subjected to asymmetric
+encryption using buyers/bid openers' public keys. Overall, the uploaded tender documents become readable only
+after the tender opening by the authorized bid openers.
+
+7. The uploaded tender documents become readable only after the tender opening by the authorized bid openers.
+
+8. Upon the successful and timely submission of bids (i.e. after Clicking “Freeze Bid Submission” in the portal), the
+portal will give a successful bid submission message & a bid summary will be displayed with the bid no. and the date
+& time of submission of the bid with all other relevant details.
+
+9. The bid summary has to be printed and kept as an acknowledgment of the submission of the bid. This
+acknowledgment may be used as an entry pass for any bid opening meetings.
+
+10. The off-line tender shall not be accepted and no request in this regard shall be entertained whatsoever.
+
+ 11. All entries in the tender should be entered in online Technical & Commercial Formats without any ambiguity.
+
+ 12. Any order resulting from this e-tender shall be governed by the terms and conditions mentioned therein.
+
+ 13. No deviation to the technical and commercial terms & conditions are allowed.
+
+ 14. The tender inviting authority has the right to cancel this e-tender or extend the due date of receipt of the bid(s).
+
+
+
+
+ASSISTANCE TO BIDDERS
+
+1) Any queries relating to the tender document and the terms and conditions contained therein should be addressed
+to the Tender Inviting Authority for a tender or the relevant contact person indicated in the tender.
+
+2) Any queries relating to the process of online bid submission or queries relating to CPP Portal, in general, may be
+directed to the 24x7 CPP Portal Helpdesk.
+
+
+
+
+
+                                       Page 5 of 22
+
+                        SECTION 1 B: INSTRUCTION TO BIDDER (ITB)
+
+1. The bid should be submitted  in two covers System-Technical Bid and Financial Bid online through portal
+
+https://eprocure.gov.in/:
+
+
+1.1 Envelope No.1 – Technical Bid: The agencies should give details of their technical soundness and provide a list of
+
+customers of a previous supply of similar items to Universities, Institutes, or Government Departments/ Undertakings/
+
+public sectors with contact details. The details of the Bidder/ profile should be furnished along with a copy of all
+
+related documents. This envelope should be uploaded online tender (https://eprocure.gov.in/) and digitally signed as
+
+“Envelope No. 1 – Technical Bid i.e. Checklist (Excel format).
+
+
+1.2. Document to be scanned and submitted by uploading in the technical bid:
+
+    a)     The Bidder should possess a Licence certificate for the manufacture /supply of the item.
+
+    b)       List of Owner/partners of the firm and their contact numbers
+
+    c)     The Bidder should possess an Income-tax PAN Number.
+
+    d)     The Bidder should possess a valid GST registration number.
+
+    e)     Catalogue of the Product with detailed product specifications.
+
+      f)        List of Service Centres
+
+    g)       List of customers with contact details.
+
+    h)     The average annual turnover should not be less than 30% of the estimated cost put to tender/Tender for
+
+            the job work. A copy of the Balance sheet, Profit & Loss A/c., Trade or Manufacturing A/c for the last 3
+
+           years should be enclosed
+
+       i)      Warranty Period Offered for the tendered item to be specified. If the Warranty period is not conforming to
+
+            the schedule of requirements given in section 3 of the document, the bid is liable to be treated as non-
+
+           responsive and rejected.
+
+       j)     The contract form given in section 5 needs to be submitted.
+
+    k)    EMD must be in the form of Bank Guarantee Annexure-“C” (Fixed Deposit Receipt/Insurance surety
+          bonds/DD/e-Payment mode (through Credit/Debit cards/Net Banking). It will be valid for 180 days from
+            the date of opening of the tender. In case of EMD payment made through E-Payment, UTR Number with
+             details should be uploaded. The firm registered with MSME/NSIC as per MSME procurement policy order
+          2012 will be exempted from submission of EMD. Intended parties will have to give proof of registration
+           along with their tender. EMD of the unsuccessful bidders shall be refunded without any interest at the
+              earliest after finalization of the purchase of the concerned item.
+
+                    i) The EMD will be returned to the BIDDERs(s) whose offer is not accepted by NITK within one
+          month from the date of the placing of the purchase order(s) on the selected BIDDER(s). In the case of
+            the BIDDER(s) whose offer is accepted the EMD will be returned on submission of Performance Security
+
+                                       Page 6 of 22
+
+              in the form of Bank Guarantee (BG). However,  if the return of EMD is delayed for any reason, no
+             interest/penalty shall be payable to the Bidders.
+
+                     ii) The successful BIDDER, on the award of contract/order, must send the contract/order acceptance in
+              writing, within 15 days of award of contract/order failing which the EMD will be forfeited.
+
+                      iii) The EMD shall be forfeited in case a successful BIDDER fails to furnish the Performance Security.
+
+                iv) Bidder should prepare the EMD as per the instructions specified in the tender document. The original
+       EMD should be posted/couriered/given in person to the concerned official, latest by the last date of bid
+           submission as specified in the tender documents. The details of the BG/DD/FD/any other accepted
+            instrument, physically sent, should tally with the details available in the scanned copy and the data
+           entered during bid submission time. Otherwise, the uploaded bid will be rejected.
+
+       l)     The bidder needs to comply with restrictions under rule No 144 (xi) of GFR (General Financial Rules)
+
+          2017 and the clause pertaining to Dept of Expenditure (DOE) Public Procurement Division Order (Public
+
+           Procurement no 1,2 &amp; 3 vide ref. F.No.6/18/2019-PPD dated 23.07.2020 and 24.07.2020). In this
+
+           Connection Bidder has to submit Self Certification (as per Annexure A or B), depending on the status of
+
+            the bidder.
+
+
+The above documents should be furnished in the technical bid envelope.
+
+2. Envelope No.2 – Financial bid: The agencies should submit their financial bid as per the (.xlxs) format is given in
+Section 4 of the Notice Inviting Tender in this cover. The rate should be quoted in figures and upload online bid. This
+envelope should upload online only as “Envelope No. 2 – Financial Bid”.
+
+Both Envelope No. 1 and 2 should be uploaded through the online portal (https://eprocure.gov.in/).
+
+3  The tender will be accepted only from the manufacturers or its authorized supplier.
+
+4  The Institute reserves the right to visit the factory before or after the issue of supply order to satisfy itself
+    regarding the quality of production.  In case of any remarks /default noted, the Company will be debarred from
+    competing for bids in our esteemed Institute for a period of one year from the date of occurring of such breach
+
+5  The Financial Bid shall be in the format of the Price Schedule given in Section 4. The Contract form as
+    per the format is given in section 5 shall be submitted. The incomplete or conditional tender will be
+    rejected.
+
+6   Details of the item to be carried out, approximate quantity and the specifications are mentioned in “Section 3”
+   appended to this Notice Inviting Tender.
+
+7  The  item  to be used  is  strictly  according  to  the  specification and  subject  to  test by  the
+    Institute/concerned authorities.  It must be delivered and installed in good working condition.
+8  The Institute reserves the right to cancel or reduce the quantity included in the schedule of requirements at
+   any time after acceptance of the tender with a notice. The Contractor/Supplier shall have no claim to any payment
+    of compensation or otherwise whatsoever, on account of any profit or advantage which he might have derived
+
+                                       Page 7 of 22
+
+    from the execution of the work/supply in full but he did not derive in consequence of the foreclosure of the whole
+    or part of the works.
+
+9  Performance Security of 3 % of the contract value in terms of Bank Guarantee by scheduled banks shall
+   be given by the successful bidder for the total period of Warranty. The validity of the Performance
+    Security must cover the warranty period plus two months.
+
+10  The validity of bids: The rate quoted should be valid for a minimum of 90 days. No claim for escalation of the
+    rate  will be considered after opening the Tender. The bid validity date  will start from the last date of bid
+    submission (Including date corrigendum)
+
+11 Bid Evaluation: On the due date, the Technical bids will be opened and referred to the Purchase Committee
+    which is duly constituted by the Director, NITK. The committee will go through the technical aspects of the tender
+   and recommend shortlisted firms. The recommendation of the committee is final and binding on all the parties.
+   The committee may visit the manufacturing site to assess the capabilities to manufacture the tendered items as
+    per the specifications. In case of any remarks/default noted, the EMD will be forfeited even if pre-qualified.
+
+12 Delivery Period: The Delivery Period/Time shall be deemed to be the essence of the Contract
+   and delivery must be completed not later than such date(s). If the Supplier does not perform its
+    obligations within the Delivery Period/Date mentioned in the Contract, the same would constitute
+   the breach of the Contract and the Institute shall have the right to cancel or withdraw the
+   Contract for the unsupplied portion after the expiry of the original or extended delivery date or
+   period  stipulated  in the Contract. Such cancellation  of the contract on account  of non  -
+   performance by the Supplier would entitle the Buyer to forfeit the EMD / Performance Security
+   besides other actions such as debarment from the Institute as per GFR 2017.
+
+
+13  Clarification of Tender Document: A prospective bidder requiring any clarification of the Tender Document may
+   communicate to the contact person given in this notice inviting tender. The contact person will respond to any
+    request for clarification for the Tender Document received not later than 5 working days prior to the last date for
+    the receipt of bids
+
+14 Amendment of Tender document:  At any time prior to the last date for receipt of bids, Institute may for any
+    reason, whether at its initiative or in response to a clarification requested by a prospective bidder, modify the
+   Tender document by an amendment.
+
+ 15  Institute may at its discretion extend the last date for the receipt of bids.
+
+ 16 The bids shall be written in the English language and any information printed in another language shall be
+    accompanied by an English translation, in which case for the interpretation of the bid, the English translation
+     shall govern.
+
+ 17 The Institute reserves the right of accepting any bid other than the lowest or even rejecting all the bids. The
+     decision of the Institute Purchase Committee is final in all matters of tender and purchase.
+
+ 18 The bidder should give the following declaration while submitting the Tender.
+
+ 19 Relaxation for Start-up, MSEs, Make in India will be as per GOI norms.
+
+
+                                       Page 8 of 22
+
+ 20 Any other details required may be obtained from the contact person (Buyer) given in the Notice Inviting Tender
+     during office hours.
+
+ 21 Estimated price put up in tender is inclusive of all.
+
+ 22 Abnormally quoted low bid will be liable for rejection as per the OM No.F.12/17/2019-PPD of Department
+     of Expenditure, Ministry of Finance dated 6th February 2020.
+
+23.Forfeiture of EMD/Performance Guarantee/Security Deposit: If NITK Surathkal has disqualified the Bidder(s)
+from the tender process prior to the award of the Contract or terminate/determinate the Contractor has accrued the
+right to terminate/determinate the Contract according to Article 3(1), the Principal/Owner apart from exercising any
+legal rights that may have accrued to NITK Surathkal, may in its considered opinion forfeit the entire amount of
+Earnest Money Deposit, Performance Security of the Bidders/Contractor.
+
+
+
+
+
+                                       Page 9 of 22
+
+                                  DECLARATION
+
+   I/we have not tampered with/modified the tender forms in any manner. In case,  if the same is found to be
+   tampered/modified, I /we understand that my/our tender will be summarily rejected and full Earnest money deposit
+    will be forfeited and I /we are/are liable to be banned from doing business with NITK, Surathkal and/or prosecuted.
+
+Signature of the Bidder   : _________________________________________
+
+Name  and Designation  : _________________________________________
+
+Business Address           : ________________________________________
+
+                        ________________________________________
+
+Place:                                                   Seal of the Bidder’s Firm
+Date:
+
+
+
+
+
+                                      Page 10 of 22
+
+                         SECTION 2: CONDITIONS OF CONTRACT
+
+
+1.  The supplier should quote the rate for Door Delivery (FOR).
+
+2.  The Rate should be quoted in INR only.
+
+3.  No custom duty exemption certificate will be provided from the institute.
+
+4.  The rate quoted should be on a unit basis. Taxes and other charges should be quoted separately, duly
+    considering exemptions if any.
+
+5.  The rate quoted should be inclusive of Testing, commissioning and installation of equipment and Training.
+
+6.  Payment: No advance payment will be made. Payment will be made only after the supply and installation of the
+    item in good and satisfactory condition and receipt of performance security by the supplier.
+
+7.  Guarantee and Warranty period should be specified for the complete period conforming to section 3 of this tender
+    document.
+
+8.  The period required for the supply and installation of the item should be specified conforming to section 3 of this
+    tender document.
+
+9.  In case of dispute, the matter will be subject to Mangalore Jurisdiction only.
+
+10. Liquidated Damages: Timely delivery is the essence of the contract and hence  if the Supplier fails to deliver
+   Goods within the original/extended delivery period(s) specified in the contract, the Institute will be entitled to
+    deduct/recover the Liquidated Damages for the delay, unless covered under Force Majeure conditions aforesaid,
+  @ 1% per week or part of the week of the delayed period as pre-estimated damages not exceeding 5% of the
+    contract value without any controversy/dispute of any sort whatsoever.
+
+
+
+
+
+                                      Page 11 of 22
+
+            SECTION 3: SCHEDULE OF REQUIREMENTS, SPECIFICATIONS AND ALLIED DETAILS
+                      [To be filled up by the Department / Center of NITK, Surathkal]
+
+Item(s) Name to be procured                                 : 8-Port GPON OLT
+
+
+Type (Equipment / Software / Furniture / Others)  : EQP
+
+
+Brief Specifications of the Item(s)                          : As per Annexure “D”
+
+(Attach Additional Sheet if necessary)
+
+
+Quantity                                                                  : 3 Nos.
+
+
+Any other details / requirement                              :
+
+
+Warranty Period required                                       : 5 years
+
+
+Delivery Schedule expected
+
+after release of Purchase order
+
+(In Weeks)                                                              : 15 days
+
+
+EMD (2% of the estimated amount)                       : Rs.7,700/-
+
+
+Performance Security to be given
+
+by Successful Bidder after release of                    : 3% of PO value
+
+Purchase Order (in Rupees)
+
+
+
+
+
+                                      Page 12 of 22
+
+                                             SECTION 4 - PRICE BID
+                                           [To be used by the bidder for submission of the bid]
+
+
+Tender Inviting Authority:
+
+Name of Work/Goods/Services:
+
+ Contract No:
+
+Name of the Bidder/ Bidding Firm / Company :
+
+                              PRICE SCHEDULE
+(This BOQ template must not be modified/replaced by the bidder and the same should be uploaded after filling the relevant columns, else the bidder is liable
+to be rejected for this tender. Bidders are allowed to enter the Bidder Name and Values only )
+
+      Number    TEXT #       NUMBER #  NUMBER #   NUMBER    NUMBER    NUMBER    NUMBER #   TEXT #
+                                         BASIC RATE            GST  rate  in                                                                                  TOTAL                                                               in Figures To         %
+                                                                         AMOUNT    TOTAL                   Item                        be   entered                      GST Amount
+        Sr. No.                        Quantity                    Cost                                      With  Taxes  AMOUNT                     Description                   by the Bidder                                                                                                                                        in               In Words
+                                                               in                                                                                                             Rs.  P                                                 Rs.   P
+      1
+      2
+        Total in Figures
+
+       Quoted Rate in Words
+
+
+
+
+
+                                                     Page 13 of 22
+
+                               SECTION 5:  CONTRACT FORM
+                               [To be provided by the bidder in the business letterhead]
+
+1.     (Name of the Supplier’s Firm) hereby abide to deliver them by the delivery schedule mentioned in section 3 tender
+       document for the supply of the items if the purchase order is awarded.
+
+2.     The item will be supplied conforming to the specifications stated in the tender document without any defects and
+        deviations.
+
+3.      Warranty  will be given for the period mentioned in the tender document and service  will be rendered to the
+         satisfaction of NITK, Surathkal during this period.
+
+
+
+Signature of the Bidder   : _________________________________________
+
+Name  and Designation  : _________________________________________
+
+Business Address           : ________________________________________
+
+                        ________________________________________
+
+Place:                                                   Seal of the Bidder’s Firm
+Date:
+
+                  BANK GUARANTEE FORMAT FOR for Performance Security
+
+  To,
+   Director,
+  National Institute of Technology Karnataka,
+  Srinivasnagar P.O., Surathkal
+  Mangalore – 575025
+                               LETTER OF GUARANTEE
+
+Whereas…………………………………………………… (name and address  of the  contractor)  (hereinafter  called  “the
+contractor”) has undertaken, in pursuance of contract no ……….. date……………. to supply ……………… (description of
+goods and Works/ Services) (hereinafter called “the contract”).
+
+And Whereas you have stipulated  it in the said contract that the contractor shall furnish you with a bank guarantee by a
+Commercial bank for the sum specified therein as security for compliance with its obligations as per the contract;
+
+And Whereas we have agreed to give the contractor such a bank guarantee.
+
+Now Therefore we hereby affirm that we are guarantors and responsible to you, on behalf of the contractor, up to a total of
+…………………………………………………….(amount of the guarantee in words and figures), and we undertake to pay you,
+upon your first written demand declaring the contractor to be in default under the contract and without cavil or argument, any
+sum or sums within the limits of (amount of guarantee) as aforesaid, without your needing to prove or to show grounds or
+reasons for your demand or the sum specified therein.
+
+We hereby waive the necessity of your demanding the sail debt from the contractor before presenting us with demand.
+
+We further agree that no change or addition to or other modification of the terms of the contract to be performed thereunder
+or of any of the contract documents which may be made between you and the contractor shall in any way release us from
+any liability under this guarantee, and we hereby waive notice of any such change, addition, or modification.
+
+This guarantee shall be valid until the ………….day of …….20……
+
+Our………………………………….branch at………………*(Name & Address of the ………….…………..*(branch) is liable to
+pay the guaranteed amount depending on the filing of a claim and any part thereof under this Bank Guarantee only and only
+if you serve upon us at our ………………* branch a written claim or demand and received by us at our …………………..*
+branch on or before Dt………….. otherwise, the bank shall be discharged of all liabilities under this guarantee after that.
+
+                                        (Signature of the authorized officer of the Bank)
+
+                       ………………………………………….
+
+                       ………………………………………….
+                                  Name and designation of the officer
+
+                      …………………………………………
+                                 Seal, name & address of the Bank and address of Branch
+*Preferably at the headquarters of the authority competent to sanction the expenditure for the procurement of goods or at
+the concerned district headquarters or the state headquarters.
+
+
+                                         Page 15 of 22
+
+                                                                           Annexure -‘A’
+
+                         (Compliance to be submitted in the bidder’s letterhead)
+                                                (as applicable)
+
+Sub: Compliance to Government of India order OM No.6/18/2019-PPD dated 23.07.2020 & 24.7.2020 regarding
+restrictions under Rule 144 (XI) of the General Financial Rules (GFRs), 2017
+
+ Item Name:
+
+
+
+ Enquiry No.:
+
+
+
+
+
+We M/s.                        (name  of  the  bidder company) have read  the  clauses  pertaining  to  the
+Department of Expenditure’s (DoE) Public Procurement Division Order (Public procurement no 1,2 & 3 vide  ref.
+F.No.6/18/2019-PPD dated 23.07.2020 & 24.7.2020) regarding restrictions on procurement from a bidder of a country
+that shares a land border with India.
+
+We hereby certify that we are not from such a country and eligible to be considered for this tender.
+
+(Note: Non-compliance of above said GoI Order and its subsequent amendment, (if any), by any bidder(s) shall lead for
+commercial rejection of their bids by NITK)
+
+
+For and behalf of         (Name of the bidder)
+
+(Signature, date & seal of an authorized representative of the bidder)
+
+
+
+
+
+                                        Page 16 of 22
+
+                                                                            Annexure –‘B’
+
+                          (Compliance to be submitted in the bidder’s letterhead)
+                                                  (as applicable)
+
+ Sub: Compliance to Government of India order OM No.6/18/2019-PPD dated 23.07.2020 & 24.7.2020 regarding
+  restrictions under Rule 144 (XI) of the General Financial Rules (GFRs), 2017
+
+   Item Name:
+
+
+
+  Enquiry No.:
+
+
+
+
+ We M/s.                        (name  of  the  bidder company) have read  the clauses  pertaining  to  the
+ Department of Expenditure’s (DoE) Public Procurement Division Order (Public procurement no 1,2 & 3 vide  ref.
+ F.No.6/18/2019-PPD dated 23.07.2020 & 24.7.2020) regarding restrictions on procurement from a bidder of a country
+ which shares a land border with India.
+
+ We are from such a country which shares a land border with India & have been registered with the Competent Authority
+ as specified in the above-said order. We hereby certify that we fulfill all requirements in this regard and are eligible to be
+  considered.
+
+Evidence of valid registration by the Competent Authority is attached.
+
+  (Note: Non-compliance of above said GoI Order and its subsequent amendment, (if any), by any bidder(s) shall lead for
+ commercial rejection of their bids by NITK)
+
+
+ For and behalf of         (Name of the bidder)
+
+
+  (Signature, date & seal of an authorized representative of the bidder)
+
+
+
+
+
+                                         Page 17 of 22
+
+                                                                                  Annexure -‘C’
+                FORMAT FOR EARNEST MONEY DEPOSIT / BID BOND
+              (To be typed on Non-judicial stamp paper of value Indian Rupees One Hundred)
+(TO BE ESTABLISHED THROUGH ANY OF THE NATIONAL BANKS (WHETHER SITUATED AT MANGALURU OR
+OUTSTATION) WITH A CLAUSE TO ENFORCE THE SAME ON THEIR LOCAL BRANCH AT MANGALURU OR ANY
+SCHEDULED BANK (OTHER THAN NATIONALISED BANK) SITUATED AT MANGALURU. BONDS ISSUED BY
+COOPERATIVE BANKS ARE NOT ACCEPTED)
+
+                            LETTER OF GUARANTEE
+To
+Director,
+National Institute of Technology Karnataka,
+Srinivasnagar P.O., Surathkal
+Mangaluru – 575025
+
+IN ACCORDANCE WITH YOUR TENDER for the supply of ….............................., M/s.............................. (hereinafter called
+the  “Bidder”) having  its Registered  Office  at  ......................................., wish  to  participate  in the  said  bid  for the
+supply....................................................................................................................as an irrevocable Bank Guarantee against
+Earnest Money Deposit for an amount of Rs. …................... (Rupees...............................) valid up to (180 days from the
+date of issue of Bank Guarantee), is required to be submitted by the bidder as a condition precedent for participating in
+the said bid, which amount is liable to be forfeited by the Purchaser on (1) the withdrawal or revision of the offer by the
+bidder within the validity period, (2) Non acceptance of the Letter of Intent/Purchase order by the Bidder when issued within
+the validity period, (3) failure to execute the contract as per contractual terms and condition within the contractual delivery
+period and (4) on the happening of any contingencies mentioned in the bid documents.
+
+ During the validity of this Bank Guarantee:
+We, ….......................(Bank name) having the registered office at....................................guarantee and undertake to pay
+immediately   on     first   demand   by   NITK   Surathkal,   an   amount    of     Rs...........................   (Rupees.
+.........................................................................................................................................)  without any  reservation,  protest,
+demur and recourse. Any such demand made by the NITK Surathkal shall be conclusive and recourse. Any such demand
+made by the purchaser shall be binding on the Bank irrespective of any dispute or difference raised by the Bidder.
+The Guarantee shall be irrevocable and shall remain valid up to........................(180 days from the date of issue of Bank
+Guarantee) If any further extension is required, the same shall be extended to such required period on receiving instruction
+from the Bidder, on whose behalf the is Guarantee is issued.
+
+Notwithstanding anything contained herein:
+⁎ Our liability under this Bank Guarantee shall not exceed Rs.................... (Rupees....................).
+⁎ This Bank Guarantee shall be valid up to....................................................................(date).
+⁎ We are liable to pay the guaranteed amount or any part thereof under this Bank Guarantee Only and only if you serve
+upon us a written claim on or before ....................(date).
+
+This Bank further agrees that the claims  if any, against this Bank Guarantee shall be enforceable at our branch office at
+........................................situated at ........................................(Address of local branch).
+
+Yours truly,
+Signature and seal of the guarantor: Name of Bank:
+Address:
+Date:
+
+
+                                         Page 18 of 22
+
+Instruction to Bank: Bank should note that on expiry of Bond Period, the Original Bond will not be returned to the Bank. The
+bank is requested to take appropriate necessary action on or after the expiry of the bond period
+
+
+
+
+
+                                         Page 19 of 22
+
+                                                                            Annexure -‘D’
+                                        Detailed Technical Specifications
+
+The following parameters are to be explicitly specified by the bidder indicating suitable references to the
+data sheet or other websites.
+Data Sheet must be enclosed and must be present in the OEM website (URL to be given).
+1.Port Density: Number of PON ports and subscriber capacity per port.
+2. Scalability Options available as the network grows.
+3. Backplane Capacity: Overall data throughput capacity of the OLT’s backplane.
+4. Uplink Interfaces: Number and type of uplink ports (e.g., 10GbE, 40GbE, 100GbE).
+5. Compatibility: Compatibility with various ONTs (Optical Network Terminals) and other network equipment.
+6. Redundancy: Support for redundant power supplies and control modules to ensure high availability.
+7. Bandwidth Management: Support for traffic shaping, QoS (Quality of Service), and bandwidth allocation.
+8. Performance Metrics: Latency, throughput, and packet loss rates under standard conditions
+8. Management Interface available such as SNMP, CLI, Web based or any other.
+9. Provisioning and Monitoring: Tools for efficient provisioning, monitoring, and maintenance.
+10. Security Features: Support for encryption, authentication, and access control mechanisms.
+11.Compliance with industry standards and regulatory requirements.
+12.Energy Efficiency: Power consumption and energy-saving features.
+13. Physical Dimensions: Rack space requirements and form factor.
+14. Environmental Specifications: Operating temperature range, humidity tolerance, etc.
+15. Vendor Support and Warranty Terms and availability of firmware updates.
+16. Interoperability: Capability to integrate with existing network infrastructure.
+17. Cost: Initial cost, licensing fees, and total cost of ownership (Only for the financial bid)
+18.Firmware and Software Updates: Availability and ease of applying updates.
+19. Customer References if any: Feedback and reviews from other users or institutions.
+
+Typical Specifications Expected (Minimum)
+Make & Model: To be specified
+1.Technical Specification - General
+PON ports: 8 GPON ports With Loaded 8 No's C++++ PON Module
+Uplink Ports: 4 RJ45, 2 SFP and 2 SFP+
+Console port
+AUX port
+Backplane BW :104Gbps
+Switching capacity:92 Gbps
+Port Forwarding rate :65.472 Mpps
+GPON port speed: Upstream : 1.244Gbps and Downstream : 2.488Gbps
+Connector : SC/UPC
+Fiber type : Single Mode 9/125
+Wavelength : TX : 1490nm , RX : 1310nm
+
+2. Management Function:
+SNMP, Telnet, CLI, WEB, SSH v2;
+Fan Group Control
+Port Status monitoring and configuration management
+Online ONT configuration and management
+User management
+Alarm management
+                                         Page 20 of 22
+
+3. Layer-2
+32K Mac address
+Support 4096 VLANs
+Support port VLAN
+Support VLAN tag/Un-tag, VLAN transparent transmission
+Support VLAN translation and QinQ
+Support storm control based on port
+Support port isolation
+Support port rate limitation
+Support 8021D and 8021W
+Support static LACP, Dynamic LACP
+QoS based on port, VID, TOS and MAC address
+Access control list
+IEEE802x flow-control
+Port stability statistic and monitoring
+
+4.Multicast:
+IGMP snooping
+2048 IP Multicast Groups
+
+5.DHCP:
+DHCP server, DHCP relay, DHCP snooping
+DHCP option82
+
+6.Layer 3
+ARP proxy
+4096 hardware Host Routes,512 hardware Subnet Routes
+Support 8021X, Radius,Tacacs+
+Support IP source guard
+Support static route, dynamic route RIP v1/v2, RIPng and OSPF v2/v3
+
+7.IPv6:
+Support NDP;Support IPv6 Ping,IPv6 Telnet,IPv6 routing;
+Support ACL based on source IPv6 address,destination IPv6 address, L4 port, protocol type, etc;
+Support MLD v1/v2 snooping (Multicast Listener Discovery snooping)
+
+8.GPON Function:
+Tcont DBA
+Gemport traffic
+In compliant with ITU-T984x standard
+Up to 20KM transmission Distance
+Support data encryption, multi-cast, port VLAN, separation, RSTP, etc
+Support ONT auto-discovery/link detection/remote upgrade of software
+Support VLAN division and user separation to avoid broadcast storm
+Support power-off alarm function, easy for link problem detection
+Support broadcasting storm resistance function
+Support port isolation between different ports
+Support ACL and SNMP to configure data packet filter flexibly
+Specialized design for system breakdown prevention to maintain stable system
+Support RSTP, IGMP Proxy
+                                         Page 21 of 22
+
+9. Others
+Power Consumption:45W
+Working Temperature :0°C ~+50°C
+Storage Temperature: -40~+85°C
+Relative Humidity: 5~90% (non-condensing)
+TEC certified
+
+10. Warranty
+5 years Comprehensive Onsite Warranty.
+
+Other Terms & Conditions
+Warranty & Service Support
+Comprehensive onsite warranty for five years from the date of installation for 8-Port GPON OLT from OEM to
+be provided.
+Original Equipment Manufacturer (OEM) or their authorized vendor should have fully functional service center
+with spares stock for attending the breakdown calls. Details of the service center must be provided.
+In case of any breakdown for more than 72 Hours after lodging a formal complaint, the warranty period will be
+considered as extended proportionately.
+
+      Bidders Qualification
+    1. The offers are only invited from reputed Original Equipment Manufacturers (OEM) and their authorized
+       vendors. In the latter case a certificate of authorization (MAF) from the OEM referring this tender
+      number must be provided along with the bid documents. Bidders not complying with this conditions are
+        liable to be rejected.
+    2.  Compliance sheet conforming to each component of the specifications should be attached.
+    3. The bidder should have representative or authorized service partner for OEM (in Karnataka State) to
+       provide 24x7 Service.
+    4.  Required  Documents/Documentation/Manuals  support   for  component   level  servicing/Product
+       catalogue/Data sheet/Brochure pertaining to the model of the 8-Port GPON OLT (to be supplied) to be
+       attached substantiating the claim and the same should be available in the website of the brand for
+        verification.
+    5.  All the supporting documents should be endorsed with authorized seal and signature of the bidder/OEM
+       as appropriate.
+
+
+
+
+
+                                                Signature Not Verified
+                                                                                        Digitally signed by RAKESH KUMAR
+                                                                       Date: 2024.06.03 16:50:10 IST
+                                                                            Location: eProcure-EPROC                                         Page 22 of 22

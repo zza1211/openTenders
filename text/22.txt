@@ -1,0 +1,1420 @@
+  National Institute of Technology, Raipur                                                       Tender Document
+
+
+                        NATIONAL INSTITUTE OF TECHNOLOGY
+
+                          RAIPUR – 492 010, CHHATTISGARH
+
+
+
+  Open (Advertised) Tender for Repair and Replacement of Networking items and
+                    Support Infrastructure at NIT Raipur
+
+
+
+Department: Central Computer Center
+
+Enquiry No: NITRR/CCC/OT/2022/1494           Date:20/10/2022
+
+
+                                   Important Dates
+
+ To
+                                             Event        Date       Time
+                                                   Last  Date   of
+                                              submission    of  12/11/2022  Upto 18:00 Hrs
+                                                quotation
+                                                  Technical    bid
+                                                                  14/11/2022    At 16:00 Hrs
+                                           Opening date
+                                                     Price (financial)   To be Informed to technically
+                                                  bid Opening       successful  bidders by  e-mail
+                                                                  and telephone.
+Dear Sir
+
+We intend to purchase the commodities & services specified in this document and invite quotations in
+accordance with the terms and conditions detailed in the bid document. If you are interested, kindly
+submit your offer with prices and complete terms within the time mentioned above through our e-
+tender portal www.tenderwizard.com/NITR. Tender will be accepted online only & no other
+mode will be accepted.
+
+
+                                                                   Registrar
+                                                          National Institute of Technology, Raipur
+
+
+
+Enclosed:
+
+(1)    Bid Document - Instructions to bidders - containing detailed terms and conditions.
+
+(2)    Bidder’s Eligibility Criteria - Annexure 1
+
+(3)    Acceptance of tender terms & conditions-Annexure 2
+
+(4)    List of Goods and/or Services – Annexure 3
+
+(5)   Scope of Work with Detailed Functional & Technical Specifications of Equipment– Annexure 4
+
+(6)    Price Schedule for goods/ services being offered from India – Annexure 5
+
+(7)    Deviation statement form - Annexure 6
+
+(8)    Bidder information & check list – Annexure 7
+
+
+
+
+
+  Section: Central Computer Center NIT Raipur                                             Page | 1
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+
+                                BID DOCUMENT
+
+                          INSTRUCTIONS TO BIDDERS
+
+Please go through the enclosed “bid document” carefully for other bidding instructions.
+
+
+1.  IMPORTANT NOTE: Being a Two-Part Tender (techno-commercial and price bid), fax quotations
+     will not be accepted. Please ensure your offers are received on or before tender due date and time.
+    Bidders / Tenderers are requested to download the tender documents from our website
+     (www.nitrr.ac.in) & e-tendering portal i.e. www.tenderwizard.com/NITR and submit tender fee
+     of amount 1180/- (inclusive of GST) through online mode in our e-tendering portal  i.e.
+    www.tenderwizard.com/NITR. Kindly note that if any bidder wants to quote for more than
+    one item in the tender then he has to pay tender fee only once at first and for later he will
+    be exempted to pay tender fee for another items (have to select exempted option on
+    payment page). If any vendor paid more than one tender fee in case of multiple items then
+    the excess payment will not be reversed, so please be careful while submitting the bid.
+    Please note that in this tender the bidder has to quote for all the items and/or services
+    provided in annexure 3.
+          Quotations received without tender fee will not be considered.
+          No request for extension of the due tender date will be considered.
+
+          In the event any date indicated above is declared as holiday, the next working day at
+
+            Institute shall be considered as the due date for receiving & opening of tenders.
+
+          The bids shall be opened on date and time as mentioned above. The bidders may send
+
+           their authorized representatives to attend the bid opening, if they so desire.
+
+          Bids received after the deadline of receipt indicated above, shall not be taken in to
+
+           consideration.
+
+      (a) In the  tender,  either the Indian agent on behalf  of  the Principal/OEM or
+
+     Principal/OEM  itself can bid but both cannot bid simultaneously  for the same
+
+     item/product in the same tender. In the event of simultaneous bidding by both
+
+     Principal/OEM and Indian agent; the bid submitted by the Indian agent will not be
+
+      considered.
+
+      (b) If an agent submits bid on behalf of the Principal/OEM, the same agent shall not
+
+     submit a bid on behalf of another Principal/OEM in the same tender for the same
+
+     item/product. In the event, an agent submits the bids on behalf of more than one
+
+     Principal/OEM for the same item in same tender, then  all such bids will not be
+
+      considered.
+
+
+
+2.    The bid should remain valid for a period of 180 days from the date of opening. In case your
+
+       offer has a different validity period that should be clearly mentioned in the quotation. Validity
+
+      period may also be extended without change in bid prices, if required on mutually agreed basis
+
+       only.
+
+
+3.    Submission of bids: Bidders have to submit their bid through E-tendering mode only at
+
+     website www.tenderwizard.com/NITR.
+
+
+  Section: Central Computer Center NIT Raipur                                             Page | 2
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+
+4.     Financial   Bid   (Microsoft   Excel   File)    is   to   be   downloaded   from   website
+
+     www.tenderwizard.com/NITR and then is to be filled, saved and uploaded (through digital
+
+      signature) on the same website and not to be submitted in hard copy at all.
+
+
+5.    The Financial Bid (after filling the rates) should neither be scanned & uploaded, nor, the hard
+     copy of the same should be submitted to NIT Raipur office
+
+
+6.   The complete Tender document can be viewed and downloaded only from the website
+     (www.tenderwizard.com/NITR) & www.nitrr.ac.in during the tender sale period. The
+     intending bidders should submit the tender documents sale price & tender processing
+       fee, through e-payment, at the time of making online request.
+
+
+7.    Complete tender papers, duly accompanied with receipts of e-payment of tender cost, EMD
+       shall be received online as per date and time mentioned. Tender shall be opened through E-
+      tendering systems, in the presence of bidders or their authorized representatives.
+
+8.    Complete tender documents must be submitted as per schedule through E-Tendering mode
+     only at website www.tenderwizard.com/NITR.
+
+9.    Tenderers are advised to complete all submission related work well before Time and Date for
+      submission of tender online. Any request for modification in the time/date of submission of
+      tender due to tenderer’s failure to submit his offer, will not be accepted.
+
+10.  To participate in the E-tender, it is mandatory for the bidders to have user ID &
+     password, which has to be obtained by submitting an annual registration charges of Rs.
+     2000/- + GST @ 18% to ITI, through e-payment. Also it is mandatory for all bidders to
+     have class 3 digital signature certificates from any of the CCA (Controller of Certifying
+      Authority, India) or if any support required on DSC, Please contact Helpdesk No. 011-
+     49424365.
+
+11.   The  bid  along  with  necessary  documents  should  be  uploaded  only  on  the
+     www.tenderwizard.com/NITR portal as per guidelines mentioned in the portal. Tenders have
+      to be submitted only online at https://www.tenderwizard.com/NITR . All documents in support
+      of eligibility criteria and technical compliance, etc. are also to be scanned and uploaded along
+      with the tender documents. Tender sent by any other mode will not be accepted.
+
+
+12.   PRE-BID SITE SURVEY:
+     The pre-bid site survey is mandatory. If the firm does not conduct the pre-bid site survey, then its
+      bid shall not be considered. Pre-bid site survey is to be carried out on the 7th day or immediate next
+      working day (if the 7th day happens to be a holiday) from the date of this advertisement (which is
+      considered as 1st day).
+
+
+13.   PRE-BID QUERIES:
+         If a bidder has any technical queries then email can be sent to cccnetproj@nitrr.ac.in . In case of any
+      commercial queries, email can be sent to storenpurchase@nitrr.ac.in, asstreg.str@nitrr.ac.in. No
+      queries will be entertained after the 15th day from the date of this advertisement (which is
+      considered as 1st day).
+
+
+14.  Amendment of Bidding Documents
+     o    Corrigendum and/or Addendum, if any, for the tender, shall form part of the Tender
+          Document. All Corrigendum and/or Addendum will be posted on NIT Raipur website
+            (www.nitrr.ac.in) &  www.tenderwizard.com/NITR  portal.  Bidders/Tenderers  are
+
+
+  Section: Central Computer Center NIT Raipur                                             Page | 3
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+
+           requested to visit NIT Raipur website regularly and note the corrigendum and/or
+         addendum and/or other amendments to the tender without fail and submit their offer
+             accordingly. NIT Raipur will not be responsible for ignorance of an issued corrigendum
+           and/or addendum and/or amendment.
+
+     o    At any time prior to the deadline for submission of bids, the Institute may, for any
+            reason, whether at its own initiative or in response to a clarification requested by a
+            prospective Bidder/Tenderer, modify the bidding documents by amendment. The same
+          would  also  be  posted  on  the  website  of  the  Institute  and  all  prospective
+            bidders/tenderers are expected to surf the website before submitting their bids to take
+           cognizance of the amendments. Bidders/Tenderers who have submitted their bids
+            before publishing the amendment may revise their bid incorporating the amendments
+            before the last date of tender.
+
+
+     o     In order to allow prospective Bidder/Tenderers reasonable time in which to take the
+         amendment into account in preparing their bids, the Institute, at its discretion, may
+           extend the deadline for the submission of bids and post the revised date on the website
+             of the Institute.
+
+
+15.   Custom duty: NIT Raipur has registration in Department of Scientific & Industrial Research
+      (DSIR). However, the same is not applicable in this project.
+
+16.   Bid Security / Earnest Money (EMD)
+
+     The Bidder/Tenderer shall furnish, as part of its bid, a bid security. The EMD/Bid security
+     should   be   submitted    online   only   through   e-tendering    portal     i.e.
+     www.tenderwizard.com/NITR. The EMD amount to be submitted will be INR 60,000/- or the
+      bidder needs to submit a valid MSME certificate or an undertaking on affidavit.
+
+
+      In the case of foreign bidders/tenderers, the bid security shall be submitted either by the
+      principal or by the Indian agent and in the case of indigenous bidders/tenderers, the bid
+      security  shall  be  submitted  by  the  manufacturer  or  their  specifically  authorized
+      Dealer/Bidder/Tenderer.
+
+          The bid security shall be in Indian Rupees & should be paid only through e-payment in
+           tenderwizard portal i.e. www.tenderwizard.com/NITR.
+
+          The bid security should be submitted in its original form. Copies shall not be accepted.
+
+          Any bid without EMD or bid not secured in accordance with above will be rejected by the
+             Institute as non-responsive.
+
+          The bid security of unsuccessful Bidder/Tenderer will be discharged/returned as
+           promptly as possible but not later than 30 days after the expiration of the period of bid
+             validity or placement of order whichever is later.
+
+         The successful Bidder/Tenderer’s bid security will be released within one month of
+           submission of PBG.
+
+          The firms registered with DGS&D & NSIC, MSME  if any, are exempted from
+
+         payment of bid security provided such registration includes the goods and services
+
+           they are offering.
+
+          The firm must ensure their eligibility for exemption from submission of EMD &
+
+          Tender Fee, in case of submission of EMD & Tender Fee Exemption Certificate i.e.,
+
+
+  Section: Central Computer Center NIT Raipur                                             Page | 4
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+
+           NSIC, MSME etc. If the exemption certificate is not found suitable for exemption
+
+          then the bid will not be considered in any case.
+
+           In place of a bid security or EMD, the bidder can sign a bid securing declaration accepting that
+
+                   if they withdraw or modify their bids during the period of validity, or if they are awarded the
+
+             contract and they fail to sign the contract, or to submit a performance security before the
+
+            deadline defined in the request for bids document, they will be suspended for two years from
+
+            being eligible to submit bids for contracts with the Institute.
+
+          The bid security may be forfeited if a Bidder/Tenderer withdraws or amends or
+           impairs or derogates its bid during the period of bid validity specified by the
+          Bidder/Tenderer on the Bid Form.
+
+
+17.   Sealing and Marking of Bids:
+      In a two-bid system All Bidders/Tenderers are requested to follow carefully the following
+      instructions before preparing their offer.
+
+
+Part I: Technical & Commercial Bid
+Part - (a) Technical
+   i.  This part should contain detailed specifications of the items quoted by you along with technical
+     literature, datasheets, manuals, guides, brochures, leaflets, etc.
+   ii. A compliance statement showing the compliance of the item quoted by you with that of the item
+    tendered by us should be prepared and enclosed to this.
+   iii. Any other information called for in the tender related to technical and commercial specifications
+    can also come in this part.
+  iv. Prices should not be implicitly or explicitly indicated in the techno-commercial part.
+
+Part - (b) Commercial terms: (Without Price)
+   i.  The commercial terms applicable for the items quoted by you should be indicated in this part.
+   ii.  If any compliance statement  is  called  for the commercial terms/contractual terms and
+     conditions, the same is to be attached in this part.
+  iii. Prices should NOT be indicated in this part. However, a copy of the price bid (without prices)
+    must be enclosed in this part to enable to understand whether all the items required to be
+    quoted by you have been quoted in the price bid.
+  iv. The Commercial terms such as delivery terms, delivery period, payment terms, warranty,
+     validity of the offer, installation & commissioning, duties and taxes etc., shall come into this.
+  v. The required EMD should be enclosed.
+  vi. The Tenderer / Bidder need to submit the following certificates along with the Tender
+    Documents to confirm their eligibility in this part :
+       Proof of establishment of firms/shop/business/Goods & Service Tax registration in REG-06
+       Format certificate should be enclosed.
+       Proof of registration with any other central government organization (if applicable)
+       Photocopies of purchase orders received from any central govt. organization to the firm if the
+      same is applicable and if it is required.
+       The bidder should enclosed proof of turnover by way of Audited Balance Sheet/Auditor’s
+         certificate if the same is applicable and if it is required.
+       The bidder should enclosed Photocopy of PAN card issued in the name of the bidder’s firm.
+       All the supporting documents as required in Annexure – 1 under Bidder’s Eligibility Criteria.
+
+
+Note:
+
+
+  Section: Central Computer Center NIT Raipur                                             Page | 5
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+
+      Technical Specifications and terms & conditions as above should be very clearly reflected item-
+     wise with reference to the items called for in the tender.
+      Please note that the PRICE SHOULD NOT BE indicated in this part.
+
+      The bidders must have to upload acceptance of tender terms & conditions duly sealed &
+     signed in e-tendering portal (As per Annexure-2).
+      The bidders must have to upload compliance sheets in the format mentioned under
+     Scope of Work with Detailed Technical Specifications of Items (As per Annexure-4)
+
+Part II: Price Bid
+  (Format in Annexure – 5)
+
+The prices applicable for the items, item-wise in response to the tender shall come into this part in the
+prescribed format only. Bid will be rejected if rates are not quoted in the prescribed format.
+
+   i.   Tenderer shall indicate very clearly item-wise prices with reference to their technical offer.
+
+
+  18.  The bidders should quote their offer/rates in clear terms without ambiguity.
+
+
+  19.  In case of any discrepancy between the rates in figures and that in words, the rate in words will
+     be accepted as correct.
+
+
+  20.  Each bidder shall submit only one bid. A bidder who submits more than one bid, shall be
+      disqualified and considered non-responsive.
+
+
+  21. Bid Prices
+
+     (i)  The Bidder/Tenderer shall indicate unit prices in the prescribed format only,
+
+     (ii)  Prices indicated on the price-schedule form shall be entered separately in the following
+manner:
+
+  (a)  For Goods being offered from India in INR
+
+           i. The price of the goods/ services quoted should be FOR NIT RAIPUR inclusive of all taxes(
+ GST, Custom etc), charges for inland transportation, insurance and other local services required for
+  delivering the goods at the desired destination as specified in the price schedule form, installation,
+ commissioning, training charges etc , if any. (Annexure 5)
+
+
+22.   Conditional discount, if any, offered by the bidder shall not be considered at the time of
+      evaluation.
+
+
+23.   Responsiveness of Bids
+
+
+(i)    Prior to the detailed evaluation, the Institute will determine the substantial responsiveness of
+     each bid to the bidding documents. For purposes of this clause, a substantive responsive bid is
+      one, which conforms to all terms and condition of the bidding documents without material
+      deviations, reservations or omissions. A material deviation, reservation or omission is one that:
+
+       (a)    affects in any substantial way the scope, quality, or performance of the Goods and Related
+            Services specified in the Contract; or
+
+       (b)    limits in any substantial way, inconsistent with the Bidding Documents, the Institute's
+             rights or the Bidder/Tenderer's obligations under the Contract; or
+
+
+
+  Section: Central Computer Center NIT Raipur                                             Page | 6
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+
+       (c)      if rectified, would unfairly affect the competitive position of other bidders/tenderers
+            presenting substantially responsive bids.
+
+
+(ii)   The Institutes' determination of a bid's responsiveness is to be based on the contents of the bid
+        itself without recourse to extrinsic evidence.
+
+
+(iii)   If a bid is not substantially responsive,  it will be rejected by the Institute and will  not
+      subsequently be made responsive by the Bidder/Tenderer by correction of the material
+      deviation, reservation or omission.
+
+
+
+24.   Evaluation and comparison of bids
+
+(i)   The Purchaser shall evaluate each bid that has been determined, up to this stage of the
+      evaluation, to be substantially responsive.
+
+(ii)   To evaluate a Bid, the Purchaser shall only use all the factors, methodologies and criteria
+      defined below. No other criteria or methodology shall be permitted.
+
+(iii)  The bids shall be evaluated on the following basis which shall be arrived as under:
+
+For goods being offered from India.
+
+     Goods and/or services price shall be calculated FOR NIT Raipur. The lowest bid (i.e., the L1 bid)
+       will be decided by the price of the goods and/or services quoted FOR NIT RAIPUR inclusive of
+        all  taxes (GST & Custom  Duty,  etc),  charges  for  inland  transportation,  installation,
+      commissioning, training charges, insurance and other local services required  if any for
+      delivering the goods at the desired destination as specified in the price schedule / price bid
+      format.
+
+
+Note: Bidders are required to quote all-inclusive unit prices of the goods and/or services which shall
+      include the packing, forwarding, freight, transportation, insurance charges, etc. in accordance
+      with the price bid format / template. Government taxes need to be mentioned separately as
+     mentioned in the price bid format / template.
+
+
+
+25.   The Institute reserves the right to conduct pre-dispatch inspection of goods and the vendor
+     must facilitate it at NIT Raipur’s cost for pre-dispatch inspection.
+
+26.   Warranty: The warranty for replaced active devices should be 1 year from the date of supply.
+
+27.  Terms of Payment: 100% payment on completion of supply and/or service. If supply or
+      service will be done in different consignment than the payment will be done accordingly with
+      the recommendation of the department.
+
+
+Note:
+    1. The nomenclature used for the item description in the invoices(s), and the delivery challan etc.
+      should be identical to that used in the contract.
+    2. The above documents should be received by the Purchaser before arrival of the Goods and, if
+      not received, the Supplier will be responsible for any consequent expenses.
+
+
+28.   Performance Security: The successful bidder has to furnish “Performance Security of 5% of
+      the ordered value in Indian Rupee”, in the form of Account Payee Demand Draft, / Fixes deposit
+     and/or Payment withheld and / or online payment and/or unconditional Bank guarantee en-
+
+
+  Section: Central Computer Center NIT Raipur                                             Page | 7
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+
+      cashable on demand from the Director, NIT, Raipur, from a nationalized Bank with validity
+      period of sixty (60) days beyond the date of completion of all contractual obligations of
+      supplier including guarantee/ warranty obligations.  The Performance Security  is to be
+      furnished in favor of the Director, National Institute of Technology, Raipur, within ten days of
+      intimation, failing which his bid security will be forfeited.
+
+
+     The performance security will be discharged by the Purchaser and returned to the Supplier not
+       later than 60 days following the date of completion of the Supplier's performance obligations,
+      including any warranty obligations.
+
+
+29.   Delivery period: Delivery of items should be made within 150 days from the date of order of
+
+      placement.
+
+
+
+30.   Releasing request for EMD/Bid Security and Performance Bank Guarantee (PBG):-
+        (i)   Request for releasing of EMD should be addressed to Store and Purchase Section at NIT
+           Raipur and will be released after checking the required compliances for releasing.
+
+
+         (ii)   Request for releasing of Performance Bank Guarantee after expiry of the validity of the
+         PBG should be addressed to the Head of concerned department with copy of Purchase
+           order and other relevant details.
+
+
+31.   Delayed delivery (Liquidated damages):
+     Any delay by the contractor/bidder in the performance or the delivery obligations shall render
+     him/her liable to any of the following penalties:
+          a)  In the event of contractor’s failure to supply the said items of acceptable quality and
+              specifications within the original delivery period given in the purchase order, NIT Raipur
+               shall be at liberty to recover liquidated damages to be levied @ 0.5% of the order value per
+          week or part thereof subject to a maximum of 10% of the total order value.
+         b)  Forfeiture/encashment of the performance bank guarantee/earnest money.
+          c)  Liquidated damages shall be calculated on the total contract value comprising of value of
+            complete equipment and installation & commissioning charges for a site. The supply shall be
+            taken as complete only after the last installment of supply has been made.
+         d)  After a delay of more than 8 weeks, NIT Raipur reserves the right to cancel the purchase
+            order and buy the items from any other vendor, at bidder’s risk and cost. Any losses caused
+             to NIT Raipur on this account shall be recoverable from bidder.
+          e)  In case of delay due to site not ready condition / delay in customs etc. which cannot be
+             reasonably attributable to the system integrator then in such condition LD shall not be
+            imposed. However, prior information has to be provided for the same.
+            f)   If the payment due against a phase extends beyond 30 days for reasons which cannot be
+             reasonably attributable to the system integrator, the period beyond this till realization of
+           payment will not be counted towards imposition of liquidated damages.
+
+
+
+32.   Installation time: The system integrator must perform the supply, installation, configuration,
+      repairs etc. as needed within 150 days from the date of purchase order failing which order may
+     be cancelled and EMD may be forfeited.
+
+
+
+33.   Copy Right: The copyright in all drawings, documents, and other materials containing data and
+
+
+  Section: Central Computer Center NIT Raipur                                             Page | 8
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+
+      information furnished to the Purchaser by the Supplier herein shall remain vested in the
+      Supplier, or, if they are furnished to the Purchaser directly or through the Supplier by any third
+      party, including suppliers of materials, the copyright in such materials shall remain vested in
+     such third party.
+
+
+
+34.   Right to use Defective Goods:  If after delivery, acceptance, installation and within the
+      guarantee and warranty period, the operation or use of the goods proves to be unsatisfactory,
+      the Purchaser shall have the right to continue to operate or use such goods until rectifications of
+       defects, errors or omissions by repair or by partial or complete replacement is made without
+      interfering with the Purchaser's operation.
+
+
+35.    Site preparation and installation: The Purchaser is solely responsible for the construction of
+      the equipment sites in compliance with the technical and environmental specifications defined
+     by the Supplier. The Purchase will designate the installation sites before the scheduled
+       installation date to allow the Supplier to perform a site inspection to verify the appropriateness
+       of the sites before the installation of the Equipment, if required. The supplier shall inform the
+      purchaser about the site preparation,  if any, needed for installation, of the goods at the
+      purchaser's site immediately after notification of Award / Purchase Order / Agreement.
+
+
+36.   Force Majeure:
+         If at any time, during the continuance of this contract, the performance in whole or in part by
+      either party or any obligation under this contract shall be prevented or delayed by reason of
+     any war, or hostility, acts of the public enemy,  civil commotion, sabotage, fires, floods,
+      explosions, epidemics and pandemics, quarantine restrictions, strikes, lockouts or act of God
+      (hereinafter referred to as events) provided notice of happenings of any such eventuality is
+      given by either party to the other within 21 days from the date of occurrence thereof, neither
+      party shall by reason of such event be entitled to terminate this contract nor shall either party
+     have any such claim for damages against the other in respect of such nonperformance or delay
+       in performance, and deliveries under the contract shall be resumed as soon as practicable after
+     such event may come to an end or cease to exist and the decision of the purchaser as to
+     whether the deliveries have been so resumed or not shall be final and conclusive provided
+      further that  if the performance in whole or part of any obligation under this contract is
+     prevented or delayed by reason of any such event for a period exceeding 90 days either party
+    may at his option, terminate the contract provided also that if the contract is terminated under
+       this clause, the Purchaser shall be at liberty to take over from the Successful Tenderer at a price
+      to be fixed by the purchaser with mutual consent which shall be final all unused, undamaged
+     and acceptable materials bought out components and stores in course of manufacture in
+      possession of the Successful Tenderer at the time of such termination of such portions thereof
+      as the purchaser may deem fit excepting such materials bought out components and goods as
+      the Successful Tenderer may with the concurrence of the Purchaser select to retain.
+
+
+37.   Defective Equipment:
+    (i) If any of the equipment supplied by the Tenderer is found to be substandard, refurbished, un-
+     merchantable or not in accordance with the description /specification or otherwise faulty, the
+       institute will have the right to reject the equipment or its part. The prices of such equipment
+       shall be refunded by the Tenderer with 18% interest if such payments for such equipment have
+      already been made to him.
+
+
+    (ii) All damaged or unapproved goods shall be returned at suppliers’ cost and risk and the
+      incidental expenses incurred thereon shall be recovered from the supplier. Defective part in
+
+
+  Section: Central Computer Center NIT Raipur                                             Page | 9
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+
+      equipment, if found before installation and/or during warranty period, shall be replaced within
+     45 days on receipt of the intimation from this office at the cost and risk of supplier including all
+      other charges.
+
+
+38.   Any disputes arising out of this enquiry shall be dealt in the Raipur jurisdiction.
+
+
+39.   Bidder has to sign all the pages of this tender and enclose it with the bid.
+
+
+
+
+                                                                                  Registrar
+                                                                                NIT-Raipur
+
+
+
+
+
+  Section: Central Computer Center NIT Raipur                                            Page | 10
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+                              List of Annexure
+
+
+
+1. Bidder’s Eligibility Criteria – Annexure 1
+
+2. Acceptance of tender terms & conditions-Annexure 2
+
+3. List of Goods and/or Services – Annexure 3
+
+4. Scope of Work with Detailed Functional & Technical Specifications of Equipment– Annexure 4
+
+5. Price Schedule for goods being offered from India – Annexure 5
+
+6. Deviation statement form - Annexure 6
+
+7. Bidder information & check list – Annexure 7
+
+
+
+
+
+  Section: Central Computer Center NIT Raipur                                            Page | 11
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+Annexure 1
+
+1.0 BIDDER’S ELIGIBILITY CRITERIA
+
+
+S.                                                                              Compliance
+                  Description of Parameters                  Supporting Document
+No.                                                                                     (Yes/No)
+      The bidding firm should be registered under the  Signed  and  Sealed Copy  of
+ 1.    Indian Companies Act, 1956 and/or any subsequent  Registration Certificate/GST
+      amendment(s) thereof                                    Certificate (REG-06 Format)
+
+      The bidding firm must provide organization details  Signed  and  Sealed Copy  of
+ 2.
+       such as PAN and GST registration certificates        necessary certificates
+                                                       Signed  and  Sealed Copy  of
+ 3.    The bidding firm shall be ISO 9001 & 27000 certified
+                                               ISO certification
+      The bidding firm must declare  that  there  is no
+       lawsuit pending against the Proprietor  / Partners  /
+                                                        AffidavitonRs.100/-Stamp
+ 4.     Directors and the company has not been blacklisted
+                                                       Paper
+        in the last 5 years or in the period of its existence, if
+        less than 5 years.
+      The active network devices / switches should not be
+                                     A             letter         on
+       declared End of Life at the time of delivery and the
+ 5.                                                          manufacturer(s)letterhead    to
+       manufacturer(s) should support the products quoted
+                                                                      this extent should be attached
+        for at-least 5 years
+                                                   Documentary  proof  of  ISO
+      The network devices should be from ISO 9000
+ 6.                                                                 certification     should     be
+        certified manufacturers.
+                                                         provided
+
+                                      TAC       addresses       of
+      The  manufacturers  should  have   local  TAC
+                                                         manufacturers    of   network
+ 7.    (Technical Assistance Centre) based in India for
+                                                          switches should be provided by
+        offering post-sales technical support
+                                                               the bidder
+
+      The  bidding  firm  should  be  authorized by  the  Manufacturer(s)  authorization
+ 8.    manufacturer of network devices for participation in   certificate containing reference
+        this tender                                               to this tender on his letterhead
+                                                       Undertaking   for   the  same
+       In  case  End-Customer  demands  for  an  Onsite
+                                                         should be provided along with
+ 9.    demonstration, the bidder must comply with the
+                                                              declaration that the bid shall be
+       requirements for the same mentioned below*
+                                                                disqualified if the PoC fails.
+      The Bidder must ensure the proposed switches shall
+                                                 The bidder must submit a letter
+       seamlessly integrate with the existing LAN devices,
+ 10.                                                 from      the    OEM/OEMs
+     SDN  Controllers,  NMS/Vista  Manager  servers
+                                                           regarding the same.       without use of any 3rd party or intermediate devices.
+
+
+ *Requirements for On-site Demonstration: The technically qualified bidders may be asked with prior
+ notification from NIT Raipur to demonstrate the products quoted against the tender and its compliance
+ to the technical specifications  / features during the technical evaluation stage of the tender. All the
+ required hardware / software and other infrastructure should be sourced by bidder and /or manufacturer
+ at their own cost. Specific details of the PoC or demonstration shall be communicated later. The
+ successful qualification of PoC does not guarantee any order confirmation from NIT Raipur and the
+ bidder must conduct the same with no Time & Cost implication to NIT Raipur
+
+
+
+  Section: Central Computer Center NIT Raipur                                            Page | 12
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+Annexure 2
+
+
+
+Acceptance of terms & conditions of tender (Must be on Letter Head)
+
+                                              Date:
+
+To,
+
+The Registrar,
+
+National Institute of Technology, Raipur-492010(Chhattisgarh)
+
+Subject: Acceptance of Terms & conditions of Tender.
+
+Tender ref. No.: NITRR/CCC/OT/2022/1494                       Dated 20/10/2022
+
+
+
+Dear Sir,
+
+1.    I/We have downloaded/obtained the tender document(s) for the above mentioned Tender
+      enquiry no. from the website www.tenderwizard.com/NITR or www.nitrr.ac.in .
+
+
+2.    I/We hereby certify that I/we have read entire terms & conditions of the tender documents
+     from Page 01 to 23 (including all documents like annexure, schedules etc.) which form part of
+      the tender document and I/we shall be abide by the terms & conditions/clauses contained
+      therein.
+
+
+3.    The corrigendum(s) issued from time to time by NIT Raipur to have also been taken into
+      consideration, while submitting this acceptance letter.
+
+
+4.    I/We hereby unconditionally accept the tender conditions  of above mentioned tender
+      document(s)/corrigendum(s) in totality/entirely.
+
+
+5.    In case any provisions of this tender are found violated, NIT Raipur shall be at liberty to reject
+       this tender/bid including the forfeiture of the full said earnest money deposit absolutely and we
+       shall not have any claim/right against NIT Raipur in satisfaction of this condition.
+
+
+
+6.    I/We confirm that we or our proprietor/Director/Partner have not been blacklisted or
+
+     debarred or declared ineligible for corrupt/fraudulent practices either indefinitely or for a
+
+      particular period of time by any Government or other agency. I/we further declare that no
+
+      criminal   case    is   registered  on   pending   against   the   firm/company   or    its
+
+      owner/partners/directors anywhere in India. Also there are no contractual restrictions or legal
+
+      disqualifications or other obligations which prohibit the applicant from entering into tender
+
+      process.
+
+
+
+
+                                             (Seal & Signature of the bidder)
+
+
+
+
+
+  Section: Central Computer Center NIT Raipur                                            Page | 13
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+Annexure 3
+
+
+List of Goods and/or Services to be Procured under Tender
+Following is the list of goods and/or services (express or implied) which are to be procured under this
+
+tender. The goods and/or services must be inline with the detailed technical specifications and scope of
+
+work.
+
+     S. No.             Description of Goods and/or Services             Unit     Qty
+
+       1     Replacement of Damaged IO Port                        Nos       59
+
+       2     Network Access Switch as per technical specifications         Nos       07
+
+       3     Indoor WiFi Access Points as per technical specifications      Nos       07
+
+       4     Outdoor WiFi Access Points as per technical specifications     Nos       02
+
+       5    1kVA Online UPS (Repair)                             Nos       13
+
+       6    3kVA Online UPS (Repair)                             Nos       04
+
+       7    6kVA Online UPS (Repair)                             Nos       01
+
+       8(a)   New 12V 7.2AH SMF Batteries                         Nos       70
+
+       8(b)   Buyback of Dead 12V 7.2AH SMF Batteries (-)              Nos       70
+
+       9(a)   New 12V 42AH SMF Batteries                          Nos       32
+
+       9(b)   Buyback of Dead 12V 42AH SMF Batteries (-)              Nos       32
+
+      10(a)  New 12V 65AH SMF Batteries                          Nos       38
+
+     10(b)   Buyback of Dead 12V 65AH SMF Batteries (-)              Nos       38
+          Any other item which in bidder’s view is required to
+            complete this work
+      11     (a)                                                  Lot      01
+              (b)
+               (c)
+
+
+
+
+
+  Section: Central Computer Center NIT Raipur                                            Page | 14
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+Annexure 4
+
+Detailed Scope of Work and Technical Specifications with Compliance
+
+SCOPE OF WORK:
+Potential bidders should note that the purpose of the tender is to supply, configure, install and test the
+Network switches, Indoor Wi-Fi, Outdoor Wi-Fi, and Batteries given in the goods and services list. The IO
+points mentioned in the item list should be replaced. The UPS mentioned needs to repair and install in their
+designated places. The installation locations will be provided by CCC. It is bidder’s responsibility to make
+the complete system functional. The detailed service requirement is mentioned below.
+
+                          SERVICE REQUIREMENTS
+
+  S.                                                                                Compliance
+                                            Description
+ No.                                                                                       (Yes/No)
+
+  1.    Bidder needs to supply items which meet the provided technical specification
+
+  2.     Installation must be done by a service engineer of the bidder/ OEM
+       Exact  installation locations will be provided by Central Computer Center, NIT
+  3.
+       Raipur
+      The bidder will be responsible for transportation, handling, and installation etc of the
+  4.
+       items to the specified installation location.
+      The supplied network switch should support SDN. The bidder/OEM should integrate
+  5.
+        the device with existing SDN.
+      The supplied indoor and outdoor WiFi access point should be integrated with the
+        existing Wi-Fi controller. If the supplied indoor and outdoor Wi-Fi access point does  6.
+       not integrate with the existing Wireless Controller then bidder need to supply
+       Wireless Controller of given specifications with no additional cost.
+           It will be the bidder’s responsibility to configure, test and integrate the supplied
+  7.
+       network items with the existing network without any ambiguity.
+
+      The network active device should meet the compliance sheet as per technical
+  8.
+        specifications and it should integrate with existing NMS for live remote monitoring.
+
+     UPS should be repaired from good quality part by the bidder. Batteries should be  9.
+       supplied and installed as per specifications provided.
+      The bidder need to supply battery interlink cables, lugs if the existing interlink
+        cables, lugs are not working. If the supplied battery size is different from existing
+  10.
+       one and not able to fix in the existing rack then bidder needs to supply battery rack as
+        per battery bank at no additional cost.
+       During the warranty period, Service engineer must be available on the site, i.e., the
+  11.    institute  within 4  hours  of  reporting  a problem  for problem  diagnosis and
+        troubleshooting.
+
+       During the warranty period, an identical spare must be made available on the site
+  12.   within 8 hours of reporting a problem till the failed device is repaired and re-installed
+        to ensure minimum disruption in services.
+
+         Institute reserves the right to test the claimed technical parameter of the supplied
+        devices. Manufacturer or bidder may send their engineer during the test. Supplier
+  13.
+        agrees that no payment will be made if the devices are found defective on arrival or
+       does not comply with the claims or develops faults during testing.
+       Service engineer should do preventive maintenance during warranty period  if
+  14.
+        required.
+
+
+  Section: Central Computer Center NIT Raipur                                            Page | 15
+
+    National Institute of Technology, Raipur                                                       Tender Document
+
+
+                        TECHNICAL SPECIFICATIONS
+
+
+1.  NETWORK DEVICES: 24 PORT LAYER 2 ACCESS SWITCH
+
+                                                                                      Compliance
+     S. No.                               Technical Specifications
+                                                                                               (Yes/No)
+      1    General Specifications:
+           24 no of 10/100/1000 Base-T and additional 4 x 100/1000 Base-X SFP Ports All
+              ports should support Wire speed, non-blocking performance
+      2    L2 Features :
+                Supports for IEEE 802.3ac, IEEEE 802.3az, IEEE 802.1ab, IEEE 802.3ad
+              IEEE 802.1Q, IEEE 802.1s, IEEE 802.1w, IEEE 802.1D, IEEE 802.3ad, and
+              IEEE 802.1v, RSPAN/Port mirroring, VLAN ACL’s, Voice VLAN, All ports
+                 should support Loop back detection.
+               The switch must support 2K Active VLAN’s.
+               The switch must be able to support ring topology with sub 50ms failover for
+                 high availability as per ITU-T G.8032/IEEE 802.17
+
+      3    Performance:
+           Should support for following parameters
+              MAC address 16K entries
+              56Gbps of Switching Capacity
+               forwarding rate of up to 41Mpps
+      4     Multicast: IGMP snooping v1 , v2 and v3, MLD snooping (v1 and v2)
+      5     Security Features:
+           Should support  for ACLs based onL2, L3 and L4 headers, DHCPv4 (Snooping,
+              server/  client), Dynamic ARP Inspection (DAI), IP Source Guard, RADIUS,
+         TACACS+, SSL, SSH, SSL v2 and v3, SFTP,SCP, SNTP, NTP, Port Mirroring,
+          Dynamic VLAN assignment and Tri-authentication such as MAC-based  , web-
+            based and IEEE 802.1x port based  authentications and NAC  for managing
+            endpoint security.
+      6    Management:
+               SNMPv1, v2c and v3, TFTP, Web GUI, CLI, USB or equivalent memory
+                   card, IPv4 and IPv6 management features and Control plane prioritization,
+             SNMPv6, Telnetv6, SSHv6 and Syslogv6
+               SDN Open Flow v1.0 or above. Should support SDN/OpenFlow in same
+                hardware for future requirement. Shall support single IP management of
+              minimum 8 switches
+      7    Monitoring: sFlow, Connectivity Fault Management.CFM/Y.1731
+      8     Quality of Services:
+               Must support for low latency with wire speed traffic classification essential
+                   for real time streaming and real time Video and voice applications
+                Should support  for IEEE 802.1p  standard, Policy-based QoS based on
+             VLAN, port, MAC and general packet classifiers
+     10    Operating Temperature: Min of 0 to 50 Degrees or better
+     11    Certification and Compliances:
+           UL60950-1, EN60950-1-03, EN60950-1, EN60825-1, Certifications: UL, cUL,
+
+
+    Section: Central Computer Center NIT Raipur                                            Page | 16
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+
+        EMC: EN55022 class A, Immunity: EN55024, EN61000-3-levels 2 (Harmonics)
+          and RoHS
+
+
+2. INDOOR WI-FI ACCESS POINTS
+
+
+                                                                                  Compliance
+   S. No.                             Technical Specifications
+                                                                                          (Yes/No)
+
+         The access point should be capable to offer IEEE 802.11ac Wave 2 standard
+     1.
+          with an assured throughput 1.1 Gbps or more.
+
+     2.    Should support dual band as 2.4 or 5GHz with embedded antenna
+     3.     Support IEEE 802.11a/b/g/n/ac 2x2 MIMO
+
+         The AP should be operated in standalone as well as controller-based
+     4.
+          environment.
+
+          Should have feature to create multiple virtual AP on the same physical device to
+     5.
+           configure the different security policies for each virtual AP
+
+          Should have feature to allocate the equal bandwidth for all the connected users
+     6.
+            to ensure consistent performance for all users
+
+     7.   AP should be offering automatic channel selection to restrict interference
+     8.    Should support Multiple BSSIDs, VLAN tagging
+
+     9.    Should support automatic channel selection to avoid overlapping of the channel
+
+          Support RF load balancing to increase the performance and support WDS and
+    10.
+     WMM
+
+          Should have option Band Steering and support 802.11k, 802.11v, and 802.11r
+    11.
+            for Fast roaming
+
+    12.   Should have mechanism to detect the Neighbor AP and client isolation
+
+          Should support Authentication, Accounting and 802.1x, WPA, MAC address
+    13.
+          and Captive Portal
+
+    14.   Should support the mechanism to Hide and ignore/restrict for specific SSID
+
+         CE, RCM, FCC, Wi-Fi certified, UL60950-1, EN 55024, EN 55032, EN 61000-
+    15.
+            4-2, EN 61000-4-6, EN 61000-4-11
+
+    16.    Operating Temperatures: 0°C to 50°C
+    17.   Should be operated as 802.3at or 802.3af standard
+
+          Bidder shall ensure that the proposed AP/s shall seamlessly integrate with the
+    18.    existing Wireless Controller without any additional hardware / Software / 3rd
+            interfacing applications.
+
+
+3. OUTDOOR WI-FI ACCESS POINTS
+
+                                                                                 Compliance
+   S. No.                              Technical Specifications
+                                                                                           (Yes/No)
+  A    General Feature Requirements
+        The system must deliver high-performance Outdoor Wi-Fi access, deploy secure
+     1.
+         and reliable outdoor hotspots at defined lobby, residential, walk-ways etc.
+        The proposed system shall be easy to manage with centralized Wi-Fi
+     2.
+           infrastructure management software with feature-rich management console.
+         Phenomenal Wi-Fi performance engineered for phenomenal Wi-Fi performance
+     3.
+         even in high-density environments for demanding voice and video applications.
+
+
+
+  Section: Central Computer Center NIT Raipur                                            Page | 17
+
+National Institute of Technology, Raipur                                                       Tender Document
+
+
+       The proposed system shall have Secure and Reliable Wi-Fi access with secure
+   4.     the network with strong encryption methods, exhaustive analytics and
+         prevention of unauthorized access.
+          Industrial Grade IP67 enclosure rating to withstand challenging environments of
+   5.
+        extreme temperatures and dusty environments.
+         Theft protection functionality Access Point is locked for deployment in any
+   6.
+         other network until decommissioned from the existing network.
+       The proposed Wi-Fi system shall implement additional Services such as
+   7.   RADIUS authentication, content filtering and advanced Wi-Fi Service
+       Management Platform as SoW (scope of work).
+
+
+  B    Technical Features
+   1.    Wi-Fi standards : IEEE 802.11b/g/n & IEEE 802.11a/n/ac
+   2.    Operating mode : Access Point, Router, Mesh mode
+      Maximum data rates : 802.11ac @ 80 MHz: 867 Mbps,
+   3.    802.11n @ 40 MHz: 300 Mbps, 802.11a/g @ 20 MHz: 54 Mbps, 802.11b @ 20
+      MHz: 11Mbps.
+   4.    Supported channels : 2.4 GHz - 13 ; 5 GHz : 36-64, 100-144, 149-165
+        Modulation schemes : 802.11ac : 802.11a/g/n : 256-QAM, 64-QAM, 16-QAM,
+   5.   QPSK, BPSK
+        802.11b : 64-QAM, 16-QAM, QPSK, BPSK, CCK, DQPSK, DBPSK
+   6.     Spatial streams : MU-MIMO ( 2x2:2)
+        Channel size : 2.4 GHz - 20/40 MHz   7.
+         5.0 GHz - 20/40/80 MHz
+
+        Wireless security : 802.11i
+      WPA3-AES personal, Enhanced open
+      WPA2-TKIP/AES personal, Open
+   8.   WPA3-WPA2 Mixed- AES personal, Open
+     WPA Mixed-TKIP/AES personal, Open
+        WPA3-Enterprise (802.1x/EAP-TLS, EAP-TTLS)
+        WPA2-Enterprise (802.1x/EAP-PEAP,EAP-TLS, EAP-TTLS)
+     WPA Mixed-Enterprise (802.1x/EAP-PEAP)
+   9.     External DB support : Radius, Active directory, LDAP
+   10.  Web authentication : Radius, Active directory, LDAP
+   11.   Roaming : 802.11k, 802.11v, 802.11r
+   12.   Client management : Band Steering, Band Balancing
+   13.   Channel : Auto Channel , Speedy channel, Channel switch
+   14.   Guest management : Hotspot (WISP)
+
+        Local guest portal : Customized template Authentication method :
+       Yes (User defined, Theme based)
+   15.   Click-through, Access code, Self sign-up (SMS, Email),
+        Sponsor based (Domain-based, Individual Email ID based)
+        Pass validity, Bandwidth restriction, Quota based)
+
+         Additional Features : WLAN scheduling
+        Force DHCP
+      URL altering
+   16.          Inactivity timeout
+          Internet freeze
+      OS restrictions
+        802.11 w Management Frame Protection (MFP)
+       Advance Routing Feature Support :
+
+
+Section: Central Computer Center NIT Raipur                                            Page | 18
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+
+    17.   Ethernet WAN : WAN (DHCP/Static/PPPoE)
+    18.   Multi WAN : Auto failover, Port forwarding
+    19.  DHCP server : DHCP lease , DHCP MAC reservation
+    20.  VPN : IPSec
+    21.  WAN security : Port block management
+    22.  URL filtering enabled
+    23.  VLAN support : VLAN, 802.1Q for management and data
+    24.   Client isolation : supported
+    25.   Bandwidth limitation : SSID/User based bandwidth restriction
+    26.   Auto QoS enabled
+    27.   L2/L3/L4 ACLs : Supported
+    28.   WMM,802.1P, 802.11e : Supported
+          Bidder shall ensure that the proposed AP/s shall seamlessly integrate with the
+    29.    existing Wireless Controller without any additional hardware / Software / 3rd
+           interfacing applications.
+
+4. ON PREMISE WIRELESS CONTROLLER*
+
+                                                                                  Compliance
+   S. No.                              Technical Specifications
+                                                                                          (Yes/No)
+        On Premise Controller for Network Management:
+    1     For better manageability, a on prem managed solution which allows Network
+           administrator to manage the entire network from NOC.
+          Basic Configurations Management Support:
+         -AP model, firmware version, MAC address, public IP, date the AP was added,
+           date of the latest revision.
+           -Modification of AP names.
+    2    -Choose IP Schema from DHCP, STATIC or PPPoE.
+          -Reboot AP.
+         -Remote firmware upgrades.
+            -Easily move the AP from one group to another.
+            -Easily move the AP from one site to another.
+          Radio Configurations
+         Management Support:
+          -Change radio mode (802.11b, 802.11g, 802.11b/g/n).
+    3     -Select channel or choose the ‘Auto’ mode.
+            -Set Tx Power.
+          -Choose the channel width: 20 or 40 or 80 MHz.
+           -Control 2.4 GHz and 5GHz radios independently.
+        SSID Configurations:
+           -Enable up to 8 SSIDs per each access point.
+           -Create new SSIDs, open or public (WEP, WPS2-PSK, external splash page
+    4     with or without Radius AAA).
+         -Make an SSID invisible.
+            -Isolate clients.
+            -Set bandwidth limits.
+         Network Mode:
+           Select Network mode: Each SSID or LAN port connects to the Internet.
+          Bridge mode: SSID and or LAN port can individually be bridged through the
+    5   WAN port.
+          Router mode: SSIDs and or LAN port can individually be routed through WAN
+             port, activating NAT and DHCP. It is possible to have a single DHCP server per
+          each SSID, if needed.
+
+
+
+  Section: Central Computer Center NIT Raipur                                            Page | 19
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+
+          TCP/IP:
+          Manually configure static IP addressing, specifying IP, Subnet Mask, Gateway,
+    6
+          Primary DNS server, and Secondary DNS server. Alternatively, enable dynamic
+           IP addressing (DHCP client).
+          Access Point Statistics:
+           Real-time status of the access point and last heartbeat.
+           Status of the AP during the previous seven days, with exact date and time per
+    7      issue.
+           Real-time Load % on RAM/CPU, drop and error rates.
+         Number of connected clients and aggregated download and upload bitrate.
+           History of configuration revisions.
+           Client Statistics:
+          Access point name to which the client is connected.
+           Client Hostname.
+           Client IP Address.
+    8     Client IP & Mode.
+          SSID.
+      MAC address.
+           Session duration.
+           Sent and received bytes Signal strength (dBm).
+          Guest Network Management:
+         Voucher Based Access(Single/Bulk voucher generation)
+    9
+            Self Sign-on Based Access
+        SMS/OTP Based Access
+           Reporting:  Store  management  data,  client  data,  and  user  activity  logs
+   10     indefinitely so you can create and export reports containing historical data if
+           needed.
+
+*Bidder needs to supply the on premise wireless controller if the quoted Indoor/ Outdoor Wi-Fi access point
+does not work with the existing Wireless Controller in no additional cost.
+
+5. BATTERIES OF 1KVA/3KVA/6KVA UPS as given in list of goods and/or services annexure 3
+
+                                                                                 Compliance
+   S. No.   Parameter              Specification
+                                                                                         (Yes/No)
+     1.     Battery Voltage      12V
+     2.     Battery Capacity      7.2AH/42AH/65AH
+     3.     Battery type           Sealed Maintenance Free
+                                 Accredited based on ISO/IEC Guide 25 / 17025 or EN
+            Certification and
+     4.                       45001 as per IEC / IS standards or ISO 9001:2000 or
+         Compliances
+                                  equivalent
+           Preferred            Amaron/ Exide/ Okaya/ Panasonic/ are any other
+     5.
+         Make/Model           reputed Manufacturer
+                                           If the supplied battery size is different from existing
+     6.     Battery Rack*        one and not able to fix in the existing rack then bidder
+                               needs to supply battery rack as per battery bank
+
+
+
+
+
+                                                   Seal & Signature of Bidder
+
+
+  Section: Central Computer Center NIT Raipur                                            Page | 20
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+Annexure-5
+
+Price Schedule form: Price Schedule for Goods/Services Being Offered from India/Abroad in INR
+
+Name and Address of the Bidder/Tenderer:
+Project Name:
+Tender No.:
+
+  S.         Description of Goods      Units   Quantity  Unit   HSN   Applicable  Unit Price   Total
+ No.          and/or Services           (B)      (C)     Price   Code    GST    with Tax    Price
+                     (A)                                   in INR    (E)   Percentage  in INR (G)  (H)
+                                                        (D)                 (F)                    in INR
+
+       Replacement of Damaged IO
+ 1                              Nos    59
+        Port
+       Network Access Switch as per
+ 2                              Nos    07
+        technical specifications
+       Indoor WiFi Access Points as
+ 3                              Nos    07
+        per technical specifications
+       Outdoor WiFi Access Points as
+ 4                              Nos    02
+        per technical specifications
+ 5    1kVA Online UPS (Repair)     Nos    13
+
+ 6    3kVA Online UPS (Repair)     Nos    04
+ 7    6kVA Online UPS (Repair)     Nos    01
+ 8(a)  New 12V 7.2AH SMF Batteries  Nos    70
+      Buyback of Dead 12V 7.2AH
+ 8(b)                            Nos    70
+     SMF Batteries (-)
+ 9(a)  New 12V 42AH SMF Batteries  Nos    32
+      Buyback of Dead12V 42AH
+ 9(b)                            Nos    32
+     SMF Batteries (-)
+ 10(a) New 12V 65AH SMF Batteries  Nos    38
+      Buyback of Dead 12V 65AH
+ 10(b)                           Nos    38
+     SMF Batteries (-)
+      Any other item which in
+        bidder’s view is required to
+       complete this work
+  11                                 Lot     01
+         (a)
+        (b)
+         (c)
+                                                        Grand Total Price in INR
+               *Grand Total Price in INR (in Words):
+ IMPORTANT NOTE:  Among the technically qualified bids, the L1 bidder will be evaluated on the
+                       Grand Total Price in INR
+
+The grand total will be calculated by subtracting 8(b), 9(b) and 10(b) from sum of remaining items of above list.
+
+*L-1, i.e., successful bidder will be decided on the basis of Grand Total Price from those bidders whose bids are
+successful at the techno-commercial evaluation stage.
+
+Note:
+(a)         Price should be all inclusive F.O.R. NIT Raipur & must be quoted in above prescribed
+format only.
+
+
+                                                   Seal & Signature of Bidder
+
+  Section: Central Computer Center NIT Raipur                                            Page | 21
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+Annexure-6
+
+
+
+                           DEVIATION STATEMENT FORM
+The following are the particulars of deviations from the requirements of the tender specifications:
+
+
+                                                      REMARKS
+         CLAUSE                 DEVIATION            (INCLUDING JUSTIFICATION)
+
+
+
+
+
+                                                       Seal & Signature of Bidder
+
+
+
+
+
+  Section: Central Computer Center NIT Raipur                                            Page | 22
+
+  National Institute of Technology, Raipur                                                       Tender Document
+
+Annexure-7  (Please put this annexure at the top of the tender document)
+
+                     Bidder’s information & Check list
+
+1.    Name of the Firm:
+
+2.     Type of the firm: (Proprietorship, Pvt Ltd, Public Ltd, Partnership etc.)
+
+
+
+3.     Address of the firm:
+
+
+4.      Contact detail:   Phone No.:                Mob No. :
+
+                      Fax No.                   E mail:
+
+5.    Name of the authorised signatory:
+
+6.    EMD detail : Intrument No.               Date :           Amount:    Issuing
+
+Bank name & branch detail:
+
+7.     Bank details of the firm:
+
+Account No.:                                 IFSC Code:
+
+Name of the Bank:                           Branch:
+
+
+
+Check List(Please enclose the copy of the following &tick as per applicability)
+
+
+
+   1.   Proof of registration of the firm/ GST Registration Certificate:
+
+   2.   PAN card in Firm’s name:
+
+   3.   Proof of registration with any central govt organization (if required).
+
+   4.   Purchase orders issued by any central govt organization (if required).
+
+   5.   Bank details of the firm in letter head of the organization.
+
+   6.   Documents related Bidders Eligibility Criteria Annexure 1
+
+
+
+
+
+                                                            Seal & Signature of Bidder
+
+
+
+
+
+  Section: Central Computer Center NIT Raipur                                            Page | 23

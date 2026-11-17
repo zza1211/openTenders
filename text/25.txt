@@ -1,0 +1,280 @@
+                        Notice Inviting Tender
+
+               Management Development Institute Gurgaon
+
+
+
+Ref. No.: MDI/CC/2020/SFP/03                               Date: August 03, 2023
+
+
+Sub:  Invitation of sealed quotations for Single/Multimode mode SFPs and network accessories for
+MDI-Gurgaon Campus.
+Tender Schedule
+
+ Bid System                         Single Bid
+ Last Date of Bid Submission       August 11, 2023 3:00 PM
+ Bid should be addressed to        Senior Systems Analyst
+                             Computer Centre
+                        MANAGEMENT DEVELOPMENT INSTITUTE
+                                 Mehrauli Road, Sukhrali
+                              Gurgaon - 122 007, Haryana (INDIA)
+
+
+The Complete Tender details and any updates on the Tender will be available on the MDI Website
+at the link: https://mdi.ac.in/infrastructure/tenders.html
+
+Checklist and Index of the Technical Bid Document in the Order indicated Below
+ S. No.   Document to be Attached                           Whether Submitted
+     1.    Tender Document signed and stamped on each page        Yes  / No 
+
+     2.     Filled in and signed Financial Bid on company’s letter head   Yes  / No 
+
+     3.     Profile of the Company                                  Yes  / No 
+
+     4.   CA Certificate regarding Company’s Turnover for last three  Yes  / No 
+           years 2019-20, 2020-21, 2021-22
+     5.    Confirmation that item specifications are as per Annexure   Yes  / No 
+                  I. Attach details of additional features offered
+     6.    Declaration on Company Letter Head as per Annexure-II     Yes  / No 
+
+           (As per Format Attached)
+
+     7.    PAN, TAN, GST along with the copy of registration          Yes  / No 
+
+     8.    Bank Account number with IFSC code, Bank name and      Yes  / No 
+
+          Branch
+
+
+
+
+
+                                                                                    Page 2 of 8
+
+Terms & Conditions are as under:
+
+1) The bid should be submitted on company letter head and should be submitted duly signed by the
+   authorized person.
+2) The financial bid shall be valid for at least 60 Days. Institute will not entertain any request in respect
+    of escalation of price due to any reason whatsoever.
+3) The items will be supplied at MDI Campus, Gurgaon, nothing extra shall be paid towards the cartage,
+    packing, forwarding, Octroi etc.
+4)  In case any item is found to be defective /substandard, the same shall be rejected. Institute shall
+   not make any payment for such items and shall be removed from the site immediately.
+5) MDI reserve the right to accept or reject any or all the quotations without assigning any reason
+   whatsoever.
+6) MDI reserves the right to exclude any item or increase/decrease the number of items at the time of
+    placing the order.
+7) MDI reserves the right to allot/cancel the tenders invited as it may consider/deem fit and proper
+   and to reject the tenders/applications without assigning any reasons at any stage.
+8) No bid will be accepted on email. The bid must be submitted in hard copy in a sealed invoice
+    superscribing “Bid for Single/Multimode mode SFPs and network accessories”
+9) MDI may, at its discretion, extend the date for submission of the bid.
+10) ACCEPTANCE AND WITHDRAWAL
+   The final acceptance of the tender would entirely vest with MDI, who reserves the right to accept
+   or reject any tender, without assigning any reason whatsoever. There is no obligation on the part of
+   MDI to communicate in any way with rejected bidders. After acceptance of the tender by MDI, the
+   bidder shall have no right to withdraw his tender or claim higher price.
+11) Bids received with incomplete information is liable for rejection.
+12) Any Bid received by MDI after the deadline for submission of bids will be summarily rejected.
+13) Any dispute/ difference arising out or relating to this Tender: Matters regarding any dispute shall
+   be referred for arbitration to any Officer appointed by the Director of Management Development
+    Institute Gurgaon, whose decision shall be binding and final.
+14) Eligibility Criteria
+     The bidder should be a Company registered in India.
+     The bidder should have a good reputation in the market and their clientele shall preferably
+       include reputed University/ Institute / PSU/ Govt. etc.
+15) Evaluation Procedure and Selection of Bidder
+     The work would be awarded to the L1 Tender from among the technically qualified tenders.
+     Bid Rejection Criteria: The bid shall conform generally to the specifications and terms and
+       conditions given in this document. Notwithstanding the general conformity of the bids to the
+
+                                                                                    Page 3 of 8
+
+       stipulated specifications, the following requirements will have to be particularly met by the
+       Bidders without which the same will be considered as non-responsive and rejected
+       Non submission of signed &+ stamped tender documents on each and every page
+        Submission of unsigned financial bid.
+        Bid(s) not complying with Delivery, installation & commissioning, warranty, penalty, etc
+              clauses will be rejected.
+       The bidder should quote for all the items mentioned in the tender, failing which, their
+               offer will be rejected.
+       The bidder should have an office in Delhi NCR manned with their own qualified support
+              staff/Engineer with their Customer Care Number
+16) PAYMENT TERMS:
+     100% of the total bill value of items supplied will be paid within 1 month of complete delivery
+       of items.
+
+
+
+
+
+Date :                                                                    (Signature)
+
+                                                  Name of Vendor
+
+
+
+
+
+                                                                                    Page 4 of 8
+
+                                 Format-1
+                    Sealed Quotation Single/Multimode mode SFP and network Accessories
+  S.                   Description                   Company Response         Remarks
+ No.
+1.       Profile of your firm/company                         Yes  / No 
+       Year of establishment
+      Number of employees
+       Annual Turnover for the last 3 Years.        Year        1      2      3
+                                              Turnover
+
+
+
+2      Contact details of the authorized person of
+       the company.
+             1. Name          :
+                                                          Yes  / No 
+             2.  Office Tel No.:
+             3.  Mobile no.:
+             4. Official E-mail id:
+3     A declaration on company’s letterhead that
+       the Bidder has not been blacklisted must be            Yes  / No 
+       submitted by Bidder.
+4      The Items quoted meets the technical
+                                                          Yes  / No         specifications as given in Annexure-I
+
+5         All  products  should  be  quoted  with            Yes  / No 
+        standard OEM warranty.
+10.    Payment Terms :
+        100% of the total  bill value of items            Yes  / No 
+          supplied will be paid within 1 month of
+         complete delivery of items.
+11.     Delivery Time                          Immediate (Please mention the time
+                                                 period required)
+
+                                                                       ---------------------------------------------
+
+
+
+
+
+                                                                                   Page 5 of 8
+
+                                                                               Annexure-I
+        Technical Specifications of Single/Multimode mode SFP and network Accessories
+                    *Attach technical data sheet of all the products quoted
+
+S.No.   Detailed Specification*                                    Compliance
+       * Attach Product Sheet with Detailed Specifications            *Attach separate Sheets
+                                                                          indicating deviations, if
+                                                             any
+1.     Extreme 10G SFP+LR1310nm,10302AFCT-739SMZ-EX1            Yes / No 
+2.     Extreme 10G SFP + SR-SFP+ Module (Multimode)                 Yes / No 
+3.     Extreme 100G SFP+LR                                           Yes / No 
+4.     CommScope LC-LC Duplex Fibber Patch Cable 3 Mtr.              Yes / No 
+5.     CommScope LC-LC Duplex Fibber Patch Cable 10 Mtr.             Yes / No 
+6.     Extreme network core switch stack cable 100G 10mtr             Yes / No 
+7.     Kramer HDMI Cable 20 mtr                                      Yes / No 
+8.     Kramer HDMI Cable 15 mtr                                      Yes / No 
+9.     CommScope I/O Cat 6A                                          Yes / No 
+10.     Logitech Slide Changer                                          Yes / No 
+
+
+
+
+
+                                                                                   Page 6 of 8
+
+                                                                                   Annexure-II
+
+                       DECLARATION ON COMPANY LETTER HEAD
+
+I/we____________________________Partner(s)/legal    Attorney/     Proprietor(s)/    Accredited
+Representative(s) of M/s________________________________________solemnly declare that:
+
+2. I/we are submitting tender for ---------------------------- against Tender Notice No._______________
+dated_________________________________________.
+
+3. All information furnished by me/us in respect of fulfillment of eligibility criteria and information given
+in this tender is complete, correct and true. All documents/credentials submitted along with this tender
+are genuine, true and valid.
+
+4. My/our bid shall remain valid for a period of 60 days from the last date fixed for the bid submission
+in accordance with the Bidding Documents and shall be binding upon us and maybe accepted at any
+time before the expiry of the period.
+
+5. The Price-Bid submitted by me/us is “WITHOUT ANY CONDITION”.
+
+6. If any information or document submitted is found to be false/incorrect, MDI may cancel my/our
+Tender and can take any action as deemed fit including termination of the contract, forfeiture of all
+dues including Earnest Money (EMD) and blacklisting of my/our firm and all partners of the firm etc.
+
+7. I/we also declare that the Government of India or any other Government body has not issued any
+show-cause notice or declared us ineligible or blacklisted us on charges of engaging in corrupt,
+fraudulent, collusive or coercive practices or any failure/lapses of serious nature.
+
+8. I/We understand that MDI decision will be final for the evaluation of Technical Bids.
+
+9. I/We have gone through all terms & conditions of the tender documents before submitting the same
+and accept the same along with the technical specification and all other conditions mentioned in the
+documents; including the condition that MDI is not bound to accept the lowest bid.
+
+
+
+
+                                                                (Signature of the Tenderer with Seal)
+
+Date:
+
+
+
+
+
+                                                                                    Page 7 of 8
+
+                                            Financial Bid
+
+                 Sealed Quotation for Single/Multimode mode SFP and network accessories
+  Sr.   Description of Item &        Qty.* in  Make/  Unit    GST    Total Price    Total Price
+  No.  Specification(Model no if    Units    Model   Price    (%)     excluding     including
+       any)                                               in Rs.         GST in Rs.   GST in Rs.
+  1.   Extreme 10G                10
+       SFP+LR1310nm,10302AFCT-
+      739SMZ-EX1
+  2.   Extreme 10G SFP + SR-SFP+     04
+      Module (Multimode)
+  3.   Extreme 100G SFP+LR         04
+  4.   CommScope LC-LC Duplex      06
+       Fibber Patch Cable 3 Mtr.
+  5.   CommScope LC-LC Duplex      01
+       Fibber Patch Cable 10 Mtr.
+  6.   Extreme network core         02
+       switch stack cable 100G
+      10mtr
+  7.   Kramer HDMI Cable 20 mtr     03
+  8.   Kramer HDMI Cable 15 mtr     03
+  9.   CommScope I/O Cat 6A        50
+  10.   Logitech Slide Changer        25
+        Total
+      GST
+      Grand Total
+     *Items may increase / decrease at the time of placing the order.
+
+    Delivery Mode: Delivery at MDI Gurgaon, at site only
+     Total bid price should be inclusive of all taxes and levies, transport, loading, unloading etc.
+    Warranty Period: As per OEM
+     Delivery Period: Within 15 days.
+     Installation Period: Immediately on delivery
+    Quotation Validity Date: 90 days from the last date of Submission of quotation/tender.
+                                                  Sign of bidder:-   __________________________
+                                   Name of bidder: - __________________________
+                                                   Firm's Name:     __________________________
+
+Date:
+
+
+
+
+
+                                                                                    Page 8 of 8

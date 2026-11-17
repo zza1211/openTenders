@@ -1,0 +1,3478 @@
+                                                                          Bid Number: GEM/2026/B/7187320
+                                                                                    Dated: 20-02-2026
+
+
+
+
+                                       Bid Corrigendum
+
+
+GEM/2026/B/7187320-C3
+
+Following terms and conditions supersede all existing “Buyer added Bid Specific Terms and conditions” given in
+the bid document or any previous corrigendum. Prospective bidders are advised to bid as per following Terms
+and Conditions:
+
+
+
+Buyer Added Bid Specific Additional Terms and Conditions
+
+   1. Buyer Added text based ATC clauses
+
+   CORRIGENDUM-1
+
+    No.: NFSUB/2026-5-26/PURCHASE/Corrigendum-01 Date: 20
+    .02.2026
+
+   The following amendments have been made in Tender No.
+   GEM/2026/B/7187320 dated 30.02.2026 of the tender for SI
+   TC of NextGen Firewall for Network Security Solution and
+    Wi-Fi Access Point with Networking at National Forensic Sci
+   ences University (NFSU) Bhopal Campus, Madhya Pradesh.
+
+   Amendment-1: Amendment of Technical Speciﬁcations of “
+   24 Ports PoE Switch – 02 Qty” under “A. NextGen Firewall f
+    or Network Security Solution” Clause 6.4 - Detailed Technic
+    al Specification of 24 Ports PoE Switch
+
+   and
+
+   Annexure X - Compliance with Technical specification Sheet
+    (A. SITC of Next Generation Firewall/ UTM - A.4) 24 Ports P
+   oE Switch). Please refer attached ATC Document.
+
+    Note:
+
+    1. All other terms and conditions remain same.
+
+    2. Prospective bidders hereby requested to take cognizanc
+   e of this amendment. If any bidder submitted bid are advis
+   ed to withdraw earlier submitted bid and submit revised bi
+   d as per amended technical specifications
+
+
+
+
+
+                                                                                                                                       1 / 5
+
+  Note:
+
+  Prospective Bidders are requested to carefully read followi
+  ng ATC before submission of bid:
+
+  1. Prospective bidders are requested to go through attache
+  d Buyer uploaded ATC document before submission of bid.
+
+
+  2. Bidders are requested to submit Annexure X - Complianc
+  e with Technical speciﬁcation – Duly seal and inked signed
+  on letterhead of OEM with current date of the bid with pro
+  per name, mail id, designation & contact no. in the certiﬁc
+  ate must be submitted.
+
+
+  3. Technical Specification mentioned in the Annexure X - Co
+  mpliance with Technical speciﬁcation will be considered as
+  final and offered product must be complied with mentioned
+  speciﬁcations in Annexure X - Compliance with Technical s
+  peciﬁcation and these speciﬁcations supersede GeM Specif
+  ications
+
+
+  4. ** COMMON IP ADDRESSES
+
+  Bidders may please note that GeM is capturing and showin
+  g the IP addresses used by the Buyer and the Bidder(s) /Se
+  ller(s). The received bids having matching/common IP addr
+  ess with either Bidder(s)/Seller(s) or Buyer, shall be outrig
+  htly rejected & shall not be considered for further evaluati
+  on.
+      .
+2. Buyer uploaded ATC document Click here to view the file.
+3. Bidder financial standing: The bidder should not be under liquidation, court receivership or similar
+   proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid.
+4.  Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any
+    responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates
+   (whichever is lower), subject to the maximum of quoted GST %.
+5.  Bidders shall quote only those products (Part of Service delivery) in the bid which are not obsolete in the
+   market and has at least 5 years residual market life i.e. the offered product shall not be declared end-of-
+     life by the OEM before this period.
+6. Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers
+   can match and verify the Data Sheet with the product specifications offered. In case of any unexplained
+   mismatch of technical parameters, the bid is liable for rejection.
+
+
+
+
+
+                                                                                                                                   2 / 5
+
+ 7.  Experience Criteria: The Bidder or its OEM {themselves or through reseller(s)} should have regularly,
+    manufactured and supplied same or similar Category Products to any Central / State Govt Organization /
+    PSU for 3 years before the bid opening date. Copies of relevant contracts to be submitted along with bid
+     in support of having supplied some quantity during each of the year. In case of bunch bids, the primary
+    product having highest value should meet this criterion.
+ 8.  Installation, Commissioning, Testing, Configuration, Training (if any - which ever is applicable as per scope
+     of supply) is to be carried out by OEM / OEM Certified resource or OEM authorised Reseller.
+ 9.  IT equipment shall be IPv6 ready from day one.
+
+10.  Malicious Code Certificate:
+
+    The seller should upload following certificate in the bid:-
+     (a) This is to certify that the Hardware and the Software being offered, as part of the contract, does not
+     contain Embedded Malicious code that would activate procedures to :-
+              (i) Inhibit the desires and designed function of the equipment.
+               (ii) Cause physical damage to the user or equipment during the exploitation.
+               (iii) Tap information resident or transient in the equipment/network.
+     (b) The firm will be considered to be in breach of the procurement contract, in case physical damage, loss
+     of information or infringements related to copyright and Intellectual Property Right (IPRs) are caused due
+     to activation of any such malicious code in embedded software.
+
+11. Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the
+     bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation,
+     address, e-mail Id and Phone No. required to be furnished along with the bid
+12. Non return of Hard Disk: As per Buyer organization’s Security Policy,Faulty Hard Disk of
+    Servers/Desktop Computers/ Laptops etc. will not be returned back to the OEM/supplier against warranty
+    replacement.
+13. OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up
+     to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to
+     increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at
+    the contracted rates. The delivery period of quantity shall commence from the last date of original
+     delivery order and in cases where option clause is exercised during the extended delivery period the
+     additional time shall commence from the last date of extended delivery period. The additional delivery
+    time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to
+    minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the
+     original delivery period. The Purchaser may extend this calculated delivery duration up to the original
+     delivery period while exercising the option clause. Bidders must comply with these terms.
+14.  Without prejudice to Buyer’s right to price adjustment by way of discount or any other right or remedy
+     available to Buyer, Buyer may terminate the Contract or any part thereof by a written notice to the Seller,
+        if:
+       i) The Seller fails to comply with any material term of the Contract.
+        ii) The Seller informs Buyer of its inability to deliver the Material(s) or any part thereof within the
+     stipulated Delivery Period or such inability otherwise becomes apparent.
+        iii) The Seller fails to deliver the Material(s) or any part thereof within the stipulated Delivery Period
+    and/or to replace/rectify any rejected or defective Material(s) promptly.
+      iv) The Seller becomes bankrupt or goes into liquidation.
+     v) The Seller makes a general assignment for the benefit of creditors.
+      vi) A receiver is appointed for any substantial property owned by the Seller.
+      vii) The Seller has misrepresented to Buyer, acting on which misrepresentation Buyer has placed the
+    Purchase Order on the Seller.
+15.  Bidder Turn Over Criteria: The minimum average annual financial turnover of the bidder during the last
+     three years, ending on 31st March of the previous financial year, should be as indicated in the bid
+    document. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a
+     certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the
+     relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the
+     bidder is less than 3 year old, the average turnover in respect of the completed financial years after the
+    date of constitution shall be taken into account for this criteria.
+16. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product
+     during the last three years, ending on 31st March of the previous financial year, should be as indicated in
+    the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant
+     periods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for
+    the relevant period shall be uploaded with the bid. In case the date of constitution / incorporation of the
+
+
+
+
+
+                                                                                                                                     3 / 5
+
+     OEM is less than 3 year old, the average turnover in respect of the completed financial years after the
+      date of constitution shall be taken into account for this criteria. In case of bunch bids, the OEM of
+     CATEGORY RELATED TO primary product having highest bid value should meet this criterion.
+  17. IMPORTED PRODUCTS: In case of imported products, OEM or Authorized Seller of OEM should have a
+       registered office in India to provide after sales service support in India. The certificate to this effect should
+      be submitted.
+  18.  Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+      Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site
+       warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have
+       to establish one within 30 days of award of contract. Payment shall be released only after submission of
+      documentary evidence of having Functional Service Centre.
+  19.  Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free
+      Telephone No. for Service Support.
+  20.  Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers
+        for Service Support.
+  21.  Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the
+       Bid document, ATC and Corrigendum if any.
+  22. The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test
+        certificate, approval certificates and other certificates as prescribed in the Product Specification given in
+      the bid document.
+  23. Warranty period of the supplied products shall be 3 years from the date of final acceptance of goods or
+       after completion of installation, commissioning & testing of goods (if included in the scope of supply), at
+      consignee location. OEM Warranty certificates must be submitted by Successful Bidder at the time of
+       delivery of Goods. The seller should guarantee the rectification of goods in case of any break down during
+      the guarantee period. Seller should have well established Installation, Commissioning, Training,
+      Troubleshooting and Maintenance Service group in INDIA for attending the after sales service. Details of
+       Service Centres near consignee destinations are to be uploaded along with the bid.
+  24.  Bidders can also submit the EMD with Payment online through RTGS / internet banking in Beneficiary
+     name
+       National Forensic Sciences University Bhopal Campus
+      Account No.
+      4601000100071752
+      IFSC Code
+     PUNB0208710
+      Bank Name
+      Punjab National Bank
+      Branch address
+      Mubarkpur Bhopal
+           .
+      Bidder to indicate bid number and name of bidding entity in the transaction details field at the time of on-
+        line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer along with bid.
+  25.  Bidders can also submit the EMD with Account Payee Demand Draft in favour of
+       National Forensic Sciences University Bhopal Campus
+      payable at
+      Bhopal
+           .
+      Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy
+       to the Buyer within 5 days of Bid End date / Bid Opening date.
+
+
+Disclaimer
+
+The additional terms and conditions have been incorporated by the Buyer after approval of the Competent
+Authority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses
+on the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in
+the bidding process due to these ATCs and due to modification of technical specifications and / or terms and
+conditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and
+resultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of
+bidding process without any notice:-
+
+   1.  Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum
+
+
+
+
+                                                                                                                                       4 / 5
+
+        issued by DPIIT in this regard.
+     2. Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to
+       exemption provided to such sellers under GeM GTC.
+     3.  Publishing Custom / BOQ bids for items for which regular GeM categories are available without any
+       Category item bunched with it.
+     4.  Creating BoQ bid for single item.
+     5.  Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.
+     6. Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+     7.  Floating / creation of work contracts as Custom Bids in Services.
+     8. Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for
+        attached categories, trials are allowed as per approved procurement policy of the buyer nodal Ministries)
+     9. Mandating foreign / international certifications even in case of existence of Indian Standards without
+        specifying equivalent Indian Certification / standards.
+   10. Seeking experience from specific organization / department / institute only or from foreign / export
+        experience.
+   11.  Creating bid for items from irrelevant categories.
+   12.  Incorporating any clause against the MSME policy and Preference to Make in India Policy.
+   13.  Reference of conditions published on any external site or reference to external documents/clauses.
+   14.  Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the
+       case may be.
+   15. Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid
+       template as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase
+        Preference sections of the bid, unless otherwise allowed by GeM GTC.
+   16.  In a category based bid, adding additional items, through buyer added additional scope of work/ additional
+       terms and conditions/or any other document. If buyer needs more items along with the main item, the
+      same must be added through bunching category based items or by bunching custom catalogs or
+       bunching a BoQ with the main category based item, the same must not be done through ATC or Scope of
+       Work.
+
+ Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+ this bid, they can raise their representation against the same by using the Representation window provided in
+ the bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer
+  is duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to
+ such representations.
+
+
+*This document shall overwrite all previous versions of Bid Specific Additional Terms and Conditions.
+
+                          This Bid is also governed by the General Terms and Conditions
+
+
+
+
+
+                                                                                                                                         5 / 5
+
+         Additional Terms & Conditions (ATC)
+
+
+                       CORRIGENDUM-1
+
+No.: NFSUB/2026-5-26/PURCHASE/Corrigendum-01               Date: 20.02.2026
+
+The following amendments have been made in Tender No. GEM/2026/B/7187320 dated
+30.02.2026 of the tender for SITC of NextGen Firewall for Network Security Solution and Wi-
+Fi Access Point with Networking at National Forensic Sciences University (NFSU) Bhopal
+Campus, Madhya Pradesh.
+
+Amendment-1: Amendment of Technical Specifications of “24 Ports PoE
+Switch – 02 Qty” under “A. NextGen Firewall for Network Security
+Solution” Clause 6.4 - Detailed Technical Specification of 24 Ports PoE
+Switch
+                              and
+
+Annexure X - Compliance with Technical specification Sheet (A. SITC of
+Next Generation Firewall/ UTM - A.4) 24 Ports PoE Switch)
+
+Revised technical specifications of 24 Ports PoE Switch for NextGen Firewall for Network
+Security Solution are as follows:
+
+  SN    Technical specification
+      1.    Manageable switch should have minimum 24 x 2.5/1 GE RJ45 POE ports and 4x 10GE SFP+ ports
+      2.    The form factor of the proposed switch should be 1 RU Rack-Mount Appliance
+      3.    Switching capacity of the proposed switch should be minimum 200 Gbps
+      4.    Packet per second capacity of the switch should be minimum 300 Mpps
+      5.    Proposed Switch should support minimum 32K MAC address storage
+      6.    Proposed switch latency < 1µs. Must be available in public document of OEM
+      7.    Proposed switch should support 4000 VLANs ID
+      8.    Proposed switch mush have minimum 750W POE power budget
+      9.    Should support min 1GB memory  , maximum to be specified
+     10.   Should support Jumbo frames and link auto-negotiation
+           Should support Spanning Tree Protocol MSTP native, and backwards compatible with RTSP, STP
+     11.
+          and STP Root Guard
+     12.   Should support Edge Port / Port Fast
+     13.   IEEE 802.1AX Link Aggregation IEEE 802.1q VLAN tagging, Private VLAN, Voice VLAN
+           should support Unicast/Multicast traffic balance over trunking port for dst-ip, dst-mac, src-dst-ip,
+     14.
+            src-dst-mac, src-ip, src-mac
+     15.   Should support IEEE 802.3x Flow Control
+     16.   Admin Authentication Via RFC 2865 RADIUS
+     17.   Should support 802.1x port-based authentication
+     18.   Should support 802.1x MAC-based authentication, IEEE 802.1x MAC Access Bypass (MAB)
+     19.   Should support IEEE 802.1x Dynamic VLAN Assignment, MAC-IP Binding
+     20.   Should support Radius CoA (Change of Authority) and Radius Accounting
+     21.   Switch should support local user database and can integrate with LDAP, RADIUS, TACACS+ servers
+
+         Additional Terms & Conditions (ATC)
+
+     22.   should support Storm Control, LoopGuard
+
+     23.   Should support IGMP snooping, DHCP snooping (entry limit per port) and Dynamic ARP Inspection
+
+     24.   Should support Port mirroring, sFlow, TDR (time- domain reflectometer)/cable diagnostics.
+     25.   Switch should support 512 ACL entries
+     26.   Switch should support Policy Control of Users and Devices
+     27.   Should support IEEE 802.1p Based Priority Queuing
+     28.   Should support IP TOS/DSCP Based Priority Queuing
+     29.   Should support Telnet,SSH, HTTP,HTTPS with IPv4 and IPv6 Management
+     30.   Switch should support SNMP v1, v2c and v3
+     31.   Software download/upload: TFTP/FTP/GUI
+     32.   Proposed switch should be managed via both, GUI and CLI
+     33.  MUST support multiple configuration files with Dual-firmware image support
+     34.   Switch should support IP conflict detection and notification
+     35.   Switches shall inbuilt packet capture feature in both GUI and CLI
+     36.   Power Required :100–240V AC, 50–60 Hz
+     37.   Operating Temperature :0–45°C
+     38.   Humidity: 10–90% non-condensing
+     39.   Solution must be offered with required security subscriptions and OEM 24x7 warranty support
+     40.  MUST support multiple configuration files with Dual-firmware image support
+     41.   Switch should support IP conflict detection and notification
+     42.   Switches should manage from the proposed switch controller
+     43.   Power Required :100–240V AC, 50–60 Hz
+
+
+Note:
+1. All other terms and conditions remain same.
+
+2. Prospective bidders hereby requested to take cognizance of this amendment.
+If any bidder submitted bid are advised to withdraw earlier submitted bid and
+submit revised bid as per amended technical specifications
+
+
+
+                                                             Sd/-
+                                                              Assistant Registrar
+                                             NFSU Bhopal Campus
+
+         Additional Terms & Conditions (ATC)
+
+
+
+   Scope of Work, Technical Specifications
+       and other Details of Work for
+SITC of NextGen Firewall for Network Security
+                   Solution
+                  and
+     Wi-Fi Access Point with Networking
+
+       Additional Terms & Conditions (ATC)
+A.  NextGen Firewall for Network Security Solution
+
+1.   Introduction:
+    National Forensic Sciences University, Bhopal Campus intends to deploy a secure, high-availability and
+    scalable network infrastructure consisting of Next-Generation Firewall/ UTM, high-capacity Core
+    Switches and a Fiber Backbone. The proposed solution must ensure reliable performance, strong security
+    posture and seamless integration with the existing network environment.
+
+   The Objective is to ensure the infrastructure should support future expansion and simplified management
+     to ensure continuous visibility into network and connected devices.
+
+2.   Project Objective:
+   The Bidder shall supply, install and commission the network infrastructure. The primary goal is to
+     establish a secure and scalable network foundation. Specifically for the Firewall and Core Switching
+     infrastructure.
+   The deployed Firewall must provide Next-Generation Firewall and Unified threat Management security
+    features The Firewall/UTM should  host  captive  portals, used  primarily  for Users and Student
+    Authentication. That requires users to authenticate with credentials or accept an Acceptable Use Policy
+   (AUP) before gaining network access, ensuring accountability and policy enforcement. The UTM should
+    have capability to manage, shape and prioritize network traffic to ensure that critical services receive
+    adequate bandwidth while preventing misuse or excessive consumption by non-essential applications.
+   The UTM solution is required to provide reporting functions that allow administrators to monitor the
+    organization's usage patterns and system health. Reports must be capable of being generated on-demand
+    or scheduled for automatic delivery in standard formats like PDF and CSV. The reporting engine must
+    cover key categories including tracking threats and security events, as well as Traffic and Usage for
+     visibility into bandwidth consumption and application control. Furthermore, the system must provide
+     insights into VPN and User Activity, browsing logs alongside System and Performance metrics regarding
+    device health and resource usage. the solution must also support Custom Reports views based on specific
+    administrative requirements.
+   To support the campus's growing data demands, the Bidder must establish 10G/100G capable Core
+    Switching layer to handle high-volume inter-VLAN traffic with non-blocking performance for future
+     scalability. this Core Switch must be configured to function as the Layer 3 gateway, performing high
+    speed Layer 3 Inter-VLAN Routing. This configuration ensures that internal traffic flows efficiently
+    between departmental VLANs through the  firewall, thereby minimizing latency and maximizing
+    throughput.
+
+3.  Scope of Work (SoW)
+     a.  The Bidder’s Scope of Work covers all activities required to achieve the Project Objective from initial
+        design and planning through to final handover and post-implementation support.
+
+     b.  The Vendor  is responsible  for Supply,  Installation, implementation/configuration,  integration,
+        migration, replication, testing, training, maintenance and support of all the items supplied under the
+         project.
+
+     c.  All supplied hardware must be from reputable Enterprise grade OEMs. The bidder must ensure to
+        supply  all  necessary  licenses,  software  subscriptions  and management  tools  required  for
+       Firewall/UTM Device and Core Switches. The solution must be fully Integrate with the existing
+        network.
+
+     Additional Terms & Conditions (ATC)
+
+ d.  The Bidder shall provide onsite technical support during the handover phase to ensure a smooth
+     transition and timely issue resolution. The Bidder must also ensure the availability of timely onsite
+     technical support as per the escalation matrix, including defined response and resolution timelines for
+    each escalation level. Onsite engineers must be available when remote troubleshooting is insufficient
+     or when directed by the NFSU Bhopal Campus
+
+ e.  The bidder shall provide comprehensive onsite OEM warranty for a period of Three (03) years from
+     date of taking over (TOC) by NFSU Bhopal Campus as part of scope of this tender.
+
+ f.   It is expected that bidder and OEM shall ensure that the equipment/components being supplied by
+    them shall not be declared “End of Support Life” for minimum Five (5) years from the date of taking
+     over (TOC) by NFSU Bhopal Campus. If the same is de-supported by the OEM for any reason
+     whatsoever, the bidder shall replace it with a compatible equivalent or higher technical specification
+     that is acceptable to NFSU Bhopal Campus without any additional cost and without impacting the
+    performance of the solution in any manner whatsoever.
+
+ g.  Bidder shall comply with cyber security recommendations/guidelines issued by various statutory
+     agencies like CERT-In, NCIIPC, CEA, Meity etc. from time-to-time during entire contract period
+     (including extension of contract, if any).
+
+ h.  Since the instrument will be installed in the temporary campus  initially, vendor should take
+     responsibility of shifting the entire set up (equipment/devices supplied under this project including
+     integration of additional equipment, if any) to Permanent Campus of NFSU Bhopal at a later date
+    even if the contract period is over. This will be a onetime activity and may occur anytime during
+     entire contract period (including extension of contract, if any). During such shifting all requisite
+     configurations/ settings, required to be done at new locations for ensuring functioning of the supplied
+     solution to be performed by the bidder. The bidder shall ensure proper working of the setup as per the
+     technical specifications after shifting of the system to new location.
+
+Note:
+    a)  The aforesaid scope of work is indicative but not exhaustive.
+    b)  The License Quoted by the bidder shall be Enterprise Grade Licenses only.
+    c)  Unless expressly stated otherwise, all solutions shall be provided by the Bidder. bidder is required
+        to factor the necessary software, services as per defined scope. Additionally, the Bidder is required
+        to design, size, procure, deliver, implement, deploy, parameterize, customize, interface/ integrate,
+         train, maintain and manage the end-to-end solutions as per the scope.
+    d)  In case, the Bidder has not indicated any component/module in their proposed solution that is
+        required for providing services, the successful Bidder shall have to provide required services
+        within the contracted price at no additional cost to NFSU Bhopal.
+    e)  In case of discrepancies observed in various sections of Technical Specification for the same
+        requirement, higher configuration /value shall be considered.
+     f)   If there is any conflicting requirement specified in different sections of technical specifications,
+        the applicable requirement shall be decided by the NFSU Bhopal Campus and that shall be binding
+       on the contractor/successful bidder.
+
+       Additional Terms & Conditions (ATC)
+
+4.  Proposed Network Architecture
+
+
+
+
+                                                                     ISP2                                                   ISP1
+
+
+                                                                                     Firewall
+
+
+
+                                                                  Core Switches
+
+
+     Server
+      Infra
+                                                            Access Switches
+                                                                                     Network Controller
+
+
+
+                             Access         Printe    User                Access         Printe    User Machine
+                                 Point            r        Machine               Point            r
+
+
+
+
+
+                            User                                       User
+                             Laptops                                     Laptops
+
+
+                          Functioning of the Network Architecture:
+•  The Internet Line from different ISPs shall be terminated to the UTM/ Firewall Device that shall act as a
+    security gateway between the Internet and Intranet to ensure only legitimate traffic flows in and out of the
+    network.
+•  The UTM shall monitor network traffic for malicious activity and known threats, automatically blocking
+    or alerting administrators to potential exploits and attacks.
+•  The UTM shall further connect to the Core Switch where Layer 3 VLANs shall be configured.
+•  The Core Switch is responsible for efficient Layer 3 routing between all defined VLANs (e.g., Student,
+   Admin, Staff, Guest) to enable seamless and fast communication across different network segments, and
+   Implements secure DHCP practices by binding specific, reserved IP addresses to known MAC addresses.
+•   Server Infra Should be connected to the Core Switch in a different VLAN.
+•  The Access Switches shall be connected to Access Points, User Machines and Printers.
+•  Access switches are responsible for initially tagging traffic with the correct VLAN ID as soon as it enters
+    the network.
+•  The Access Points shall be connected to the Access Switches for the connectivity of wireless devices.
+•  One Hardware Network Controller shall be connected to Core Switch that will work as a Network
+    Controller to manage all the Network Switches and Access Points from a single console. It shall manage
+    the handoff of wireless clients (users) as they move between different APs across buildings and floors and
+    that provides real-time visibility into the health of all APs, connected client statistics, bandwidth usage
+    per user, and security alerts.
+
+          Additional Terms & Conditions (ATC)
+
+     5. BOQ
+
+  Item No.                    Item Description                      Qty       UoM
+
+     1      Next Generation Firewall/ UTM                              01           Each
+
+     2     24 Ports Core Switch                                       01           Each
+
+     3     10G SFP+ Transceiver                                      18           Each
+
+     4     24 Ports PoE Switch                                        02           Each
+
+     5     Windows Server 2025 Standard License                        02           Each
+
+     6     42U Rack with all its accessories                              01           Each
+
+     7     24 Port Patch Panel Loaded                                  01           Each
+
+     8     6 Core OFC Cable                                         300           Mtr
+
+     9     1 Mtr LC to LC Fiber Patch Cord                              24           Each
+
+     10     12 Ports LC LIU                                           04           Each
+
+     11     24 Ports LC LIU                                           01           Each
+
+     13      Supply, Installation, Testing and Commissioning Charges          01           Each
+
+
+6.  Technical Specifications
+         Detailed Technical Specifications of the component of the work for SITC of NextGen Firewall for
+        Network Security Solution at NFSU Bhopal Campus:
+         6.1    Next Generation Firewall/ UTM
+
+         6.2    Core Switch
+
+         6.3   10G SFP+ Transceiver
+
+         6.4    24 Ports PoE Switch
+
+         6.5    Windows Server License
+
+         6.6   42U Floor Mount Rack
+
+         6.7    24 Ports CAT6 Patch Panel
+
+         6.8    6 Core Fiber Cable
+
+         6.9   OFC LC-LC Patch Cord
+
+        6.10   12 Ports LIU Loaded
+
+        6.11   24 Ports LIU Loaded
+
+         Additional Terms & Conditions (ATC)
+
+6.1 Detailed Technical Specification of Next Generation Firewall/ UTM
+
+  S. No.                                               Specifications
+        Must have fixed 4 x 10GE SFP+, 4 x GE SFP, 8 x GE RJ45 interfaces along with dedicated separate 1GE
+   1
+      HA and 1 x 1G management port.
+        The NGFW product should be either a multicore CPU or a custom processor-based architecture with a
+   2
+         hardened 64-bit operating system.
+        The proposed solution should have a built-in GUI and CLI to make on-the-go changes in the Firewall policies
+   3
+         and for troubleshooting any issues related to the network.
+        The proposed firewall should have internal redundant power supply from day 1. External Adaptor power
+   4
+          supply will not consider.
+   5     Proposed Hardware must have TPM module to store encryption keys /passwords
+   6     Firewall Throughput Minimum 25 Gbps OR Higher (Measured with 64 Byte)
+        The firewall shall provide Minimum 5 Gbps of Threat Protection performance is measured with Firewall,
+   7
+          IPS, Application Control and Malware Protection and logging enabled on Enterprise Mix / Application Mix.
+   8    Minimum 5 Gbps of SSL Inspection throughput
+   9     Concurrent sessions of 8M or above and Minimum connection per second 400K or above
+   10    The firewall should support IPSec VPN throughput of 10 Gbps
+   11    Firewall must have a hardened OEM operating system.
+         Should be a hardware appliance based. Firewall. IPSEC and SSL VPN, Antivirus, Anti-Malware, IPS, Web
+   12    and Application control, DOS prevention, Bandwidth Management and Routing functionalities must be
+           integrated in a single appliance from day 1.
+          Firewall appliance must have at least 5 virtual firewall /instants active from day-1 with each firewall
+   13
+          domains/instances having a separate administrative control OR equivalent, Security zones and VLAN.
+        The following features must be available in each virtual firewall domain/instant context environment:
+   14     Firewall, IPSEC and SSL VPN, IPS, Web and Application Control, Anti Virus /Malware, policy based
+           routing, User and Group management, Logging and Reporting.
+   15    The appliance should support NAT66, NAT46, NAT64, DNS 64, DHCPv6.
+         Proposed Firewall must have IPS, Advanced Malware Protection, Application Control, URL, DNS & Video
+   16
+           Filtering, antivirus and SSL decryption from day 1
+      AV Signatures can be updated in three different ways: manually, via pull technology or push technology.
+   17    Administrator can schedule to check for new updates or if the device has a public IP address, updates can be
+         pushed to the device each time an update is available.
+         Automatic failover (condition based on ICMP, TCP or UDP protocol) as well as load sharing for outbound
+   18
+             traffic.
+   19    Must support various form of user Authentication methods simultaneously
+   20    The firewall must be able to support routing protocols including RIP, OSPF, ISIS, BGP and OSPFv3
+   21    Should support TLSv1.3 decryption in all modes of operation must supported
+   22    The firewall must have the capability to create DOS prevention policy to prevent against DOS attacks.
+   23    Should be able to perform Anti-malware scans for HTTP, SMTP, IMAP, POP3, and FTP traffic.
+   24    The Appliance should have an option to configure wildcard FQDN.
+          All category of firewalls should be able to identify attacks based on Geo-location and define policy to block
+   25
+        on the basis of Geo-location.
+        The appliance should support more than 2000 application layer and risk-based controls that can invoke
+   26
+           tailored intrusion prevention system (IPS) threat detection policies to optimize security effectiveness.
+   27    The proposed solution should be able to provide details of the malware / attacks blocked at the firewall level.
+   28   NGFW should be able to monitor encrypted traffic to detect APTs hidden in SSL traffic.
+        The Propose Antivirus protection shall include advance malware protection: Virus Outbreak Protection
+   29
+         Content disarm and reconstruction (CDR)
+
+       Additional Terms & Conditions (ATC)
+
+    NGFW should have cloud sandbox functionality to protect organizations from Advanced Persistent Threats.
+30
+       In case any additional license is required, the bidder must include it in the proposal from day one.
+31    Firewall should support application signature database and custom application creation
+      The administrator shall be able to define application control list based on selectable application group and/or
+32
+         list and its corresponding actions
+      The proposed system shall be able to queries a real time database of over 250 million + rated websites
+33
+       categorized into 70+ unique content categories.
+34    The proposed firewall shall have custom URL-categorization
+35    The proposed firewall shall customizable block pages
+    DNS Security should support predictive analytics to disrupt attacks that use DNS for Data theft and
+36
+     Command and Control
+37   DNS security capabilities should block known Bad domains
+      Should be able to call 3rd party threat intelligence data on malicious IPs, URLs and Domains to the same
+38
+       firewall policy to block those malicious attributes and list should get updated dynamically with latest data.
+      The proposed solution should support the ability to create QoS policy on a per rule basis- by source address,
+39
+      by destination address, by application by static or dynamic application groups by port and services.
+      Should have inbuilt feature for two factor authentication via OTP (email or mobile) for at least two admin
+40
+       users access from day 1.
+      The security appliance should be having a configurable option to quarantine attack generating source
+41
+       addresses for a defined duration.
+
+      The Wan load Balancing must be able to fail over between various connections, such as Internet, MPLS,
+42    Leased line and even Routed-based VPN interfaces. It should support configuring a threshold on the links
+      on a percentage/ Bandwidth basis.
+       In the proposed should allow the use of the most preferred link based upon Link characteristics (Latency,
+43
+         Jitter, Packet loss) for critical applications as defined in policy from day 1.
+      The proposed solution should support policy-based routing based on applications, source and destination.
+44
+       Policy routing should work along with WAN load-balancing.
+      The proposed solution should support an identity-based routing option, allowing traffic to be forced out of
+45
+      a specific Internet gateway based on authentication rather than IP address.
+       Built-in GUI on the system should have the option to display the logical topology of the network for
+46
+       protecting the Firewall.
+      Proposed vendor should have an in-house threat intelligence team and offer built-in capabilities on firewall
+47
+       to integrate with various security threat feeds using STIX/TAXII/API
+      The OEM must provide 24 X 7 X 365 technical support. The OEM must provide Direct Premium Support
+48    with dedicated login credentials with highest level permissions to search knowledge base, downloading of
+       the patches, documents and to manage the device.
+      The proposed product or product family or operating system should be EAL 4 or higher or NDPP certified.
+49
+      Bidder need to submit public website link or documentary proof along with the technical bid.
+      The proposed firewall OEM should be ISO 9001 & ISO 14001 certified. Bidder need to submit public
+50
+       website link or documentary proof along with the technical bid.
+      Proposed firewall or its Operating System should be IPv6 or USv6 or IPv6 logo ready certified. Bidder need
+51
+       to submit public website link or documentary proof along with the technical bid.
+      The Proposed Firewall OEM should not be Blacklisted even once by any Central/State/PSU or any
+52
+      Government organization in last 5 years.
+53    Solution must be offered with required security subscriptions and OEM support
+
+         Additional Terms & Conditions (ATC)
+
+6.2 Detailed Technical Specification of Core Switch
+
+   S.
+                                                 Specification
+  No.
+   1    L3 Managed Switch should have minimum 24 24x 10G/1G SFP+/SFP slots and minimum 2 x
+       100G /40GE QSFP+ Ports
+   2    The proposed switch form factor should 1 RU Rack-Mount Appliance and should have one RJ-45
+          Serial console or any other type of console port. Switch should have separate dedicated
+        management/service port.
+   3    Dual intenral hot swappable power supply from day
+   4    Switching capacity of the proposed switch should be minimum 850 Gbps and 1200 Mpps Packet
+        per second.
+   5    Proposed switch should support routing protocol -static route, RIP, OSPF, BGP from day 1
+   6    Proposed switch should have redundant Dual Hot Swappable power supply from day 1
+   7    Proposed Switch should support minimum 64K MAC address and 4000 VLAN's
+   8    Proposed switch should have the high availability options and support MCLAG Or Equivalent
+   9    Should support DHCP Server and Relay
+  10    should support dynamic routing protocol OSPF, RIP ,VRRP and BGP
+  11   Must have IP conflict detection and notification of conflict
+  12   Minimum IPv4 route entries 8K support
+  13   Must support jumbo frame
+  14    Should support Spanning Tree Protocol MSTP native, and backwards compatible with RTSP, STP
+        and STP Root Guard
+  15    Should support IEEE 802.1ad Link Aggregation, IEEE 802.1q VLAN tagging, LLDP/MED. Should
+         support LACP to aggregate 2x10Gig ports to achieve higher backbone bandwidth.
+  16    Should support 802.1p support, QoS support prioritizing the traffic
+  17    Should support 802.1x port-based authentication
+
+  18        Should support 802.1x MAC-based authentication, IEEE 802.1x MAC Access Bypass (MAB).
+
+  19        Should support IEEE 802.1x Guest and Fallback VLAN
+
+  20        Should support IEEE 802.1x Dynamic VLAN Assignment
+
+  21        Should support TFTP/SFTP and NTP
+
+  22    Switch should support local user database and can integrate with RADIUS, Radius CoA,TACACS+
+         servers
+  23        Should support SSH, HTTP,HTTPS with IPv4 and IPv6 Management
+
+  24         Switch should support SNMP v1, v2c and v3, IGMP, RMON.
+
+  25        Proposed switch should be managed via both, GUI and CLI
+
+  26        Should have support storm control and STP root and BPDU guard protection
+
+  27        Proposed switch latency < 1µs. Must be available in public document of OEM
+
+  28       Power Required :100–240V AC, 50–60 Hz
+
+  29         Operating Temperature : 0–45°C, Humidity: 10–90% non-condensing
+
+  30    Solution must be offered with required security subscriptions and OEM 24x7 warranty support
+
+         Additional Terms & Conditions (ATC)
+
+6.3 Detailed Technical Specification of 10G SFP+ Transceiver
+
+      SN                                             Specification
+        1     Form factor: SFP+
+        2     Support data rate: 10G
+        3     Wavelength: 1310 nm
+        4     Support protocol IEEE 802.3ae
+        5      Fiber type: Single mode
+        6     Should support 10 km optical distance
+        7     Should have LC Duplex optical interface
+        8      Operating Temperature: 0°C to 70°C
+        9     Hot-swappable input/output gadget
+       10     Should be RoHS compliant
+
+6.4 Detailed Technical Specification of 24 Ports PoE Switch (Revised)
+
+  SN    Technical specification
+      1.    Manageable switch should have minimum 24 x 2.5/1 GE RJ45 POE ports and 4x 10GE SFP+ ports
+      2.    The form factor of the proposed switch should be 1 RU Rack-Mount Appliance
+      3.    Switching capacity of the proposed switch should be minimum 200 Gbps
+      4.    Packet per second capacity of the switch should be minimum 300 Mpps
+      5.    Proposed Switch should support minimum 32K MAC address storage
+      6.    Proposed switch latency < 1µs. Must be available in public document of OEM
+      7.    Proposed switch should support 4000 VLANs ID
+      8.    Proposed switch mush have minimum 750W POE power budget
+      9.    Should support min 1GB memory  , maximum to be specified
+     10.   Should support Jumbo frames and link auto-negotiation
+           Should support Spanning Tree Protocol MSTP native, and backwards compatible with RTSP, STP
+     11.
+          and STP Root Guard
+     12.   Should support Edge Port / Port Fast
+     13.   IEEE 802.1AX Link Aggregation IEEE 802.1q VLAN tagging, Private VLAN, Voice VLAN
+           should support Unicast/Multicast traffic balance over trunking port for dst-ip, dst-mac, src-dst-ip,
+     14.
+            src-dst-mac, src-ip, src-mac
+     15.   Should support IEEE 802.3x Flow Control
+     16.   Admin Authentication Via RFC 2865 RADIUS
+     17.   Should support 802.1x port-based authentication
+     18.   Should support 802.1x MAC-based authentication, IEEE 802.1x MAC Access Bypass (MAB)
+     19.   Should support IEEE 802.1x Dynamic VLAN Assignment, MAC-IP Binding
+     20.   Should support Radius CoA (Change of Authority) and Radius Accounting
+     21.   Switch should support local user database and can integrate with LDAP, RADIUS, TACACS+ servers
+
+     22.   should support Storm Control, LoopGuard
+
+     23.   Should support IGMP snooping, DHCP snooping (entry limit per port) and Dynamic ARP Inspection
+
+     24.   Should support Port mirroring, sFlow, TDR (time- domain reflectometer)/cable diagnostics.
+     25.   Switch should support 512 ACL entries
+     26.   Switch should support Policy Control of Users and Devices
+
+         Additional Terms & Conditions (ATC)
+
+     27.   Should support IEEE 802.1p Based Priority Queuing
+     28.   Should support IP TOS/DSCP Based Priority Queuing
+     29.   Should support Telnet,SSH, HTTP,HTTPS with IPv4 and IPv6 Management
+     30.   Switch should support SNMP v1, v2c and v3
+     31.   Software download/upload: TFTP/FTP/GUI
+     32.   Proposed switch should be managed via both, GUI and CLI
+     33.  MUST support multiple configuration files with Dual-firmware image support
+     34.   Switch should support IP conflict detection and notification
+     35.   Switches shall inbuilt packet capture feature in both GUI and CLI
+     36.   Power Required :100–240V AC, 50–60 Hz
+     37.   Operating Temperature :0–45°C
+     38.   Humidity: 10–90% non-condensing
+     39.   Solution must be offered with required security subscriptions and OEM 24x7 warranty support
+     40.  MUST support multiple configuration files with Dual-firmware image support
+     41.   Switch should support IP conflict detection and notification
+     42.   Switches should manage from the proposed switch controller
+     43.   Power Required :100–240V AC, 50–60 Hz
+
+
+6.5 Detailed Technical Specification of Windows Server License
+
+    SN                                             Specification
+     1      Windows Server 2025 Standard - 16 Core License
+
+6.6 Detailed Technical Specification of 42U Floor Mount Rack
+
+ S.NO.    Specifications Floor Mount 42U Rack
+   1     Rack Size - Floor Mount 42U - 800W x 1000D
+   2      Conforms to DIN 41494 OR equivalent ISO Standards
+           Adjustable 19” equipment mounting verticals provide the better mounting flexibility maximizing the usable
+   3
+          mounting space
+   4     Top and bottom Panel with ventilation and cable entry facility
+   5       Provision to mount the cooling fans on the top panel
+   6      Powder coated finish with pretreatment process meeting all industry standards
+   7      Grounding and Bonding Options
+        100% assured compatibility with all equipment conforming to DIN 41494. General industrial standard for
+   8
+          equipment
+   9       Construction: Welded Frame
+   10     Front Door: Lockable Toughened Glass Door, Steel Single, Steel Dual
+   11     Equipment Mounting: DIN Standard 10mm Sq. Slots.
+   12     Mounting Angle:19” Mounting angles made of formed steel
+   13    Top and Bottom Cover: Welded to Frame, Vented and Field Cable entry exit cut outs
+         Mounting Option: Castor wheels (Front 2 wheels with Brakes and rear without brakes) Or Levellers Or
+   14
+          Base plinth
+
+         Additional Terms & Conditions (ATC)
+
+   15     Standard Color: Black or Grey
+           Accessories: Power Distribution Units, Cable Manager, Fans and Fan Modules (FHU with 4 FAN
+   16
+         360CFM), Hardware Packet, Jacking Feet
+            Vertical Power Distribution Unit with 2 x (12 x 5/15) sockets Round Pin, 230 Volts AC, 32 Amp with
+   17           Plug. And 2x Self Tray.
+      OEM Should be international certification for the ISO 45001 Health and Safety Management System, ISO
+   18     9001 Quality Management System, ISO 14001 Environmental Management System, and ISO 14064-1
+          Greenhouse Gas Inventory Standards.
+
+
+6.7 Detailed Technical Specification of 24 Ports CAT6 Patch Panel
+
+ S. No.     Specifications
+   1       Category 6 24 port Patch Panel should be 24 Port 1U Size loaded with 24 port RJ-45 IO.
+   2      Mounts in standard 19inch racks.
+   3       Patch panel should have cable manager for improvement management.
+   4       Patch panel suitable for Category 6 keystone.
+   5       Panel material should have SPCC and Black Color.
+   6      Rear support bar material should have SPCC and Black Color.
+   7       RJ-45 jack housing should be PBT + Glass fiber UL94V-O and Contact brackets should be PBT + Glass
+              fiber UL94V-O.
+   8       Rj-45 contact material should be phosphor bronze with nickel plated and plug contact area finish
+           with 50 micro-inches Gold plated.
+   9       Contact resistance should be maximum 20 milliohm.
+   10      Operating Temperature should be -10° Celsius to 60° Celsius.
+   11      Life of RJ-45 Jack should be 750 cycles minimum @ 500 VDC.
+   12   OEM for the cable box and all copper Accessories should be from same OEM.
+
+6.8 Detailed Technical Specification of 6 Core Fiber Cable
+ S. No.   Specification
+  1     The fiber is optimized for operation at 1310 nm and at 1550 nm.
+  2     The Fiber should be Armoured 6 core unitube 9/125 µm Single Mode fiber with central loose tube
+            jelly compound, high quality ECCS steel tape.
+  3     Armour Tape: Armoured design with music quality steel wire.
+  4       Jacket material: HDPE
+  5      Outer diameter: 7.2 ± 0.5 mm
+  6      Thickness of the Jacket: 1.8 + 0.2 mm
+  7       Pulling Tension: Short Term 1000N, Bend Radius 20D.
+  8      Crush Load(N/100mm): 2000
+  9       Refractive index - Fiber type 9/125: - OS1 - 1.4674 and PMD <= 0.2 ps/km.
+  10    The Fiber Operating Temperature should be – 20 deg C to +60 deg C.
+  11    The Fiber Max Attenuation :0.34 (db / km) @ Operational Wavelength 1310 nm and, 0.24 (db / km)
+     @ Operational Wavelength 1550 nm.
+  12    The value for Mode-filed/Cladding Diameter (um) 9.3 ± 0.5 and 125 ± 1.0
+  13     Cable Cut-off wavelength should be <1260 (nm)
+  14    The Fiber should follow Standards: ANSI/TIA-568-C. 3 and ISO11801, IEC 60793-1/60794-1-2 and
+        ITU-T-REC G.652D
+
+         Additional Terms & Conditions (ATC)
+
+
+6.9 Detailed Technical Specification of OFC LC-LC Patch Cord
+ S.NO.                           Optical Fiber Equipment Cords - LC-LC Duplex
+          Optical fiber patch leads shall comprise of Single mode 9/125µm fiber with LC-LC fiber connectors
+          terminated at each end. The optical fiber patch leads shall comply with the following specifications:
+   1     compatible with industry standards (IEC 61754/TIA/EIA).
+   2     Single mode G652D, Duplex Type, Cable yellow Color, LSZH
+   3    Compact & strong crimping offers exceptional tensile strength in cable assemblies.
+   4    Adopts high precision ceramic ferrule with good concentricity
+   5     Insertion Loss <0.3 db , Return Loss >/= 50dB for UPC
+   6     Repeatability: 0.2dB 1000 times mating cycles
+   7    Working Temperature -10 deg. C to + 70 deg. C, Storage Temperature –20°C ~+70°C
+   8     Length Should be 1 Meter
+
+6.10 Detailed Technical Specification of 12 Ports LIU Loaded
+
+  S.NO.  FIBER PATCH PANELS – RACK MOUNT – 12 port LIU Loaded
+    1     12 port Loaded LIU accommodate simplex LC single mode adapters with LC Pigtail.
+    2     1.5mm steel sheet for strong housing, Slim 1 Unit Mounting Height
+    3      can manage both splices and terminations
+    4      Preassembled shelves in multiple configurations
+    5      should have fiber magic sticker provision inside for 900um tight buffered fiber storing
+    6      Accessory kit consists of cable ties, mounting ear screw and spiral wrap tube, cable saddle.
+    7     Front-Mounted Cable Saddles for jumper management
+          Rubber grommet allow for pre-terminated fiber trunk installation, protects cable and minimizes dust
+    8      build-up
+    9      Adapter panel - Steel, 1.5mm Thickness
+    10      Splice Tray: Plastic
+    11     Metal Outer Shelf: Steel, 1.5mm Thickness
+    12     Fixed design is easy to work for patching the connectors
+ S.NO.     Optical Fiber Pigtail – LC Type 1 Meter -Specifications
+            Provide a field installable Single mode LC pigtails to terminate fiber optic cables from cable-to-cable,
+    1
+            cable-to-equipment and equipment-to-equipment.
+    2       Utilize a UPC polishing on the tip to provide high yield during installation.
+    3     Meet TIA/EIA 568.C.3 standards for repeatability.
+            Buffer diameter 900um Tight buffer, Minimum bend Radius: Install :30mm, Retention Strength: 20N,
+    4
+            Cable: 900um Buffered
+    5      Insertion Loss (Max) <0.3 db Max, Return Loss >/= 50 db for UPC
+    6      Connector ferrule Ceramic, LC Type Simplex Type, Cable Color Yellow
+    7      Repeatability < 0.2dB 200 times Mating Cycle
+    8      Operating Temp. -10 deg. C to + 70 deg. C
+
+         Additional Terms & Conditions (ATC)
+
+6.11 Detailed Technical Specification of 24 Ports LIU Loaded
+
+ FIBER PATCH PANELS – RACK MOUNT – 24 port LIU Loaded
+
+ S.NO.   Specifications
+
+   1    12 port Loaded LIU accommodate simplex LC single mode adapters with LC Pigtail.
+   2    1.5mm steel sheet for strong housing, Slim 1 Unit Mounting Height
+   3     can manage both splices and terminations
+   4     Preassembled shelves in multiple configurations
+
+          should have fiber magic sticker provision inside for 900um tight buffered fiber storing   5
+
+         Accessory kit consists of cable ties, mounting ear screw and spiral wrap tube, cable saddle.   6
+   7    Front-Mounted Cable Saddles for jumper management
+         Rubber grommet allow for pre-terminated fiber trunk installation, protects cable and minimizes dust
+   8     build-up
+   9     Adapter panel - Steel, 1.5mm Thickness
+   10    Splice Tray: Plastic
+   11    Metal Outer Shelf: Steel, 1.5mm Thickness
+   12    Fixed design is easy to work for patching the connectors
+ Optical Fiber Pigtail – LC Type 1 Meter
+
+ S.NO.   Specifications
+
+          Provide a field installable Single mode LC pigtails to terminate fiber optic cables from cable-to-cable,
+   1
+          cable-to-equipment and equipment-to-equipment.
+
+   2     Utilize a UPC polishing on the tip to provide high yield during installation.
+
+   3    Meet TIA/EIA 568.C.3 standards for repeatability.
+          Buffer diameter 900um Tight buffer, Minimum bend Radius: Install :30mm, Retention Strength: 20N,
+   4
+          Cable: 900um Buffered
+   5     Insertion Loss (Max) <0.3 db Max, Return Loss >/= 50 db for UPC
+
+   6     Connector ferrule Ceramic, LC Type Simplex Type, Cable Color Yellow
+
+   7     Repeatability < 0.2dB 200 times Mating Cycle
+   8     Operating Temp. -10 deg. C to + 70 deg. C
+
+       Additional Terms & Conditions (ATC)
+
+                       B.    Wi-Fi Access Point with Networking
+
+1.  Introduction
+    National Forensic Sciences University, Bhopal Campus aims to implement and deploy a secure, high-
+    performance Wi-Fi 6 and wired network infrastructure across the premises. The deployed network must
+    support high-density usage, provide seamless centralized management and fully meet all functional and
+    technical requirements defined in this document.
+
+   The objective is to ensure reliable, high-speed and secure Wi-Fi access for employees and authorized
+    devices across the Campus.
+
+2.  Project Objectives
+   The Bidder must ensure to deploy seamless and reliable wireless connectivity across the campus
+    ensuring high availability, robust security and consistent network performance. The proposed Wi-Fi
+    solution must be a scalable architecture that supports future expansion and technological upgrades that
+    enable centralized control and management of all supplied Access Points and the Switches through a
+    single console interface. The system is required to provide an intuitive Monitoring Dashboard that
+    furnishes at-a-glance summaries of the overall network health, including details on sites, device
+    information, connected clients and critical alarms/warnings.
+
+    Furthermore, the solution must facilitate advanced Client Health diagnostics. This capability is required
+    to offer connection analysis for wireless client speeds, effectively simplifying troubleshooting by
+    tracking and monitoring the user’s connection progression through all 802.11 stages, EAP
+    authentication, RADIUS, captive portal redirects, encryption key setup, DHCP, and roaming. A robust
+    Reporting structure is mandatory which must provide configurable data on daily, weekly and monthly
+    schedules, tracking real-time client performance metrics, connections, traffic, SNR (signal-to-noise
+     ratio) and historical data rate. These reports must be exportable to the administrator.
+
+   The Controller must facilitate temporary, authenticated guest access using a fully administered Guest
+    Pass feature. For enhanced coverage and reliability across the campus, the wireless network must
+    support Mesh Wi-Fi capabilities. Finally for integration with existing monitoring tools and processes,
+    the controller must allow external Integration using industry-standard protocols including SNMP v2/v3,
+   and API.
+
+3.  Scope of Work (SoW)
+        a)  The Bidder’s Scope of Work covers all activities required to achieve the Project Objective, from
+               initial design and planning through to final handover and post-implementation support.
+        b)  The bidder is responsible for the supply, installation, configuration, testing, documentation and
+           warranty support for the components defined in the document.
+        c)  The bidder must conduct a site survey for the planning of placement of access points in the campus
+          and the Bidder shall submit a site survey certificate duly signed by the competent Authority.
+        d)  The bidder shall validate the existing LAN infrastructure to ensure readiness for backhaul
+            requirements, including switch ports, VLANs configurations and cabling. The bidder shall
+           provide enterprise-grade Wi-Fi access points, controllers, switches and associated components as
+            specified along with all required licenses, software subscriptions and management tools required
+             for Wi-Fi6 operations and centralized management.
+        e)  The Bidder shall provide onsite technical support during the handover phase to ensure a smooth
+             transition and timely issue resolution.
+          f)  The Bidder must also ensure the availability of timely onsite technical support as per the escalation
+            matrix, including defined response and resolution timelines for each escalation level.
+        g)  Onsite engineers must be available when remote troubleshooting is insufficient or when directed
+          by the NFSU Bhopal.
+
+     Additional Terms & Conditions (ATC)
+
+     h)  The bidder shall provide comprehensive onsite OEM warranty for a period of Three (03) years
+       from date of taking over (TOC) by NFSU Bhopal Campus as part of scope of this tender.
+      i)   It is expected that bidder and OEM shall ensure that the equipment/components being supplied
+       by them shall not be declared “End of Support Life” for minimum Five (5) years from the date of
+        taking over (TOC) by NFSU Bhopal Campus. If the same is de-supported by the OEM for any
+        reason whatsoever, the bidder shall replace it with a compatible equivalent or higher technical
+         specification that is acceptable to NFSU Bhopal Campus without any additional cost to the and
+        without impacting the performance of the solution in any manner whatsoever.
+      j)  Bidder shall comply with cyber security recommendations/guidelines issued by various statutory
+        agencies like CERT-In, NCIIPC, CEA, Meity etc. from time-to-time during entire contract period
+         (including extension of contract, if any).
+     k)  Since the instrument will be installed in the temporary campus initially, vendor should take
+         responsibility of shifting the entire set up (equipment/devices supplied under this project including
+         integration of additional equipment, if any) to Permanent Campus of NFSU Bhopal at a later date
+       even if the contract period is over. This will be a onetime activity and may occur anytime during
+         entire contract period (including extension of contract, if any). During such shifting all requisite
+         configurations/ settings, required to be done at new locations for ensuring functioning of the
+        supplied solution to be performed by the bidder. The bidder shall ensure proper working of the
+        setup as per the technical specifications after shifting of the system to new location.
+Note:
+    g)  The aforesaid scope of work is indicative but not exhaustive.
+    h)  The License Quoted by the bidder shall be Enterprise Grade Licenses only.
+     i)  Unless expressly stated otherwise, all solutions shall be provided by the Bidder. bidder is required
+        to factor the necessary software, services as per defined scope. Additionally, the Bidder is required
+        to design, size, procure, deliver, implement, deploy, parameterize, customize, interface/ integrate,
+         train, maintain and manage the end-to-end solutions as per the scope.
+     j)  In case, the Bidder has not indicated any component/module in their proposed solution that is
+        required for providing services, the successful Bidder shall have to provide required services
+        within the contracted price at no additional cost to Owner.
+    k)  In case of discrepancies observed in various sections of Technical Specification for the same
+        requirement, higher configuration /value shall be considered.
+     l)   If there is any conflicting requirement specified in different sections of technical specifications,
+        the applicable requirement shall be decided by the NFSU Bhopal Campus and that shall be binding
+       on the contractor/successful bidder.
+
+          Additional Terms & Conditions (ATC)
+
+     4. BoQ
+
+          Item No.                       Item Description                        Qty      UoM
+
+             1       Wireless Indoor Access Point                                     15         Each
+
+             2      Network Controller                                             01         Each
+
+             3      24 Ports PoE Switch                                            01         Each
+
+             4     12U Rack with its accessories                                     02         Each
+
+             5      24 Port Patch Panel Loaded                                      02         Each
+
+             6     CAT6 Patch Cord 1 Mtr                                         15         Each
+
+             7     CAT6 Cable UTP 305 Mtr Bundle                                 03         Each
+
+             8     PVC Conduit                                                 500         Mtr
+
+             9       Supply, Installation, Testing and Commissioning Charges              01          Job
+
+
+5.  Technical Specifications:
+    Detailed Technical Specifications of the component of the work for SITC of Wi-Fi Access Point with
+   Networking at NFSU Bhopal Campus:
+     5.1 Wi-Fi 6 Indoor Access Point
+     5.2 Network Controller
+     5.3 24 Ports PoE Switch
+     5.4 12U Wall Mount Rack
+     5.5 24 Ports CAT6 Loaded Patch Panel
+     5.6 CAT6 Patch Cord
+     5.7 CAT6 Cable
+
+  5.1 Detailed Technical Specification of Wi-Fi 6 Indoor Access Point
+
+   SN     Technical specification
+       1.    The Access Point should support 802.11ax Wi-Fi 6 OR higher standard
+           Must have the interla Three-Radio 2.4GHz , 5GHz and 6GHz (Optional) ,1 BLE/Zigbee antenna and
+       2.
+           1 GPS antenna
+       3.     Should have minimum 1 x 2.5G Multigigabit Ethernet (RJ45), 1x RS232 RJ45 Serial Port
+       4.     Should support 2x 2 MU-MIMO
+       5.    The access Point should support throughput 2.5 Gbps Or Higher Aggirgated throughput
+       6.     Access point should support SSID's in Tunnel, Local Bridge, and mesh mode.
+       7.     Should support 8 Simultaneous SSIDs on client serving radio
+            Should support following EAP types : EEAP-TLS, EAP-TTLS/MSCHAPv2, PEAPv0/EAP-MSCHAPv2,
+       8.
+            PEAPv1/EAP-GTC, EAP-SIM, EAP-AKA, EAP-FAST
+       9.     Access point should support IEEE standards minimum 801.1x and back ward compitible
+
+       10.   Should have physical security lock (such as Kensington lock)
+
+            Should support mounting options of Ceiling, T-Rail and wall all these accessories should included
+       11.
+            with box. If not quote all mounting kit.
+       12.    Access point should support below Wireless Monitoring Capabilities
+
+          Additional Terms & Conditions (ATC)
+
+       13.    a) Rogue Scan Radio Modes should support both background and dedicated
+       14.    b) WIPS / WIDS Radio Modes should support both background and dedicated
+       15.    c) should support Spectrum Analyzer
+       16.    d) should support Packet Sniffer Mode
+       17.   Must support Reliable Multicast Video to maintain video quality
+
+       18.   Should support Local AP diagnostic web portal, Command line(CLI) directly to access point.
+
+       19.    Access point Operating Temperature should be: 0–45°C
+       20.    WiFi Alliance certified for 6 OR 7
+       21.    Solution should be supplied with OEM technical support and warranty
+            Access point should have TEC, BIS, WPC (ETA), IPv6 logo ready, CE, FCC, IEC 60950 and RoHS
+       22.
+                certificates.
+        OEM should have ISO-9001:2015, ISO-14001:2015, ISO-20000-1:2018, ISO-27001:2013, ISO-
+       23.
+            45001:2018, ISO/IEC 15408 and CMMi Level 3 certificates.
+
+       24.    Controller must be supplied with a comprehensive warranty for a minimum period of three (3) years.
+
+
+5.2 Detailed Technical Specification of Network Controller
+
+   SN    Technical specification
+
+       1.    Controller and WiFi Access Points should be from the same OEM
+           Bidder may offer combined wireless controller functionality with an NGFW appliance available with the
+       2.
+         same OEM, and compliance with the required specifications.
+       3.   Hardware On premise wireless controller should be able to manage up to 50 wireless AP from Day 1.
+       4.   Dual internal Power Supply
+       5.   Proposed solution must have at least 1 x 10G interface and 2 x 1G Copper interface
+         The  Solution must support 802.11ax  primarily and should be backward compatible to 802.11
+       6.
+           ac/n/a/b/g Wave 2 standards-based wireless Access Points.
+       7.   Must support IPv4 & IPv6. Proposed solution OS OR Model OR Family must be Ipv6 / Usv6 Certified.
+         The proposed controller must have a security feature. 2FA   for at least 2  admins to access the
+       8.
+            controller
+       9.   The solution should support Guest Portal from Day 1 with multiple authentication Mechanisms
+      10.  The solution should be scalable to support WIPS, Rouge AP detection and Honeypot AP detection
+          Should be able to provide insights based on successful connections/connected clients, coverage,
+      11.
+           capacity / performance, AP Uptime, Roaming and throughput.
+          Should be able to integrate with various external authentication mechanism include the RADIUS
+      12.
+            servers, LDAP, AD etc.
+      13.  Must support Packet capture to enhance troubleshooting.
+      14.  Must be able to time limit base access per SSID based uplink or downlink Bandwidth.
+      15.  Must be able to limit per user-based uplink or downlink bandwidth.
+      16.  Must be able to set a maximum per-user bandwidth limit on a per-SSID basis.
+           Controller must support deep packet inspection for all user traffic across Layer 4-7 network to analyze
+      17.
+           information about applications usage, peak network usage times for all access points from day 1.
+          Should  be  able  to  handle  interference  and  shift  the  communication on another channel
+      18.
+           automatically if, needed.
+      19.  Providing alerts when APs are down, or compromised RF environment is detected.
+      20.  Should be able to create access policies based on various groups / labels / subnets.
+      21.  Should be able to extend API to integrate with other systems as well.
+
+         Additional Terms & Conditions (ATC)
+
+        Must provide real-time charts/log showing interferers per access point, on a per- radio, per-channel
+     22.
+            basis.
+     23.  Must be able to classify different types of interferences.
+     24.  Controller must support automatic DHCP based IP allocation to end points.
+     25.  Controller must support DHCP based allocation of separate IP series for different SSIDs.
+          Wireless controller support the following types of client load balancing:
+           a) Access Point Hand-off - the wireless controller signals a client to switch to another access point.
+     26.
+           b) Frequency Hand-off - the wireless controller monitors the usage of 2.4GHz and 5GHz bands, and
+           signals clients to switch to the lesser-used frequency automatically.
+     27.  The wireless controller should include the following features.
+     28.  Wireless guest management, Capative portal support for user login
+     29.  Content security and filtering
+         RF Management
+           a) Having Automatic Channel Allocation
+           b) Having Automatic Power Control
+            c) Supporting Neighbourhood scanning of RF environment to minimise neighbouring AP interference
+         and leakage across floors.
+     30.
+           d) Having Coverage Hole Detection
+           e) Providing alerts when APs are down or compromised RF environment is detected
+              f) Having Self healing - Automatic neighbouring AP power increase to fill in for coverage losses
+           g) Rogue AP detection and Blocking
+          h)Should support Spectrum Analysis
+     31.  Solution supply with OEM 24x7 support and warranty and reuqire licences from 1.
+     32.  Controller should have CE, FCC, IEC 60950, TEC, and BIS certificates.
+      OEM should have ISO-9001:2015, ISO-14001:2015, ISO-20000-1:2018, ISO-27001:2013, ISO-
+     33.
+          45001:2018, ISO/IEC 15408 and CMMi Level 3 certificates.
+     34.  Controller must be supplied with a comprehensive warranty for a minimum period of three (3) years.
+
+5.3 Detailed Technical Specification of 24 Ports PoE Switch
+
+  SN    Technical specification
+      1.    Manageable switch should have minimum 24 x 2.5/1 GE RJ45 POE ports and 4x 10GE SFP+ ports
+      2.    The form factor of the proposed switch should be 1 RU Rack-Mount Appliance
+      3.    Switching capacity of the proposed switch should be minimum 200 Gbps
+      4.    Packet per second capacity of the switch should be minimum 300 Mpps
+      5.    Proposed Switch should support minimum 32K MAC address storage
+      6.    Proposed switch latency < 1µs. Must be available in public document of OEM
+      7.    Proposed switch should support 4000 VLANs ID
+      8.    Proposed switch mush have minimum 750W POE power budget
+      9.    Should support min 1GB memory  , maximum to be specified
+     10.   Should support Jumbo frames and link auto-negotiation
+           Should support Spanning Tree Protocol MSTP native, and backwards compatible with RTSP, STP
+     11.
+          and STP Root Guard
+     12.   Should support Edge Port / Port Fast
+     13.   IEEE 802.1AX Link Aggregation IEEE 802.1q VLAN tagging, Private VLAN, Voice VLAN
+           should support Unicast/Multicast traffic balance over trunking port for dst-ip, dst-mac, src-dst-ip,
+     14.
+            src-dst-mac, src-ip, src-mac
+     15.   Should support IEEE 802.3x Flow Control
+     16.   Admin Authentication Via RFC 2865 RADIUS
+
+          Additional Terms & Conditions (ATC)
+
+      17.   Should support 802.1x port-based authentication
+      18.   Should support 802.1x MAC-based authentication, IEEE 802.1x MAC Access Bypass (MAB)
+      19.   Should support IEEE 802.1x Dynamic VLAN Assignment, MAC-IP Binding
+      20.   Should support Radius CoA (Change of Authority) and Radius Accounting
+      21.   Switch should support local user database and can integrate with LDAP, RADIUS, TACACS+ servers
+
+      22.   should support Storm Control, LoopGuard
+
+      23.   Should support IGMP snooping, DHCP snooping (entry limit per port) and Dynamic ARP Inspection
+
+      24.   Should support Port mirroring, sFlow, TDR (time- domain reflectometer)/cable diagnostics.
+      25.   Switch should support 512 ACL entries
+      26.   Switch should support Policy Control of Users and Devices
+      27.   Should support IEEE 802.1p Based Priority Queuing
+      28.   Should support IP TOS/DSCP Based Priority Queuing
+      29.   Should support Telnet,SSH, HTTP,HTTPS with IPv4 and IPv6 Management
+      30.   Switch should support SNMP v1, v2c and v3
+      31.   Software download/upload: TFTP/FTP/GUI
+      32.   Proposed switch should be managed via both, GUI and CLI
+      33.  MUST support multiple configuration files with Dual-firmware image support
+      34.   Switch should support IP conflict detection and notification
+      35.   Switches shall inbuilt packet capture feature in both GUI and CLI
+      36.   Power Required :100–240V AC, 50–60 Hz
+      37.   Operating Temperature :0–45°C
+      38.   Humidity: 10–90% non-condensing
+      39.   Solution must be offered with required security subscriptions and OEM 24x7 warranty support
+      40.  MUST support multiple configuration files with Dual-firmware image support
+      41.   Switch should support IP conflict detection and notification
+      42.   Switches should manage from the proposed switch controller
+      43.   Power Required :100–240V AC, 50–60 Hz
+
+5.4 Detailed Technical Specification of 12U Wall Mount Rack
+
+  S.NO.    Specifications
+
+    1    Rack Size
+    2     Wall Mount 12U - 550W x 600D.
+    3     Features:
+    4     Conforms to DIN 41494 OR equivalent ISO Standards
+           Adjustable 19” equipment mounting verticals provide the better mounting flexibility maximizing the
+    5
+            usable mounting space
+    6    Top and bottom Panel with ventilation and cable entry facility
+    7     Provision to mount the cooling fans on the top panel
+    8     Powder coated finish with pretreatment process meeting all industry standards
+    9     Depth adjustable mounting slots.
+
+          Additional Terms & Conditions (ATC)
+
+          Grounding and Bonding Options 100% assured compatibility with all equipment conforming to DIN
+    10
+           41494. General industrial standard for equipment
+    11     Construction: Welded Frame
+           Front Door: Lockable Front Glass Door (tinted, Toughened) with Lock & Key, 2 pairs of 19"
+    12
+          Mounting Rails with U-Marking.
+    13    Equipment Mounting: DIN Standard 10mm Sq. Slots.
+    14    Mounting Angle:19” Mounting angles made of formed steel
+    15    Top and Bottom Cover: Welded to Frame, Vented and Field Cable entry exit cut outs
+    16     Standard Color: Grey
+            Accessories: Power Distribution Units (6 Socket 5/15 Amp. Power Distribution Unit (1 No), Cable
+    17    Manager, Fans and Fan Modules (Roof Mounted Fan Unit / 90 CFM /230V AC (1 Nos), Hardware
+           Packet etc.
+    18     Static Load: - 40KG
+
+5.5 Detailed Technical Specification of 24 Ports CAT6 Loaded Patch Panel
+
+  S. No.           Specifications
+   1      Category 6 24 port Patch Panel should be 24 Port 1U Size loaded with 24 port RJ-45 IO.
+   2     Mounts in standard 19 inch racks.
+   3      Patch panel should have cable manager for improvement management.
+   4      Patch panel suitable for Category 6 keystone.
+   5      Panel material should have SPCC and Black Color.
+   6      Rear support bar material should have SPCC and Black Color.
+   7      RJ-45 jack housing should be PBT + Glass fiber UL94V-O and Contact brackets should be PBT +
+           Glass fiber UL94V-O.
+   8      Rj-45 contact material should be phosphor bronze with nickel plated and plug contact area finish
+           with 50 micro-inches Gold plated.
+   9      Contact resistance should be maximum 20 miliohm.
+   10     Operating Temperature should be -10° Celsius to 60° Celsius.
+   11     Life of RJ-45 Jack should be 750 cycles minimum @ 500 VDC.
+
+  5.6 Detailed Technical Specification of CAT6 Patch Cord
+
+  S. No.   Specifications
+  Features
+   1      Category 6 patch cords with four pair twisted cable terminated with RJ45 modular plugs at both the
+           ends.
+   2      Patch Cord should have TIA/EIA 568C.2 standard.
+   3      Category 6 patch cord should be 100% factory made and performance tested.
+   4      Category 6 patch cord length requires – 1 meter.
+   5      Color code for Patch Cord: Grey/Blue/Green
+   6    UL Application - PC UL94-V-0
+  Performance Characteristics
+   7      Patch cord conductor should be 24 AWG, multi-strands.
+   8      Patch cord conductor metal should be made from bare copper.
+   9            Insulation material should be high density polyethylene, material used should be FRPVC
+
+   10      Insertion cycle- 750 Times.
+   11      Dielectric voltage- 1000V DC/Min <05A
+   12      Insulation Resistance - >500M Ohm, 1000DC/Min
+  Modular Connector/Plug Characteristics
+   13     Patch cord plug should be gold plated.
+
+         Additional Terms & Conditions (ATC)
+
+  14     Patch cord should support heat resistance max 75 degree C
+  15     Contact blade of plug should be made from copper alloy.
+
+5.7 Detailed Technical Specification of CAT6 Cable
+ S. No.
+           Unshielded Twisted Pair Category 6 Cable
+
+ Features
+   1       Category 6 Unshielded Twisted 4 pair shall be compliant with ANSI/TIA/EIA-568-C.2 and ISO/IEC
+          11801 Class E.
+   2       Should support 1000BASE-T (1 Gigabit Ethernet) standard.
+   3       Category 6 should operate on bandwidth up to 250MHz as per standard.
+ Construction Characteristics
+   4       Conductor should be 23 AWG solid bare copper.
+   5       Conductor Insulation material should be HDPE.
+   6
+           Four twisted pairs separated by internal X shaped, full separator. Half shall not be accepted.
+
+   7       Sheath material should be FR-PVC.
+   8       Cable outer diameter should be 6.1 mm nominal.
+   9       Cable weight should be 13.6Kg/Box.
+ Electrical Properties
+   10      Conductor Resistance: ≤ 9.38Ω/100m
+   11     Mutual Capacitance: ˂ 5.6nF/100m
+   12      Resistance Unbalance: 5% Max
+   13      Delay Skew: < 45nS
+   14      Capacitance unbalance: 330pF/100m
+   15     NVP: 69%
+ Other Characteristics
+   16     Each meter printed with sequential Length Counter
+   17      Temperature Range -20° to +70°C
+   18      Approval : UL Listed & ETL Verified
+   19    OEM Should be International certification for the ISO 45001 Health and Safety Management System,
+          ISO 9001 Quality Management System, ISO 14001 Environmental Management System, and ISO
+           14064-1 Greenhouse Gas Inventory Standards.
+   20    OEM for the cable Box and all copper Accessories should be from same OEM.
+
+         Additional Terms & Conditions (ATC)
+
+Bid Specific Terms & Conditions:
+    1.  Firm should have ISO 9001 and 27001 Certification.
+
+    2.  Supply, Installation, implementation/configuration, integration, migration, replication, testing, training,
+
+       maintenance and support of all the items supplied under the project during the contract period including
+
+        extension of contract, if any.
+
+    3.  The bidder shall provide comprehensive OEM onsite warranty for a period of 03 (Three) years as part of
+
+       scope of this tender from the date of taking over (TOC) by NFSU Bhopal. Bidder should submit OEM
+
+       undertaking to provide warranty for 03 years for supplied component by respective OEM and should have
+
+       back-to-back warranty arrangement with respective OEM to ensure smooth operations. All products
+
+       procured under this RFP should be with 24x7, 4-hour support from OEM. The bidder shall provide
+
+       documentary evidence for the same.
+
+    4.  The Bidder shall ensure that the spares and updates/upgrades for all the Hardware Items and their
+
+        associated software’s shall be available for Five (05) years from the date of SITC. Also, the bidder shall
+
+       ensure that the patches, updates/upgrades for all the Software Items shall be available for Five (05) years
+
+       from the date of SITC.
+
+    5.  Prepare the designs, architecture and implement the solution in line with best practices in the industry,
+
+        regulatory guidelines, IT Act 2000 (along with its amendments), standards as modified from time to time
+
+        or any other law of the land which may be applicable.
+
+    6.  The bidder shall configure Hardware and Systems Software as per the latest ISO 27001 Standard best
+
+         practices.
+
+    7.  Bidder shall mention country of origin of proposed OEM under the project. Bidder shall follow
+
+      Government of India Guidelines in this regard while proposing the system.
+
+    8.  The bidder shall ensure that all equipment & software supplied are IPv6 compliant.
+
+    9.  Given BOQ is minimum requirement of NFSU Bhopal and has to be supplied by bidder. Bidder can offer
+
+        higher or better or additional items, if required to meet their solution requirement at no extra cost.
+
+    10. The selected bidder shall be responsible to provide all facilities like labour, transportation, tool kits, testing
+
+       equipment, cables, connectors, power cords etc. within scope of work which is necessary for successful
+
+       deployment of solution. Transportation, lodging and boarding of manpower shall be in Supplier’s scope.
+
+    11. All the proposed Hardware should support all upgrades, versions, releases of the software, licenses as and
+
+      when released by OEM for the entire period of the project.
+
+    12. Bidder is responsible for developing and implementing the security configuration, hardening of all the
+
+        devices and software that are procured under the project as per industry standard. Also, they have to
+
+        periodically review the guidelines and configure.
+
+    13. Bidder has to also maintain (non-comprehensive) the list of existing equipment’s listed at BoQ. Bidder
+
+       need to coordinate and manage it as a part of Operations & Maintenance.
+
+         Additional Terms & Conditions (ATC)
+
+                              Checklist of Documents to be submitted
+                 (THE BID DOCUMENTS HAVE TO BE UPLOADED)
+
+          Sl.                           Documents                               Submitted
+       No.                                                                          (Yes/No)
+          1.    Details of Registration of firm
+
+          2.   Annexure I to Annexure IX – Duly seal signed on letterhead of firm/OEM
+             must be submitted.
+          3.   Annexure VIII - Manufacturer Authorization Form (MAF) - Duly seal
+            and inked signed on letterhead of OEM for each active component with
+               current date of the bid with proper name, mail id, designation & contact no.
+                in the certificate must be submitted.
+          4.   Annexure X - Compliance with Technical specification – Duly seal and
+              inked signed on letterhead of OEM current date of the bid with proper name,
+              mail id, designation & contact no. in the certificate must be submitted.
+          4.                                                     F.Y. 2024-25
+              Bidder’s Annual turnover/Audited Balance Sheet
+                                                               F.Y. 2023-24             and Profit & loss accounts/ certified by Chartered
+              Accountant with valid UDIN                       F.Y. 2022-23
+
+          5.   Copy of PAN Card
+
+          6.   Copy of GST Registration
+
+          7.   Copy of Registration Certificate
+
+          8.    Technical specification catalogue/brochure of offered make and model
+
+          9.   Any other Certificate, If any
+                a)
+               b)
+                c)
+
+
+
+Date:
+
+
+
+                                                                          (Seal & Signature of the bidder)
+
+         Additional Terms & Conditions (ATC)
+
+                                           1.  General Terms and Conditions
+(a) The Earnest Money:
+        I. Earnest money by means of a of Account Payee Demand Draft/ Fixed Deposit Receipt / Online Transfer/
+      Bank Guarantee may be enclosed with the Technical Bid. It is also clarified that the quotations received
+       without earnest money in technical bid will be summarily rejected. The of Account Payee Demand Draft/
+       Fixed Deposit Receipt / Online Transfer/ Bank Guarantee may be prepared in the name of “National
+       Forensic Sciences University Bhopal Campus" payable at Bhopal M.P. Hard copy of EMD must be
+       submitted within one week after end date of Bid submission.
+
+      II. No request for transfer of any previous deposit of earnest money or security deposit or payment of any
+       pending bill held by the NFSU in respect of any previous work will be entertained.
+
+     III. Bidder shall not be permitted to withdraw his offer or modify the terms and conditions thereof. In case the
+       Tenderer fails to observe and comply with stipulations made herein or backs out after quoting the rates,
+        the aforesaid amount of earnest money will be forfeited by the NFSU.
+
+    IV. The Tenders without Earnest Money will be summarily rejected.
+
+    V. EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document
+        for the relevant category as per GeM GTC with the bid.
+
+       Following categories of Sellers shall however, be exempted from furnishing Bid Security:
+                 i.     Micro and Small Enterprises (MSEs) who are holding valid Udyam Registration and are
+                manufacturer of the offered Product or Service (Primary Product / Service - in case of
+               bunch bid with total value wise evaluation) and give specific confirmation to this effect
+                   at the time of bid submission and claim EMD exemption and whose credentials are
+                  validated online through Udyam Registration website of Ministry of MSME and also
+                through supporting document uploaded during bidding process.
+                 ii.      Start-ups as recognized by Department for Promotion of Industry and Internal Trade
+                 (DPIIT), holding valid Startup Recognition Certificate (which is to be uploaded while
+                 bidding and claiming EMD exemption and to be validated by the Buyer) and are
+                manufacturer of the offered Product or Service (Primary Product / Service - in case of
+               bunch bid with total value wise evaluation). Bidder to ensure that turnover for any of the
+                   financial years has not exceeded beyond limits prescribed in the certificate / Start Up
+               scheme of DPIIT.
+                 iii.    KVIC, ACASH, WDO, Coir Board, TRIFED and Kendriya Bhandar.
+             iv.      Sellers who have got their credentials verified through the process of Vendor Assessment
+               by Vendor Assessment Agencies for the Primary Product / Primary Service for which
+               Bid / RA has been invited and holding valid Vendor Assessment or Vendor Assessment
+               Exemption Report / confirmation (Seller to upload VA report / VAE confirmation).
+            v.      Sellers / Service Providers holding valid BIS License for the Primary Product Category
+               whose credentials are validated through BIS database and through uploaded supporting
+                documents.
+
+             vi.    No Claim shall lie against the NFSU in respect of erosion in the value or interest on the amount
+                   of EMD.
+
+              vii.    The EMD, in case of successful bidders shall be returned after submission of performance
+                    security and in case of unsuccessful bidders shall be retained by the Purchaser, up to a
+             maximum period of 6 months from the date of opening of the Bids or till the finalization of the
+                    tender, whichever is later. The bid security shall be refunded to the unsuccessful Tenderer on
+                   written request. No interest will be payable by the NFSU authorities on the EMD.
+
+         Additional Terms & Conditions (ATC)
+
+              viii.   Bid Security submitted by the bidder shall be forfeited, if the bidder:
+                    a)  Withdraws or modify or impairs or derogates from the bid in any respect within the period
+                       of validity of its bid; or
+                   b)  If  it comes to notice that the information  / documents furnished General Terms and
+                     Conditions on GeM 4.0 (Version 1.25) dt 14th July 2025 in its bid is false, misleading or
+                       forged; or
+                    c)  Fails to furnish requisite performance security within stipulated time required as per e-bid
+                                  / RA conditions.
+
+(b) At any time prior to date of submission of tender, the competent authority may modify the terms & conditions
+of the tender document by a corrigendum displayed on the website of NFSU Gandhinagar (http://www.nfsu.ac.in).
+The competent authority may or may not, at his discretion, extend the date and time for submission of tenders.
+
+(c) Right of acceptance:
+The NFSU Bhopal Campus reserve the right to accept the whole or any part or portion of the bid; and the bidder
+shall provide the same at the rates quoted. The NFSU Bhopal Campus reserve the right to reject any or all tenders
+/ quotations or all offers received in response to the tender or cancel or withdraw the tender notice without
+assigning any reason thereof and also does not bind itself to accept the lowest quotation or any tender and no claim
+in this regard shall be entertained.
+
+(d) Delivery: Delivery of goods shall be made by the supplier as per tender from the date of purchase order.
+
+(e) INSPECTION:
+
+I. NFSU Bhopal Campus shall have the right to inspect and/or to test the goods to confirm their conformity to the
+Tender Specifications at no extra cost to the NFSU Bhopal Campus.
+
+II. The Director, NFSU Bhopal Campus shall be the final authority to reject full or any part of the supply which is
+not confirming to the specification and other terms and conditions.
+
+III. No payment shall be made for rejected Stores. Rejected items must be removed by the Bidders within one
+week from the date of rejection at their own risk and cost and replaced immediately. In case these are not removed,
+these will be auctioned at the risk and responsibility of the suppliers without any further
+
+(g) Warranty
+    i.   The warranty of entire equipment’s / hardware (including OS) & software deployed for this project shall
+       be onsite, comprehensive, back-to-back from OEM, with Advance replacement of hardware for a period
+        of 3 years (36 months) from the date of acceptance.
+   ii.   The bidder will warrant all the hardware and software against defects arising out of faulty design, materials
+       and media workmanship of the hardware and software. The bidder will provide support for hardware and
+         pre-installed software components including operating system during the warranty period. Defective
+       hardware shall be replaced by the vendor at his own cost, including the cost of transport.
+  iii.   The bidder warrants that the Goods supplied under the Contract are new, unused and the most recent or
+        current models and incorporate all recent improvements in design and materials unless provided otherwise
+        in the Contract.
+  iv.   The bidder further warrants that all the Goods supplied under this Contract shall have no defect arising
+       from design, materials or workmanship or from any act or omission of the bidder, that may develop under
+       normal use of the supplied Goods in the conditions prevailing at the final destination.
+  v.   The warranty should cover all parts including updates, upgrades of software, maintenance or support for
+          its proper operation, performance and output as specified in the tender technical specifications for a period
+        of 36 months from the Date of acceptance by the NFSU Bhopal at no cost to NFSU Bhopal.
+  vi.   The bidder shall guarantee an uptime of 99.5% for  all the locations where the equipment’s are
+       commissioned, during warranty, if contracted, which shall be calculated on monthly basis.
+
+          Additional Terms & Conditions (ATC)
+
+  vii.   The "Downtime"  is the time between the Time of Report by the NFSU Bhopal and Time of
+         Restoration/resolution within the contracted hours. "Failure" is the condition that renders the NFSU
+        Bhopal unable to communicate through Network Devices. "Restoration" is the condition when the selected
+         bidder demonstrates that the Network Switch is in working order and the NFSU Bhopal acknowledges the
+        same.
+  viii.   The Downtime calculated shall not include any Failure due to NFSU Bhopal (Power, WAN links, cabling
+          fault etc.) Preventive maintenance activity.
+   ix.   The percentage uptime is calculated on monthly basis (24 hours a day).
+    x.     If the bidder fails to maintain guaranteed uptime of 99.5% per month for all the ordered locations, the
+      NFSU Bhopal shall impose penalty as mentioned in section 4.14.15.
+   xi.    Bidder's hardware engineer will report at NFSU Bhopal offices within ‘TWO HOURS’ for [Call-to-
+        Response] of reporting of breakdown through telephone/ email / portal or Fax or courier at the vendor’s
+          office as per call logging and escalation matrix. Bidder shall resolve the issue after reporting it within
+      ‘FOUR HOURS’ [Call-to-Resolution] for network equipment’s delivered at all locations.
+  xii.    Penalty for shortfall in Performance Compliance Level: Amount of penalty to be calculated on monthly
+         basis for the shortfall in performance compliance level is as under:
+                  a- If the contractor/OEM fails to visit the location within 02 Hrs after lodging complaints
+          A Penalty for each complains= {Rs 1000/-} X down time in number of next working days.
+               (Whichever is higher)
+  xiii.    In case a fault at the individual switch location is not rectified within 24 hrs of reporting, a penalty of Rs.
+         2000/- (Rs Two thousand only) per switch per working day shall be imposed for the total period starting
+        from reporting time of failure. This penalty shall be applied for each location separately.
+ xiv.   The amount of penalty may be claimed/ adjusted while releasing the Performance Bank Guarantee or the
+        warranty period for the hardware will be extended accordingly.
+  xv.   During the Warranty period, the bidder will have to undertake system maintenance and replacement or
+          repair of defective parts or systems.
+ xvi.   The NFSU Bhopal shall promptly notify the bidder in writing / e-mail / fax of any claims arising under
+          this warranty. Upon receipt of such notice the Vendor shall, as mentioned below, repair or replace the
+         defective goods or parts thereof, without any cost to the NFSU Bhopal.
+ xvii.    In case equipment is taken away for repairs or the down time of any piece of equipment or component
+         thereof exceeds the agreed Call-To-Resolution time, the bidder shall provide standby equipment of the
+       same or higher configuration at no cost to the NFSU Bhopal till the original equipment is repaired and
+       made operational.
+xviii.    In case some equipment is declared by the bidder as beyond repairs, the vendor shall provide a replacement
+        equipment of the same or higher configuration from the same OEM with prior approval of the NFSU
+        Bhopal.
+ xix.    Free on-site maintenance services shall be provided by the bidder during the period of warranty.
+  xx.   Any corruption in the software or media shall be rectified during the full period of the contract including
+         warranty, if contracted, at no extra cost to the NFSU Bhopal.
+ xxi.   The bidder shall make available the spare parts, components etc., for the equipment’s for a minimum
+         period of five years. If any of the peripherals/components are not available during the warranty / AMC
+         period, the substitution shall be carried out with peripherals/components of equivalent or higher capacity
+        with prior approval of the NFSU Bhopal.
+
+ f) Liquidated Damages
+ Supply of material will have to be completed as per the period mentioned in the purchase order. The liquidated
+ damages charges @ 0.5% per week shall be imposed if supply made after expiry of delivery period subject to
+ maximum 10% of the total value of goods/contract value. Quantum of liquidated damages assessed and levied by
+ the purchaser shall be final and not challengeable by the supplier.
+
+
+ (g) Risk Purchase
+ If successful Tenderer fails to supply material within the stipulated delivery date or material supplied other than
+ specification specified in tender, NFSU Bhopal Campus reserves the right to procure same or equivalent material
+
+         Additional Terms & Conditions (ATC)
+
+from alternative sources at the vendor's risk, responsibility and cost. Any extra cost incurred in the procurement
+of the material from alternative source will be recovered from the Security Deposit / Bank Guarantee and Pending
+Bills and if the value of the materials under risk purchase exceeds, the amount of Security Deposit and / or Bank
+Guarantee and Pending Bills, the same may be recovered, if necessary, by due legal process.
+
+(h) The Payment clause:
+    •  The bill in triplicate may be sent to this office for settlement after satisfactorily delivery of the material.
+      The bill should have full particulars of the item(s).
+    •  No payment shall be made in advance nor shall the loan from any bank or financial institutions be
+      recommended on the basis of the order of award of work.
+    •  The contractor shall submit the bill only after supply of material up to to satisfaction of the NFSU Bhopal
+      Campus, on receipt of a pre-receipted bill /invoice from the Contractor. No payment will be made for
+       goods rejected.
+
+
+(i) Security Deposit
+
+     a) The successful bidder will be required to furnish a Security Deposit of an amount of 5% of Contract Value
+     after receiving of Letter of Award in the form of Bank Guarantee/Demand Draft which shall be valid for 60
+    days beyond completion of all the contractual obligations.
+
+     b) The security deposit can be forfeited by order of this Institute in the event of any breach or negligence or
+    non-observance of any condition of contract or for unsatisfactory performance or non-observance of any
+     condition of the contract.
+
+     c) Security Deposit will be discharged after completion of contractor’s performance obligation under the
+     contract.
+
+     d) No interest on Security Deposit shall be paid by the NFSU Bhopal Campus to the Bidder.
+
+(j) Breach of Terms and Conditions:
+In case of breach of any terms and conditions as mentioned above, the Competent Authority, will have the right
+to cancel the work order/ job without assigning any reason thereof and nothing will be payable by NFSU Bhopal
+Campus in that event the security deposit shall also stand forfeited.
+
+(k) Subletting of Work:
+The firm shall not assign or sublet the work/job or any part of it to any other person or party without having first
+obtained permission in writing of NFSU, Bhopal Campus, which will be at liberty to refuse if thinks fit. The tender
+is not transferable. Only one tender shall be submitted by one Tenderer.
+(l) Arbitration:
+If any conflict or difference arises concerning this agreement, its interpretation on payment to the made there-
+under, the same shall be settled out by mutual consultation and negotiation. If attempts for conciliation do not
+yield any result within a period of 30 days, either of the parties may make a request to the other party for submission
+of the dispute for decision by an Arbitral Tribunal containing Sole Arbitrator to be appointed by The Campus
+Director, NFSU Bhopal Campus. Such requests shall be accompanied with a panel of names of three persons to
+act as the sole arbitrator. In case of such arbitrator refusing, unwilling or becoming incapable to act or his mandate
+having been terminated under law, another arbitrator shall be appointed in the same manner from among the panel
+of three persons to be submitted by the claimant. The provision of Arbitration and Conciliation Act, 1990 and the
+rule framed there under and in force shall be applicable to such proceedings.
+
+(m) Legal Jurisdiction:
+
+         Additional Terms & Conditions (ATC)
+
+The agreement shall be deemed to have been concluded in Bhopal, M.P., and all obligations hereunder shall be
+deemed to be located at Bhopal, M.P., and Court within Bhopal, M.P., will have Jurisdiction to the exclusion of
+other courts.
+
+(n) Fall Clause
+If the Annual Rate Contract holder firm reduces its price or sells or even offers to sell the Annual Rate Contracted
+goods following conditions of sale similar to those of the Annual Rate Contract, at a price lower than the Annual
+Rate Contract price, to any person or organization during the currency of the Annual Rate Contract, the Annual
+Rate Contract price will be automatically reduced with effect from that date for all the subsequent supplies under
+the Annual Rate Contract and the Annual Rate Contract amended accordingly.
+
+(o) Force Majeure
+
+    1.  Notwithstanding the provisions of GCC Clauses relating to extension of time, penalty and Termination
+        for Default the Supplier shall not be liable for forfeiture of its security deposit, liquidated damages or
+        termination for default, if and to the extent that, its delay in performance or other failure to perform its
+        obligations under the Contract is the result of an event of Force Majeure.
+
+    2.   If the performance in whole or in part or any obligations under the contract is prevented or delayed by any
+        reason of Force Majeure for a period exceeding 60 days, either party may at its option terminate the
+        contract without any financial repercussions on either side.
+
+         Additional Terms & Conditions (ATC)
+
+                                                                            Annexure I
+
+                                        Undertaking
+                          Acceptance Of Terms & Conditions Of Tender
+                (Duly sealed and signed certificate on Company/ Firm’s Letterhead)
+
+To,
+
+The Campus Director,
+
+National Forensic Sciences Bhopal Campus
+
+C/o CFSL Bhopal,
+
+Barkheda Bonder, Indore Bhopal Highway,
+
+Bhopal
+
+
+       Subject: Acceptance of All Terms & conditions of Tender.
+
+      Tender ref: GeM tender No.______________________ dated______________
+
+Dear Sir,
+      1.  I/We have Downloaded/obtained the tender document(s) for the above-mentioned Tender enquiry no.
+        from the GeM portal/website.
+
+      2.  I/We hereby certify that I/we have read entire terms & conditions of the tender documents (including all
+        documents like annexure, schedules etc.) along with Additional terms and conditions (ATC) which form
+          part of the tender document and I/we shall be abiding by the terms & conditions/clauses contained therein
+
+      3.  The corrigendum(s) issued from time to time by NFSU, Bhopal Campus to have also been taken into
+         consideration, while submitting this acceptance letter.
+
+      4.  I/We do hereby declare that I/We have read and understood the entire specifications/requirements laid
+       down in the tender document and have prepared the bid compliance with the requirements specified in
+         the document.
+
+      5.  I/We  hereby   unconditionally  accept   the   tender   conditions   of  above-mentioned   tender
+         document(s)/corrigendum(s)in totality/entirely.
+
+      6.  In case any provisions of this tender are found violated, NFSU, Bhopal Campus shall be at liberty to
+          reject this tender/bid and we shall not have any claim/right against NFSU, Bhopal Campus in satisfaction
+         of this condition.
+
+
+Date:
+
+
+                                                                          (Seal & Signature of the bidder)
+
+           Additional Terms & Conditions (ATC)
+
+                                                                              Annexure II
+                                   Bid-Securing Declaration Form
+                   (Duly sealed and signed certificate on Company/ Firm’s Letterhead)
+
+                                                                             Date: __________________
+                                                GeM Bid No:_____________
+
+
+   To,
+
+  The Campus Director,
+
+   National Forensic Sciences Bhopal Campus
+
+   C/o CFSL Bhopal,
+
+  Barkheda Bonder, Indore Bhopal Highway,
+
+   Bhopal
+
+
+Respected Sir,
+
+I/We. The undersigned, declare that: I/We understand that, according to your conditions, bids must be supported
+by a Bid Securing Declaration.
+
+I/We accept that I/We may be disqualified from bidding for any contract with you for a period of two year from
+the date of notification if I am /We are in a breach of any obligation under the bid conditions, because I/We have
+withdrawn/modified/amended, impairs or derogates from the tender, my/our Bid during the period of bid validity
+specified in the form of Bid; or having been notified of the acceptance of our Bid by the purchaser during the
+period of bid validity (i) fail or reuse to execute the contract, if required, or (ii) fail or refuse to furnish the
+Performance Security, in accordance with the Instructions to Bidders.
+
+I/We understand this Bid Securing Declaration shall cease to be valid if I am/we are not the successful Bidder,
+upon the earlier of (i) the receipt of your notification of the name of the successful Bidder; or (ii) thirty days
+after the expiration of the validity of my/our Bid.
+
+
+
+
+   Date:
+
+
+
+                                                                             (Seal & Signature of the bidder)
+
+         Additional Terms & Conditions (ATC)
+
+                                                                           Annexure III
+                                        Undertaking
+                         self-declaration certificate for the clean track record
+                (Duly sealed and signed certificate on Company/ Firm’s Letterhead)
+
+To,
+
+The Campus Director,
+
+National Forensic Sciences Bhopal Campus
+
+C/o CFSL Bhopal, Barkheda Bonder, Indore Bhopal Highway,
+
+Bhopal
+
+       Subject: Declaration regarding Blacklisting, Fraud and Corrupt Practices & Land Border -reg.
+
+Respected Sir,
+     1.   I ------------------------------------Proprietor/ Director/ Partner of the firm M/s.------------------------
+          -----------do hereby solemnly affirm that the firm M/s. -------------------------------------has never
+        been black listed/debarred by any organization/office and there has not been any work cancelled
+         against them for poor performance in the last three years reckoned from the date of invitation of
+        Tender.
+      2. We certify that during the  last 3 years, we have neither failed to perform on any contract,
+         as  evidenced by Imposition of a penalty by an arbitral or judicial  authority or a judicial
+       pronouncement  or arbitration award, nor been expelled from any project or contract by any
+         public/private authority nor have had any contract terminated by any public authority for breach
+       on our part.
+      3.  There is no vigilance/CBI case or court case pending against the firm. This is to declare and certify that
+         neither myself nor my firm has ever been blacklisted by any Govt./Semi Govt./Public/Private Institution.
+      4. We have not directly or indirectly or through an agent engaged or Indulged in any corrupt
+         practice, fraudulent practice, coercive practice, undesirable practice or restrictive practice in
+         respect  of any tender or request for proposal Issued by or any agreement entered into with the
+        Authority or any other public sector enterprise or any Government, Central or State;
+      5.  I/We have read the clause regarding restrictions on procurement from a bidder of a country which shares
+        a land border with India; I/We certify that this bidder is not from a country or, if from such a country,
+        has been registered with the Competent Authority, I hereby certify that this bidder fulfills all requirement
+          in this regard and is eligible to be considered. (Where applicable, evidence of valid registration by the
+        Competent Authority shall be attached).
+      6.  I/We certified that all information furnished by our firm is true & correct and in the event that the
+         information is found to be incorrect/untrue or found violated, then your department/organization shall
+         without giving any notice or reason therefore or summarily reject the bid or terminate the contract without
+         prejudice to any other rights or remedy including the forfeiture of the full earnest money deposit
+         absolutely.
+
+
+     Date:
+
+
+                                                                          (Seal & Signature of the bidder)
+
+         Additional Terms & Conditions (ATC)
+
+                                                                           Annexure IV
+                                        Undertaking
+                                 Price Reasonability Certificate
+                (Duly sealed and signed certificate on Company/ Firm’s Letterhead)
+
+
+
+To,
+
+The Campus Director,
+
+National Forensic Sciences Bhopal Campus
+
+C/o CFSL Bhopal, Barkheda Bonder, Indore Bhopal Highway,
+
+Bhopal
+
+
+This is to certify that the prices quoted for ---------------------------------------------(Name of the Item offered)
+are best and minimum and we have not quoted the same on lesser rates than those being offered to any
+Government institution/University or to any customer nor we will do till the validity of offer or execution of
+Purchase Order.
+
+
+
+Date:
+
+
+
+                                                                          (Seal & Signature of the bidder)
+
+         Additional Terms & Conditions (ATC)
+
+                                                                            Annexure-V
+
+                    WORK EXPERIENCE
+
+
+
+                                         Order
+  Sn         Name of the Client              AMOUNT            Remarks
+                                              No.
+
+
+1.
+
+2.
+                                                                         Supporting    documents     like
+                                                                        Purchase  Order/  Work  Order
+3.
+                                                                      along     with      satisfactory
+                                                                 Completion   certificate  from
+4.                                                                                 client etc.
+
+
+5.
+
+
+
+Note: Satisfactory Completion certificate from client must be submitted along with copy of purchase/Work
+order.
+
+Date:
+
+
+
+                                                                          (Seal & Signature of the bidder)
+
+         Additional Terms & Conditions (ATC)
+
+                                                                             Annexure-VI
+
+                              Average Annual Turnover Details
+
+
+
+                              Evaluation Criteria                              Remark
+
+
+                                   Financial
+                                                 Turnover in Rs.
+                                Year
+
+                                  2022-23
+
+ The annual financial turnover of                                               Supporting Documents
+ the bidder, ending on 31st March                                                   are to be submitted
+ of the year.                       2023-24
+
+
+                                  2024-25
+
+
+
+
+
+Date:
+
+
+
+                                                                          (Seal & Signature of the bidder)
+
+
+* A copy of duly signed profit & loss accounts / CA Certificate with UDIN is to be submitted as per the
+Annexure-IV of ATC.
+
+         Additional Terms & Conditions (ATC)
+
+                                                                         Annexure-VII
+
+                                         Undertaking
+
+                 (Duly sealed and signed certificate on Company/ Firm’s Letterhead)
+
+
+
+ I/We hereby agree to take full responsibility of shifting the entire set up (equipment/devices supplied under this
+ project including integration of additional equipment, if any) to Permanent Campus of NFSU Bhopal at a later
+ date even if the contract period is over. This will be a onetime activity and may occur anytime during entire
+ contract period (including extension of contract, if any). During such shifting all requisite configurations/ settings,
+ required to be done at new locations for ensuring functioning of the supplied solution. We will ensure proper
+ working of the setup as per the technical specifications after shifting of the system to new location.
+
+
+
+
+
+Date:                                                           Authorized Signatory
+
+                                    Seal             Name:
+Date:                       &
+
+                                                                     Designation:
+Place:
+
+         Additional Terms & Conditions (ATC)
+
+                                                                      Annexure-VIII (a)
+                            Manufacturer Authorization Form (MAF)
+                              (Inked Sign copy on Letterhead of OEM)
+                             For Next Generation Firewall UTM
+                                                                                Date: ____________
+
+To,
+The Campus Director,
+National Forensic Sciences Bhopal Campus
+C/o CFSL Bhopal,
+Barkheda Bonder, Indore Bhopal Highway,
+Bhopal (M.P.) – 462038
+
+Dear Sir,
+Tender Reference No._____________________
+
+We, _____________________________<OEM/ Manufacturer name> having our registered office at
+____________________________________, are an established and reputed manufacturer of Computer
+Systems.
+
+We  confirm  that  M/s  __________________  <Bidder name>  having   its  registered  office  at
+____________________________ is our authorized partner for M/s __________________________. We
+hereby authorize M/s __________________ <Bidder name> to quote and execute the order for the subject
+tender on behalf of ____________________________<OEM/ Manufacturer name>.
+
+Our full support is extended to them in all respects for supply, warranty and maintenance of our products.
+We also ensure to provide the service support for the supplied equipment during the entire warranty period
+of 3 years from the date of supply/installation of the equipment as per tender terms.
+
+We also undertake that in case of default in execution of this tender by the M/s __________________
+<Bidder name>, the ________________________ <OEM/ Manufacturer name> will take all necessary
+steps for successful execution of the contractual obligations as per tender.
+
+We hereby confirm that, as on the date of submission of this tender M/s __________________ <Bidder
+name>, has sufficient credit worthiness directly with us to supply our Products / Services and has adequate
+line of credit arrangement with us to undertake this contract / PO as per terms & conditions within stipulated
+time lines.
+
+In case nominated Business Partner fails to meet contractual obligations / time lines, we will arrange to take
+all necessary steps for successful execution of this project as per tender requirements.
+
+ Yours faithfully,
+
+ Name of person:_______________________________
+                                                                         (Seal of the OEM)
+ For and on behalf of M/s ________________________
+
+ Designation:__________________________________
+                                                                       Date:
+ Contact No.:__________________________________
+                                                                            Place:
+ Email ID:
+
+         Additional Terms & Conditions (ATC)
+
+                                                                      Annexure-VIII (b)
+                            Manufacturer Authorization Form (MAF)
+                              (Inked Sign copy on Letterhead of OEM)
+                                  For 24 Ports Core Switch
+                                                                                Date: ____________
+
+To,
+The Campus Director,
+National Forensic Sciences Bhopal Campus
+C/o CFSL Bhopal,
+Barkheda Bonder, Indore Bhopal Highway,
+Bhopal (M.P.) – 462038
+
+Dear Sir,
+Tender Reference No._____________________
+
+We, _____________________________<OEM/ Manufacturer name> having our registered office at
+____________________________________, are an established and reputed manufacturer of Computer
+Systems.
+
+We  confirm  that  M/s  __________________  <Bidder name>  having   its  registered  office  at
+____________________________ is our authorized partner for M/s __________________________. We
+hereby authorize M/s __________________ <Bidder name> to quote and execute the order for the subject
+tender on behalf of ____________________________<OEM/ Manufacturer name>.
+
+Our full support is extended to them in all respects for supply, warranty and maintenance of our products.
+We also ensure to provide the service support for the supplied equipment during the entire warranty period
+of 3 years from the date of supply/installation of the equipment as per tender terms.
+
+We also undertake that in case of default in execution of this tender by the M/s __________________
+<Bidder name>, the ________________________ <OEM/ Manufacturer name> will take all necessary
+steps for successful execution of the contractual obligations as per tender.
+
+We hereby confirm that, as on the date of submission of this tender M/s __________________ <Bidder
+name>, has sufficient credit worthiness directly with us to supply our Products / Services and has adequate
+line of credit arrangement with us to undertake this contract / PO as per terms & conditions within stipulated
+time lines.
+
+In case nominated Business Partner fails to meet contractual obligations / time lines, we will arrange to take
+all necessary steps for successful execution of this project as per tender requirements.
+
+ Yours faithfully,
+
+ Name of person:_______________________________
+                                                                         (Seal of the OEM)
+ For and on behalf of M/s ________________________
+
+ Designation:__________________________________
+                                                                       Date:
+ Contact No.:__________________________________
+                                                                            Place:
+ Email ID:
+
+         Additional Terms & Conditions (ATC)
+
+                                                                      Annexure-VIII (c)
+                            Manufacturer Authorization Form (MAF)
+                              (Inked Sign copy on Letterhead of OEM)
+                                  For 24 Ports PoE Switch
+                                                                                Date: ____________
+
+To,
+The Campus Director,
+National Forensic Sciences Bhopal Campus
+C/o CFSL Bhopal,
+Barkheda Bonder, Indore Bhopal Highway,
+Bhopal (M.P.) – 462038
+
+Dear Sir,
+Tender Reference No._____________________
+
+We, _____________________________<OEM/ Manufacturer name> having our registered office at
+____________________________________, are an established and reputed manufacturer of Computer
+Systems.
+
+We  confirm  that  M/s  __________________  <Bidder name>  having   its  registered  office  at
+____________________________ is our authorized partner for M/s __________________________. We
+hereby authorize M/s __________________ <Bidder name> to quote and execute the order for the subject
+tender on behalf of ____________________________<OEM/ Manufacturer name>.
+
+Our full support is extended to them in all respects for supply, warranty and maintenance of our products.
+We also ensure to provide the service support for the supplied equipment during the entire warranty period
+of 3 years from the date of supply/installation of the equipment as per tender terms.
+
+We also undertake that in case of default in execution of this tender by the M/s __________________
+<Bidder name>, the ________________________ <OEM/ Manufacturer name> will take all necessary
+steps for successful execution of the contractual obligations as per tender.
+
+We hereby confirm that, as on the date of submission of this tender M/s __________________ <Bidder
+name>, has sufficient credit worthiness directly with us to supply our Products / Services and has adequate
+line of credit arrangement with us to undertake this contract / PO as per terms & conditions within stipulated
+time lines.
+
+In case nominated Business Partner fails to meet contractual obligations / time lines, we will arrange to take
+all necessary steps for successful execution of this project as per tender requirements.
+
+ Yours faithfully,
+
+ Name of person:_______________________________
+                                                                         (Seal of the OEM)
+ For and on behalf of M/s ________________________
+
+ Designation:__________________________________
+                                                                       Date:
+ Contact No.:__________________________________
+                                                                            Place:
+ Email ID:
+
+         Additional Terms & Conditions (ATC)
+
+                                                                      Annexure-VIII (d)
+                            Manufacturer Authorization Form (MAF)
+                              (Inked Sign copy on Letterhead of OEM)
+                               For Wi-Fi 6 Indoor Access Point
+                                                                                Date: ____________
+
+To,
+The Campus Director,
+National Forensic Sciences Bhopal Campus
+C/o CFSL Bhopal,
+Barkheda Bonder, Indore Bhopal Highway,
+Bhopal (M.P.) – 462038
+
+Dear Sir,
+Tender Reference No._____________________
+
+We, _____________________________<OEM/ Manufacturer name> having our registered office at
+____________________________________, are an established and reputed manufacturer of Computer
+Systems.
+
+We  confirm  that  M/s  __________________  <Bidder name>  having   its  registered  office  at
+____________________________ is our authorized partner for M/s __________________________. We
+hereby authorize M/s __________________ <Bidder name> to quote and execute the order for the subject
+tender on behalf of ____________________________<OEM/ Manufacturer name>.
+
+Our full support is extended to them in all respects for supply, warranty and maintenance of our products.
+We also ensure to provide the service support for the supplied equipment during the entire warranty period
+of 3 years from the date of supply/installation of the equipment as per tender terms.
+
+We also undertake that in case of default in execution of this tender by the M/s __________________
+<Bidder name>, the ________________________ <OEM/ Manufacturer name> will take all necessary
+steps for successful execution of the contractual obligations as per tender.
+
+We hereby confirm that, as on the date of submission of this tender M/s __________________ <Bidder
+name>, has sufficient credit worthiness directly with us to supply our Products / Services and has adequate
+line of credit arrangement with us to undertake this contract / PO as per terms & conditions within stipulated
+time lines.
+
+In case nominated Business Partner fails to meet contractual obligations / time lines, we will arrange to take
+all necessary steps for successful execution of this project as per tender requirements.
+
+ Yours faithfully,
+
+ Name of person:_______________________________
+                                                                         (Seal of the OEM)
+ For and on behalf of M/s ________________________
+
+ Designation:__________________________________
+                                                                       Date:
+ Contact No.:__________________________________
+                                                                            Place:
+ Email ID:
+
+         Additional Terms & Conditions (ATC)
+
+                                                                      Annexure-VIII (e)
+                            Manufacturer Authorization Form (MAF)
+                              (Inked Sign copy on Letterhead of OEM)
+                                  For Network Controller
+                                                                                Date: ____________
+
+To,
+The Campus Director,
+National Forensic Sciences Bhopal Campus
+C/o CFSL Bhopal,
+Barkheda Bonder, Indore Bhopal Highway,
+Bhopal (M.P.) – 462038
+
+Dear Sir,
+Tender Reference No._____________________
+
+We, _____________________________<OEM/ Manufacturer name> having our registered office at
+____________________________________, are an established and reputed manufacturer of Computer
+Systems.
+
+We  confirm  that  M/s  __________________  <Bidder name>  having   its  registered  office  at
+____________________________ is our authorized partner for M/s __________________________. We
+hereby authorize M/s __________________ <Bidder name> to quote and execute the order for the subject
+tender on behalf of ____________________________<OEM/ Manufacturer name>.
+
+Our full support is extended to them in all respects for supply, warranty and maintenance of our products.
+We also ensure to provide the service support for the supplied equipment during the entire warranty period
+of 3 years from the date of supply/installation of the equipment as per tender terms.
+
+We also undertake that in case of default in execution of this tender by the M/s __________________
+<Bidder name>, the ________________________ <OEM/ Manufacturer name> will take all necessary
+steps for successful execution of the contractual obligations as per tender.
+
+We hereby confirm that, as on the date of submission of this tender M/s __________________ <Bidder
+name>, has sufficient credit worthiness directly with us to supply our Products / Services and has adequate
+line of credit arrangement with us to undertake this contract / PO as per terms & conditions within stipulated
+time lines.
+
+In case nominated Business Partner fails to meet contractual obligations / time lines, we will arrange to take
+all necessary steps for successful execution of this project as per tender requirements.
+
+ Yours faithfully,
+
+ Name of person:_______________________________
+                                                                         (Seal of the OEM)
+ For and on behalf of M/s ________________________
+
+ Designation:__________________________________
+                                                                       Date:
+ Contact No.:__________________________________
+                                                                            Place:
+ Email ID:
+
+         Additional Terms & Conditions (ATC)
+
+                                                                            Annexure-IX
+                                Other Terms and Conditions
+
+                                                                                     Compliance
+S. No.   Other Terms and Conditions
+                                                                                        Yes/No
+        Scope of Work: SITC and demonstration of all items with all accessories as mentioned in the
+     1.
+          detailed specifications sheet.
+        The Bidder should give self-declaration certificate for acceptance of all terms & conditions of
+     2.   tender documents. A duly completed certificate to this effect is to be submitted as per the
+        Annexure-I of ATC on the letter head of the bidder. No other format will be considered.
+        Bid-Securing Declaration Undertaking - Duly sealed and signed certificate on Company/
+     3.
+         Firm’s Letterhead must be submitted as per annexure III
+        The firm should be neither blacklisted by any Central / State Government / Public Undertaking /
+           Institute nor is any criminal case registered / pending against the firm or its owner / partners
+     4.
+        anywhere in India. A duly completed undertaking to this effect is to be submitted as per the
+        Annexure-IV of ATC on the letter head of the bidder. No other format will be considered.
+         Price Reasonability Certificate - Duly sealed and signed certificate on Company/ Firm’s
+     5.   Letterhead is to be submitted as per the Annexure-V of ATC. No other format will be
+        considered
+        The Bidder should attach list of Purchase Order / Work Order for SITC of quoted item/items
+        during last 3 years from the date of publication of tender. The details of the same along with
+     6.
+       work order with satisfactory completion certificate from clients are to be submitted with
+        Annexure-VI of ATC on the letter head of the bidder. No other format will be considered
+      Minimum Average Annual Turnover of the bidder (For 3 Years): 133 Lac
+        Audited Balance Sheets of last 3 financial years must be submitted. Copies of duly audited profit
+     7.
+     & loss accounts / CA Certificate with UDIN are to be submitted as per the Annexure-VII of
+       ATC.
+        Undertaking for Re-installation of the equipment: Since the instrument will be installed in the
+         temporary campus initially, vendor should take responsibility of shifting the instrument at their
+     8.    cost to the permanent campus at a later date even if the warranty period is over. A duly completed
+         undertaking to this effect is to be submitted as per the Annexure-VIII of ATC on the letter head
+         of the bidder. No other format will be considered.
+        Manufacturer Authorization Form (MAF) - Duly seal and inked signed on letterhead of OEM
+         with current date of the bid with proper name, mail id, designation & contact no. of authorized
+         person in the certificate must be submitted for the following Active Component:
+         a) Next Generation Firewall/UTM
+     9.   b) 24 Ports Core Switch
+          c) 24 Ports PoE Switch
+         d) Wi-Fi 6 Indoor Access Point
+          e) Network Controller
+         as per the Annexure VIII (a) to Annexure VIII (e). No other format will be considered.
+        Onsite Warranty & Support - Warranty period of each item shall be 3 years onsite OEM
+        warranty and the warranty period shall be from the date of final acceptance of goods or after
+    10.  completion of installation, commissioning & testing of goods at the consignee location. The
+         Successful Bidder must submit the OEM Warranty certificates at the time of Commissioning of
+          the items/items.
+        Performance Certificate from Clients: The bidders mandatorily submit performance certificate
+         of the equipment’s from at least 3 clients within 5 years from the bid publication date, with valid
+         email and Mobile number for verification of the performance of the equipment.
+    11.  Note:
+                 1.   Installation/ report will not be considered as a performance certificate.
+                 2.   If the client confirms poor performance report on official enquiry from NFSU
+              Bhopal Campus, the bid will be liable for rejection.
+
+         Additional Terms & Conditions (ATC)
+
+                                                                           Annexure-IX
+                                Other Terms and Conditions
+
+S.                                                                              Compliance
+       Other Terms and Conditions
+No.                                                                             Yes/No
+       Compliance with Technical specification – As per Annexure- X of ATC on the letter
+    12.  head of the OEM to be mandatorily submitted. No other format will be considered.
+        Variation will not be accepted in any case. No other format will be considered.
+        All the documents mentioned above, are to be submitted duly field and Seal signed in the
+    13.  provided format (Annexure) along with the bid. Without the above-mentioned documents
+         in the provided format, the bid will be summarily rejected.
+    14. SITC and demonstration to be completed within 60 days after receipt of the contract.
+
+    15.  Vendor must supply All the Hardware accessories required to install the equipment’s.
+
+         Seller should submit Brochure with Printed catalogue / or any other relevant document to
+       be attached for justification of Specification Compliance sheet and detailed technical
+    16.
+         specifications of the equipment quoted and the product quoted should also be available on
+         the website of OEM.
+       The bidder should also quote the rates for AMC and CMC (Excluding Taxes) for further
+    17.
+       05 years after completion of Warranty period separately.
+       Vendors should comply to the norms of demonstration of entire equipment to be supplied
+    18.  to END User as and when asked by END user at actual Site of Installation during any stage
+        of Administrative or Technical Scrutiny.
+
+         Seller should be an authorized vendor for the sale of the quoted product as per the
+         specifications required and should have authorized service Centre for any post delivery
+    19.  services, repairs or replacement or parts, products or requirement of accessories as and
+      when needed and should have authorized service Centre in India and in the State where the
+        product is to be delivered.
+
+    20.  Custom Clearance at Bhopal Airport. (In Case of Imported Items)
+
+       Timely Servicing/rectification of defects during the warranty period: After having
+       been notified of the defects/service requirement during the warranty period, Seller has to
+        complete the required Service / Rectification within 7 days’ time limit. If the Seller fails to
+        complete service/rectification with the defined time limit, a penalty of 0.5% of the Unit
+         Price of the product shall be charged as a penalty for each week of delay from the seller.
+    21.  Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to
+        recover all such penalty amount from the Performance Security (PBG). Cumulative Penalty
+        cannot exceed more than 10% of the total contract value after which the Buyer shall have
+         the right to get the service/rectification done from alternate sources at the risk and cost of
+         the Seller besides the forfeiture of PBG. The seller shall be liable to reimburse the Buyer
+         for such service/rectification.
+
+         Additional Terms & Conditions (ATC)
+
+                                                                            Annexure-IX
+                                Other Terms and Conditions
+
+
+ S.                                                                             Compliance
+       Other Terms and Conditions
+ No.                                                                            Yes/No
+
+       The Bidder mandatorily submit BoQ Price Break-up in the “Excel Upload Required” at
+    22.
+      Gem Portal.
+
+       Exemption from Make in India Purchase Preference: As per the No. 23011/14/2024-
+        WS-III dated 07.01.2026 from Women Safety Division, Ministry of Home Affairs,
+       Government  of  India  following equipment  is exempted from  Public Procurement
+         (Preference to Make in India) clause:
+              1.  Firewall/UTM (Sr. No. 8.4) - Make in India Purchase Preference policy will
+    23.               not be  applicable  for above mentioned equipment  as  there  is no  local
+                manufacturer is available.
+          2. Wireless Access Point (Sr. No. 8.7) - Make in India Purchase Preference policy
+                  will not be applicable for above mentioned equipment as there is no local
+                manufacturer is available.
+
+         Conditional bid will not be accepted in any case. Bid with conditional clause will be
+    24.
+        summarily rejected and correspondence in this regard will be entertained.
+
+        Other Important Documents (OID) – PAN, GST and Registration certificate must be
+    25.
+         submitted.
+       ** COMMON IP ADDRESSES
+        Bidders may please note that GeM is capturing and showing the IP addresses used by the
+    26.  Buyer and the Bidder(s) /Seller(s). The received bids having matching/common IP address
+        with either Bidder(s)/Seller(s) or Buyer, shall be outrightly rejected & shall not be
+         considered for further evaluation.
+
+Date:                                                       Authorized Signatory
+
+                              Seal
+Place:                   &                 Name:
+
+                                                                 Designation:
+
+         Additional Terms & Conditions (ATC)
+
+                                                                          Annexure-X
+               Compliance with Technical specification Sheet
+A. SITC of Next Generation Firewall/ UTM
+A.1) Next Generation Firewall/ UTM
+A.2) 24 Ports Core Switch
+A.3) 10G SFP+ Transceiver
+A.4) 24 Ports PoE Switch
+A.5) Windows Server 2025 Standard License
+A.6) 42U Rack with all its accessories
+A.7) 24 Port Patch Panel Loaded
+A.8) Optical Fiber Cable 6 Core
+A.9) OFC LC-LC Patch Cord
+A.10) 12 Ports LIU Loaded
+A.11) 24 Ports LIU Loaded
+
+B. SITC of Wi-Fi 6 Indoor Access Point
+B.1) Wi-Fi 6 Indoor Access Point
+B.2) Network Controller
+B.3) 24 Ports PoE Switch
+B.4) 12U Wall Mount Rack
+B.5) 24 Ports CAT6 Loaded Patch Panel
+B.6) CAT6 Patch Cord
+B.7) CAT6 Cable
+                      A. SITC of Next Generation Firewall/ UTMCompliance
+A.1) Next Generation Firewall/ UTM
+                                 Next Generation Firewall/ UTM
+ Make:
+ Model:
+                                                                                Compliance
+   S. No.                                      Specifications
+                                                                                          (Yes/No)
+          Must have fixed 4 x 10GE SFP+, 4 x GE SFP, 8 x GE RJ45 interfaces along with
+    1
+            dedicated separate 1GE HA and 1 x 1G management port.
+          The NGFW product should be either a multicore CPU or a custom processor-based
+    2
+             architecture with a hardened 64-bit operating system.
+          The proposed solution should have a built-in GUI and CLI to make on-the-go changes
+    3
+             in the Firewall policies and for troubleshooting any issues related to the network.
+          The proposed firewall should have internal redundant power supply from day 1.
+    4
+            External Adaptor power supply will not consider.
+    5     Proposed Hardware must have TPM module to store encryption keys /passwords
+    6      Firewall Throughput Minimum 25 Gbps OR Higher (Measured with 64 Byte)
+          The firewall shall provide Minimum 5 Gbps of Threat Protection performance is
+    7     measured with Firewall, IPS, Application Control and Malware Protection and logging
+           enabled on Enterprise Mix / Application Mix.
+    8    Minimum 5 Gbps of SSL Inspection throughput
+           Concurrent sessions of 8M or above and Minimum connection per second 400K or
+    9
+           above
+    10    The firewall should support IPSec VPN throughput of 10 Gbps
+    11     Firewall must have a hardened OEM operating system.
+
+       Additional Terms & Conditions (ATC)
+
+       Should be a hardware appliance based. Firewall. IPSEC and SSL VPN, Antivirus, Anti-
+12     Malware, IPS, Web and Application control, DOS prevention, Bandwidth Management
+       and Routing functionalities must be integrated in a single appliance from day 1.
+
+        Firewall appliance must have at least 5 virtual firewall /instants active from day-1 with
+13     each  firewall  domains/instances  having  a  separate  administrative  control OR
+        equivalent, Security zones and VLAN.
+      The following features must be available in each virtual firewall domain/instant context
+       environment: Firewall, IPSEC and SSL VPN, IPS, Web and Application Control, Anti
+14
+       Virus /Malware, policy based routing, User and Group management, Logging and
+        Reporting.
+15    The appliance should support NAT66, NAT46, NAT64, DNS 64, DHCPv6.
+       Proposed Firewall must have IPS, Advanced Malware Protection, Application Control,
+16
+      URL, DNS & Video Filtering, antivirus and SSL decryption from day 1
+
+     AV Signatures can be updated in three different ways: manually, via pull technology or
+       push technology. Administrator can schedule to check for new updates or if the device
+17
+       has a public IP address, updates can be pushed to the device each time an update is
+        available.
+
+       Automatic failover (condition based on ICMP, TCP or UDP protocol) as well as load
+18
+        sharing for outbound traffic.
+19    Must support various form of user Authentication methods simultaneously
+      The firewall must be able to support routing protocols including RIP, OSPF, ISIS, BGP
+20
+       and OSPFv3
+21     Should support TLSv1.3 decryption in all modes of operation must supported
+      The firewall must have the capability to create DOS prevention policy to prevent against
+22
+     DOS attacks.
+       Should be able to perform Anti-malware scans for HTTP, SMTP, IMAP, POP3, and
+23
+      FTP traffic.
+24    The Appliance should have an option to configure wildcard FQDN.
+        All category of firewalls should be able to identify attacks based on Geo-location and
+25
+        define policy to block on the basis of Geo-location
+
+      The appliance should support more than 2000 application layer and risk-based controls
+26      that can invoke tailored intrusion prevention system (IPS) threat detection policies to
+       optimize security effectiveness.
+
+      The proposed solution should be able to provide details of the malware / attacks blocked
+27
+         at the firewall level.
+28   NGFW should be able to monitor encrypted traffic to detect APTs hidden in SSL traffic.
+      The Propose Antivirus protection shall include advance malware protection: Virus
+29
+       Outbreak Protection Content disarm and reconstruction (CDR)
+
+    NGFW should have cloud sandbox  functionality  to  protect  organizations from
+30    Advanced Persistent Threats. In case any additional license is required, the bidder must
+        include it in the proposal from day one.
+31     Firewall should support application signature database and custom application creation
+      The administrator shall be able to define application control list based on selectable
+32
+        application group and/or list and its corresponding actions
+      The proposed system shall be able to queries a real time database of over 250 million +
+33
+        rated websites categorized into 70+ unique content categories.
+
+       Additional Terms & Conditions (ATC)
+
+34    The proposed firewall shall have custom URL-categorization
+35    The proposed firewall shall customizable block pages
+     DNS Security should support predictive analytics to disrupt attacks that use DNS for
+36
+       Data theft and Command and Control
+37   DNS security capabilities should block known Bad domains
+       Should be able to call 3rd party threat intelligence data on malicious IPs, URLs and
+38    Domains to the same firewall policy to block those malicious attributes and list should
+        get updated dynamically with latest data.
+      The proposed solution should support the ability to create QoS policy on a per rule
+39      basis- by source address, by destination address, by application by static or dynamic
+        application groups by port and services.
+       Should have inbuilt feature for two factor authentication via OTP (email or mobile) for
+40
+         at least two admin users access from day 1.
+      The security appliance should be having a configurable option to quarantine attack
+41
+        generating source addresses for a defined duration.
+
+      The Wan load Balancing must be able to fail over between various connections, such
+42     as Internet, MPLS, Leased line and even Routed-based VPN interfaces.  It should
+        support configuring a threshold on the links on a percentage/ Bandwidth basis.
+
+        In the proposed should allow the use of the most preferred link based upon Link
+43      characteristics (Latency, Jitter, Packet loss) for critical applications as defined in policy
+       from day 1.
+
+      The proposed solution should support policy-based routing based on applications,
+44
+       source and destination. Policy routing should work along with WAN load-balancing.
+      The proposed solution should support an identity-based routing option, allowing traffic
+45      to be forced out of a specific Internet gateway based on authentication rather than IP
+        address.
+        Built-in GUI on the system should have the option to display the logical topology of the
+46
+       network for protecting the Firewall.
+       Proposed vendor should have an in-house threat intelligence team and offer built-in
+47      capabilities on  firewall  to  integrate  with  various  security  threat  feeds  using
+      STIX/TAXII/API
+      The OEM must provide 24 X 7 X 365 technical support. The OEM must provide Direct
+      Premium Support with dedicated login credentials with highest level permissions to
+48
+        search knowledge base, downloading of the patches, documents and to manage the
+        device.
+      The proposed product or product family or operating system should be EAL 4 or higher
+49     or NDPP certified. Bidder need to submit public website link or documentary proof
+       along with the technical bid.
+      The proposed firewall OEM should be ISO 9001 & ISO 14001 certified. Bidder need
+50
+        to submit public website link or documentary proof along with the technical bid.
+       Proposed firewall or its Operating System should be IPv6 or USv6 or IPv6 logo ready
+51      certified. Bidder need to submit public website link or documentary proof along with
+        the technical bid.
+      The  Proposed  Firewall OEM  should  not  be  Blacklisted  even  once  by  any
+52
+        Central/State/PSU or any Government organization in last 5 years.
+53     Solution must be offered with required security subscriptions and OEM support
+
+         Additional Terms & Conditions (ATC)
+
+A.2) Core Switch
+                                       24 Port Core switch
+ Make:
+ Model:
+                                                                                       Compliance
+  S. No.                                          Specification
+                                                                                                 (Yes/No)
+         L3 Managed Switch should have minimum 24 24x 10G/1G SFP+/SFP slots and minimum 2
+      1.
+          x 100G /40GE QSFP+ Ports
+         The proposed switch form factor should 1 RU Rack-Mount Appliance and should have one
+      2.   RJ-45 Serial console or any other type of console port. Switch should have separate
+          dedicated management/service port.
+      3.   Dual intenral hot swappable power supply from day
+          Switching capacity of the proposed switch should be minimum 850 Gbps and 1200 Mpps
+      4.
+          Packet per second.
+      5.   Proposed switch should support routing protocol -static route, RIP, OSPF, BGP from day 1
+      6.   Proposed switch should have redundant Dual Hot Swappable power supply from day 1
+      7.   Proposed Switch should support minimum 64K MAC address and 4000 VLAN's
+         Proposed switch should have the high availability options and support MCLAG Or
+      8.
+          Equivalent
+      9.   Should support DHCP Server and Relay
+     10.  should support dynamic routing protocol OSPF, RIP ,VRRP and BGP
+     11.  Must have IP conflict detection and notification of conflict
+     12.  Minimum IPv4 route entries 8K support
+     13.  Must support jumbo frame
+         Should support Spanning Tree Protocol MSTP native, and backwards compatible with
+     14.
+          RTSP, STP and STP Root Guard
+         Should support IEEE 802.1ad Link Aggregation, IEEE 802.1q VLAN tagging, LLDP/MED.
+     15.
+         Should support LACP to aggregate 2x10Gig ports to achieve higher backbone bandwidth.
+     16.  Should support 802.1p support, QoS support prioritizing the traffic
+     17.  Should support 802.1x port-based authentication
+     18.  Should support 802.1x MAC-based authentication, IEEE 802.1x MAC Access Bypass (MAB).
+     19.  Should support IEEE 802.1x Guest and Fallback VLAN
+     20.  Should support IEEE 802.1x Dynamic VLAN Assignment
+     21.  Should support TFTP/SFTP and NTP
+          Switch should support local user database and can integrate with RADIUS, Radius
+     22.
+         CoA,TACACS+ servers
+     23.  Should support SSH, HTTP,HTTPS with IPv4 and IPv6 Management
+     24.  Switch should support SNMP v1, v2c and v3, IGMP, RMON.
+     25.  Proposed switch should be managed via both, GUI and CLI
+     26.  Should have support storm control and STP root and BPDU guard protection
+     27.  Proposed switch latency < 1µs. Must be available in public document of OEM
+     28.  Power Required :100–240V AC, 50–60 Hz
+     29.  Operating Temperature : 0–45°C, Humidity: 10–90% non-condensing
+          Solution must be offered with required security subscriptions and OEM 24x7 warranty
+     30.
+         support
+
+         Additional Terms & Conditions (ATC)
+
+
+A.3) 10G SM SFP+ Transceiver
+                             10G SM SFP+ Transceiver
+ Make:
+ Model:
+                                                                               Compliance
+  SN                                       Specification
+                                                                                         (Yes/No)
+   1    Form factor: SFP+
+   2    Support data rate: 10G
+   3    Wavelength: 1310 nm
+   4    Support protocol IEEE 802.3ae
+   5     Fiber type: Single mode
+   6    Should support 10 km optical distance
+   7    Should have LC Duplex optical interface
+   8    Operating Temperature: 0°C to 70°C
+   9    Hot-swappable input/output gadget
+   10    Should be RoHS compliant
+
+A.4) 24 Ports PoE Switch
+                                     24 Port PoE Switch
+ Make:
+ Model:
+                                                                             Compliance
+  SN                                      Specification
+                                                                                     (Yes/No)
+        Manageable switch should have minimum 24 x 2.5/1 GE RJ45 POE ports and 4x
+      1.
+        10GE SFP+ ports
+      2.   The form factor of the proposed switch should be 1 RU Rack-Mount Appliance
+      3.   Switching capacity of the proposed switch should be minimum 200 Gbps
+
+      4.   Packet per second capacity of the switch should be minimum 300 Mpps
+
+      5.   Proposed Switch should support minimum 32K MAC address storage
+      6.   Proposed switch latency < 1µs. Must be available in public document of OEM
+
+      7.   Proposed switch should support 4000 VLANs ID
+
+      8.   Proposed switch mush have minimum 750W POE power budget
+      9.   Should support min 1GB memory  , maximum to be specified
+     10.  Should support Jumbo frames and link auto-negotiation
+         Should support Spanning Tree Protocol MSTP native, and backwards compatible
+     11.
+         with RTSP, STP and STP Root Guard
+     12.  Should support Edge Port / Port Fast
+
+     13.  IEEE 802.1AX Link Aggregation IEEE 802.1q VLAN tagging, Private VLAN, Voice VLAN
+
+
+         should support Unicast/Multicast traffic balance over trunking port for dst-ip, dst-
+     14.
+         mac, src-dst-ip, src-dst-mac, src-ip, src-mac
+
+     15.  Should support IEEE 802.3x Flow Control
+
+         Additional Terms & Conditions (ATC)
+
+     16.  Admin Authentication Via RFC 2865 RADIUS
+
+     17.  Should support 802.1x port-based authentication
+         Should support 802.1x MAC-based authentication, IEEE 802.1x MAC Access Bypass
+     18.
+        (MAB)
+
+     19.  Should support IEEE 802.1x Dynamic VLAN Assignment, MAC-IP Binding
+
+     20.  Should support Radius CoA (Change of Authority) and Radius Accounting
+
+         Switch should support local user database and can integrate with LDAP, RADIUS,
+     21.
+        TACACS+ servers
+
+     22.  should support Storm Control, LoopGuard
+
+         Should support IGMP snooping, DHCP snooping (entry limit per port) and Dynamic
+     23.
+        ARP Inspection
+         Should support Port mirroring, sFlow, TDR (time- domain reflectometer)/cable
+     24.
+           diagnostics.
+     25.  Switch should support 512 ACL entries
+     26.  Switch should support Policy Control of Users and Devices
+     27.  Should support IEEE 802.1p Based Priority Queuing
+     28.  Should support IP TOS/DSCP Based Priority Queuing
+     29.  Should support Telnet,SSH, HTTP,HTTPS with IPv4 and IPv6 Management
+     30.  Switch should support SNMP v1, v2c and v3
+     31.  Software download/upload: TFTP/FTP/GUI
+     32.  Proposed switch should be managed via both, GUI and CLI
+     33. MUST support multiple configuration files with Dual-firmware image support
+     34.  Switch should support IP conflict detection and notification
+     35.  Switches shall inbuilt packet capture feature in both GUI and CLI
+     36.  Power Required :100–240V AC, 50–60 Hz
+     37.  Operating Temperature :0–45°C
+     38.  Humidity: 10–90% non-condensing
+          Solution must be offered with required security subscriptions and OEM 24x7
+     39.
+         warranty support
+     40. MUST support multiple configuration files with Dual-firmware image support
+     41.  Switch should support IP conflict detection and notification
+     42.  Switches should manage from the proposed switch controller
+     43.  Power Required :100–240V AC, 50–60 Hz
+
+A.5) Windows Server License
+                               Windows Server license
+                                                                         Compliance
+  SN                                    Specification
+                                                                                 (Yes/No)
+   1    Windows Server 2025 Standard - 16 Core License
+
+         Additional Terms & Conditions (ATC)
+
+A.6) 42U Floor Mount Rack
+                                      Floor Mount 42U Rack
+ Make:
+ Model:
+                                                                             Compliance
+ S.NO.    Specifications Floor Mount 42U Rack
+                                                                                     (Yes/No)
+    1    Rack Size
+    2     Floor Mount 42U - 800W x 1000D.
+    3     Features:
+    4     Conforms to DIN 41494 OR equivalent ISO Standards
+           Adjustable 19” equipment mounting verticals provide the better mounting
+    5             flexibility maximizing the usable mounting space
+    6    Top and bottom Panel with ventilation and cable entry facility
+    7     Provision to mount the cooling fans on the top panel
+    8     Powder coated finish with pretreatment process meeting all industry standards
+    9     Grounding and Bonding Options
+        100% assured compatibility with all equipment conforming to DIN 41494. General
+   10            industrial standard for equipment
+   11     Construction: Welded Frame
+   12     Front Door: Lockable Toughened Glass Door, Steel Single, Steel Dual
+   13    Equipment Mounting: DIN Standard 10mm Sq. Slots.
+   14    Mounting Angle:19” Mounting angles made of formed steel
+         Top and Bottom Cover: Welded to Frame, Vented and Field Cable entry exit cut
+   15
+           outs
+          Mounting Option: Castor wheels (Front 2 wheels with Brakes and rear without
+   16
+           brakes) Or Levellers Or Base plinth
+   17     Standard Color: Black or Grey
+           Accessories: Power Distribution Units, Cable Manager, Fans and Fan Modules
+   18        (FHU with 4 FAN 360CFM), Hardware Packet, Jacking Feet
+            Vertical Power Distribution Unit with 2 x (12 x 5/15) sockets Round Pin, 230 Volts
+   19
+         AC, 32 Amp with Plug. And 2x Self Tray.
+      OEM Should be international certification for the ISO 45001 Health and Safety
+         Management System, ISO 9001 Quality Management System, ISO 14001
+   20
+          Environmental Management System, and ISO 14064-1 Greenhouse Gas Inventory
+           Standards.
+
+A.7) 24 Ports CAT6 Patch Panel
+                                                                            Compliance
+ Unshielded Twisted Pair Category 6 Loaded Patch Panel - 24 Port
+                                                                                     (Yes/No)
+ Make:
+ Model Number:
+ Features
+ Category 6 24 port Patch Panel should be 24 Port 1U Size loaded with 24 port RJ-45 IO.
+ Mounts in standard 19inch racks.
+ Patch panel should have cable manager for improvement management.
+ Patch panel suitable for Category 6 keystone.
+
+         Additional Terms & Conditions (ATC)
+
+ Panel material should have SPCC and Black Color.
+ Rear support bar material should have SPCC and Black Color.
+ RJ-45 jack housing should be PBT + Glass fiber UL94V-O and Contact brackets should be
+ PBT + Glass fiber UL94V-O.
+ Rj-45 contact material should be phosphor bronze with nickel plated and plug contact area
+ finish with 50 micro-inches Gold plated.
+ Contact resistance should be maximum 20 milliohm.
+ Operating Temperature should be -10° Celsius to 60° Celsius.
+ Life of RJ-45 Jack should be 750 cycles minimum @ 500 VDC.
+ OEM for the cable box and all copper Accessories should be from same OEM.
+
+A.8) 6 Core Fiber Cable
+                                                                             Compliance
+ Optical Fiber 6 Core Cable
+                                                                                      (Yes/No)
+ Make:
+ Model:
+ Min. Required Specification
+ The fiber is optimized for operation at 1310 nm and at 1550 nm.
+ The Fiber should be Armoured 6 core unitube 9/125 µm Single Mode fiber with central loose
+ tube jelly compound, high quality ECCS steel tape.
+ Armour Tape: Armoured design with music quality steel wire.
+ Jacket material: HDPE
+ Outer diameter: 7.2 ± 0.5 mm
+ Thickness of the Jacket: 1.8 + 0.2 mm
+ Pulling Tension: Short Term 1000N, Bend Radius 20D.
+ Crush Load(N/100mm): 2000
+ Refractive index - Fiber type 9/125: - OS1 - 1.4674 and PMD <= 0.2 ps/km.
+ The Fiber Operating Temperature should be – 20 deg C to +60 deg C.
+ The Fiber Max Attenuation :0.34 (db / km) @ Operational Wavelength 1310 nm and, 0.24 (db
+  / km) @ Operational Wavelength 1550 nm.
+ The value for Mode-filed/Cladding Diameter (um) 9.3 ± 0.5 and 125 ± 1.0
+  Cable Cut-off wavelength should be <1260 (nm)
+ The Fiber should follow Standards: ANSI/TIA-568-C. 3 and ISO11801, IEC 60793-1/60794-
+ 1-2 and ITU-T-REC G.652D
+
+         Additional Terms & Conditions (ATC)
+
+A.9) OFC LC-LC Patch Cord
+                          OFC Patch cord, LC-LC, 1 Mtr.
+
+ Make:
+ Model:
+                                                                                     Compliance
+ S.NO.                    Optical Fiber Equipment Cords - LC-LC Duplex
+                                                                                               (Yes/No)
+           Optical fiber patch leads shall comprise of Single mode 9/125µm fiber with LC-LC fiber
+          connectors terminated at each end. The optical fiber patch leads shall comply with the
+          following specifications: compatible with industry standards (IEC 61754/TIA/EIA).    1
+    2     Single mode G652D, Duplex Type, Cable yellow Color, LSZH
+    3    Compact & strong crimping offers exceptional tensile strength in cable assemblies.
+    4     Adopts high precision ceramic ferrule with good concentricity
+    5      Insertion Loss <0.3 db , Return Loss >/= 50dB for UPC
+    6      Repeatability: 0.2dB 1000 times mating cycles
+
+         Working Temperature -10 deg. C to + 70 deg. C, Storage Temperature –20°C ~+70°C
+    7
+    8     Length Should be 1 Meter
+
+A.10) 12 Ports LIU Loaded
+                                       12 port LIU Loaded-LC
+ Make:
+ Model:
+                                                                            Compliance
+ S.NO.  FIBER PATCH PANELS – RACK MOUNT – 12 port LIU Loaded
+                                                                                    (Yes/No)
+   1     12 port Loaded LIU accommodate simplex LC single mode adapters with LC Pigtail.
+   2    1.5mm steel sheet for strong housing, Slim 1 Unit Mounting Height
+   3     can manage both splices and terminations
+   4     Preassembled shelves in multiple configurations
+   5     should have fiber magic sticker provision inside for 900um tight buffered fiber storing
+          Accessory kit consists of cable ties, mounting ear screw and spiral wrap tube, cable saddle.   6
+   7     Front-Mounted Cable Saddles for jumper management
+          Rubber grommet allow  for pre-terminated  fiber trunk  installation,  protects cable and
+   8     minimizes dust build-up
+   9     Adapter panel - Steel, 1.5mm Thickness
+   10     Splice Tray: Plastic
+   11    Metal Outer Shelf: Steel, 1.5mm Thickness
+   12     Fixed design is easy to work for patching the connectors
+ Optical Fiber Pigtail – LC Type 1 Meter -
+                                                                             Compliance
+ S.NO.   Specifications
+                                                                                      (Yes/No)
+           Provide a field installable Single mode LC pigtails to terminate fiber optic cables from cable-
+   1            to-cable, cable-to-equipment and equipment-to-equipment.
+   2      Utilize a UPC polishing on the tip to provide high yield during installation.
+   3     Meet TIA/EIA 568.C.3 standards for repeatability.
+           Buffer diameter 900um Tight buffer, Minimum bend Radius: Install :30mm, Retention
+   4            Strength: 20N, Cable: 900um Buffered
+   5      Insertion Loss (Max) <0.3 db Max, Return Loss >/= 50 db for UPC
+   6     Connector ferrule Ceramic, LC Type Simplex Type, Cable Color Yellow
+   7      Repeatability < 0.2dB 200 times Mating Cycle
+   8     Operating Temp. -10 deg. C to + 70 deg. C
+
+         Additional Terms & Conditions (ATC)
+
+ A.11) 24 Ports LIU Loaded
+                                         24 port LIU Loaded-LC
+  Make:
+  Model:
+                                                                                     Compliance
+  S.NO.  FIBER PATCH PANELS – RACK MOUNT – 24 port LIU Loaded
+                                                                                             (Yes/No)
+    1     12 port Loaded LIU accommodate simplex LC single mode adapters with LC Pigtail.
+    2    1.5mm steel sheet for strong housing, Slim 1 Unit Mounting Height
+    3     can manage both splices and terminations
+    4     Preassembled shelves in multiple configurations
+    5     should have fiber magic sticker provision inside for 900um tight buffered fiber storing
+    6     Accessory kit consists of cable ties, mounting ear screw and spiral wrap tube, cable saddle.
+    7     Front-Mounted Cable Saddles for jumper management
+          Rubber grommet allow for pre-terminated  fiber trunk  installation, protects cable and
+    8     minimizes dust build-up
+    9     Adapter panel - Steel, 1.5mm Thickness
+    10     Splice Tray: Plastic
+    11     Metal Outer Shelf: Steel, 1.5mm Thickness
+    12     Fixed design is easy to work for patching the connectors
+  Optical Fiber Pigtail – LC Type 1 Meter -
+                                                                                      Compliance
+  S.NO.    Specifications
+                                                                                                 (Yes/No)
+
+            Provide a field installable Single mode LC pigtails to terminate fiber optic cables from cable-
+    1
+             to-cable, cable-to-equipment and equipment-to-equipment.
+
+    2      Utilize a UPC polishing on the tip to provide high yield during installation.
+
+    3     Meet TIA/EIA 568.C.3 standards for repeatability.
+            Buffer diameter 900um Tight buffer, Minimum bend Radius: Install :30mm, Retention
+    4
+             Strength: 20N, Cable: 900um Buffered
+    5      Insertion Loss (Max) <0.3 db Max, Return Loss >/= 50 db for UPC
+
+    6     Connector ferrule Ceramic, LC Type Simplex Type, Cable Color Yellow
+
+    7      Repeatability < 0.2dB 200 times Mating Cycle
+    8     Operating Temp. -10 deg. C to + 70 deg. C
+
+ Note- Parties must mention make and model no. of the equipment offered by them, with detailed specification
+ (on separate sheet). Otherwise, their tender will not be accepted.
+
+ Please Note:
+
+     1.  In all above system specifications, equivalent or higher specifications can be allowed.
+
+     2. OEM have to provide written undertaking for complying above requirements
+
+
+
+Date:                                                           Authorized Signatory
+                                                       Name:
+                                    Seal
+Place:                      &                  Designation:
+
+         Additional Terms & Conditions (ATC)
+
+                         B. SITC of Wi-Fi 6 Indoor Access Point Compliance
+B.1) Detailed Technical Specification of Wi-Fi 6 Indoor Access Point
+                                 Wi-Fi 6 Indoor Access Point
+ Make:
+ Model:
+                                                                             Compliance
+  SN    Technical specification
+                                                                                     (Yes/No)
+    1    The Access Point should support 802.11ax Wi-Fi 6 OR higher standard
+         Must have the interla Three-Radio 2.4GHz , 5GHz and 6GHz (Optional) ,1 BLE/Zigbee
+    2
+         antenna and 1 GPS antenna
+          Should have minimum 1 x 2.5G Multigigabit Ethernet (RJ45), 1x RS232 RJ45 Serial
+    3
+           Port
+    4     Should support 2x 2 MU-MIMO
+         The access Point should support throughput 2.5 Gbps Or Higher Aggirgated
+    5
+          throughput
+    6     Access point should support SSID's in Tunnel, Local Bridge, and mesh mode.
+
+    7     Should support 8 Simultaneous SSIDs on client serving radio
+
+          Should support following EAP types : EEAP-TLS, EAP-TTLS/MSCHAPv2, PEAPv0/EAP-
+    8
+         MSCHAPv2, PEAPv1/EAP-GTC, EAP-SIM, EAP-AKA, EAP-FAST
+          Access point should support IEEE standards minimum 801.1x and back ward
+    9
+           compitible
+   10    Should have physical security lock (such as Kensington lock)
+          Should support mounting options of Ceiling, T-Rail and wall all these accessories
+   11
+          should included with box. If not quote all mounting kit.
+   12    Access point should support below Wireless Monitoring Capabilities
+   13     a) Rogue Scan Radio Modes should support both background and dedicated
+   14     b) WIPS / WIDS Radio Modes should support both background and dedicated
+
+   15      c) should support Spectrum Analyzer
+
+   16     d) should support Packet Sniffer Mode
+   17    Must support Reliable Multicast Video to maintain video quality
+          Should support Local AP diagnostic web portal, Command line(CLI) directly to access
+   18
+           point.
+   19    Access point Operating Temperature should be: 0–45°C
+   20    WiFi Alliance certified for 6 OR 7
+   21     Solution should be supplied with OEM technical support and warranty
+          Access point should have TEC, BIS, WPC (ETA), IPv6 logo ready, CE, FCC, IEC
+   22
+         60950 and RoHS certificates.
+      OEM  should have ISO-9001:2015, ISO-14001:2015, ISO-20000-1:2018, ISO-
+   23
+          27001:2013, ISO-45001:2018, ISO/IEC 15408 and CMMi Level 3 certificates.
+           Controller must be supplied with a comprehensive warranty for a minimum period of
+   24
+           three (3) years.
+
+         Additional Terms & Conditions (ATC)
+
+B.2) Detailed Technical Specification of Network Controller
+                                   Network Controller
+ Make:
+ Model:
+                                                                             Compliance
+ SN  Technical specification
+                                                                                     (Yes/No)
+  1   Controller and WiFi Access Points should be from the same OEM
+      Bidder may offer combined wireless controller functionality with an NGFW appliance
+  2
+       available with the same OEM, and compliance with the required specifications.
+      Hardware On premise wireless controller should be able to manage up to 50 wireless AP
+  3
+      from Day 1.
+  4   Dual internal Power Supply
+  5   Proposed solution must have at least 1 x 10G interface and 2 x 1G Copper interface
+      The Solution must support 802.11ax primarily and should be backward compatible
+  6
+      to 802.11 ac/n/a/b/g Wave 2 standards-based wireless Access Points.
+     Must support IPv4 & IPv6. Proposed solution OS OR Model OR Family must be Ipv6 /
+  7
+      Usv6 Certified.
+      The proposed controller must have a security feature. 2FA  for at least 2 admins to
+  8
+      access the controller
+      The solution should  support Guest Portal from Day 1 with multiple authentication
+  9
+     Mechanisms
+      The solution should be scalable to support WIPS, Rouge AP detection and Honeypot AP
+ 10
+      detection
+      Should be able to provide insights based on successful connections/connected clients,
+ 11
+      coverage,  capacity / performance, AP Uptime, Roaming and throughput.
+      Should be able to integrate with various external authentication mechanism include the
+ 12
+     RADIUS servers, LDAP, AD etc.
+ 13  Must support Packet capture to enhance troubleshooting.
+ 14  Must be able to time limit base access per SSID based uplink or downlink Bandwidth.
+
+ 15  Must be able to limit per user-based uplink or downlink bandwidth.
+
+ 16  Must be able to set a maximum per-user bandwidth limit on a per-SSID basis.
+
+       Controller must support deep packet inspection for all user traffic across Layer 4-7
+ 17  network to analyze information about applications usage, peak network usage times for
+         all access points from day 1.
+      Should be able to handle interference and  shift the communication on another
+ 18
+      channel automatically if, needed.
+
+ 19   Providing alerts when APs are down, or compromised RF environment is detected.
+
+ 20  Should be able to create access policies based on various groups / labels / subnets.
+
+ 21  Should be able to extend API to integrate with other systems as well.
+
+     Must provide real-time charts/log showing interferers per access point, on a per- radio,
+ 22
+      per-channel basis.
+ 23  Must be able to classify different types of interferences.
+
+         Additional Terms & Conditions (ATC)
+
+ 24   Controller must support automatic DHCP based IP allocation to end points.
+
+ 25   Controller must support DHCP based allocation of separate IP series for different SSIDs.
+      Wireless controller support the following types of client load balancing:
+       a) Access Point Hand-off - the wireless controller signals a client to switch to another
+ 26   access point.
+       b) Frequency Hand-off - the wireless controller monitors the usage of 2.4GHz and 5GHz
+      bands, and signals clients to switch to the lesser-used frequency automatically.
+ 27  The wireless controller should include the following features.
+ 28   Wireless guest management, Capative portal support for user login
+ 29  Content security and filtering
+      RF Management
+       a) Having Automatic Channel Allocation
+       b) Having Automatic Power Control
+        c) Supporting Neighbourhood scanning of RF environment to minimise neighbouring AP
+       interference and leakage across floors.
+ 30   d) Having Coverage Hole Detection
+       e) Providing alerts when APs are down or compromised RF environment is detected
+         f) Having Self healing - Automatic neighbouring AP power increase to fill in for coverage
+       losses
+       g) Rogue AP detection and Blocking
+      h)Should support Spectrum Analysis
+ 31   Solution supply with OEM 24x7 support and warranty and reuqire licences from 1.
+ 32   Controller should have CE, FCC, IEC 60950, TEC, and BIS certificates.
+    OEM  should  have  ISO-9001:2015,  ISO-14001:2015,  ISO-20000-1:2018,  ISO-
+ 33
+      27001:2013, ISO-45001:2018, ISO/IEC 15408 and CMMi Level 3 certificates.
+       Controller must be supplied with a comprehensive warranty for a minimum period of three
+ 34
+       (3) years.
+
+B.3) 24 Ports PoE Switch
+                                    24 Port PoE Switch
+ Make:
+ Model:
+                                                                            Compliance
+  SN    Technical specification
+                                                                                    (Yes/No)
+        Manageable switch should have minimum 24 x 2.5/1 GE RJ45 POE ports and 4x
+      1.
+        10GE SFP+ ports
+      2.   The form factor of the proposed switch should be 1 RU Rack-Mount Appliance
+      3.   Switching capacity of the proposed switch should be minimum 200 Gbps
+      4.   Packet per second capacity of the switch should be minimum 300 Mpps
+      5.   Proposed Switch should support minimum 32K MAC address storage
+      6.   Proposed switch latency < 1µs. Must be available in public document of OEM
+      7.   Proposed switch should support 4000 VLANs ID
+      8.   Proposed switch mush have minimum 750W POE power budget
+      9.   Should support min 1GB memory  , maximum to be specified
+     10.  Should support Jumbo frames and link auto-negotiation
+         Should support Spanning Tree Protocol MSTP native, and backwards compatible
+     11.
+         with RTSP, STP and STP Root Guard
+     12.  Should support Edge Port / Port Fast
+
+      Additional Terms & Conditions (ATC)
+
+13.  IEEE 802.1AX Link Aggregation IEEE 802.1q VLAN tagging, Private VLAN, Voice VLAN
+     should support Unicast/Multicast traffic balance over trunking port for dst-ip, dst-
+14.
+    mac, src-dst-ip, src-dst-mac, src-ip, src-mac
+15.  Should support IEEE 802.3x Flow Control
+16.  Admin Authentication Via RFC 2865 RADIUS
+17.  Should support 802.1x port-based authentication
+    Should support 802.1x MAC-based authentication, IEEE 802.1x MAC Access Bypass
+18.
+    (MAB)
+19.  Should support IEEE 802.1x Dynamic VLAN Assignment, MAC-IP Binding
+20.  Should support Radius CoA (Change of Authority) and Radius Accounting
+     Switch should support local user database and can integrate with LDAP, RADIUS,
+21.
+    TACACS+ servers
+22.  should support Storm Control, LoopGuard
+    Should support IGMP snooping, DHCP snooping (entry limit per port) and Dynamic
+23.
+    ARP Inspection
+    Should support Port mirroring, sFlow, TDR (time- domain reflectometer)/cable
+24.
+     diagnostics.
+25.  Switch should support 512 ACL entries
+
+26.  Switch should support Policy Control of Users and Devices
+
+27.  Should support IEEE 802.1p Based Priority Queuing
+
+28.  Should support IP TOS/DSCP Based Priority Queuing
+
+29.  Should support Telnet,SSH, HTTP,HTTPS with IPv4 and IPv6 Management
+
+30.  Switch should support SNMP v1, v2c and v3
+
+31.  Software download/upload: TFTP/FTP/GUI
+
+32.  Proposed switch should be managed via both, GUI and CLI
+
+33. MUST support multiple configuration files with Dual-firmware image support
+
+34.  Switch should support IP conflict detection and notification
+
+35.  Switches shall inbuilt packet capture feature in both GUI and CLI
+
+36.  Power Required :100–240V AC, 50–60 Hz
+
+37.  Operating Temperature :0–45°C
+
+38.  Humidity: 10–90% non-condensing
+     Solution must be offered with required security subscriptions and OEM 24x7
+39.
+     warranty support
+40. MUST support multiple configuration files with Dual-firmware image support
+
+41.  Switch should support IP conflict detection and notification
+
+42.  Switches should manage from the proposed switch controller
+43.  Power Required :100–240V AC, 50–60 Hz
+
+         Additional Terms & Conditions (ATC)
+
+B.4) 12U Wall Mount Rack
+                                   Wall Mount 12U Rack
+ Make:
+ Model:
+                                                                             Compliance
+ S.NO.  Specifications
+                                                                                     (Yes/No)
+   1    Rack Size
+   2    Wall Mount 12U - 550W x 600D.
+   3    Features:
+   4    Conforms to DIN 41494 OR equivalent ISO Standards
+         Adjustable 19” equipment mounting verticals provide the better mounting flexibility
+   5
+        maximizing the usable mounting space
+   6    Top and bottom Panel with ventilation and cable entry facility
+   7     Provision to mount the cooling fans on the top panel
+   8    Powder coated finish with pretreatment process meeting all industry standards
+   9    Depth adjustable mounting slots.
+        Grounding and Bonding Options 100% assured compatibility with all equipment
+   10
+         conforming to DIN 41494. General industrial standard for equipment
+   11    Construction: Welded Frame
+         Front Door: Lockable Front Glass Door (tinted, Toughened) with Lock & Key, 2 pairs
+   12
+          of 19" Mounting Rails with U-Marking.
+   13    Equipment Mounting: DIN Standard 10mm Sq. Slots.
+   14    Mounting Angle:19” Mounting angles made of formed steel
+   15   Top and Bottom Cover: Welded to Frame, Vented and Field Cable entry exit cut outs
+   16    Standard Color: Grey
+          Accessories: Power Distribution Units (6 Socket 5/15 Amp. Power Distribution Unit (1
+   17    No), Cable Manager, Fans and Fan Modules (Roof Mounted Fan Unit / 90 CFM /230V
+      AC (1 Nos), Hardware Packet etc.
+   18     Static Load: - 40KG
+
+         Additional Terms & Conditions (ATC)
+
+B.5) 24 Ports CAT6 Loaded Patch Panel
+                                                                            Compliance
+ Unshielded Twisted Pair Category 6 Loaded Patch Panel - 24 Port
+                                                                                     (Yes/No)
+ Make:
+ Model Number:
+ Features
+ Category 6 24 port Patch Panel should be 24 Port 1U Size loaded with 24 port RJ-45 IO.
+ Mounts in standard 19 inch racks.
+ Patch panel should have cable manager for improvement management.
+ Patch panel suitable for Category 6 keystone.
+ Panel material should have SPCC and Black Color.
+ Rear support bar material should have SPCC and Black Color.
+ RJ-45 jack housing should be PBT + Glass fiber UL94V-O and Contact brackets should be
+ PBT + Glass fiber UL94V-O.
+ Rj-45 contact material should be phosphor bronze with nickel plated and plug contact area
+ finish with 50 micro-inches Gold plated.
+ Contact resistance should be maximum 20 miliohm.
+ Operating Temperature should be -10° Celsius to 60° Celsius.
+ Life of RJ-45 Jack should be 750 cycles minimum @ 500 VDC.
+
+B.6) CAT6 Patch Cord
+                                                                            Compliance
+ Unshielded Twisted Pair Category 6 Patch Cord - 1 Mtr
+                                                                                     (Yes/No)
+ Make:
+ Model Number:
+ Features
+ Category 6 patch cords with four pair twisted cable terminated with RJ45 modular plugs at
+ both the ends.
+ Patch Cord should have TIA/EIA 568C.2 standard.
+ Category 6 patch cord should be 100% factory made and performance tested.
+ Category 6 patch cord length requires – 1 meter.
+ Color code for Patch Cord: Grey/Blue/Green
+ UL Application - PC UL94-V-0
+ Performance Characteristics
+ Patch cord conductor should be 24 AWG, multi-strands.
+ Patch cord conductor metal should be made from bare copper.
+ Insulation material should be high density polyethylene, material used should be FRPVC
+ Insertion cycle- 750 Times.
+ Dielectric voltage- 1000V DC/Min <05A
+ Insulation Resistance - >500M Ohm, 1000DC/Min
+ Modular Connector/Plug Characteristics
+ Patch cord plug should be gold plated.
+ Patch cord should support heat resistance max 75 degree C
+ Contact blade of plug should be made from copper alloy.
+
+         Additional Terms & Conditions (ATC)
+
+ B.7) CAT6 Cable
+                                                                              Compliance
+  Unshielded Twisted Pair Category 6 Cable
+                                                                                       (Yes/No)
+  Make:
+  Model Number:
+  Features
+  Category 6 Unshielded Twisted 4 pair shall be compliant with ANSI/TIA/EIA-568-C.2 and
+  ISO/IEC 11801 Class E.
+  Should support 1000BASE-T (1 Gigabit Ethernet) standard.
+  Category 6 should operate on bandwidth up to 250MHz as per standard.
+  Construction Characteristics
+  Conductor should be 23 AWG solid bare copper.
+  Conductor Insulation material should be HDPE.
+
+  Four twisted pairs separated by internal X shaped, full separator. Half shall not be accepted.
+
+  Sheath material should be FR-PVC.
+  Cable outer diameter should be 6.1 mm nominal.
+  Cable weight should be 13.6Kg/Box.
+  Electrical Properties
+  Conductor Resistance: ≤ 9.38Ω/100m
+  Mutual Capacitance: ˂ 5.6nF/100m
+  Resistance Unbalance: 5% Max
+  Delay Skew: < 45nS
+  Capacitance unbalance: 330pF/100m
+ NVP: 69%
+  Other Characteristics
+  Each meter printed with sequential Length Counter
+  Temperature Range -20° to +70°C
+  Approval : UL Listed & ETL Verified
+ OEM Should be International certification for the ISO 45001 Health and Safety
+  Management System, ISO 9001 Quality Management System, ISO 14001 Environmental
+  Management System, and ISO 14064-1 Greenhouse Gas Inventory Standards.
+ OEM for the cable Box and all copper Accessories should be from same OEM.
+
+ Note- Parties must mention make and model no. of the equipment offered by them, with detailed specification (on
+ separate sheet). Otherwise, their tender will not be accepted.
+
+ Please Note:
+
+     1.  In all above system specifications, equivalent or higher specifications can be allowed.
+
+     2. OEM have to provide written undertaking for complying above requirements
+
+
+
+Date:                                                           Authorized Signatory
+                                                       Name:
+                                    Seal
+Place:                      &                  Designation:

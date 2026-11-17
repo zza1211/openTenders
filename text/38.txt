@@ -1,0 +1,2058 @@
+                            Botswana Examinations Council
+
+
+
+
+
+      DIRECTORATE OF INFORMATION AND COMMUNICATIONS TECHNOLOGY
+
+
+                         INVITATION TO TENDER
+
+
+                           FOR
+
+
+ THE SUPPLY, INSTALLATION AND CONFIGURATION OF NEXT GENERATION
+ FIREWALLS TO BOTSWANA EXAMINATIONS COUNCIL
+
+                  TENDER NO: BEC ICT 003/19-20
+
+                       Issue Date: Monday 29th July 2019
+
+                     Closing Date: Friday 23rd August 2019
+
+
+
+
+    PROCURING ORGANISATION                 AGENT
+
+Botswana Examinations Council,       The Secretary to the Tender Committee,
+Private Bag 0070,                         Private Bag 0070, Gaborone, Botswana
+Gaborone,                                  Tel: +267 365 0700  Fax: +267 310 5400
+Botswana                               Email: procurement@bec.co.bw
+
+                             Botswana Examinations Council
+
+
+ Botswana Examinations         TENDER           TENDER NOTICE AND
+ Council                   TENDERING P         INVITATION TO TENDER
+                        ROCEDURES                 VOLUME 1
+
+
+
+ Tender No. BEC ICT 003/19-20
+
+
+   INVITATION TO TENDER FOR THE SUPPLY, INSTALLATION AND CONFIGURATION OF
+       NEXT GENERATION FIREWALLS TO BOTSWANA EXAMINATIONS COUNCIL
+
+ Bidders are invited to submit bids for The Supply, Installation and Configuration of Next
+ Generation Firewalls to Botswana Examinations Council
+
+ This tender is reserved for 100% citizen owned companies. So only companies that are fully directed
+ and owned by Botswana citizens can submit their bids.
+
+ Bidders must, in order to be considered for the award of the contract, be registered with PPADB with
+ Registration  Certificate under Code 120 (ICT Technical Support), Sub-Code 05 (Network
+ Management and Maintenance Services) or Sub Code 06 (ICT Security Management and
+ Maintenance Services); be registered with BURS and be in possession of a valid Tax Clearance
+ Certificate and have an appropriate license.
+
+Tender documents will be available with effect from Monday 29th July 2019 and can be bought from the
+Procurement Office of the Botswana Examinations Council at the following addresses:
+
+       Postal Address                             Physical Address
+
+      Botswana Examinations Council           Botswana Examinations Council
+        Private Bag 0070                             Plot 54864, KT Motsete Road
+      Gaborone.                             Gaborone.
+
+       Contact Name: Ms. T. Chifani
+      Telephone Number:  365 0700
+      Fax :  (+267) 393 3872, Email : procurement@bec.co.bw
+
+
+NOTE:
+
+All companies are required to make their own arrangements for collection of the bid documents
+as well as submission of tender responses.
+
+A one-envelope procedure will be followed.
+
+A non-refundable and non-transferable fee of P500.00 shall be paid during tender collection.
+If the company is owned by youth it shall pay a non-refundable and non-transferable fee of
+P250.00 during tender collection. Bids must be submitted using the one envelope system;
+one (1) original and four (4) copies plus a soft copy in a Recordable DVD-R (DVR-R),
+respectively labeled with the tender number and title. The envelopes should be sealed and
+placed in a third outer and larger envelope. This envelope should be sealed and labeled as
+follows; TENDER NO: BEC  ICT  003/19-20: THE SUPPLY, INSTALLATION AND
+CONFIGURATION  OF  NEXT  GENERATION  FIREWALLS  TO  BOTSWANA
+EXAMINATIONS COUNCIL.
+
+Bidders not able to pay at BEC Cashier counter may deposit document fees in the BEC
+account and provide proof of payment for collection of the bid document. Documents will
+however be issued after confirmation with BEC Finance Division that funds have indeed been
+received in the BEC Account. BEC Account Details are as follows:
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    2
+
+                             Botswana Examinations Council
+
+
+
+      Account Name: BEC
+      Account Number: 6222 132 9940
+      Branch Name: Corporate
+      Branch Code: 282267
+        Swift Code: FIRNBWGX
+
+Bids must arrive not later than 10:00am (local time) on Friday 23rd August 2019.  Bids
+received after the closing date and time will NOT be accepted. Telephonic, telegraphic, telex
+or facsimile bids will NOT be accepted.
+
+Sealed bids should be delivered to the following address
+
+The Secretary; Tender Committee
+Botswana Examinations Council
+Plot 54864, KT Motsete Road; Gaborone.
+
+The tender document may be viewed from BEC website: www.bec.co.bw. Bidders are advised
+that this document is for viewing purposes only. Bid responses will only be accepted from
+bidders who bought and collected the document from BEC.
+
+Responses that do not have the required number of envelopes will be disqualified
+
+Bidders who are awarded the tender should by no means pass it to other parties to
+undertake the project.
+
+
+Queries and questions relating to the issue of these documents will be accepted up to 5
+working days before tender closing date. The queries or questions should be in writing and
+should be addressed to:
+
+The Secretary Att: Ms. T. Chifani      Tel: 3650700
+Tender Committee; Botswana Examinations Council
+Private Bag 0070; Gaborone; Botswana.
+Fax:   (+267) 393 3872
+Email: procurement@bec.co.bw
+
+Bids must arrive no later than 10:00 am (local time) on Friday 23rd August 2019. The tenders
+will be opened in the presence of bidders wishing to attend immediately after opening in BEC
+premises.  Bids received after the closing date and time will not be accepted.  Telephonic,
+Telegraphic, Telex, Email or Facsimile bids will not be accepted.
+
+N.B.  The selected bidder shall begin work immediately and deliver the Next Generation
+Firewalls to Botswana Examinations Council within 1 month of being given a purchase order.
+
+      Important Dates:
+
+      Tender Collection: From 29th July 2019
+      Tender Closing: 23rd August 2019
+
+Botswana Examinations Council is not bound to accept the lowest or any bid, or bear any
+expense in the preparation thereof. The Botswana Examinations Council also reserves the
+right to award the tender in full or in parts.
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    3
+
+                             Botswana Examinations Council
+
+
+
+                           Tender Committee Secretary
+                        For/Botswana Examinations Council
+
+ Botswana Examinations
+ Council                       TENDER              TENDER DATA
+                       TENDERING PROCEDURE          VOLUME 1
+
+
+BEC ICT 003/19-20: The Supply, Installation and Configuration of Next Generation
+Firewalls to Botswana Examinations Council
+
+The conditions of tender are contained in this document.
+
+1.1   The Procuring Organization is the Botswana Examinations Council.
+1.2   The tender documents issued by the Procuring Organization comprise:
+
+Three volume approach:
+
+VOLUME 1:   TENDERING PROCEDURES
+
+            Tender Notice & Invitation to Tender
+            Tender Data
+
+VOLUME 2:   RETURNABLE DOCUMENTS
+
+VOLUME 3:   THE CONTRACT
+
+              Part 1 - Agreements & Contract Data
+
+           Forms of Securities
+
+              Part 2 - Pricing Data
+
+               Pricing Instructions
+
+Part 3 - Scope of Work
+
+1.3     All bidders are required to submit the following:
+
+a) 1 original, 4 copies and a DVD-R of the proposal.
+b) PPADB Registration Certificate under Code 120 (ICT Technical Support), Sub-Code
+   05 (Network Management and Maintenance Services) or Sub Code 06 (ICT Security
+   Management and Maintenance Services);
+c) A valid copy of a Tax Clearance Certificate (Provide Pin & Certificate Number for on-line
+    verification);
+d) Completed Form of Declaration by Directors and Shareholders for Tendering Purposes;
+e) Submission of Form from Companies and Intellectual Properties Authority (CIPA) showing
+   company Shareholders and certified Copies of Share Certificates;
+               Publicly  listed  companies may  submit  certificates  of  their  controlling
+              shareholders only;
+            NB: Where the shareholder is a company, the individual shareholders of the
+           company in question must be submitted. E.g. if ABC (Pty) Ltd submits a tender
+            and one of its shareholders is EFG (Pty) Ltd, the shareholders in EFG should
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    4
+
+                             Botswana Examinations Council
+
+
+
+            be submitted and so on until the shareholders submitted bears the names of
+                individuals.
+f)  Forms from Companies and Intellectual Property Authority (CIPA) showing the Company
+    Directors.
+g) A letter of commitment from the distributor/ vendor of proposed Next Generation Firewall
+    to supply the bidder with the Next Generation Firewall if the bidder is awarded the contract
+    to supply.
+h) A letter or certificate from the Next Generation Firewall vendor/manufacturer proofing that
+    the bidder is a recognized partner of the vendor.
+i)  Proof  that the bidding company  is 100%  citizen owned  i.e.  All  its Directors and
+   Shareholders are Botswana Citizens.
+j)  Completed Form of Offer and Acceptance
+
+
+
+NB:    1. The tender response must be made in English.
+        2. Delivery shall be made to Botswana Examinations Council Plot 54864, KT
+         Motsete Road, Gaborone
+
+     A one-envelope procedure will be followed.
+
+
+1.4    All bidders are required to provide the pricing schedule in the format provided in
+    CONTRACT PART 2, Pricing Data. Bidders must also provide a detailed breakdown
+       of the cost covering all components of the project as stated in CONTRACT PART 3,
+      Bidders should note that the total cost of the project should not include any variable
+     components based on exchange rates, inflation, etc. Where disbursements are based
+     on actual expenditure, bidders should estimate the maximum expected costs, which will
+     be reimbursed based on actual expenditure incurred.
+
+      Bidders should quote in Botswana Pula or currency of the country of their origin or any
+       convertible currency.
+
+        All the quoted prices must include VAT, withholding Tax or any other taxes in accordance
+       with the tax laws of Botswana.
+
+      The validity period for the quoted prices must be at least 120 days from the closing date
+        of the tender.
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    5
+
+                             Botswana Examinations Council
+
+
+
+BACKGROUND
+
+BEC is a semi-autonomous body created by the Botswana Examinations Council Act No. 11
+of 2002. The Council is mandated to apply the provisions of the Act in a manner which
+promotes efficient provision of examinations services throughout the country. The Act is
+available from the Government Printer in Gaborone.
+
+BEC is committed to the use of technology to achieve its objectives, and this has resulted in
+an increased reliance on Information and Communication Technology. This means  it is
+continuously exposed to potential susceptibility to information security  risks. Thus, the
+procurement and implementation of a Next Generation Firewall will assist BEC to reduce the
+risk of exposure to such information security risks.
+
+
+SCOPE
+
+The purpose of this Request for Quotation (RFQ) is to solicit suitable companies that are
+recognized partners of firewall vendors to supply, install and configure two (2) Next Generation
+Firewall (NGFW) with 3-year vendor support services for firmware /software updates, technical
+support and equipment warranty for each firewall to Botswana Examination Council (BEC).
+
+TECHNICAL SPECIFICATIONS
+
+BEC therefore requests for proposals from appropriate companies for the supply, installation
+and configuration of NGFWs to help protect it against various information security threats. The
+detailed specifications of the required NGFW are outlined in the table 1 below:
+
+Table 1. Detailed Specifications of Next Generation Firewalls
+
+ Item  Quantity  Description                                         State Specification
+ No.                                                                    of your proposed
+                                                                               firewall
+ 1.0   2        Next Generation Firewall devices with
+                   specifications, features and capabilities outlined in
+                items 1.a to 1.v below
+   1.a              Firewall
+   1.b               Identity Awareness
+   1.c            IPsec VPN
+   1.d              Intrusion Prevention Service (IPS)
+   1.e              Application Control
+    1.f          Web/URL filtering
+   1.g              Antivirus
+   1.h            Anti-spam and email security
+    1.i              Anti-Bot
+    1.j            Threat Extraction
+   1.k            Zero-day threat prevention
+    1.l            Threat Emulation
+  1.m             Security Power: At least 250
+   1.n              Firewall Throughput: At least 2.1Gbps
+   1.o           IPS Throughput: At least 460Mbps
+   1.p        NGFW Throughput: At least 260Mbps
+   1.q            Threat Prevention Throughput: At least 160Mbps
+    1.r          Management Port: At least one (1) 10/100/1000Base-T
+               RJ45 port
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    6
+
+                             Botswana Examinations Council
+
+
+
+ Item  Quantity  Description                                         State Specification
+ No.                                                                    of your proposed
+                                                                               firewall
+   1.s             At least five (5) 10/100/1000Base-T RJ45 ports
+    1.t             At least two (2) USB ports
+   1.u             At least one (1) RJ45/micro USB console port
+   1.v             Storage: At least 240GB hard disk drive
+ 2.0           End of Support date for proposed firewall must, if
+                  already published by vendor, be at least 4 years away
+                 from due date of submission of bids. If such a date is
+                   not yet published please provide information from the
+                 vendor showing that such information is not yet
+                   published. You should submit a document from the
+               vendor showing this information.
+ 3.0           End of Sale date for proposed firewall must, if
+                  published by vendor, be at least 4 years away from due
+                  date of submission of bids. If such a date is not yet
+                  published yet please provide information from the
+                 vendor showing that such information is not yet
+                   published. You should submit a document from the
+               vendor showing this information.
+ 4.0   2        Support and Subscriptions for three (3) years. This
+                support should include firmware or operating
+               system updates and upgrades, technical support
+              and faulty hardware replacement. The
+                 subscriptions should include Intrusion Prevention
+                  Service, Anti-Virus, Anti Bot, Ant SPAM and related
+                  subscriptions.
+ 5.0   2          Installation and Configuration services. These
+                   firewalls will need to be configured as the ones
+                  currently being used are configured, with slight
+                 modifications where necessary. Briefly state how
+               you will install and configure the firewalls.
+ 6.0   1         Training of three (3) firewall administrators on
+              management of supplied firewall. Briefly state the
+                   training you will offer i.e. name of course, number
+                  of people to be trained, cost of training and name of
+                    city where training will be conducted.
+
+
+NOTE:
+The bidder must state the specifications of their proposed Next Generation Firewalls against
+the BEC specification requirement to enable evaluators to make a meaningful comparison.
+The bidder must also state the brand, make and model of the proposed Next Generation
+Firewall as well as the warranty period.
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    7
+
+                             Botswana Examinations Council
+
+
+
+BEC ICT 003/19-20: The Supply, Installation and Configuration of Next Generation
+Firewalls to Botswana Examinations Council
+            .
+
+      Tender Secretary, Botswana Examinations Council
+        Plot 54864, KT Motsete Road, Gaborone.
+
+1.5    Bids should be submitted according to the Instructions to Bidders.  Important points
+       are repeated as follows.
+       •  The bid document must be prepared  in  indelible  ink.     It  shall contain no
+            interlineations or overwriting, except as necessary to correct errors made by the
+           bidder. Any such corrections must be initialed by the person or persons who sign
+           the bid.
+
+       •   All  copies must be  signed  in  ink by an  authorized employee,  agent  or
+           representative of the bidder.
+
+       •  For each bid, the bidders shall prepare the number of copies indicated in the
+           Instructions to bidders. The original bid should be marked ORIGINAL; all other
+          copies should be marked COPY.  If there are discrepancies between the original
+         and any of the copies, the original will be assumed to be correct and shall bear the
+          submission address.
+
+       •  The original, four (4) copies and re-writable DVDs of each of the bid clearly
+        marked  – BEC  ICT  003/19-20: THE  SUPPLY,  INSTALLATION AND
+        CONFIGURATION OF NEXT GENERATION FIREWALLS TO BOTSWANA
+        EXAMINATIONS COUNCIL and shall bear the submission address.
+
+       •  Bids must arrive no later than 10:00 am (local time) on Friday 23rd August 2019.
+        The outer envelope should have the  original, four  (4) copies and two  (2)
+         Recordable DVD (DVR-R) of the bids. These shall be placed in a sealed larger
+          envelope/container clearly marked;
+       BEC ICT 003/19-20: THE SUPPLY, INSTALLATION AND CONFIGURATION
+       OF NEXT GENERATION FIREWALLS TO BOTSWANA EXAMINATIONS
+        COUNCIL
+                  .
+
+       •  Bids will be opened immediately, and bidders may be present if they wish. Bids
+          received after the closing date and time will not be accepted. Email or Facsimile
+           bids will not be accepted.
+
+       •  Immediately after the deadline for the submission of bids, bids of all the tenderers
+              will be opened.
+
+1.6    This tender is reserved for 100% Citizen Owned Companies.
+
+1.7   The closing time for submission of tender offers is: 10.00 am on Friday 23rd August
+       2019.
+
+1.8    Telephonic, telegraphic, telex, email or facsimile tender offers will not be accepted
+
+1.9   The tender validity period is at least 120 days from the closing date of the tender
+
+1.10  The time and location for opening of the tender offers is:
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    8
+
+                             Botswana Examinations Council
+
+
+
+       10:00 am on Friday 23rd August 2019
+
+       Location:     Botswana Examinations Council
+                       Plot 54864; KT Motsete Road; Gaborone.
+
+1.11.  The procedure for evaluation of responsive tender offers is:
+
+       Method 1: Least Cost Evaluation Method
+
+
+The Evaluation Process
+
+
+The Tender Evaluation Committee (TEC)  will be constituted to evaluate the bids.  The
+evaluation to be adopted by the Evaluation Committee will be as follows:
+
+1   In Stage 1 of the evaluation process the bids will be scrutinized against the Disqualification
+    clause given in 1.12.
+
+2  The qualifying bids after Stage 1 will go through to Stage 2 of the evaluation process as
+    described in 1.13.
+
+3  The bids of the short listed bidders after Stage 2 of the evaluation process will be
+    evaluated as stated in Stage 3 of the evaluation process as described in 1.14.
+
+4  The project  will be provisionally awarded to the lowest compliant bidder subject to
+    successful negotiation of the contract.
+
+5  The successful Bidder  will sign the agreed contract document with BEC  prior  to
+   commencement of the project.
+
+6  The successful bidder shall deliver the equipment to Botswana Examinations Council that
+    conform to specifications.
+
+
+Notes
+     •   Subject to authorization by BEC Tender Committee, further information may be
+         requested from the bidders during evaluation. Any such request will be made in
+          writing  to the bidder’s nominated representative as declared  in the Form  of
+        Response. Any such correspondence will be for purposes of clarification only and
+            will in no way be indicative of any preference towards any bidder or bid.
+     •    All important information required for the project shall be included in the bid, so that
+          at contract negotiation stage there are no major issues that could call for the change
+          of award.
+     •   Please include Table of Contents in your bid.
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    9
+
+                             Botswana Examinations Council
+
+
+
+ 1.12 Disqualification at Stage 1
+
+ A bidder whose bid does not meet the following requirements will be disqualified during the
+  first scrutiny at Stage1. In the case of a consortium or joint venture, the companies shall be
+ evaluated individually for compliance with the listed requirements.
+
+Bidders must submit all the following;
+
+a) PPADB Registration Certificate under Code 120 (ICT Technical Support), Sub-Code
+   05 (Network Management and Maintenance Services) or Sub Code 06 (ICT Security
+   Management and Maintenance Services);
+b) A valid copy of a Tax Clearance Certificate (Provide Pin & Certificate Number for on-line
+    verification);
+c) Completed Form of Declaration by Directors and Shareholders for Tendering Purposes;
+d) Submission of Form from Companies and Intellectual Properties Authority (CIPA) showing
+   company Shareholders and Certified Copies of Share Certificates;
+               Publicly  listed  companies may  submit  certificates  of  their  controlling
+              shareholders only;
+            NB: Where the shareholder is a company, the individual shareholders of the
+           company in question must be submitted. E.g. if ABC (Pty) Ltd submits a tender
+            and one of its shareholders is EFG (Pty) Ltd, the shareholders in EFG should
+            be submitted and so on until the shareholders submitted bears the names of
+                individuals.
+e) Forms from Companies and Intellectual Property Authority (CIPA) showing the Company
+    Directors.
+f)  A letter of commitment from the distributor/ vendor of proposed Next Generation Firewall
+    to supply the bidder with the Next Generation Firewall if the bidder is awarded the contract
+    to supply.
+g) A letter or certificate from the Next Generation Firewall vendor/manufacturer that proofs
+    that the bidder is a recognized partner of the vendor.
+h)  Proof  that the bidding company  is 100%  citizen owned  i.e.  All  its Directors and
+   Shareholders are Botswana Citizens.
+i)  Completed Form of Offer and Acceptance
+
+
+
+   Should a bidder fail to submit items a) to h) on the first instance, they will be
+    requested to resubmit the missing item(s) through email and they will be given a
+   minimum of 2 days or a maximum of 5 days to submit. Should the bidder fail to
+    submit within the required time, they will be disqualified from further evaluation.
+
+    Failure to submit the Completed and Signed Form of Offer and Acceptance,  i)
+    above, will lead to outright disqualification.
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    10
+
+                             Botswana Examinations Council
+
+
+
+1.13 Evaluation of Bids at Stage 2
+
+A technical evaluation shall be made to determine the technical compliance with the
+specifications or scope of supplies in the bid document. Only bids that have passed in terms
+at stage one shall undergo technical evaluation.
+
+At this stage, bidders must provide the required specification or better. Failure to meet one or more
+specification will lead to the bidder not proceeding to the second stage of Technical Evaluation.
+
+   A. Technical evaluation – Stage 2
+
+      The following table shows the criteria which will be used. Bidders must fully comply
+       with the requirements by stating their specifications, thus bidder specifications must be
+       the same or better than the required specifications as described by BEC. Consortiums
+            / Joint Ventures will be assed as one (not individually). Failure to meet one or more
+        specification will lead to the bidder not proceeding to the second stage of Technical
+       Evaluation. Bidders must indicate the brand and model or make of the offer being
+      made.
+
+      NB: Bidders are required to state their specification offer in full failing which
+        they’ll be disqualified. Stating such words as “comply” or any related words will
+      not be accepted.
+
+Table 2: Technical Evaluation Criteria
+
+ Item  Qty  Description                  Bidder’s        Does Bidder’s
+ No.                                       Specifications    Specifications?
+                                                    Meet Requirements
+                                                           (Yes/No)
+ 1.0   2    Next Generation Firewall
+            devices with specifications,
+             features and capabilities
+             outlined in items 1.a to 1.v
+           below
+   1.a        Firewall
+   1.b         Identity Awareness
+   1.c       IPsec VPN
+   1.d         Intrusion Prevention Service
+              (IPS)
+   1.e        Application Control
+    1.f      Web/URL filtering
+   1.g         Antivirus
+   1.h       Anti-spam and email security
+    1.i        Anti-Bot
+    1.j        Threat Extraction
+   1.k       Zero-day threat prevention
+    1.l        Threat Emulation
+  1.m        Security Power: At least 250
+   1.n        Firewall Throughput: At least
+           2.1Gbps
+   1.o       IPS Throughput: At least
+           460Mbps
+   1.p     NGFW Throughput: At least
+           260Mbps
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    11
+
+                            Botswana Examinations Council
+
+
+
+Item  Qty  Description                  Bidder’s        Does Bidder’s
+ No.                                      Specifications    Specifications?
+                                                   Meet
+                                                       Requirements(Yes/No)
+ 1.q        Threat Prevention Throughput:
+            At least 160Mbps
+
+
+
+
+  1.r      Management Port: At least
+          one (1) 10/100/1000Base-T
+          RJ45 port
+  1.s        At least five (5)
+           10/100/1000Base-T RJ45
+             ports
+   1.t        At least two (2) USB ports
+ 1.u        At least one (1) RJ45/micro
+        USB console port
+  1.v        Storage: At least 240GB hard
+             disk drive
+2.0       End of Support date for
+           proposed firewall must, if
+            already published by vendor,
+          be at least 4 years away from
+          due date of submission of
+              bids. If such a date is not yet
+            published please provide
+             information from the vendor
+           showing that such information
+                is not yet published. You
+          should submit a document
+          from the vendor showing
+             this information.
+3.0       End of Sale date for proposed
+               firewall must, if published by
+            vendor, be at least 4 years
+          away from due date of
+           submission of bids. If such a
+            date is not yet published yet
+            please provide information
+           from the vendor showing that
+           such information is not yet
+             published. You should
+          submit a document from the
+          vendor showing this
+            information.
+4.0   2    Support and Subscriptions
+             for three (3) years. This
+           support should include
+           firmware or operating
+          system updates and
+           upgrades, technical support
+          and faulty hardware
+           replacement. The
+
+
+    The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                   12
+
+                             Botswana Examinations Council
+
+
+
+            subscriptions should
+            include Intrusion Prevention
+             Service, Anti-Virus, Anti Bot,
+           Ant SPAM and related
+             subscriptions.
+ 5.0   2     Installation and
+            Configuration services.
+           These firewalls will need to
+           be configured as the ones
+             currently being used are
+             configured, with slight
+            modifications where
+            necessary. Briefly state how
+           you will install and configure
+            the firewalls.
+ 6.0   1    Training of three (3) firewall
+             administrators on
+          management of supplied
+               firewall. Briefly state the
+              training you will offer i.e.
+         name of course, number of
+            people to be trained, cost of
+              training and name of city
+           where training will be
+            conducted.
+ 7.0   TECHNICAL EVALUATION RESULT
+      (COMPLIANT/NOT COMPLIANT):
+
+
+Bidders should respond to the above requirements in full to guide evaluators in
+allocating results for stage 2 evaluation.
+
+For a bidder to pass the Technical Evaluation stage,  it must attain a Technical Evaluation
+Result of “COMPLIANT” at item 7.0 of Table 2 above.  For a bidder to attain a Technical
+Evaluation Result of “Compliant” it must attain a “Yes” in all items and sub-items from 1.0 to
+6.0 under the “Does Bidder Specifications Meet Requirements” column in table 2, above.
+Only bidders who attain a Technical Evaluation Result of “Compliant” will proceed to the next
+stage of evaluation.
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    13
+
+                             Botswana Examinations Council
+
+
+
+
+1.14   Evaluation of Bids at Stage 3
+
+
+Cost Evaluation and Comparison
+
+Note: If no charges the bidder shall indicate Not Applicable or N / A
+
+Bidders should price in ink, bidders that do not comply with pricing format will be
+eliminated from evaluation.
+
+
+Only technically compliant bids that have attained a Technical Evaluation Result of
+“Compliant” shall undergo cost evaluation.
+
+Arithmetic errors will be corrected, and bids will be converted to a common currency. Should
+there be discrepancy between the Unit Price and the Total Price, the Unit Price shall be used.
+Should there be discrepancy between the amount in figures and the amount in words, the
+amount in words will be used.
+
+Bids will be ranked in order of their prices after correction of any arithmetic errors.
+
+The Citizen Empowerment Policy will be applied where:
+•  The EDD policy will also be applied. Bidders must submit their EDD certificates for this
+   preference to be applied to them.
+•  The Local Empowerment Policy will also be applied and bidders must submit evidence for
+    the policy to be applied.
+
+The lowest priced bidder, after applying all the policies, will be recommended for the award to
+BEC Tender Committee subject to an agreed contract. If the contract negotiations fail, then
+the next preferred supplier will be engaged for contract negotiations and recommended for the
+award.
+
+
+TENDER ACCEPTANCE
+
+Notwithstanding anything contained  in any  of these tender documents, the Botswana
+Examinations Council is not bound to accept the lowest or any tender nor incur any expenses
+in the preparation thereof. Selection of suppliers will not solely base on the lowest price. There
+are other factors to be considered e.g. quality, lead-time and acceptance of technical
+information etc. Botswana Examinations Council reserves the right not to accept the lowest or
+any tender.
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    14
+
+                             Botswana Examinations Council
+
+
+
+ Botswana Examinations           TENDER            LIST OF RETURNABLE
+ Council                                          DOCUMENTS
+                     RETURNABLE DOCUMENTS
+                                                            Volume 2
+
+
+
+BEC ICT 003/19-20: THE SUPPLY, INSTALLATION AND CONFIGURATION OF NEXT
+GENERATION FIREWALLS TO BOTSWANA EXAMINATIONS COUNCIL
+
+The bidder must complete the following returnable documents:
+
+1.  Returnable Documents required for tender evaluation purposes
+
+    •   Certificate for authority of signatory
+    •  Record of addenda to tender documents
+    •   Detailed Response to Requirements specified in the CONTRACT PART 3
+    •  Response form
+    •   Quality plan
+    •  Experience of the bidder
+    •  Risk management plan
+    •   All certified copies of documents and conditions specified in (1.3)
+    •  Form of Declaration for Tendering Purposes
+
+2.  Other Documents required for tender evaluation purposes
+    •  Copy of a Tax Clearance Certificate for Botswana Registered Companies or
+
+      exemption certificate thereof from BURS;
+    •  PPADB Registration Certificate;
+    •   Certified copies of Share Certificates;
+    •   Certified copies of forms from CIPA showing list of Directors.
+    •  Completed Form of Offer and Acceptance
+    •  A letter of commitment from the distributor/ vendor of proposed Next Generation
+        Firewall to supply the bidder with the Next Generation Firewall if the bidder is awarded
+       the contract to supply.
+    •  A letter or certificate from the Next Generation Firewall vendor/manufacturer that
+       proofs that the bidder is a recognized partner of the vendor.
+    •  Proof that the bidding company is 100% citizen owned  i.e. All  its Directors and
+       Shareholders are Botswana Citizens.
+
+
+3.  Returnable Documents that will be incorporated into the contract
+
+       •  Response form;
+       •   Quality plan;
+       •   Detailed Response to all other Requirements specified in the contract part 3;
+       •  Form of Offer & Acceptance;
+       •  Curriculum vitae of key personnel;
+       •  Management plan;
+       •  Form of Declaration by Directors & Shareholders.
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    15
+
+                             Botswana Examinations Council
+
+
+
+
+
+Parts of each tender offer communicated on paper shall be submitted as an original, plus four
+(4)  duplicate copies and 2  re-writable DVDs; Each copy must contain the  following
+RESPONSE FORM
+
+
+ Bidder’s Name
+
+ Company Registration Number
+
+ Vat Number ( if applicable)
+
+ Country of Registration
+
+ Year of Establishment
+
+ Physical Address
+
+ Postal Address (if different)
+
+ Telephone Number
+
+ Mobile Number
+
+ Fax Number
+
+ Email and URL
+
+ Contact Address in Botswana (If
+  applicable)
+
+ Project Title
+
+ Tender No.
+
+ Designated Authorized            Name:
+  Representative for this Project
+                                          Position:
+
+                                          Qualifications:
+
+                                          Tel:
+
+                                     Fax:
+
+                                      Email:
+
+ Project Referees                  1
+ (see CONTRACT PART 3, Scope of
+                                2
+ Work, 8.1.5)
+                                3
+
+ Signed:
+ Bidder’s Authorized Representative
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    16
+
+                             Botswana Examinations Council
+
+
+
+                                                      TENDER
+ Botswana Examinations Council         TENDER               SCHEDULES
+
+                        RETURNABLE DOCUMENTS     CERTIFICATE OF
+                                                    AUTHORITY OF
+                                                      SIGNATORY
+
+BEC ICT 003/19-20: THE SUPPLY, INSTALLATION AND CONFIGURATION OF NEXT
+GENERATION FIREWALLS TO BOTSWANA EXAMINATIONS COUNCIL
+
+
+Indicate the status of the bidder by ticking the appropriate box hereunder. The bidder
+must complete the certificate set out below for the relevant category.
+
+
+       A            B             C               D
+   COMPANY    PARTNERSHIP    JOINT VENTURE     SOLE PROPRIETOR
+
+
+
+
+
+A. Certificate for company
+
+     I,                                                                                       ,  chairperson  of  the board  of
+
+   directors of                                        hereby confirm that by resolution
+
+   of the board taken on                20                  , Mr./Ms.
+
+                       , acting in the capacity of
+
+  was authorized to sign all documents in connection with this tender offer and any contract
+
+   resulting from it on behalf of the company.
+
+
+As witnesses:-
+
+
+      1.
+                                                        Chairman
+
+      2.
+                                                          Date
+
+
+
+
+
+B.   Certificate for Partnership
+
+     We, the undersigned, being the key partners in the business trading as
+
+             hereby authorize Mr./ Ms.                                         acting   in
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    17
+
+                             Botswana Examinations Council
+
+
+
+       the capacity of                                                to sign all documents in
+
+       connection with the tender offer for Contract
+
+      and any contract resulting from it on our behalf.
+
+
+    NAME         ADDRESS     SIGNATURE   DATE
+
+
+
+
+
+NOTE:  This certificate is to be completed and signed by all of the partners. Attach additional
+       pages if more space is required.
+
+
+C.   Certificate for Joint Venture
+
+    We, the undersigned, are submitting this tender offer in Joint Venture and hereby
+
+      authorize Mr./Ms.                                         an authorized
+
+      signatory of the company                                                                    , acting in the
+
+      capacity of lead partner, to sign all documents in connection with the tender offer for
+
+     Contract                        and any contract resulting from it on our behalf.
+
+
+     This authorization is evidenced by the attached power of attorney signed by legally
+
+     authorized signatories of all the partners to the Joint Venture. Furthermore, we attach
+
+      to this Schedule a copy of the joint venture agreement which incorporates a statement
+
+      that all partners are liable jointly and severally for the execution of the contract and that
+
+     the lead partner is authorized to incur liabilities, receive instructions and payments and
+
+     be responsible for the entire execution of the contract for and on behalf of any and all
+
+     the partners.
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    18
+
+                             Botswana Examinations Council
+
+
+
+    NAME OF FIRM          ADDRESS          AUTHORISING
+                                              SIGNATURE, NAME &
+                                             CAPACITY
+
+      Lead partner
+
+
+
+
+
+D.      Certificate for sole proprietor.
+
+         I,                                                              , hereby confirm that I am the sole owner of the
+
+     business trading as                                                                     .
+
+
+
+
+    As witnesses:-
+
+
+      1.
+                                                        Signature: Sole owner
+
+
+      2.
+                                                Date
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    19
+
+                             Botswana Examinations Council
+
+
+
+ Republic of Botswana               TENDER          DECLARATION FORM
+                       RETURNABLE DOCUMENT     FOR TENDERING
+                                                PURPOSES
+
+BEC ICT 003/19-20: THE SUPPLY, INSTALLATION AND CONFIGURATION OF NEXT
+GENERATION FIREWALLS TO BOTSWANA EXAMINATIONS COUNCIL
+
+Declaration to establish that Directors, shareholders, partners, members have not
+participated through any other bid for the same tender
+
+                           PART A
+
+I, ____________________________ (full name), in my capacity as.................................... (state
+position in Entity)
+
+hereby declare that on my behalf, and on behalf of the owners, partners / directors/ shareholders
+/administrators and/or Other (Please specify) ....................................................
+
+of:
+ .......................................................................................................................................................
+                              (name of Entity)
+
+of:
+.............................................................................................................................................
+
+...................................................................................................... (Postal/physical address)
+
+that, in connection with the enclosed tender,
+
+All information contained herein is true and not misleading, and  it is to the best of my
+knowledge factual and binding on the Entity and/or its Representatives.  I state that the  (State
+Name of Entity) .........................................................  and/or its representatives confirm that
+they have not, through other entities, participated in the same tender and offer the same
+products in response to the same items.
+
+NOTE: In the case of competing franchises, the franchises may bid for the same item but with
+different products. Item means the commodity required by the procuring entity indicated in
+the ITT. Product means the commodity offered by the bidder.
+
+I declare and confirm that the Entity and/or its Representatives have in fact not participated in
+the same tender and offered the same products in response to the same items, through any
+other registered company or other entity.    I hereby provide a current  list of Directors/
+Administrators/  Partners/ Members and/or Shareholders  for the Company/Partnership/
+Society/Joint   Venture/   Private   Foundation/Statutory  Body   and/or   other   (Please
+specify).....................................
+
+   DIRECTORS/MEMBERS/      CAPACITY     IN  NATIONALITY  PERCENTAGE OF
+   PARTNERS NAME and /OR  ENTITY                     SHAREHOLDING
+    Other                (Please
+      Specify)......................
+  1
+  2
+  3
+  4
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    20
+
+                             Botswana Examinations Council
+
+
+
+  5
+  6
+  7
+
+
+
+
+    SHAREHOLDERS NAME         NATIONALITY        PERCENTAGE
+                                              OF
+                                               SHAREHOLDING
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+
+If more space is required attach additional sheet. Note that Public companies should
+state which stock exchange the company is listed under.
+
+I  further acknowledge  that should any  of  the  directors,  partners, and  shareholders,
+members/administrators /(others please specify) be found to be associated in a similar or other
+manner in another company/entity, participating in this tender and offering the same products
+in response to the same items, this shall disqualify this Company/Partnership/ Society/Joint
+Venture/ Private Foundation/Statutory Body, and whichever company or other entity the said
+director/partner/shareholder/member and/or administrator is consequently involved in.
+
+I further acknowledge that should the Company /Partnership/ Society/Joint Venture/ Private
+Foundation/ Statutory Body or any of its affiliates or subsidiaries be found to have participated
+in the same tender and offered the same products in response to the same items, the said
+Company/Partnership/ Society/Joint Venture/ Private Foundation/Statutory Body/ (others
+please specify) and its affiliates and/or subsidiaries shall be disqualified.
+
+The Company/Partnership/ Society/Joint Venture/ Private Foundation/ Statutory Body/(others
+please specify), through its agents, employees or directors has not illegally communicated
+with any member of the procuring department or the Public Procurement and Asset Disposal
+Board, except as may be permitted in the relevant “instructions to tenderers” or by law.
+
+The Company/Partnership/ Society/Joint Venture/ Private Foundation/Statutory Body/(others
+please specify), through its agents, employees, partners, members, administrators and/or
+directors has not paid or offered to pay any consideration, favour or promise to any member
+of the procuring department or any person employed by or associated with Public Procurement
+and Asset Disposal Board (PPADB) or its Committees.
+
+I declare that this tender is submitted by us in our own right and we have not colluded in any
+way with any other /potential tenderer in the production and submission of this tender other
+than in the establishment of a joint venture or sub-contractor arrangement as fully and correctly
+declared in the tender.
+
+I acknowledge that if after the award of this tender any of these declarations are found to be
+false then any contract(s) between ourselves and the procuring department and/or PPADB
+shall be terminated forthwith and we may be barred from future tendering for government
+services and liable to possible prosecution.
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    21
+
+                             Botswana Examinations Council
+
+
+
+
+I confirm that our entity has undertaken not to collude to withdraw from a tender award, only
+for the reason that an unsuccessful bidder be awarded the tender.  I confirm further that the
+entity has undertaken not to engage in frivolous complaints and litigation that frustrates project
+implementation.
+
+
+
+   SIGNED: ............................................................. NAME: ............................................
+
+   DATED: .........................................
+
+
+      ...........................................................................................
+                                               Entity
+
+                                  Stamp
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    22
+
+                             Botswana Examinations Council
+
+
+
+PART B
+
+1. Declaration to establish Eligibility for Reservation and Price Preferences for 100% Citizen
+  Owned Contractor / Companies and other Entities.
+
+2. The declaration shall be signed by all Businesses tendering for reserved contracts and
+   contracts subject to preferences, as a condition of each tender.
+
+3. The 100% citizenship requirements for shareholders, etc. contained therein shall not
+   withstand any previous consents and practice, be pre-condition for the award of any
+   reserved tender.
+
+
+Definition
+
+4. The following definitions shall apply to this declaration:
+
+  100% Citizen Owned Contractor  / Company: a natural person or an incorporated
+  company wholly owned and controlled by persons who are citizens of Botswana.
+
+   Control: the possession and exercise of legal authority and power to manage the assets,
+   goodwill and daily operations of a business and the active and continuous exercise of
+   managerial and financial authority and power in determining the policies and directing the
+   operations of the business.
+
+  Net Amount: the financial value of the Contract at the time of the award of the Contract,
+   exclusive of sales tax which the law requires the Employer to pay to the Contractor.
+
+  Owned: Having all the customary incidents of ownership, including the right of disposition,
+  and sharing in all the risks and profits commensurate with the degree of ownership interest
+   or shareholding as demonstrated by an examination of the substance as well as the form
+   of ownership arrangements
+
+5. The company operates banking and savings accounts; the only authorized signatories are:
+
+
+i. .……………………………………………………………………………………………..
+                        (Bank Name and Name of signatory)
+
+…………………………………………………………………………………………….….
+                          (Omang No. /Passport)
+
+
+ii. .……………………………………………………………………………………………..
+                        (Bank Name and Name of signatory)
+
+…………………………………………………………………………………………….….
+                          (Omang No. /Passport)
+
+
+
+
+
+iii. .……………………………………………………………………………………………..
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    23
+
+                             Botswana Examinations Council
+
+
+
+                        (Bank Name and Name of signatory)
+
+…………………………………………………………………………………………….….
+                          (Omang No. /Passport)
+
+
+iv. .……………………………………………………………………………………………..
+                        (Bank Name and Name of signatory)
+
+…………………………………………………………………………………………….….
+                          (Omang No. /Passport)
+
+
+
+6. Undertakings
+
+The Tenderer confirms that it is a 100% Citizen owned contractor/company and undertakes to
+remain a Citizen Contractor for the duration of the Contract. The Tenderer further undertakes
+not to subcontract more than 25% of the Net Amount to non-Citizen Contractors in the
+performance of the Contract.
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    24
+
+                             Botswana Examinations Council
+
+
+
+7. Sanctions relating to reserved treatment
+
+Any changes in Ownership or Control which violate the definition of a Citizen Contractor or the
+subcontracting of more than 25% of the Net Amount of the Contract to non-Citizen Contractors
+shall be sufficient reason for the Procuring Department to terminate the Contract.
+
+
+8. All the shareholders of……………………………………………………………………..(Name
+of company) have read this declaration and agree to its contents.
+
+    a)  All the shareholders hereby give consent verification of the information provided above
+      and understand that this may include but not limited to the verification of assets,
+          liabilities, accounts, bonds and undertake to notify the competent authorities of any
+      change to the information provided in this Declaration within seven days of such
+       occurrence.
+    b)   I understand and declare that each matter here deposed to is essential for the tender
+         validity of ……………………………………………………………. (Name of company)’s
+
+NB: The Procuring Entity reserves the right to confirm the authenticity of the information
+provided above.
+
+
+THUS SIGNED AND SWORN TO BEFORE ME COMMISSIONER OF OATHS AT
+_______________________ ON THIS _______ DAY OF ___________________ 20____,
+AT ____AM / PM, THE DEPONENT HAVING ACKNOWLEDGED THAT HE KNOWS AND
+UNDERSTANDS THE CONTENTS OF THIS DECLARATION AND THAT IT IS BINDING ON
+HIS CONSCIENCE.
+
+
+                        ____________________________
+                      COMMISSIONER OF OATHS
+
+                                CAPACITY:
+
+
+
+
+
+                                           Date
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    25
+
+                             Botswana Examinations Council
+
+
+
+
+ Botswana Examinations         TENDER            TENDER SCHEDULES
+ Council
+                        RETURNABLE      RECORD OF ADDENDA TO
+                       DOCUMENTS          TENDER DOCUMENTS
+
+
+BEC ICT 003/19-20: THE SUPPLY, INSTALLATION AND CONFIGURATION OF NEXT
+GENERATION FIREWALLS TO BOTSWANA EXAMINATIONS COUNCIL
+
+
+ We confirm that the following communications received from the Procuring organization
+ before the submission of this tender offer, amending the tender documents, have been taken
+ into account in this tender offer:
+
+       Date                     Title or Details
+
+ 1.
+
+
+ 2.
+
+
+ 3.
+
+
+ 4.
+
+
+ 5.
+
+
+ 6.
+
+
+ 7.
+
+
+ 8.
+
+
+ 9.
+
+
+ 10.
+
+
+ Attach additional pages if more space is required.
+
+
+     Signed                                Date
+
+
+     Name                                   Position
+
+
+   Tenderer
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    26
+
+                             Botswana Examinations Council
+
+
+
+
+
+ Botswana Examinations           TENDER           TENDER SCHEDULES
+ Council
+                          RETURNABLE               QUALITY PLAN
+                        DOCUMENTS
+
+
+BEC ICT 003/19-20: THE SUPPLY, INSTALLATION AND CONFIGURATION OF NEXT
+GENERATION FIREWALLS TO BOTSWANA EXAMINATIONS COUNCIL
+
+
+Note to bidders:
+
+
+Please provide  details  of your  quality plan here.   Please describe the management
+arrangements for the work in this contract. You are requested to include:
+
+
+1.    An organization chart showing on-site and off-site management personnel
+
+
+2.      Details of the location (and functions) of offices from which the work will be managed.
+
+
+3.    An explanation of how you propose to allocate adequate resources for the duration of
+       the project.
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    27
+
+                             Botswana Examinations Council
+
+
+
+
+
+ Botswana Examinations           TENDER           TENDER SCHEDULES
+ Council
+                          RETURNABLE          CURRICULUM VITAE
+                        DOCUMENTS
+
+
+BEC ICT 003/19-20: THE SUPPLY, INSTALLATION AND CONFIGURATION OF NEXT
+GENERATION FIREWALLS TO BOTSWANA EXAMINATIONS COUNCIL
+
+
+
+ Name:                                             Date of Birth:
+
+ Profession:                                                 Nationality:
+
+ Current Position:                                    Years with the firm:
+ Qualification and Experience:
+
+
+
+
+
+ Education:
+
+
+
+
+
+ Professional Membership
+
+
+ Experience Record
+
+
+ Languages:
+
+ Certification:
+
+  I, the undersigned, certify that to the best of my knowledge and belief, this data correctly
+ describes me, my qualifications and my experience.
+
+
+ ____________________________________________________ Date: ___________
+ [Signature of authorized representative of the Tenderer]
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    28
+
+                             Botswana Examinations Council
+
+
+
+
+
+ Botswana Examinations           TENDER           TENDER SCHEDULES
+ Council
+                          RETURNABLE               QUALITY PLAN
+                        DOCUMENTS
+
+
+BEC ICT 003/19-20: THE SUPPLY, INSTALLATION AND CONFIGURATION OF NEXT
+GENERATION FIREWALLS TO BOTSWANA EXAMINATIONS COUNCIL
+
+ The following is a statement of similar works successfully executed by myself/ ourselves:
+
+
+
+ Employer, contact person   Description of contract    Value of work    Date
+ and telephone number.                                             completed
+
+
+
+
+
+   Signed                                Date
+
+
+   Name                                      Position
+
+
+    Bidder
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    29
+
+                             Botswana Examinations Council
+
+
+
+
+ Botswana Examinations          TENDER         TENDER SCHEDULES
+ Council
+                          RETURNABLE       MANAGEMENT PLAN
+                         DOCUMENTS
+
+
+BEC ICT 003/19-20: THE SUPPLY, INSTALLATION AND CONFIGURATION OF NEXT
+GENERATION FIREWALLS TO BOTSWANA EXAMINATIONS COUNCIL
+
+
+Note to tenderers: Please describe the management arrangements for the work in this
+contract. You are requested to include:
+4.    An organization chart showing on-site and off-site management personnel
+5.      Details of the location (and functions) of offices from which the work will be managed.
+6.    An explanation of how you propose to allocate adequate resources for the duration of
+       the project and subsequent maintenance periods.
+
+
+ Summary of items attached to this schedule:
+
+
+
+
+
+Attach additional pages as required.
+
+
+    Signed                                  Date
+
+
+   Name                                         Position
+
+
+    Tenderer
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    30
+
+                             Botswana Examinations Council
+
+
+
+
+
+Botswana Examinations Council
+                                                 CONTRACT
+                                                VOLUME 3
+
+
+BEC ICT 003/19-20: THE SUPPLY, INSTALLATION AND CONFIGURATION OF NEXT
+GENERATION FIREWALLS TO BOTSWANA EXAMINATIONS COUNCIL
+
+
+
+CONTRACT
+
+
+
+PART 1:    AGREEMENTS AND CONTRACT DATA
+
+           Form of Offer and Acceptance
+              Contract Data
+
+
+PART 2:    PRICING DATA
+
+               Pricing Instructions
+
+
+
+PART 3:    SCOPE OF WORK
+
+            Scope of work
+
+
+
+
+
+    The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                   31
+
+                             Botswana Examinations Council
+
+
+
+ Botswana Examinations       CONTRACT PART 1    FORM OF OFFER AND
+ Council                  AGREEMENTS &     ACCEPTANCE
+                       CONTRACT DATA
+
+
+BEC ICT 003/19-20: THE SUPPLY, INSTALLATION AND CONFIGURATION OF NEXT
+GENERATION FIREWALLS TO BOTSWANA EXAMINATIONS COUNCIL
+
+OFFER
+
+
+The Botswana Examinations Council, P/Bag 0070, Gaborone, has solicited offers to enter into
+a contract for the procurement of:
+
+
+The Supply, Delivery, Installation, Support and Maintenance of Optical Mark Reader (OMR)
+and Image SCANNER.
+
+The bidder, identified in the signature block below, has examined the documents listed in the
+Tender Data and addenda thereto as listed in the Tender Schedules, and by submitting this
+offer has accepted the conditions of tender.
+
+By attaching the signature of a duly authorized representative to this part of this Form of Offer
+and Acceptance, the bidder offers to perform  all of the obligations and  liabilities of the
+Contractor (or the Consultant or the Supplier as the case may be) under the Contract including
+compliance with all its terms and conditions according to their true intent and meaning for an
+amount to be determined in accordance with the Conditions of Contract identified in the
+Contract Data.
+
+ The total of the amount tendered is
+
+ _______________________________________________________________________
+
+ _______________________________________________________________________
+
+ __ Pula (in words); P______________________________ (in figures). (Not applicable
+
+ for rate only contracts).
+
+
+
+
+This Offer, of which the bidder has signed one original, may be accepted by the Procuring
+organization by signing the form of Acceptance overleaf and returning one fully executed
+original of this document including the Schedule of Deviations (if any) to the bidder before the
+end of the period of validity stated in the Tender Data, whereupon the bidder becomes the
+party named as the Contractor, (or the Consultant, Professional Service Provider, Service
+Provider or the Supplier as the case may be) in the Conditions of Contract identified in the
+Contract Data.
+
+
+
+
+
+For the tenderer:
+ Signature(s)
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    32
+
+                             Botswana Examinations Council
+
+
+
+ Name(s)
+
+ Capacity
+
+                 (Insert name and address of organization)
+
+
+ Name &
+ signature of
+ witness                                         Date
+
+
+
+
+ACCEPTANCE
+
+
+By attaching the signature of a duly authorized representative to this part of this Form of Offer
+and Acceptance, the Procuring Organization accepts the bidder’s Offer.  In consideration
+thereof, the Procuring Organization shall pay the Contractor, (or the Consultant or the Supplier
+as the case may be) the amount due in accordance with the Conditions of Contract identified
+in the Contract Data. Acceptance of the bidder’s Offer shall form an Agreement between the
+Procuring Organization and the bidder upon the terms and conditions contained in this
+Agreement and in the Contract that is the subject of this Agreement.
+
+The terms of the Contract, are contained in:
+
+Part 1 Agreements and Contract Data, (which includes this Form of Offer and Acceptance)
+Part 2 Pricing Data
+Part 3 Scope of Work
+
+and drawings and documents (or parts thereof), which may be incorporated by reference into
+the above listed Parts.
+
+Deviations from and amendments to the documents listed in the Tender Data and any
+addenda thereto listed in the Tender Schedules as well as any changes to the terms of the
+Offer agreed by the bidder and the Procuring Organization during this process of Offer and
+Acceptance, are contained in the Schedule of Deviations attached to and forming part of this
+Form of Offer and Acceptance. No amendments to or deviations from said documents are
+valid unless contained in this Schedule, which must be signed by the duly authorized
+representative(s) for both parties.
+
+The bidder shall within one week of receiving a fully executed original of this Agreement,
+including the Schedule of Deviations  (if any), contact the Procuring Organization’s agent
+(whose details are given in the Contract Data) to arrange the delivery of any securities, bonds,
+guarantees, proof of insurance and any other documentation to be provided in terms of the
+Conditions of Contract identified in the Contract Data at, or just after, the date this Agreement
+comes into effect.  Failure to fulfill any of these obligations in accordance with those terms
+shall constitute a repudiation of this Agreement.
+
+Notwithstanding anything contained herein, this Agreement comes into effect on the date
+when the bidder receives one fully executed original of this document, including the Schedule
+of Deviations (if any). Unless the bidder (now Contractor, Consultant or Supplier) within five
+days of the date of such receipt notifies the Procuring Organization in writing of any reason
+why he cannot accept the contents of this Form of Offer and Acceptance, this Agreement shall
+constitute a binding contract between the Parties.
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    33
+
+                             Botswana Examinations Council
+
+
+
+
+For the Botswana Examinations Council
+
+ Signature(s)
+
+ Name(s)
+
+ Capacity
+
+                 (Insert name and address of organization)
+
+ Name &
+ signature of
+ witness                                         Date
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    34
+
+                             Botswana Examinations Council
+
+
+
+ Botswana Examinations     CONTRACT PART 2      PRICING INSTRUCTIONS
+ Council                     PRICING DATA
+
+
+
+
+BEC ICT 003/19-20: THE SUPPLY, INSTALLATION AND CONFIGURATION OF NEXT
+GENERATION FIREWALLS TO BOTSWANA EXAMINATIONS COUNCIL
+
+
+Bidders should provide costing for each event they wish to tender for as specified in the Bid.
+The phases in the table below are intended as a guideline, and bidders are free to specify
+phases which are consistent with their Bid.
+
+
+SUMMARY PRICING SCHEDULE
+
+The quoted prices should be inclusive of 12% VAT and/or any other applicable taxes.
+
+NB: THE PRICES SHOULD BE INCLUDED IN THE BIDS PROPOSAL
+
+ ITEM   DESCRIPTION                     QUANTITY    UNIT    TOTAL
+ No.                                                  PRICE   AMOUNT
+
+
+ 1.0      Next Generation Firewall Devices          2
+
+
+
+ 2.0      Next generation Firewall Vendor Support    2
+         and Subscriptions for 3 years (Firmware
+         and Operating System Updates/ Upgrades,
+           technical support, faulty hardware
+          replacement, Anti-Virus, Anti-Bot, Anti-
+       SPAM subscriptions)
+ 3.0       Installation and Configuration Services      2
+
+ 4.0      Training of 3 firewall administrators on      3
+        management and administration of firewalls
+                                          SUB-TOTAL:
+
+                                     VAT (@ 12 % ):
+
+                                 GRAND TOTAL:
+
+
+
+
+NB: This should be included in the bids Proposal
+
+1.  All costs must include VAT (for VAT registered companies), Withholding Tax and all other
+    applicable taxes. The tax laws of Botswana will apply to the ITT and the signed contract.
+
+2.  All prices should be fixed where possible. Where a variable cost is included it should be
+   estimated as the maximum to be charged.
+
+3. Payments will be made based on actual cost incurred up to the amount stipulated in the
+    pricing schedules.
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    35
+
+                             Botswana Examinations Council
+
+
+
+4.  Tenders must be valid for a period of at least 120 days.
+
+5. Payments will be made in accordance with agreed payments schedules
+
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    36
+
+                               Botswana Examinations Council
+
+
+
+
+
+Botswana Examinations           CONTRACT PART 3            SCOPE OF
+Council                       SCOPE OF WORK               WORK:
+                                                            SUPPLIES
+                                                    CONTRACT
+
+
+ BEC ICT 003/19-20: THE SUPPLY, INSTALLATION AND CONFIGURATION OF NEXT
+ GENERATION FIREWALLS TO BOTSWANA EXAMINATIONS COUNCIL
+
+  1.     Purchaser’s objectives
+
+ SCOPE
+  The purpose of this Invitation-To Tender is to solicit suitable companies that are recognized
+  partners of firewall vendors to supply, install and configure two (2) Next Generation Firewall
+  (NGFW) with 3-year vendor support services for firmware /software updates, technical support
+  and equipment warranty for each firewall to Botswana Examination Council (BEC).
+
+
+ BEC reserves the right to award the whole tender to one bidder or in parts to different bidders.
+  The bidders are encouraged to provide quotes for all Next Generation Firewalls. BEC will give
+  contracts to bidders who are prepared to offer services required. Capability as determined by
+  the evaluation criteria in the bid document remains paramount to the final decisions of award/
+  or rejection.
+
+  1.  Project Cost:
+
+  Provide the total cost including all expenses in the delivery of Next Generation Firewalls
+  separate for each scanner as per below table. Sufficient breakdown of each element should
+  be indicated. Delivery shall be made to Botswana Examinations Council.
+  ITEM   DESCRIPTION                     QUANTITY    UNIT    TOTAL
+   No.                                                  PRICE   AMOUNT
+
+
+   1.0      Next Generation Firewall Devices          2
+
+
+
+   2.0      Next generation Firewall Vendor Support    2
+          and Subscriptions for 3 years (Firmware
+          and Operating System Updates/ Upgrades,
+             technical support, faulty hardware
+            replacement, Anti-Virus, Anti-Bot, Anti-
+        SPAM subscriptions)
+   3.0       Installation and Configuration Services      2
+
+   4.0      Training of 3 firewall administrators on      3
+          management and administration of firewalls
+                                            SUB-TOTAL:
+
+                                       VAT (@ 12 % ):
+
+                                  GRAND TOTAL:
+
+
+
+
+       The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                      37
+
+                             Botswana Examinations Council
+
+
+
+
+
+NB:   Payment will be made no later than 30 days after completion of rendering of service
+and issuance of the invoice.
+
+
+
+2.  Format and Content of Responses
+
+   Bids should be concise, to the point and address all issues raised in this Invitation to
+   Tender document. The strength of the bidder, methodology, cost and personnel proposed
+     will be key factors in the selection process. Bidders should not alter the formats given in
+    this document when submitting the bid. The forms listed under Returnable Documents
+   are to be supplied as they form part of the evaluation.
+
+    3.1  Bid
+
+    Bids must include the following items preferably in this order:
+
+     •  Response Form and supporting documents
+     •  Company Profile
+     •   All returnable documents
+     •  Any relevant information
+
+    3.1.1  Company Profile
+
+       Bidders should highlight the capability of the organisation to undertake this project and list
+      any similar assignments which have been successfully undertaken in the past. Bidders
+       should note that companies that have successfully implemented similar projects in the past
+          will have an added advantage.
+
+    3.1.2  Appendices
+
+      Documents which cannot be incorporated in the body of the bid should be assembled
+      and indexed and then included in the appendices of the bid. Bidders are free to provide
+      any further information should they wish to do so.
+
+
+    3.  Quality plans and control
+
+       Bidders are required to outline  their Quality Management and Quality Assurance
+       methodologies and how they would be implemented in relation to the project. The
+        following areas should be covered in this section:
+
+       •  How the work is going to be completed to the required standard, within the project
+           cost and on time.
+
+       •  How quality management is to be ensured during the project.
+
+
+
+------------------END OF DOCUMENT------------------
+
+
+
+
+     The Supply, Installation and Configuration of Next Generation Firewalls to Botswana Examinations Council
+                                    38

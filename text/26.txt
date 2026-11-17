@@ -1,0 +1,1434 @@
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+
+   No. HNLU/368/NIT/Firewall/2025-26       Date: 27.05.2025
+
+
+                NOTICE INVITING TENDER
+
+   SUPPLY & INSTALLATION OF SONICWALL NSa 4700 WITH 3
+     YEAR SUBSCRIPTION, WARRANTY & 24X7 SUPPORT
+                      SERVICES
+
+
+     Last Date for Submission of Tender Bid  03.06.2025 at 15:00 hours
+    Date & Time of Opening of Technical Bid  03.06.2025 at 16:00 hours
+    Venue of Opening Tender              Board Room,   II  Floor, HNLU
+                                  Campus
+    Tender Fees                            Rs. 1,000/- + 18% GST (Non-
+                                              refundable)
+
+   Account Details for Depositing EOI Fees:
+
+    Registrar, Hidayatullah National Law University
+   Bank Name: State Bank of India
+   Account No.: 00000041394244908
+   IFSC: SBIN0018097
+   Branch: Indravati Bawan, Naya Raipur (18097)
+
+
+
+
+
+                                         1
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+The offer may be submitted in TWO-BID SYSTEM (Separate Technical Bid and Financial/Price Bid),
+from the reputed and experienced firms/agencies/companies having qualified certificates and experience
+in this field for a minimum period of 03 years along with the institutional/organizational performance
+report.:
+
+ Notice Inviting Tender (NIT) No
+                               No. HNLU/368/NIT/Firewall/2025-26 Date: 27.05.2025
+ & date
+                                    Hidayatullah National Law University, Nava Raipur Atal Nagar -
+ Place of Supply
+                               493661 (C.G.)
+ Estimated Cost of Tender          Rs.10 Lakhs
+ Bid Submission Start date          27.05.2025
+ Pre-Bid Inspection / Meeting Date   29.05.2025/30.05.2025 at 12:00 Hours at University Campus
+ Last Date of Submission of Bids    03.06.2025 at 15:00 Hours
+ Date of Opening of Technical Bids   03.06.2025 at 16:00 Hours
+ Tender Fee                        Rs. 1000/- + 18% GST (non-refundable)
+                                    Earnest Money Deposit of Rs. 20,000/- (Rupees Twenty Thousand
+                                       only).
+                         ●  The Tender Fee/ EMD should be deposited through the online
+                                            portal (The online payment receipt should be submitted in the
+                                          technical e-bid) EMD exempted for MSME’s and Startups with
+ Earnest Money Deposit (EMD)                                          valid documents.
+                         ●  The EMD will be returned to unsuccessful tenderers only after
+                                         the Tenders are finalized.
+                         ●  In case of successful Tenderer,  it  will be retained  till the
+                                         successful and complete installation of the equipment
+
+ Tender Processing Fees          As applicable through online
+ Opening of Technical Bids and   Bids shall be opened online. Quality and cost-based evaluation will
+ evaluation mode                  be made based on a point system.
+                                        Registrar, Hidayatullah National Law University Nava Raipur Atal
+ Contact information               Nagar,   Raipur-493661    Phone:   +91-7587017804    Email:
+                                      registrar@hnlu.ac.in
+ Proposed date to commence the
+                                         15th June, 2025
+ operations
+
+
+If any of the above-mentioned dates are declared as a holiday / closed day, the bids will be opened on the
+next working day at the appointed time. Bids must be submitted through the eWizard portal only. A copy
+of the bid document is available on the eWizard Portal at https://hnlu.ewizard.in/ and the University
+website at www.hnlu.ac.in. Instructions for submitting online bids are available at https://hnlu.ewizard.in/.
+
+
+
+                                          2
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+Bidders are responsible for monitoring the website for any corrigendum/ amendments and for submitting
+their bid documents accordingly. Any changes to the tender documents will be reflected only on the
+website, and no additional Newspaper notification will be provided.
+
+
+
+                                                                                Registrar (I/c)
+
+
+
+
+
+                                          3
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+              PROCEDURE FOR SUBMISSION OF E-TENDER
+
+Bidders are required to submit soft copies of their bid electronically on the HNLU e-Wizard Portal using
+valid Digital Signature Certificates. The following instructions are intended to guide the bidders in
+registering on the e-Wizard Portal, preparing their bids in accordance with the requirements, and
+submitting their bids online on the HNLU e-Wizard Portal. For more information, bidders may visit the
+HNLU e-Wizard Portal https://hnlu.ewizard.in
+
+1. REGISTRATION PROCESS ON ONLINE PORTAL
+        (a) Bidders must enrol in the e-Procurement module of the portal at https://hnlu.ewizard.in by
+           clicking on the link “Bidder Enrolment” link as per portal norms.
+        (b) Bidders choose a unique username and assign a password for their accounts. Bidders are
+          advised to register their valid email addresses and mobile numbers as part of the registration
+           process. It will be used for any communication from the e-Wizard Portal.
+        (c) Bidders must provide the details of PAN and other applicable registration details and submit
+           the related documents. The user ID will be activated only after the submission of complete
+             details. After completing the registration payment, bidders can also send a copy of their
+         acknowledgment to the help desk email id ewizardhelpdesk@gmail.com to activate their
+           account.
+        (d) Bidders must ensure they register on the portal at least 1 week before the tender submission
+           date and get trained on the online tender submission process. They are advised to refer to the
+           respective manuals on the website for the tender submission and registration process. The
+           tender inviting Authority/Department will not be held responsible for any sort of delay, or the
+            difficulties faced during the online submission of bids by the bidders due to local issues like
+            internet connectivity/PC speed/etc.
+        (e) Bidders must register their valid Digital Signature Certificate (DSC: Class III Certificates with
+           signing key and encryption usage) issued by any Certifying Authority recognized by CCA
+           India with their profile upon enrolment.
+         (f) A bidder should register only one valid DSC. Bidders are responsible for ensuring they do not
+          lend their DSCs to others, as this may lead to misuse. Foreign bidders are advised to refer
+        “DSC details for Foreign Bidders” for Digital Signature requirements on the portal.
+        (g) The bidder then logs in to the site through the secured login by entering their user ID/password
+         and the password of the DSC / e-Token.
+
+2. TENDER DOCUMENT SEARCH
+        (a) The e-Wizard Portal offers various built-in options for bidders to search active tenders using
+           several parameters including Tender ID, organization, location, date, value, etc.
+        (b) The portal also provides an advanced search option for tenders, allowing bidders to combine
+           several search parameters, such as organization name, form of contract, location, date, other
+          keywords, etc., to find tenders published on the Online Portal.
+
+
+
+                                          4
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+        (c) Once the bidders have selected the tenders they are interested in, they may download the
+           required documents/tender schedules. These tenders can be moved to the ‘Interested Tenders’
+           folder enabling the Online Portal to inform the bidders through SMS/e-mail if any corrigendum
+             is issued to the tender document.
+        (d) The bidder should note the unique Tender ID assigned to each tender in case they need to
+           obtain any clarification or assistance from the Helpdesk.
+
+3. BID PREPARATION
+        (a) Bidders should review any corrigendum published on the tender document before submitting
+            their bids.
+        (b) Please read the tender advertisement and the tender document carefully to understand the
+         documents that must be submitted as part of the bid.
+        (c) Please note the number of covers in which the bid documents must be submitted, as well as the
+         number of documents required, including the names and content of each document. Any
+           deviations from these requirements may lead to rejection of the bid.
+        (d) The bidder should prepare the bid documents to be submitted as indicated in the tender
+          document/schedule in advance. These documents can generally be in PDF/XLS/PNG, etc.
+           formats.
+        (e) The bidder / tenderer or his authorized representative has to sign on every page of bid document
+          with seal of firm/ agency.
+
+4. BID SUBMISSION
+        (a) The bidder must log into the site well before the bid submission to ensure that they can upload
+           the bid on time, i.e., on or before the bid submission time. Bidder will be responsible for any
+          delay due to other issues.
+        (b) The bidder must digitally sign and upload the required documents one by one as indicated in
+           the tender document.
+        (c) Bidders must make the required payments (Form fee, EMD, tender processing fee, etc.) as
+          mentioned, before submitting the bid.
+        (d) The bidder must select the payment option mode as specified in the Schedule (EMD/FORM
+        FEE Section) to pay the form fee/ EMD, wherever applicable, and enter details of the
+           instrument.
+        (e) The tender document includes a standard BoQ format that all bidders must fill in. Bidders
+          should submit their financial bids in the prescribed format, as no other format is acceptable.
+         (f) The server time (displayed on the bidders’ dashboard) will be considered the standard time for
+           referencing deadlines for submitting bids, opening bids, etc. The bidder should follow this time
+          during bid submission.
+
+
+
+
+
+                                          5
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+        (g) All the documents being submitted by the bidders will be encrypted using PKI encryption
+           techniques to ensure the secrecy of the data, preventing unauthorized persons from viewing
+           the documents until the time of bid opening.
+        (h) The uploaded tender documents will become readable only after the authorized bid openers
+          have opened the tender.
+          (i) Upon the successful and timely submission of bids, the portal will display a successful bid
+          submission message & a bid summary will be displayed with the bid no., the date & time of
+          submission of the bid and all other relevant details.
+          (j) Please ensure that all relevant documents are downloaded / compiled in a single PDF file.
+        (k) Off-line tenders will not be accepted, and no requests in this regard will be entertained.
+
+5. AMENDMENT OF BID DOCUMENT
+   At any time prior to the tender submission deadline, the University reserves the right to add/ modify/
+    delete any portion of this document by issuing a Corrigendum. The corrigendum will be published on
+    the website and made available to all the Bidders who have been issued the tender document. It shall
+   be binding on all bidders and form part of the bid.
+
+6. INSTRUCTION TO BIDDERS
+        (a) The process for Bid submission through the HNLU eWizard portal is explained in the Bidder
+          Manual. Bidders are requested to download the Bidder Manual from the website's home page
+            (https://hnlu.ewizard.in). The steps are as follows:
+
+                     Home page → Downloads → Bidder Manuals
+
+        (b) The tenders will be received online through the portal https://hnlu.ewizard.in. In the Technical
+           Bids, the bidders must upload all the documents in .pdf format.
+        (c) Possession of a Valid Class III Digital Signature Certificate (DSC) in the form of a smart card
+           or e-Token is a prerequisite for registration and participation in the bid submission activities
+          through https://hnlu.ewizard.in. Digital Signature Certificates can be obtained from authorized
+            certifying agencies, details of which are available on the website https://hnlu.ewizard.in under
+           the link ‘DSC help.’
+        (d) Tenderers are advised to follow the instructions provided in the `User Guide and FAQ’ for the
+          e-submission of the bids online through the HNLU e-Wizard Portal for eProcurement at
+            https://hnlu.ewizard.in.
+        (e) The bidder has to “Request the tender” to the portal before the “Date for Request tender
+         document” to participate in bid submission.
+
+7.  All entries in the tender should be entered in the online Technical & Commercial Formats without any
+   ambiguity.
+
+
+
+
+                                          6
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+8. The tender document, which contain the eligibility criteria, scope of work, terms and conditions, and
+    draft agreement, can be downloaded from the website www.hnlu.ac.in. Those who download the
+    tender document from website must pay a Tender fee of Rs 1500/- (Rupees One Thousand Five
+   hundred only) through online transfer mode such as Debit Card/Credit Card/Net Banking.
+
+
+9. The bidder shall pay Bid Security (EMD) of Rs. 10,000 (Rupees Ten Thousand only) through online
+    transfer mode such as Debit Card/Credit Card/Net Banking, along with the technical bid. Bids received
+   without Earnest Money Deposit (EMD) shall be rejected and will not be considered for evaluation at
+   any stage.
+
+
+10. Any order resulting from this e-tender shall be governed by the terms and conditions mentioned in the
+    tender document.
+
+
+11. No deviation from the technical and commercial terms & conditions allowed.
+
+
+12. The tender inviting authority has the right to cancel this e-tender or extend the due date for the receipt
+    of the bids.
+
+
+                                      Technical Support
+                             Tel: 011-49606060, ewizardhelpdesk@gmail.com
+                       Tariq Anwar: 9355030608, eprochelpdesk.35@gmail.com
+                          Saikat Pal: 9355030620, eprochelpdesk.38@gmail.com
+                                          ****
+
+
+
+
+
+                                          7
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+                       TENDER DOCUMENT
+
+   1. INTRODUCTION TO THE UNIVERSITY –
+      Hidayatullah National Law University (HNLU), established by the Government of Chhattisgarh
+      under the Hidayatullah National University of Law, Chhattisgarh, Act (Act No.10 of 2003), is
+      desirous of engaging a service provider to offer Supply & Installation of SONICWALL UTM/
+      Firewall with 3 Year Subscription, Warranty & 24x7 Support Services as per the detailed
+       specification at HNLU.
+
+     The tender has been invited under two bid system i.e. Technical Bid and Financial Bid. The
+       Interested companies/agencies/firms are advised to submit two separate sealed envelopes super
+       scribing
+       (a) "Technical Bid for Supply & Installation of SONICWALL UTM/ Firewall with 3 Year
+          Subscription, Warranty & 24x7 Support Services as per the detailed specification at
+       HNLU"; and
+       (b) "Financial Bid for Supply & Installation of SONICWALL UTM/ Firewall with 3 Year
+          Subscription, Warranty & 24x7 Support Services as per the detailed specification at
+       IINLU"
+
+      Bidders must visit the campus premises on the specified date to acquaint themselves with the scope
+      of the services and other requirements. If additional requirements are needed in a location or
+      building other than those mentioned, an additional contract may be entered into on a pro-rata basis.
+
+   2. MINIMUM ELIGIBILITY CRITERIA cum CHECKLIST
+       (a) All bidding parties must meet the following minimum eligibility criteria before applying for
+          the bid. Bidders meeting these criteria must enclose their supporting documents with the
+          technical bid.
+       S.No.  Eligibility Criteria            Documents to Submit
+            1.  Essential:                           (a) In case of OEM, the tenderer has to submit
+            The Tenderer to be either an       a Proprietary Certificate.
+               Original          Equipment    (b) The Bidder/OEM should also submit an
+              Manufacturer (OEM)  or  an       undertaking stating that they would provide
+              Authorized Dealer                   or facilitate the tenderer on a regular basis
+                                                 with original & genuine technology and
+                                                  product updates and extend prompt and
+                                                   necessary support for the warranty as well.
+            2.  Desirable:                      Testimonials of work done with in Central
+              Tenderers having experience in  Government/State Government/Public Sector
+              supplying  SONICWALL     /  Undertakings/Autonomous Bodies  / reputed
+
+
+
+                                         8
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+                similar firewall in Central / State  private sector companies/ Universities. other
+             Government   /  Public  Sector  National Law Universities showing the time
+              Undertakings / Universities and /  period
+               or    other    National   Law
+                Universities
+
+     # The proof of the above requirements is to be uploaded along with the tender documents.
+
+       (b) Non-compliance of tender terms, non-submission of required documents, lack of clarity of
+          the specifications, contradiction between tenderer specification and supporting documents etc.
+       may lead to rejection of the bid.
+
+       (c) In the tender, either the Indian agent on behalf of the Principal/OEM or Principal/OEM itself
+         can bid but both cannot bid simultaneously for the same item/product in the same tender.
+
+       (d) If an agent submits bid on behalf of the Principal/OEM, the same agent shall not submit a bid
+        on behalf of another Principal/OEM in the same tender for the same item/product.
+
+   3. INSTRUCTIONS TO BIDDERS
+           (a) Bidders should review notifications, and the corrigendum published on the website and on
+              the E-wizard portal, if any, on the tender document before submitting their bids. Any
+              deviations from these may lead to rejection of the bid.
+           (b) The Bidder shall provide an undertaking that he/ she will comply with all conditions in the
+              tender documents. Therefore, the tender documents must be completed in all respects.
+           (c) The tender will have
+                         i.   Technical Bid and
+                        ii.    Financial / Commercial bid.
+
+           (d) Technical Specifications:
+                         i.   The  Technical  e-Bid  shall  include  the  following documents  to  establish
+                   compliance with the minimum eligibility criteria:
+                  ●  Technical service details.
+                  ●  Performance report from the client organization.
+                  ●  Experience certificate.
+                  ●  Firm registration details.
+                        ii.   Tenders shall be considered only for the Supply & Installation of SONICWALL
+                 UTM/Firewall with a 3-Year Subscription, Warranty, and 24x7 Support
+                     Services, in strict accordance with the detailed technical specifications provided
+                     in Annexure I.
+
+
+
+
+                                         9
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+                      iii.   Bidders must ensure that the quoted rates strictly conform to the specified
+                    technical  requirements.   If  the  specifications  are  not  suitable  for  a
+                   firm/agency/company/vendor, they should refrain from submitting a quotation.
+                  iv.     If any misleading or false information is discovered at any stage, the concerned
+                   firm/agency/company/vendor shall be liable to forfeit the Earnest Money Deposit
+                (EMD).
+
+            (e) Financial/Commercial e-Bid Submission
+                         i.   The Financial/Commercial e-Bid shall consist of the BoQ in .xls (Excel format).
+                        ii.   Only technically qualified bidders shall be invited to present before the committee
+                 on specified parameters, and their evaluation shall contribute to the final scoring.
+                      iii.   The  financial  bids  of  only  those  Tenderers  whose  technical  bids  are
+                recommended by the Purchase Committee will be opened after the technical
+                     evaluation process. The bidder's offer shall remain valid for six (06) months from
+                     the last date of bid submission or any revised offer (if applicable).
+                  iv.   The Commercial e-Bid must include attested photocopies of the following
+                   documents:
+                  ●  Registration certificate as per existing norms.
+                  ●  Copy of GST Registration Certificates.
+                  ●  Copy of PAN of the tenderer.
+                  ●  Copy of Income Tax Return filed by the firm/agency/company for the last
+                               three financial years.
+                 v.   Hypothetical, conditional, or incomplete bids will be summarily rejected.
+                    Bidders must ensure that they quote for all categories mentioned in the tender.
+
+             (f) The technical bid of the tender shall be opened on scheduled date and time in the Board
+           Room, HNLU Raipur in the presence of the authorized representatives of the tenderers who
+            wish to be present at that time. The tenderers whose technical bids are accepted /qualified
+               will be informed about the date and time of opening of financial bids. At the second stage,
+              Financial Bid of only technically qualified Tenders will be opened for further evaluation
+            and ranking before awarding the tender.
+
+           (g) All entries in the tender form should be legible and filled clearly. "If the space for furnishing
+             information is not sufficient, a separate sheet dully signed by the authorized signatory may
+            be attached. No overwriting or cutting is permitted in the financial bid form. In such cases,
+              the tender shall be summarily rejected. However, the cuttings, if any, in the technical bid
+              application must be initiated by the person authorized to sign the tender bids
+
+           (h) No bidders will be allowed to withdraw after submission of bids/opening of the tender
+             otherwise the EMD submitted by the firm would be forfeited.
+
+
+
+                                        10
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+             (i) All taxes and duties levied will be paid by the bidder only.
+
+             (j) The University reserves the right to
+                         i.   modify the conditions of the tender at any time without assigning any reasons for
+                     the same.
+                        ii.    accept/reject any Tender in part or full without assigning any reason whatsoever
+
+   4. SCOPE OF WORK :
+        (a) The successful vendor shall be responsible for the supply, installation, configuration, fine-
+           tuning, and migration of the existing firewall configuration, including users, groups, and
+            firewall policies, in accordance with the technical specifications outlined in Annexure I and
+            to the satisfaction of the University.
+        (b) Additionally, the vendor (SI) must set up Active Directory Authentication and implement
+          user/group-based quotas as per the University's requirements. While the University will
+          provide the required Active Directory Server(s) and Database, the vendor shall be solely
+           responsible for ensuring all necessary settings and configurations.
+        (c) All required licenses, including every feature, must be activated from Day 1 and remain valid
+            for a period of three (3) years, along with comprehensive OEM support and an Annual
+         Maintenance  Contract (AMC). The AMC  must  include  24x7  support,  regular
+          maintenance, and a structured mechanism for complaint and grievance redressal.
+        (d) The  vendor  shall  be  responsible  for  transportation,  delivery,  installation,  and
+          demonstration of the firewall at HNLU, Raipur immediately upon supply. Any software,
+         hardware, tools, or equipment (such as laptops) required for installation must be arranged
+          and brought by the vendor at their own expense.
+        (e) In the event of any damage to the equipment or supplies during transit, the vendor shall
+          immediately replace the damaged items with new equipment at their own cost and risk.
+         The vendor shall handle any claims with the insurance company as per their discretion.
+       HNLU, Raipur shall bear no  liability for any losses incurred during transit or
+            installation.
+
+
+   5. SITE PREPARATION & ARRANGEMENT OF SPARE PARTS:
+           (a) The supplier shall promptly inform the University of any site preparation requirements
+             necessary for the installation of the equipment immediately upon receipt of the purchase
+             order. The supplier must provide detailed specifications regarding space and other
+             infrastructural requirements that the University needs to arrange before the arrival of
+              the equipment to ensure timely installation and seamless operation.
+           (b) The supplier may visit the University premises to inspect the designated installation site
+            and offer recommendations or assistance in site preparation and fulfilling other pre-
+              installation requirements as necessary.
+
+
+
+                                        11
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+   6. BID EVALUATION SCHEME:
+           (a) The University will evaluate technical and commercial/financial acceptable offers on
+             landed net price basis.
+           (b) L1 will be decided on the basis of Grand total quoted in the Price bid.
+           (c) Offer which deviates from the vital conditions (as illustrated below) of the tender shall be
+               rejected:
+                            i. Non submission of complete offers.
+                          ii.  Receipt of offers after due date and time and or by email / fax (unless specified
+                     otherwise).
+                         iii.  Receipt of offers in open conditions.
+           (d) In case any Tenderer is silent on any clauses mentioned in this tender document, the
+             University shall construe that the Tenderer had accepted the clauses as per the invitation to
+               tender.
+           (e) No revision in the terms and conditions quoted in the offer will be entertained after the last
+              date and time fixed for receipt of tenders.
+             (f) The University shall correct arithmetical errors on the following basis:
+                            i.  If there is a discrepancy between the unit price and the line item total that is obtained
+                 by multiplying the unit price by the quantity, the unit price shall prevail and the line
+                    item total shall be corrected, unless in the opinion of the Purchaser there is an
+                   obvious misplacement of the decimal point in the unit price, in which case the line
+                    item total as quoted shall govern and the unit price shall be corrected.
+                          ii.  If there is an error in a total corresponding to the addition or subtraction of subtotals,
+                     the subtotals shall prevail, and the total shall be corrected; and
+                         iii.  If there is a discrepancy between words & figures, the amount in words shall
+                       prevail, unless the amount expressed in words is related to an arithmetic error, in
+                  which case the amount in figures shall prevail subject to (i) and (ii) above.
+           (g) The University reserves the right at the time of contract award to increase or decrease the
+              quantity of goods and services originally specified in the tender document o without any
+            change in unit price or other terms and conditions. Further, at the discretion of the
+              University, the quantities in the contract may be enhanced by 30% within the delivery
+              period.
+
+   7. OTHER TERMS AND CONDITIONS OF THE CONTRACT
+           (a) The Contractor shall make their own arrangements, and, at their own cost, for the
+            engagement of all technical staff and labour, whether local or otherwise, required to supply,
+                 install, configure, fine tune and migrate existing firewall configuration, user, group and
+              Firewall Policies as per the requirement and satisfaction of the University.
+
+
+
+
+
+                                        12
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+           (b) The Contractor shall be solely responsible for any damage to the property of the University
+            whether accidental or deliberate, caused by him or his technical staff  / his agents or
+               servants.
+           (c) The Contractor shall not transfer or assign or sublet any part of the service once agreed or
+            any share or interest herein in any manner or degree directly or indirectly to any person,
+             firm or company whatsoever.
+           (d) The Tenderer will be bound by the details furnished by him/her to HNLU, while submitting
+              the tender or at subsequent stage. In case, any of such documents furnished by him/her is
+            found to be false at any stage. If would be deemed to be a breach of terms of contract
+           making him/her liable for legal action besides termination of contract
+           (e) Notwithstanding anything stated in the Tender document, the University reserves the right
+               to assess the bidder’s capability and capacity to provide the specified service (should the
+             circumstances warrant such as assessment in the overall interest of the University) and
+              decision of the University in this regard shall be final and binding.
+
+   8. DEFECTIVE EQUIPMENT: If any of the equipment supplied by the Supplier is found to be
+      substandard, refurbished, un-merchantable or not in accordance with the description/specification
+      or otherwise faulty, the committee will have the right to reject the equipment or its part. The prices
+      of such equipment shall be refunded by the Supplier with 18% interest if such payments for such
+      equipment have already been made. All damaged or unapproved goods shall be returned at
+       suppliers cost and risk and the incidental expenses incurred thereon shall be recovered from the
+       supplier. Defective part in equipment, if found before installation O and/or during warranty period,
+       shall be replaced within 7 days on receipt of the intimation from this office at the cost and risk of
+       supplier including all other charges. In case supplier fails to replace above item as per above terms
+   & conditions, HNLU, Raipur may consider "Banning" the supplier.
+
+   9. TERMINATION FOR DEFAULT
+         (a) The Purchaser may, without prejudice to any other remedy for breach of contract, by written
+            notice of default sent to the Supplier, terminate the Contract in whole or part:
+        (b) If the Supplier fails to deliver any or all of the Goods within the period(s) specified in the
+             order, or within any extension thereof granted by the Purchaser; or
+         (c) If the Supplier fails to perform any other obligation(s) under the Contract.
+        (d) If the Supplier, in the judgment of the Purchaser has engaged in corrupt or fraudulent
+             practices in competing for or in executing the Contract.
+
+    For the purpose of this Clause:
+
+         (a) "Corrupt practice" means the offering, giving, receiving or soliciting of anything of value to
+            influence the action of a public official in the procurement process or in contract execution.
+
+
+
+
+                                        13
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+         (b) "Fraudulent practice" means a misrepresentation of facts in order to influence a procurement
+            process or the execution of a contract to the detriment of the Borrower, and includes collusive
+             practice among Tenderer (prior to or after bid submission) designed to establish bid prices at
+               artificial noncompetitive levels and to deprive the Borrower of the benefits of free and open
+            competition;"'
+         (c) In the event the Purchaser terminates the Contract in whole or in part, the Purchaser may
+            procure, upon such terms and in such manner, as it deems appropriate, Goods or Services
+            similar to those undelivered, and the Supplier shall be liable to the Purchaser for any excess
+            costs  for such  similar Goods or Services. However, the Supplier  shall continue the
+           performance of the Contract to the extent not terminated.
+
+
+
+   10. TRAINING OF PERSONNEL: The supplier shall be required to undertake to provide the
+       technical training to the personnel involved in the use of the equipment at the University premises,
+      immediately after completing the installation of the equipment.
+
+
+   11. FORCE MAJEURE:
+       (a) The Supplier shall not be liable for forfeiture of its performance security, liquidated damages
+          or termination for default, if and to the extent that, it's delay in performance or other failure to
+         perform its obligations under the Contract is the result of an event of Force Majeure.
+       (b) For purposes of this Clause, "Force Majeure" means an event beyond the control of the o
+          Supplier and not involving the Supplier's fault or negligence and not foreseeable. Such events
+       may include, but are not limited to, acts of the Purchaser either in its sovereign or contractual
+           capacity, wars or revolutions, fires, floods, epidemics, quarantine restrictions and freight
+         embargoes.
+       (c) If a Force Majeure situation arises, the Supplier shall promptly notify the Purchaser in writing
+          of such conditions and the cause thereof.
+       (d) Unless otherwise directed by the Purchaser in writing, the Supplier shall continue to perform
+             its obligations under the Contract as far as is reasonably practical, and shall seek all reasonable
+           alternative means for performance not prevented by the Force Majeure event
+
+
+   12. PAYMENT: For supply 100% payment shall be made by the Purchaser against acceptance of the
+      equipment at HNLU, delivery, inspection, successful installation / configuration/ commissioning
+      and, Raipur in good condition and to the entire satisfaction of the Purchaser as per the terms
+       specified in the technical specifications.
+
+   13. RISK PURCHASE CLAUSE: In event of failure of supply of the item/equipment within the
+       stipulated delivery schedule, the purchaser has all the right to purchase the item/equipment from
+       the other source on the total risk of the supplier under risk purchase clause
+
+
+                                        14
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+
+   14. TAXES, LABOUR LAWS AND OTHER APPLICABLE REGULATIONS
+
+
+       (a) Suppliers shall be entirely responsible for all taxes, duties, license fees, octroi, road permits,
+             etc., incurred until delivery of the contracted Goods to the Purchaser. However, the GST in
+          respect of the transaction between the Purchaser and the Supplier shall be payable extra, if so
+           stipulated in the financial bid and order.
+       (b) The contractor shall be liable to comply with all the rules and regulations in respect of all
+           statutory obligations applicable to the workmen including safety regulations
+       (c) The contractor is liable for the payment of all existing taxes of the Central or State Government
+          or of any other authority with respect to the contract or any item sold or supplied pursuant
+           thereto or anything done, or services rendered pursuant thereto.
+
+   15. DELIVERY AND DOCUMENTS: Delivery of the goods should be made within a maximum of
+     30 days from the date of placement of purchase order.
+
+   16. LIQUIDATED DAMAGES (L.D): If a supplier fails to execute the order in time as per the terms
+      and conditions stipulated therein, it will be open to the purchaser to recover liquidated damages
+       for delay in delivery and installation from the supplier at the rate 0.5% of the value of the stores
+      per week subject to a maximum of 10% of the total order value. The L.D charges can be increased
+       in case of gross violation of the Purchase Order terms as decided by the Vice Chancellor of HNLU.
+
+
+   17. PRICES: The price should be quoted in net per unit (after breakup) and must include all packing
+      and delivery charges. The offer/bid should be exclusive of taxes and duties, which will be paid by
+       the purchaser as applicable. However, the percentage of taxes & duties shall be clearly indicated.
+     The price should be quoted without custom duty and excise duty, since HNLU Raipur is exempted
+      from payment of Excise Duty and is eligible for concessional rate of custom duty. Necessary
+       certificate will be issued on demand.
+
+
+   18. INSTALLATION & DEMONSTRATION The supplier is required to do the installation and
+      demonstration of the equipment immediately at the HNLU Raipur. All the software, hardware
+      equipment like Laptops, tools etc. to carry out the installation has to be brought by the supplier at
+       his own cost.
+
+
+   19. In case of any damage to equipment and supplies during the carriage of supplies from the origin
+      of equipment to the installation site, the supplier has to replace it with new equipment/supplies
+      immediately at his own risk.
+
+
+
+
+
+                                        15
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+   20. WARRANTY:
+       (a) Warranty period shall be from date of successful installation of Goods and acceptance at
+      HNLU Raipur. The Supplier  shall,  in  addition, comply with  the performance and/or
+         consumption guarantees specified under the contract. If for reasons attributable to the Supplier,
+          these guarantees are not attained in whole or in part, the Supplier shall at its discretion make
+         such changes, modifications, and/or additions to the Goods or any part thereof as may be
+          necessary in order to attain the contractual guarantees specified in the Contract at its own cost
+         and expense and to carry out further performance tests. The warranty should be comprehensive
+        on site.
+       (b) The Purchaser shall promptly notify the Supplier in writing of any claims arising under this
+          warranty. Upon receipt of such notice, the Supplier shall arrange to repair or replace the
+          defective goods or parts within 7 days free of cost in HNLU, Raipur. The Supplier shall take
+         over the replaced parts/goods at the time of their replacement. No claim whatsoever shall lie
+        on the Purchaser for the replaced parts/goods thereafter. The period for correction of defects
+           in the warranty period is 07 days. If the supplier having been notified fails to remedy the defects
+          within 07 days, the purchaser may proceed to take such remedial action as may be necessary,
+            at the supplier's risk and expenses and without prejudice to any other rights, which the
+          purchaser may have against the supplier under the contract
+
+   21. USER LIST: Brochure detailing technical specifications and performance,  list of Central
+      Government/State Government/Public Sector Undertakings/Autonomous Bodies / reputed private
+       sector companies/  Universities. other National Law Universities showing the time period
+      establishments where the items enquired have been supplied must be provided.
+
+   22. OFFENCES AND MISCONDUCT
+     The contractor shall keep the University indemnified from and against all personal and third-party
+      misconduct claims whatsoever arising out of any commission or omission by contractor or his
+      employees, or representative as the case may be.
+
+   23. REJECTION OF TENDER
+     The University reserves the right to reject any or all the Tenders relating to the work under this
+      Tender Document without assigning any reason whatsoever / The University reserves the rights to
+     amend or withdraw any of the terms and conditions obtained in the tender document or to reject
+      any or all the tenders in whole or in part without giving any notice or assigning any reasons and
+      not bound to expect the lowest tender. The decision of the Vice-Chancellor, HNLU in this regard
+       shall be final and binding on all.
+
+   24. JURISDICTION It is agreed and declared by and between the parties hereto that so far it concerns
+       the jurisdiction of any court in enforcing any of the rights or remedies of the parties hereto against
+      each other or one another, a court in the city of Raipur alone shall have jurisdiction to the exclusion
+      of all other courts in anyplace in the Union of India so that none of the parties hereto shall be
+
+
+                                        16
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+       entitled to any proceedings whatsoever in respect of any matters touching or relating to or in
+      connection with or arising under agreement and the terms and conditions thereof in any court
+      except the court or courts having jurisdiction in the city of Raipur.
+
+
+
+
+
+                                        17
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+                                                                     Annexure I :
+
+    Supply installation and Configuration/upgradation of SonicWall
+                Firewall (UTM) at HNLU-Nava Raipur
+
+
+       Technical specifications for Supply installation and Configuration / upgradation of
+                    SonicWall Firewall (UTM) at HNLU Nava Raipur
+
+      Sl.No      Item Description       Technical Specification                            Compliance
+       1           Make          To be mentioned by the bidder/ Vendor
+       2           Model No.         To be mentioned by the bidder/ Vendor
+                                  The proposed hardware-based  firewall should not
+       3                           consume more than 1RU Rack-mountable space and it
+                                       should support min 1200 concurrent users.
+                                      Proposed Firewall should not be proprietary ASIC
+                                      based in nature & should be multi-core cpu’s based
+                                           architecture to protect the latest security threats.
+                                       Appliance must have one Console port, dedicated one
+             Hardware Architecture   GbE management Port, two USB port and support
+                                     redundant power supply
+                                  The device should have 6 x 10G/5G/2.5G/1G (SFP+),24
+                                      x 1GbE Cu
+                                       Appliance should have 128 GB or more Built in
+                                        Storage from day 1
+                                          Solution should have option for Storage Expansion
+                                            Slot (Up to 1TB)
+                                       Appliance should support 18 Gbps or more Firewall
+       4
+                                      throughput & 10 Gbps or more IPS throughput.
+                                       Appliance should support 9.5 Gbps or more Threat
+                                          Protection throughput and Anti-malware inspection
+                                      throughput
+                                  The device should have Concurrent Sessions: 4 million
+                                          or higher & New connection/Sec: 1,15,000 or higher
+            Performance & Scalability
+                                         Firewall Should support at least 5 Gbps or more
+                                  TLS/SSL inspection and decryption throughput (DPI
+                                    SSL) ,10 Gbps or more Ipsec VPN throughput
+                                         Firewall Should be able to support 1000 SSL VPN
+                                                 clients.
+                                         Firewall Should be able to support MAX DPI-SSL
+                                       Connections 350000
+                                          Solution should provide threat policy like AV/AS, IPS,
+                           URL &  Content   filtering,  Application  control,
+                                  Malware protection, Bandwidth management  policy
+       5    General Firewall Features & policy based routing on firewall rules to secure
+                                           connectivity between Internet & internal  network
+                                   and security controls must be applied on inter zone
+                                                    traffic.
+
+
+                                        18
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+                                     Should  support  BGP,OSPF,  RIP  v1/v2  routing
+                                            protocol and IPv4 & IPv6 functionality (Both phase 1
+                                   and Phase2).
+                                         Firewall should support manual NAT and Auto-NAT,
+                                               static nat, dynamic nat, pat etc
+                                     Should have Layer 2 bridge or transparent mode, Wire
+                                     mode, Sniffer mode /Tap mode
+                                     Should   support   Zero-Touch    registration  &
+                                          provisioning using mobile App.
+                                           solution   should   support   policy-based   routing,
+                                          Application  based  routing and  also  Multi  Path
+                                            routing.
+                                     Should have extensive protocol support to identify
+                               common  protocols such as HTTP/S, FTP, SMTP,
+                                  SMBv1/v2 and others, which do not send data in raw
+                                  TCP, and decode payloads for malware inspection,
+                                     even if they do not run on standard, well-known ports.
+                                         Firewall should support Link aggregation (static and
+                                      dynamic) to provide an additional level of redundancy.
+                                         Firewall  should  support  static  routing, Dynamic
+                                      Routing and WAN load balancing for redundant or
+                                    backup Internet connections.
+                                  The appliance should be capable of scanning raw TCP
+                                      streams  on  any  port  bi-directionally  preventing
+                                         attacks that they  to sneak by outdated  security
+                                      systems that focus on securing a few well-known
+                                              ports.
+                                     Should support deep packet SSL to decrypt HTTPS
+                                                  traffic for scanning (IPS, Gateway Antivirus, Content
+                                              Filtering, Application control) transparently and send
+                                             to destination if no threat found.
+                                         Firewall  should  support   clientless  SSL  VPN
+                                         technology or an easy to manage IPSec client for easy
+                                          access            to           email,               files,
+                                       computers, intranet sites and applications from a
+                                           variety of platforms.
+                                     Should  support  Redundant VPN  gateway when
+                                     primary and secondary VPN can be configured to
+                                         allow seamless, automatic failover and failback of
+                                  The solution should have inbuilt support of DES,
+                                  3DES, AES 128/192/256 encryption MD5, SHA and
+                                       Pre-shared  keys  &   Digital   certificate  based
+                                         authentication connection tunnel.
+                                     Should support Route-based VPN that allow dynamic
+                                         routing over VPN links to ensure continuous uptime
+                                           in the event of a temporary VPN tunnel failure, by
+                                        seamlessly  re-routing  traffic  between  endpoints
+                                      through alternate routes.
+
+
+
+
+                                        19
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+                                          Solution should support Dead Peer Detection, DHCP
+                                   Over VPN, IPSec NAT Traversal, Route-based VPN
+                                        over OSPF, RIP, BGP.
+                                      Proposed   solutions  must   support   application
+                                           inspections on following protocols DNS,FTP,H.323  ,
+                                SMTP,  SQLnet, RTSP,  Skinny,  SMBv1/v2,  SIP,
+                                        NetBios, TFTP, SNMP etc.
+                                          Solution  should  support  User  identification and
+                                              activity       available      through      seamless
+                                      AD/LDAP/Citrix/Terminal Services SSO integration
+                                     combined  with  extensive  information  obtained
+                                      through Deep Packet Inspection.
+                                     Should  have   secure  SD-WAN   that   enables
+                                          organizations to build, operate and manage secure,
+                                       high-performance networks across remote sites for
+                                        sharing data, applications and services using low-cost
+                                           internet  services  without  adding  any  additional
+                                     components or hardware.
+                                  The proposed  solution must have Mac IP Spoof
+                                         Prevention, Jumbo frames support & IP Helper for
+                                         other than DHCP.
+                                         Firewall should have a Pictorial view of a particular
+                                          access rule, NAT and Routing rule which helps in
+                                           finding real-time statistics. Displays the rules which
+                                        are actively used or not being used & enabled or
+                                            disabled.
+                                         Firewall should scan for threats in both inbound and
+                                     outbound and intra-zone traffic for malware in files of
+       6
+                                        unlimited length and size across all ports and TCP
+                                      streams by GAV & Cloud AV.
+                                  The proposed firewall should support Bi-directional
+                                  raw TCP inspection that scans raw TCP streams on
+                                   any port and bi-directionally to detect and prevent
+                                       both inbound and outbound threats
+                                         Antivirus should provide real-time detection of viruses
+                                   and malicious code at the gateway for SMTP, POP3,
+                                HTTP, FTP etc
+                                         Firewall must support Proxy-less and non-buffering             Firewall Security Features
+                                           inspection  technology  for DPI  scanning  without
+                                         introducing file and stream size limitations and can be
+                                         applied on common protocols as well as raw TCP
+                                        streams.
+                                          Solution should have single-pass DPI architecture
+                                        simultaneously scans for malware, intrusions and
+                                           application identification and ensuring that all threat
+                                        information is correlated in a single architecture
+                                         Firewall must have integrated IPS shall be able to
+                                       scan packet payloads for vulnerabilities and exploits,
+                                         covering a broad spectrum of attacks and
+                                              vulnerabilities.
+
+
+
+                                        20
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+                                     Should protect against DDoS/DoS attack using both
+                                     Layer 3 SYN proxy and Layer 2 SYN blacklisting
+                                            technologies. It protects against DOS/DDoS through
+                              UDP/ICMP flood protection and connection rate
+                                              limiting.
+                                     Should have facility to block the URL's based on
+                                             categories, granular control like Allow/Block,
+                                   Bandwidth Management, Passphrase override,
+                                          Notify
+                                         Firewall should support URL database should have
+                                           at least 15-20 million sites and 85 + categories.
+                                             shall be able to configure traffic shaping on a per
+                                             policy basis for specific application/ Specific networks
+                                   and should be able to define guaranteed bandwidth
+                                   and maximum bandwidth per policy.
+                                     Should have advanced QoS that guarantees critical
+                                     communications with 802.1p, DSCP tagging, and
+                                    remapping of VoIP traffic on the network.
+                                         Firewall should support HTTP Request tempering
+                                             protection, Directory traversal prevention, SQL
+                                             injection Protection, Cross site scripting Protection
+                                      (XSS) & DNS security
+                                         Firewall should support DNS filtering that should
+                                          block malicious websites or applications at the DNS
+                                           layer to filter out harmful or inappropriate content.
+                                     Should provide complete protection by performing
+                                                   full decryption and inspection of TLS/SSL and SSH
+                                       encrypted connections regardless of port or protocol.
+                                          Solution should support on premise or cloud-based
+                                     Sandboxing for preventing zero-day threats.
+                                     Should support both for analysis of a broad range of
+                                                       file types, either individually or as a group, including
+                                         executable programs (PE), DLL, PDFs, MS Office
+                                      documents, archives, JAR, and APK plus multiple
+                                         operating systems including Windows, Android, Mac
+                             OS X and multi-browser environments.
+                                     Should have the ability to prevent potentially
+                                         malicious files from entering the network and those
+                                                    files sent to the sandbox for analysis to be held at the
+                                     gateway until a verdict is determined.
+                                     Should have the ability to detect and blocks malware
+                                         that does not exhibit any malicious behavior and hides
+                                                    its weaponry via encryption. By forcing malware to
+                                          reveal its weaponry into memory, proactively detects
+                                   and  blocks  mass-market,  zero-day  threats  and
+                                 unknown malware with a very low false positive rate
+                                   where  weaponry  is  exposed  for  less  than  100
+                                       nanoseconds.
+
+
+
+
+                                        21
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+                                  Deep packet SSL should be available on the same
+                                        platform & License for DPI SSL should be along with
+                                           appliance.
+                                  The Firewall  solution should have detection and
+                                        prevention capabilities for C&C communications and
+                                       data exfiltration.
+                                         Firewall Identifies and controls network traffic going
+                                             to or coming from specific countries to either protect
+                                         against
+                                         attacks from known or suspected origins of threat
+                                                activity, or to investigate suspicious traffic originating
+                                     from the network. Ability to create custom country
+                                   and Botnet lists to override an incorrect country or
+                                       Botnet tag associated with an IP address.
+                                         Firewall should support min 20K DPI signatures, 60
+                                           million Cloud AV signatures and 3600+ Application
+                                        Signatures from day 1.
+                                     Should provide real-time monitoring and visualization
+                                         provides  a   graphical   representation   of   top
+       8                                   applications, top address, top users and intrusion by
+                                           sessions for granular insight into traffic across the
+                                       network.
+                                  The system should provide GUI panels and actionable
+                                      dashboards with general information, system status,
+                Visibility and Monitoring                                     system  usage, network  interface  status,  security
+                                            services information.
+                                  The  solution  should  support  granular  network
+                                                  visibility of network topology along with host info.
+                                          Solution should have real-time visibility of infected
+                                             hosts, critical attacks, encrypted traffic information &
+                                       observed threats.
+
+                                  The management platform must be accessible via a
+       9                             web-based interface and without any additional client
+                                         software
+
+                                         Firewall should support management via Cli, SSH
+                                   ,GUI and support for SNMPv2/3.
+                                  The solution should store syslog in local storage or
+                                     remote  appliance. OEM  should  offer  individual
+           Management & Reporting   solutions for logging and reporting based architecture
+                     Feature            to meet the requirements.
+                                         Firewall should have a reporting facility to generate
+                                          reports on virus detected over different protocols, top
+                                         sources for viruses, destination for viruses, top viruses
+                                                  etc.
+                                     Should have options to generate reports in terms of
+                                    which are the frequent attacks as well as top sources
+                                   and destination for attacks in different formats such
+                                        as PDF/TEXT/ CSV
+
+
+
+
+                                        22
+
+             HIDAYATULLAH NATIONAL LAW
+                   UNIVERSITY, RAIPUR
+
+ TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                        HNLU
+
+                                    The solution should have configurable options to send
+                                           the alert emails based on event type & reports as a
+                                          mail to the designated email address
+                                            Analytics   platforms   support   Real-time   risk
+                                          monitoring and analysis of all network and user traffic
+                                            that passes through the firewall ecosystem
+                                    The    solution   should   support   Cloud-based
+                                             configuration backup.
+                                    The  solution  should  support IPFIX  or NetFlow
+                                               protocols for real-time and historical monitoring and
+                                             reporting
+                                    The Firewall solution offered must be IPv6/USGv6,
+         10                         ICSA Network Firewall, ICSA Firewall Enterprise,
+                                   ICSA Network Antivirus/AntiMalware.
+                                   ICSA Labs certified for Advanced Threat Defense with
+                                              Perfect threat detection, 7 quarters in a row 100%
+                                         Threats detected, Zero missed threats, and only 1
+                    Certification, Warranty,                                           False Positives result.
+                   Installation, Testing and
+                                     NetSecOpen Firewall Laboratory Testing with 100%                   Commissioning
+                                          Block Rate for Private CVE Test and 98.8% Bock Rate
+                                                  for Public CVE Test result.
+                                         Proposed   Solution   should   support   24x7x365
+                                             telephone, email and web-based technical support.
+                                            Firewall OEM  should have TAC/R&D  center  in
+                                      INDIA.
+
+
+                                                                                Quantity/
+Serial                            Product
+ No
+  1     Supply, installation and configuration of SonicWall UTM/ Firewall (as per
+        technical Specs given above) All Licences with every features should be
+       enabled from first day for 3 years along with OEM support and AMC with          01 Nos
+        24*7 support
+
+
+
+
+
+                                           23
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+                                                    Annexure II : Profile of the Firm
+
+       1.   Name of the Vendor/Supplier
+          Type    of   Vendor/Supplier   (Whether
+       2.    Proprietary   /  Partnership   /  Private  Ltd.,
+            Public Ltd.)
+          Complete  Postal  Address  of  Registered
+       3.
+            Office
+       4.   Telephone No./ Mobile No
+       5.   Mailing Address of Local Office
+       6.   Name of the Contact Person
+       7.    Designation
+          Whether  your  firm  is  Registered  under
+            (Please  tick whichever  is  applicable and
+       8.
+             attach    the   photocopies   of    current
+            Registration certificate and other documents)
+            Details of the Client (Please attach separate
+       9.
+             sheet, if required)
+      10.  PAN/GSTN (Attached copies)
+            Details  of  item  categories  for  which
+      11.
+             registration is sought.
+      12.   Description of Items
+          Annual Turnover for last 3 year (Attach copy
+            of  certificate duly  certified by Chartered
+           Accountant)
+      13.                  (a) F.Y. 2021-2022
+                 (b) F.Y. 2022-2023
+                  (c) F.Y. 2023-2024
+
+                                        Name of Bank:
+          Bank Details of the firm (Details required for
+      14.                                      IFSC Code:
+          payment through NEFT/RTGS)
+                                                 A/c No.:
+
+
+      I hereby certify that the above-mentioned particulars are true and correct
+
+
+
+                                                    Signature of Tenderer with date and seal
+
+
+
+
+
+                                        24
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+
+
+                                    Annexure III: Proof of Payment of GST / Service Tax
+
+   Name of the Tenderer:
+
+
+
+    Address:
+
+
+
+   PAN Card No.
+
+
+
+   GST No.:
+
+
+
+                      Proof of Payment of Service Tax / GST (Last 3 years)
+
+      Financial Year          Taxable Value (Rs.)          GST/Service Tax paid (Rs.)
+         2021-22
+         2022-23
+         2023-24
+     (Please enclose copy of Service Tax/GST Return & payment receipts)
+
+
+
+                       Proof for payment of Income Tax (last three years)
+
+      Financial Year  Annual Income (Rs.)  Net Income (Rs.)     Income Tax Paid (Rs.)
+         2021-22
+         2022-23
+         2023-24
+     (Please also attach form 26AS downloaded from TDS Centralized Processing Cell of Income Tax
+    Department)
+
+
+
+                                                    Signature of Tenderer with date and seal
+
+
+
+
+
+                                        25
+
+              HIDAYATULLAH NATIONAL LAW
+                    UNIVERSITY, RAIPUR
+
+  TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                         HNLU
+
+                                       Annexure IV: Details of Academic Institutions served
+
+        Testimonials  of  work  done  within  Central  Government/State  Government/Public  Sector
+        Undertakings/Autonomous Bodies / reputed private sector companies/ Universities. other National
+      Law Universities showing the time period
+
+
+      Name of the Tenderer:
+
+
+
+        Address:
+
+
+
+
+                                    Details of Academic Institutions served
+
+S No.  Name & Address of   Start Date    End Date     Period of     No. of   Type of Service
+         Institution served                                      Service      Users
+
+
+
+
+
+        Please attach:
+           (a) Work order copy
+          (b) Details of contact person Name, Designation, Mobile number
+           (c) For Completed work -Testimonial from Institution served
+
+
+
+
+
+                                                        Signature of Tenderer with date and seal
+
+
+
+
+
+                                            26
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+                                                           Annexure V: Certificates
+
+   Name of the Tenderer:
+
+
+
+    Address:
+
+                    Quality certification obtained (ISO 22000: 2018 or similar)
+
+  S No.    Certificate Name              Issuing Authority             Valid Until
+
+
+
+
+
+                                                    Signature of Tenderer with date and seal
+
+
+
+
+
+                                        27
+
+            HIDAYATULLAH NATIONAL LAW
+                  UNIVERSITY, RAIPUR
+
+TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                       HNLU
+
+
+
+
+
+                       DECLARATION LETTER
+
+    To,
+    The Registrar,
+     Hidayatullah National Law University,
+    Nava Raipur, Atal Nagar
+    Chhattisgarh-493661
+
+
+    Dear Sir,
+
+          Sub: SUPPLY & INSTALLATION OF SONICWALL NSa 4700 WITH 3 YEAR
+               SUBSCRIPTION, WARRANTY & 24X7 SUPPORT SERVICES.
+
+
+    With reference to the above, I / we am / are offering for rates for the above Services.
+
+      I / We hereby reconfirm and declare that I / We have carefully studied the tender document including
+     instructions, terms & conditions, specifications, and all the contents stated therein.
+
+     Further I / We accept all the terms and conditions of the tender documents in bid form and this
+    acceptance shall prevail over any other conditions, if any given in our bid.
+
+    The rates quoted are inclusive of all duties, taxes, packing, forwarding, transportation, insurance and
+    any other cost incidental to delivery of services in the University campus, Raipur.
+
+      I / We will be liable for forfeiture of my / our “SECURITY DEPOSIT /EMD” to HNLU, Raipur, in
+     case I / We could not execute the awarded work. I / We will execute the work as per the rates quoted
+     in the attached schedule for the entire period of contract and are also bound to undertake work by
+     the date specified in the letter of intent.
+
+      I / We have not been blacklisted by any of the firm / government agency.
+
+    Thanking you,
+
+    Yours faithfully,
+
+
+
+     Signature (Name)
+
+
+
+     Encl: As stated.
+
+
+                                        28
+
+             HIDAYATULLAH NATIONAL LAW
+                   UNIVERSITY, RAIPUR
+
+ TENDER DOCUMENT FOR INSTALLATION OF SONICWALL FIREWALL AT
+                        HNLU
+
+
+
+                                                          Annexure VI: Financial Bid
+
+     The Financial Bid is required to be submitted in a separate sealed envelope.
+
+S No. Item Description       Make & Model      Unit Price GST    Qty    Total Price  (in
+                                                                                      Rs.)
+1     Supply & Installation of
+       Unified          Threat
+      Management
+     SONICWALL (UTM)/
+       Firewall with 3 Year
+       Subscription,
+      Warranty  &   Support
+       Services   as   per   the
+        detailed specification.
+
+
+      I/We hereby declare that I/We abide by the terms and conditions and rules & regulations of HNLU,
+         laid down in the said tender document and quote the rates accordingly.
+
+
+
+
+
+      Date
+
+
+
+       Place
+
+
+
+                             Signature of the Bidder / Authorized signatory:
+                                       Name and Address:
+                                                              Mobile:
+                                                                  E-mail:
+                                    SEAL of the Bidder:
+
+
+
+
+
+                                          29

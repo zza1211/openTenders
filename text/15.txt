@@ -1,0 +1,387 @@
+INVITATION TO SUBMIT RFP                                       THIS IS NOT AN ORDER
+                         PITTSYLVANIA COUNTY SCHOOL BOARD
+                                                  P.O. Box 232
+                                         Chatham, Virginia 24531
+
+                                                 (434) - 432-2761
+TO:                                          DATE 02/21/2025    SPEC NO. 24-25/007
+
+                                              FOR Internal Connections - Switches
+
+                                                DELIVERY POINT As per Scope of Services
+
+                                                 DIRECT ALL QUESTIONS
+                                            TO   rfp@pcs.k12.va.us
+
+Responses to the Requests for Proposal will be received via email until __12__ o'clock, P.M. (EST) on the 21st of March,
+2025.  Please submit all proposals via email to rfp@pcs.k12.va.us. All proposals must address the delivery of services as
+specified in the Scope of Services in the RFP.
+
+SCOPE OF SERVICES
+
+Section 1: Introduction
+Pittsylvania County Schools, hereafter referred to as PCS, is soliciting proposals for network switches for Category 2
+funding through the Universal Service Support Mechanism of the Schools and Libraries Division (E-rate). Projects and
+services will be for the Funding Year 2025-26 that begins on July 1, 2025 and ends on June 30, 2026. The following is the
+Request for Proposal (RFP) for products and services sought.
+
+Section 2: Questions and Communications
+All material information and requirements that are available are set forth in this RFP. Questions seeking clarification of the
+requirements of the RFP shall be submitted via email to rfp@pcs.k12.va.us. Answers to questions shall be posted to the PCS
+website: https://www.pcs.k12.va.us/departments/budget_finance/budget_and_bids and to the E-rate Form 470 web site.
+Vendors are responsible for periodically monitoring the E-rate Form 470 web site and/or PCS web site for updates. It is
+suggested that vendors check for updates routinely. The last day for the acceptance of inquiries and clarifications is March
+7, 2025 by 3 pm EST and the answers to any remaining questions will be posted no later than March 12, 2025 by 4:30 pm
+EST.
+
+Section 3: Response Requirements
+Vendors are requested to submit responses no later than 12:00 p.m. EST on the 21st of March, 2025. Please submit all
+responses via email to rfp@pcs.k12.va.us.
+
+Copies of the vendor response required to be provided include:
+    •  (1) Digital Copy (via PDF format only)
+    • Equipment List completely filled in (Addendum #1)
+    • A signature from a person authorized to contract for the company
+    • A description of fees must be clearly presented with labor and materials identified separately as well as a full
+        description of all potential charges
+    • Service Provider Identification Number (SPIN)
+        o  Information regarding Service Provider registration with the Schools and Libraries Division can be located
+                  at the following: http://www.usac.org/sp
+    • Service Provider’s FCC Registration Number as required by program rules established in the 5th Report and Order
+
+
+Section 4: RFP Award(s)
+After responses are reviewed, the winning vendor(s) will be required to enter into an executory contract at the time of
+the RFP award. The contract will be in compliance with guidelines of the Universal Service Program. The contract
+will provide for voluntary extensions of the contract expiration and service substitutions. Execution of the contract and
+
+inception of the projects will be contingent on a “FUNDED” Funding Commitment Decision Letter from the Schools
+and Libraries Division for the associated Funding Request Number (FRN), and issuance of a Purchase Order from
+Pittsylvania County Schools referencing the contract number and FRN.
+
+Section 5: Invoicing
+Vendors submitting responses to this Request for Proposal agree to provide Service Provider Invoice (SPI) billing
+(invoice USAC for E-rate discounts provided directly to applicant) for products and/or services associated with the
+projects and seek reimbursement of the discount according to the invoicing guidelines of the Schools and Libraries
+Division. Pittsylvania County Schools will pay for the discounted portion of all invoices when all products and/or
+services listed on the invoice are delivered in accordance with the contract.
+
+Section 6: Vendor Requirements
+Responders must be approved by the Schools and Libraries Division of the Universal Service Administrative Company
+(E-rate).
+
+Responders must have certified or well-qualified personnel able to provide the installation and configuration of all
+switching.
+
+Responders will be required to submit at least two references from K-12 customers that can provide a description of
+their experience with the Vendor in the areas of service and support OR a comprehensive description of prior work
+with PCS.
+
+Section 7: Right to Reject Any and All Quotes
+We reserve the right to reject any or all proposals and to waive any informalities or regularities. The service providers’
+submission of a proposal is recognition of this right. In addition, the district reserves the right to fund (proceed with
+project or purchase), or not to fund regardless of E-rate approval.
+
+The District reserves the right to choose one or more vendors to provide the services listed in the RFP. The district
+further reserves the right to accept vendor proposals in whole or in part, therefore, having the flexibility to select
+equipment and services that best meet the needs of the district. Vendors may respond to all or part of the RFP.
+Responses should separate out each part.
+
+Section 8: Description of Equipment and Installation
+
+The district seeks quotes on Cisco Switches – model C9200-48P and C9200CX-12P. The district has standardized on
+Cisco platform; however, equivalent products are acceptable.  If proposing equivalent product, please submit data
+verifying equivalency with proposal.
+
+    •  The quotes provided must include all materials, equipment, and accessories required to furnish a complete data
+        electronics system as indicated on the parts list.
+    •   All components have been broken out for this Form 470 and are listed as "connectors" and "cabling"
+        respectively.
+    •   Bids not proposing configuration of switches will be considered incomplete and scored as such.
+    •   Please note that equivalent equipment must show compatibility with existing network structure.
+    •  No refurbished equipment is acceptable.
+    •   All proposals need to include shipping as separate items in the response.
+    •   All requested equipment can be found in the Equipment List found below and in Addendum #1
+
+Equipment List
+                                                                        Support         Unit     Ext.
+       Item                               Description                     Term   QTY   Price    Price
+ Cisco 9200CX
+  C9200CX-12P-      CISCO-Catalyst 9000 Compact Switch 12 port PoE+, for      36
+     EDU                         EDU                       months   20
+    CON-SNT-      CISCO-SNTC-8X5XNBD Catalyst 9000 Compact Switch 12
+   C920PEDU                             port PoE                               20
+ C9200CX-DNA-A-     CISCO-C9200CX Cisco DNA Advantage, 12-Port Term
+       12                                  Licenses                               20
+    C9200CX-       CISCO-C9200CX Cisco DNA Advantage, 3Y Term License,
+   DNAA12-3Y                          12P                                 20
+   CAB-TA-NA           CISCO-North America AC Type A Power Cable                20
+ SCAT9200CXUK9-
+      1712            CISCO-Cisco Catalyst 9200CX XE 17.12 UNIVERSAL               20
+ NETWORK-PNP-   CISCO-Network Plug-n-Play Connect for zero-touch device
+         LIC                           deployment                             20
+ C9200CX-NW-A-
+       12           CISCO-C9200CX Network Advantage, 12-port license             20
+
+ Cisco 9200
+                                                                    36
+  C9200-48P-EDU          CISCO-Catalyst 9200 48-port PoE+ only, K12        months   10
+    CON-SNT-      CISCO-SNTC-8X5XNBD Catalyst 9200 48-port PoE+ only,
+    C9248PED                          K12                                 10
+ C9200-DNA-A-48  CISCO-C9200 Cisco DNA Advantage, 48-Port Term Licenses           10
+  C9200-DNA-A-    CISCO-C9200 Cisco DNA Advantage, 48-Port, 3 Year Term
+      48-3Y                                License                               10
+ C9200-NW-A-48      CISCO-C9200 Network Advantage, 48-port license              10
+  C9200-NM-4X          CISCO-Catalyst 9200 4 x 10G Network Module                10
+    PWR-C6-      CISCO-1KW AC Config 6 Power Supply - Secondary Power
+    1KWAC/2                             Supply                                10
+   CAB-TA-NA           CISCO-North America AC Type A Power Cable                20
+  C9K-ACC-RBFT   CISCO-RUBBER FEET FOR TABLE TOP SETUP 9200 and 9300           10
+                   CISCO-12-24 and 10-32 SCREWS FOR RACK INSTALLATION,
+  C9K-ACC-SCR-4                      QTY 4                                10
+ CAB-GUIDE-1RU   CISCO-1RU CABLE MANAGEMENT GUIDES 9200 and 9300           10
+ NETWORK-PNP-   CISCO-Network Plug-n-Play Connect for zero-touch device
+         LIC                           deployment                             10
+
+GENERAL CONDITIONS
+ 1.    All items to be quoted F.O.B. delivered Chatham, Virginia unless otherwise specified herein.  Title does not
+       transfer to the School Board until receipt.
+ 2.   Sums of money shall be indicated both by Unit Cost and Total Item Cost. In case of discrepancy, the Unit Cost
+       will govern.
+ 3.   Cash discounts offered may be considered in determining the successful supplier. Cash discount period will start
+      from date of receipt of acceptable invoice or from date of receipt of acceptable material, whichever is the later.
+ 4.    Brands of EQUAL quality or type are acceptable unless specified NO SUBSTITUTION, but substitution must be
+      noted on bid. We reserve the right to make the final decisions as to comparable items. Be very certain that items
+     upon which you bid and deliver are EQUAL to items listed. Materials which are not equal will be returned to the
+       supplier transportation charges collect.
+
+ 5.    Samples, when requested, must be marked with the name of vendor and the unit price specifically stated. Samples
+      must be delivered free of charge, and those carelessly soiled in process or spoiled by examination or tests will not
+      be paid for by the Pittsylvania County School Board.
+ 6.    Pittsylvania County School Board reserves the right to accept or reject any or all quotations and/or bids, and to
+      waive all formalities. This inquiry implies no obligation on the part of the buyer, nor does the buyer's silence
+      imply any acceptance or rejection of any quotation offer.
+ 7.      It is understood and agreed that the School Board reserves the right to increase or decrease quantities or modify
+       conditions and specifications by mutual agreement with the selected supplier, both at the time of acceptance of
+        this quotation offer as so modified, and subsequent thereto.
+ 8.      It is understood and agreed that the delivery date and/or date of installation AFTER receipt of a purchase order is
+       the seller's best offer. In its acceptance of any quotation offer, the School Board is relying on the promised delivery
+       date and/or installation as material and basic to its acceptance, unless otherwise indicated. In the event of seller's
+       failure to deliver as and when promised, the School Board reserves the right to cancel its accepting order, or any
+       part thereof, and seller agrees that the School Board may return all or part of any shipment so made, and may
+      charge seller with any loss or expense sustained as a result of such failure to deliver as promised.
+ 9.   The School Board is exempt from all applicable Federal and State Taxes.  All Quotation offers and/or bids are
+     made taking this fact into consideration.
+10.   By responding to this quotation offer, Vendor warrants that it meets prevailing wage rates in its area.
+11.   Please note carefully -- In quoting, give complete information in spaces provided, otherwise your quotation offer
+     may be given no consideration.
+12.    In the event any article to be sold or delivered hereunder is covered by any patent, copyright, trade-mark, or
+       application therefore, the seller will indemnify and hold harmless the School Board from any and all loss, cost,
+      expenses and legal fees on account of any claims, legal actions, or judgments on account of manufacture, sale, or
+      use of such article in violation, infringement or the like of rights under such patent, copyright, trade-mark or
+       application.
+13.   The School Board will not be responsible for any goods delivered, or services performed without its purchase
+       order, signed by an authorized representative of the Central Office.
+14.   Preference is hereby given to materials, supplies and provisions produced, manufactured or grown in the state of
+       Virginia, quality being equal to articles offered by competitors outside of this area.
+15.   Employment discrimination by contractor is prohibited. During performance of this contract, the contractor agrees
+       to follow the Code of Virginia section 2.2-4311.
+16.   Contractor is to maintain a drug-free workplace. During the performance of this contract the contractor agrees to
+      follow the Code of Virginia section 2.2-4312.
+     The contractor will include the provisions of the foregoing sections 15 and 16 in every subcontract or purchase
+      order over $10,000 so that the provisions will be binding upon each subcontractor or vendor.
+17.  Successful company to be awarded a contract will be required to complete a Contractor’s Certification of
+     Requirements of 22.1-296.1 of the Code of Virginia which states “Section 22.1-296.1 of the Code of Virginia
+      requires that “as a condition of awarding a contract for the provision of services that require the contractor or his
+     employees to have direct contact with students on school property during regular school hours or during school-
+     sponsored activities, the school board shall require the contractor to provide certification that all persons who will
+      provide such services have not been convicted of a felony or any offense involving the sexual molestation or
+      physical or sexual abuse or rape of a child. Any person making a materially false statement regarding any such
+      offense shall be guilty of a Class I misdemeanor and, upon conviction, the fact of such conviction shall be grounds
+      for the revocation of the contract to provide such services and, when relevant, the revocation of any license required
+      to provide such services.  School boards shall not be liable for materially false statements regarding the
+       certifications required by this subsection”.
+18.  The contractor does not, and shall not, during the performance of this contract for goods or services, knowingly
+     employ an unauthorized alien as defined in the Federal Immigration Reform and Control Act of 1986.
+19.  Debarment and Suspension (Executive Orders 12549 and 12689)—A contract award (see 2 CFR 180.220) must not
+     be made to parties listed on the government-wide exclusions in the System for Award Management (SAM), in
+     accordance with the OMB guidelines at 2 CFR 180 that implement Executive Orders 12549 (3 CFR part 1986
+     Comp., p. 189) and 12689 (3 CFR part 1989 Comp., p. 235), “Debarment and Suspension.” SAM Exclusions
+      contains the names of parties debarred, suspended, or otherwise excluded by agencies, as well as parties declared
+      ineligible under statutory or regulatory authority other than Executive Order 12549.
+20. Byrd Anti-Lobbying Amendment (31 U.S.C. 1352)—Contractors that apply or bid for an award exceeding $100,000
+     must file the required certification. Each tier certifies to the tier above that it will not and has not used Federal
+
+      appropriated funds to pay any person or organization for influencing or attempting to influence an officer or
+     employee of any agency, a member of Congress, officer or employee of Congress, or an employee of a member of
+     Congress in connection with obtaining any Federal contract, grant or any other award covered by 31 U.S.C. 1352.
+     Each tier must also disclose any lobbying with non-Federal funds that takes place in connection with obtaining any
+      Federal award. Such disclosures are forwarded from tier to tier up to the non-Federal award.
+
+IMPORTANT NOTES:
+      This is not a Purchase Order. However, with regard to any order that may result from your quotation, the
+      following terms, conditions and provisions will apply.
+       1. To insure prompt payment, mail invoices in duplicate for each shipment. Invoices not mailed as directed may
+         delay payment or become lost. Mail and bill to: Pittsylvania County School Board, P. O. Box 232, Chatham,
+      VA 24531.
+       2. The laws of the State of Virginia, U.S.A., shall govern in connection with the formation, performance and the
+           legal enforcement of this purchase order.
+       3. None of the TERMS, CONDITIONS, AND SPECIFICATIONS STATED in this purchase order may be
+         added to, modified, superseded or otherwise altered except in writing, signed by an authorized representative
+          of the Pittsylvania County School Board and sent by the School Board to vendor, and each shipment received
+        by the School Board from vendor shall be deemed to be only upon the terms and conditions contained in this
+         purchase order, notwithstanding any terms and conditions that may be contained in any acknowledgment,
+          invoice form, or other act of vendor and notwithstanding School Board act of accepting or paying for any
+         shipment or similar act of School Board.
+       4. This purchase order is an ACCEPTANCE of your OFFER as summarized in your quotation noted above.
+       When this purchase order is an OFFER to buy, your ACCEPTANCE must show promised delivery date and
+        method of shipping, including routing and names of carriers.
+        A.  Please advise BUYER immediately if you cannot make complete shipment to arrive on your promised
+              delivery date noted above.
+         B. Your ACKNOWLEDGEMENT must show expected shipping date and method of shipping, including
+              routing and names of carriers.
+         C.  In the event of VENDOR’S FAILURE to deliver as and when specifically promised, the School Board
+              reserves the right to cancel this purchase order, or any part thereof, without prejudice to its other rights,
+            and VENDOR agrees that the School Board may return all or part of any shipment so made and may
+             charge vendor with any loss or expense sustained as a result of such failure to deliver as promised.
+       5. Cash discount period will start from date of receipt of acceptable invoice or from date of receipt of acceptable
+         merchandise, at destination by authorized School Board agent, whichever is the later.
+       6. This ORDER is made on the following express conditions:
+        A. That GOODS REJECTED due to failure to meet specifications, either when shipped or due to defects or
+           damage in transit may be returned to you for credit, and are not to be replaced except upon receipt of
+              written instructions from the School Board.
+         B.  That GOODS are subject to School Board inspection on arrival.
+         C.  That if PRICE is omitted on purchase order, vendor’s price will be the lowest prevailing market price.
+       7. TAX EXEMPT: The School Board is not required to pay state and local sales or use tax, Federal Excise and
+          Federal Transportation taxes, and such taxes should not be charged.
+       8. By accepting this order, vendor warrants that it meets prevailing WAGE RATES in its area.
+       9. TERMINATION:  Settlement of purchase orders terminated for convenience of the School Board not
+          involving delay of late delivery, MAY be effected by negotiated agreement. Every effort will be made to
+         reach a fair and prompt settlement with the vendor.
+       10. Receipt of the merchandise, services or equipment in response to this order can result in authorized payment
+        on the part of the School Board. However, it is to be understood that FINAL ACCEPTANCE is dependent
+        upon completion of  all applicable required inspection procedures.  Should the service rendered or
+         merchandise furnished, fail to meet all inspection requirements, the School Board reserves the right to open
+          negotiations with the vendor to permit a mutually acceptable and equitable solution to the transaction.
+       11. To INSURE COMPLIANCE with the terms, conditions and provisions of this contract, the following must
+         be accomplished: All reports, notices, and advice of any nature concerning administration of this order or
+          contract prepared by your company for School Board use must be furnished solely to the Buyer within the
+         School Board for use as applicable.
+
+       12. A bidder for a public construction contract, other than a contract for construction or maintenance of public
+         highways, may withdraw his bid from consideration if the price bid was substantially lower than the other
+          bids due solely to a mistake in the bid, provided the bid was submitted in good faith, and the mistake was a
+           clerical mistake as opposed to a judgment mistake, and was actually due to an unintentional arithmetic error
+          or an unintentional omission of a quantity of work, labor or material made directly in the compilation of a
+           bid, which unintentional arithmetic error or unintentional omission can be clearly shown by objective
+         evidence drawn from inspection of original work papers, documents and materials used in the preparation of
+          the bid sought to be withdrawn. The bidder shall give notice in writing of his claim of right to withdraw his
+          bid within two business days after the conclusion of the bid opening procedure and shall submit original work
+         papers with such notice.
+       13. No bid shall be withdrawn under this section when the result would be the awarding of the contract on another
+          bid of the same bidder or of another bidder in which the ownership of the withdrawing bidder is more than
+           five percent.
+       14. If a bid is withdrawn in accordance with this section, the lowest remaining bid shall be deemed to be the low
+           bid.
+       15. No bidder who is permitted to withdraw a bid shall, for compensation, supply any material or labor to or
+         perform any subcontract or other work agreement for the person or firm to whom the contract is awarded or
+         otherwise benefit, directly or indirectly, from the performance of the project for which the withdrawn bid was
+          submitted.
+       16. If the public body denies the withdrawal of a bid under the provisions of this section, it shall notify the bidder
+          in writing stating the reasons for its decision and award the contract to such bidder at the bid price, provided
+         such bidder is a responsible and responsive bidder.
+
+       All Request for Proposal should be directed to the following address:
+
+                    Mrs. Emily S. Reynolds, Director of Information Technology
+                        Pittsylvania County School Board
+                        P. O. Box 232
+                   Chatham, VA 24531
+
+       Label the lower left corner of the envelope as follows:
+
+                     Request for Proposal for ______________________________________
+
+                        Specification # _______________________________________________
+
+         If you intend to have your proposal delivered by Federal Express, or any overnight mail service, we have found that
+       delivery time varies from 2:45 p.m. to 4:30 p.m. each day. You should keep this restraint in mind when using any of
+       these overnight mail services.
+
+THE UNDERSIGNED HEREBY:
+ 1.      Agrees to deliver the items specified herein in accordance with the terms, conditions, specifications and prices set
+          forth.
+ 2.       Certifies that he has not used any outside agent at arriving at the bid figures; and has not contacted any competitors
+         in arriving at these figures.
+ 3.      Agrees to follow non-discrimination guidelines as outlined above.
+
+                                                FIRM ________________________________________
+
+                                              BY ___________________________________________
+
+                                                             DATE_________________________________________
+
+                                                           TELEPHONE__________________________________
+
+                                                    E-MAIL ADDRESS___________ _________________
+
+         THIS PAGE MUST BE SIGNED AND ATTACHED TO THE FRONT OF YOUR PROPOSAL
+
+      CONTRACTOR’S CERTIFICATION OF
+     REQUIREMENTS OF CODE OF VIRGINIA
+
+Section 22.1-296.1 of the Code of Virginia requires that “as a condition of awarding a contract for the provision of services that
+require the contractor or his employees to have direct contact with students on school property during regular school hours or
+during school-sponsored activities, the school board shall require the contractor to provide certification that all persons who will
+provide such services have not been convicted of a felony or any offense involving the sexual molestation or physical or sexual
+abuse or rape of a child.
+Any person making a materially false statement regarding any such offense shall be guilty of a Class 1 misdemeanor and, upon
+conviction, the fact of such conviction shall be grounds for the revocation of the contract to provide such services and, when
+relevant, the revocation of any license required to provide such services. School boards shall not be liable for materially false
+statements regarding the certifications required by this subsection.”
+Section 2.2-4311. Employment discrimination by contractor prohibited; required contract provisions.
+All public bodies shall include in every contract of more than $10,000 the following provisions:
+1. During the performance of this contract, the contractor agrees as follows:
+     a.  The contractor will not discriminate against any employee or applicant for employment because of race, religion, color,
+         sex, national origin, age, disability, or other basis prohibited by state law relating to discrimination in employment, except
+       where there is a bona fide occupational qualification reasonably necessary to the normal operation of the contractor. The
+         contractor agrees to post in conspicuous places, available to employees and applicants for employment, notices setting
+         forth the provisions of this nondiscrimination clause.
+     b.  The contractor, in all solicitations or advertisements for employees placed by or on behalf of the contractor, will state that
+        such contractor is an equal opportunity employer.
+     c.   Notices, advertisements and solicitations placed in accordance with federal law, rule or regulation shall be deemed
+          sufficient for the purpose of meeting the requirements of this section.
+2. The contractor will include the provisions of the foregoing paragraphs a, b and c in every subcontract or purchase order of over
+$10,000 so that the provisions will be binding upon each subcontractor or vendor.
+Section 2.2-4311.1. Compliance with federal, state, and local laws and federal immigration law; required contract
+provisions.
+All public bodies shall provide in every written contract that the contractor does not, and shall not during the performance of the
+contract for goods and services in the Commonwealth, knowingly employ an unauthorized alien as defined in the federal
+Immigration Reform and Control Act of 1986.
+Section 2.2-4312 Drug-free workplace to be maintained by contractor; required contract provisions.
+During the performance of this contract, the contractor agrees to (i) provide a drug-free workplace for the contractor’s employees;
+(ii) post in conspicuous places, available to employees and applicants for employment, a statement notifying employees that the
+unlawful manufacture, sale, distribution, dispensation, possession, or use of a controlled substance or marijuana is prohibited in the
+contractor’s workplace and specifying the actions that will be taken against employees for violations of such prohibition; (iii) state
+in all solicitations or advertisements for employees placed by or on behalf of the contractor that the contractor maintains a drug-
+free workplace; and (iv) include the provisions of the foregoing clauses in every subcontract or purchase order of over $10,000, so
+that the provisions will be binding upon each subcontractor or vendor.
+           I hereby certify that neither I nor any of the employees of my company nor any employee of a subcontractor employed by
+my company who will be in the presence of students during regular school hours or during school-sponsored activities have been
+convicted of a felony or any offense involving the sexual molestation or physical or sexual abuse or rape of a child. My company
+and any sub-contractor employed by my company shall follow the equal opportunity employment laws of the State of Virginia
+during the performance of this contract. My company and any sub-contractor employed by my company shall not knowingly
+employ an unauthorized alien during the performance of this contract.
+
+
+                                         Authorized signature
+
+
+
+
+                                  Company name (if applicable)
+
+
+
+                                        Date
+REVISED July 30, 2009

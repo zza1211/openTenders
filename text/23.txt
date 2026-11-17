@@ -1,0 +1,619 @@
+  TENDER FOR SUPPLY & INSTALLATION OF NETWORKING
+EQUIPMENT’S FOR PERMANENT CAMPUS OF THE INSTITUTE AT
+         OKHLA PHASE-III, NEW DELHI-110020
+
+
+
+
+
+             (IIITD/IT/NetworkingEquipments/18/2023-24)
+
+                       INVITIATION FOR BIDS
+
+Indraprastha Institute of Information Technology -Delhi (IIITD), a State University created
+by an Act of Govt. of NCT of Delhi, invites sealed bids for Networking Equipment’s (as
+per specifications mentioned under Scope of Work below) for its campus at Okhla Phase- III
+New Delhi-110020 .
+
+1.    An amount of Rs.1,00,000/- (Rupees one lakh only) towards earnest money
+     (EMD) must be deposited in the form of demand draft in favour of “IIIT-Delhi
+       Collections” account, payable at New Delhi. No interest will be paid on the earnest
+     money deposited by the bidder. Tender Document without earnest money will be
+      summarily rejected. The tender fee is exempted for MSMEs/NSIC registered suppliers
+        (Certificate to be submitted for exemption).
+
+2.    The tender document can be downloaded from the Institute’s web-site , may please
+       deposit non-refundable Tender Document Fee of Rs.1,000/-+GST extra i.e.(Rs.
+       1,180/-) (Rupees One Thousand one Hundred Eighty only) in the form of Demand
+       draft drawn in favour of IIIT-Delhi Collections”, payable at New Delhi .
+3.    The last date for submission of bid is 4th October, 2023 up to 3:00 PM. The Technical
+       bids shall be opened on the same day i.e. 4th October, 2023 up to 3.30.The Tender
+     Document should be addressed to:
+
+      Registrar,
+      Indraprastha Institute of Information Technology-Delhi
+     Okhla Phase-III
+      (Behind Govind Puri Metro Station)
+    New Delhi-110020.
+
+      The document may be deposited in the Tender Box kept in the Store & Purchase
+      department at the Room no. A 107, First Floor, Old Academic Block of the
+        Institute. Bids received after 3:00 PM will not be accepted or considered under any
+       circumstances.
+
+      Bidding Procedure:
+
+1.     Bids are invited in Two Bids System i.e. (1) Technical and (2) Financial.
+       Technical and Financial bids should be sealed separately and enclosed in a sealed
+       envelope clearly indicating separately Technical Bid for “Networking Equipment” and
+       Financial Bid for " Networking Equipment " addressed to Registrar IIIT-Delhi, Okhla
+       Industrial Area Phase-III, New Delhi-110020. Otherwise the bid will not be
+      considered.
+2.     Sealed quotations shall be received not later than 3.00 P.M. on 4th October, 2023. No
+       bids will be accepted after this date & time under any circumstances. The Institute will
+       not be responsible for any postal/courier delay and also for reasons beyond control of
+       the Institute.
+
+3.     Technical bids must contain the EMD for specified amount, along with complete
+       technical details as desired by this tender. Technical bids of all the bidders will be
+      opened on pre scheduled date, time & venue. Technical bids without EMD will be
+      summarily rejected. The financial bid will be opened after evaluation of the technical
+       bid. Financial bid of only those meeting the requirement of the Institute will be opened
+      and no representation in this regard will be entertained. The date, time of opening of
+       financial bid will be communicated later.
+
+                       Scope of Work(Supply & Installation)
+
+      S.N.     Item Name                             Quantity
+              48 Port Core Switch with dual power
+         1        supply                                     2
+              48 Port Distribution Switch with dual
+       2       power supply                               6
+       3       10G LR SFP                                     12
+
+    Note- All hardware, software & Licenses warranty & support should be for minimum 60 months
+
+
+                               Technical Specifications
+ All Network switches , accessories & SFP should be same make (OEM). Core switch should support
+ existing configuration, Bidder can visit & check the existing configuration before bidding. All
+ compliance should be full field otherwise bidder will technically be disqualified
+
+      S.N.     Item Name                   Bedded Model & Brand
+              48 Port Core Switch with dual power
+         1        supply
+              48 Port Distribution Switch with dual
+       2       power supply
+       3       10G LR SFP
+
+ 1 : 48 Port Core Switch (Qty-2)
+
+                       48 Port Core Switch (Qty-2)
+Sr.                                                             Compliance        Criteria                   Feature DescriptionNo.                                                                 (Yes/No)
+
+                        Switch shall be 1U rack mountable in standard 19" rack.
+                   Minimum 48 Gigabit Ethernet 1/10/25 Gbps Fiber SFP+
+                           Ports. Switching should be compatible with existing SFP’s
+                                        department has.
+
+                   Must have scalability to add minimum 4 x 40/100 GBe Fiber
+                              QSFP+ ports from day 1
+
+
+                    Minimum upto 3 Tbps Switching bandwidth capacity.
+
+                      Minimum Packet Forwarding Rate of 900 Mpps
+         General  1                            Minimum 4k VLANs IDs      Requirements:
+                              Platinum rated Redundant Power Supply
+                 Minimum support for 128K MAC address and 32K Multicast
+                                                 routes
+                     Should support IPv6 protocol as per the RFC 2460 from day
+                                            one
+                   The downlink ports shall support 1/10G Base LX/LH/SX/ 1G
+                                     BaseT transceivers
+
+                         Port security, IEEE 802.1x, SPAN /port mirroring, SSH
+
+                   Advanced Access Control Lists (ACL), TACACS+ and RADIUS
+                                              authentication
+
+                            SSHv2 and SNMPv3, IGMPv3
+                       Multilevel security on console access to prevent unauthorized
+     Access Control2                                               access
+        Features:
+                                   802.1Q Tagged VLAN
+                LLDP and LACP to bundle links and detect miscabling issues.
+                        IEEE 802.1s, IEEE 802.1w, 802.1X support
+                       Egress Queues , Strict priority queuing, WRR/SRR, flow
+                           based rate limiting or ACL based rate limiting
+      VLAN
+3                                            Traffic segmentation        Features
+                            Traffic classification should be based on user-definable
+                         application types: Port based, Mac address, IP address,
+                             TCP/UDP port number
+
+                    Should support routing protocol IP v4 - Static routing, OSPF
+                             v2, BGPv4, and IP v6 - BGP, OSPF v3, VRF, NAT,
+                   EVPN+VXLAN on the same hardware from day 1
+
+      Protocol and    Should support BGP Prefix Origin Validation with Resource
+4         Traffic                    Public Key Infrastructure (RPKI)
+        Features
+                     Should support Graceful restart for BGP, OSPF v2 and v3
+                          Switch must support IP v4 VRRP and VRRP v6.
+                      Switch should support VRF - Lite and VRF Route leaking
+                                        functionality (or) equivalent.
+
+                     Should support minimum 250K Route entries for IPv4 and5       Routing                                         IPv6 routes.
+
+                    Should Support MAC Address Filtering based on source and
+                                           destination address
+
+                   Should support AAA. It must support RADIUS and TACACS+
+                       protocol as well. The switch must support Role Based access
+                                            control (RBAC).
+
+                                       It should support Security and QOS ACL's.
+6       Security             The switch should support Port-security.
+                           Should support Ingress or Egress Queuing.
+                      Should support integrated security features like DHCP
+                             snooping, ARP inspection, IP Source guard
+                          Should support Standard and Extended ACLs
+                     Should support various type of ACLs like MAC Based, Port
+                                 based, Vlan Based and routed ACLs.
+
+                     Should support QoS scheduling with queues supported in
+                                         hardware
+        Quality of7                            Should support up to 8 queues per port         Service
+                          Should support ACL based traffic classification
+                           Should support IPv4 and IPv6 Multicasting
+                         Should Support IGMP v1/v2/v3, IGMP Snooping
+8      Multicast     Should support IPv4 Multicast with support for PIM-SM and
+                                      IGMPv3.
+
+                       Should support IPv6 Multicast with support for MLD v2.
+                        Multicast Source Discovery Protocol (MSDP)and IP Multicast
+                                               Multipath.
+
+                          Switch should support minimum 30K IGMP Group.
+                  USB or RS-232 console port for management via a console
+                                             terminal or PC
+                             SNMP v1, v2, v3
+
+                      Should support Netflow or equivalent for traffic monitoring.
+      Management 9         Features                                  CLI management support.
+                                     Layer 2/Layer 3 trace route
+                                    TFTP/FTP/SCP
+                      Should support secure Zero touch provisioning with options
+                         to provision Certificates artifacts on the device when it boots.
+                       Switches Operating system must support telemetry of system
+                           information and real time monitoring to identify and         Switches
+                                  automate the issues resolution. 10     Operating
+         System                     should have programmability and automation support with on
+                             board python, bash and docker containers.
+         Operating  11                                32 to 104°F (0 to 40°C)       temperature
+         Operating
+ 12        relative                 15% to 85%, noncondensing
+         humidity
+                        Switch must be rack mountable. Rack mounting kits and
+ 13     Mounting
+                                       accessories should be supplied.
+
+         Cables & 14                       All necessary cables - power & accessories should be supplied        Accessories
+
+        Support &      OEM's direct 5 Years NBD support for throughout the 15        Warranty                           contract period.
+
+       Compliance    Switch shall conform to EN 61000-3-3/60950-1, EN/IEC EN 16         Standard                      62368-1 Standards.
+
+                     The offered switches should be Common Criteria Certified 17      Certificate                                     (EAL/NDPP)
+
+
+                           All the features asked above should be available from the day
+                    one and if any licenses to be added to achieve the same, those 18      Features                         should be added as part of the proposals and BOM. All
+                               licenses should be Perpetual in nature from Day 1.
+
+ 19      Features              Switch should be ipv6 certified from day 1
+ 20      Features           Switch should support PTP (1588v2) from day 1
+
+ 2 : 48 Port Distribution Switch (Qty-6)
+                    48 Port Distribution Switch (Qty-6)
+Sr.                                                              Compliance      Criteria                      Feature DescriptionNo.                                                                 (Yes/No)
+
+                     Switch should have 48 x 10/100/1000M ports and minimum  1                   4 numbers of 10/25G SFP28 or higher uplinks ports.     Hardware
+    platform and                     Switch should support non-blocking wire rate L2 and L3
+     architecture 2                   forwarding and switch should have minimum throughput of
+                   296 Gbps & 220 MPPS
+
+                        Shall support modern modular operating system supporting 3                          fault isolation with stateful repair and live patching.       High
+      Availability                     Switch should support redundant Power Supply and 4
+                    redundant Fans
+
+                     Switch should support 32K mac address, MSTP, per vlan 5                   RSTP, LLDP, LACP and private-vlan
+
+                     Switch should support Layer-2 interface, SVI and L3 sub- 6                        interfaces
+ 7                  Should support 9K Bytes jumbo frames, Q-in-Q
+                     Switch should support static routing, dynamic routing with
+                        ISIS, OSPF and BGP, BGP Prefix Origin Validation with 8                     Resource Public Key Infrastructure (RPKI), VRRPv3 and
+     L2 and L3                VRF
+       features                     Switch should support Bidirectional forwarding detection, ip
+ 9                unnumbered BFD, unicast-RPF, policy based routing and
+               GRE
+10                   should support latest IETF open standard for VXLAN+EVPN
+                     should support PIM-SM, PIM-BiDir, IP Multicast Multipath 11                   and anycast-RP
+12                  Should support up to 16K IPv4 routes
+13                  Should support up to 4K IPv6 routes.
+                     Device should support port ACL to filter traffic based on L2,14                  L3 and L4 parameters
+
+                     Switch should support root guard, loop guard and bridge15                      assurance
+
+                   The switch should support IEEE 802.1x providing user
+16                     authentication, authorization, dynamic vlan assignment,
+                   dynamic ACL and CoA.
+
+                    Should support control plane policing to protect from denial
+ 17                        of service attacks     QoS and
+       Security                    Should support role based access control with TACACS+ and
+18                    Radius
+
+                     Switch should support Standard 802.1p CoS field
+19                       classification, Differentiated services code point (DSCP) field
+                          classification and ACL based classification
+
+                     Switch should support policing, shaping and Marking.20                 Minimum 8 queues per port.
+
+21                   Switch should support priority queuing.
+
+    Management,  Should support SNMPv3, SSH, SFTP, SCP for secure
+22    Automation   management and file transfer
+
+     and Visibility                      Should support Configuration session and rollbacks,  23                        schedular and Event Manager
+
+                      Should support open standard for remote programmability
+  24                        using OpenConfig over gRPC, API and ansible.
+
+                       should support realtime streaming telemetry that can be
+                        exported to external NMS like ELK, Prometheus, etc
+                          platforms.
+  25
+                        Switches Operating system must support telemetry of system
+                        information and real time monitoring to identify and
+                      automate the issues resolution.
+
+                      Should support onboard programmability with python and  26                         bash.
+
+                       Switch should support remote port mirroring over GRE, ACL
+  27                       filtered mirroring session and onboard packet capture tool
+                           for troubleshooting and traffic analytics.
+
+                       should be certified for EAL/NDcPP common criteria UL/CSA  28                      60950-1/EN61000-3-2, EN55035
+  29                   should support IPv4 and IPv6 dual-stack simultaneously
+  30                   should have IPv6 ready logo certification
+
+                     Hardware and TAC support should be directly from the
+   31              OEM. OEM should have 24x7 TAC supported. OEM email-id
+      Support and   and India Contact support no. to be provided.
+      Compliance
+
+                            All the features asked above should be available from the day
+                      one and if any licenses to be added to achieve the same, those
+                       should be added as part of the proposals and BOM. All  32                           licenses should be Perpetual in nature from Day 1. Hardware
+                       Support OEM's direct 5 Years NBD support for throughout
+                         the contract period.
+
+
+  3 : 10 G LR SFP (Qty-12)
+                               10 G LR SFP (Qty-12)
+ Sr.                                                                Compliance
+                              Feature Description No.                                                                    (Yes/No)
+        1  10G LR SFP to support 10KM distance for distribution & Core Switch
+         Hardware Support OEM's direct 5 Years NBD support for throughout the
+      2  contract period.
+
+  Note- For any warranty replacement any charges like Custom duty etc. will be borne by the
+  bidder/vendor. We need next business day hardware replacement.
+
+I /We hereby certify that the information furnished above is full and correct to the
+best of my/our knowledge.
+
+
+Date:
+Place:
+
+                                       (Signature of the authorized Signatory)
+                                                        Office Seal.
+
+ Minimum Eligibility Requirement for technical bid:
+
+1  Bidder should be OEM/Authorized Partner/service provider of the OEM. In case the
+   bidder is an Authorized Partner or Service Provider a valid Agency-ship/Dealership
+    Certificate (MAF specific to this tender) to quote on behalf of OEM should also be
+   enclosed along with the technical bid. A document in support of this must be enclosed.
+   Bidder should also need to submit Technical Compliance on OEM Letterhead with
+   singed and stamp with the Technical Bid.
+2  OEM/bidders should have Sales and support office in Country. A self-
+   certified document in support of this must be enclosed.
+3  OEM/bidder should have service and support office in Delhi NCR. A self-certified
+   document in support of this must be enclosed.
+4  The warranty provided by the bidder should have a back to back arrangement with the
+   OEM. The declaration should be the part of a Letter of Authorization and
+   signed by competent authority at the OEM.
+5  The bidder should be ISO 9001 or better certified. A copy of ISO Certificate
+   should be enclosed.
+6  The bidder should have support center with minimum 3 relevant support/network
+    engineers. A self-certified document in support of this must be enclosed.
+7  The vendor/OEM should be able to provide 24x7 NOC & Tele support of their own if
+   required by IIITD at agreed terms. A self-certified document in support of this
+   must be enclosed.
+8  The bidder shall provide the Registration number of the firm along with the valid GST
+   number with PAN Number allotted by the competent authorities. A self-certified
+   document in support of this must be enclosed.
+9  The bidder must not be blacklisted by Central Government, State Government or
+   Government of Corporations in India. A certificate or undertaking to this effect
+   must be submitted.
+10 The bidder must be responsible for supply, deploy and support the infrastructure.
+
+11  Bidders can seek clarifications, raise technical queries etc. related to Tender by 20-09-
+   2023 via email to rahulv@iiitd.ac.in, Yogesh@iiitd.ac.in & for financial queries to e-mail
+   ajay@iiitd.ac.in. The replay to clarifications sought or queries raised will be replied
+   within 03 working  days and  uploaded on  the  website  of  the  institute under
+    www.iiitd.ac.in Based on this the bidders may submit bids as prescribed by the due date
+   the time. No clarifications in any other form will be provided.
+
+      Following information must accompany the financial bid:
+
+    1   Name, address and telephone number
+         of the firm/company
+   2  Name of the contact person and contact
+          details (mobile/telephone number etc.)
+   3  Name of the Bank and full address
+   4   Bank Account Number
+    5  PAN & GSTIN (Attach self-certified
+        copy)
+   6   Copy of Partnership Deed/ Certificate of
+         registration of company or any other
+       document evidencing registration of the
+        bidder
+    7   Number of Years of Experience
+   8   Details of DD
+        towards: Tender Fee:
+      EMD:
+
+   9   Provide the previous PO's of the similar
+        items work executed during last three
+         years (attested copies of the Orders to be
+         enclosed)
+    10  List of service canters, nearest location
+         of support centre.
+    11  Turnover of the bidder in the financial
+         years:
+
+
+        2020-21
+        2021-22
+       2022-23
+
+         Please attach CA certified copy of
+         the turnover.
+
+
+
+
+
+I /We hereby certify that the information furnished above is full and correct to the best
+of my/our knowledge.
+
+
+
+
+
+                                                 (Signature of the authorized Signatory)
+                                       Name:
+                                                    Office Seal.
+Date:
+Place:
+
+                TERMS AND CONDITIONS
+
+1.    The financial bid should be valid for a period of not less than 60 days from the date
+       of opening of bid.
+
+2.    Upon placing of the Purchase Order (PO), the successful bidder is required to submit
+       performance Bank guarantee (PBG) equivalent to 5% of the PO value within 15 days of
+       the date of PO, failing which the EMD amount will be forfeited and the bidder shall be
+        notified as blacklisted. The PBG shall be valid for a period of 60 months from date of
+       purchase order. No interest is payable on the PBG.
+
+3     The product to be supplied within a period of 6-8 weeks from the date of the
+       Purchase Order by the Institute. (Can be extended maximum up to 6 months from the
+       date of Purchase order in extreme/ unavoidable global conditions). The bidders who
+       are not able to deliver the product within the mentioned timeline, need not to apply.
+       Also if any delay in the delivery timeline the penalty may be imposed (Rs.5,000/- per
+        day).
+
+4     The bidder should have their own test and repair facility with certified engineers.
+
+5    PBG will be realized by IIIT-D in case of termination of the contract for unsatisfactory
+      performance and/or non-performance of the contract.
+
+6     Bids will be opened in the presence of bidder’s representatives, who choose to
+       attend on the specified date and time. Only one representative shall be allowed to
+        attend.
+
+7     Sealed bid can be sent either by post or by messenger. The responsibility of
+        delivery of bid lies entirely with the bidder.
+
+8    100% payment will be released only on satisfactory installation as per scope of work as
+        certified by officer in charge of the Institute and after producing the GST invoice. Bidder
+      does not agree to above payment terms are requested not to submit their bid.
+
+9     Payment will be paid only if required SLA as mentioned in scope of work is met.
+
+10    In the event of dispute, Director, IIIT-Delhi shall be the sole arbitrator and his decision
+        shall be final and binding on both the parties.
+
+11     IIIT-Delhi does not bind itself to accept the lowest or any other offer and reserves the
+        right to accept or reject any or all the offers either in full or in part without assigning
+      any reason.
+
+12     In case the bidder is not able to execute the Work as per terms, EMD/PBG shall be
+        forfeited.
+
+13    The bidder must be an ISO-9000 certified organization.
+
+14    The bidder should be Original Equipment Manufacturer (OEM) or authorized
+        service provider of the OEM (attach documentary proof). The authorization issued
+      by the OEM must be valid and enclosed.
+
+16    Bidder must submit an attested copy of every page of the tender
+ 17    Bidder should provide details of its support, certification to this effect from the OEM.
+ 18     If vendor /OEM fails to meet the SLAs(next business day hardware replacement), a
+        fine of 2000/- Rs per day for first seven days and @ Rs.5,000/- per day from 8th day
+      onwards will be levied.
+
+19   The selected bidder has to sign an agreement with IIITD on a stamp paper after issue
+      of Purchase/Work order. The agreement is attached Annexure ’Y
+
+                 PROFORMA FOR FINANCIAL BID
+
+
+S.N.   Item Details                              Rate (INR)   Qty  Amount (INR)
+       48 Port Core Switch with dual power
+                                                                       2    1    supply
+       48 Port Distribution Switch with dual
+                                                                       6   2   power supply
+   3   10G LR SFP                                                   12
+
+                                           Total Amount (INR)
+                                        Tax (18% GST)
+                                                  All Inclusive Cost(INR)(With
+                                   18% GST)
+
+
+- Please note the price should be quoted for each of the item should be inclusive of all
+taxes/charges and installation at IIIT-Delhi Okhla Phase III, New Delhi.
+
+ - The Bidder may obtain price in Forex(USD) however the quote in financial Bid
+should be INR only.
+
+
+-If any documents are required for availing custom duty exemption, the IIITD will
+provide the same. Please quote price accordingly.
+
+
+
+
+  Total Cost (all inclusive) of quantity mentioned above (in words) at IIIT-Delhi campus:
+
+ We accept that the rate quoted above shall remain valid for a period of 60 days from
+  the last date of the tender document i.e. 60 days from 4th October, 2023. It is certified
+  that the rates quoted above are not more than the rates charged from any Central /
+  State Govt. Deptt. / Institution / GeM.
+
+
+
+
+
+     (Signature and seal of the Bidder)
+
+                                                            Annexure Y
+
+              ON NON JUDICIAL STAMP PAPER OF RS 100/-
+
+  AN AGREEMENT made on               day of                 two  thousand  Twenty
+   One
+
+  BETWEEN
+
+
+
+   (Hereinafter called the contractor, which expression shall include its proprietor, partners, heirs,
+   executors, administrators, legal representatives, successors and assignees) WITH REGISTERED
+  ADDRESS……………………….of the one part
+
+  AND
+
+   The REGISTRAR Indraprastha Institute of Information Technology Delhi, Okhla Industrial Area
+   Phase III, New Delhi - 110020 (hereinafter called the IIITD, which expression shall include its
+   successors and assignees) of the other part.
+
+
+
+   Whereas the IIITD had invited Bids <Please write tender name> ; vide its Bid Document No.
+                                                      , which shall be deemed to be a part of this agreement; FOR THE
+  SCOPE OF WORK/SUPPLY
+
+   Whereas the contractor submitted its TENDER Bid dated                   , a copy  of  the  price  bid,
+
+   submitted by the contractor, is annexed hereto as Annexure;
+
+   Whereas the IIITD has accepted the Bid submitted by the contractor, on the terms and conditions
+
+   mentioned in the IIITD’s said Bid Document and conveyed its acceptance to the contractor; vide
+
+    its letter No. dated , AND ANY OTHER CORRESPONDENCE ……………………………………which
+
+    shall be deemed to be a part of this agreement;
+
+
+
+
+
+   Whereas the contractor is agreeable to the terms and conditions mentioned in the IIITD’s said
+   Bid document;
+
+
+
+   Whereas the contractor undertakes to comply with all relevant laws like Contract Labour (Regulation
+
+   and Abolition) Act, 1970; Employees’ State Insurance and Miscellaneous Provisions Act, 1952;
+
+   Employees’ State Insurance Act, 1948; Minimum Wages Act, 1948; Payment of Bonus Act, 1972;
+
+   Payment of Wages Act, 1936; Income Tax Act; GST Act etc. and to indemnify the IIITD
+
+from the contractor’s acts of omission or commission, as regards the compliance with the relevant laws;
+
+Whereas the contractor declares that he/she/it shall own all responsibility for any act of omission or
+commission, as regards the compliance with the relevant laws;
+
+AND WHEREAS the IIITD  is agreeable to make necessary payment to the Contractor, at the rates
+mentioned in the Annexure annexed hereto and as per the terms and conditions mentioned in the IIITD’s
+said Bid Document;
+
+
+
+In WITNESS whereof Shri (name), (designation), the authorized representative of the contractor, for and
+on behalf of the contractor, has hereunto set his hand and
+
+……………………………… for and on behalf of the IIITD has hereunto set his hand.
+
+
+
+
+
+                                           (Signature of the authorized representative of the Contractor) Name and
+
+                                                                    designation of the contractor’s representative
+
+
+In the presence of
+
+1
+
+
+2
+
+
+(Signature of witnesses with full name and full address)
+
+
+                                                                                               Registrar
+
+                                                                                for and on behalf of the IIITD
+
+ In the presence of
+
+1
+
+
+2

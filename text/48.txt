@@ -1,0 +1,783 @@
+                                                 DOC - 4
+
+
+
+
+
+                            CENTRAL COMPUTER CENTRE
+                    POST SRINIVASNAGAR, MANGALORE – 575 025 (D K)
+            Phone: (0824) 2474000.                                        Fax: (0824) 2474033
+            E- mail: pic.ccc@nitk.edu.in                                 Website: http://www.nitk.ac.in
+
+
+
+
+
+Notification. No: NITK/CCC/GPON-ONU/ONT/2024-25/DOC4                           Dated: 12/09/2024
+
+Name of Goods                         GPON ONU/ONT with Wifi support
+
+Estimated Amount                                        Rs. 4,75,000/- (including GST)
+EMD Amount (2% of estimated amount)
+                                                             Rs. 9,500/-
+(Applicable for estimate above 2.5 lakhs)
+
+Time for Supply of item after release of Purchase order    15 days
+
+Document Download / Sale Start Date                      12/09/2024, 05.00 PM
+
+Clarification Start Date                                     12/09/2024, 05.00 PM
+
+Clarification End Date                                      19/09/2024, 05.00 PM
+
+Bid Submission Start Date                                 12/09/2024, 05.00 PM
+
+Last Date for submission of bids                          30/09/2024 before 3.00 PM
+
+Bid Opening Date                                          01/10/2024, 3.00 PM
+                                                           Mr. C. Vairavanathan,
+Address for Submission of bids                            Technical Officer,
+                                                              Central Computer Centre (CCC), NITK, Surathkal
+                                                         Post Srinivasnagar, Mangalore-575025,
+                                                        Ph.No: 0824-2473947
+
+
+
+
+
+                                                                                        Page 1 of 18
+
+                     NATIONAL INSTITUTE OF TECHNOLOGY KARNATAKA, SURATHKAL
+                                  CENTRAL COMPUTER CENTRE
+                           POST SRINIVASNAGAR, MANGALORE – 575 025
+              Phone: (0824) 2474000                                         Fax: (0824) 2474033
+               E- mail: pic.ccc@nitk.edu.in                                     Website: http://www.nitk.ac.in
+______________________________________________________________________________________________
+
+Notification No: NITK/CCC/GPON-ONU/ONT/2024-25/DOC4                             Date: 12/09/2024
+
+                            NOTICE INVITING QUOTATION (NIQ)
+      The National Institute of Technology Karnataka, Surathkal (in short – NITK, Surathkal) is an
+Institute Of National Importance Under Ministry of Education Govt of India, imparting Technical Education and
+engaged in Research Activities. It is proposed to procure the items for the departmental academic/research activities.
+
+       Sealed Quotations as per the Price Schedule given in this NIQ are invited for the following items subject to the
+terms and conditions, from the reputed manufacturers or its authorised dealers so as to reach on or before scheduled
+date and time. The quotations in  the firm’s Business letter head should be address to the “Director, NITK, Surathkal”.
+The envelope shall be superscribed with the Quotation Notification Number and the Name of the Goods for which
+quotation is submitted.
+
+Name of Goods                         GPON ONU/ONT with Wifi support
+
+Estimated Amount                                       Rs. 4,75,000/- (including GST)
+EMD Amount (2% of estimated amount)
+                                                            Rs. 9,500/-
+(Applicable for estimate above 2.5 lakhs)
+Time for Supply of item after release of Purchase order   15 days
+
+Document Download / Sale Start Date                     12/09/2024, 05.00 PM
+
+Clarification Start Date                                    12/09/2024, 05.00 PM
+
+Clarification End Date                                    19/09/2024, 05.00 PM
+
+Bid Submission Start Date                                12/09/2024, 05.00 PM
+
+Last Date for submission of bids                         30/09/2024 before 3.00 PM
+
+Bid Opening Date                                         01/10/2024, 3.00 PM
+
+
+
+                                                                                      Sd/-
+                                                                   [Signature of HOD with Seal]
+
+
+Note: Institute shall not be responsible for any postal delay about non-receipt /non-delivery of the bids or due to wrong
+addressee.
+
+                                                                                        Page 2 of 18
+
+                                        SECTION-1
+                                    Terms and Conditions
+
+1.  The rates should be quoted for preferably FOR destination from supply within India.
+
+2.  The bidder shall indicate the excise duty exemption for the goods if applicable.
+
+3.  The rate quoted should be on unit basis. Taxes and other charges should be quoted separately, considering
+
+    exemptions if any. The rate should be quoted in INR only
+
+4.  Rate quoted should be inclusive of Testing, commissioning and Installation of equipment and Training.
+
+5.  Payment: No advance payment will be made. Payment will be made only after the supply of the item in good and
+
+    satisfactory condition and receipt of performance security by supplier.
+
+6.  Guarantee/Warrantee period should be specified for the complete period should be specified in section 3 of this
+
+    tender document.
+
+7.  Period requirement for the supply and installation of item should be specified in section 3 of this tender document.
+
+8.  In case of dispute, the matter will be subject to Mangalore Jurisdiction only.
+
+9.  Delivery Period: The Delivery Period/Time shall be deemed to be the essence of the Contract and delivery must
+
+   be completed not later than such date(s).  If the Supplier does not perform  its obligations within the Delivery
+
+    Period/Date mentioned in the Contract, the same would constitute the breach of the Contract and the Institute shall
+
+   have the right to cancel or withdraw the Contract for the unsupplied portion after the expiry of the original or
+
+    extended delivery date or period stipulated in the Contract. Such cancellation of the contract on account of non -
+
+    performance by the Supplier would entitle the Buyer to forfeit the EMD/Performance Security besides other actions
+
+   such as debarment from the Institute as per GFR 2017.
+
+10. Liquidated Damages: Timely delivery is the essence of the contract and hence  if the Supplier fails to deliver
+
+   Goods within the original/extended delivery period(s) specified in the contract, the Institute  will be entitled to
+
+    deduct/recover the Liquidated Damages for the delay, unless covered under Force Majeure conditions aforesaid, @
+
+   1% per week or part of the week of the delayed period as pre-estimated damages not exceeding 5% of the
+
+    contract value without any controversy/dispute of any sort whatsoever.
+
+11. The bidder needs to comply with restrictions under rule No 144 (xi) of GFR (General Financial Rules) 2017 and the
+
+    clause pertaining to Public Procurement Division Order (Public Procurement no 1,2 & 3 vide ref. F.No.6/18/2019-
+
+   PPD dated 23.07.2020 and 24.07.2020 of Dept of Expenditure (DOE), Ministry of Finance). In this Connection
+
+    Bidder has to submit Self Certification (as per Annexure A or B), depending on the status of the bidder.
+
+12. The bidder needs to submit a Self-certification in line with Make in India, Public Procurement Order No. P-
+
+    45021/2/2017-BE-II  dt. 15.06.2017, P 45021/2/2017-PP (BE-II) dated 28.05.2018, P-45021/2/2017-PP (BE-II)
+
+    dated 29.05.2019 and P45021/2/2017- PP (BE – II) dated 16.09.2020 of DPIIT, Ministry of Commerce & Industry.
+
+
+                                                                                         Page 3 of 18
+
+   The Bidder who will not meet this criterion will be rejected in the technical bid. The Self-certification should be
+
+    provided as per Annexure C.
+
+13. EMD must be in the form of Bank Guarantee Annexure-D (Fixed Deposit Receipt/Insurance surety bonds/DD/e-
+
+   Payment mode (through Credit/Debit cards / Net Banking). It will be valid for 180 days from the date of opening of
+
+    the tender. In case of EMD payment made through E-Payment, UTR Number with details should be uploaded. The
+
+    firm registered with MSME/NSIC as per MSME procurement policy order 2012 will be exempted from submission of
+
+   EMD. Intended parties will have to give proof of registration along with their tender. EMD of the unsuccessful
+
+    bidders shall be refunded without any interest at the earliest after finalization of the purchase of the concerned item.
+
+       a. The EMD will be returned to the BIDDERs(s) whose offer is not accepted by NITK within one month from the
+
+          date of the placing of the purchase order(s) on the selected BIDDER(s). In the case of the BIDDER(s) whose
+
+            offer is accepted the EMD will be returned on submission of Performance Security in the form of Bank
+
+         Guarantee (BG). However,  if the return of EMD is delayed for any reason, no interest/penalty shall be
+
+         payable to the Bidders.
+
+       b. The successful BIDDER, on the award of contract/order, must send the contract/order acceptance in writing,
+
+           within 15 days of award of contract/order failing which the EMD will be forfeited.
+
+       c. The EMD shall be forfeited in case a successful BIDDER fails to furnish the Performance Security.
+
+       d. Bidder should prepare the EMD as per the instructions specified in the tender document. The original EMD
+
+          should be posted/couriered/given in person to the concerned official, latest by the last date of bid submission
+
+         as specified in the tender documents. The details of the BG/DD/FD/any other accepted instrument, physically
+
+           sent, should tally with the details available in the scanned copy and the data entered during bid submission
+
+           time. Otherwise, the uploaded bid will be rejected.
+
+14. Performance Security: The successful bidder shall deposit performance security of 3% of the quoted price in the
+
+    form of Bank Guarantee (ANNEXURE-E) / Demand Draft / Fixed Deposit Receipt of any scheduled bank drawn in
+
+    favour of The Director, NITK Surathkal, Mangaluru payable at Mangaluru. In case the bidder fails to deposit the
+
+    said Performance Security within the stipulated period, including the extended period  if any, the Earnest Money
+
+    Deposited by the bidder shall be forfeited automatically without any notice. Please note the following points:
+
+       a. Successful bidder should submit performance Security as prescribed above to the purchase Section,
+
+        NITK Surathkal, on or before 30 days from the date of issue of order acknowledgment.
+
+       b. Performance Security shall be for the due and faithful performance of the contract and shall remain binding,
+
+          notwithstanding such variations, alterations for extensions of time as may be made, given, conceded, or
+
+         agreed to between the successful bidder and the purchaser under the terms and conditions of acceptance to
+
+           tender.
+
+
+                                                                                         Page 4 of 18
+
+       c. The successful bidder is entirely responsible for the due performance of the contract in all respects according
+
+           to the terms and conditions of the tender.
+
+       d. The validity of the Performance Security must cover the warranty period plus two months.
+
+15. Abnormally quoted low bid will be liable for rejection as per the OM No.F.12/17/2019-PPD of Department of
+
+    Expenditure, Ministry of Finance dated 6th February 2020.
+
+
+
+
+
+      **Disclaimer** Bidders are advised to exercise caution and not respond to any unknown calls, emails, or
+    embedded links requesting payment for participating in the tender or for any other purpose. Please note that
+     NITK Surathkal never asks for any tender fee for participation in tenders or bids.
+
+
+
+
+
+                                                                                         Page 5 of 18
+
+                                        SECTION-2
+             SCHEDULE OF REQUIREMENTS, SPECIFICATIONS AND ALLIED DETAILS
+                                            [ To be filled up by the Department / Centre of NITK, Surathkal ]
+
+Item(s) Name to be Procured                                 : GPON ONU/ONT with Wifi support
+
+Brief Specifications of the Item(s)                          : Attached
+(Annexure-F)
+
+Quantity                                                                  : 260 Nos.
+
+Any other details / requirement                              :
+
+Warranty Period required                                       : 2 years
+
+Delivery Schedule expected
+after placement of Purchase order
+(in Weeks)                                                             : 15 days
+
+Performance Security to be given
+by Successful Bidder after release of                    : 3% of Purchase Order
+Purchase Order (in Rupees)
+(applicable for estimate Above 2.5 lakhs)
+
+
+
+
+
+                                                                                        Page 6 of 18
+
+                              SECTION 3
+                             PRICE SCHEDULE
+                                 [ To be used by the bidder for submission of the quotation]
+
+
+1.      Item Name                                                   :
+
+2.      Specifications
+       (Conforming to Schedule of requirements
+        Enclose additional sheets if necessary)            :
+
+3.      Currency and Unit Price                                   :
+
+4.      Quantity                                                       :
+
+5.      Item Cost (Sl No. 3 * Sl. No. 4 )                        :
+
+6.     Taxes and Other Charges                               :
+            (i) Specify the type of taxes and duties
+             in percentages and also in figures.
+             (ii) Specify Other Charges in figures.
+
+7.     Warranty Period                                           :
+       (Conforming to the Schedule of
+        requirements)
+
+8.      Delivery Schedule                                          :
+       (Conforming to the Schedule of requirements)
+
+9.    Name and address of the Firm for                     :
+       placing purchase order
+
+10.   Name and address of Indian authorized
+       agent ( in case of imports only)                          :
+
+
+Signature of the Bidder: _________________________________________
+
+Name  and Designation: _________________________________________
+
+Business Address        : ________________________________________
+
+                        _______________________________________
+
+Place:                                                   Seal of the Bidder’s Firm
+Date:
+
+
+                                                                        Page 7 of 18
+
+                             SECTION 4
+                         CONTRACT FORM
+                                 [ To be provided by the bidder in the business letter head]
+
+1.     (Name of the Supplier’s Firm) hereby abide by the delivery schedule mentioned in this
+       document for supply of the items if the purchase order is awarded.
+
+2.     The item will be supplied conforming to the specifications stated in this document without
+       any defect and deviations.
+
+3.      Warranty  will be given for the period mentioned in this document and service  will be
+       rendered to the satisfaction of NITK, Surathkal during this period.
+
+
+
+Signature of the Bidder: _________________________________________
+
+Name                            : _________________________________________
+
+Business Address          : ________________________________________
+
+                        ________________________________________
+
+Place :                                                  Seal of the Bidder’s Firm
+Date :
+
+
+
+
+
+                                                                        Page 8 of 18
+
+                                                                  Annexure-A
+
+               (Compliance to be submitted in the bidder’s letterhead)
+                        (Applicable for estimate above 2.5 lakhs)
+
+Sub: Compliance to Government of India order OM No.6/18/2019-PPD dated 23.07.2020 &
+24.7.2020 regarding restrictions under Rule 144 (XI) of the General Financial Rules
+(GFRs), 2017
+
+ Item Name:
+
+
+
+ Enquiry No.:
+
+
+
+
+
+We M/s.                        (name of the bidder company) have read the clauses
+pertaining to the Department of Expenditure’s (DoE) Public Procurement Division Order (Public
+procurement no 1,2 & 3 vide ref. F.No.6/18/2019-PPD dated 23.07.2020 & 24.7.2020) regarding
+restrictions on procurement from a bidder of a country that shares a land border with India.
+
+We hereby certify that we are not from such a country and eligible to be considered for this
+tender.
+
+(Note: Non-compliance of above said GoI Order and its subsequent amendment, (if any), by any
+bidder(s) shall lead to commercial rejection of their bids by NITK)
+
+
+For and behalf of         (Name of the bidder)
+
+(Signature, date & seal of an authorized representative of the bidder)
+
+
+
+
+
+                                                                       Page 9 of 18
+
+                                                                  Annexure-B
+
+                (Compliance to be submitted in the bidder’s letterhead)
+                         (Applicable for estimate above 2.5 lakhs)
+
+ Sub: Compliance to Government of India order OM No.6/18/2019-PPD dated 23.07.2020 &
+ 24.7.2020 regarding restrictions under Rule 144 (XI) of the General Financial Rules
+ (GFRs), 2017
+
+   Item Name:
+
+
+
+  Enquiry No.:
+
+
+
+
+ We M/s.                        (name of the bidder company) have read the clauses
+  pertaining to the Department of Expenditure’s (DoE) Public Procurement Division Order (Public
+ procurement no 1,2 & 3 vide ref. F.No.6/18/2019-PPD dated 23.07.2020 & 24.7.2020) regarding
+  restrictions on procurement from a bidder of a country which shares a land border with India.
+
+ We are from such a country which shares a land border with India & have been registered with
+  the Competent Authority as specified in the above-said order. We hereby certify that we fulfill all
+ requirements in this regard and are eligible to be considered.
+
+Evidence of valid registration by the Competent Authority is attached.
+
+  (Note: Non-compliance of above said GoI Order and its subsequent amendment, (if any), by any
+  bidder(s) shall lead to commercial rejection of their bids by NITK)
+
+
+ For and behalf of         (Name of the bidder)
+
+
+  (Signature, date & seal of an authorized representative of the bidder)
+
+
+
+
+
+                                                                       Page 10 of 18
+
+                                                                  Annexure-C
+
+                    Self-Certification on the letterhead of the company
+                        (Applicable for estimate above 5 lakhs)
+
+
+In line with Government Public Procurement Order No. P-45021/2/2017-BE-II dt. 15.06.2017,
+P-45021/2/2017-PP (BE-II) dated 28.05.2018, P-45021/2/2017-PP  (BE-II) dated 29.05.2019
+and
+P-45021/2/2017-PP (BE-II) dated 16.09.2020, we hereby certify that
+
+
+
+(Supplier name) are local supplier meeting requirement of minimum local content      %
+defined in as above orders for the material against Enquiry / Tender No
+
+
+
+
+
+Details of the location at which local value addition will be made are as follows:
+
+
+
+
+
+We also understand false declarations will be in breach of the Code of Integrity under Rule
+175(1)(i)(h) of the General Financial Rules for which a bidder or its successors can be debarred
+for up to two years as per Rule 151 (iii) of the General Financial Rules along with such other
+actions as may be permitted under law.
+
+
+
+Date:                                              Signature:
+Place:                               Name and Designation:
+                                                Mobile no:
+                                                      Office
+                                             Telephone  No:
+                                               Email ID:
+                                                      Office Seal:
+
+
+
+
+
+                                                                     Page 11 of 18
+
+                                                                   Annexure-D
+
+
+            FORMAT FOR EARNEST MONEY DEPOSIT / BID BOND
+                         (Applicable for estimate above 2.5 lakhs)
+      (To be typed on Non-judicial stamp paper of value Indian Rupees Five Hundred)
+(TO BE ESTABLISHED THROUGH ANY OF THE NATIONAL BANKS (WHETHER SITUATED AT
+MANGALURU OR OUTSTATION) WITH A CLAUSE TO ENFORCE THE SAME ON THEIR
+LOCAL  BRANCH  AT  MANGALURU OR  ANY  SCHEDULED  BANK  (OTHER  THAN
+NATIONALISED BANK) SITUATED AT MANGALURU. BONDS ISSUED BY COOPERATIVE
+BANKS ARE NOT ACCEPTED)
+
+                            LETTER OF GUARANTEE
+To
+Director,
+National Institute of Technology Karnataka,
+Srinivasnagar P.O., Surathkal
+Mangaluru – 575025
+
+IN  ACCORDANCE  WITH  YOUR  TENDER   for  the  supply   of    …..............................,
+M/s..............................  (hereinafter  called  the  “Bidder”)  having   its  Registered  Office  at
+.......................................,    wish     to     participate     in    the    said    bid     for    the
+supply....................................................................................................................as  an  irrevocable
+Bank  Guarantee  against  Earnest Money  Deposit  for  an  amount  of  Rs.   …...................
+(Rupees...............................) valid up to (180 days from the date of issue of Bank Guarantee), is
+required to be submitted by the bidder as a condition precedent for participating in the said bid,
+which amount is liable to be forfeited by the Purchaser on (1) the withdrawal or revision of the offer
+by the bidder within the validity period, (2) Non acceptance of the Letter of Intent/Purchase order
+by the Bidder when issued within the validity period, (3) failure to execute the contract as per
+contractual terms and condition within the contractual delivery period and (4) on the happening of
+any contingencies mentioned in the bid documents.
+
+ During the validity of this Bank Guarantee:
+We, ….......................(Bank name) having the registered office at....................................guarantee
+and  undertake  to  pay  immediately on   first demand  by NITK  Surathkal, an amount  of
+Rs...........................                                                             (Rupees.
+.........................................................................................................................................) without any
+reservation, protest, demur and recourse. Any such demand made by theNITK Surathkal shall be
+conclusive and recourse. Any such demand made by the purchaser shall be binding on the Bank
+irrespective of any dispute or difference raised by the Bidder.
+The Guarantee shall be irrevocable and shall remain valid up to........................(180 days from the
+date of issue of Bank Guarantee) If any further extension is required, the same shall be extended
+to such required period on receiving instruction from the Bidder, on whose behalf the is Guarantee
+is issued.
+
+Notwithstanding anything contained herein:
+⁎ Our liability under this Bank Guarantee shall not exceed Rs.................... (Rupees....................).
+
+                                                                       Page 12 of 18
+
+⁎ This Bank Guarantee shall be valid up to....................................................................(date).
+⁎ We are liable to pay the guaranteed amount or any part thereof under this Bank Guarantee Only
+and only if you serve upon us a written claim on or before ....................(date).
+
+This Bank further agrees that the claims if any, against this Bank Guarantee shall be enforceable at
+our branch office at ........................................situated at ........................................(Address of local
+branch).
+
+Yours truly,
+Signature and seal of the guarantor: Name of Bank:
+Address:
+Date:
+
+Instruction to Bank: Bank should note that on expiry of Bond Period, the Original Bond will not be
+returned to the Bank. The bank is requested to take appropriate necessary action on or after the
+expiry of the bond period
+
+
+
+
+
+                                                                       Page 13 of 18
+
+                                                                    Annexure-E
+
+              FORMAT FOR PERFORMANCE GUARANTEE BOND
+  (To be typed on Non-judicial stamp paper of the value of Indian Rupees of Five Hundred)
+                         (Applicable for estimate above 2.5 lakhs)
+
+To,
+Director,
+National Institute of Technology Karnataka,
+Srinivasnagar P.O., Surathkal
+Mangaluru – 575025
+
+Whereas…………………………………………………… (name and  address  of  the  contractor)
+(hereinafter  called  “the  contractor”) has undertaken,  in pursuance  of  contract no ………..
+date……………. to supply ……………… (description of goods and Works/ Services) (hereinafter
+called “the contract”).
+
+And Whereas you have stipulated it in the said contract that the contractor shall furnish you with a
+bank guarantee by a Commercial bank for the sum specified therein as security for compliance
+with its obligations as per the contract;
+
+And Whereas we have agreed to give the contractor such a bank guarantee.
+
+Now Therefore we hereby affirm that we are guarantors and responsible to you, on behalf of the
+contractor, up to a total of …………………………………………………….(amount of the guarantee
+in words and figures), and we undertake to pay you, upon your first written demand declaring the
+contractor to be in default under the contract and without cavil or argument, any sum or sums
+within the limits of (amount of guarantee) as aforesaid, without your needing to prove or to show
+grounds or reasons for your demand or the sum specified therein.
+
+We hereby waive the necessity of your demanding the  sail debt from the contractor before
+presenting us with demand.
+
+We further agree that no change or addition to or other modification of the terms of the contract to
+be performed thereunder or of any of the contract documents which may be made between you
+and the contractor shall in any way release us from any liability under this guarantee, and we
+hereby waive notice of any such change, addition, or modification.
+
+This guarantee shall be valid until the ………….day of …….20……
+
+Our………………………………….branch  at………………*(Name   &   Address    of    the
+………….…………..*(branch) is liable to pay the guaranteed amount depending on the filing of a
+claim and any part thereof under this Bank Guarantee only and only  if you serve upon us at our
+………………* branch a written claim or demand and received by us at our …………………..*
+branch on or before Dt………….. otherwise, the bank shall be discharged of all liabilities under this
+guarantee after that.
+
+
+                                                                       Page 14 of 18
+
+                                        (Signature of the authorized officer of the Bank)
+                       ………………………………………….
+                       ………………………………………….
+                                  Name and designation of the officer
+                      …………………………………………
+                                 Seal, name & address of the Bank and address of Branch
+
+*Preferably at the headquarters of the authority competent to sanction the expenditure for the
+procurement of goods or at the concerned district headquarters or the state headquarters.
+
+
+
+
+
+                                                                       Page 15 of 18
+
+                                                                     Annexure-F
+
+       Technical Specification for GPON- ONU/ONT with Wifi support
+                                 Qty: 260 Nos.
+
+1. Make & Mode: To be specified by the bidder
+
+2. PON interface (Minimum Requirement):
+   • 1 XPON port
+   (EPON PX20+ and GPON Class B+)
+   • SC Single mode
+   • TX optical Power: 0 to 4 dBm
+   • Transmission distance: 20 km
+   • RX: 2.488 Gbps, TX: 1.2488 Gbps
+
+3. LAN interface (Minimum Requirement):
+   • 2 * 10/100/1000 Mbps auto adaptive Ethernet interface, RJ45 connectors, 1 POTS Rj11
+  Connector
+4. Wavelength (Minimum Requirement):
+  Transmission wavelength: 1310 nm
+  Receiver wavelength: 1490 nm
+ TX optical Power: 0 to 4 dBm
+5. Sensitivity/Optical type:
+  Receiver Sensitivity: should be -8dBm to -25dBm
+  Optical Type: SC/PC
+6. Wireless:
+   Should be Compliant with IEEE 802.11 b/g/n/ac
+7. Indicators (Minimum Requirement):
+  Power, LOS, PON, LAN2, LAN1, TEL, 2.4G, 5G, Phone
+8. VLAN - Should
+  Support VLAN tag mode
+  Support VLAN translation mode
+  Support VLAN trunk mode
+9. Multicast - Should
+  Support IGMP v1/v2/v3
+  Support IGMP Proxy and MLD Proxy
+  Support IGMP Snooping and MLD Proxy Snooping
+10. QoS - Should
+  Support 4 Queues
+  Support SP and WRR
+  Support 802.1P
+  Support DSCP
+
+
+
+
+
+                                                                       Page 16 of 18
+
+11. Layer 3 - Should
+   Support IPv4/IPv6 and IPv4/IPv6 Dual Stack
+   Support DHCP/ PPPoE/ Static
+   Support DDNS
+   Support Static Route
+   Support NAT
+   Support Virtual Server
+   Support DMZ
+   Support DHCP Server
+12. VoiP - Should
+   Support SIP Protocol
+   Support Voice coding: ITU-T G.711/ G.723 / G.726 / G.729
+   Support Echo cancellation exceeding ITU-T G.165 / G.168-2002 upto 128ms tail length
+   Support high/low speed fax/modem
+   Support bypass fax and T38 fax
+   Support MD5 authentication
+   Support Inband / RFC2833 / SIP INFO
+   Support calls forward, call waiting, hot-line call
+   Support multi-party conferencing
+   Support line testing according to GR-909
+13. Wireless - Should
+   Support 802.11 b/g/n/ac and mixed mode
+   Support 4 SSID
+   Support No-auth, WEP, WPA-PSK and WPA2-PSK
+   Support AES, TKIP encryption
+14. Security - Should
+   Support Firewall
+   Support MAC filter
+   Support ACL
+   Support URL Filter
+15. Management - Should
+   Support CTC OAM 2.0 and 2.1
+   Support ITU-T 984.x OMCI
+   Support WEB
+   Support TR069
+   Support Telnet
+16. Ambient temperature – Should be 0 ~ +55°C
+17. Ambient Humidity – Should be 10~90% (non-condensed)
+18. Store Temperature - Should be -30 ~ +60°C
+19. Store Humidity – Should be 10~90% (non-condensed)
+20. Certification – Should be TEC certified
+21. Other Requirements
+   •  The ONT/OLU should be compatible and should be able to manage centrally from
+        existing OLT at NITK.
+   •  The ONT/ONU should support eduroam
+
+                                                                       Page 17 of 18
+
+  22. Warranty:
+      2 years Onsite OEM Warranty
+
+  Other Terms & Conditions
+  Warranty & Service Support
+  Comprehensive onsite warranty for two years from the date of installation for GPON ONU/ONT
+  from OEM to be provided.
+   Original Equipment Manufacturer (OEM) or their authorized vendor should have fully functional
+   service center with spares stock for attending the breakdown calls. Details of the service center
+  must be provided.
+   In case of any breakdown for more than 72 Hours after lodging a formal complaint, the warranty
+   period will be considered as extended proportionately.
+         Bidders Qualification
+       1.  The offers are only invited from reputed Original Equipment Manufacturers (OEM) and
+           their authorized vendors. In the latter case a certificate of authorization (MAF) from the
+      OEM referring this tender number must be provided along with the bid documents.
+         Bidders not complying with this conditions are liable to be rejected.
+       2. A separate Compliance sheet conforming to each component (from Sl.No.: 1 to 22) of
+          the technical specifications including make and model should be attached. In the event of
+         compliance sheet is furnished by the OEM, the bidder should endorse the same. Bids that
+        do not satisfy this condition will summarily be rejected.
+       3.  The bidder should have representative or authorized service partner for OEM  (in
+         Karnataka State) to provide 24x7 Service.
+       4.  Required   Documents/Documentation/Manuals   support    for   component    level
+          servicing/Product catalogue/Data sheet/Brochure pertaining to the model of the GPON
+       ONU/ONT (to be supplied) to be attached substantiating the claim and the same should
+         be available in the website of the brand for verification.
+       5.  All the supporting documents should be endorsed with authorized seal and signature of
+          the bidder/OEM as appropriate.
+       6.  The bidder must have  prior experience with eduroam and must demonstrate  the
+          compatibility of their proposed ONU/ONT with eduroam at NITK before the Purchase
+         Order is issued, after the L1 is identified.
+       7.  If the bidder fails to satisfy the point no.6 mentioned above, NITK reserves the right to
+        go ahead with L2 and so on for further proceedings.
+
+
+
+
+
+**Disclaimer** Bidders are advised to exercise caution and not respond to any unknown calls, emails, or
+embedded links requesting payment for participating in the tender or for any other purpose. Please note
+that NITK Surathkal never asks for any tender fee for participation in tenders or bids.
+
+
+
+                                                                          Page 18 of 18

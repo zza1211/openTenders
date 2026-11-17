@@ -1,0 +1,2547 @@
+                  HOWARD COMMUNITY COLLEGE
+                       BOARD OF TRUSTEES
+                         10901 LITTLE PATUXENT PARKWAY
+                          COLUMBIA, MD 21044
+
+                     REQUEST FOR PROPOSALS (RFP)
+                            Motorola PON to Tellabs PON Migration
+                           RFP NUMBER 27P-003
+
+
+All sealed proposals MUST BE RECEIVED via Equity Hub’s Bid Locker
+at  https://bidlocker.us/details/6573_Motorola_Pon_To_Tellabs_Pon_Migration by 11:00 a.m. local time
+on November 20th, 2026
+
+
+IMPORTANT: Your response may be considered Not Responsible or Non-Responsive if any portion of
+this inquiry is not complete. No proposal will be accepted after the date and time stated above.
+
+
+Drewry L. Brown Jr., Ph.D.
+Director of Procurement
+
+NOTICE: Prospective Offerors who have received this document from a source other than the Issuing
+Office should immediately go to the Howard Community College procurement website to ensure that they
+have received all addendums to the Request for Proposals or other communications issued in relation to
+this RFP. A Prospective Offeror who fails to monitor the Howard Community College website assumes
+complete responsibility in the event that they do not receive communications from the Issuing Office
+prior to the closing date.
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+
+
+
+To All Prospective Offerors:
+
+The Board of Trustees of Howard Community College invites proposals from qualified Tellabs-certified
+or Tellabs-experienced integrators to replace the College’s existing Motorola Passive Optical Network
+(PON) equipment with Tellabs equipment, including a redundant OLT architecture and IEEE 802.1X
+network access control integration.
+
+Proposals will be accepted via Bid Locker until 11:00 a.m. on November 20th, 2026, at which time the
+names of the firms submitting proposals will be recorded. A mandatory pre-proposal conference and site
+walk will be held on October 21st at 2:00 pm . Late submittals will not be considered. It is the
+responsibility of each firm to ensure that its submittal is delivered to the proper place prior to the
+scheduled date and time.
+
+Copies of the Request for Proposals (RFP) may be obtained from the Howard Community College
+solicitation website at: www.howardcc.edu/procurement on the current solicitation page. Firms are
+encouraged to review that website frequently to learn of any changes that may be made in the RFP.
+
+The Board of Trustees of Howard Community College reserves the right to reject any and all proposals
+and to waive any formalities, informalities, or technicalities as it deems necessary, appropriate and in the
+College’s best interests. Final award of the contract is subject to the availability of funding for this
+project.
+
+
+Sincerely,
+
+
+Drewry L. Brown Jr. Ph.D.
+
+
+
+
+
+                                                                                    2
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+
+
+
+
+                         TABLE OF CONTENTS
+
+KEY INFORMATION SUMMARY SHEET .............................................................................................. 4
+SPECIFICATIONS/SCOPE OF WORK ...................................................................................................... 5
+PROPOSAL SUBMITTAL FORMAT ....................................................................................................... 24
+EVALUATION AND AWARD ................................................................................................................. 26
+GENERAL INFORMATION ..................................................................................................................... 27
+ATTACHMENT A – PRICE PROPOSAL FORM .................................................................................... 34
+FIRM INFORMATION FORM AND REQUIRED FORMS .................................................................... 36
+TERMS AND CONDITIONS .................................................................................................................... 51
+
+
+
+
+
+                                                                                    3
+
+                     Howard Community College
+                     RFP Number: 27P-003
+           RFP Title: Motorola PON to Tellabs PON Migration
+                     Opening Date: October 7th , 2026
+                       Closing Date: November 20th ,2026
+
+
+
+              KEY INFORMATION SUMMARY SHEET
+
+                  Issuing Office:  Howard Community College
+     Request for Proposals Title:  Motorola PON to Tellabs PON Migration
+       Request for Proposals No:  27P-003
+           Procurement Officer:  Courtney Kelly
+                                Title:  Assistant Director of Procurement
+                       Phone:  443-518-4444
+                        Email:  ckelly@howardcc.edu
+                Opening Date:  October 7th, 2026
+                  Closing Date:  November 20th 2026, 11:00 a.m. local time
+Pre-Proposal Conference and Site MANDATORY (In person – Only) October 21st at 2:00
+                        Walk:  pm
+    MBE Subcontracting Goal:  Twenty-nine percent not mandatory but strongly
+                                 encouraged.
+                  Contract Type:  Firm Fixed Price
+              Contract Duration:  From Notice to Proceed through written final acceptance,
+                                 followed by a minimum one (1) year workmanship
+                                   warranty.
+
+
+
+
+
+                                                                               4
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+
+
+SPECIFICATIONS/SCOPE OF WORK
+
+
+1.1 INTENT
+Howard Community College ("College") is requesting proposals from qualified Tellabs-certified
+or Tellabs-experienced integrators to provide all necessary labor, project management,
+configuration, integration, testing, documentation, and migration services required to replace the
+College's existing Motorola Passive Optical Network (PON) equipment with the Tellabs
+equipment identified in the College-provided Bill of Materials (BOM), including IEEE 802.1X
+network access control on applicable interfaces.
+1.2 BACKGROUND AND EXISTING ENVIRONMENT
+The College's current environment consists of a Motorola PON network supporting campus
+voice, data, and multicast services. This project aims to modernize the campus PON environment
+by replacing active electronics in campus offices and telecommunications spaces while
+maintaining and reusing the existing outside plant infrastructure wherever feasible.
+The College-provided BOM is intended to replace active Motorola equipment located in offices,
+classrooms in the Hickory Ridge Building, Kathleen Hetherington Hall, and other interior
+facilities. Existing outside plant fiber infrastructure and associated pathways are expected to
+remain in service and be reused wherever feasible.
+The College intends to implement a redundant Tellabs Optical Line Terminal (OLT) architecture.
+To support OLT redundancy and improved resiliency, the College will replace existing 1x32
+optical splitters with 2x32 optical splitters. Splitter replacement shall support the redundant OLT
+design while maintaining service continuity during migration. Existing OLT locations will
+remain unchanged, and the Tellabs OLTs shall be installed in the same telecommunications
+spaces currently housing the Motorola OLT equipment.
+The College intends to preserve existing network services, VLAN assignments, connectivity
+requirements, and operational capabilities during migration while minimizing disruption to
+instructional, administrative, and student-facing services. The replacement Tellabs environment
+shall support IEEE 802.1X network access control in accordance with college requirements.
+1.3 GENERAL REQUIREMENTS
+
+
+                                                                                    5
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+The Contractor shall be Tellabs-certified or shall demonstrate substantial experience
+implementing Tellabs PON solutions and shall have demonstrated experience configuring IEEE
+802.1X and integrating network infrastructure with Cisco Identity Services Engine (ISE) and
+Microsoft Intune. The Contractor shall have all appropriate licenses to perform the work in
+Howard County and the State of Maryland.
+Upon receiving award, the Contractor shall attend a project kickoff meeting with college staff
+and shall submit, for college approval, an implementation plan, migration strategy, project
+schedule, service-continuity plan, and rollback procedures. Cutover activities shall only occur
+during implementation windows approved in advance by the College. Deviation from the
+approved schedule may only occur with prior approval by the College.
+The College's Information Technology department shall approve all work. The College reserves
+the right of final approval for any work at the time of completion. If the work is not acceptable,
+the Contractor shall correct all deficiencies without additional cost to the College. Failure of the
+Contractor to correct deficiencies promptly may result in the College contracting with another
+firm to correct the deficiencies, which may be at the Contractor's expense. The Contractor shall
+provide regular status reports to keep the College informed of work progress.
+1.4 MANDATORY PRE-PROPOSAL SITE WALK AND EXCEPTION REPORTING
+Mandatory Site Walk
+The College will conduct a mandatory pre-proposal site walk for all prospective Offerors (see
+Section 4.2). During the site walk, Offerors shall:
+a. Review existing Motorola PON equipment locations.
+b. Inspect telecommunications rooms, MDFs, IDFs, and office installations.
+c. Assess existing fiber termination and connectivity infrastructure.
+d. Validate assumptions associated with the College-provided BOM.
+e. Identify access requirements, staging considerations, implementation constraints, and
+conditions affecting 802.1X deployment.
+Offerors are responsible for independently verifying observable conditions that may affect the
+solution, schedule, labor, or cost. Failure to attend may result in the proposal being deemed non-
+responsive.
+Exception Reporting Requirement
+
+
+
+                                                                                    6
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+Each proposal shall include a written Exception Report identifying any condition requiring
+additional materials, labor, services, or infrastructure. For each exception, the report shall state
+the issue, location, recommended corrective action, schedule impact, additional cost (if
+applicable), and justification. Exceptions may include, but are not limited to:
+a. Damaged or unusable fiber infrastructure.
+b. Insufficient rack space or power capacity.
+c. Environmental deficiencies.
+d. Equipment compatibility concerns.
+e. Missing components required for implementation.
+f. Conditions preventing reuse of the outside plant.
+g. Limitations affecting 802.1X, RADIUS, certificate use, VLAN assignment, or support for
+non-802.1X endpoints.
+Assumption of Responsibility
+Any condition reasonably observable during the site walk but not identified in the Offeror's
+Exception Report shall be presumed included in the proposal and pricing. The College reserves
+the right to reject later requests for additional compensation associated with such conditions.
+1.5 SCOPE OF REPLACEMENT
+Included in Scope
+a. Installation of the Tellabs equipment identified in the College-provided BOM (Section 1.16).
+b. Removal and disposal, or return to college inventory, of replaced Motorola office equipment
+as directed by the College.
+c. Configuration of Tellabs OLTs and Optical Network Terminals (ONTs).
+d. Migration of voice, data, multicast, and applicable network access control services.
+e. Configuration and integration of IEEE 802.1X on applicable Tellabs interfaces.
+f. Validation of voice, data, multicast, 802.1X authentication, and network services.
+g. Project management, cutover support, testing, acceptance, and as-built documentation.
+h. Replacement of existing 1x32 optical splitters with 2x32 optical splitters to support a
+redundant Tellabs OLT architecture.
+
+                                                                                    7
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+i. All splitter installation, fiber terminations, patching, labeling, and testing required to support
+the new splitter configuration.
+j. Installation of Tellabs OLT equipment in the same physical locations currently occupied by the
+Motorola OLT equipment unless otherwise approved by the College.
+Not Included in Scope
+The following infrastructure is expected to remain in service unless specifically identified by the
+Offeror in its Exception Report as requiring work:
+a. Existing outside plant fiber.
+b. Existing underground conduit systems and fiber pathways.
+c. Existing building entrance facilities, fiber distribution cabling, and fiber backbone
+infrastructure.
+d. Existing telecommunications racks, cabinets, and power infrastructure where adequate
+capacity exists.
+1.6 CONTRACTOR RESPONSIBILITIES
+Assessment and Design Validation
+a. Review the College-provided BOM and validate compatibility of the specified Tellabs
+equipment.
+b. Verify installation locations, fiber requirements, connectivity, rack capacity, and power.
+c. Review the current Motorola configuration.
+d. Review college requirements for 802.1X authentication, Cisco ISE integration, Microsoft
+Intune device compliance integration, endpoint classifications, VLAN assignment, certificates,
+and approved exceptions.
+e. Develop a migration strategy, implementation documentation, service-continuity plan, and
+rollback procedures.
+Installation Services
+a. Install all Tellabs equipment identified in the BOM.
+b. Mount equipment in designated telecommunications rooms and office locations.
+c. Install required jumpers, patch cables, transceivers, and ancillary components.
+
+
+                                                                                    8
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+d. Label all installed equipment, cabling, patch panels, ONTs, OLTs, and related components in
+accordance with naming conventions and labeling standards provided by the College.
+e. Verify all labels are accurate and reflected in final as-built documentation.
+f. Remove existing 1x32 splitters and install new 2x32 splitters as required by the approved
+design.
+g. Patch and terminate all fibers required to support redundant OLT connectivity.
+h. Install the Tellabs OLTs in the same locations as the existing Motorola OLTs unless otherwise
+approved by the College.
+Configuration Services
+a. Configure Tellabs OLTs, ONTs, management interfaces, VLAN assignments, and uplinks.
+b. Configure voice, data, and multicast services in accordance with college requirements and
+existing service definitions.
+c. Configure IEEE 802.1X network access control on applicable Tellabs OLT and ONT
+interfaces, including authentication, authorization, RADIUS communication, policy
+enforcement, reauthentication, and dynamic VLAN assignments where required.
+d. Integrate the Tellabs environment with the college-designated RADIUS and network access
+control platform, including Cisco ISE, and with Microsoft Intune to support device compliance
+validation and policy-based network access decisions, using College-provided policies,
+credentials, certificates, and security requirements.
+e. Configure college-approved authorization policies, dynamic VLAN assignments, and access-
+control outcomes based on Cisco ISE authentication and authorization results together with
+Microsoft Intune device compliance status where required by the College.
+f. Configure college-approved exceptions or alternative authentication methods for devices that
+do not support 802.1X, including applicable phones, printers, building-control devices,
+audiovisual equipment, and other specialized endpoints.
+g. Configure College-approved port behavior for failed authentication and loss of RADIUS
+availability.
+Migration Services
+a. Coordinate migration activities with college staff.
+b. Transition Motorola-supported services to the Tellabs environment.
+
+                                                                                    9
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+c. Maintain service availability throughout migration and conduct phased cutovers where
+appropriate, in accordance with the service availability, outage, recovery, and rollback
+requirements of Sections 1.7 and 1.8.
+d. Provide on-site support during implementation windows.
+1.7 SERVICE AVAILABILITY, OUTAGE, AND RECOVERY REQUIREMENTS
+The Contractor shall design and execute all work to minimize impact on instructional,
+administrative, public safety, and student-facing services.
+Service Availability
+a. No unscheduled outages shall be permitted.
+b. All outages shall be coordinated with the College.
+c. Maintenance windows shall be approved by the College prior to implementation.
+d. The Contractor shall provide a detailed cutover plan no less than ten (10) business days prior
+to each migration activity.
+e. The Contractor shall identify expected service impacts for each migration event.
+f. The Contractor shall provide onsite technical resources throughout all approved outage
+windows.
+Defined Outage
+For purposes of this project, an outage shall be defined as any condition that results in:
+a. Loss of voice services.
+b. Loss of data connectivity.
+c. Loss of multicast services.
+d. Loss of 802.1X authentication services.
+e. Loss of Cisco ISE integration.
+f. Loss of Microsoft Intune compliance validation.
+g. Degradation of service that prevents normal operations.
+h. Failure of redundant OLT functionality.
+The College reserves the right to determine whether service degradation constitutes an outage.
+
+                                                                                   10
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+Planned Downtime Requirements
+The Offeror shall include the following in its proposal (Tab D, Section 2.2):
+a. Expected downtime for each migration phase.
+b. Maximum outage duration associated with each cutover.
+c. Dependencies impacting outage duration.
+d. Methods used to reduce outage duration.
+e. Methodology for maintaining service continuity during splitter replacements and OLT
+migrations.
+Target Requirements
+a. Individual office migrations should not exceed agreed maintenance windows.
+b. Core campus services shall be restored prior to the conclusion of each maintenance window.
+c. All migration activities shall be capable of being rolled back within the approved maintenance
+window if success criteria are not achieved.
+Recovery Requirements
+The Contractor shall establish and document recovery procedures for:
+a. Failed OLT migration.
+b. Failed splitter migration.
+c. Failed ONT migration.
+d. Failed 802.1X implementation.
+e. Failed Cisco ISE integration.
+f. Failed Microsoft Intune integration.
+g. VLAN migration failures.
+h. Multicast service failures.
+i. Authentication failures affecting production services.
+Recovery procedures shall identify:
+a. Trigger conditions.
+
+                                                                                   11
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+b. Decision authority.
+c. Recovery tasks.
+d. Expected recovery duration.
+e. Required testing following recovery.
+1.8 ROLLBACK REQUIREMENTS
+Rollback Plans
+The Contractor shall provide documented rollback plans for every migration phase. Rollback
+plans shall include:
+a. Motorola configuration recovery procedures.
+b. Tellabs configuration recovery procedures.
+c. Service restoration procedures.
+d. Splitter rollback procedures.
+e. OLT rollback procedures.
+f. Authentication service rollback procedures.
+g. Cisco ISE rollback procedures.
+h. Microsoft Intune integration rollback procedures.
+Rollback plans shall be reviewed and approved by the College prior to implementation.
+Rollback Validation
+Before any production migration:
+a. The Contractor shall demonstrate rollback procedures in a laboratory or pilot environment.
+b. The Contractor shall provide documented rollback testing results.
+c. The Contractor shall identify the estimated rollback duration.
+d. The College reserves the right to require rollback demonstrations before approving production
+cutovers.
+Following each migration:
+a. The Contractor shall validate rollback readiness until acceptance is granted.
+
+                                                                                   12
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+b. Configuration backups shall be verified and recoverable.
+1.9 SECURITY HARDENING REQUIREMENTS
+The Contractor shall configure and harden all Tellabs components in accordance with current
+industry best practices and College security requirements. At a minimum, the Contractor shall
+implement the following:
+Administrative Security
+a. Role-based administration.
+b. Individual administrator accounts.
+c. Multi-factor authentication (MFA) where supported.
+d. Centralized authentication where supported.
+e. Administrative session timeout configuration.
+f. Administrative access logging.
+Network Security
+a. Disable unused services.
+b. Disable unused ports.
+c. Remove default credentials.
+d. Remove default accounts where possible.
+e. Limit management plane access.
+f. Encrypt management traffic.
+g. Implement secure SNMP configurations.
+h. Restrict management protocols to approved College networks.
+Software Security
+a. Install vendor-supported software versions.
+b. Apply current recommended security updates before production deployment.
+c. Identify known software vulnerabilities.
+d. Provide documented remediation recommendations.
+
+                                                                                   13
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+Security Documentation
+The Contractor shall provide:
+a. Security hardening checklist.
+b. Final hardening configuration report.
+c. Security exceptions documentation.
+d. Administrative access documentation.
+1.10 TESTING AND VALIDATION
+Connectivity and Service Testing
+a. OLT connectivity and ONT activation testing.
+b. VLAN functionality testing, including VLAN assignment resulting from 802.1X
+authentication and authorization policies.
+c. Voice, data, uplink, and multicast service testing.
+d. Multicast testing, including IGMP functionality, group membership, and end-to-end delivery.
+e. 802.1X authentication and authorization testing for college-designated endpoint types,
+including successful and unsuccessful authentication scenarios.
+f. RADIUS communication testing between the Tellabs environment and the college-designated
+network access control platform, including Cisco ISE, together with validation that Microsoft
+Intune device compliance status is available to the access-control workflow where required by
+the College.
+g. Validation of access outcomes for college-designated compliant, non-compliant, and unknown
+devices, including the assigned VLAN, restricted-access, remediation, guest, or denial state
+defined by college policy.
+h. Validation that a change in Microsoft Intune compliance status results in the College-approved
+Cisco ISE authorization outcome after reauthentication or policy reassessment.
+i. Validation of authentication, authorization, accounting, and relevant compliance-event logging
+so that test evidence is available for college review.
+j. Validation of dynamic VLAN assignment, policy enforcement, reauthentication, and port
+behavior following authentication failure or loss of RADIUS availability.
+
+
+                                                                                   14
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+k. Validation of College-approved exception methods for non-802.1X-capable devices.
+Performance Testing
+a. End-to-end connectivity, service profile, traffic flow, and applicable failover testing.
+b. Multicast performance verification, including representative stream delivery, packet loss,
+latency, jitter, and interruption review under normal operating conditions.
+Redundancy Testing
+a. Validate connectivity through both primary and secondary OLT paths.
+b. Demonstrate proper operation of redundant OLT connectivity.
+c. Verify service continuity during OLT failover scenarios.
+d. Provide documentation of redundancy testing results.
+1.11 ACCEPTANCE CRITERIA
+The College will consider the project complete when all of the following conditions have been
+met:
+Installation and Service Migration
+a. All Tellabs equipment in the BOM has been installed, configured, and placed into service.
+b. Voice, data, multicast, and applicable network access control services have been successfully
+migrated.
+c. User connectivity, VLANs, service profiles, and applicable 802.1X access policies have been
+restored and validated.
+d. Voice and data services are operational without degradation.
+e. All equipment labeling conforms to College-provided naming conventions and labeling
+standards.
+Multicast
+a. Multicast services are operational and demonstrate functionality equivalent to or better than
+the existing environment.
+b. IGMP joins, leaves, forwarding, and pruning have been validated.
+
+
+
+                                                                                   15
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+c. Representative multicast streams have been delivered end-to-end without excessive packet
+loss, latency, jitter, or interruption.
+d. The Contractor has conducted a live multicast demonstration using College-designated
+applications or streams.
+802.1X, Cisco ISE, and Microsoft Intune
+a. 802.1X authentication and authorization are operational on all applicable Tellabs interfaces
+designated by the College.
+b. Integration with the College-designated RADIUS and network access control platform,
+including Cisco ISE and Microsoft Intune, has been successfully validated and documented.
+c. Dynamic VLAN assignment and College-approved access policies have been validated for
+representative compliant, non-compliant, and unknown endpoint states based on 802.1X
+authentication, Cisco ISE authorization, and Microsoft Intune compliance information.
+d. College-approved exception methods for devices that do not support 802.1X have been tested
+and documented.
+e. Authentication failure behavior, reauthentication, and behavior during loss of RADIUS
+availability have been tested according to College-approved requirements.
+f. Representative College-managed devices successfully authenticate through 802.1X and receive
+the appropriate Cisco ISE authorization result, network access privileges, and VLAN
+assignment.
+g. Microsoft Intune device compliance status is successfully incorporated into the College-
+approved network access decision workflow for representative endpoint types.
+h. Compliant, non-compliant, and unknown devices receive the appropriate full-access,
+restricted-access, remediation, guest, or denial state defined by College policy.
+i. Endpoints using valid College-approved credentials, certificates, or authentication methods
+maintain connectivity as required, and representative user-based and device-based authentication
+scenarios have been demonstrated.
+j. Reauthentication, device reconnect, policy update, and Microsoft Intune compliance-status
+change scenarios have been successfully tested.
+k. Expected access behavior during loss of Cisco ISE, RADIUS, or Microsoft Intune
+connectivity has been validated according to College-approved fail-open, fail-closed, restricted-
+access, or other continuity requirements.
+
+                                                                                   16
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+l. Authentication, authorization, accounting, and relevant Microsoft Intune compliance events are
+logged and available for review by College personnel.
+m. The Contractor has provided test procedures, results, screenshots or equivalent configuration
+evidence, policy mappings, and validation records for Cisco ISE and Microsoft Intune
+integration.
+Redundant OLT Architecture
+a. All existing 1x32 splitters identified for replacement have been replaced with 2x32 splitters.
+b. The redundant Tellabs OLT architecture has been successfully implemented.
+c. Tellabs OLTs have been installed in the same locations as the Motorola OLTs unless otherwise
+approved by the College.
+d. Redundant fiber paths and splitter configurations have been tested and documented.
+e. OLT failover testing has been completed and approved by the College.
+f. Voice, data, multicast, 802.1X, Cisco ISE integration, and Microsoft Intune compliance
+services remain operational during and following OLT failover testing.
+Operational Readiness, Security, and Support
+a. Recovery procedures have been successfully demonstrated.
+b. Rollback procedures have been tested and validated.
+c. Security hardening checklist has been completed and approved.
+d. Administrative access controls have been validated.
+e. All configuration backups have been tested and verified as recoverable.
+f. Contractor support documentation has been delivered and approved.
+g. Software maintenance and upgrade procedures have been delivered and approved.
+h. College personnel have completed operational knowledge-transfer sessions.
+i. Redundant OLT failover and recovery testing have been successfully completed.
+Final Acceptance
+a. All testing results, final configurations, backups, and as-built documentation have been
+delivered and approved.
+
+
+                                                                                   17
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+b. The College has completed final acceptance testing and issued written project acceptance.
+1.12 DOCUMENTATION REQUIREMENTS
+The Contractor shall deliver the following documentation to the College:
+a. Implementation plan, installation reports, and equipment inventory.
+b. Final device configuration backups.
+c. 802.1X design and configuration documentation, including interface settings, RADIUS and
+Cisco ISE integration, Microsoft Intune device compliance integration, authentication and
+authorization workflows, compliance-policy mappings, dynamic VLAN assignment, certificate
+requirements, exception handling, and troubleshooting guidance.
+d. Logical and physical network diagrams.
+e. Testing and validation reports, including multicast, 802.1X, and redundancy test results.
+f. As-built documentation reflecting College naming conventions and labeling standards.
+g. Warranty and manufacturer support information.
+h. Cutover plans, recovery procedures, rollback plans, and rollback testing results (Sections 1.7
+and 1.8).
+i. Security hardening checklist, final hardening configuration report, security exceptions
+documentation, and administrative access documentation (Section 1.9).
+j. Support, software licensing, software maintenance, and end-of-life/end-of-support
+documentation (Section 1.14).
+1.13 WARRANTY AND SUPPORT
+a. Minimum one (1) year workmanship warranty from the date of written final acceptance.
+b. Manufacturer warranty documentation for all installed equipment.
+c. Escalation procedures and post-implementation support contacts, as further described in
+Section 1.14.
+
+
+
+
+
+                                                                                   18
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+1.14 SUPPORT AND SOFTWARE MAINTENANCE REQUIREMENTS
+Contractor Support Requirements
+The Contractor shall provide:
+a. Escalation procedures.
+b. Support contact information.
+c. Severity definitions.
+d. Response-time commitments.
+e. Maintenance procedures.
+f. Software upgrade procedures.
+Required Deliverables
+The Contractor shall provide:
+a. Manufacturer support entitlement information.
+b. Software licensing documentation.
+c. Software maintenance documentation.
+d. End-of-life/end-of-support information.
+e. Recommended upgrade lifecycle.
+Knowledge Transfer
+The Contractor shall provide operational training for College personnel covering:
+a. OLT administration.
+b. ONT administration.
+c. Splitter documentation.
+d. 802.1X administration.
+e. Cisco ISE integration.
+f. Microsoft Intune integration.
+g. Security monitoring.
+
+
+                                                                                   19
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+h. Change management procedures.
+i. Recovery procedures.
+j. Rollback procedures.
+1.15 KEY ASSUMPTIONS AND OFFEROR ACKNOWLEDGEMENTS
+By submitting a proposal, the Offeror acknowledges the following:
+
+         Item                              Requirement or Acknowledgement
+                      The BOM replaces active Motorola equipment located in offices, telecommunications BOM Scope                         rooms, and other interior facilities.
+ Outside Plant            Existing outside plant fiber and associated pathways will be reused wherever feasible.
+ Naming Convention     Labels must follow College-provided naming conventions and standards.
+                           Voice, data, multicast, and 802.1X network access control services must be configured, Services                           migrated, tested, and documented.
+                          Applicable Tellabs interfaces must integrate with Cisco Identity Services Engine (ISE)
+                        and Microsoft Intune to support College-approved authentication, authorization, 802.1X Integration                          device compliance, dynamic VLAN assignment, and policy-based network access
+                             decisions.
+                           Existing 1x32 splitters will be replaced with 2x32 splitters to support redundant Redundancy                            Tellabs OLTs installed in the existing Motorola OLT locations.
+                   No unscheduled outages are permitted. All outages, maintenance windows, and
+ Service Availability      cutovers require advance College approval, and the outage definition in Section 1.7
+                              applies.
+                        Every migration phase requires documented recovery procedures and a College- Recovery and                        approved rollback plan, validated before production cutover and executable within the Rollback                        approved maintenance window.
+                           All Tellabs components must be hardened in accordance with Section 1.9 before Security Hardening                          production deployment.
+ Support and             Support, software maintenance, licensing, lifecycle documentation, and knowledge
+ Maintenance              transfer must be provided in accordance with Section 1.14.
+                          Exceptions must be identified after the mandatory pre-proposal site walk and included Exceptions                             in the proposal Exception Report.
+
+1.16 COLLEGE-PROVIDED BILL OF MATERIALS
+The following Bill of Materials (Howard Community College BOM for Kathleen Hetherington
+Hall and Hickory Ridge) identifies the Tellabs equipment to be installed under this RFP.
+
+  Item           Part #                               Part Description                     Qty
+ OLT Chassis, Power, Optics, and Software Licensing
+   1    81.11S-BOLT          BOLT OLT 16 PON                              TBD
+
+                                                                                   20
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+  Item           Part #                               Part Description                     Qty
+   2    81.11P-PW720W         FlexSym 720W POWER SUPPLY, C15 CORD REQUIRED     TBD
+   3    81.11W-C15TYPB      PWR AC CORD C15 TO TYPE B US 7.5FT              TBD
+   4    81.11T-SFPGPON        FlexSym SFP+, GPON 2.5G/1.25G, B+, I-TEMP            TBD
+   5    81.11T-QSFPP40GSR4    QSFP PLUS 40GBASE-SR4 850nm 150m MMF            TBD
+   6    81.SR330BASEBOLT    OLAN Software Release BOLT Base SR33.0              TBD
+   7    81.SR330AABOLT       Advanced Availability BOLT SR33.0                   TBD
+   8    81.SR330AOBOLT       Advanced Operations BOLT SR33.0                    TBD
+   9    81.SR330ASBOLT        Advanced Security BOLT SR33.0                     TBD
+   10   81.SR330ANBOLT       Advanced NAC BOLT SR33.0                       TBD
+ ONT140CL (4-Port GE) and Accessories
+   11   81.11G-ONT140CL-R6   ONT140CL 4GE                               TBD
+   12   81.11P-PWIL81WM     PWR IN LINE ADPT 54V, 1.5A NO CORD W/MOLEX       TBD
+   13   81.11W-C5TYPB-R6    PWR AC CORD C5 TO TYPE B US                   TBD
+   14   81.11K-BKONTBBU-R6  BRACKET ONT140C, ONT202 10 PACK                TBD
+ ONT180C (8-Port GE with PoE) and Accessories
+   15   81.11G-ONT180C-R6    ONT180C 8GE W/POE                           TBD
+   16   81.11P-PWIL150W     PWR IN LINE ADPT 54V, 2.8A NO CORD (C13)           TBD
+   17   81.11W-C13TYPB-3    PWR AC CORD C13 TO TYPE B US 3FT                TBD
+   18   81.11K-ONT205BK-R6   BRACKET 142R,180C,205 - 10 COUNT                TBD
+ Optical Splitter (Redundant OLT Architecture)
+                       OCC KIT: 1RU ENCLOSURE, (1) 2X32 SPLITTER, (3) 12-
+   19   RTS1UPON2X32SCAPC  PORT DUAL SCAPC ADAPTER PLATE, (1) STACKABLE     TBD
+                          CASSETTE BRACKET
+
+1.17 PROJECT MANAGEMENT AND PERSONNEL
+The Contractor shall assign a project manager who will serve as the College's single point of
+contact for the project, coordinate migration activities and implementation windows with College
+staff, and provide regular status reports throughout the project.
+The Contractor shall have only properly trained and qualified personnel on site to perform all
+functions, including personnel experienced with Tellabs OLT/ONT installation and
+configuration, fiber termination and testing, and 802.1X, Cisco ISE, and Microsoft Intune
+integration. All Contractor personnel shall be familiar with applicable College policies and shall
+conduct themselves in a safe, courteous, and professional manner while at the College. The
+Contractor shall not substitute key personnel identified in its proposal without prior written
+approval of the College.
+
+
+                                                                                   21
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+             PROPOSAL SUBMITTAL FORMAT
+
+
+2.1 GENERAL
+Proposals shall be submitted in two (2) parts: a Technical Proposal and a separate Price Proposal.
+No pricing information shall be included anywhere in the Technical Proposal. Proposals should
+be concise, organized in the order shown below, and clearly labeled with the tab headings
+indicated.
+
+
+2.2 TECHNICAL PROPOSAL
+    a.  Tab A – Transmittal Letter: A letter signed by an individual authorized to bind the
+        Offeror, identifying the RFP number and title, the Offeror’s primary contact, and
+      acknowledging receipt of all addenda.
+    b.  Tab B – Executive Summary: A summary of the Offeror’s understanding of the project
+      and proposed approach to the Motorola-to-Tellabs PON migration.
+    c.  Tab C – Qualifications and Experience: A description of the Offeror’s Tellabs
+       implementation and Motorola PON migration experience; evidence of Tellabs
+        certification or Tellabs experience; and demonstrated experience configuring 802.1X and
+        integrating network infrastructure with Cisco ISE and Microsoft Intune, including device
+       compliance enforcement, dynamic VLAN assignment, and policy-based access control.
+    d.  Tab D – Implementation Methodology: The Offeror’s proposed implementation
+       methodology, including the approach for the redundant OLT architecture and splitter
+       replacement, migration and phased cutover strategy, service continuity and rollback
+       procedures, and the proposed approach for configuring and validating 802.1X, Cisco ISE
+        integration, Microsoft Intune device compliance integration, and policy-based access
+        control. Tab D shall also include: the planned downtime information required by Section
+        1.7; the Offeror’s proposed recovery procedures and rollback approach, including its
+       rollback validation methodology (Sections 1.7 and 1.8); its proposed security hardening
+       approach (Section 1.9); and its proposed support, software maintenance, and knowledge-
+        transfer approach (Section 1.14).
+    e.  Tab E – Project Schedule and Staffing Plan: A proposed project schedule from Notice to
+       Proceed through final acceptance, a staffing plan, an organizational chart, and resumes of
+      key personnel, including the project manager and lead engineer(s).
+
+
+                                                                                   22
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+     f.  Tab F – Risk Mitigation Strategy: Identification of key project risks and the Offeror’s
+       plan to mitigate each, including risks to voice, data, multicast, and 802.1X services
+       during migration, and risks associated with failed cutovers, recovery, rollback, and
+        security hardening.
+    g.  Tab G – Site Walk Confirmation and Exception Report: Confirmation of attendance at the
+      mandatory pre-proposal site walk; the completed Exception Report described in Section
+        1.4; and acknowledgement that existing outside plant fiber will be retained and reused
+       unless identified as an exception.
+    h.  Tab H – References: The completed References form.
+      i.  Tab I – Required Forms: Firm Information Form, Sworn Statement of Accuracy Form,
+      Acknowledgement of Addenda, Minority Participation Form, Conflict of Interest
+       Statement, Ethics Statement, and all other forms included in this RFP.
+
+
+2.3 PRICE PROPOSAL
+The Price Proposal shall be submitted as a separate file using Attachment A – Price Proposal
+Form. Offerors shall provide separate pricing for professional services; installation labor;
+configuration and 802.1X integration services; project management and training; optional
+support services; and any equipment not included in the College-provided BOM. Any additional
+cost identified in the Offeror’s Exception Report must be itemized on the Price Proposal Form.
+
+
+
+
+
+                                                                                   23
+
+                          Howard Community College
+                         RFP Number: 27P-003
+               RFP Title: Motorola PON to Tellabs PON Migration
+                          Opening Date: October 7th , 2026
+                            Closing Date: November 20th ,2026
+
+                EVALUATION AND AWARD
+
+
+3.1 EVALUATION PROCESS
+Proposals will be reviewed by an evaluation committee appointed by the College. Proposals will
+first be reviewed for responsiveness to the mandatory requirements of this RFP, including
+attendance at the mandatory pre-proposal site walk. Responsive proposals will then be evaluated
+and scored in accordance with the criteria below. The College may request clarifications, conduct
+oral presentations or interviews with one or more Offerors, check references, and request best
+and final offers from Offerors determined to be reasonably susceptible of being selected for
+award.
+
+
+3.2 EVALUATION CRITERIA
+Proposals will be evaluated based on the following criteria:
+
+
+                                Evaluation Criteria                                        Points
+ Qualifications and Experience – Tellabs implementation and Motorola PON migration             30
+ experience; 802.1X, Cisco ISE, and Microsoft Intune integration experience; references
+ (Tabs C and H)
+ Technical Approach and Implementation Methodology – redundant OLT and splitter               25
+ approach, migration and service continuity, planned downtime, recovery and rollback
+ approach, security hardening, 802.1X/ISE/Intune configuration and validation approach,
+ and support and software maintenance approach (Tab D)
+ Project Schedule, Staffing Plan, and Risk Mitigation (Tabs E and F)                            10
+ Exception Report – completeness and quality of the site walk findings (Tab G)                    5
+ Price (Attachment A)                                                                 30
+ TOTAL                                                                           100
+
+3.3 BASIS OF AWARD
+The contract will be awarded to the responsible Offeror whose proposal is determined to be the
+most advantageous to the College, considering the evaluation criteria set forth above. The
+College is not obligated to award the contract to the Offeror proposing the lowest price.
+
+
+
+
+
+                                                                                   24
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+             GENERAL INFORMATION
+
+4.1 PROPOSAL DUE DATE
+All responses to this Request for Proposals will be accepted via Equity Hub’s Bid Locker
+at https://bidlocker.us/details/6573_Motorola_Pon_To_Tellabs_Pon_Migration until 11:00 a.m. local
+time on November 20th,2026 , at which time the names of the firms submitting proposals will be
+recorded. Firms do not need to be present at the recording. Proposal prices will not be read aloud.
+Late submittals will not be considered. It is the responsibility of each firm to ensure its proposal is
+submitted prior to the scheduled date and time.
+Oral, mailed, faxed, or emailed proposals are invalid and will not be given consideration. Proposals
+will not be accepted electronically through eMMA. In the event that the College is closed on the
+proposal due date due to emergency or inclement weather, proposals will be due at the stated time on
+the next open business day, unless Offerors are notified otherwise.
+
+4.2 MANDATORY PRE-PROPOSAL CONFERENCE AND SITE WALK
+A mandatory pre-proposal conference and site walk will be held on campus on October 21st at 2:00
+pm EST , Howard Community College, 10901 Little Patuxent Parkway, Columbia, MD 21044.
+Attendance is mandatory. Failure to attend may result in the Offeror’s proposal being deemed non-
+responsive. To RSVP, all interested parties must email Courtney Kelly at ckelly@howardcc.edu by
+October 16th, 2026 . The site walk will include existing Motorola PON equipment locations,
+telecommunications rooms, MDFs, IDFs, and office installations as described in Section 1.4.
+Any substantive questions that may arise during the pre-proposal conference must be emailed to
+Courtney Kelly at ckelly@howardcc.edu for an official response via Addendum. Verbal responses
+communicated during the pre-proposal conference are not binding unless submitted in writing.
+Names of attendees will be recorded to aid in the creation of the proposal addendum that follows the
+conference, which will memorialize the topics covered during the pre-proposal conference and any
+questions received during the conference. A list of registered attendees will be shared via an
+Addendum.
+
+4.3 CONTACT INFORMATION
+The sole point of contact for Howard Community College for this RFP is Courtney Kelly, Assistant
+Director of Procurement. She may be reached via email at ckelly@howardcc.edu. Firms must
+carefully examine the RFP and related documents. Should any firm find discrepancies or omissions in
+this RFP or be in doubt as to the content or meaning of any aspect of this document, the firm should
+direct inquiries or requests for clarification of the documents, specifications, or the process in writing
+to this contact person. All questions must be received on October 30th 2026   . Firms are advised that
+the College reserves the right to use its best judgment in choosing to respond or not respond to any
+questions received after the above cut-off date for questions.
+Clarifications of the RFP, in the form of addenda, shall be issued in writing by the College as it
+deems appropriate and necessary to do so through the Howard Community College procurement
+webpage. The College reserves the right to waive any and all proposal technicalities, formalities, or
+informalities at any time prior to or after the date of receipt of Proposals as it deems appropriate and,
+in the College’s, best interest. The submission of a proposal will indicate that the firm thoroughly
+understands the terms of the RFP.
+
+
+
+                                                                                25
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+Under no circumstances are firms, including third party firms or their staffs, to contact other College
+staff, faculty or any related constituency for purposes associated with the RFP, including but not
+limited to, obtaining, or providing information unless specifically noted in the Scope of the Project.
+Firms failing to comply with this requirement may be disqualified.
+
+The College may designate one or more of its employees as liaison to interested firms at its
+discretion. This designation may be made after the proposal submission deadline. Communication
+between the firm and the College would then be made through the designated liaison after that point,
+as determined by the College.
+
+4.4 SUBMISSION OF PROPOSALS
+Offerors must submit three (3) separate PDF files to respond to this RFP:
+
+One (1) Password-Protected PDF file for the unredacted Technical Proposal.
+One (1) Password-Protected PDF file for the redacted Technical Proposal.
+One (1) Password-Protected PDF file for the Price Proposal (Attachment A – Price Proposal Form).
+Pricing information shall not appear anywhere in the Technical Proposal.
+
+The redacted PDF files must be in accordance with Section 4.23 Claims of Confidentiality.
+
+Each file must be protected with a unique password. The passwords must be provided to the
+Procurement Officer within 48 hours upon request. Failure to respond to the Procurement Officer’s
+request may result in your firm’s proposal being rejected. If your firm chooses to waive password
+protection, an email must still be sent to the Procurement Officer advising that password protection
+has been waived.
+Proposal submissions must be organized as described in Section 2, Proposal Submittal Format, and
+must include all required information and forms. All files submitted in response to this RFP must be
+labeled as follows: <Firm Name>_27P-003 Tellabs PON Migration_Technical Proposal Redacted,
+Technical Proposal Unredacted, or Price Proposal, whichever is applicable to the file. Completed
+proposal documents must arrive electronically via Equity Hub’s Bid Locker
+at https://bidlocker.us/details/6573_Motorola_Pon_To_Tellabs_Pon_Migration. Please note that
+Offerors must register on the Bid Locker website prior to submitting documents, so please plan the
+upload of the proposal package accordingly.
+Oral, mailed, faxed, or emailed proposals are invalid and will not be given consideration. Proposals
+will not be accepted electronically through eMMA. Failure to follow the submission instructions in
+this section will result in the rejection of your firm’s proposal.
+All costs incurred by responding firms associated with the preparation, submission, presentation or
+proposals and attendance at meetings, including but not limited to, costs related to transportation,
+meals, lodging, bonding and other related expenses, if applicable, will be the sole responsibility of the
+respondent and will not under any circumstances be reimbursed by the College.
+
+4.5 EVALUATION OF PROPOSALS
+Proposals will be evaluated by an evaluation committee in accordance with Section 3, Evaluation and
+Award. The College may make any investigations deemed necessary to determine the ability of the
+firm to provide the work as specified herein. If it is in the best interest of the College, Offerors may
+be required to cure or clarify deficiencies in the proposal, participate in oral presentations or
+interviews, or submit a best and final offer.
+
+
+                                                                                26
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+
+4.6 EVIDENCE OF RESPONSIBILITY AND RESPONSIVENESS
+Offeror’s submitting a response to this RFP must provide evidence of the following:
+Offeror is responsible – offeror demonstrates ability to provide products and services that can meet or
+exceed requirements. The following criteria will be used to determine responsibleness:
+The offeror has the equipment, ability, and experience to perform the work as stated in the
+specifications listed in the proposal.
+Offeror is financially stable.
+
+Offeror is responsive – Offeror follows proposal submission instructions and provides all requested
+materials. The following criteria will be used to determine responsiveness:
+The offeror has favorable references that can confirm its ability to provide the products and services
+as stated in the specifications listed in this proposal.
+Offeror has provided all documentation and samples requested in the Specifications/Scope of work.
+Additionally, the quality of performance of previous contracts or services shall be considered in
+determining the most advantageous responsive and responsible Offeror. Quality of performance may
+be determined by contracts or services provided to the College or to other entities. Quality of
+performance to other entities will be determined from reference checks when references are required.
+The determination of quality performance includes the Contractor’s history of reasonable and
+cooperative behavior and commitment to customer satisfaction and the Contractor’s businesslike
+concern for the interests of the customer. The College reserves the right to reject any proposal deemed
+not responsible or non-responsive.
+
+4.7 AWARD
+The contract will be awarded to the responsible Offeror whose proposal is determined to be the most
+advantageous to the College, considering the evaluation criteria set forth in Section 3, subject to the
+availability of funding and provided that it is in the best interest of Howard Community College to
+award the contract. The Offeror’s proposal, the specifications, terms and exhibits of this RFP, and any
+other applicable documentation relating to this RFP will be incorporated into the contract.
+The award may be in whole or in part, whichever is in the best interest of the College. The Board of
+Trustees reserves the right to waive any informalities in the selection and award process relating to
+this proposal.
+In the College’s sole discretion, the College may defer the award of the contract for a period of up to
+one hundred and twenty (120) calendar days after opening of proposals. If no award or other
+disposition is made, the expiration of the one hundred and twenty (120) calendar days will constitute
+rejection of all offers without further action by the College.
+
+4.8 PRICING
+The prices offered on Attachment A – Price Proposal Form must include all charges and costs
+(including shipping, travel, and disposal) incurred in the delivery of this procurement. No allowance
+will be made later for additional charges due to the Offeror’s omission, including any condition
+reasonably observable during the mandatory site walk but not identified in the Offeror’s Exception
+Report.
+In addition, all Offerors must hold their proposal prices for one hundred twenty (120) days after
+proposal opening date, but prior to contract award date. If the awarded Offeror is unable to fulfil the
+contract, the College reserves the right to re-solicit the contract or to award the contract to the next
+most advantageous Offeror.
+
+
+                                                                                27
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+
+4.9 REJECTION
+The College reserves the right to reject any or all offers received because of this solicitation and
+readvertise for other proposals. Offers may also be rejected for any of the following reasons:
+Failure to meet the mandatory specifications and requirements.
+Failure to attend the mandatory pre-proposal conference and site walk.
+Failure to respond in a timely fashion to a request for additional information or data.
+Failure to supply appropriate and favorable client references.
+Financial instability of firm submitting the proposal.
+Failure of the firm to successfully negotiate a contract, if applicable.
+Submitting an incomplete Price Proposal Form.
+Submitting a proposal that is not signed; or
+Failure to demonstrate that the Offeror is qualified to carry out the obligations of the contract and to
+implement and support the work specified herein.
+
+4.10 SUBCONTRACTS/MAJOR SUPPLIERS
+Offerors must submit the names, addresses, and division of work for all subcontractors and major
+material suppliers to be retained for this project. The College reserves the right to reject.
+
+4.11 CHANGES TO THE CONTRACT
+The College may make any alterations, deviations, additions, or omissions from the Request for
+Proposals documents which it deems to be in the best interest of the college without affecting the
+obligations of the Firm or making the contract void. Any alterations, deviations, additions, or
+omissions shall be processed as a change order.
+
+4.12 CHANGES IN WORK
+The College may make any alterations, deviations, additions, or omissions from the RFP documents
+which it deems to be in the best interest of the College without affecting the obligations of the
+Contractor or making void the contract. Any alterations, deviations, additions, or omissions shall be
+processed as a Change Order. Promptly after being notified of a change, Contractor shall submit an
+itemized estimate of any cost or time increases or savings Contractor foresees as a result of the
+change. Detailed back-up documentation for any subcontractor costs shall also be included with the
+estimate. In giving instructions, the College shall have the authority to make minor changes to the
+work, not involving extra cost, and consistent with the purposes of the work. But otherwise, except in
+an emergency endangering life or property, no addition or changes to the Work shall be made except
+upon the written order of the College, and the College shall not be liable to the Contractor for any
+increased compensation without such written order. No officer, employee or agent of the College is
+authorized to direct any extra or changed work orally.
+If a requested change results in an increase to the Contract Amount, the amount of the increase shall
+be limited to the Contractor’s reasonable direct labor and material costs and reasonable actual
+equipment costs because of the change (including allowance for labor burden costs) plus a maximum
+ten percent (10%) markup for all overhead and profit. In the event such change Work is performed
+by a Subcontractor, a maximum ten percent (10%) markup for all overhead and profit for
+Subcontractors’ and sub-subcontractors’ direct labor and material costs and actual equipment costs
+shall be permitted, with a maximum five percent (5%) markup thereon by the Contractor for all its
+overhead and profit, for a total maximum markup of fifteen percent (15%). All compensation due
+
+
+                                                                                28
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+Contractor and any Subcontractor or sub-subcontractor for field and home office overhead is included
+in the markups noted above.
+A Change Order shall be issued and executed promptly after an agreement is reached between
+Contractor and the College concerning the requested changes. The contractor shall promptly perform
+changes authorized by duly executed Change Orders. The Contract Amount and Contract Time shall
+be adjusted in the Change Order in the manner as the College and Contractor shall mutually agree.
+The College shall have the right to conduct an audit of the Contractor’s books and records to verify
+the accuracy of the Contractor’s claim with respect to the Contractor’s costs associated with any
+Change Order.
+
+4.13DELIVERY
+The successful Offeror shall deliver all of the required submittals within ten (10) days of the Notice to
+Award and commence Work according to the approved project schedule unless otherwise ordered in
+writing by the College.
+
+4.14 INSURANCE REQUIREMENTS
+The Firm shall always maintain in force during the term of the contract, such insurance that will
+indemnify and hold harmless the College from Worker’s Compensation and Public Liability claims
+for property damage and personal injury, including death, which may arise from the Firms’ operations
+under the contract, or by anyone directly or indirectly employed by the Firm. The Firm’s insurance
+will be with an insurance carrier licensed to do business in the State of Maryland acceptable to the
+College, with the following minimum insurance coverage:
+
+Comprehensive General Liability Insurance – Liability Limits of One Million Dollars
+($1,000,000.00) each occurrence and Three Million Dollars ($3,000,000) aggregate.
+
+Comprehensive Business Automobile Liability Insurance – Liability Limit of Five Hundred
+Thousand Dollars ($500,000) for any one accident.
+
+Worker’s Compensation Insurance: Statutory coverage, including employer’s liability coverage with
+a limit of at least One Hundred Thousand Dollars ($100,000.00).
+
+ At the time this contract is made, the Firm shall provide the College with evidence of payment fully
+of the above insurance coverage throughout the entire term of this contract. Any request for an
+extension of time for this contract shall also include evidence of payment fully of the above insurance
+coverage through the entire term of the extension of term for this contract.
+The Firm shall furnish the College with a certificate of insurance as evidence of the required
+coverage. Such insurance should specifically identify the materials and/or equipment and shall name
+Howard Community College and Howard County, Maryland as an additional insured.
+If the Firm’s insurance is terminated, the Firm shall immediately obtain other coverage; any lack of
+insurance shall be ground for immediate termination of the contract.
+
+4.15 CONFIDENTIALITY OF DATA
+All financial, statistical, personal, technical and other data and information which are designated
+confidential by the College and not otherwise subject to disclosure, and made available to the Firm in
+order to carry out this Contract, or which become available to the Firm in carrying out this Contract,
+shall be protected by the Firm using the same level of care in preventing unauthorized disclosure or
+
+
+                                                                                29
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+use of the confidential information that the Firm takes to protect its own information of a similar
+nature, but in no event, less than reasonable care. The Firm shall not be required under the provision
+of this clause to keep confidential any data or information that is or becomes publicly available, is
+already rightfully in the Firm’s possession, is independently developed by the Firm outside the scope
+of this Contract or is rightfully obtained from third parties.
+
+4.16 COOPERATIVE PURCHASE
+The College reserves the right to extend all of the terms, conditions, specifications, and unit or other
+prices of any contract resulting from this Request for Proposals to any and all public bodies,
+subdivisions, school districts, community colleges, colleges, and universities. This is conditioned
+upon the mutual agreement of all parties pursuant to specific requirements, which may be appended
+thereto. The College assumes no authority, liability, or obligation, on behalf of any other public entity
+that may use any contract resulting from this RFP. All purchases and payment transactions will be
+made directly between the Firm and the requesting entity. Any exceptions to this requirement must be
+specifically noted in the proposal response.
+
+4.17 SUBCONTRACTORS
+Offerors must submit the names and addresses of all subcontractors to be retained for this project. The
+College reserves the right to refuse.
+
+4.18 MINORITY PARTICIPATION
+It is the policy of Howard Community College to strongly encourage minority business enterprises
+(MBE) to provide goods and services for the performance of college functions. Within the evaluation,
+Offerors can achieve higher consideration if they are a minority business enterprise or demonstrate an
+effort to achieve a minimum of 29% of the subcontractors or vendors anticipated to be retained by the
+Offeror for the College’s project. Minority businesses include non-profit entities organized to
+promote the interests of handicapped persons, and firms that are 51% owned and controlled by a
+member of socially or economically disadvantaged minority groups, which include: African
+Americans, Hispanics, American Indians, Alaska natives, Asians, Pacific Islanders, women, and the
+mentally or physically disabled.
+
+4.19 Procurement regulations
+This Request for Proposals and any resulting contract shall be governed by §§16-311 through 16-314
+of the Education Article of the Annotated Code of Maryland.
+
+4.20 MISSION, VISION, AND VALUES
+HCC believes that a key characteristic of performance excellence is a solid foundation and
+understanding of an organization’s mission, vision, and value statements. The College expects all
+Firms to support the College’s mission, vision, and values by fostering these concepts in their work
+on campus.
+Mission: providing pathways to success
+Vision: a place to discover greatness in yourself and others
+Values: INSPIRED-Innovation, Nurturing, Service and sustainability, Partnerships, Integrity,
+Respect, Excellence, Diversity equity and inclusion
+
+4.21 SMOKE AND TOBACCO-FREE
+
+
+                                                                                30
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+Howard Community College is a tobacco free environment. Use of tobacco products is prohibited in
+all colleges owned, leased, and controlled properties including parking lots and garages, and at all
+college-sponsored activities. Smoking is prohibited in vehicles. This prohibition extends to Firms,
+employees, agents, subcontractors, and vendors.
+
+4.22 EMPLOYMENT OF CHILD SEX OFFENDERS
+Howard Community College provides a number of programs throughout the main campus that
+involve minor children, including Kids on Campus. The State of Maryland requires certain child sex
+offenders to register with the State and with the local law enforcement agency in the county in which
+they will reside, work, or attend school. If a child sex offender, as determined by the definitions
+contained in the Criminal Law Article of the Annotated Code of Maryland, is employed by the
+awarded Offeror, the awarded Offeror is prohibited from assigning that employee to perform any type
+of service on the main campus. Violation of this provision may result in Termination for Cause of the
+contract.
+
+4.23 CLAIM OF CONFIDENTIALITY
+Any information which is claimed to be confidential and/or proprietary information should be
+identified by page and section number and placed after the Title Page and before the Table of
+Contents in the Proposal. An explanation for each claim of confidentiality shall be included. The
+entire Proposal cannot be given a blanket confidentiality designation - any confidentiality designation
+must apply to specific sections, pages, or portions of pages of the Proposal and an explanation for
+each claim shall be included.
+
+THE REMAINDER OF THIS PAGE IS INTENTIONALLY LEFT BLANK
+
+
+
+
+
+                                                                                31
+
+                        Howard Community College
+                        RFP Number: 27P-003
+              RFP Title: Motorola PON to Tellabs PON Migration
+                        Opening Date: October 7th , 2026
+                          Closing Date: November 20th ,2026
+
+ ATTACHMENT A – PRICE PROPOSAL FORM
+
+  To: Howard Community College
+  Re: 27P-003: Motorola PON to Tellabs PON Migration
+
+ From:     ______________________________________________
+     (Company’s Name)
+
+ The undersigned (“Contractor”) proposes to provide all of the necessary labor, materials, equipment,
+ and services, as specified in the attached RFP documents. It is understood that the College will be the
+  sole judge as to the acceptance of proposals and award of the contract. All work shall be completed in
+  accordance with the accompanying Specifications for the amounts listed below in accordance with the
+  terms of the RFP documents.
+
+ By submitting this proposal, Contractor agrees to be bound by the College’s General Terms and
+  Conditions and comply with all insurance mandates.
+
+  Offerors are required to submit pricing for every item contained within Section A of this form.
+  Offerors that do not respond to every item in Section A shall be deemed non-responsive. Having
+ examined all matters referred to in the RFP documents, including Addenda No. ____, ____, ____,
+ and ____, the Offeror’s prices are as follows:
+
+ A. Base Proposal (Firm Fixed Price):
+
+Item                                 Description                            Firm Fixed Price
+ 1      Professional Services – assessment and design validation, review of Motorola   $
+         configuration, migration strategy, service-continuity, cutover, recovery, and
+         rollback planning and rollback validation, security hardening, testing and
+         validation, and as-built documentation (Sections 1.6 through 1.12)
+ 2      Installation Labor – installation of all Tellabs equipment in the BOM,          $
+        replacement of 1x32 splitters with 2x32 splitters, fiber terminations, patching,
+         labeling, and removal of Motorola equipment (Sections 1.5, 1.6)
+ 3     Configuration and 802.1X Integration Services – OLT/ONT configuration;      $
+         voice, data, and multicast services; 802.1X, Cisco ISE, and Microsoft Intune
+         integration; migration and cutover (Section 1.6)
+ 4      Project Management, Training, and Knowledge Transfer (Sections 1.14 and     $
+        1.17)
+     TOTAL BASE PROPOSAL (Items 1 – 4)                               $
+
+  Total Base Proposal (written): ________________________________________________
+
+
+
+
+
+                                                                                 32
+
+                         Howard Community College
+                        RFP Number: 27P-003
+              RFP Title: Motorola PON to Tellabs PON Migration
+                         Opening Date: October 7th , 2026
+                           Closing Date: November 20th ,2026
+
+  B. Equipment and Materials Not Included in the College-Provided BOM:
+   List any equipment, materials, or services not included in the BOM that are required to complete the
+   project, including all items identified in the Exception Report. Attach additional sheets if necessary.
+
+ Part # / Item               Description              Exception    Qty    Unit Price     Extended
+                                                Report Ref.                             Price
+                                                                    $           $
+                                                                    $           $
+                                                                    $           $
+                                                                    $           $
+                                                                    $           $
+                                                                    $           $
+           SUBTOTAL – SECTION B                                         $
+
+  C. Optional Support Services (NOT included in Total Base Proposal):
+
+ Item              Description of Optional Support Service             Term            Price
+  C1    Post-implementation support (describe coverage, severity            1 Year     $
+           definitions, response times, and escalation; see Section 1.14)
+  C2    Extended post-implementation support (describe)                   1 Year     $
+  C3    Other optional services (describe)                                          $
+
+  D. Hourly Rates for Additional Work:
+   Offerors are required to provide hourly rates for additional work that may be required outside of the
+  scope specified in this solicitation and authorized in writing by the College through a Change Order
+   (see Section 4.12).
+
+                    Labor Category / Item                                   Rate
+Project Manager (hourly)                                           $
+Network / PON Engineer (hourly)                                    $
+802.1X / Cisco ISE / Microsoft Intune Engineer (hourly)                  $
+Fiber / Installation Technician (hourly)                                 $
+Material markup for additional work                     %
+
+
+
+
+
+                                                                                  33
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+FIRM INFORMATION FORM
+
+The undersigned agrees to furnish and deliver the above goods and services in accordance with the
+specifications issued, and subject to all terms, conditions, and requirements in the solicitation, and in
+the various proposal documents.
+____________________________________
+(Printed name of Company)
+Provide the name and title of the person with legal authority to sign on behalf of the Firm. If the title
+of the individual is not “President” or “Vice President,” provide verification of the signature authority
+with your submittal.
+Name of Company Signatory (Printed): ___________________________________________
+Title of Company Signatory (Printed): _____________________________________________
+Please list any exceptions taken to any terms and conditions listed in the proposal. Please note any
+exceptions taken that may affect the award of a contract or purchase order:
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+____________
+Please provide the following information:
+
+Company Name: ___________________________  Corporation (y/n): ___________
+Federal Tax Id: ____________________________  Years in Business: ___________
+Street Address: ____________________________  City: _______________________________
+          ____________________________      State, Zip ___________________________
+
+Office phone number: ______________________  Fax number: _____________________
+Cell phone number: ________________________  Email address: ___________________
+Contact Person: ___________________________   Title: ___________________________
+
+Minority Firm: ____ (yes) ______ (no)
+If yes, please specify minority classification __________________________________
+
+_________________________________________________________________________________
+____
+Company name                         Name
+
+______________________________________________________________________
+Title                                           Authorized signature and date.
+
+
+
+
+
+                                                                                34
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+SWORN statement OF ACCURACY FORM
+
+The undersigned swears or affirms under the penalty of perjury and upon personal knowledge that the
+contacts of this Proposal are true and correct.
+
+
+
+_________________________________   _________________________________________
+Name of Company                          Representative/Title
+                                            (Signature)
+
+
+________________________________
+   ________________________________________
+Address                                    Representative/Title
+                                            (Print/Type)
+
+
+________________________________           _______________________________________
+Telephone number                      Date
+
+
+
+
+
+                                                                                35
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+ACKNOWLEDGEMENT OF ADDENDA
+
+We, ____________________________________________ acknowledge receipt of the following
+addenda:
+
+          No. _________, Dated _________________________
+
+          No. _________, Dated _________________________
+
+          No. _________, Dated _________________________
+
+          No. _________, Dated _________________________
+
+
+PLEASE SIGN BELOW TO ACKNOWLEDGE RECEIPT OF ADDENDUM AND RETURN
+WITH PROPOSAL.
+
+
+Company name                         Name
+
+Date                                           Authorized signature.
+
+
+
+
+
+                                                                                36
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+REFERENCES
+The Offeror shall list at least three projects of similar scope, preferably including Tellabs PON
+implementations, Motorola PON migrations, and/or 802.1X network access control integrations with
+Cisco ISE and Microsoft Intune. The referenced work shall have been completed within the last five
+years. Provide a brief description of the scope of the work. Please make sure references and contact
+people are current. Use separate sheets if necessary and include with submission. These will become
+part of the contract.
+
+Reference 1
+ Company
+ name
+ Street Address
+ City, State,
+ Zip
+ Contact
+ Person
+ Title
+ Telephone #
+ Project Dates
+
+Reference 2
+ Company
+ name
+ Street Address
+ City, State,
+ Zip
+ Contact
+ Person
+ Title
+ Telephone #
+ Project Dates
+
+Reference 3
+ Company
+ name
+ Street Address
+ City, State,
+ Zip
+ Contact
+ Person
+ Title
+ Telephone #
+ Project Dates
+
+
+
+
+                                                                                37
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+Please note: References listed must be able to confirm the Offeror’s ability to provide the services
+requested in this proposal document.
+
+References submitted by: _______________________________________________________
+                     Company name
+
+
+
+
+
+                                                                                38
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+MINORITY PARTICIPATION FORM
+
+PROPOSERS SHALL COMPLETE THE FOLLOWING:
+
+I HEREBY REPRESENT THAT OUR/MY FIRM  IS     _______
+
+                                                IS NOT _______
+
+A MINORITY BUSINESS FIRM AS INDICATED BELOW (check all that apply):
+
+African American  _____         Hispanic      ______         Asian/Pacific Islander  ______
+American Indian/Alaska native    _____  Disabled      ______       Female       ______
+
+I HEREBY REPRESENT THAT OUR/MY FIRM: IS ___  IS NOT ____ COMMITTED TO
+DEMONSTRATING AN EFFORT TO ACHIEVE A MINIMUM MBE PARTICIPATION LEVEL
+OF 29%.
+I hereby certify that the above information is true and correct, to the best of my knowledge and belief.
+
+
+_______________________________________________________
+Firm Name
+
+_______________________________________________________
+Signed                                       Date
+
+_______________________________________________________
+Type or Print Name
+
+_______________________________________________________
+Title
+
+
+
+
+
+                                                                                39
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+CONFLICT OF INTEREST STATEMENT
+The undersigned hereby affirms and attests that to the best of my knowledge, no trustee, employee,
+spouse, parent, child, brother or sister of the trustee or employee, own assets in this business, and of
+this date are also employed by Howard Community College.
+
+Company:        _____________________________________________________________
+
+Authorized signature:
+   _____________________________________________________________
+
+Printed name:
+   _____________________________________________________________
+
+Title:
+   _____________________________________________________________
+
+Date:
+   _____________________________________________________________
+
+
+
+
+
+                                                                                40
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+ETHICS STATEMENT
+In compliance with the Public Ethics Law contained in the Annotated Code of Maryland, Title 5 of
+the General Provisions Article, I hereby affirm that no employee of or representative for our company
+assisted the College in the drafting of specifications, requirements, statements of work, requests for
+proposals or other solicitations for this procurement, nor did any individual or company who assisted
+in such drafting assist or represent this company, directly or indirectly, in submitting a proposal or
+proposal for this procurement.
+
+Firm:
+   _____________________________________________________________
+
+Authorized signature:
+   _____________________________________________________________
+
+Printed name:
+   _____________________________________________________________
+
+Title:
+   _____________________________________________________________
+
+Date:
+   _____________________________________________________________
+
+
+
+
+
+                                                                                41
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+PROPOSAL/PROPOSAL AFFIDAVIT
+A. AUTHORIZED REPRESENTATIVE
+I HEREBY AFFIRM THAT:
+I am the (title) ____________ and the duly authorized representative of (business) ______________
+and that I possess the legal authority to make this Affidavit on behalf of myself and the business for
+which I am acting.
+B. CERTIFICATION REGARDING COMMERCIAL NONDISCRIMINATION
+The undersigned Offeror hereby certifies and agrees that the following information is correct: In
+preparing its proposal on this project, the Offeror has considered all proposals submitted from
+qualified, potential subcontractors and suppliers, and has not engaged in "discrimination" as defined
+in §19-103 of the State Finance and Procurement Article of the Annotated Code of Maryland.
+"Discrimination" means any disadvantage, difference, distinction, or preference in the solicitation,
+selection, hiring, or commercial treatment of a vendor, subcontractor, or commercial customer on the
+basis of race, color, religion, ancestry, or national origin, sex, age, marital status, sexual orientation,
+or on the basis of disability or any otherwise unlawful use of characteristics regarding the vendor's,
+supplier's, or commercial customer's employees or owners. "Discrimination" also includes retaliating
+against any person or other entity for reporting any incident of "discrimination". Without limiting any
+other provision of the solicitation on this project, it is understood that, if the certification is false, such
+false certification constitutes grounds for the State to reject the proposal submitted by the Offeror on
+this project, and terminate any contract awarded based on the proposal. As part of its proposal or
+proposal, the Offeror herewith submits a list of all instances within the past 4 years where there has
+been a final adjudicated determination in a legal or administrative proceeding in the State of
+Maryland that the Offeror discriminated against subcontractors, vendors, suppliers, or commercial
+customers, and a description of the status or resolution of that determination, including any remedial
+action taken. Offeror agrees to comply in all respects with the State's Commercial Nondiscrimination
+Policy as described under Title 19 of the State Finance and Procurement Article of the Annotated
+Code of Maryland.
+C. AFFIRMATION REGARDING BRIBERY CONVICTIONS
+I FURTHER AFFIRM THAT:
+Neither I, nor to the best of my knowledge, information, and belief, the above business (as is defined
+in Section 16-101(b) of the State Finance and Procurement Article of the Annotated Code of
+Maryland), or any of its officers, directors, partners, controlling stockholders, or any of its employees
+directly involved in the business's contracting activities including obtaining or performing contracts
+with public bodies has been convicted of, or has had probation before judgment imposed pursuant to
+Criminal Procedure Article, §6-220, Annotated Code of Maryland, or has pleaded nolo contendere to
+a charge of, bribery, attempted bribery, or conspiracy to bribe in violation of Maryland law, or of the
+law of any other state or federal law, except as follows (indicate the reasons why the affirmation
+cannot be given and list any conviction, plea, or imposition of probation before judgment with the
+date, court, official or administrative body, the sentence or disposition, the name(s) of person(s)
+involved, and their current positions and responsibilities with the business):
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_______________________________________________________________________.
+D. AFFIRMATION REGARDING OTHER CONVICTIONS
+
+I FURTHER AFFIRM THAT:
+
+
+                                                                                42
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+Neither I, nor to the best of my knowledge, information, and belief, the above business, or any of its
+officers, directors, partners, controlling stockholders, or any of its employees directly involved in the
+business's contracting activities including obtaining or performing contracts with public bodies, has:
+(1) Been convicted under state or federal statute of:
+(a) A criminal offense incident to obtaining, attempting to obtain, or performing a public or private
+contract; or
+(b) Fraud, embezzlement, theft, forgery, falsification, or destruction of records or receiving stolen
+property.
+(2) Been convicted of any criminal violation of a state or federal antitrust statute.
+(3) Been convicted under the provisions of Title 18 of the United States Code for violation of the
+Racketeer Influenced and Corrupt Organization Act, 18 U.S.C. §1961 et seq., or the Mail Fraud Act,
+18 U.S.C. §1341 et seq., for acts in connection with the submission of proposals or proposals for a
+public or private contract;
+(4) Been convicted of a violation of the State Minority Business Enterprise Law, §14-308 of the State
+Finance and Procurement Article of the Annotated Code of Maryland.
+(5) Been convicted of a violation of §11-205.1 of the State Finance and Procurement Article of the
+Annotated Code of Maryland.
+(6) Been convicted of conspiracy to commit any act or omission that would constitute grounds for
+conviction or liability under any law or statute described in subsections (1)— (5) above.
+(7) Been found civilly liable under a state or federal antitrust statute for acts or omissions in
+connection with the submission of proposals or proposals for a public or private contract.
+(8) Been found in a final adjudicated decision to have violated the Commercial Nondiscrimination
+Policy under Title 19 of the State Finance and Procurement Article of the Annotated Code of
+Maryland with regard to a public or private contract; or
+(9) Admitted in writing or under oath, during the course of an official investigation or other
+proceedings, acts or omissions that would constitute grounds for conviction or liability under any law
+or statute described in §§B and C and subsections D(1)—(8) above, except as follows (indicate
+reasons why the affirmations cannot be given, and list any conviction, plea, or imposition of
+probation before judgment with the date, court, official or administrative body, the sentence or
+disposition, the name(s) of the person(s) involved and their current positions and responsibilities with
+the business, and the status of any debarment):
+_________________________________________________________________________________
+________________________
+_________________________________________________________________________________
+________________________
+_________________________________________________________________________________
+_______________________.
+E. AFFIRMATION REGARDING DEBARMENT
+I FURTHER AFFIRM THAT:
+Neither I, nor to the best of my knowledge, information, and belief, the above business, or any of its
+officers, directors, partners, controlling stockholders, or any of its employees directly involved in the
+business's contracting activities, including obtaining or performing contracts with public bodies, has
+ever been suspended or debarred (including being issued a limited denial of participation) by any
+public entity, except as follows (list each debarment or suspension providing the dates of the
+suspension or debarment, the name of the public entity and the status of the proceedings, the name(s)
+of the person(s) involved and their current positions and responsibilities with the business, the
+
+
+                                                                                43
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+grounds of the debarment or suspension, and the details of each person's involvement in any activity
+that formed the grounds of the debarment or suspension).
+_________________________________________________________________________________
+________________________
+_________________________________________________________________________________
+________________________
+_________________________________________________________________________________
+_______________________.
+F. AFFIRMATION REGARDING DEBARMENT OF RELATED ENTITIES
+I FURTHER AFFIRM THAT:
+(1) The business was not established, and it does not operate in a manner designed to evade the
+application of or defeat the purpose of debarment pursuant to Sections 16-101, et seq., of the State
+Finance and Procurement Article of the Annotated Code of Maryland; and
+(2) The business is not a successor, assignee, subsidiary, or affiliate of a suspended or debarred
+business, except as follows (you must indicate the reasons why the affirmations cannot be given
+without qualification):
+_________________________________________________________________________________
+________________________
+_________________________________________________________________________________
+________________________
+_________________________________________________________________________________
+_______________________.
+G. SUB-CONTRACT AFFIRMATION
+I FURTHER AFFIRM THAT:
+Neither I, nor to the best of my knowledge, information, and belief, the above business, has
+knowingly entered into a contract with a public body under which a person debarred or suspended
+under Title 16 of the State Finance and Procurement Article of the Annotated Code of Maryland will
+provide, directly or indirectly, supplies, services, architectural services, construction related services,
+leases of real property, or construction.
+H. AFFIRMATION REGARDING COLLUSION
+I FURTHER AFFIRM THAT:
+Neither I, nor to the best of my knowledge, information, and belief, the above business has:
+(1) Agreed, conspired, connived, or colluded to produce a deceptive show of competition in the
+compilation of the accompanying proposal or offer that is being submitted.
+(2) In any manner, directly or indirectly, entered into any agreement of any kind to fix the proposal
+price or price proposal of the Offeror or Offeror or of any competitor, or otherwise taken any action in
+restraint of free competitive bidding in connection with the contract for which the accompanying
+proposal or offer is submitted.
+I. FINANCIAL DISCLOSURE AFFIRMATION
+I FURTHER AFFIRM THAT:
+I am aware of, and the above business will comply with, the provisions of Section 13-221 of the State
+Finance and Procurement Article of the Annotated Code of Maryland, which require that every
+business that enters into contracts, leases, or other agreements.
+
+with the State of Maryland or its agencies during a calendar year under which the business is to
+receive in the aggregate $100,000 or more shall, within 30 days of the time when the aggregate value
+
+
+                                                                                44
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+of the contracts, leases, or other agreements reaches $100,000, file with the Secretary of State of
+Maryland certain specified information to include disclosure of beneficial ownership of the business.
+
+J. POLITICAL CONTRIBUTION DISCLOSURE AFFIRMATION
+I FURTHER AFFIRM THAT:
+I am aware of, and the above business will comply with, Election Law Article, §§14-101—14-108,
+Annotated Code of Maryland, which requires that every person that enters into contracts, leases, or
+other agreements with the State of Maryland, including its agencies or a political subdivision of the
+State, during a calendar year in which the person receives in the aggregate $100,000 or
+more shall file with the State Board of Elections a statement disclosing contributions in excess of
+$500 made during the reporting period to a candidate for elective office in any primary or general
+election.
+K. DRUG AND ALCOHOL-FREE WORKPLACE
+I CERTIFY THAT:
+(1) Terms defined in COMAR 21.11.08 shall have the same meanings when used in this certification.
+(2) By submission of its proposal or offer, the business, if other than an individual, certifies and
+agrees that, with respect to its employees to be employed under a contract resulting from this
+solicitation, the business shall:
+(a) Maintain a workplace free of drug and alcohol abuse during the term of the contract.
+(b) Publish a statement notifying its employees that the unlawful manufacture, distribution,
+dispensing, possession, or use of drugs, and the abuse of drugs or alcohol is prohibited in the business'
+workplace and specifying the actions that will be taken against employees for violation of these
+prohibitions.
+(c) Prohibit its employees from working under the influence of drugs or alcohol.
+(d) Not hire or assign to work on the contract anyone whom the business knows, or in the exercise of
+due diligence should know, currently abuses drugs or alcohol, and is not actively engaged in a bona
+fide drug or alcohol abuse assistance or rehabilitation program.
+(e) Promptly inform the appropriate law enforcement agency of every drug-related crime that occurs
+in its workplace if the business has observed the violation or otherwise has reliable information that a
+violation has occurred.
+(f) Establish drug and alcohol abuse awareness programs to inform its employees about:
+(i) The dangers of drug and alcohol abuse in the workplace.
+(ii) The business' policy of maintaining a drug and alcohol-free workplace.
+(iii) Any available drug and alcohol counseling, rehabilitation, and employee assistance programs;
+and
+(iv) The penalties that may be imposed upon employees who abuse drugs and alcohol in the
+workplace.
+(g) Provide all employees engaged in the performance of the contract with a copy of the statement
+required by §K(2)(b), above.
+(h) Notify its employees in the statement required by §K(2)(b), above, that as a condition of
+continued employment on the contract, the employee shall:
+(i) Abide by the terms of the statement; and
+(ii) Notify the employer of any criminal drug or alcohol abuse conviction for an offense occurring in
+the workplace not later than 5 days after a conviction.
+(i) Notify the procurement officer within 10 days after receiving notice under §K(2)(h)(ii), above, or
+otherwise receiving actual notice of a conviction.
+
+
+                                                                                45
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+(j) Within 30 days after receiving notice under §K(2)(h)(ii), above, or otherwise receiving actual
+notice of a conviction, impose either of the following sanctions or remedial measures on any
+employee who is convicted of a drug or alcohol abuse offense occurring in the workplace:
+(i) Take appropriate personnel action against an employee, up to and including termination; or
+(ii) Require an employee to satisfactorily participate in a bona fide drug or alcohol abuse assistance or
+rehabilitation program; and
+(k) Make a good faith effort to maintain a drug and alcohol-free workplace through implementation of
+§K(2)(a)—(j), above.
+(3) If the business is an individual, the individual shall certify and agree as set forth in §K(4), below,
+that the individual shall not engage in the unlawful manufacture, distribution, dispensing, possession,
+or use of drugs or the abuse of drugs or alcohol in the performance of the contract.
+(4) I acknowledge and agree that:
+(a) The award of the contract is conditional upon compliance with COMAR 21.11.08 and this
+certification.
+(b) The violation of the provisions of COMAR 21.11.08 or this certification shall be caused to
+suspend payments under or terminate the contract for default under COMAR 21.07.01.11 or
+21.07.03.15, as applicable; and
+(c) The violation of the provisions of COMAR 21.11.08 or this certification in connection with the
+contract may, in the exercise of the discretion of the Board of Public Works, result in suspension and
+debarment of the business under COMAR 21.08.03.
+L. CERTIFICATION OF CORPORATION REGISTRATION AND TAX PAYMENT
+I FURTHER AFFIRM THAT:
+(1) The business named above is a (domestic ___ ) (foreign ___ ) corporation registered in
+accordance with the Corporations and Associations Article, Annotated Code of Maryland, and that it
+is in good standing and has filed all of its annual reports, together with filing fees, with the Maryland
+State Department of Assessments and Taxation, and that the name and address of its resident agent
+filed with the State Department of Assessments and Taxation is: Name:
+______________________________________________ Address:
+_________________________________________________________________________________
+_______________ .
+(If not applicable, so state).
+(2) Except as validly contested, the business has paid, or has arranged for payment of, all taxes due
+the State of Maryland and has filed all required returns and reports with the Comptroller of the
+Treasury, the State Department of Assessments and Taxation, and the Department of Labor,
+Licensing, and Regulation, as applicable, and will have paid all withholding taxes due the State of
+Maryland prior to final settlement.
+M. CONTINGENT FEES
+I FURTHER AFFIRM THAT:
+The business has not employed or retained any person, partnership, corporation, or other entity, other
+than a bona fide employee, bona fide agent, bona fide salesperson, or commercial selling agency
+working for the business, to solicit or secure the Contract, and that the business has not paid or agreed
+to pay any person, partnership, corporation, or other entity, other than a bona fide
+employee, bona fide agent, bona fide salesperson, or commercial selling agency, any fee, or any other
+consideration contingent on the making of the Contract.
+N. Repealed.
+O. ACKNOWLEDGEMENT
+
+
+                                                                                46
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+I ACKNOWLEDGE THAT this Affidavit is to be furnished to the Procurement Officer and may be
+distributed to units of: (1) the State of Maryland; (2) counties or other subdivisions of the State of
+Maryland; (3) other states; and (4) the federal government. I further acknowledge that this Affidavit is
+subject to applicable laws of the United States and the State of Maryland, both criminal and civil, and
+that nothing in this Affidavit or any contract resulting from the submission of this proposal or
+proposal shall be construed to supersede, amend, modify or waive, on behalf of the State of
+Maryland, or any unit of the State of Maryland having jurisdiction, the exercise of any statutory right
+or remedy conferred by the Constitution and the laws of Maryland with respect to any
+misrepresentation made or any violation of the obligations, terms and covenants undertaken by the
+above business with respect to (1) this Affidavit, (2) the contract, and (3) other Affidavits comprising
+part of the contract.
+I DO SOLEMNLY DECLARE AND AFFIRM UNDER THE PENALTIES OF PERJURY THAT
+THE CONTENTS OF THIS AFFIDAVIT ARE TRUE AND CORRECT TO THE BEST OF MY
+KNOWLEDGE, INFORMATION, AND BELIEF.
+Date: _________________ by: _________________________________________________
+(Authorized Representative and Affiant)
+
+
+
+
+
+                                                                                47
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+NO PROPOSAL RESPONSE FORM
+Please be advised that our company does not wish to submit a proposal in response to the above-
+captioned Request for Proposals for the following reasons:
+
+_____    Too busy at this time
+
+_____     Not engaged in this type of work.
+
+_____      Project too large/small
+
+_____     Cannot meet mandatory specifications (Please specify below)
+
+_____     Other (Please specify)
+
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+_________________________________________________________________________________
+____________________
+________________________________     _____________________________
+COMPANY NAME                 PRINTED NAME
+
+________________________________     _____________________________
+TITLE                         SIGNATURE
+
+________________________________      _____________________________
+DATE                           ADDRESS
+
+                                      _____________________________
+
+
+
+
+
+                                                                                48
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+TERMS AND CONDITIONS
+
+ADDENDA The College reserves the right to amend or add to this proposal at any time prior to the
+proposal’s due date. If it becomes necessary to change or add to any part of this proposal, the
+Procurement Officer will furnish an addendum to all prospective Offerors by posting the addendum
+on the solicitation web page at: www.howardcc.edu/procurement on the current solicitation page. All
+addenda will be identified as such and will be posted whenever possible at least 48 hours prior to the
+proposal opening. It is the sole responsibility of any prospective Offeror to monitor the web page to
+ensure receipt of all addenda.
+
+ADDITIONAL ORDERS Unless it is specifically stated to the contrary in the proposal response, the
+College reserves the option to place additional orders against a contract awarded as a result of this
+solicitation at the same terms and conditions, if it is mutually agreeable.
+
+APPLICABLE LAW The contract shall be construed and interpreted according to Maryland law,
+with venue and jurisdiction in Howard County, Maryland.
+
+ASSURANCE OF NON-CONVICTION OF BRIBERY The Offeror hereby declares and affirms
+that, to its best knowledge, none of its officers, directors or partners and none of its employees
+directly involved in obtaining contracts has been convicted of bribery, attempted bribery or
+conspiracy to bribe under the laws of any state or the Federal government.
+
+The AUDIT Offeror shall permit audit and fiscal and programmatic monitoring of the work
+performed under any contract issued from this solicitation. The College shall have access to and the
+right to examine and/or audit any records, books, documents and papers of Offeror and any
+subcontractor involving transactions related to this agreement during the term of this agreement and
+for a period of three (3) years after final payment under this agreement.
+
+AWARD CONSIDERATIONS Award will be made to the responsible Offeror whose proposal is
+determined to be the most advantageous to the College in accordance with Section 3 with
+consideration being given to quantities involved, time required for delivery, purpose for which
+required, responsibility of Offeror and its ability to perform satisfactorily with consideration to any
+previous performance for Howard Community College. A proposal may be awarded at the sole
+discretion of the College, in whole or in part, whichever is in the best interest of the College. Prompt
+payment discounts will not be considered in proposal evaluation. All discounts other than prompt
+payment are to be included in the proposal price.
+
+BID AND PERFORMANCE SECURITY If bid security is required, a bid bond or cashier’s check in
+the amount indicated on the proposal cover must accompany each proposal and be made payable to
+Howard Community College. Corporate or certified checks are not acceptable. Bonds must be in a
+form satisfactory to the College and underwritten by a company licensed to issue bonds in the State of
+Maryland. If bid security fails to accompany the proposal, it shall be deemed unresponsive, unless the
+Director of Purchasing deems the failure to be non-substantial. Such bid bonds or checks will be
+returned, upon request, to all except the three (3) lowest Offerors within five (5) days after the
+opening of proposals, and the remaining checks or bid bonds will be returned, upon request, to all but
+successful Offeror(s) within forty-eight (48) hours after award of contract. If a performance bond is
+required, the successful Offeror must submit an acceptable performance bond in the designated
+
+                                                                                49
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+amount of the proposal award, prior to award of contract. All bid bonds will be returned, upon
+request, to the successful Offeror(s) within forty-eight (48) hours after receipt of the performance
+bond.
+
+BIDDING INSTRUMENTS Bidding instruments include the proposal, addenda, terms and
+conditions, contract terms, and specifications. Proposals should be prepared simply and economically,
+and should provide a straightforward, concise description of the Offeror’s capabilities to satisfy the
+requirements of the proposal. Emphasis should be on completeness and clarity of content. The
+Offeror will bear any, and all costs incurred in the preparation and submission of proposals.
+
+BILLING AND PAYMENT Each invoice shall reference Howard Community College’s purchase
+order number, as well as proposal number for this solicitation. All invoices will be paid within (30)
+days unless otherwise specified in the RFP document or unless any item thereon is questioned, in
+which event payment will be withheld pending verification of the amount claimed and the validity of
+the claim.
+
+BRAND NAMES Brand name materials used in these specifications are known and acceptable.
+Proposals including proposals to use alternate brands are invited as long as they are of equal type and
+equal or better quality. The burden of proof that alternate brands are in fact equal or better falls on the
+Offeror and proof must be provided to the College’s satisfaction.
+
+CARE OF PREMISES Precautions taken for safety and protection shall be in accordance with the
+mandatory requirements of the safety codes prevailing within the jurisdiction in which the work is to
+be performed. During the performance of the contract, the FIRM shall take the necessary precautions
+to protect all areas upon which or adjacent to which work is performed as a part of this contract. Any
+damage caused as a result of the Firm’s neglect, directly or indirectly, shall be repaired to the
+College’s satisfaction at the Firm’s expense.
+
+CANCELLATION Howard Community College reserves the right to cancel this proposal solicitation
+or to reject all proposals received, if the College’s Director of Procurement, in accordance with
+procedures approved by the College’s Board of Trustees, determines that it is fiscally advantageous or
+in the best interest of the College to cancel the proposal.
+
+COMPLIANCE WITH THE IMMIGRATION REFORM AND CONTROL ACT OF 1986 The
+Offeror warrants that both the Offeror and/or any subcontractor of the Offeror do not and shall not
+hire, recruit or refer for a fee, for employment under this Agreement or any subcontract, an alien
+knowing the alien is an unauthorized alien and hire any individual without complying with the
+requirements of the Immigration Reform and Control Act of 1986 (hereinafter referred to as "IRCA"),
+including but not limited to any verification and record keeping requirements. The Offeror agrees to
+indemnify and save the College, its trustees, and/or employees harmless from any loss, costs,
+damages, or other expenses suffered or incurred by the College, its trustees, and/or employees by
+reason of the Offeror's or any subcontractor of the Offeror's noncompliance with "IRCA." The
+Offeror agrees to defend the College, its trustees and/or employees in any proceeding, action or suit
+brought against the College, including but not limited to administrative and judicial proceedings,
+arising out of, or alleging noncompliance of the Offeror with "IRCA". The Offeror recognizes that it
+is the Offeror's responsibility to ensure that all certifications and verifications as required by law are
+obtained and maintained for the applicable time period.
+
+                                                                                50
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+
+COMPLIANCE WITH LAWS Offeror agrees to comply, at no additional expense, with all applicable
+Executive orders, Federal, State, regional and local laws, ordinances, rules and regulations in effect as
+of the date of this agreement and as they may be amended from time to time, including but not limited
+to the equal employment opportunity clause set forth in 41 CFR 60-250.4.
+
+COMPLIANCE WITH HOWARD COMMUNITY COLLEGE POLICIES While on the College’s
+campus, Offeror agrees to comply with all applicable Howard Community College policies and
+procedures in effect as of the date of this agreement and as they may be amended from time to time
+during the term of this contract.
+
+CONTINGENT FEES Offeror hereby declares and affirms that neither it nor any of its
+representatives has employed or retained any person, partnership, corporation, or other entity, other
+than a bona fide employee or agent working for the Offeror, to solicit or secure a contract, and that it
+has not paid or agreed to pay any person, partnership, corporation, or other entity, other than a bona
+fide employee or agent, any fee or any other consideration contingent on the making of a contract as a
+result of this solicitation.
+
+CONTRACT AMENDMENTS The College, without invalidating the contract documents, may
+submit a written request to order extra work or to make changes to the agreement by altering, adding
+to, or deducting from the work, and the contract sum shall reflect such changes. Price adjustments
+must be accepted, in writing, by Howard Community College before the supplier performs additional
+work on the project. The Firm cannot accept purchase requests for products or services that are not
+covered in this contract or make changes to the scope of work unless a price for those products or
+services has been negotiated with the College, and the Firm has received a signed contract
+amendment from the Finance Office.
+
+CONTRACT DEADLINES The Firm is contractually obligated to meet all agreed upon deadlines.
+Failure of the Firm to meet any deadline is grounds for termination by default. If the Firm defaults,
+the College reserves the right to assess liquidated damages and/or make an open market purchase.
+
+CONTRACT DOCUMENTS The general conditions of this proposal, the Firm’s proposal, and
+Howard Community College General Agreement form the contract. If any discrepancies exist
+between the documents, the following order of precedence shall apply: Agreement, Request for
+Proposals, then Firm proposal response.
+
+CONTRACT TERMINATION The contract may be terminated for any of the following reasons:
+failure of the Firm to meet the mandatory requirements as described in this RFP; failure of the Firm to
+meet required deadlines; failure of the Firm to resolve problems in a timely manner; or lack of college
+funding.
+
+FIRMS This proposal invitation is extended to individuals or companies as primary Firms, and the
+Firm will execute the work specified with bona fide employees. Subcontractors cannot assume the
+primary award of this contract on behalf of the primary Firm, nor can the awarded Firm be relieved of
+its obligation or responsibility to this contract. The College reserves the right to reject any
+subcontractor.
+
+                                                                                51
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+DELIVERY AND PACKING All prices quoted must include delivery. All goods delivered under this
+contract shall be packed in accordance with accepted trade practices. No charges may be made over
+and above the proposal price for packaging, or for deposits or containers unless specified in the
+proposal. No charge will be allowed for the cartage unless by prior written agreement. Complete
+deliveries must be made by the successful Offeror to the designated location as indicated on the
+Howard Community College purchase order. A packing slip shall be included in each shipment. All
+deliveries must be prepaid and must be delivered to each location designated on purchase order at no
+additional cost. DELIVERIES MUST BE MADE TO THE SPECIFIED LOCATION. NO
+COLLECT SHIPMENTS OR SIDEWALK DELIVERIES WILL BE ACCEPTED.
+
+DELIVERY OF PROPOSALS Sealed proposals must be submitted through Bid Locker and received
+by the Procurement Office by the date and time specified in the proposal in order to be considered.
+NO LATE PROPOSALS OR PROPOSALS WILL BE ACCEPTED.
+
+ERRORS IN PROPOSAL Offerors are assumed to be informed regarding conditions, requirements,
+and specifications prior to submitting proposals. Failure to do so will be at the Offeror’s risk.
+Proposals already submitted may be withdrawn without penalty prior to proposal opening. Errors
+discovered after proposal opening may not be corrected. In the case of an error in price extension, the
+unit price will govern. The intention of the Offeror must be evident on the face of the proposal.
+
+FINANCIAL DISCLOSURE The Firm shall comply with the provisions of §13-221 of the State
+Finance and Procurement Article of the Annotated Code of Maryland, which requires that every
+business that enters into contracts, leases, or other agreements with the State of Maryland or its
+agencies during a calendar year under which the business is to receive in the aggregate $100,000 or
+more, shall, within 30 days of the time when the aggregate value of these contracts, leases or other
+agreements reaches $100,000, file with the Secretary of State of Maryland certain specified
+information to include disclosure of beneficial ownership of the business.
+
+HAZARDOUS AND TOXIC SUBSTANCES Offeror must comply with all applicable Federal, State,
+and County laws, ordinances and regulations relating to hazardous and toxic substances, including
+such laws, ordinances and regulations pertaining to access to information about hazardous and toxic
+substances, and as amended from time to time. Offeror shall provide the College with a “Material
+Safety Data Sheet” or in the case of a controlled hazardous waste substance, a hazardous waste
+manifest for all hazardous chemicals listed or subsequently added to the Chemical Information List in
+compliance with applicable laws, ordinances, and regulations.
+
+INDEMNIFICATION The Firm shall be responsible for any loss, personal injury, expense, death, and
+any other damage which may occur by reason of Firm’s acts, negligence, willfulness, or failure to
+perform any of its obligations under this agreement. Any acts, negligence, willfulness, or failure to
+perform any of the Firm’s obligations under this agreement, on the part of any agent, director, partner,
+servant, or employee of Firm are deemed to be the Firm’s act. Firm agrees to indemnify and hold
+harmless the College and its trustees, employees, agents and students from any claim, damage,
+liability, injury, expense, and loss, including defense costs and attorney’s fees, arising directly or
+indirectly out of Firm’s performance under this agreement. Accordingly, the College shall notify Firm
+promptly in writing of any claim or action brought against the College in connection with this
+agreement. Upon such notification, the Firm shall promptly take over and defend any such claim or
+action. The College shall have the right and option to be represented in any such claim or action at its
+
+                                                                                52
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+own expense. As provided under Title 23 of the Howard County Code, the College will not indemnify
+the Firm. This indemnification provision shall survive the termination or completion of this
+agreement.
+
+INSPECTION OF PREMISES If a site visit is recommended or required, each Offeror is responsible
+for visiting the sites prior to submitting a proposal in order to observe the existing conditions
+affecting the work, and to obtain precise dimensions of the areas involved. No allowance will be
+made to the successful Offeror at a later date for additional work required because of failure to visit
+the site or to obtain the exact dimensions. Discrepancies, if any, must be reported to the College.
+
+INSURANCE If a contract results from this proposal, the Firm shall maintain such insurance as
+specified in the proposal documents and as will indemnify and hold harmless the College from
+Workmen’s Compensation and Public Liability claims for property damage and personal injury,
+including death, which may arise from the Firm’s operations under this contract, or by anyone
+directly or indirectly employed by the Firm.
+
+MARYLAND PUBLIC INFORMATION ACT Offeror recognizes that the College is subject to the
+Maryland Public Information Act, Title 4, of the General Provisions Article of the Annotated Code of
+Maryland. Offeror agrees that it will provide any justification as to why any material, in whole or in
+part, is deemed to be confidential, proprietary information or trade secrets and provide any
+justification of why such materials should not be disclosed pursuant to the Maryland Public
+Information Act. Offerors are advised that, upon request for this information from a third party, the
+College will be required to make an independent determination whether the information will be
+disclosed.
+
+MINORITY PARTICIPATION It is the policy of Howard Community College to strongly encourage
+minority businesses to provide goods and services for the performance of college projects. Minority
+businesses are defined as firms that are 51% owned and controlled by a member of a socially or
+economically disadvantaged minority group, which includes African Americans, Hispanics, Native
+Americans, Alaskan Natives, Asians, Pacific Islanders, women, and the mentally or physically
+disabled.
+
+The NON-ASSIGNMENT AND SUBCONTRACTING Offeror shall not assign any contract or any
+rights or obligations hereunder without obtaining prior written consent of the College. No contract
+shall be made by Offeror with any other party for furnishing the services to be performed under a
+contract issued from this solicitation without the written approval of the College. These provisions
+will not be taken as requiring the approval of the contract of employment between Offeror and its
+personnel.
+
+NON-COLLUSION Offeror certifies that it has neither agreed, conspired, connived, or colluded to
+produce a deceptive show of competition in the compilation of the proposal or offer being submitted
+herewith; Offeror also certifies that it has not in any manner, directly or indirectly, entered into any
+agreement, participated in any collusion to fix the proposal price of the Offeror herein or any
+competitor, or otherwise taken any action in restraint of free competitive bidding in connection with
+the contract for which the proposal is submitted.
+
+
+                                                                                53
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+NON-DISCRIMINATION The Firm agrees: (a) not to discriminate in any manner against an
+employee or applicant for employment because of race, color, religion, creed, age, sex, marital status,
+national origin, ancestry or disability of a qualified individual with a disability; (b) to include a
+provision similar to that contained in subsection (a), above, in any subcontract except a subcontract
+for standard commercial supplies or raw materials; and (c) to post and to cause subcontractors to post
+in conspicuous places available to employees and applicants for employment, notices setting forth the
+substance of this clause.
+
+NON-HIRING OF EMPLOYEES No employee of the College or of the State of Maryland, or any
+department, commission, agency or branch thereof whose duties as employees include matters
+relating to or affecting the subject matter of this proposal shall, during the pendency and term of this
+contract and while an employee, become or be an employee of the Firm or any entity that is a
+subcontractor on this contract.
+
+NOTICE TO CURE The College reserves the right to cancel the contract if the Firm’s performance is
+unsatisfactory to the College. It is understood, however, that if at any time during the term of the
+contract, performance is deemed to be unsatisfactory, the College shall so notify the Firm in writing,
+and the Firm shall correct such unsatisfactory conditions within thirty (30) calendar days from receipt
+of such notification. If such corrections are not made within the specified period, the College may
+terminate the contract.
+
+PATENTS Offeror guarantees that the sale and use of the goods offered will not infringe upon any
+U.S. or foreign patent. Offeror will at Offeror’s own expense, indemnify, protect, and save harmless
+the College, its trustees, employees, agents, and students with respect to any claim, action, cost, or
+judgment for patent infringement, arising out of the purchase or use of these goods.
+
+PREPARATION OF PROPOSAL Proposals submitted must be hand signed by an authorized agent
+of the company submitting the proposal. Notification of award will be made by “Notice of Intent to
+Award” and/or purchase order. A Offeror may attach a letter of explanation to the proposal for
+clarification. Offerors will be required, if requested by Howard Community College, to furnish
+satisfactory evidence that they are, in fact, bona fide manufacturers of or dealers in the items listed,
+and have a regularly established place of business. The College reserves the right to inspect any
+Offeror’s place of business prior to award of contract to determine Offeror responsibility.
+
+POLITICAL CONTRIBUTION DISCLOSURE The Firm shall comply with §§14-101-14-108, of
+the Election Law Article of the Annotated Code of Maryland, which requires that every person that
+enters into contracts, leases, or other agreements with the State, a county, or an incorporated
+municipality, or their agencies, during a calendar year in which the person receives in the aggregate
+$100,000 or more, shall file with the State Board of Elections a statement disclosing contributions in
+excess of $500 made during the reporting period to a candidate for elective office in any primary or
+general election.
+
+PRODUCT TESTING DURING TERM OF CONTRACT Goods delivered under any contract
+resulting from this Request for Proposals may be tested for compliance with specifications stipulated
+herein. Any shipment failing to meet or comply fully with the specification requirements will be
+rejected. The cost of testing a representative sample of an order or shipment for acceptance shall be
+
+                                                                                54
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+borne by the College unless the order is rejected for failure to meet specifications or purchase
+description. In such cases of rejection, the cost of testing will be charged back to the Firm.
+
+PUBLICITY The Firm shall not in any way or in any form publicize or advertise in any manner the
+fact that it is providing services to the College without the express written approval of the College’s
+Public Relations & Marketing Office obtained in advance, for each item of advertising or publicity.
+However, nothing herein shall preclude the Firm from listing the College on its routine client list for
+matters of references.
+
+RECORD RETENTION If awarded a contract, Firm shall maintain books and records relating to the
+subject matter of this agreement, including but not limited to all charges to the College, for a period
+of three (3) years from the date of final payment under this agreement.
+REFERENCES Offeror must provide at least three references from former or current clients who can
+confirm the Offeror’s experience with projects that are similar in size or scope. All reference
+information must include the company’s name and address and the contact’s name and telephone
+number. The references provided must be able to confirm, without reservation, the Offeror’s ability to
+provide the level of services requested in this solicitation. References from other higher education
+institutions or government agencies are preferred but not required.
+
+REGISTRATION OF CORPORATIONS NOT REGISTERED IN THE STATE OF MARYLAND
+Pursuant to §7-202 et. seq. of the Corporation and Associations Article of the Annotated Code of
+Maryland, corporations not incorporated in the State of Maryland shall be registered with the State
+Department of Assessments and Taxation, 301 West Preston Street, Baltimore, Maryland 21201
+before doing any interstate or foreign business in this State. A copy of the registration or application
+for registration may be requested by the College.
+
+REJECTIONS AND CANCELLATIONS Howard Community College reserves the right to accept or
+reject any or all proposals in whole or in part for any reason, including the availability of funding for
+the project. The College reserves the right to waive any informality and to make awards in the best
+interest of the College. The College also reserves the right to reject the proposal of any Offeror who
+has previously failed to perform adequately on a prior award for furnishing goods and/or services
+similar in nature to those requested in this proposal. The College may cancel this solicitation in whole
+or in part, at its sole discretion.
+
+RIGHT TO STOP WORK If the College determines, either directly or indirectly, that the Firm’s
+performance is not within the
+specifications, terms, or conditions of this proposal or that the quality of the job is unacceptable, the
+College has the right to stop the work. The stoppage of work shall continue until the default has been
+corrected and/or corrective steps have been taken to the satisfaction of the College. The College also
+reserves the right to rebid this contract if it is decided that performance is not within the specifications
+as set out.
+
+SAMPLES AND CATALOG CUTS If samples are required, Offeror shall be responsible for delivery
+of samples to location indicated. All sample packages shall be marked “Sample for Procurement
+Office, Proposal No.___” and each sample shall be tagged or marked and bear the name of the
+Offeror. Failure of the Offeror to clearly identify samples as indicated may result in rejection of
+proposal. The College reserves the right to test any materials, equipment or supplies delivered to
+
+                                                                                55
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+determine if the specifications have been met. The Sample shall be identical to the item the Offeror
+proposes to furnish should it be awarded a contract and shall be packaged in the same manner as they
+will be packaged during the contract term. Samples will not be returned.
+SIGNATURE Each proposal must show the full business address and telephone number of the
+Offeror and be signed by the person or persons legally authorized to sign such contracts. All
+correspondence concerning the proposal and contract will be mailed or delivered to the address
+shown on the proposal. NO PROPOSAL WILL BE ACCEPTED WITHOUT ORIGINAL
+SIGNATURE.
+
+SPECIFICATIONS AND SCOPE OF WORK The specifications listed herein may or may not
+specify all technical requirements which are needed to achieve the end result. When accepting the
+award, the Firm assumes the responsibility of accomplishing the task requested in this document. Any
+omission of parts, products, processes, etc. in the specifications are the responsibility of the Firm and
+the College will not bear the responsibility for their omission. If omissions in the specifications are
+discovered and these omissions will impact on the contract price then it is the responsibility of the
+Offeror to note these omissions, in writing, prior to accepting the award. If these omissions are not
+noted prior to award, then the Firm’s silence is deemed as full and complete acceptance, and any
+additional costs will be borne by the Firm.
+
+SUBCONTRACTORS Offerors must submit the names and addresses of all subcontractors to be
+retained for this project. The College reserves the right to reject. Subcontractors shall conform in all
+respects to the applicable provisions specified for the prime Firm and shall be subject to approval by
+the College. If a subcontractor is determined to be unacceptable by the College, the firm shall
+substitute an acceptable subcontractor with no change in any Contract unit prices or overall Contract
+sum. If a firm fails, within a timely manner, to propose another subcontractor to whom the College
+has no objection, the College reserves the right to reject the proposal. The firm will use only those
+subcontractors approved by the College. All subcontractors shall comply with federal and state laws
+and regulations which are applicable to the services covered by the subcontractor and shall include all
+terms and conditions set forth herein which apply with equal force to the subcontractor, as if they
+were the Firm referred to herein. The Firm is responsible for the Contract performance, whether or
+not subcontractors are used.
+
+TAXES The College is exempt from Federal and Maryland taxes. Exemption Certificates are
+available upon request. The Offeror shall be.
+responsible for the payment of any and all applicable taxes resulting from any award and any
+activities hereunder, including but not limited to any applicable amusement or sales taxes. For
+construction projects: in accordance with COMAR 03.06.01.22c(2)(b), the tax exemption certificate
+of otherwise exempt governmental entities may not be used for the purchase of materials to be
+incorporated into the real property on college construction projects.
+
+TERMINATION BASED ON LACK OF FUNDING Any contract awarded as a result of this
+solicitation will be subject to funding and continued appropriation of sufficient funds for the contract.
+For purposes of this solicitation, the College’s appropriating authority is deemed to be the Board of
+Trustees of Howard Community College. Insufficient funds shall be grounds for immediate
+termination of the contract.
+
+
+                                                                                56
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+TERMINATION OF CONTRACT The College reserves the right to cancel the Contract awarded to
+the Firm if, in the College’s judgment, performance under the Contract is unsatisfactory. It is
+understood, however, that if at any time during the term of the Contract, performance there under is
+deemed to be unsatisfactory, the College shall so notify the Firm in writing, and the Firm shall correct
+such unsatisfactory conditions within fifteen (15) calendar days from the receipt of such notification.
+If such corrections are not made within the specified period, the College may terminate the Contract
+at that time.
+
+TERMINATION FOR DEFAULT If an award results from this proposal, and the Firm has not
+performed or has unsatisfactorily fulfilled the contract, payment shall be withheld at the discretion of
+the College. Failure on the part of the Firm to fulfill contractual obligations shall be considered just
+cause for termination of the contract and the Firm is not entitled to recover any costs incurred by the
+Firm up to the date of termination.
+
+TERMINATION FOR THE CONVENIENCE OF THE COLLEGE The performance of the work or
+services under a contract as a result of this solicitation may be terminated in whole or in part,
+whenever the President of Howard Community College shall deem that termination is in the best
+interest of the College. Such determination shall be at the sole discretion of the President or her
+designee. In such an event, the College shall be liable only for payment in accordance with the
+payment provisions of the contract for work or services performed or furnished prior to the effective
+date of termination. The Firm shall not be reimbursed for anticipatory profits. Termination hereunder
+shall become effective by delivery to Firm of written notice of termination upon which date the
+termination shall become effective.
+
+USE OF CONTRACT BY OTHER PUBLIC ENTITIES While this proposal is prepared on behalf of
+Howard Community College, it is intended to apply to other Maryland educational institutions and
+public agencies in the State of Maryland, including Howard County Government and Howard County
+Public Schools. Unless the Offeror takes an exception, the resulting awarded items, terms, and
+conditions will be available.
+to other State and local public entities. Should a price adjustment be necessary to include any other
+public entity, the Offeror must so note on the Firm Information Form. Purchase requests and funding
+from other agencies will be the responsibility of those agencies.
+
+WARRANTY Offeror expressly warrants that all articles, material and work offered shall conform to
+each and every specification, drawing, sample or other description which is furnished to or adopted
+by the College and that they will be fit and sufficient for the purpose intended, merchantable, of good
+material and workmanship, and free from defect. Such a warranty shall survive a contract and shall
+not be deemed waived either by the College’s acceptance of said materials or goods, in whole or in
+part, or by payment for them, in whole or in part. The Offeror further warrants all articles, material
+and work performed for a period of one year, unless otherwise stated, from the date of acceptance of
+the items delivered and installed, or work completed. All repairs, replacements or adjustments during
+the warranty period shall be at Offeror’s sole expense.
+
+WITHDRAWAL OF PROPOSALS A proposal shall be withdrawn by written or fax request,
+confirmed immediately in writing, provided that such requests are received prior to the time of
+opening proposals. The College shall not be held responsible for the timely receipt of any requests for
+withdrawal, and the Offeror is cautioned to transmit any such request in ample time for delivery
+
+                                                                                57
+
+                       Howard Community College
+                       RFP Number: 27P-003
+             RFP Title: Motorola PON to Tellabs PON Migration
+                       Opening Date: October 7th , 2026
+                        Closing Date: November 20th ,2026
+
+before the proposal opening hour and date. No proposal received can be withdrawn by any Offeror
+after the opening, as no claim for release due to mistakes or omissions in the proposal shall be
+considered. Each Offeror shall be held strictly responsible for its proposal.
+
+
+
+
+
+                                                                                58

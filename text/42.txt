@@ -1,0 +1,1721 @@
+Reference Number                 IZIKO- ICT/2024/01/22 NETWORK INFRASTRUCTURE
+                                          Iziko Museums of South Africa invites qualified and
+                                   experienced Network Infrastructure providers to submit
+Description
+                                    proposals for the expansion of network infrastructure
+                                   across our various museum sites.
+Name of the responsible
+                                ICT Department
+unit/department
+Address                        25 Queen Victoria Street Cape Town 8001
+Attention                  R Pedro (CFO)
+Closing date and time for
+                               21 February 2024 at 11:00 am
+submission
+                                    Bids together with all accompanying documentation to be
+                                    submitted into the tender box at Iziko South African
+                              Museum, 25 Queen Victoria Street Cape Town 8001
+Method of delivery
+                                 Bidders to submit an original document plus two (2)
+                                 copies of the original document of which one must
+                              be in soft copy format (USB Memory Stick / Disc)
+Tender Box Dimensions             (H) 90mm x (L) 400mm x (W) 900mm
+                                 Siphamandla Oupa (SCM) 021 481 3889
+Contact Details: Supply Chain
+                                    soupa@iziko.org.za or Noleen Donson
+Management Unit
+                                   ndonson@iziko.org.za
+                                     11:00, 01 February 2024, 25 Queen Victoria Street Cape
+Compulsory Briefing Session
+                            Town
+Site Visit                             8:00, 05 February 2024
+
+TENDERER
+
+Name of Company
+
+Trading as (if different from
+above)
+CSD Supplier Number (MAAA….)
+B-BBEE Status Level of
+Contribution
+
+Quote Price (Incl VAT)
+
+Signature
+
+
+
+
+
+                                                                           1
+
+BIDDER’S DISCLOSURE (SBD 4)
+
+    1. PURPOSE OF THE FORM (SBD 4)
+
+      Any person (natural or juristic) may make an offer or offers in terms of this invitation
+        to bid. In line with the principles of transparency, accountability, impartiality, and
+       ethics as enshrined in the Constitution of the Republic of South Africa and further
+      expressed in various pieces of legislation, it is required for the bidder to make this
+       declaration in respect of the details required hereunder.
+
+     Where a person/s are listed in the Register for Tender Defaulters and / or the List of
+       Restricted Suppliers, that person will automatically be disqualified from the bid
+       process.
+
+    2.  Bidder’s declaration
+
+       2.1     Is the bidder, or any of its directors / trustees / shareholders / members /
+       partners or any person having a controlling interest1 in the enterprise,
+      employed by the state?                              YES/NO
+
+       2.1.1    If so, furnish particulars of the names, individual identity numbers, and, if
+        applicable, state employee numbers of sole proprietor/ directors / trustees /
+       shareholders / members/ partners or any person having a controlling interest in the
+        enterprise, in the table below.
+
+          Full Name              Identity Number     Name of State
+                                                           institution
+
+
+
+
+
+       2.2   Do you, or any person connected with the bidder, have a relationship with any
+      person who is employed by the procuring institution?          YES/NO
+
+
+
+
+
+1 the power, by one person or a group of persons holding the majority of the equity of an enterprise,
+alternatively, the person/s having the deciding vote or power to influence or to direct the course and decisions of
+the enterprise.
+
+
+
+                                                                         2
+
+         2.2.1     If so, furnish particulars:
+    ………………………………………………………………………………………………
+     ………………………………………………………………………………………………
+
+       2.3   Does the bidder or any of its directors / trustees / shareholders / members /
+       partners or any person having a controlling interest in the enterprise have any
+        interest in any other related enterprise whether or not they are bidding for this
+       contract?                                             YES/NO
+
+       2.3.1    If so, furnish particulars:
+   …………………………………………………………………………….……………………
+   …………………………………………………………………………….……………………
+
+    3 DECLARATION
+
+            I, the undersigned,(name)…………………………………………………………………….
+        in submitting the accompanying bid, do hereby make the following statements that I
+         certify to be true and complete in every respect:
+
+       3.1       I have read and I understand the contents of this disclosure;
+
+       3.2       I understand that the accompanying bid will be disqualified if this disclosure is
+      found not to be true and complete in every respect;
+
+       3.3   The bidder has arrived at the accompanying bid independently from, and
+       without consultation, communication, agreement or arrangement with any competitor.
+      However, communication between partners in a joint venture or consortium2 will not
+      be construed as collusive bidding.
+
+       3.4     In addition, there have been no consultations, communications, agreements
+       or arrangements with any competitor regarding the quality, quantity, specifications,
+        prices, including methods, factors or formulas used to calculate prices, market
+        allocation, the intention or decision to submit or not to submit the bid, bidding with the
+        intention not to win the bid and conditions or delivery particulars of the products or
+       services to which this bid invitation relates.
+
+       3.5   The terms of the accompanying bid have not been, and will not be, disclosed
+      by the bidder, directly or indirectly, to any competitor, prior to the date and time of the
+         official bid opening or of the awarding of the contract.
+
+       3.6    There have been no consultations, communications, agreements or
+      arrangements made by the bidder with any official of the procuring institution in
+        relation to this procurement process prior to and during the bidding process except to
+
+
+
+2 Joint venture or Consortium means an association of persons for the purpose of combining their expertise,
+property, capital, efforts, skill and knowledge in an activity for the execution of a contract.
+
+                                                                         3
+
+  provide clarification on the bid submitted where so required by the institution; and the
+  bidder was not involved in the drafting of the specifications or terms of reference for
+  this bid.
+
+  3.7       I am aware that, in addition and without prejudice to any other remedy
+  provided to combat any restrictive practices related to bids and contracts, bids that
+  are suspicious will be reported to the Competition Commission for investigation and
+  possible imposition of administrative penalties in terms of section 59 of the
+  Competition Act No 89 of 1998 and or may be reported to the National Prosecuting
+  Authority (NPA) for criminal investigation and or may be restricted from conducting
+  business with the public sector for a period not exceeding ten (10) years in terms of
+  the Prevention and Combating of Corrupt Activities Act No 12 of 2004 or any other
+  applicable legislation.
+
+   I CERTIFY THAT THE INFORMATION FURNISHED IN PARAGRAPHS 1, 2 and 3
+ ABOVE IS CORRECT.
+   I ACCEPT THAT THE STATE MAY REJECT THE BID OR ACT AGAINST ME IN
+ TERMS OF PARAGRAPH 6 OF PFMA SCM INSTRUCTION 03 OF 2021/22 ON
+ PREVENTING AND COMBATING ABUSE IN THE SUPPLY CHAIN MANAGEMENT
+ SYSTEM SHOULD THIS DECLARATION PROVE TO BE FALSE.
+
+
+
+
+
+ ………………………………     ..……………………………………………
+Signature                        Date
+
+
+
+
+
+ ………………………………    ………………………………………………
+  Position                   Name of bidder (Company Name)
+
+
+
+
+
+                                                                     4
+
+                                                           (SBD 6.1)
+
+ PREFERENCE POINTS CLAIM FORM IN TERMS OF THE PREFERENTIAL
+ PROCUREMENT REGULATIONS 2022
+
+This preference form must form part of all tenders invited.  It contains general information
+and serves as a claim form for preference points for specific goals.
+
+NB:  BEFORE COMPLETING THIS FORM, TENDERERS MUST STUDY THE
+     GENERAL CONDITIONS, DEFINITIONS AND DIRECTIVES APPLICABLE IN
+     RESPECT OF THE TENDER AND PREFERENTIAL PROCUREMENT
+     REGULATIONS, 2022
+
+
+
+   1.   GENERAL CONDITIONS
+
+ 1.1  The following preference point systems are applicable to invitations to tender:
+      -   the 80/20 system for requirements with a Rand value of up to R50 000 000 (all
+        applicable taxes included); and
+      -   the 90/10 system for requirements with a Rand value above R50 000 000 (all
+        applicable taxes included).
+
+ 1.2   The 80/20 preference point system. Is applicable to this tender
+
+ 1.3   Points for this tender (even in the case of a tender for income-generating contracts)
+        shall be awarded for:
+     (a) Price; and
+     (b) Specific Goals.
+
+ 1.4  The maximum points for this tender are allocated as follows:
+                                             POINTS
+       PRICE
+        SPECIFIC GOALS
+         Total points for Price and SPECIFIC GOALS
+
+ 1.5   Failure on the part of a tenderer to submit proof or documentation required in terms
+        of this tender to claim points for specific goals with the tender, will be interpreted to
+     mean that preference points for specific goals are not claimed.
+
+ 1.6  The organ of state reserves the right to require of a tenderer, either before a tender is
+       adjudicated or at any time subsequently, to substantiate any claim in regard to
+       preferences, in any manner required by the organ of state.
+
+
+
+
+                                                                         5
+
+ 2.   DEFINITIONS
+     (a)    “tender” means a written offer in the form determined by an organ of state in
+   response to an invitation to provide goods or services through price quotations,
+   competitive tendering process or any other method envisaged in legislation;
+     (b)    “price” means an amount of money tendered for goods or services, and
+   includes all applicable taxes less all unconditional discounts;
+     (c)    “rand value” means the total estimated value of a contract in Rand,
+   calculated at the time of bid invitation, and includes all applicable taxes;
+    (d)     “tender for income-generating contracts” means a written offer in the form
+   determined by an organ of state in response to an invitation for the origination of
+   income-generating contracts through any method envisaged in legislation that will
+    result in a legal agreement between the organ of state and a third party that produces
+   revenue for the organ of state, and includes, but is not limited to, leasing and disposal
+    of assets and concession contracts, excluding direct sales and disposal of assets
+   through public auctions; and
+    (e) “the Act” means the Preferential Procurement Policy Framework Act, 2000 (Act
+   No. 5 of 2000).
+
+ 3.   FORMULAE FOR PROCUREMENT OF GOODS AND SERVICES
+
+3.1.  POINTS AWARDED FOR PRICE
+
+3.1.1 THE 80/20 OR 90/10 PREFERENCE POINT SYSTEMS
+
+     A maximum of 80 or 90 points is allocated for price on the following basis:
+
+                 80/20            or                     90/10
+
+
+                        𝑷𝒕−𝑷𝒎𝒊𝒏
+       𝑷𝒔= 𝟖𝟎(𝟏−                                )  or       𝑷𝒔= 𝟗𝟎(𝟏− 𝑷𝒕−𝑷𝒎𝒊𝒏  )
+                        𝑷𝒎𝒊𝒏                              𝑷𝒎𝒊𝒏
+ Where
+ Ps       =    Points scored for price of tender under consideration
+  Pt        =    Price of tender under consideration
+  Pmin     =    Price of lowest acceptable tender
+
+ 4.   FORMULAE FOR DISPOSAL OR LEASING OF STATE ASSETS AND INCOME
+     GENERATING PROCUREMENT
+
+3.2.  POINTS AWARDED FOR PRICE
+
+A maximum of 80 or 90 points is allocated for price on the following basis:
+
+                 80/20            or                     90/10
+
+
+                        𝑷𝒕−𝑷𝒎𝒊𝒏
+       𝑷𝒔= 𝟖𝟎(𝟏−                                )  or       𝑷𝒔= 𝟗𝟎(𝟏− 𝑷𝒕−𝑷𝒎𝒊𝒏  )
+                        𝑷𝒎𝒊𝒏                              𝑷𝒎𝒊𝒏
+
+                                                                       6
+
+   Where
+   Ps       =    Points scored for price of tender under consideration
+    Pt        =    Price of tender under consideration
+   Pmin     =    Price of lowest acceptable tender
+
+   4.                  POINTS AWARDED FOR SPECIFIC GOALS
+
+ 4.1.   In terms of Regulation 4(2); 5(2); 6(2) and 7(2) of the Preferential Procurement
+       Regulations, preference points must be awarded for specific goals stated in the
+       tender. For the purposes of this tender the tenderer will be allocated points based on
+       the goals stated in table 1 below as may be supported by proof/ documentation
+       stated in the conditions of this tender:
+ 4.2.   In cases where organs of state intend to use Regulation 3(2) of the Regulations,
+      which states that, if it is unclear whether the 80/20 or 90/10 preference point system
+       applies, an organ of state must, in the tender documents, stipulate in the case of—
+           (a)   an invitation for tender for income-generating contracts, that either the
+               80/20 or 90/10 preference point system will apply and that the highest
+               acceptable tender will be used to determine the applicable preference point
+               system; or
+
+           (b)   any other invitation for tender, that either the 80/20 or 90/10 preference
+                 point system will apply and that the lowest acceptable tender will be used to
+               determine the applicable preference point system,
+ then the organ of state must indicate the points allocated for specific goals for both the
+       90/10 and 80/20 preference point system.
+Specific goals for the tender and points claimed are indicated per the table below.
+
+(Note to organs of state: Where either the 90/10 or 80/20 preference point system is
+applicable, corresponding points must also be indicated as such.
+
+Note to tenderers: The tenderer must indicate how they claim points for each
+preference point system.)
+Table 1: Specific Goals
+                                     Number of points
+                                                     Number of points
+                                                allocated
+ The specific goals                                             claimed (80/20
+                                                 (80/20 system)
+ allocated points in     Evidence                                system)
+                                            (To be completed
+ terms of this tender                                             (To be completed by
+                                        by the organ of
+                                                                   the tenderer)
+                                                    state)
+ Persons, or            • Proof of B-BBEE
+ categories of persons,    certificate;
+ historically              • Company Registration
+ disadvantaged- (HDI)    Certification
+ by unfair dis            • Identification
+ crimination on the       Documentation.
+ basis of                • CSD report
+
+                                                                         7
+
+Race: Black
+persons
+(ownership)*
+ 50% or more black
+ownership = 20 points
+
+Less than 50% black
+ownership = 10 points
+0% black ownership =
+0 points
+
+  5.                 DECLARATION WITH REGARD TO COMPANY/FIRM
+
+  5.1.  Name of company/firm…………………………………………………………………….
+
+  5.2.  Company registration number: ………………………………………………………...
+
+
+
+  5.3.  TYPE OF COMPANY/ FIRM
+     □     Partnership/Joint Venture / Consortium
+     □    One-person business/sole propriety
+     □    Close corporation
+     □     Public Company
+     □    Personal Liability Company
+     □     (Pty) Limited
+     □     Non-Profit Company
+     □     State Owned Company
+
+  [TICK APPLICABLE BOX]
+  5.4.    I, the undersigned, who is duly authorised to do so on behalf of the company/firm,
+          certify that the points claimed, based on the specific goals as advised in the tender,
+         qualifies the company/ firm for the preference(s) shown and I acknowledge that:
+         i)    The information furnished is true and correct;
+          ii)   The preference points claimed are in accordance with the General Conditions
+          as indicated in paragraph 1 of this form;
+          iii)    In the event of a contract being awarded as a result of points claimed as shown
+              in paragraphs 1.4 and 4.2, the contractor may be required to furnish
+          documentary proof to the satisfaction of the organ of state that the claims are
+             correct;
+       iv)      If the specific goals have been claimed or obtained on a fraudulent basis or any
+             of the conditions of contract have not been fulfilled, the organ of state may, in
+            addition to any other remedy it may have –
+              (a)    disqualify the person from the tendering process;
+              (b)   recover costs, losses or damages it has incurred or suffered as
+               a result of that person’s conduct;
+
+
+
+                                                                        8
+
+  (c)   cancel the contract and claim any damages which it has
+        suffered as a result of having to make less favourable
+       arrangements due to such cancellation;
+  (d)   recommend that the tenderer or contractor, its shareholders and
+         directors, or only the shareholders and directors who acted on a
+        fraudulent basis, be restricted from obtaining business from any
+       organ of state for a period not exceeding 10 years, after the audi
+       alteram partem (hear the other side) rule has been applied; and
+  (e)   forward the matter for criminal prosecution, if deemed necessary
+
+
+
+
+
+             ……………………………………….
+                    SIGNATURE(S) OF TENDERER(S)
+
+SURNAME AND NAME: ……………………………………………………….
+
+DATE:         ………………………………………………………
+
+ADDRESS:       ………………………………………………………
+
+            ………………………………………………………
+
+            ………………………………………………………
+
+
+
+
+
+                                                               9
+
+SPECIFICATIONS
+
+
+1. BACKGROUND
+
+
+Iziko Museums of South Africa (Iziko) is a schedule 3A public entity and non-profit
+
+organisation, partly subsidised by the National Department of Sport, Arts & Culture (DSAC),
+
+bringing together 11 national museums and a Social History Centre situated in the Western
+
+Cape under a single governance and leadership structure. Iziko was established in terms of
+
+the Cultural Institutions Act, 1998 (Act No. 119 of 1998) and is required to comply with the
+
+Public Finance Management Act (PFMA), 1999 (Act No. 1 of 1999) as amended and its
+
+concomitant Regulations.
+
+
+    2. OVERVIEW
+
+
+Iziko Museums, a prominent cultural institution, is seeking proposals from qualified and
+
+experienced vendors to provide Network Design and Implementation Services. The chosen
+
+vendor will play a critical role in enhancing and expanding the network infrastructure for Iziko
+
+Museums, ensuring the delivery of efficient and reliable network services across multiple
+
+sites.
+
+
+    3. PROJECT BRIEF
+
+
+Iziko Museums currently operates from multiple sites within Cape Town, each with distinct
+
+networking needs. This tender aims to address the design and implementation of a
+
+comprehensive network solution that will cater to these diverse requirements. The project
+
+includes the expansion of the network to accommodate additional sites and the
+
+modernization of existing network infrastructure.
+
+
+    4. SCOPE OF WORK:
+
+
+    4.1 EXISTING INFRASTRUCTURE AND ENVIRONMENT
+
+
+The current network infrastructure is built on a fibre redundancy ring, employing Alcatel-
+
+Lucent 6200/6400 fibre switches. This configuration connects 11 of Iziko's sites, all
+
+situated in the Cape Town City Bowl. The primary site utilizes Huawei GPON (Gigabit
+
+
+                                                                        10
+
+Passive Optical Network) technology, indicating a high-speed, efficient, and reliable
+
+communication system. The redundancy ring design enhances network reliability by
+
+providing alternative paths for data transmission in case of a failure, ensuring continuous
+
+connectivity for Iziko's operations.
+
+
+The selected vendor is expected to deliver the following services as part of this project:
+
+
+Network Assessment: Conduct a thorough assessment of the current network
+
+infrastructure, identifying strengths, weaknesses, and areas requiring improvement.
+
+
+Network Design: Develop a comprehensive network design plan, tailored to meet the
+
+unique requirements of each Iziko Museums site. This should include the use of GPON
+
+technology, access switches, wireless access points, and other necessary components. This
+
+should include topology design, hardware, software, and monitoring tools selection.
+
+
+Hardware and Software Procurement: Source and procure all hardware, software,
+
+licenses, and equipment essential for the network implementation, ensuring compatibility
+
+and scalability.
+
+
+Network Implementation: Deploy the proposed network infrastructure, including network
+
+cabling, access switches, routers, access points, and any additional components as per the
+
+approved design.
+
+
+GPON Technology: The deployment of Passive Optical LAN (POL) technology, which will
+
+be extended to the new site while ensuring compatibility with the existing GPON network
+
+infrastructure at the South African Museum (Main Site).
+
+
+Access Network Switches: Provision, configuration, and integration of core and distribution
+
+switches to establish a resilient and efficient network backbone.
+
+
+Supply and Installation of Wireless LAN Components: Deployment of wireless LAN
+
+components for ubiquitous connectivity, emphasizing reliability, and optimal performance
+
+across the designated areas.
+
+
+
+
+
+                                                                        11
+
+Supply and Installation of Management and Operational Support Systems (OSS):
+
+Implementation of advanced Management and Operational Support Systems to monitor,
+
+manage, and optimize the network infrastructure effectively.
+
+
+Network Cabling infrastructure: The provision of network cabling solutions to establish a
+
+robust physical network infrastructure. This would include and not limited to Fibre splitter
+
+boxes, Single Mode Fibre Cables, Category (CAT 6) network cables, Wall mounted lockable
+
+cabinets, patch panels.
+
+
+Equipment Labelling:
+
+All network equipment must be labelled in accordance with Iziko standard labelling protocols
+
+to ensure clarity and organization.
+
+
+Integration: Ensure seamless integration with the existing GPON network infrastructure,
+
+preserving compatibility with all systems, including the existing VOIP telephone system.
+
+
+Testing and Quality Assurance: Rigorously test the network infrastructure to guarantee
+
+functionality, security, and reliability.
+
+
+Documentation: Provide comprehensive documentation, including network diagrams,
+
+configurations, and user manuals.
+
+
+Training: Conduct training sessions to empower Iziko Museums' IT staff in network
+
+management and usage.
+
+
+Support and Maintenance: Offer ongoing support and maintenance services for 5 years to
+
+ensure the continued optimal performance of the network.
+
+
+    4.2 DELIVERY ADDRESSES
+
+The goods and services must be provided at the follow physical location:
+
+
+Table 2: Sites and Location
+
+ NO  IZIKO SITE                    ADDRESS
+
+ 1     Iziko SA Museum and Planetarium        25, Queen Victoria Street, Cape Town
+
+ 2     Iziko SA National Gallery                 80, St Johns Road, Cape Town
+
+
+                                                                        12
+
+ 3     Iziko SA National Gallery Annexe         80, St Johns Road, Cape Town
+
+ 4     Iziko Rust & Vreugd                      78, Buitenkant Street, Cape Town
+
+ 5     Iziko Bo-Kaap                            71, Wale Street, Cape Town
+
+ 6     Iziko Social History Centre                11, Church Square, Cape Town
+
+ 7     Iziko Slave Lodge                     Cnr Adderley & Spin Street, Cape Town
+
+ 8     Iziko Old Townhouse                  Cnr Long Market & Burg Street, Cape Town
+
+ 9     Iziko Koopmans De Wet House           35, Strand Street, Cape Town
+
+ 10                                           Castle of Good Hope, Darling Street, Cape
+       Iziko William Fehr Collection (Castle)
+                                    Town
+
+ 11   Iziko Bertram House                      41, Orange Street, Cape Town
+
+
+    4.3 TECHNICAL REQUIREMENTS OVERVIEW
+
+
+4.3.1 PRODUCT REQUIREMENTS
+
+
+ITEM 1: OEM Agreements
+ •    Bidders must be registered by the Original Equipment manufacturer (OEM).
+ •    Bidders must have Original Equipment manufacturer (OEM) letter of Authority.
+ •    Bidders must comply with the OEM prescribed standards.
+ •    Bidders must comply with the OEM warranties and guarantees.
+
+
+ITEM 2: GPON Specifications
+ •     Platform that integrates IP service delivery and Ethernet transport into a compact,
+
+        high-availability, carrier-class modular chassis that delivers high-performance,
+
+       scalable network solutions for multiple service providers.
+ •    Supports delivery of IP voice (VoIP), IPTV and High-Speed Internet services.
+
+
+ITEM 3: Optical Line Terminal (OLT) Specifications
+ •    The OLT’s Network Interfaces must be extendable and hot-pluggable and must be
+
+       foreseen with all the possible flexibility and protection mechanisms to allow for
+
+      seamless network operations and interconnections to the network.
+
+
+
+
+
+                                                                        13
+
+ITEM 4: Optical Network Terminal (ONT) Specifications
+
+
+ •   A single-subscriber device that terminates any one of the distributed endpoints of an
+
+       Optical Distribution Network (ODN), implements a PON protocol between OLT and
+
+      ONT.
+ •    The ONT must be Type-A: 4 x 100/100/1000 Base-T UNI ports with PoE/PoE+
+
+        functionality.
+ •    The ONT is to be deployed in offices, public areas and within rooms and locations
+
+      where wired services are required. It should also have VLAN forwarding capabilities.
+
+
+ITEM 5: Wi-Fi Specifications
+ •     Centralized WLAN architecture with “thin” certified Plenum rated Access Point (APs)
+
+      and centralized switch/controllers, and integrated network management.
+ •    System must be highly available, have no single point of failure and support multiple
+
+        levels of redundancy (controller, AP, etc.).
+ •    System must support universal authentication (MAC, 802.1X, Integrated Web-
+
+       based).
+ •    Standard 802.11a/b/g/n/ac support.
+ •     Security enforced Access Control.
+ •     Wireless Intrusion Detection Solution (WIDS)
+
+
+ITEM 6: Access Network Switches
+ •    Support for high-speed data transfer (minimum 10 Gbps).
+ •     Scalability to accommodate future growth.
+ •    Redundancy and failover capabilities for enhanced reliability.
+ •    Advanced security features to protect against cyber threats.
+ •    Easy integration with existing network components.
+ •    Support for IPv6 and IPv4 protocols.
+ •   VLAN support and advanced Quality of Service (QoS) features.
+ •     Compatibility with industry-standard network management protocols.
+ •    Power over Ethernet (PoE) support for connected devices.
+ •    Layer 3 routing capabilities.
+
+
+
+
+                                                                        14
+
+ITEM 7: Network Cabling
+ •    Design and implement a structured cabling system to ensure seamless connectivity
+
+       across all departments and floors.
+ •     Installation of high-quality fibre splitter boxes to facilitate efficient data transmission.
+ •    Deployment of single-mode fibre cables to ensure optimal performance and reliability
+
+        in data transfer.
+ •      Install Category 6 (Cat 6) or higher Ethernet cables to meet current and future
+
+       bandwidth requirements.
+ •    Deploy network outlets strategically to accommodate workstations, printers, and other
+
+       network devices.
+ •     Establish a centralized distribution point for networking equipment to facilitate easy
+
+      maintenance and troubleshooting.
+ •    Ensure compliance with industry standards and best practices for network cabling.
+ •    Network jacks, faceplates, and patch panels for connecting devices to the cabling
+
+       system.
+ •    Cable trays and conduits for organized cable management.
+ •    Rack-mounted cabinets to house networking equipment.
+ •    Deployment of patch panels to organize and manage network connections effectively.
+ •    Cable labels and documentation for clear identification and ease of maintenance.
+
+
+ITEM 8: Network Monitoring System
+ •    Customization and installation of Network Monitoring System.
+ •    Topology Management.
+ •    Minute level locating of application issues.
+ •      Intelligent application identification.
+ •    Optimize network performance and efficiency.
+ •     Streamline network control and monitoring processes.
+ •    Enhance security measures within the network.
+ •    Provide scalability for future growth.
+ •     Integration with existing network infrastructure.
+ •     Configuration for optimal performance.
+ •     Training for IT staff.
+ •    Ongoing support and maintenance.
+
+
+                                                                        15
+
+ITEM 9: Warranty: Network Infrastructure
+
+       5-Year Warranty for Network Hardware Infrastructure
+
+      Coverage: The warranty covers all network hardware components supplied, including
+
+       but not limited to routers, switches, access points, cabling, and related accessories. It
+
+       guarantees that the hardware will be free from defects in material and workmanship
+
+      under normal use and service.
+
+       Duration: The warranty period is set at 5 years from the date of installation and
+
+      acceptance of the network hardware infrastructure.
+
+
+ITEM 10: SLA: Support and Maintenance
+
+ 5-Year SLA for Network Infrastructure Support and Maintenance
+
+
+Support Service requirements:
+ •      Technical support via phone or email during regular business hours (Monday to
+
+         Friday, 8 am to 5 pm).
+ •     Remote assistance for troubleshooting and resolving network issues promptly.
+ •      On-Site Support In cases where remote assistance is insufficient, on-site support
+
+         to be provided within four (4) hours of the reported issue, as per the severity level.
+
+
+Maintenance Services:
+ •     Conduct regular maintenance checks to ensure optimal performance and identify
+
+         potential issues before they become critical.
+ •      Provide scheduled software updates for the network infrastructure components to
+
+       address security vulnerabilities and enhance functionality.
+ •       In the event of a critical network failure, respond within four (4) hours to address
+
+       and resolve the issue.
+
+
+Review and Amendments: This SLA may be amended by mutual agreement between the
+
+incumbent company and Iziko to accommodate changing requirements or technology
+
+advancements.
+
+
+
+
+
+                                                                        16
+
+        4.4 NETWORK REQUIREMENTS FOR NETWORK DESIGN AND IMPLEMENTATION
+
+         SERVICE:
+
+
+      •   REFER TO ANNEXURE B
+
+
+         5. PRICING SCHEDULE
+
+    Prices quoted must be valid for at least 90 (ninety) days from the closing of the bid.
+
+    Furthermore, bidders must also submit a quotation on their company’s letterhead indicating
+
+    the total cost including VAT in rands.
+
+
+         6. REQUIREMENTS
+
+    The bidding requirements and stages are summarised in the table below:
+
+    Table 3: Bidding stages
+
+Stage 1 -          Stage 2 - Functionality Criteria          Stage 3 - Price and Specific Goals
+
+Compliance
+
+Documents
+
+requirements
+
+Bidders must        Bidders are required to achieve a           Bidders that meet the minimum
+
+submit all         minimum of 70% on functionality criteria to   threshold for functionality will be
+
+documents as       proceed to stage 3 (price and specific       evaluated for preference point
+
+outlined in Table 4   goals)                                     scoring as follows, refer to Table 1:
+
+Compliance
+
+Documents below.   Refer Table 6 – Required documents to     Price – 80 points
+
+                   enable functionality scoring.                 Specific Goals – 20 points
+
+Note: Failure to
+
+supply any of the                                              Note: Price and quality of
+
+compliance                                                   work/product are important factors
+
+documents                                               as it ensures optimum value for
+
+stipulated below                                     money and total cost to Iziko and
+
+may lead to                                                  should cover all goods and services
+
+disqualification                                                       to be delivered to the best standard
+
+                                                                 possible for specified products and
+
+                                                        assembly methods.
+
+
+
+
+
+                                                                            17
+
+      Note: Failure to supply any of the compliance documents stipulated below may lead to
+
+       disqualification
+
+
+     Table 4: Compliance Documents
+
+Order  Compliance Documents
+
+1     A Valid B-BBEE Certificate or Sworn Affidavit to determine the bidder’s status level, as
+
+        prescribed by the B-BBEE Act, 2003 (Act No. 53 of 2003) as amended and Code of Good
+
+        Practice
+
+      Where there will be sub-contracting, the rules must be applied.
+
+2       Central Supplier Database Report – with supplier number and company details
+
+        (www.csd.gov.za) and Tax Status Verification Pin together with tax registration number.
+
+3      Provide a copy of a valid letter from OEM indicating, Bidder’s Name, Bidder is an OEM
+
+         installer/partner, Date the partnership was established, information stating that the partnership
+
+          is valid at time of bid. All letters, certificates or licenses must be in writing, dated, signed and on
+
+       a letterhead of the issuing entity.
+
+4      Completed Occupational Health and Safety Agreement (Annexure B)
+
+5      Completed Confidentiality and Non-Disclosure Agreement (Annexure C)
+
+6      Completed SBD 1 - Invitation to Bid
+
+7      Completed SBD 3.1
+
+8      Completed SBD 3.3 - Pricing Schedule - Professional Services
+
+9      Completed SBD 4 – Bidder’s Disclosure
+
+10     Completed SBD 6.1 - Preference Points Claim Form (Preferential Procurement Regulations
+
+       2022)
+
+
+      Note: Failure to supply any of the compliance documents stipulated may lead to the Bid not
+
+      being considered.
+
+
+          7.  ELIGIBILITY CRITERIA
+
+     To be eligible for functionality evaluation, the bidder must submit the following as the table
+
+      below.  If the bidder did not submit the required document (s) with their bid, they will be
+
+      requested in writing to submit the documentation within three (3) working days for inclusion
+
+     as an item for the Bid Evaluation Committee. If a bidder fails to submit on the 3rd working
+
+      day, the relevant bid will be rejected.
+
+
+     Table 5: Eligibility Criteria
+
+                                                                             18
+
+                                         Attached
+
+       Criteria                             (Yes/No)  Comments
+
+     CSD Registration Summary Report
+
+       with a compliant tax status
+
+       Project implementation team members
+
+       are to be OEM certified (proof of
+
+     member certification required)
+
+       Valid OEM documentation (Certificate
+
+       or letter) as proof that the bidder is
+
+       accredited to supply and Install the
+
+     LAN Switches, Wireless Infrastructure,
+
+       cabling including maintenance and
+
+       support.
+
+
+     Stage 1 - Required Documents for Functionality
+
+     The documents required below in Table 6 will be used for functionality evaluation, bidders
+
+      are requested to furnish the detailed information to substantiate compliance to each of the
+
+      evaluation criteria.
+
+      Failure to provide these documents will lead to service providers losing functionality points.
+
+     Table 6: Required documents for Functionality Evaluation.
+
+Required Documents for Functionality
+
+1       Index confirming contents of all documents.
+
+       Cover letter, with signed acceptance of Iziko’s invitation and acknowledgement of Iziko’s
+2
+        terms and stated requirements attached.
+
+      A company profile highlighting the following:
+
+3     Team structure assigned to work on this project including project manager.
+
+        Provide five (5) reference letters from five (5) clients on similar work done.
+
+         Certified copies of:
+
+      Company Registration (CIPC)
+4
+        IDs of key personnel
+
+        Proof of bank account details of company
+
+5     CVs of the different key team members who will work on the project on site.
+
+        Detailed pricing structure: A pricing schedule detailing a full pricing breakdown, inclusive of
+6
+       VAT.
+
+
+
+                                                                             19
+
+    Evaluation of Proposals
+
+    Proposals will be evaluated on price and functionality in accordance with the Preferential
+
+    Procurement Policy Framework Act, 2000 (Act No. 5 of 2000).
+
+
+    Stage 2 - Functionality Criteria
+
+   A proposal which scores lower than the minimum overall percentage of 70% (70 points) will
+
+    be eliminated from further evaluation; will be regarded as non-responsive and will not be
+
+    evaluated further. All proposals which score 70% (70 points) and more for functionality will
+
+    be eligible for further evaluation.
+
+
+    Table 7: Evaluation Criteria
+
+Evaluation          Evaluation Criteria                             Min    Max
+
+Area                                                                 Points  Points
+
+BIDDER           Number of years’ experience with GPON technology,   10     30
+
+EXPERIENCE        core switches, Wireless Networks, and cabling
+
+Proven experience    infrastructure (Bidder to provide a company profile)
+
+with GPON
+
+technology, core        • Between 3-5 years proven experience = (10 points)
+
+switches, Wireless     • Between 6 – 10 years proven experience= (20
+
+Networks, and         points)
+
+cabling                    • More than 10 years proven experience= (30 points)
+
+infrastructure.              .
+
+.
+
+CAPABILITY        Provide written proof from clients on their company’s   10     30
+
+REQUIREMENTS     letterhead from a duly authorised person responsible
+
+The bidder must       for the Network Infrastructure, contact details (email
+
+have experience in   address and telephone number) declaring works
+
+the supply and       performed by the bidder at the client’s premises. The
+
+Installation of the       letters must stipulate contract period, value and scope
+
+LAN Switches,         of work undertaken and be duly signed by an
+
+Wireless             authorized person with contact details. The reference
+
+Infrastructure and      letters should NOT be appointment or award letters.
+
+cabling including
+
+maintenance and       • 1 - 2 reference letters = (10 points)
+
+                             • 3 – 4 reference letters = (20 points)
+
+
+                                                                            20
+
+support of at least 3    • 5 – references letters = (30 points)
+
+years.
+
+
+                     Note: IZIKO reserves the right to verify the information
+
+                      provided.
+
+
+                  NB: Letters of Reference must not be older than 5
+
+                     years
+
+PRODUCT /        The bidder must confirm that they comply with all the    0      30
+
+SERVICE            Product / Service Functional Requirements by
+
+FUNCTIONAL       completing Annexure A
+
+REQUIREMENT
+
+The bidder must
+
+confirm compliance
+
+to the functional
+
+Product / Service
+
+Functional
+
+requirements for
+
+the LAN Switches,
+
+Wireless
+
+Infrastructure, and
+
+cabling.
+
+CERTIFICATION      Certified OEM Project Implementation Team (Proof of   0      10
+
+OF OEM TEAM        Certification)
+
+Total                                                                   100
+
+
+    Stage 3 – Price and Specific Goals Allocated Points
+
+
+    Awarding of Preference Points
+
+    Proposals that meet the minimum stipulated threshold for functionality criteria will be
+
+    evaluated based on preference points as described in the Preference Point System
+
+     stipulated in the Preferential Procurement Policy Framework Act, 2000 (Act No. 5 of 2000).
+
+    The criteria for apportioned and weighted preference points for this tender are as follows:
+
+
+
+
+
+                                                                            21
+
+Table 8: Preference Point Criteria
+
+  Preference Point Criteria                                      Points Allocation
+
+  1.  Price                                                80
+
+  2.   Specific Goals allocated Points                           20
+
+  Total Points                                             100
+
+
+
+
+Price schedule must include a breakdown of the different disciplines and any other services
+
+and components as listed in scope of work. Refer to Appendix B.
+
+
+Specific Goals
+
+Preference Claim Form (SBD 6.1) must form part of all bids submitted. This form serves as a
+
+claim form for preference points for Specific Goals contribution.
+
+
+    8. SUMMARY OF GENERAL PRINCIPLES
+
+
+Iziko will apply the 80/20 preferential points system.
+
+Iziko applies the provisions of the Preferential Procurement Policy Framework Act, 2000 (Act
+
+No. 5 of 2000) and the Public Finance Management Act, 1999 (Act No. 1 of 1999).
+
+The lowest or only proposal received will not necessarily be accepted.
+
+Iziko reserves the right to withdraw its decision to seek the provision of these services at any
+
+time. There will be no discussions with any bidder until a final decision has been taken by
+
+the Bid Adjudication Committee. Any subsequent discussions shall be at the discretion of
+
+Iziko.
+
+
+    9. REASONS FOR DISQUALIFICATION
+
+Iziko may disqualify any proposal for any one or more of the following reasons:
+   −  a bidder submits a proposal late.
+   −  a bidder submits a proposal via facsimile or e-mail.
+   −  a bidder does not submit required documents.
+   −  a bidder submits incomplete documentation and/or information as per the
+
+   requirements; and
+   −  a bidder submits information which is fraudulent, factually untrue, or inaccurate.
+   −  “Confirmation of the required level of insurance or access thereto.
+
+
+                                                                        22
+
+       [If confirmation/proof of insurance is not duly confirmed, the risk to Employer will be regarded
+
+    as unacceptable and render the tender unacceptable on grounds of not being to
+
+     specification. The Employer retains the right to request documentary proof of such insurance
+
+    or access thereto as part of the tender evaluation process. Unconfirmed insurance will
+
+    render the tenders unacceptable i.t.o. risk and excluded from further consideration.
+
+
+   Any such disqualification may take place without prior notice to the applicable bidder.
+
+
+    10. DECLARATION
+
+The undersigned, who warrants that he / she is duly authorized to do so on behalf of the
+enterprise:
+
+       i)  confirms that neither the name of the enterprise or the name of any partner, manager,
+        director or other person, who wholly or partly exercises, or may exercise, control over the
+       enterprise appears on the Register of Tender Defaulters established in terms of the
+       Prevention and Combating of Corrupt Activities Act of 2004;
+        ii) confirms that no partner, member, director or other person, who wholly or partly
+       exercises, or may exercise, control over the enterprise appears, has within the last five
+       years been convicted of fraud or corruption;
+        iii) confirms that I / we are not associated, linked or involved with any other tendering entities
+       submitting tender offers and have no other relationship with any of the tenderers or those
+       responsible for compiling the scope of work that could cause or be interpreted as a
+        conflict of interest; and ;
+      iv) confirms that the contents of this questionnaire/forms (SBD 4, & 6.1) are within my
+       personal knowledge and are to the best of my belief both true and correct
+     v) accept that, in addition to cancellation of a contract, action may be taken against me
+       should the Declaration prove to be false.
+     Signed                                Date
+
+
+
+
+    Name                                       Position
+
+     Enterprise
+    name
+
+
+
+
+    Please note that if the supporting documentation is not provided then the submission
+     will be classified as non-responsive.
+
+         1.  Disqualification
+
+
+
+                                                                           23
+
+   Please note that if a bid document is not filled in correctly or completely, or complied with
+    the specification, or is delivered/send after the bid closing date and time, or the supplier
+     is not registered on the CSD or supplier has a non-compliant tax status, then
+    unfortunately that bidder maybe disqualified. Please return this document with the
+   supporting documents.
+
+
+    11. FORMAL CONTRACT
+
+The proposal and appended documentation, all completed and read together, form the basis
+
+for a formal agreement to be negotiated and concluded in a formal contract between Iziko
+
+and the preferred bidder. A mere offer and acceptance shall not constitute a formal contract
+
+of any nature for any purpose between Iziko and the preferred bidder.
+
+
+
+
+_________________________________      _________________________________
+Mr. Andre Makka                       DATE
+ICT Manager
+
+
+
+
+________________________________        _________________________________
+Ms Ronell Pedro                       DATE
+CHIEF FINANCIAL OFFICER
+
+
+
+
+_____________________________       __________________________________
+Dr Bongani Ndhlovu                     DATE
+ACTING CHIEF EXECUTIVE OFFICER
+
+
+
+
+
+                                                                        24
+
+NB: The bidder must confirm that they comply with the following Technical
+Mandatory Functional Requirements as indicated below as this will be contractually
+binding:
+
+
+
+     Description                 Product/ Service requirements               Indicate
+                                                                 Yes= Comply
+                                                         No = Not
+                                                              Comply
+ Hardware Solution      GPON Specifications
+ requirements                     • Platform that integrates IP service delivery
+                              and Ethernet transport into a compact, high-
+                                            availability, carrier-class modular chassis that
+                                       delivers high-performance, scalable network
+                                      solutions for multiple service providers.
+                                   • Supports delivery of IP voice (VoIP), IPTV and
+                                High-Speed Internet services.
+                           Optical Line Terminal (OLT) Specifications
+                                   • The OLT’s Network Interfaces must be
+                                  extendable and hot-pluggable and must be
+                                  foreseen with all the possible flexibility and
+                                      protection mechanisms to allow for seamless
+                                 network operations and interconnections to
+                                    the network.
+                           Optical Network Terminal (ONT) Specifications
+                                   • A single-subscriber device that terminates any
+                              one of the distributed endpoints of an Optical
+                                        Distribution Network (ODN), implements a
+                       PON protocol between OLT and ONT.
+                                   • The ONT must be Type-A: 4 x 100/100/1000
+                               Base-T UNI ports with PoE/PoE+ functionality.
+                                   • The ONT is to be deployed in offices, public
+                                 areas and within rooms and locations where
+                                   wired services are required. It should also
+                               have VLAN forwarding capabilities.
+                           Wi-Fi Specifications
+                                   • Centralized WLAN architecture with “thin”
+                                           certified Plenum rated Access Point (APs) and
+                                      centralized switch/controllers, and integrated
+                                 network management.
+                                   • System must be highly available, have no
+                                      single point of failure and support multiple
+                                       levels of redundancy (controller, AP, etc.).
+
+
+                                                                        25
+
+                                  • System must support universal authentication
+                            (MAC, 802.1X, Integrated Web-based).
+                                  • Standard 802.11a/b/g/n/ac support.
+                                  • Security enforced Access Control.
+                                  • Wireless Intrusion Detection Solution (WIDS)
+                     Access Network Switches
+                                  • Support for high-speed data transfer
+                             (minimum 10 Gbps).
+                                  • Scalability to accommodate future growth.
+                                  • Redundancy and failover capabilities for
+                             enhanced reliability.
+                                  • Advanced security features to protect against
+                                 cyber threats.
+                                  • Easy integration with existing network
+                               components.
+                                  • Support for IPv6 and IPv4 protocols.
+                                  • VLAN support and advanced Quality of
+                                  Service (QoS) features.
+                                  • Compatibility with industry-standard network
+                            management protocols.
+                                  • Power over Ethernet (PoE) support for
+                               connected devices.
+                                  • Layer 3 routing capabilities.
+
+Network Cabling         Network Cabling
+Requirements                    • Design and implement a structured cabling
+                               system to ensure seamless connectivity
+                                 across all departments and floors.
+                                  • Installation of high-quality fibre splitter boxes
+                                      to facilitate efficient data transmission.
+                                  • Deployment of single-mode fibre cables to
+                                ensure optimal performance and reliability in
+                                 data transfer.
+                                  • Install Category 6 (Cat 6) or higher Ethernet
+                                 cables to meet current and future bandwidth
+                                  requirements.
+                                  • Deploy network outlets strategically to
+                            accommodate workstations, printers, and
+                                   other network devices.
+                                  • Establish a centralized distribution point for
+                                 networking equipment to facilitate easy
+                               maintenance and troubleshooting.
+                                  • Ensure compliance with industry standards
+                             and best practices for network cabling.
+
+
+
+                                                                       26
+
+                                  • Network jacks, faceplates, and patch panels
+                                         for connecting devices to the cabling system.
+                                  • Cable trays and conduits for organized cable
+                             management.
+                                  • Rack-mounted cabinets to house networking
+                                 equipment.
+                                  • Deployment of patch panels to organize and
+                           manage network connections effectively.
+                                  • Cable labels and documentation for clear
+                                         identification and ease of maintenance
+                      Network Monitoring System
+                                  • Customization and installation of Network
+                                   Monitoring System
+                                  • Topology Management
+                                  • Minute Level locating of application issues.
+                                  • Intelligent application identification
+                                  • Optimize network performance and efficiency.
+Network Monitoring               • Streamline network control and monitoring
+Requirements                     processes.
+                                  • Enhance security measures within the
+                                  network.
+                                  • Provide scalability for future growth.
+                                  • Integration with existing network infrastructure.
+                                  • Configuration for optimal performance.
+                                  • Training for IT staff.
+                                  • Ongoing support and maintenance.
+                                5-Year Warranty for Network Hardware
+                                      Infrastructure
+                              Coverage: The warranty covers all network
+                               hardware components supplied, including but
+                                   not limited to routers, switches, access points,
+                                      cabling, and related accessories. It
+Warranty: Network                guarantees that the hardware will be free from
+Infrastructure                      defects in material and workmanship under
+                                normal use and service.
+                                 Duration: The warranty period is set at 5
+                                 years from the date of installation and
+                               acceptance of the network hardware
+                                        infrastructure.
+
+
+
+
+
+                                                                       27
+
+                           5-Year SLA for Network Infrastructure Support and
+                          Maintenance
+                        Support Services:
+                                         Will provide technical support via phone or
+                                   email during regular business hours (Monday
+                                        to Friday, 8 am to 5 pm).
+                            Remote assistance will be available for
+                                    troubleshooting and resolving network issues
+                                    promptly.
+                                  On-Site Support In cases where remote
+                                   assistance is insufficient, on-site support will
+                              be provided within four (4) hours of the
+                                    reported issue, as per the severity level.
+                        Maintenance Services:
+                               Conduct regular maintenance checks to
+ SLA: Support and
+                                 ensure optimal performance and identify
+ Maintenance
+                                        potential issues before they become critical.
+                                  Provide scheduled software updates for the
+                                 network infrastructure components to address
+                                       security vulnerabilities and enhance
+                                          functionality.
+                                        In the event of a critical network failure, will
+                                respond within four (4) hours to address and
+                                    resolve the issue.
+
+                       Review and Amendments: This SLA will be subject
+                                to periodic review and may be amended by mutual
+                         agreement between the incumbent company and
+                                Iziko to accommodate changing requirements or
+                            technology advancements.
+
+
+
+
+      I, the bidder (Full names) …………………………………………………. representing
+   (company name) ……………………………………………………………. hereby confirm
+    that I comply with all the above Technical Mandatory Requirements and understand that
+       it will form part of the contract and is legally binding.
+Thus, done and signed at …………………………………. on this………day
+of……………………………20….
+
+
+
+
+  Signature……………………………    Designation………………………………….
+
+
+
+
+
+                                                                        28
+
+    Annexure B: Bill of Materials
+
+
+
+
+
+No
+     Deliverable/Output Description                                     Qty
+.
+1     Iziko SA Museum and Planetarium
+     Network Design and Implementation Service                            1
+     Network Monitoring System - Equivalent to Huawei iMaster NCE including
+                                                                    1
+     Hardware, Licenses
+     Wireless Access Controller - Equivalent to Huawei AC6508                2
+   GPON OLT - Equivalent to Huawei SmartAX EA5800-X2                  1
+     Warranty Next Business Day (5 Years)                                 5
+2     Iziko Bo-Kaap
+     Wireless Access Point - Equivalent to Huawei AirEngine 5761-11            4
+     24 Port Switch - Equivalent to Huawei CloudEngine S5735-L24P4XE-A-V2    1
+    10G-LR SFPs                                                    2
+     Warranty Next Business Day (5 Years)                                 5
+    CAT6 Solid Cable Network Points (Axil Equivalent)                       24
+    12U Rack Mount Cabinet 600 Deep                                   1
+     24 Port Patch Panel (Axil Equivalent)                                  1
+    1U Short Base Brush Panels                                         2
+    1m CAT6 Patch Leads Moulded (Axil Equivalent)                         24
+    3m 1m CAT6 Patch Leads Moulded (Axil Equivalent)                      24
+     Mimic Label (White on Blue)                                         24
+3     Iziko William Fehr Collection (Castle)
+     Wireless Access Point - Equivalent to Huawei AirEngine 5761-11            21
+     24 Port Switch - Equivalent to Huawei CloudEngine S5735-L24P4XE-A-V2    2
+    10G-LR SFPs                                                    4
+     Warranty Next Business Day (5 Years)                                 5
+    CAT6 Solid Cable Network Points (Axil Equivalent)                       48
+    12U Rack Mount Cabinet 600 Deep                                   1
+     24 Port Patch Panel (Axil Equivalent)                                  2
+    1U Short Base Brush Panels                                         4
+    1m CAT6 Patch Leads Moulded (Axil Equivalent)                         48
+    3m 1m CAT6 Patch Leads Moulded (Axil Equivalent)                      48
+     Mimic Label (White on Blue)                                         24
+4     Iziko Rust & Vreugd
+     Wireless Access Point - Equivalent to Huawei AirEngine 5761-11            10
+     48 Port Switch - Equivalent to Huawei CloudEngine S5735-L48LP4XE-A-V2   1
+    10G-LR SFPs                                                    2
+
+
+
+                                                                       29
+
+No
+     Deliverable/Output Description                                     Qty
+.
+     Warranty Next Business Day (5 Years)                                 5
+    CAT6 Solid Cable Network Points (Axil Equivalent)                       48
+    12U Rack Mount Cabinet 600 Deep                                   1
+     24 Port Patch Panel (Axil Equivalent)                                  2
+    1U Short Base Brush Panels                                         4
+    1m CAT6 Patch Leads Moulded (Axil Equivalent)                        48
+    3m 1m CAT6 Patch Leads Moulded (Axil Equivalent)                      48
+     Mimic Label (White on Blue)                                         24
+5     Iziko Slave Lodge
+     Wireless Access Point - Equivalent to Huawei Air Engine 5761-11           28
+     Wireless Access Point - Equivalent to Huawei Air Engine 5761R-11          1
+     48 Port Switch - Equivalent to Huawei Cloud Engine S5735-L48LP4XE-A-V2   1
+    10G-LR SFPs                                                    2
+     Warranty Next Business Day (5 Years)                                 5
+    CAT6 Solid Cable Network Points (Axil Equivalent)                       48
+    12U Rack Mount Cabinet 600 Deep                                   1
+     24 Port Patch Panel (Axil Equivalent)                                  2
+    1U Short Base Brush Panels                                         4
+    1m CAT6 Patch Leads Moulded (Axil Equivalent)                         48
+    3m 1m CAT6 Patch Leads Moulded (Axil Equivalent)                      48
+     Mimic Label (White on Blue)                                         48
+6     Iziko Old Townhouse
+     Wireless Access Point - Equivalent to Huawei AirEngine 5761-11            5
+     24 Port Switch - Equivalent to Huawei CloudEngine S5735-L24P4XE-A-V2    1
+    10G-LR SFPs                                                    2
+     Warranty Next Business Day (5 Years)                                 5
+    CAT6 Solid Cable Network Points (Axil Equivalent)                       24
+    12U Rack Mount Cabinet 600 Deep                                   1
+     24 Port Patch Panel (Axil Equivalent)                                  1
+    1U Short Base Brush Panels                                         2
+    1m CAT6 Patch Leads Moulded (Axil Equivalent)                         24
+    3m 1m CAT6 Patch Leads Moulded (Axil Equivalent)                      24
+     Mimic Label (White on Blue)                                         24
+7     Iziko Koopmans De Wet House
+     Wireless Access Point - Equivalent to Huawei AirEngine 5761-11            4
+     24 Port Switch - Equivalent to Huawei CloudEngine S5735-L24P4XE-A-V2    1
+    10G-LR SFPs                                                    2
+     Warranty Next Business Day (5 Years)                                 5
+    CAT6 Solid Cable Network Points (Axil Equivalent)                       24
+    12U Rack Mount Cabinet 600 Deep                                   1
+     24 Port Patch Panel (Axil Equivalent)                                  1
+    1U Short Base Brush Panels                                         2
+
+
+                                                                       30
+
+    1m CAT6 Patch Leads Moulded (Axil Equivalent)                         24
+    3m 1m CAT6 Patch Leads Moulded (Axil Equivalent)                      24
+No
+     Deliverable/Output Description                                     Qty
+.
+     Mimic Label (White on Blue)                                         24
+8     Iziko SA National Gallery
+     Wireless Access Point - Equivalent to Huawei AirEngine 5761-11            23
+     Wireless Access Point - Equivalent to Huawei AirEngine 5761R-11           1
+     4 Port ONU - Equivalent to Huawei OptiXstar P613E-2                    2
+     8 Port ONU - Equivalent to Huawei OptiXstar P613E-E                    10
+     Warranty Next Business Day (5 Years)                                 5
+   ODN SPL12(Rack-mounted Splitter)                                   2
+     Wall Mount Fibre enclosure - 24 Core LC Enclosure                      1
+     24 Core Single Mode - HDD                                         150
+    2m Single Mode Lead - LC - LC Simplex Lead                           13
+    2m Single Mode Lead - LC - LC Duplex                                4
+     24 port Fibre Tray - 24/48 Port LC Fibre Tray                            1
+      Splice Cassette - Standard - Black                                    1
+    LC - Single Mode Mid-Coupler                                       30
+    LC - Unjacketed Pigtails                                            60
+     2 Port Fibre Mouse Pad                                            6
+     2 Core Drop Single LCD Fibre                                       500
+    CAT6 Solid Cable Network Points (Axil Equivalent)                       136
+    12U Rack Mount Cabinet 600 Deep                                   2
+    1U Short Base Brush Panels                                         1
+    3m 1m CAT6 Patch Leads Moulded (Axil Equivalent)                      136
+     Mimic Label (White on Blue)                                         136
+9     Iziko SA National Gallery Annexe
+     Wireless Access Point - Equivalent to Huawei AirEngine 5761-11            7
+     24 Port Switch - Equivalent to Huawei CloudEngine S5735-L24P4XE-A-V2    1
+    10G-LR SFPs                                                    2
+     Warranty Next Business Day (5 Years)                                 5
+    CAT6 Solid Cable Network Points (Axil Equivalent)                       24
+    12U Rack Mount Cabinet 600 Deep                                   1
+     24 Port Patch Panel (Axil Equivalent)                                  1
+    1U Short Base Brush Panels                                         2
+    1m CAT6 Patch Leads Moulded (Axil Equivalent)                         24
+    3m 1m CAT6 Patch Leads Moulded (Axil Equivalent)                      24
+     Mimic Label (White on Blue)                                         24
+10   Iziko Social History Centre
+     Wireless Access Point - Equivalent to Huawei AirEngine 5761-11            36
+     48 Port Switch - Equivalent to Huawei CloudEngine S5735-L48LP4XE-A-V2   6
+    10G-SR SFPs                                                    12
+    10G-LR SFPs                                                    2
+
+
+                                                                       31
+
+      Warranty Next Business Day (5 Years)                                 5
+     CAT6 Solid Cable Network Points (Axil Equivalent)                       36
+      24 Port Patch Panel (Axil Equivalent)                                  2
+     1U Short Base Brush Panels                                         12
+ No
+      Deliverable/Output Description                                     Qty
+  .
+    1m CAT6 Patch Leads Moulded (Axil Equivalent)                         288
+    3m 1m CAT6 Patch Leads Moulded (Axil Equivalent)                      288
+      Mimic Label (White on Blue)                                         288
+ 11   Iziko Bertram House
+      Wireless Access Point - Equivalent to Huawei AirEngine 5761-11            5
+      24 Port Switch - Equivalent to Huawei CloudEngine S5735-L24P4XE-A-V2    1
+     10G-LR SFPs                                                    2
+      Warranty Next Business Day (5 Years)                                 5
+     CAT6 Solid Cable Network Points (Axil Equivalent)                       24
+     12U Rack Mount Cabinet 600 Deep                                   1
+      24 Port Patch Panel (Axil Equivalent)                                  1
+     1U Short Base Brush Panels                                         2
+    1m CAT6 Patch Leads Moulded (Axil Equivalent)                         24
+    3m 1m CAT6 Patch Leads Moulded (Axil Equivalent)                      24
+      Mimic Label (White on Blue)                                         24
+ 12   Hardware Spares
+     10G-SR SFPs                                                    2
+     10G-LR SFPs                                                    6
+      Wireless Access Point - Equivalent to Huawei AirEngine 5761-11            2
+      24 Port Switch - Equivalent to Huawei CloudEngine S5735-L24P4XE-A-V2    1
+      4 Port ONU - Equivalent to Huawei OptiXstar P613E-2                    2
+      8 Port ONU - Equivalent to Huawei OptiXstar P613E-E                    4
+      Warranty Next Business Day (5 Years)                                 5
+ 13   Support & Maintenance
+     SLA for five (5) Years                                              5
+
+
+
+IZIKO RESERVES THE RIGHT TO AMEND HARDWARE AND NETWORK QUANTITIES
+
+
+
+
+
+                                                                        32

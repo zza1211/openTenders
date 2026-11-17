@@ -1,0 +1,1036 @@
+    BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                   ARRANGEMENT
+              PROCUREMENT REFERENCE NO: CBTD 28-25
+
+
+
+
+
+    INVITATION TO COMPETITIVE BIDDING TENDER
+     DOMESTIC CBTD 28-25 FOR THE SUPPLY AND
+     DELIVERY OF GPON FIBERHOME (ONU) AND
+    HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+               AGREEMENT
+
+
+
+
+
+                         Tender Closing Date:  20 March 2025
+
+                      CLOSING TIME: 1100HRS
+
+
+
+
+
+                                Page 1 of 22
+
+    BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                   ARRANGEMENT
+              PROCUREMENT REFERENCE NO: CBTD 28-25
+
+   Standard Bidding Document: FOR THE SUPPLY AND DELIVERY OF GPON
+  FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS MODEMS UNDER
+  CONSIGNMENT ARRANGEMENT
+
+   Procurement Reference No: CBTD 28-25
+
+   Procuring Entity: TelOne Zimbabwe
+
+   Date of Issue:
+
+
+
+
+
+                                Page 2 of 22
+
+    BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                   ARRANGEMENT
+
+              PROCUREMENT REFERENCE NO: CBTD 28-25
+
+
+                    Table of Contents
+
+
+
+          Part 1: Bidding Procedures
+
+
+          Part 2: Statement of Requirements
+
+
+
+
+
+                                Page 3 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+
+                      PART 1: BIDDING PROCEDURES
+
+INVITATION FOR SUPPLY AND DELIVERY OF CONSIGMENT STOCK
+AGREEMENT CBTD  28-25 FOR  SUPPLY AND  DELIVERY OF GPON
+FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS
+
+1.0 Introduction
+
+   This Standard Bidding Document (SBD) has been prepared with a view of providing
+   Consignment Agreements for the procurement of GPON FIBERHOME (ONU) AND
+  HUAWEI (ONT) MODEMS.
+
+1. The Consignment Stock Agreement shall be concluded for a period of one (1) year from
+    the commencement date stated in the agreement.
+
+2.  TelOne on a non-exclusive basis will provide facilities for product distribution and selling
+    of the Products in Zimbabwe Through TelOne distribution outlets and /or agents for the
+    duration of the contract.
+
+3. The Consignor shall supply the consignment stock to TelOne at agreed quantities of each
+    product, based on the orders generated for each product. To this end,
+
+4. The Consignor shall be responsible for obtaining all licences, permits and approvals
+   which are necessary or advisable for the distribution of the products in Zimbabwe and for
+    the performance of TelOne.
+
+5. The Consignor shall be responsible for obtaining all the intellectual property rights, which
+    are necessary or advisable for the distribution of the Products in Zimbabwe and for the
+   performance of TelOne’s duties hereunder.
+
+6.  All sales shall be at prices and terms agreed upon and recommended by the supplier and
+   TelOne.
+
+7.  TelOne shall be entitled to a commission for the units sold and shall be negotiated at
+    contract stage.
+
+8.  Bidding  will be conducted through competitive bidding  as  specified  in  the Public
+   Procurement and Disposal of Public Assets Act and Regulations and is open to all eligible
+   Bidders as defined in the Regulations.
+
+References:
+
+References to the Act are to the Public Procurement and Disposal of Public Assets Act
+[Chapter22:23] and references to the Regulations are to the Public Procurement and Disposal
+of Public Assets (General) Regulations (Statutory Instrument No. 5 of 2018). The terms and
+requirements in the Act and Regulations govern the submission of Bids and should be read by
+all Bidders.
+
+
+
+                                  Page 4 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+
+
+Procurement Reference Number: CBTD 28-25
+Preparation of Bids
+You are requested to bid for the supply of the goods specified in the Statement of
+Requirements below, by completing and returning the following documentation:
+1.  the Bid Submission Sheet in this Part;
+2.  the Statement of Requirements in Part 2;
+3.  a copy of every document necessary to demonstrate eligibility in terms of section 28 (1)
+    of the Regulations;
+4.  Proof of registration with the Procurement Regulatory Authority of Zimbabwe;
+5. A bid securing declaration in the format specified in this Part;
+6. A copy of
+       i.  Signed bid submission sheet (annexure A)
+      ii.  Signed bid securing declaration (annexure E)
+     iii.  Certificate of Incorporation
+    iv. CR6 clearly showing company director(s) credentials
+     v.  Current Tax Clearance Certificate
+    vi.  Validity period of tender of 60 days (Bidders must state)
+    vii. Bidder to provide data sheet or sample along with the bids.
+   viii. At least three written reference letters (in the form of official letters from client
+        companies) for supply and delivery of related goods.
+    ix. Proof of registration with the Procurement Regulatory Authority of Zimbabwe
+     x. Comprehensive company Profile.
+    xi. The tender should have a table of contents with marked pages.
+
+The standard forms in this document may be retyped for completion but the Bidder is
+responsible for their accurate reproduction. All pages of the Bid must be clearly marked with
+the Procurement Reference Number above and the Bidder’s name and any reference number.
+
+
+Clarification
+Clarification of the bidding document may be requested in writing by Bidder before 18
+March 2025 and should be sent to:
+
+
+      The Procurement Management Unit Executive
+      TelOne
+     P O Box CY331
+      Causeway, Harare
+      Zimbabwe
+Email; chiedza.runyowa@telone.co.zw ; caroline.chikukutu@telone.co.zw and
+
+
+                                  Page 5 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+      cladios.chenga@telone.co.zw
+
+
+Any neglect, delay or failure on the part of the Bidder to obtain additional information upon
+the above or any other matters which the bidder considers necessary shall not relieve him
+from responsibility as a bidder.
+
+Bidders are required to adhere to the instructions regarding preparation and submission of
+tenders as those who do not comply will be disqualified.
+
+A Bidder may withdraw, substitute, or modify its Bid after it has been submitted by sending a
+written notice, duly signed by an authorized representative.  However, no Bid may be
+withdrawn, substituted, or modified in the interval between the deadline for submission of
+Bids and the expiration of the period of Bid validity specified by\ the Bidder or any extension
+of that period.
+
+
+Validity of Bids
+The minimum period for which the Bidder’s bid must remain valid is 60 days from the
+deadline for the submission of bids.
+
+
+Submission of Bids
+(a) Bids should be submitted in triplicate with one (1) original copy marked “ORIGINAL”
+   and two (2) copies each marked “COPY” All 3 copies should be in sealed envelopes
+    clearly marked with the details of the tender. In the event of any discrepancy between the
+    original and the copies, the original will prevail.
+
+(b) All tenders must be submitted to the Procurement Management Unit Executive, TelOne
+    (Private) Limited, Harare.
+
+(c) The tender must be enclosed in sealed envelopes, endorsed on the outside with the
+    advertised tender number, the closing date and description of tender and must be
+    delivered by hand to the Procurement Management Unit Executive, TelOne (Private)
+   Limited, 8th Floor Runhare House, 107 Kwame Nkrumah Avenue, Harare before
+   11:00 hours on the closing date notified.
+
+(d) No bidder may submit more than one bid, either individually or as a joint venture partner
+    in another bid, except as a subcontractor.
+
+(e) A conflict of interest will be deemed to arise if bids are received from more than one
+    bidder owned, directly or indirectly, by the same person;
+
+(f) Tenders which are properly addressed to Tel-One (Private) Limited in envelopes with the
+    advertised tender number, the closing date and tender description endorsed on the outside
+    are not opened until 11:00 hours on the closing date.
+
+
+
+                                  Page 6 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+(g) Note:  Tenders which are received after 11:00 hours on the closing date, whether by
+   hand, or by post will be treated as late tenders and will be rejected.
+
+(h) Any tender submitted that does not fully comply with the above terms and conditions will
+   be rejected without further consideration as well as tenders received after the published
+    closing date and time.
+
+
+Late bids will be rejected.  The Procuring Entity reserves the right to extend the bid
+submission deadline but will notify all potential bidders who have collected the bidding
+documents of the amended bid submission deadline.
+
+ Date of deadline: 20/03/2025                 Deadline Time: 11:00hrs Zim time
+
+
+                          The Procurement Executive, Submission address:
+                              Tel-One, 8th Floor, Runhare House, South Wing; 107
+                      Kwame Nkrumah Ave, HARARE, ZIMBABWE
+
+ Means of acceptance:        The tender shall be enclosed in an envelope which shall be
+                                sealed and marked on the outside with the advertised tender
+                            number, description, closing date and time and must be
+                            hand delivered to the above-stated address. Tender
+                              submission by Tele-fax/email shall not be accepted save for
+                                 issue of queries.
+
+
+Withdrawal, amendment or modification of Bids
+A Bidder may withdraw, substitute, or modify its Bid after it has been submitted by sending a
+written notice, duly signed by an authorized representative. However, no Bid may be
+withdrawn, substituted, or modified in the interval between the deadline for submission of
+Bids and the expiration of the period of Bid validity specified by the Bidder or any extension
+of that period.
+
+
+Delivery Requirements
+The delivery period required (from the date of contract signing) and the final destination for
+delivery are as indicated in the Delivery Schedule in Part 2.
+
+
+Eligibility and Qualification Criteria
+Bidders are required to meet the criteria in section 28 of the Act to be eligible to participate in
+public procurement and to be qualified for the proposed contract.  They must, therefore,
+provide any available documentation and certify their eligibility in the Bid Submission Sheet.
+To be eligible, Bidders must:
+1.  have the legal capacity to enter into a contract;
+
+                                  Page 7 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+2.  not be insolvent, in receivership, bankrupt or being wound up, not have had business
+    activities suspended and not be the subject of legal proceedings for any of these
+    circumstances;
+3.  have  fulfilled  their  obligations  to pay  taxes and  social  security  contributions  in
+   Zimbabwe;
+4.  not have a conflict of interest in relation to this procurement requirement;
+5.  not be debarred from participation in public procurement under section 72 (6) of the Act
+   and section 74(1) (c), (d) or (e) of the Regulations or declared ineligible under section 99
+    of the Act;
+6.  have the nationality of an eligible country as specified in the Special Conditions of
+    Contract; and
+7.  have been registered with the Authority as a Supplier and have paid the applicable
+    Supplier Registration Fee set out in Part III of the Fifth Schedule to the Regulations.
+
+Evaluation Criteria
+Evaluation shall be done in two stages, namely Preliminary and Technical. Only bids that
+comply with the preliminary/mandatory requirements of the tender shall qualify for technical
+evaluation.
+
+
+Preliminary evaluation- the preliminary evaluation shall consider bidders’ compliance
+with the tender requirements by submitting the following mandatory requirements;
+
+
+       Attributes                                            Compliancy Status
+                                                            Compliant – C
+                                                        Not Compliant – NC
+
+1     Signed bid securing declaration (annex E)
+
+2     Signed bid submission sheet (annexure A)
+
+3     Statement of Requirements in Part 2;
+
+4     Proof of registration with the Procurement Regulatory
+      Authority of Zimbabwe
+
+5      Certificate of Incorporation
+
+6     Comprehensive company profile
+
+7    CR6 with list of directors
+
+8     Current Tax Clearance Certificate
+
+9      Validity period of tender of 60 days (Bidders must state)
+
+10    Bidder to provide data sheet or sample along with the bids
+
+11    At least three written reference letters (in the form of official
+
+
+                                  Page 8 of 22
+
+      BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+  FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                     ARRANGEMENT
+ PROCUREMENT REFERENCE NO: CBTD 28-25
+
+ PART 1     BIDDING PROCEDURES
+         letters from client companies) for supply and delivery of
+        related goods.
+
+
+
+
+ Technical Criteria
+ The Technical Specifications Sheet details the minimum specification of the goods required.
+ The goods offered must meet this specification, but no credit will be given for exceeding the
+ specification. The technical evaluation shall consider bidder’s compliance with the technical
+ specifications of the tender in annexure D and H. The technical specifications of the project
+ are broken down into technical components ALL of which must be complied with.
+
+
+ Items required
+
+ Below are Details of Requirement:
+
+Item    Description of Goods                         Quantity  Physical Unit
+
+1     HUAWEI OPTICAL NETWORK TERMINAL
+                                                      1           each       (ONT) MODEM
+2      FIBRE HOME OPTICAL NETWORK UNIT
+                                                      1           each       (ONU) MODEM
+
+
+ Award criteria for the Consignment Agreement
+ This is an open Consignment agreement
+ The Procuring Entity will conclude consignment stock agreements with the bidders whose
+ bids have been determined to be substantially responsive, economically advantageous to
+ TelOne business, including any margin of preference, which is substantially responsive to the
+ requirements of this bidding document.
+ Where an insufficient number of bids are received, TelOne may decide to invite new bids
+
+
+ Currency
+ Bids should be priced in US$ payable in USD
+
+
+ Notification of award for consignment stock agreements
+ The proposed award of consignment agreement will be by the issue of a Notification of
+ consignment stock agreement Award, which will be effective upon signing of the agreement.
+ Unsuccessful Bidders will receive the Notification of Consignment Agreement Award and, if
+ they consider they have suffered prejudice from the process, they may within 14 days of
+ receiving this Notification, submit to the Procuring Entity a Challenge in terms of section 73
+
+
+                                   Page 9 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+of the Act, subject to payment of the applicable fee set out in section 44 of and the Third
+Schedule to the Regulations.
+
+
+Terms and conditions of the consignment stock agreements
+1) Once the Consignment Agreements have been concluded orders will be made from the
+    shortlisted suppliers.
+2) New quotations may be solicited from the shortlisted suppliers as and when the modems
+    will be required.
+3) The procuring entity will use the competitive bidding method in accordance with section
+   17 (2) of the Public Procurement and Disposal of Public Assets (General Regulations).
+4) The quantities for requirements shall be determined by TelOne (Private) Limited as and
+   when required. TelOne may carry out a market survey to determine fair market prices
+    before placing firmed up orders.
+
+
+Right to Reject
+The Procuring Entity reserves the right to accept or reject any Bids or to cancel the
+procurement process and reject all Bids at any time prior to contract award.
+
+
+Corrupt Practices
+The Government of Zimbabwe requires that Procuring Entities, as well as Bidders and
+Contractors, observe the highest standard of ethics during the procurement and execution of
+contracts. In pursuit of this policy:
+
+1.  the Procuring Entity will reject a recommendation for award if it determines that
+   the Bidder recommended for award has, directly or through an agent, engaged in
+   corrupt, fraudulent, collusive or coercive practices in competing for the Contract or
+   been declared ineligible to be awarded a procurement contract under section 99 of
+   the Act;
+2.  the Authority may under section 72 (6) of the Act impose the sanctions under section
+   74 (1) of the Regulations; and
+3. any conflict of interest on the part of the Bidder must be declared.
+
+
+
+
+
+                                 Page 10 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+                                Annex A
+                 Bid Submission Sheet
+{Note to Bidders: Complete this form with all the requested details and submit it as the first page of
+your Bid. Attach the completed Statement of Requirements and any other documents requested in
+Part 1.  Ensure that your Bid  is authorised in the signature block below. A signature and
+authorisation on this form will confirm that the terms and conditions of this Bid prevail over any
+attachments.  If your Bid is not authorised, it may be rejected.  If the Bidder is a Joint Venture
+(JV), the Bid must be signed by an authorized representative of the JV on behalf of the JV, and so
+as to be legally binding on all the members as evidenced by a power of attorney signed by their
+legally authorized representatives.
+Bidders must mark as “CONFIDENTIAL” information in their Bids which is confidential to their
+business.  This may include proprietary information, trade secrets or commercial or financially
+sensitive information}.
+
+
+ Procurement Reference Number: CBTD 28-25
+
+ Subject of Procurement:
+
+ Name of Bidder:
+
+ Bidder’s Reference Number:
+
+ Date of Bid:
+
+We offer to supply the items listed in the attached Statement of Requirements, at the prices indicated
+on the attached Price Schedule and in accordance with the terms and conditions stated in your Bidding
+Document referenced above.
+
+We confirm that we meet the eligibility criteria specified in Part 1: Procedures of Bidding.
+
+We declare that we are not debarred from bidding and that the documents we submit are true and
+correct.
+
+The validity period of our bid is: ……… {days} from the date of submission.
+
+We confirm that the prices quoted in the attached Price Schedule are fixed and firm for the duration of
+the validity period and will not be subject to revision, variation or adjustment.
+
+
+Bid Authorised by:
+
+
+  Signature ……………………………..     Name: ……………………………………
+  Position:  ……………………………..      Date:  …………………….……(DD/MM/YY)
+  Authorised for and on behalf of:
+  Company ……………………………………………………………………………………
+  Address: ……………………………………………………………………………………
+      …………………………………………………………………………………….
+
+
+                                 Page 11 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+
+
+                   Annex B
+                   Delivery Schedule
+ Name of Bidder:
+
+ Bidder’s Reference Number: CBTD 28-25
+
+{Note to Bidders: If the delivery period offered, or any other details, differ from the requirements below, this
+should be stated in your tender}.
+
+                                                                    Delivery Date
+                                                              Required by
+Item                                                    Physical      Procuring     Bidder’s offered
+            Description of Goods        Quantity No                                                    Unit        Entity and     Delivery period
+                                                                        applicable
+                                            INCOTERM
+
+                                                                                           {to be provided
+                                                                                by the Bidder}
+    HUAWEI OPTICAL
+1   NETWORK TERMINAL       1       Each
+     (ONT) MODEM
+     FIBRE HOME OPTICAL
+2   NETWORK UNIT (ONU)      1       Each
+   MODEM
+
+The delivery period required shall be measured from the date of the signing of the order between the
+Procuring Entity and the Bidder.
+
+The Project Site for delivery of the goods is TelOne, Epton Store, Harare.
+
+
+
+
+
+                                 Page 12 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+                         ANNEX C
+
+
+              PART 2: STATEMENT OF REQUIREMENTS
+
+ Name of Bidder:
+
+ Bidder’s Reference Number:
+
+                             List of Items and Price Schedule
+
+                                                              Currency of Bid: US$
+
+                          COST PRICE  COMMISSION  RETAIL PRICE
+                                  TO TELONE (%)
+ITEM  DESCRIPTION OF           (SUPPLIER’S                    (COST PRICE +                   QTY NO      GOODS                  PRICE                    COMMISSION TO
+                                EXCLUDING                      TELONE)
+                                COMMISSION)
+
+
+                                             [to be provided by [to be provided by  [to be provided by
+                                         the Bidder]        the Bidder]        the Bidder]
+       For the supply and
+         delivery of:
+      HUAWEI OPTICAL    1
+      NETWORK
+1      TERMINAL (ONT)
+     MODEM
+       FIBRE HOME         1
+2      OPTICAL NETWORK
+       UNIT (ONU) MODEM
+      VAT
+        Total
+ NB: TelOne reserves the right to alter quantities
+
+
+    1.  THE BIDDER MUST QUOTE COST PRICE, RETAIL PRICE AND MUST INDICATE COMMISSION
+      PAYABLE TO TELONE. THE COMMISSION MUST BE STATED AS A PERCENTAGE
+    2.  PLEASE STATE IF THE PRICE INCLUDES OR EXCLUDES VAT.
+      UNLESS OTHERWISE STATED PRICES WILL BE TAKEN TO INCLUDE VAT
+    3.  BIDDERS SHOULD STATE PAYMENT TERMS
+
+
+
+
+
+                                 Page 13 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+
+
+                   Annex D
+      Technical Specification and Compliance Sheet
+
+ Name of Bidder:
+
+ Bidder’s Reference Number: CBTD 28-25
+
+The bidder must comply with following Technical Specifications and Standards:
+
+ ITEM     DESCRIPTION                                       QUANTITY
+
+ 1     HUAWEI OPTICAL NETWORK TERMINAL (ONT) MODEM     1
+
+ 2      FIBRE HOME OPTICAL NETWORK UNIT (ONU) MODEM       1
+
+
+    1. SPECIFICATIONS FOR HUAWEI OPTICAL NETWORK TERMINAL (ONT)
+    MODEM
+
+
+Specification              Value
+
+Dimensions (H x W x D)    32 mm x 200 mm x 127 mm
+
+Weight                < 1500 g
+Operating Temperature     0°C to 40°C
+
+Operating Humidity      5% RH to 95% RH (non-condensing)
+Power Input              100–240 V AC, 50/60 Hz
+System Power Supply      11–14 V DC, 1.5 A
+
+Indicator Light          Power/PON/LOS/LAN/TEL/USB/WLAN/WPS
+
+Static Power Consumption   7.5 W
+
+Maximum Power          18 W
+Consumption
+Home Network                • Visualized home network management
+                                  • User-defined bandwidth allocation
+                                  • Band steering
+                                  • MU MIMO
+                                  • Beamforming
+Smart Service                  • Scheduled Wi-Fi shutdown
+                                  • Smart Wi-Fi sharing: Portal/802.1x authentication SoftGRE-
+                          based sharing
+                                  • Association of one account with two POTS ports
+
+
+
+                                 Page 14 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+Smart O&M                    • IPTV video quality diagnosis
+                                  • eMDI
+                                  • Rogue ONT detection and isolation from the OLT
+                                  • Call emulation, and circuit test and loop-line test
+                                  • PPPoE/DHCP simulation testing
+                                  • WLAN emulation
+Layer3 Features                • PPPoE/Static IP/DHCP
+                                  • NAT/NAPT
+                                  • Port forwarding
+                                  • ALG, UPnP
+                                  • DDNS/DNS server/DNS client
+                                  • IPv6/IPv4 dual stack, and DS-Lite
+Multicast                       • IGMP v2/v3 proxy/snooping
+                                  • MLD v1/v2 snooping
+Security                         • SPI firewall
+                                  • Filtering based on MAC/IP/URL addresses
+Power Saving                  • Indicator power saving
+                                  • COC V7
+Antenna Gain             5 dBi
+Smart Wi-Fi Coverage        • Configuration-free and PnP for Wi-Fi auxiliary devices (AP)
+                                  • Wi-Fi optimization & Wi-Fi roaming
+GPON Port                     • Class B+
+                                  • Receiver sensitivity: -27 dBm
+                                  • Overload optical power: -8 dBm
+                                  • Wavelengths: US 1310 nm, DS 1490 nm
+                                  • Wavelength blocking filter (WBF) of G.984.5
+                                  • Flexible mapping between GEM Port and TCONT
+WLAN                          • IEEE 802.11 b/g/n (2.4G)
+                                  • IEEE 802.11 a/n/ac (5G)
+                                  • 2 × 2 MIMO (2.4G)
+                                  • 4 × 4 MIMO (5G)
+                                  • Antenna gain: 5 dBi
+                                  • WMM/Multiple SSIDs/WPS
+NNI               GPON
+UNI                 2POTS + 4GE + 2.4G/5G Wi-Fi + 1USB
+Optical Connector        SC/APC
+
+
+
+
+
+                                 Page 15 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+    2. SPECIFICATIONS FOR FIBERHOME OPTICAL NETWORK UNIT (ONU) MODEM
+
+
+
+
+
+                                 Page 16 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+Bidders are required to include technical literature to positively support the details
+provided.
+
+
+
+
+
+Declaration by the Accounting Officer
+I  declare  that  the  procurement  is  based on  fair  technical  requirements and  bidder
+qualifications.
+
+
+pp
+
+
+
+
+
+                                 Page 17 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+
+                       Annex E
+               Bid-Securing Declaration
+{The Bidder must fill in this Form in accordance with the instructions indicated, where it has
+been stated in the Bidding Procedures that a Bid-Securing Declaration is a requirement of
+bidding}.
+
+ Procurement Reference number: CBTD 28-25
+
+ Date:                              …………………..………….[date (in day, month and
+                                                    year format)]
+
+ Bidder’s Reference Number:
+
+To: {full name of Procuring Entity}
+
+We, the undersigned, declare that:
+
+We understand that, according to the terms and conditions of your bidding documents, bids must be
+supported by a Bid-Securing Declaration.
+
+We accept that we may be debarred from bidding for any framework agreement with a Procuring
+Entity in Zimbabwe for a period of time to be determined by the Authority, if we are in breach of our
+obligation(s) under the bidding conditions, because:
+
+   (a) we have withdrawn our Bid during the period of Bid validity; or
+
+   (b)  having been notified of the acceptance of our Bid by the Procuring Entity during the period of
+        bid validity, we fail or refuse to execute the framework agreement.
+
+We understand this Bid Securing Declaration will expire if we are not the successful Bidder, either
+when we receive your notification to us of the name of the successful Bidder, or twenty-eight days
+after the expiration of our Bid, whichever is the earlier.
+
+
+Signed     ……………………………..        Name: ………………………………
+In capacity of:  ……………………………..          Date:  …………………….(DD/MM/YY)
+
+Duly authorised for and on behalf of:
+Company  ……………………………………………………………………………………
+Address:   ……………………………………………………………………………………
+
+       …………………………………………………………………………………….
+
+Corporate Seal (where appropriate)
+
+{Note: In case of a Joint Venture, the Bid Securing Declaration must be in the name of all the
+partners to the Joint Venture that submits the Bid.
+
+
+
+                                 Page 18 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+                               PART 3 CONTRACT
+
+                       Annex F
+
+                          Contract Agreement
+
+Procurement Reference:
+THIS CONTRACT AGREEMENT is made the…………… day of ………….year…………..
+
+BETWEEN
+
+   (1)   TelOne (Pvt) Ltd, a corporation incorporated under the laws of Zimbabwe
+       and having its principal place of business at 107 Kwame Nkrumah Avenue,
+        Harare (hereinafter called “the Procuring Entity”), and
+
+   (2    …, a corporation incorporated under the laws of ……………… and having
+              its principal place of business at ………………….(hereinafter called “the
+         Contractor”).
+
+WHEREAS the Procuring Entity invited Bid for service maintenance contract and has
+accepted a Bid by the Contractor for the supply of those Goods and Services in the
+sum of ………………….. (hereinafter called “the Contract Price”).
+
+NOW THIS AGREEMENT WITNESSETH AS FOLLOWS:
+
+1.    In this Agreement words and expressions shall have the same meanings as are
+     assigned to them in the General and Special Conditions of Contract referred to
+    below.
+
+2.   The following documents shall constitute the Contract between the Procuring
+      Entity and the Contractor, and each shall be read and construed as an integral
+     part of the Contract:
+
+     (a) This Contract Agreement;
+     (b) Special Conditions of Contract;
+     (c) General Conditions of Contract;
+     (d) Technical  Requirements  (including  Schedule  of  Requirements  and
+         Technical Specifications);
+     (e) The Contractor’s Bid, original Price Schedules and Delivery Schedule;
+       (f)  The Procuring Entity’s Notification of Contract Award;
+
+
+3.    This Contract Agreement shall prevail over all other Contract Documents.  In
+     the event of any discrepancy or inconsistency within the Contract Documents,
+    then the documents shall prevail in the order listed above.
+
+
+
+                                 Page 19 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+4.    In consideration of the payments to be made by the Procuring Entity to the
+     Contractor as mentioned below, the Contractor hereby agrees with the
+     Procuring Entity to provide the Goods and Services and to remedy any defects
+      in them in conformity with the Contract.
+
+5.   The Procuring Entity hereby agrees to pay the Contractor in consideration of
+     the provision of the Goods and Services and the remedying of any defects in
+    them, the Contract Price or such other sum as may become payable under the
+    Contract at the times and in the manner prescribed by the Contract.
+
+IN WITNESS whereof the parties hereto have caused this Agreement to be executed
+in accordance with the laws of Zimbabwe on the day, month and year indicated
+above.
+
+For and on behalf of the Procuring Entity
+
+Signed:        ………………………………………..
+
+Name:
+
+In the capacity of:                                   [Title or other appropriate designation]
+
+
+
+For and on behalf of the Contractor
+
+Signed:        ………………………………………..
+
+Name:
+
+In the capacity of:                                   [Title or other appropriate designation]
+
+
+
+
+
+                                 Page 20 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+                           Annex G
+
+               General Conditions of Contract
+
+Any resulting contract is subject to the Zimbabwe General Conditions of Contract
+(GCC) for the Procurement of Goods (copy available on request) except where
+modified by the Special Conditions below.
+
+                         Special Conditions of Contract
+
+Procurement Reference Number:  CBTD 28-25
+
+The clause numbers given in the first column correspond with the relevant clause
+number of the General Conditions of Contract.
+
+  GCC                              Special Conditions
+ reference
+
+GCC 7.5       Eligible Countries: Goods from all countries are eligible.
+
+GCC 8.1      Notices: Any notice shall be sent to the following addresses:
+
+              For the Procuring Entity, the address shall be as given in the Contract
+           document and the contact  shall be Desire Tavarwisa at TelOne
+            Runhare House, 107 Kwame Nkrumah Harare, 8th Floor.
+
+              For the Contractor, the address shall be as given in the Bid and the
+            contact shall be
+
+               {state name of contact}
+
+GCC 19.1    Liquidated Damages: Liquidated Damages in terms of section 88 of
+             the Act shall apply. In the case of delays in the delivery of goods, the
+             Contractor will be liable to pay damages of 0.5% of contract price per
+          week of delay up to a maximum of 10% of contract value. If 10% is
+            exceeded, the contract may be cancelled
+             NB. The contractor will not be charged liquidated damages when the
+            delay in delivery or performance  is beyond the contractor's control
+          and  is not caused by  fault  or negligence on the part  of the
+              contractor.
+GCC 21.2             Packing, Marking and Documentation: The goods  shall meet the
+              following special packing requirements. Items should be wrapped to
+             secure against damages either in cardboard boxes or any reasonable
+           package
+
+GCC 22.1    Insurance: The Goods  shall be  fully  insured  until  full  delivery   is
+            accepted.
+
+
+                                 Page 21 of 22
+
+     BIDDING DOCUMENT FOR THE SUPPLY AND DELIVERY OF GPON
+ FIBERHOME (ONU) AND HUAWEI (ONT) MODEMS UNDER CONSIGNMENT
+                    ARRANGEMENT
+PROCUREMENT REFERENCE NO: CBTD 28-25
+
+PART 1     BIDDING PROCEDURES
+
+  GCC                              Special Conditions
+ reference
+
+GCC 23.1 &   Inspections and tests: The Purchaser shall have the right at any time to
+23.2          inspect work being undertaken in terms of this contract and to reject
+            such work if it is found to be defective or inferior in quality or in non-
+            compliance to the specifications of the Contract. Should any work be
+             so rejected, then the contractor, shall replace or make good to the
+               satisfaction of the Purchaser, at his own expense, without alteration to
+           any of the Contractor’s liabilities and obligations under the contract.
+
+              Before proceeding to execute any work, the contractor shall,  if so
+             requested, obtain the Purchaser’s approval of the manner in which
+             the Contractor proposes to carry out any part of the work and shall
+                furnish any drawing or information the purchaser shall require.
+
+             The Contractor shall afford the Purchaser all reasonable facilities as
+          may be required to carry out inspections. Any work rejected by the
+             Purchaser shall be marked or segregated in a manner satisfactory to
+             the Purchaser to ensure its identification as rejected work.
+
+GCC 24.1    Performance security: The Contractor shall provide a performance
+               security of 10% of the Contract Price. The performance security shall
+          be denominated in the currency of the Contract and issued by a
+            Bank located in Zimbabwe or a foreign Bank through correspondence
+              with a Bank located in Zimbabwe or from another financial institution
+            acceptable to the Procuring Entity. The format shall be based on the
+            template following the Special Conditions of Contract in this Part.
+
+GCC 24.4    Reduction of performance security: Performance security will not be
+           deducted until full delivery.
+
+GCC 25.1    Warranty: The period of the warranty shall be 12 months.
+
+GCC 25.6     Failure to remedy a defect: The period allowed to the Contractor to
+           remedy a defect during the period of the Warranty shall be 1 month
+
+GCC 29.1     Price adjustments: Any price adjustments will be upon agreement by
+            both parties.
+
+GCC 30.1    Terms of Payment: The structure of payments shall be: 30 days after
+               delivery.
+
+GCC 31.1    Contract Administration Fee: The Contract Administration Fee set out
+                 in Part V of the Fifth Schedule of the Regulations  is due upon the
+              signing of the Contract and the applicable Fee.
+
+
+
+
+                                 Page 22 of 22

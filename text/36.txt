@@ -1,0 +1,254 @@
+Tender Title: Supply and Installation of WACREN NOC Equipment
+Tender Reference Number: WACREN-NOC-2024
+Issue Date: 25 July 2024
+Submission Deadline: 30th August 2024
+
+1. Invitation for Bids
+
+WACREN invites sealed bids from eligible and qualified suppliers for the supply and installation
+of the specified NOC equipment. The equipment is categorized into Network Devices, Servers,
+Laptops and Desktops, Monitors, Power Supplies, Furniture, Security Systems, and Video
+Conferencing Tools.
+2. Scope of Work
+
+The supplier shall provide, install, and configure the following equipment:
+
+LOT 1 - Network Devices
+
+ Router (2)
+
+- 2 x 100GE, 12 x 25/10/1GE
+
+
+- 5 x 1GE LAN Ports
+- Minimum 4GB RAM
+- Load Balancing
+- Dual Core CPU
+- 8GB Flash Memory
+- Operational capabilities: BGP, OSPF, VLANs, SNMP, IPsec VPN Tunnelling, Telnet, SSH
+- EVPN, MPLS, Dual stack routing, Multicast, LDP, RSVP
+
+- SFP 8 X 1GE/10GE/100GE
+
+
+ Firewall (1)
+
+- 2 x USB Ports
+- 1 x Console Port
+- 2 x GE RJ45 MGMT/HA Ports
+- 16 x GE RJ45 Slots
+- 8 x GE SFP Slots
+- 4 x 10GE/GE SFP+/SFP Slots
+
+- 4 x 25GE/10GE SFP28/SFP+ Ultra Low Latency Slots
+- IPv4 Firewall Throughput: 139 / 137.5 / 70 Gbps (1518 / 512 / 64 byte, UDP)
+- IPv6 Firewall Throughput: 139 / 137.5 / 70 Gbps (1518 / 512 / 64 byte, UDP)
+- Firewall Latency: 4.12 μs / 2.5 μs
+- Firewall Throughput (Packets per Second): 105 Mpps
+- Concurrent Sessions (TCP): 8 Million
+- New Sessions/Second (TCP): 550,000
+- Firewall Policies: 30,000
+- IPsec VPN Throughput: 155 Gbps
+- Gateway-to-Gateway IPsec VPN Tunnels: 2000
+- Client-to-Gateway IPsec VPN Tunnels: 50,000
+- SSL-VPN Throughput: 64.3 Gbps
+- Concurrent SSL-VPN Users: 10,000
+- SSL Inspection Throughput: 39 Gbps
+- SSL Inspection CPS: 7500
+- SSL Inspection Concurrent Sessions: 840,000
+
+
+Switch (1)
+
+- 24-port 10/100/1000BaseT
+- 4 x 1/10G SFP/SFP+
+- VLAN aware
+- SNMP
+- SSH
+- Telnet
+
+LOT 2 - Servers
+
+ Server (1)
+
+- Server class board with dual socket
+- Support for 1600 MHz ECC RAM, minimum 4 slots
+- PCIe-3 bus with at least one 8 lanes port
+- 2 CPUs at minimum 2.5 GHz (4 cores)
+- 2 x 8 GB or 4 x 4 GB 1600 MHz ECC RAM
+- 2 x 1 TB SATA-3 7200 RPM hot swap HD
+- On-board 10GE LAN
+- Redundant power supply
+
+LOT 3 - Laptops and Desktops
+
+Laptops (2)
+
+- CPU at minimum 2.5 GHz (Intel Core i5)
+- 1 x 8 GB or 2 x 4 GB 1600 MHz DDR3 RAM
+- 500 GB SATA HD
+- USB 3.0 Port
+- HDMI Port
+
+Desktops (2)
+
+- CPU at minimum 2.5 GHz (Intel Core i5)
+- 1 x 8 GB or 2 x 4 GB 1600 MHz DDR3 RAM
+- 500 GB SATA HD
+- USB 3.0 Port
+- 1 or 2 HDMI Port
+
+
+Desk Monitors (2)
+
+- 60.45 cm (23.8")
+- FHD (1920 x 1080)
+- On-screen controls
+- AMD FreeSync™
+- Low blue light mode
+- Anti-glare
+- Response time: 5ms GtG (with overdrive)
+
+
+Monitors (4)
+
+- LCD technology: PA-VA
+- Screen haze: 44%
+- Resolution: Full HD (1920 x 1080)
+- Backlight: Direct LED
+- Aspect ratio: 16:9
+- Size: 1213.5 x 683 x 94.9 mm
+- Active screen diagonal: 55"
+- DisplayPort: 2 DP1.2 inputs
+- HDMI: 2 HDMI 1.4 inputs, 1 HDMI 1.4 output
+- USB: 2 (for power only)
+- Ethernet port: 2
+- HDCP
+
+LOT 4 - Power
+
+UPS (4)
+
+- Power Supply: 5KVA
+- 5000VA/4000W
+- Phase: Single Phase
+- UPS Type: Line Interactive
+- Weight: 48kg
+- Size: 540 x 270 x 590 mm
+- Input Voltage Range: 160-275V AC
+- Nominal Input Voltage: 220V/230V/240V/110V/120V AC
+- Input Frequency: 45-65Hz
+
+- Nominal Output Voltage: 220V/230V/240V/110V/120V AC
+- Output Voltage Range (Normal Mode): 220V/230V/240V/110V/120V AC ±10%
+- Output Voltage Range (Battery Mode): 220V/230V/240V/110V/120V AC ±10% (Modified Sine
+Wave)
+
+
+
+Generator (1)
+
+- 33kVA Standby Power / 3-Phase
+- 30kVA Prime Power / 3-Phase
+- Cat C3.3 Inline 4-stroke diesel engine
+- Alternator: High-efficiency, 400V, 3-phase alternator
+- Fuel consumption, Prime Power
+- Optional: Bunded tanks, Coolant heater, Battery charger
+
+LOT 5 - Furniture
+
+Ergonomic Desks (4)
+- Ergonomic design suitable for NOC operations
+- Adjustable ergonomic chairs suitable for extended use
+
+LOT 6 - Security
+
+CCTV Cameras (8)
+
+- Full HD 2MP Dome Network Camera with Built-in Mic
+- 98ft Night Vision
+- IP67 & IK10 PoE Network Camera
+- Varifocal 2.8-12mm Lens
+
+
+CCTV Camera Hub (1)
+
+- 8 Gigabit RJ45 Ports
+- 1 x SFP, 1 x SFP+ Port
+- 10 WAN Ports
+- Highly Secure VPN, Support IPsec/GRE/L2TP/PPTP VPN
+- 16 Channel PoE Kit
+- 98ft Night Vision
+- Pre-installed 4TB HDD
+- Without Network Cables
+
+
+Biometric Entry Access System (3)
+
+- Advanced biometric access control system to secure entry points
+
+LOT 7 - Video Conference
+
+Video Conference System (2)
+
+- Ultra HD 4K Video Conference Camera for Small & Midsize Rooms
+- AI Tracking & 121° Wide Angle
+- All-in-one USB/Audio Conference Camera and needed telephony
+- 55" High Resolution Display HDMI: 2 HDMI 1.4 inputs, 1 HDMI 1.4 output, Smart TV with
+wireless internet connection capability.
+
+3. Eligibility Criteria
+
+- Valid business registration and tax clearance certificates
+- Proven track record of supplying and installing similar equipment
+- Relevant certifications and partnerships with OEMs
+- Adequate financial capability
+- Compliance with local and international standards
+
+4. Evaluation Criteria
+
+- Compliance with technical specifications
+- Cost effectiveness
+- Supplier's experience and past performance
+- Delivery timeline
+- Warranty and support services
+
+ 5. Bid Submission
+
+Bidders must submit their bids in sealed envelopes clearly marked with the tender reference
+number in person or via courier to:
+
+WACREN
+VCG Office Complex
+IPS Road
+Accra – Ghana
+Tel.: +233 302942873
+
+
+The bid must include:
+
+- Technical proposal
+- Financial proposal
+- Company profile and relevant certifications
+- Delivery timeline
+- Warranty details
+
+6. Contact Information
+
+For any inquiries or further details, please contact: Procurement@wacren.net, copying
+NOC@wacren.net.
+
+
+7. Terms and Conditions
+
+Delivery location is Accra, Ghana.
+
+Installation cost should be explicitly mentioned if applicable.
+
+Total cost should include all applicable taxes.
+
+WACREN reserves the right to accept or reject any bid and to annul the bidding process at any
+time, without incurring any liability to the affected bidder(s).
+
+Please ensure all submissions meet the specified criteria and are delivered by the submission
+deadline. We look forward to receiving your bid and thank you.

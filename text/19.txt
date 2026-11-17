@@ -1,0 +1,1110 @@
+    डॉ. श्यामाप्रसाद मुखर्जी अंतरराष्ट्रीय सूचना प्रौद्योगिकी संस्थान - नया रायपुर
+                    Dr. Shyama Prasad Mukherjee
+   International Institute of Information Technology - Naya Raipur
+
+
+
+
+        OPEN TENDER ENQUIRY
+
+Supply installation and upgradation with buyback of Firewall (UTM)
+                         at IIIT-Naya Raipur
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+                                Dr. Shyama Prasad Mukherjee
+             International Institute of Information Technology, Naya Raipur (IIIT-NR)
+          Sector- 24, Near Purkhoti Muktangan, Nava Raipur, Atal Nagar - 493661 (CG)
+                                 Website: www.iiitnr.ac.in
+-------------------------------------------------------------------------------------------------------------------------
+
+             NOTICE INVITING TENDER
+
+
+Dr. Shyama Prasad Mukherjee International Institute of Information Technology, Naya Raipur
+(IIIT-NR) invites tender from eligible and experienced firms under two bid system for Supply
+installation and upgradation with buyback of Firewall (UTM) at IIIT-Naya Raipur at its campus at
+Sector-24, Nava Raipur, Atal Nagar, Raipur (CG). The schedule and other details of the Tender are
+as under:
+
+                   Supply installation and upgradation with buyback of Firewall (UTM)
+Tender Name
+                       at IIIT-Naya Raipur.
+
+Tender Enquiry No.   IIITNR/IT/HA firewall/2020 /52 dated 08-July-2024
+
+Bidding System     Two Bids i.e. Techno-commercial (Part-1) and Price/Financial Bid (Part-2)
+
+Estimated Cost (INR)  Rs 60,000,00/- (excluding GST)
+
+Tender Fee           Rs. 1180/- in the form of a Demand Draft (non-refundable).
+
+                      Rs. 70,800/-  in  the form of a Demand  Draft. Bidders claiming  for
+Bid Security / EMD                    exemption from EMD must produce relevant certificate in this regard.
+
+Performance Bank   For successful Bidder, performance security @3% of the ‘Purchase Order’
+Guarantee (PBG)     value or Contract value in the form of a Fixed Deposit, Bank Guarantee.
+
+Bid Document        Tender documents shall be available for downloading from the website of
+download start date    IIIT-Naya Raipur (https://www.iiitnr.ac.in/tenders) from 08-July-2024  .
+
+Last date and time for
+                   12/AUG/2024 by 15:00 Hrs
+receipt of Bids
+
+Date of Opening of
+                   12/AUG/2024 at 15:30 HrsTechnical Bids
+
+Date of Opening of
+                     Will be intimated later to technically successful /qualified bidders only.
+Financial Bid
+
+Address for delivery   IIIT-Naya Raipur, Sector 24, Near Purkhoti Muktangan,
+of Goods / Service    Nava Raipur, Atal Nagar, Raipur – 493661 (Chhattisgarh)
+
+Contact Person for
+                      Sh. Abir Bhattacharya (Ph. No. 0771-2474101)
+Tech./Specs. Queries
+
+Contact Person for     Purchase Officer, IIIT-Naya Raipur, Nava Raipur, Atal Nagar (CG).
+Tender Queries        Email: purchase@iiitnr.edu.in   | Ph. No. 0771-2474105
+
+Last date for seeking
+                   05/AUG/2024 (should be in writing / email to : purchase@iiitnr.edu.in).
+clarification, if any
+
+
+Important Instructions:
+
+1.    All further notices, corrigendum, amendment  etc. related to  this tender shall only be
+      published on the website of IIIT-Naya Raipur (https://www.iiitnr.ac.in/tenders). Therefore,
+      prospective bidders are advised to regularly visit the website of the Institute for updates.
+
+2.    This OPEN TENDER is being issued with no financial commitment and the buyer (IIIT-NR)
+      reserves the right to change or vary any part of tender at any stage. Buyer also reserves the
+                                                                                   Page 2 of 21
+
+      right to withdraw the OPEN TENDER, should it become necessary at any stage.
+3.   Tender document shall not be sold by the Institute. Prospective bidders are required to
+     download the tender document from the institute website (https://www.iiitnr.ac.in/tenders).
+
+4.   Each bidder shall submit only one bid. A bidder who submits more than one bid will be
+      disqualified from the tendering / bidding process.
+
+5.   The various  details of  tender process  i.e.  getting  the tender documents, process  for
+     submission of tender/bids, eligibility criteria, standard conditions, special conditions, and
+      evaluation  criteria of the tender are given in the succeeding pages in different parts.
+     Accordingly, this tender is divided into the following five Parts for detailed information : -
+
+ S. No.   Part      Description
+
+   (a)    Part - 1  Contains general information, instructions and eligibility criteria for bidders
+   (b)    Part - 2  Contains essential details of goods /services, schedule of requirements etc.
+
+   (c)    Part - 3  Contains standard conditions to be part of the contract with successful Bidder
+
+   (d)    Part - 4  Contains special conditions to be part of the contract with successful Bidder
+   (e)    Part - 5  Contains evaluation criteria and format for Price Bid
+
+
+6.    Subject to meeting quality and technical criteria, if any bidder, on the basis of any rules/
+      guidelines of Government, wishes to claim exemption/relaxation in eligibility requirements
+      like ‘prior experience’, annual turnover’, EMD exemption etc., then he/she should submit
+      his/her claim for the same along with the technical bid with relevant supporting document.
+     The applicability of exemptions/ relaxation and/or validity of documents submitted by the
+      bidder will be examined and decision of IIIT-NR, in this regard, shall be final and binding.
+
+7.   The tenders/ bids prepared in  all respect as per the process mentioned in this tender
+     documents are to be submitted to the following address by speed posts / registered post /
+      courier or by hand (at the reception of IIIT-NR) so as to reach on or before the prescribed
+       last date and time of receipt of tenders/bids i.e. by 12/AUG/2024 15:00 Hrs. The Institute shall
+      not be responsible for any postal delay.
+
+                    Purchase Officer
+                     Dr. SPM IIIT-Naya Raipur
+                     Sector 24, Near Purkhoti Muktangan
+                 Nava Raipur, Atal Nagar, Raipur - 493661 (CG)
+
+8.    Prospective bidders may come for site visit on any working day (Monday to Friday) between
+     10:30 AM to 5:00 PM at their own expense and arrangement.
+
+9.    In case of any ambiguity/ dispute in the interpretation of any of the clauses in this Tender
+     Document, the interpretation of the clauses by the Institute (IIIT-NR) shall be final and
+     binding on all parties.
+
+10.  Any disputes / legal matters, arising out of this tender enquiry shall be subject to Raipur
+      jurisdiction only.
+
+Enclosures : As above.
+                                                                              Sd/-
+                                                                    Purchase Officer
+                                                                    IIIT-Naya Raipur
+                                                                                   Page 3 of 21
+
+                 Part - 1 : General Information for Bidders
+
+
+1.   Last Date and Time for Submitting Bid :  12/AUG/2024 by 15:00 Hrs.
+
+2.    Tender document shall not be sold by the Institute. Prospective bidders are required to
+download the tender document from the institute website (https://www.iiitnr.ac.in/tenders).
+
+3.   Tender Processing Fee: Bidders are required to submit the prescribed non-refundable
+tender processing fee of Rs. 1180/- (Rupees One thousand one hundred eighty only) in the form of
+Demand Draft drawn in favour of ‘Director, IIIT Naya Raipur’ payable at Raipur (CG). No
+Exception is provided.
+
+4.   Earnest Money Deposit: Bidders are required to submit Earnest Money Deposit (EMD) /
+Bid Security for the prescribed amount. The EMD should be submitted through Demand Draft
+drawn in favour of ‘Director, IIIT Naya Raipur’, payable at Raipur (CG). EMD is to remain
+valid for a period of 120 days from the date of opening of bid. EMD of the unsuccessful bidders
+will be returned to them at the earliest. The Bid Security of the successful bidder would also be
+returned, without any interest whatsoever, after the receipt of Performance Security from them as
+called for in the contract. The EMD will be forfeited if the bidder withdraws or amends or impairs
+or derogates from the tender in any respect within the validity period of their tender.
+
+5.    Clarification Regarding Contents of the Open Tender : If a prospective bidder requires
+any clarification regarding the contents of the bidding documents he may clarify the same from the
+Buyer in writing / by email (purchase@iiitnr.edu.in) not later than the 05/AUG/2024  . If any change
+in the prescribed condition becomes necessary, the same shall be notified on the website of IIIT-
+NR in the form of Corrigendum. No separate newspaper publication shall be made. Bidders are
+advised to regularly visit the website of IIIT-Naya Raipur (www.iiitnr.ac.in) for updates.
+
+6.   Procedure for Submitting Bids :
+
+      (a)  The bid should be in two parts in the format given in this document namely- Technical
+          Bid as per format given in Annexure-C and Price Bid as per format in Annexure-D.
+
+      (b)   Bidders must ensure that all documents of Technical Bid and also Financial Bid are
+           signed on each page before sealing it in the envelope.
+
+      (c)   Prices must NOT be implicitly or explicitly indicated in the technical bid/details.
+
+      (d)   Price Bid should be kept in a separate envelope and it should be sealed. On top of this
+           envelope, ‘Price Bid’ must be written.
+
+      (e)   Both Technical Details (bid) and Price Bid (in sealed envelope) should be put in one
+           envelope. On top of this envelope “Supply installation and upgradation with buyback of
+            Firewall (UTM) at IIIT-Naya Raipur” should be written.
+
+       (f)   The envelope containing Technical Bid and Price Bid should be submitted by post /
+            courier or by-hand (at the reception) at IIIT-Naya Raipur on or before the last date and
+           time for receipt of Bid. Late bids will be summarily rejected.
+
+7.    Various format for use by bidders i.e. Bid Proposal Sheet, proforma for non-blacklisting
+
+                                                                                   Page 4 of 21
+
+Affidavit, format for Technical Bid and Price Bid etc. are given in this tender document as
+Annexure A, B, C, and D.
+
+8.    Validity of Bids: The Bids should remain valid till 120 days from the date of opening of the
+commercial bid as the supply will be required on yearly basis.
+9.   Opening of Bids:  Bids shall be opened at IIIT-Naya Raipur on the prescribed date and
+time. The bidders may depute their representatives, duly authorized in writing, to attend the
+opening of bids (both Technical and financial) on the due date and time. Technical bids will be
+opened first. Financial Bids of only technically qualified/ successful bidders will be opened on a
+later date. It may be noted that the bid opening date and time will not be postponed due to non-
+presence of representatives of bidders. However, if due to any exigency, the date for opening of
+bid is declared a closed holiday, the bid will be opened on the next working day at the same time
+or on any other day/time, as intimated by the buyer through institute website.
+
+10.  Rejection of Bids: Canvassing by bidder in any form, unsolicited letter and post-tender
+correction may invoke summary rejection with forfeiture of EMD. Further, bids will be rejected
+on one or more of the following grounds for which bidder shall be solely responsible: -
+
+      (a)   Bid without prescribed tender processing fee
+      (b)  Bid without prescribed bid security / EMD (unless exempted)
+      (c)   Bid is not in the prescribed format (given in this tender document)
+      (d)   Unresponsive, Conditional and Ambiguous Bid
+      (e)  Any other valid reason / ground detected during the evaluation process.
+
+11.  Performance Bank Guarantee (PBG):  The successful bidder  will have  to submit
+performance security @3% of the ‘Purchase Order’ value or Contract value in the form of a Fixed
+Deposit, Bank Guarantee from a scheduled commercial bank. The performance security will be
+required to be submitted along with acceptance of Letter of Intent (LoI) / Letter of Award (LoA)
+of contract. The successful bidder, on award of contract/ order, must send the contract/ order
+acceptance in writing, within the specified date, failing which the EMD will be forfeited, and the
+order will be cancelled. Performance Security should remain valid for a period of sixty days
+beyond the date of completion of all contractual obligations including warranty obligations.
+
+12.  Return of EMD and Performance Security: On receipt of the Performance Security
+/Bank Guarantee and its confirmation from the issuing authority, Bid Security  / EMD of the
+successful bidder will be returned. The performance security will be returned on the successful
+completion of all contractual obligations including warranty obligations.
+
+13.  Corrupt or Fraudulent Practices and Violation of Contract:  It is expected that the
+bidders who are participating this bidding process have the highest standards of ethics. Without
+prejudice to the panel provision including blacklisting of bidder as per the Institute norms, IIIT-
+NR will reject bid if it determines that the bidder recommended for award has engaged in corrupt
+or fraudulent  practices while competing  for  this  contract. IIIT-NR may declare a vendor
+ineligible, either indefinitely or for a stated duration, to be awarded a contract if it at any time
+determines that the vendor has engaged in corrupt and fraudulent practices during the award /
+execution of contract. Panel provision including blacklisting of bidder as per the Institute norms
+may also be invoked in case of violation of contractual obligation on award of contract.
+
+14.   If the required goods/product is produced in the Chhattisgarh state MSEs, SC, ST or OBC
+with  requisite  registered production  capabilities and has  cost and  technical  specifications
+matching with the evaluated lowest responsive bidder (L1), preference will be given to such
+MSEs, SC, ST and OBC of Chhattisgarh State one after another.
+
+                                                                                   Page 5 of 21
+
+15.   If the prices offered by the evaluated lowest responsive bidder (L1) exceeds pre-bid cost
+estimates by a substantial margin, causes may be analysed, and re-bidding may be considered.
+
+16.   Eligibility Criteria: Eligibility criteria for bidders with respect to this open tender are as
+given below.
+                                  Eligibility Criteria
+
+    S.
+                   Minimum Eligibility Criteria                     Bidder’s Response
+  No.
+   1   The bidder should be an Indian registered company/ proprietary firm,
+         partnership firm, limited company, corporate body legally constituted
+        engaged in respective area of works.
+       Mention registration No. and date of registration.
+         [Registration Certificate to be enclosed]
+
+   2    Firm/bidders  blacklisted  at  any  stage  or by any  organization  i.e.
+         NITs/IITs/IIITs/ Central Universities/ Central/ State Govt. body/ PSUs
+           etc. need not apply. Regarding non-blacklisting, an affidavit to be
+        submitted as per Annexure-B.
+
+   3       * Minimum Average Annual Turnover of Rs. 60 Lakhs in any 3 of the last 6 financial years (FY).
+
+                                  Financial Year                        Amount in Lakhs
+
+                             Year 2018-19
+
+                             Year 2019-20
+
+                             Year 2020-21
+
+                             Year 2021-22
+
+                             Year 2022-23
+
+                             Year 2023-24
+
+        Enclose audited balance sheet/ CA certified supported by income tax return for the concerned FY.
+   4   * The bidder should have experience of similar work/supply with a
+         reputed organization, in the last 03 years. The nature of completed work
+        should be  in  various Government  organization,  Institutes/ Reputed
+          Institutes.
+
+       The documentary proof (Purchase Orders) in respect of works mentioned in
+         bid must be submitted along with the technical bid.]
+   5   The Bidder should upload / provide the following documents:
+          1. The similar works completed successfully and satisfactorily in the
+               last 3 years [Bidders must upload / submit documentary proof from
+            end-users (Work Experience Certificates, if not exempted)]
+
+          2.  List of Organizations / Customers dealt with
+          3.  Last three (03) year’s copies of Income Tax Return Form
+          4. PAN Details
+          5.  GST registration certificate from the state of Chhattisgarh. It
+            should be in a similar group of items.
+          6.  Technical Specification sheet related to the Goods / Service
+          7. OEM Authorization
+
+                                                                                   Page 6 of 21
+
+* Note:
+
+1.    Tenders / Bids not meeting the above-mentioned eligibility criteria will be rejected.
+
+2.    Exemption for 'prior experience', ‘annual turnover’ and ‘EMD’ for registered MSEs and Startups
+       will be as per the rules, subject to meeting of quality and technical specifications by the firm, on
+      submission of valid certificate from the concerned authority in this regard.
+
+
+
+
+
+                                                                                   Page 7 of 21
+
+                     Part - 2: Technical Specifications
+
+Technical specifications for Supply installation and upgradation with buyback of Firewall
+(UTM) at IIIT Naya Raipur
+
+
+
+Sr. No.                              Description of Specifications and Features
+        The proposed appliance should be a appliance based Firewall (FW) and must be supplied with
+         following ports from day 1.
+        6 x 1GE RJ45 ports
+        4 x 1G SFP Slots
+  1
+        4 x 10G SFP+ Slots
+        2 x 25G SFP28 or 2 x 40G QSFP+
+        1 x USB Port
+        1 x GE RJ45 MGMT Port
+        The firewall must have 4 x 1G SFP Transceivers, 4 x 10 GE SFP+ short-range transceivers, and 2 x 25G
+  2
+        SFP28 or 2 x 40G QSFP+ Transceivers right from the start.
+  3     Firewall Throughput - Minimum 80 Gbps or higher
+  4     Threat Protection Throughput - Minimum 9 Gbps or higher
+        Concurrent Sessions - Minimum 17000000 or higher OR SSL Inspection concurrent connections:
+  5
+       Minimum 360000 or higher
+  6    New sessions per second - 400000 or higher
+  7     Concurrent users -2500 or more
+  8     SSL Inspection concurrent connections: Minimum 500000 or higher
+         Authentication/ Authorization Support - Windows Active Directory (AD) and External RADIUS/LDAP
+  9
+         Integration
+  10     Firewall must have at least 480 GB of SSD Storage from day one with SW-RAID1
+  11    Appliance must have Inbuilt redundant power supply from day one.
+        The Proposed Model should be clearly mentioned and not be declared End of Sales / End of Support.
+        As proof of that OEM must provide document with a declaration that proposed device should be
+  12
+          available in support for a period of Seven (7) years from the date of registration of the hardware
+          units.
+       Must support Active - Passive & Active - Active deployment option with seamless failover between HA
+  13
+          pairs.
+        The proposed solution should utilize a state-full attack analysis to detect the entire infection lifecycle
+  14    and trace the stage-by-stage analysis of an advanced attack, from system exploitation to outbound
+        malware communication protocols leading to data exfiltration.
+         Solution should be an integrated Firewall (FW) platform which includes firewall, application control,
+          Intrusion Prevention System(IPS), Anti-Virus, Anti-Bot, Anti-Spyware, DoS/DDoS, URL Filtering and
+  15
+        Advanced Persistent threat Prevention with Cloud Sandbox functionality for security against zero-day
+         threats capabilities in a single appliance from day one.
+        Should have following functionality from day one: Layer 3 - Layer 4, NAT, VPN, Application Visibility
+  16    and Control (AVC), User Identity, Zero Day Protection, Advance Malware protection, Web Security
+          Essentials, Network DLP & Video Filtering features.
+      FW should have in-built DLP functionality without requiring any additional hardware or software
+  17
+          license
+      FW should allow administrator to prevent sensitive data from leaving the network. Administrator
+  18    should be able to define sensitive data patterns, and data matching these patterns that should be
+         blocked and/or logged when passing through the unit.
+      FW must detect, protect and log sensitive data travelling through protocols - HTTP, FTP, SMTP, IMAP,
+  19
+        POP3, NNTP, MAPI, CIFS, SFTP, SCP
+       DLP feature must offer watermarking functionality which allows organizers to apply document
+  20
+        marking for DLP.
+
+                                                                                   Page 8 of 21
+
+21    DLP actions should be Log only, block, quarantine user/IP/Interface
+          It should have DLP fingerprinting feature which generates a checksum fingerprint from intercepted
+22
+         files and compare it to those in the fingerprint database.
+       Appliance should have features for Web application protection to detect and block known web
+23
+       application attacks.
+      Should have ability to identify, decrypt and evaluate SSL traffic in an outbound connection (Forward-
+24
+       Proxy) and inbound connection.
+25    Support ability to decrypt & inspect TLS 1.3 traffic.
+      Should have ability to implement Zones. IP address Port numbers, User id, Application id and threat
+26
+       protection profile under the firewall rule.
+
+      Should have Support for Policy based on:
+          - Source or Destination Address
+          - Source or Destination Port
+27
+          - Application
+          - AD/LDAP User or User Group
+          - Services
+
+      Should have Support the ability to create QoS policy on a per rule basis:
+       -by source address
+       -by destination address
+28
+       -by application (such as Skype, Bittorrent, YouTube, azureus)
+       -by static or dynamic application groups (such as Instant Messaging or P2P groups)
+       -by port and services
+
+       Protect against never-before-seen phishing and JavaScript attacks inline. Solution should be capable
+29
+       to use both signature based and ML based signature less technology
+        Shall delineate different ports of the application such as allowing Facebook chat but the blocking its
+30
+        file-transfer capability inside the chat application based or the content.
+        Shall have on box Anti-Virus, Anti Spyware Signatures and minimum signatures update windows of
+31
+       multiple times a day
+      Must detect, protect and log sensitive data travelling through protocols ‐ HTTP, FTP, SMTP, IMAP,
+32
+      POP3, NNTP, MAPI, CIFS, SFTP, SCP
+33    Provide the protection from zero-day attacks, known & unknown attacks.
+34     Functionality to detect and block application running on non-standard port.
+35     Functionality of Geo Protection to block the traffic from specific country.
+    FW should have in‐built DLP functionality without requiring any additional hardware or software
+36
+       license
+       Solution should perform real-time web analysis or real web traffic instead of web crawler data,
+37
+       categorizing and blocking malicious URLs before they have a chance to infect the organization.
+38    The proposed firewall shall have custom URL categorization
+39    The proposed firewall shall customizable block pages
+      The proposed firewall shall have URL filtering policies by AD user, group, machines and IP
+40
+       address/range
+41     Solution should support video filtering features like filter YouTube channel
+      Proposed firewall should support for internet links load balancing and fail‐over based parameters
+42
+      such as Latency, Jitter, Packet‐Loss.
+43    Support for WAN Link-Load balancing and Fail-over with ISP links.
+44    The proposed firewall should support SD-Wan functionality for application aware traffic control.
+45     Integrated Traffic Shaping functionality for both inbound and outbound traffic.
+
+
+
+
+
+                                                                                 Page 9 of 21
+
+       Bidder must propose on premise dedicated logging & reporting solution from same OEM (Virtual
+       /Physical Appliance), The logging solution to be deployed at IIIT- Naya Raipur premise. In Case of
+        Virtual Appliance, bidder to consider Required computing / hardware resource for the VM with
+       having storage capacity to store the logs of minimum last 1‐year period.
+      Required Features:
+46
+        1. Should Deliver single-pane visibility, also have reporting facility to generate reports on virus
+       detected over different protocols, top sources for viruses, destination for viruses, top viruses etc.
+        2. Should have options to generate Predefined or customized Advance reports in different formats
+        3. The solution should have configurable options to schedule the report generation.
+        4. Bidder must include any additional license for analytics/event corelation if require.
+
+      3 Years or 24x7x365 days direct OEM support with NBD RMA,with all software updates and
+47
+       subscriptions support.
+      The successful vendor is required to supply, install, configure, fine tune and migrate existing firewall
+       configuration as per the requirement and satisfaction of the Institute. Setting up Active Directory
+48    Authentication and Quota per user / group is also the responsibility of the Vendor (SI). In this case,
+       Active Directory Server(s) and Database shall be provided by the Institute, but all settings and
+       configurations have to be ensured by the Vendor / OEM
+      The solution should be backed up with training by OEM /OEM-certified technical staff for
+49
+       configuration, monitoring, and troubleshooting. Along with certification.
+
+
+
+
+
+                                                                                Page 10 of 21
+
+             Part - 3: Standard Conditions for Tender Enquiry
+
+
+1.   The Firm is required to give confirmation of their acceptance of the Standard Conditions of the
+      contracts which will automatically be considered as part of the Contract concluded with the
+      successful Firm (i.e. Bidder in the Contract) as selected by the Client (IIIT-NR). Failure to do so may
+       result in rejection of the Bid submitted by the Firm. The standard conditions of the contract may be
+      perused in the office of tenderer prior to submission of quotation.
+
+2.   Law.  The Contract shall be considered and made in accordance with the laws of the Republic of
+       India. The Contract shall be governed by and interpreted in accordance with the laws of the Republic
+      of India.
+
+3.    Arbitration.  All disputes or differences arising out of or in connection with the tender shall be
+       settled by bilateral discussions. Any dispute, disagreement or question arising out of or relating to the
+      supply/installation/performance, which cannot be  settled amicably, may be  resolved through
+       arbitration. In case of arbitration with the firm and this unit on any issue the final decision would be of
+      the Director, IIIT-NR. The arbitration will be governed by following: -
+
+       (a)   All disputes or differences arising out of or in connection with the present contract including
+             the one connected with the validity of the present contract or any part thereof should be settled
+          by bilateral discussions.
+       (b)  Any dispute, disagreement of question arising out of or relating to this contract or relating to
+            construction or performance (except as to any matter the decision or determination whereof is
+            provided for by these conditions), which cannot be settled amicably, shall within sixty (60)
+           days or such longer period as may be mutually agreed upon, from the date on which either
+            party informs the other in writing by a notice that such dispute, disagreement or question
+              exists, will be referred to a sole Arbitrator.
+       (c)   Within sixty (60) days of the receipt of the said notice, an arbitrator shall be nominated in
+            writing by the authority agreed upon by the parties.
+       (d)   The sole Arbitrator shall have its seat in Raipur or such other place in India as may be mutually
+            agreed to between the parties.
+       (e)   The arbitration proceedings shall be conducted under the Indian Arbitration and Conciliation
+            Act, 1996, as amended from time to time, and the award of such Arbitration Tribunal shall be
+            enforceable in Indian Courts only.
+        (f)   Each party shall bear its own cost of preparing and presenting its case. The cost of arbitration
+            including the fees and expenses shall be shared equally by the parties, unless otherwise
+           awarded by the sole arbitrator.
+       (g)   The parties shall continue to perform their respective obligations under this contract during
+           pendency of arbitration proceedings except in so far as such obligations are the subject matter
+            of the said arbitration proceedings.
+
+      Note. In the event of the parties deciding to refer the dispute/s for adjudication to an Arbitral
+      Tribunal then one arbitrator each will be appointed by each party and the case will be referred to the
+      Indian Council of Arbitration (ICADR) for nomination of the third arbitrator. The fees of the
+       arbitrator appointed by the parties shall be borne by each party and the fees of the third arbitrator, if
+      appointed, shall be equally shared by the buyer and bidder.
+
+       (h)   The delivery of material/service is delayed due to causes of Force Majeure by more than
+            (02 months) provided Force Majeure clause is included in contract.
+        (i)   The customer has noticed that the FIRM has utilized the services of any Indian/Foreign agent
+             in getting this contract and paid any commission to such individual/company etc.
+        (j)   As per decision of the Arbitration Tribunal.
+
+4.    Penalty for use of undue influence. The Firm undertakes by bidding for the Tender Enquiry,
+       that he has not given, offered or promised to give, directly or indirectly, any gift, consideration,
+      reward, commission, fees, brokerage or inducement to any person in service  of the BUYER or
+      otherwise in procuring the Contracts or forbearing to do or for having done or for borne to do any
+
+                                                                                  Page 11 of 21
+
+       act in relation to the obtaining or execution of the present Contract or any other Contract with the
+     Government of India for showing or forbearing to show favour or disfavor to any person in relation
+       to the present Contract or any other Contract with the Government of India. Any breach of the
+      aforesaid undertaking by the Firm or any one employed by him or acting on his behalf (whether with
+      or without the knowledge of the Firm) or the commission of any offers by the Firm or anyone
+     employed by him or acting on his behalf, as defined in Chapter IX of the Indian Penal Code, 1860 or
+      the Prevention of Corruption Act, 1986 or any other Act enacted for the prevention of corruption shall
+       entitle the Client to cancel the contract and all or any other contracts with the Firm and recover from
+      the Firm the amount of any loss arising from such cancellation. A decision of the Client or his
+     nominee to the effect that a breach of the undertaking had been committed shall be final and binding
+     on the Firm. Giving or offering of any gift, bribe or inducement or any attempt at any such act on
+      behalf of the Firm towards any officer/employee of the Client or to any other person in a position to
+      influence any officer/employee of the Client for showing any favour in relation to this or any other
+       contract, shall render the Firm to such liability/ penalty as the Client may deem proper, including but
+      not OPEN to termination of the contract, imposition of penal damages, forfeiture of the Bank
+      Guarantee, and refund of the amounts paid by the Client. In case of violation of contract and/or code
+      of integrity, the firm may be blacklisted as per the IIIT-NR norms.
+
+5.   Agents/Agency Commission. The Client confirms and declares to the Firm that the Firm is the
+       original manufacturer/supplier  of the stores/provider of the services referred to in this Contract and
+      has not engaged any individual or firm, whether Indian or foreign whatsoever, to intercede, facilitate
+      or in any way  to recommend to  the Government  of  India or any of its functionaries, whether
+       officially or unofficially, to the Award of the contract to the Firm; nor has any amount been paid,
+      promised or intended to be paid to any such individual or firm in respect of any such intercession,
+       facilitation or recommendation. The Firm agrees that if it is established at any time to the satisfaction
+      of the Client that the present declaration is in any way incorrect or if at a later stage it is discovered by
+      the Client that the Firm has engaged any such individual/firm, and paid or intended to pay any
+      amount, gift, reward, fees, commission or consideration to such person, party, firm or institution,
+      whether before or after the signing of this contract, the Firm will be liable to refund that amount to
+      the Firm. The Firm will also be debarred from entering  into any supply Contract with the
+     Government of India for a minimum period of five years. The Client will also have a right to
+      consider  cancellation  of  the  Contract  either wholly  or  in  part,  without any  entitlement  or
+      compensation to the Firm who shall in such an event is liable to refund all payments made by the
+     Firm in terms of the Contract along with interest at the rate of 2% per annum above LIBOR rate. The
+      Client will also have the right to recover any such amount from any contracts concluded earlier with
+      the Government of India.
+
+6.    Access to Books of Accounts. In case it is found to the satisfaction of the IIIT-NR that the bidder
+      has engaged an agent or paid commission or influenced any person to obtain the contract as
+      described  in clauses  relating to agent’s/agency  commission  and  penalty  for  use  of  undue
+      influence, the Bidder, on a specific request of the IIIT-NR, shall provide necessary information/
+      inspection of the relevant financial documents/information.
+
+7.    Liquidated Damages (LD). In the event of the Firm’s failure to provide services and maintain the
+      agreed uptime etc. as specified in this contract, the Client may, at its discretion, withhold any
+     payment until the completion of the contract. The Client may also deduct from the Firm as agreed,
+    LD to the sum of 0.5% of the contract price for the late delivery/Installation/ commissioning of the
+      ordered items for every week of delay or part of a week, subject to the maximum value of the LD being
+      not higher than 10% of the value of payable amount as per the scheduled terms of payment.
+     However, IIIT-NR,  if satisfied, that the works can be completed by the bidder/firm within a
+      reasonable time after the specified time for completion, may allow further extension of time at its
+       discretion with or without levy of liquidated damages (LD).
+
+8.    Non-disclosure of Contract Documents.   Except with the written consent of one party, the
+      other party shall not disclose the contract or any provision, specification, plan, design, pattern,
+     sample or information thereof to any third party.
+
+9.    Notices. Any notice required or permitted by the contract shall be written in the English language
+     and may be delivered personally or may be sent by email or registered pre-paid mail/airmail,
+
+                                                                                  Page 12 of 21
+
+      addressed to the last known address of the party to whom it is sent.
+
+10.  Premature Termination of Contract. A  contract may be  terminated  in  the following
+      circumstances: -
+
+       (a)  When the FIRM fails to honour any part of the contract including failure to deliver the
+            contracted stores services in time and/or of requisite/tendered quality and/or quantity.
+       (b)  When the FIRM is found to have made any false or fraudulent declaration or statement to get
+             the contract, or he/she is found to be indulging in unethical or unfair trade practices.
+       (c)  When both parties mutually agree to terminate the contract.
+       (d)  When the item offered by the FIRM repeatedly fails in the inspection and/or the supplier is not
+             in a position to either rectify the defects or offer items conforming to the contracted quality
+             standards.
+       (e)   Any special circumstances / grounds, which must be recorded to justify the cancellation or
+            termination of the contract.
+        (f)   The delivery of the material is delayed for causes not attributable to Force Majeure for more
+            than (01 month) after the scheduled date of delivery.
+       (g)   The FIRM is declared bankrupt or becomes insolvent.
+
+11.   Transfer and Sub-letting:  The bidder has no right to give, bargain, sell, assign or sublet or
+      otherwise dispose of the contract or any part thereof, as well as to give or to let a third party take
+       benefit or advantage of the present contract or any part thereof without prior consent in written from
+      IIIT-Naya Raipur.
+
+       (a)   The FIRM may subcontract any part of Scope of Work on mutual agreement with the
+        CUSTOMER. The FIRM can under no circumstance sub-contract the complete Scope of
+         Work to a Third Party.
+       (b)   The FIRM would be entirely responsible for quality / standard and timely execution of the sub-
+            contracted work. The FIRM is to draw up a suitable Quality Assurance (QA) Plan with the Sub-
+        FIRM and a copy of the same along with Record of Inspection in accordance with such QA
+            Plan shall be submitted to the CUSTOMER.
+       (c)   The supervision of work for the sub-contracted jobs is to be done by the FIRM. The FIRM is
+            not permitted to seek any extension of Completion Date citing delay on the part of Sub- FIRMs
+            or re-work arising out of Sub-Contracted work.
+
+12.   Patents and other Industrial Property Rights. The prices stated in the present Contract shall
+     be deemed to include all amounts payable for the use of patents, copyrights, registered charges,
+      trademarks and payments for any other industrial property rights. The Bidder shall indemnify the
+     IIIT-NR against all claims from a third party at any time on account of the infringement of any or all
+      the rights mentioned in the previous paragraphs, whether such claims arise in respect of manufacture
+      or use. The Bidder shall be responsible for the completion of the supplies including spares, tools,
+      technical literature and training aggregates irrespective of the fact of infringement of the supplies,
+       irrespective of the fact of infringement of any or all the rights mentioned above.
+
+13.  Amendments. No provision of present Contract  shall be changed or modified in any way
+      (including this provision) either in whole or in part except by an instrument in writing made after the
+      date of this Contract and signed on behalf of both the parties and which expressly states to amend the
+      present Contract.
+
+14.  Taxes and Duties. All the rates quoted should be inclusive of all taxes.
+
+15.   Transportation and Material Handling.  The FIRM  (supplier)  will  arrange  necessary
+       transport and labour  at own cost  for loading and unloading of the items at IIIT-NR (stores  /
+      designated place) located at Sector-24, Nava Raipur, Atal Nagar (Chhattisgarh).
+
+
+
+
+                                                                                  Page 13 of 21
+
+                        Part - 4: Special Conditions
+
+ Supply installation and upgradation with buyback of Firewall (UTM) at IIIT-Naya Raipur
+
+
+1.   Option Clause. This contract has an Option Clause, wherein the Client can exercise an
+      option to procure an additional quantity of items in accordance with the same terms and
+      conditions of the present contract. This will be applicable within the currency of contract. It
+      will be entirely the discretion of the Client to exercise this option or not. Similarly, IIIT-NR
+      reserves the right to place part orders.
+
+2.   Repeat Order Clause. This contract has a Repeat Order Clause wherein the Client can
+      order as desired quantity of the items / services under the present contract within six months
+     from the date of successful completion of this contract with cost, terms and conditions
+     remaining the same. It will be entirely at the discretion of the IIIT-NR to place the repeat
+      order or not.
+
+3.   Tolerance clause. To take care of any change in the requirement during the period starting
+     from issue of Tender Enquiry till placement of the supply/work order, IIIT-NR reserves the
+      right to increase or decrease the quantity of the required goods/ services without any change
+      in the terms and conditions and prices quoted by the Firm.
+
+4.   Extension of Contract : Based on the satisfactory performance, quality of goods/services
+     and requirement of the Institute, the contract may be extended for additional goods/Services
+      for another 3 years of a similar nature on the same prices, terms and conditions.
+
+5.   Payment Terms :  It will be mandatory for the Bidders to indicate their bank account
+     numbers and other relevant e-payment details so that payments could be made through
+    ECS/NEFT/RTGS mechanism instead of Payment through cheque. No Advance payment
+      will be made. Payment will be done on satisfactory completion of work.
+
+6.  GST Registration : GST Registration is mandatory for settlement of the bills.
+
+7.   Paying Authority : The payment of AMC bills will be made by IIIT-NR on quarterly
+      deferred basis and submission of the following documents by the BIDDER to the Paying
+      Authority:
+
+       (a)   03 ink-signed copies of Commercial invoice / bidder’s bill (with GST No.)
+
+       (b)  A work  completion  certificate  post  Supply   /  Installation   /  User  Satisfaction
+             certificate from IIIT-NR.
+
+       (c)   Photocopy of Performance Bank Guarantee (it will be verified from the issuing bank).
+
+       (d)   Details for electronic payment viz Account holder’s name, Bank name, Branch name
+          and address, Account type, Account number, IFSC code, MICR code (if these details
+            are not incorporated in contract).
+
+8.   Risk and Expense Clause : Should the services or any installation thereof not be delivered
+      within the time specified in the contract documents, or if unsatisfactory delivery is made in
+      respect of the services or any installation thereof, the BUYER shall after granting the
+    BIDDER 45 days to cure the breach, be at liberty, without prejudice to the right to recover
+      liquidated damages (LD) as a remedy for breach of contract, to declare the contract as
+      cancelled either wholly or to the extent of such default.
+                                                                                  Page 14 of 21
+
+9.   Force Majeure Clause : Neither party shall bear responsibility for the complete or partial
+     non-performance of any of its obligations (except failure to pay any sum which has become
+     due on account of receipt of goods/services under the provisions of the present contract), if
+      the non-performance results from such Force Majeure circumstances as flood,  fire, earth
+     quake and other acts of God as well as other circumstances beyond the parties control
+      that have arisen after the conclusion of the present Contract. In such circumstances the time
+      stipulated for the performance of an obligation under the present contract  is extended
+     correspondingly for the period of time action of these circumstances and their consequences.
+
+       (a)   The party for which it becomes impossible to meet obligations under this contract due
+            to Force Majeure conditions, is to notify in written form to the other party of the
+           beginning and cessation of the above circumstances immediately, but in any case not
+             later than 10 (ten) days from the moment of their beginning.
+
+       (b)   Certificate of a Chamber of Commerce (Commerce and Industry) or other competent
+            authority or organization of the respective country shall be a sufficient proof of
+         commencement and cessation of the above circumstances.
+
+       (c)    If the impossibility of complete or partial performance of an obligation lasts for more
+             that 06 (six) months, either party hereto reserves the right to terminate the contract
+             totally or partially upon giving prior written notice of 30 (thirty) days to the other
+           party of the intention to terminate without any liability other than reimbursement on
+            the terms provided in the agreement for the goods received.
+
+10.  Quality Assurance.  Assurance of quality is the responsibility of the firm and firms are to
+      indicate exclusively and submit proofs of quality assurance norms being followed.
+
+11.   Inspection.  The inspection of delivered items and service would be carried out by the
+      representative of IIIT-Naya Raipur (IIIT-NR). Poor quality will not be accepted and should
+     be taken back by the supplier at his/her own expense.
+
+12.   Defective Equipment: If any of the equipment/ goods supplied by the Tenderer is found to be
+      substandard,  refurbished,  un-merchantable  or  not  in  accordance  with  the  description
+      /specification or otherwise faulty, the institute will have the right to reject the equipment or its
+       part. The prices of such equipment shall be refunded by the Tenderer with interest if payments
+      for such equipment have already been made to him. All damaged or unapproved goods shall
+     be returned at suppliers’ cost and risk and the incidental expenses incurred thereon shall be
+     recovered from the supplier. Defective part in equipment, if found before installation and/or
+      during warranty period, shall be replaced within 45 days on receipt of the intimation from this
+      office at the cost and risk of supplier including all other charges.
+
+
+
+
+
+                                                                                  Page 15 of 21
+
+                Part - 5: Other / Miscellaneous Information
+
+ Supply installation and upgradation with buyback of Firewall (UTM) at IIIT-Naya Raipur
+
+
+I.   The Broad Guidelines for Evaluation of Bids.
+
+1.    All tenders received will first be scrutinised by the Technical Committee (TC) to see whether
+      the tenders meet the basic requirements as incorporated in the Bid document.
+
+2.    Tenders that do not meet the basic requirements whether technically or financially specified
+      in the bid documents will be treated as ‘unresponsive’ (both during Techno-commercial
+      evaluation and Financial Evaluation) and will be ignored.
+
+3.   Only  those Price Bids  will be  evaluated which  are  found  to be  fulfilling  all  the
+       eligibility requirements and are technically qualified as per the tender enquiry.
+
+4.    In case of bids with predatory pricing  / abnormally low bidding, written clarification
+      including detailed price analysis of bid price may be taken from the bidder. If bidder fails to
+      substantially demonstrate  its capability to deliver the contract at the offered price, his
+      bid/offer may be rejected.
+
+5.     If there is any discrepancy between the unit price and the total price that is obtained by
+     Multiplying the unit price and quantity, the unit price will prevail and the total price will be
+      corrected. If there is any discrepancy between words and figures, the amount in words
+      will prevail for calculation of price.
+
+6.    Prices quoted by the FIRM should be precise and unambiguous. Rate per unit is to be quoted
+      individually as per format for submission of ‘Q’ bid (quotation / price bid) at Annexure ‘D’.
+      Clarifications, if any, may be obtained from IIIT-NR prior to submission of tender. The
+      bidder shall be solely responsible for any ambiguous details given by him/her in his/her
+      tender document due to which bid is rejected.
+
+7.   FIRM  is to quote for  all categories mentioned in the ‘Q’ bid (quotation  / price bid)
+     submission format. If any price column is left blank or is not applicable (NA) or filled with
+      zero, the quote may be rejected in lump-sum basis of cost evaluation.
+
+8.    Unless otherwise specified, evaluation of the price bids shall be carried out on the basis of
+     grand total price of all items including GST/taxes (i.e. sum of prices of all items including
+     GST). However, in the best interest of the Institute, the Financial Evaluation Committee may
+      devise / adopt any other methodology for evaluation of price bids. Decision of the Institute in
+       this regard shall be final and binding on the bidders.
+
+9.    Unless otherwise specified, the order/contract should ordinarily be awarded to the firm with
+     lowest price bid (L1) subject to its fulfilling the other eligibility criteria given in the tender.
+
+10.   If more than one bidder happens to quote the same lowest price, IIIT-NR reserves the right
+      to decide the criteria and further process for awarding the contract. Decision of IIIT-NR shall
+     be final for awarding the contract.
+
+II.   Technical Bid Format: The Technical Bid (technical details) is to be submitted as per
+the format given in Annexure ‘C’.
+
+III.  Price Bid Format: Bidders have to submit the price/financial bid as per the format given in
+Annexure ‘D’ in a separate sealed envelope.
+
+                                                                                  Page 16 of 21
+
+                                                                 Annexure – A
+                           BID PROPOSAL SHEET
+                              (On the Letterhead of the Bidder)
+
+ To,
+
+ Purchase Officer
+ IIIT - Naya Raipur
+ Sector – 24, Nava Raipur, Atal Nagar
+ Raipur – 493661 (CG)
+
+
+ Subject:     Supply installation and upgradation with buyback of Firewall (UTM) at IIIT-
+                               Naya Raipur
+
+ Reference: IIIT-Naya Raipur Open Tender dated ……………….. on the above-mentioned subject.
+
+ Dear Sir,
+
+ I  / We, the undersigned Tenderer(s), having read and examined in detail the specifications as
+ specified in this document in respect of the Open Tender for Supply and Installation of AI
+ Experiential Lab at IIIT-Naya Raipur do hereby propose to supply the required products and
+ services.
+
+  Tender
+  No.
+ EMD            Yes / No (Please strike off whatever is not applicable)
+  submitted
+            Amount                Transaction
+                      Mode                Name of Bank      Valid up to
+                    (Rs.)                       Details
+
+
+
+
+1.   ADDITIONAL PURCHASE/WORK ORDER: We understand that IIIT-Naya Raipur, in
+      case of the requirements may also place repeat purchase order/work order. In such cases, we
+       shall accept and execute all the purchase/work order placed on us by IIIT-Naya Raipur.
+
+2.   BID PRICING: We further declare that the prices stated in our proposal are in accordance
+      with your terms and conditions in the bidding document. We further understand that the
+       quantities as specified in this Tender may increase or decrease at the time of Award of
+      Purchase Order as per the requirements of IIIT -Naya Raipur.
+
+3.   QUALIFYING DATA: We confirm  that we satisfy the qualifying  criteria and have
+       attached the requisite documents as documentary proofs. In case you require any further
+      information/documentary proof in this regard during evaluation of our bid, we agree to
+       furnish the same in time to your satisfaction.
+
+4.   CONTRACT PERFORMANCE SECURITY: We hereby declare that in case the contract
+        is awarded to us, we shall submit the performance Guarantee Bond in the form of Bank
+      Guarantee for the prescribed amount.
+
+                                                                                   Page 17 of 21
+
+5.   PAYMENT TERMS: We hereby declare that in case the contract is awarded to us, we
+      agree with payment terms specified in the tender documents.
+
+6.   CERTIFICATE AND DECLARATION:
+
+        (a)   I/We certify that no addition/modification/alteration has been made in the Original
+           Tender Document. If at any stage addition /modification /alteration is noticed in the
+            Original Document. I/We will abide by the terms and conditions contained in the
+             original tender document, failing which IIIT-Naya Raipur reserves the right to reject
+             the tender and/or cancel the contract.
+
+        (b)    It has been certified that all information provided in tender form is true and correct to
+             the best of my knowledge and belief. We hereby declare that our proposal is made in
+          good faith, without collusion or fraud. No forged /tampered document(s) are produced
+           with tender form for gaining unlawful advantage. We understand that IIIT-Naya
+           Raipur is authorized to make enquiry to establish the facts claimed and obtained
+             confidential reports from clients.
+
+        (c)   In case it is established that any information provided by us is false / misleading or in
+             the circumstances where it is found that we have made any wrong claims, IIIT-Naya
+           Raipur  is  authorized  to  blacklist  our  firm/company/agency  and  debar  us  in
+             participating in any tender/bid in future.
+
+        (d)    I / We assure the Institute that neither I /We, nor any of my /our workers, will do any
+             act which is improper / illegal during the execution, in case the tender is awarded to
+             us.
+
+        (e)    I / We assure the Institute that I / We will NOT be outsourcing any work specified in
+             the tender document, to any other firm.
+
+         (f)   Our Firm  / Company  / Agency is not being blacklisted or banned by any Govt.
+           Department, PSU, University, Autonomous Institute or any other Govt. Organization.
+
+        (g)   I/We certify that, I have understood all the terms & conditions, as indicated in the
+            tender document, and hereby accept all the same completely.
+
+        (h)   I/We, further certify that I/We, possess all the statutory /non-statutory registrations,
+            permissions, approvals, etc., from the Competent Authority for providing the requisite
+             services,
+
+         (i)   I/We hereby declare that  this tender on acceptance communicated by you shall
+             constitute a valid and binding contract between us.
+
+         (j)   I/We certify that the submitted quotation is duly paginated and contains from page No.
+          1 to ……………….
+
+
+
+ Date: ……………………….               Signature and Seal of the Manufacturer/Bidder
+
+
+
+                                                                                   Page 18 of 21
+
+                                                                Annexure – B
+
+
+  Affidavit Regarding Blacklisting / Non-Blacklisting from Taking Part in Tender Process of
+          Govt. of India / State Govt. / PSU / Statutory Body / Autonomous Body
+
+  (To be executed on Rs.10/- Stamp paper and attested by Public Notary/Executive Magistrate by
+                                           the bidder)
+
+
+I / We Proprietor/ Partner(s)/ Director(s) of M/s hereby declare that the firm/company namely
+M/s.-----------------------------------------------------------------------  has  not  been  blacklisted  or
+debarred in the past by IIIT - Naya Raipur or any other Central / State Government organization /
+PSUs  / Institutions from taking part in Government tenders.
+
+OR
+
+I / We Proprietor/ Partner(s)/ Director(s) of M/s. ------------------------------------------------- hereby
+declare  that  the  firm/company  namely  M/s  ------------------------------------------------------ was
+blacklisted or debarred by  IIIT  - Naya Raipur or any other Central  /  State Government
+organization / PSUs  from  taking part in Government tenders for a period of    ---------- years
+w.e.f.-----------------. The period is over on -------------- and now the firm/company is entitled to
+take part in Government tenders. In case the above information found false I/We are fully aware
+that the tender/ contract will be rejected/cancelled by IIIT Naya Raipur, and EMD / SD shall be
+forfeited. In addition to the above IIIT-Naya Raipur, will not be responsible to pay the bills for any
+completed/ partially completed work.
+
+
+
+Signature : …………………………………………
+
+Name : …………………………………………………………….……
+
+Capacity/Designation in the firm : …………………………………..
+
+Name & address of the firm: …………………………………………
+
+
+
+
+Date:                                                    Signature of Bidder with seal.
+
+
+
+
+
+                                                                                  Page 19 of 21
+
+                                                                 Annexure – C
+
+
+                 Technical Bid / Technical Details (Check List)
+
+      Supply installation and upgradation with buyback of Firewall (UTM) at IIIT-Naya
+                                     Raipur
+
+
+                                                                       Proof of Documents
+S.No.                        Description                    Yes / No
+                                                                           Attached
+
+                                                                   Appendix-I
+      Minimum Average Annual Turnover as per Tender
+ 1                                                                (Balance Sheet
+       Documents
+                                                                /
+                                                     CA certificate)
+
+                                                                      Appendix-II
+ 2     Similar work experience
+                                                                (copy of Purchase Order)
+
+       Not Black Listed by any NIT/IIT/Central                         Appendix-III
+ 3
+        Universities/State Government                                    (Affidavit)
+
+                                                                  Appendix-IV
+ 4     Indian registered Company
+                                                                (copy of registration)
+
+         Availability of Technical and Financial strength to              Furnish Details
+ 5
+       undertake the work                                              in Appendix-V
+
+ 6    Income Tax return                                          Appendix-VI
+
+
+ 7      List of organizations/customers dealt                          Appendix-VII
+
+
+       Compliance with technical specifications.
+ 8                                                                   Appendix-VIII
+        Deviation, if any, should be indicated clearly.
+        Product Data Sheet should be attached  if
+        applicable
+
+        Valid OEM Authorization Certificate
+ 9                                                                  Appendix--IX
+
+
+         Details of Organization with Contact number, Full
+ 10                                                             Appendix-X
+        Address, Email Id
+
+
+ 11    GST Registration Certificate from the state of                  Appendix-XI
+        Chhattisgarh
+
+
+
+
+
+                                                                                    Page 20 of 21
+
+                                                     Annexure – D
+  ‘Q’ Bid (Price Bid)
+                                                     (To be kept in a separate envelope)
+
+   Supply installation and upgradation with buyback of Firewall (UTM) at IIIT-Naya Raipur
+
+Serial                                Quantity/                                       Total
+                                                  Unit rate     Unit rate with No             Product            Task                                  Cost with GST
+                                               without GST (Rs)  GST (Rs)
+                                  Required                                        (Rs)
+  1    Supply , installation and
+        configuration of UTM/ Firewall
+        Upgradation (as per technical
+        Specs given para 2 )All Licences                                    02 Nos        with every features should be
+        enabled from first day for 3
+        years along with OEM support
+       and AMC with 24*7 support
+  2
+       Buyback price of the existing
+         firewall make :-
+       Sophos XG-550 with Serial
+                                  02Nos       numbers
+              C510CFGGK3QHJ0C
+              C5102284JY8R9G47
+
+                                        Total Amount with GST (Rs.)       (1-2)
+        Total Amount with GST in words :   (1-2)
+    ……………………………………………..………………………………..
+
+  The price / rates quoted above are inclusive of all taxes and charges including transportation and
+   handling and also in agreement with the terms and conditions of the contract.
+
+
+
+
+
+                                                                  Signature of Bidder with seal
+
+
+   Note: The ‘Q’ bid (price bid) is to be sealed separately in an envelope.
+
+
+
+
+
+                                                                                     Page 21 of 21

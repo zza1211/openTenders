@@ -1,0 +1,3255 @@
+                            RFP12/25
+
+ REQUEST FOR PROPOSALS TO SUPPLY, INSTALL AND CONFIGURE ENTERPRISE
+
+ WIRED AND WIRELESS LAN INFRASTRUCTURE FOR ITHALA DEVELOPMENT FINANCE
+
+ CORPORATION.
+
+
+                     CLOSING DATE: 24 MARCH 2026 AT 11:00
+
+
+
+
+
+ Issued by:
+ Ithala Development Finance Corporation Limited
+ 29 Canal Quay Road (for GPS 29 Signal Road),
+ Point Waterfront
+ Durban
+
+ Procurement Enquires:
+ Supply Chain Management Unit
+ Email: tenders@ithala.co.za
+ Tel: 031 907 8911
+
+
+
+
+
+Name of Bidder: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . .
+
+
+
+
+
+ For any complaints regarding our supply chain management abuses please contact Larissa Warren at
+
+ 031 907 8610 or email complaints@ithala.co.za alternatively you can lodge an anonymous complaint at
+
+ our toll-free hotline number  0800 0004 82
+
+
+
+
+
+                                                                                                              1
+
+                    REQUEST FOR PROPOSALS
+
+ITHALA DEVELOPMENT FINANCE CORPORATION LIMITED, 29 CANAL QUAY ROAD,
+
+POINT, DURBAN (FOR GPRS 29 SIGNAL ROAD) (Hereinafter referred to as (“IDFC
+
+BID NUMBER:         RFP12/25
+
+
+
+CLOSING DATE:
+                     24 MARCH 2026
+
+TIME:                 11:00 am
+
+
+                REQUEST FOR PROPOSALS TO SUPPLY, INSTALL ANDDESCRIPTION:
+                 CONFIGURE ENTERPRISE WIRED AND WIRELESS LAN
+
+                 INFRASTRUCTURE FOR ITHALA DEVELOPMENT
+
+                  FINANCE CORPORATION
+
+
+
+
+ COMPULSORY       Yes                   No
+ ONLINE BRIEFING             X
+ SESSION
+
+
+
+
+ DATE                10 MARCH 2026 at 10:00
+
+ VENUE                  Online session
+
+ EQUIRIES             031 907 8911 / tenders@ithala.co.za
+
+
+
+
+
+                                                                                                             2
+
+TABLE OF CONTENTS
+
+
+
+
+ C.1  TENDER NOTICE AND INVITATION TO TENDER – 4 -6
+
+
+C.2   INTRODUCTION  - 7
+
+C.3   CONDITIONS OF BID AND CONTRACT  - 8-15
+
+C.4   CERTIFICATE OF AUTHORITY TO SIGN A BID – 16
+
+
+C.5   CERTIFICATE OF ATTENDANCE AT COMPULSORY BRIEFING MEETING - 17
+
+C.6  PROCUREMENT TIMELINES - 18
+
+C.7  TERMS OF REFERENCE – 19-25
+
+C.8   EVALUATION PROCESS & CRITERIA – 25-42
+
+ C.9  PREFERENCE POINTS CLAIM FORM IN TERMS OF THE PREFERENTIAL
+    PROCUREMENT REGULATIONS 2022 – 43-47
+
+C.10 TAX CLEARANCE REQUIREMENT – 48
+
+C.11  BIDDER’S DISCLOSURE – 49-51
+
+C.12  CONTRACT FORM - RENDERING OF SERVICES – 52-53
+
+C.13  DEVIATIONS FROM THE REQUEST FOR PROPOSAL – 54
+
+
+
+
+
+                                                                                                             3
+
+C.1 TENDER NOTICE AND INVITATION TO TENDER
+
+
+REQUEST FOR PROPOSALS TO SUPPLY, INSTALL AND CONFIGURE ENTERPRISE
+
+WIRED AND WIRELESS LAN INFRASTRUCTURE FOR ITHALA DEVELOPMENT
+
+FINANCE CORPORATION
+
+
+COLLECTION OF BID DOCUMENTS
+
+
+The bid documents will be obtained online from the IDFC website (www.ithala.co.za) and on National
+Treasury website (www.etenders.gov.za)
+
+SUBMISSION OF BID DOCUMENTS
+
+The proposals shall be submitted in sealed envelopes delivered at Ithala Trade Centre, 29 Canal Quay
+
+Road (for GPS use 29 Signal Road), Point, Durban and should be deposited in the box located at the
+
+reception. The closing time for receipt of tenders is 24 MARCH 2026 at 11:00
+
+
+One original and one electronic (USB) copy of the bid document must be submitted.
+
+Telephonic, e-mail and late tenders will not be accepted. It is important to note that all bids lodged will
+
+be examined to determine compliance with the bidding requirements and conditions. Bids with obvious
+
+deviation from the requirements, will be eliminated.
+
+
+Technical and administrative queries relating to these documents may be addressed in writing only
+
+quoting the Bid No. for attention: Supply Chain Management Unit by email to tenders@ithala.co.za
+
+Tenders may only be submitted on the original tender documentation that is issued by IIDFC written in
+
+black ink. This tender document may not be reproduced.
+
+For any complaints regarding our supply chain management abuses please contact Customer Services
+
+at 031 907 8610 or email Complaints@ithala.co.za alternatively you can lodge an anonymous
+
+complaint at our toll-free hotline number  0800 0048 23.
+
+
+
+
+
+                                                                                                             4
+
+                        PART A - INVITATION TO BID
+
+YOU ARE HEREBY INVITED TO BID FOR REQUIREMENTS OF THE (NAME OF DEPARTMENT/ PUBLIC ENTITY)
+BID NUMBER:   RFP12/25          CLOSING DATE:               24 MARCH 2026       CLOSING TIME:    11am
+            REQUEST FOR PROPOSALS TO SUPPLY, INSTALL AND CONFIGURE ENTERPRISE WIRED AND WIRELESS LAN
+DESCRIPTION  INFRASTRUCTURE FOR ITHALA DEVELOPMENT FINANCE CORPORATION
+BID RESPONSE DOCUMENTS MAY BE DEPOSITED IN THE BID BOX SITUATED AT (STREET ADDRESS)
+Ithala Trade Centre
+29 Canal Quay Road
+Point Waterfront
+Durban
+
+BIDDING PROCEDURE ENQUIRIES MAY BE DIRECTED TO          TECHNICAL ENQUIRIES MAY BE DIRECTED TO:
+CONTACT PERSON          SCM                      CONTACT PERSON           SCM
+TELEPHONE NUMBER           0319078911                  TELEPHONE NUMBER            0319078911
+FACSIMILE NUMBER            N/A                           FACSIMILE NUMBER             N/A
+E-MAIL ADDRESS                 tenders@ithala.co.za              E-MAIL ADDRESS                  tenders@ithala.co.za
+SUPPLIER INFORMATION
+NAME OF BIDDER
+
+POSTAL ADDRESS
+
+STREET ADDRESS
+
+TELEPHONE NUMBER         CODE                            NUMBER
+
+CELLPHONE NUMBER
+
+FACSIMILE NUMBER          CODE                            NUMBER
+
+E-MAIL ADDRESS
+VAT REGISTRATION NUMBER
+SUPPLIER COMPLIANCE        TAX                                CENTRAL
+STATUS                   COMPLIANCE                 OR    SUPPLIER
+                         SYSTEM PIN:                          DATABASE No:    MAAA
+
+
+                                                                                         Yes             No
+                                                  ARE YOU A FOREIGN
+ARE YOU THE ACCREDITED                                                   BASED SUPPLIER FOR THE
+REPRESENTATIVE IN SOUTH       Yes             No                                                   [IF YES, ANSWER THE
+                                              GOODS /SERVICES /WORKS
+AFRICA FOR THE GOODS                                                          QUESTIONNAIRE
+                                                   OFFERED?/SERVICES /WORKS OFFERED?    [IF YES ENCLOSE PROOF]                               BELOW]
+
+QUESTIONNAIRE TO BIDDING FOREIGN SUPPLIERS
+
+IS THE ENTITY A RESIDENT OF THE REPUBLIC OF SOUTH AFRICA (RSA)?                              YES   NO
+
+DOES THE ENTITY HAVE A BRANCH IN THE RSA?                                                YES   NO
+
+DOES THE ENTITY HAVE A PERMANENT ESTABLISHMENT IN THE RSA?                                YES   NO
+
+DOES THE ENTITY HAVE ANY SOURCE OF INCOME IN THE RSA?                                    YES   NO
+
+IS THE ENTITY LIABLE IN THE RSA FOR ANY FORM OF TAXATION?                                   YES   NO
+
+IF THE ANSWER IS “NO” TO ALL OF THE ABOVE, THEN IT IS NOT A REQUIREMENT TO REGISTER FOR A TAX COMPLIANCE
+STATUS SYSTEM PIN CODE FROM THE SOUTH AFRICAN REVENUE SERVICE (SARS) AND IF NOT REGISTER AS PER 2.3 BELOW.
+
+
+
+
+
+                                                                                                            5
+
+                                PART B
+                     TERMS AND CONDITIONS FOR BIDDING
+
+  1.  BID SUBMISSION:
+
+  1.1.  BIDS MUST BE DELIVERED BY THE STIPULATED TIME TO THE CORRECT ADDRESS. LATE BIDS WILL NOT BE
+
+     ACCEPTED FOR CONSIDERATION.
+
+  1.2. ALL BIDS MUST BE SUBMITTED ON THE OFFICIAL FORMS PROVIDED – (NOT TO BE RE-TYPED) OR IN THE MANNER
+
+     PRESCRIBED IN THE BID DOCUMENT.
+
+  1.3.  THIS BID IS SUBJECT TO THE PREFERENTIAL PROCUREMENT POLICY FRAMEWORK ACT, 2000 AND THE
+
+     PREFERENTIAL PROCUREMENT REGULATIONS, 2022, THE GENERAL CONDITIONS OF CONTRACT (GCC) AND, IF
+
+      APPLICABLE, ANY OTHER SPECIAL CONDITIONS OF CONTRACT
+
+  1.4. THE SUCCESSFUL BIDDER WILL BE REQUIRED TO FILL IN AND SIGN A WRITTEN CONTRACT FORM (SBD7).
+
+
+  2.  TAX COMPLIANCE REQUIREMENTS
+
+ 2.1  BIDDERS MUST ENSURE COMPLIANCE WITH THEIR TAX OBLIGATIONS.
+
+ 2.2  BIDDERS ARE REQUIRED TO SUBMIT THEIR UNIQUE PERSONAL IDENTIFICATION NUMBER (PIN) ISSUED BY SARS
+
+     TO ENABLE THE ORGAN OF STATE TO VERIFY THE TAXPAYER’S PROFILE AND TAX STATUS.
+
+ 2.3  APPLICATION FOR TAX COMPLIANCE STATUS (TCS) PIN MAY BE MADE VIA E-FILING THROUGH THE SARS WEBSITE
+
+ 2.4  IN BIDS WHERE CONSORTIA / JOINT VENTURES / SUB-CONTRACTORS ARE INVOLVED, EACH PARTY MUST SUBMIT
+
+     A SEPARATE TCS CERTIFICATE / PIN / CSD NUMBER.
+
+ 2.5  WHERE NO TCS PIN IS AVAILABLE BUT THE BIDDER IS REGISTERED ON THE CENTRAL SUPPLIER DATABASE (CSD),
+
+     A CSD NUMBER MUST BE PROVIDED.
+
+ 2.6  NO BIDS WILL BE CONSIDERED FROM PERSONS IN THE SERVICE OF THE STATE, COMPANIES WITH DIRECTORS
+
+    WHO ARE PERSONS IN THE SERVICE OF THE STATE, OR CLOSE CORPORATIONS WITH MEMBERS WHO ARE
+
+     PERSONS IN THE SERVICE OF THE STATE.”
+
+
+NB: FAILURE TO PROVIDE / OR COMPLY WITH ANY OF THE ABOVE PARTICULARS MAY RENDER THE BID INVALID.
+
+
+
+SIGNATURE OF BIDDER: ……………………………………………
+
+CAPACITY UNDER WHICH THIS BID IS SIGNED: ……………………………………………
+(Proof of authority must be submitted e.g. company resolution)
+
+DATE: …………………………
+
+
+
+
+
+                                                                                                             6
+
+C.2   INTRODUCTION
+
+Ithala is a Development Finance Corporation operating within the confines of the Kwa-Zulu
+Natal Ithala Development Finance Corporation Act, No 5 of 2013.
+
+Our VISION is “Accelerating growth, socio-economic development, and empowerment in
+KwaZulu Natal” and our MISSION is “To accelerate economic growth and transformation,
+entrepreneurship, and job creation for the people of KwaZulu-Natal”.
+The Mission is enabled by building a capable, ethical, and sustainable organisation.
+We enable, develop, promote and implement innovative investment and transformation
+solutions to advance sustainable Black Economic Empowerment.
+
+The objectives of IDFC are to promote, support and facilitate social and economic development
+in the Province of Kwa-Zulu Natal (KZN) by:
+
+ 1. Mobilising financial resources and providing financial and supportive services to persons
+    domiciled, ordinary resident, or carrying on business within the KZN Province
+
+ 2. Planning, executing, financing and monitoring the implementation of development projects
+   and programmes in the province of KZN
+
+ 3. Promoting, assisting and encouraging the development of the Province’s human resources
+   and its social, economic, financial and physical infrastructure
+
+ 4. Promoting, encouraging and facilitating private sector investment in the Province and the
+    participation of the private sector and community organisations in development projects
+   and programmes and in contributing to economic growth and development generally
+
+ 5. Acting as the Government’s agent for performing any development related tasks and
+    responsibilities that the government considers may be more effectively performed by a
+    corporate entity
+
+Our primary mandate is implemented by our three operating departments and a subsidiary
+with an external market focus, namely:
+ 1. Properties
+ 2. Business Finance
+ 3. Implementing Agent
+ 4. Ithala SOC Limited
+
+The quality, price and service that we provide our customers can only be as good as what we
+receive from our service providers.
+
+
+PROCUREMENT PHILOSOPHY
+
+It is the policy of IDFC, when purchasing goods and obtaining services, to follow a course of
+optimum value and  efficiency by adopting best purchasing  practices  in supply chain
+management, ensuring that open and fair competition has prevailed, with due regard being
+had to the importance of :
+
+a)   The  promotion,  development  and  support  of  businesses  from  disadvantaged
+     communities (small, medium, micro enterprises, as well as established businesses within
+     those communities) in terms of its BBBEE Policy.
+
+b)   The promotion of national and regional local suppliers and agents before considering
+     overseas suppliers; and
+
+c)   The development, promotion and support for the moral values that underpin the above,
+      in terms of IDFC’ s Business Ethics and Guidelines which requires that all commercial
+     conduct be based on ethical and moral values and sound business practice. This value
+    system governs all commercial behaviour within IDFC.
+
+
+                                                                                                             7
+
+C.3 CONDITIONS OF BID AND CONTRACT
+
+Bidders must indicate compliance or non-compliance on a paragraph-by-paragraph basis.
+Indicate compliance with the relevant bid requirements by marking the YES box and non-
+compliance by marking the NO box. If the contents of the paragraph only need to be noted,
+please mark the NOTED box.
+
+
+
+
+                                                          Confirmation
+          Conditions
+
+                                                   Yes  No  Noted   If no, indicate
+                                                                                 deviation
+
+ 1.      GUIDELINE ON COMPLETION
+
+ 1.1     The bidder must clearly state if a deviation from these
+          requirements are offered and the reason, therefore. If
+         an  explanatory  note  is  provided,  the  paragraph
+           reference must be attached as an appendix to the bid
+          submission.  Bids  not  completed  in  the  manner
+           prescribed  may  be  considered  incomplete  and
+            rejected.
+
+ 2.      IDFC SERVICE LEVEL AGREEMENT
+
+ 2.1     The IDFC Service Level Agreement will be the only
+           contract signed by both parties and will form the basis
+            of this contract. IDFC’s standard terms and conditions
+               will not be negotiated.
+
+ 3.      ADDITIONAL INFORMATION REQUIREMENTS
+
+ 3.1      During evaluation of the bids, additional information
+        may be requested in writing from bidders.  Replies to
+         such request, must be submitted, within 5 (five) working
+         days or as otherwise indicated. Failure to comply may
+           lead to the bid being disregarded.
+
+ 4.      CONFIDENTIALITY
+
+ 4.1     The bid and all information in connection therewith shall
+         be held in strict confidence by bidders and usage of
+         such information shall be limited to the preparation of
+           the bid.
+
+ 4.2        All bidders are bound by a confidentiality agreement
+           preventing  the  unauthorised  disclosure   of  any
+           information regarding IDFC or of its activities to any
+           other organisation or individual. The bidders may not
+           disclose any information, documentation or products to
+           other clients without written approval, of the accounting
+            authority or the delegate.
+
+                                                   Yes  No  Noted   If no, indicate
+ 5.      INTELLECTUAL PROPERTY, INVENTIONS AND                                                                                 deviation
+        COPYRIGHT
+
+ 5.1       Copyright  of   all  documentation  relating  to  this
+          assignment belongs to IDFC. The successful bidders
+        may not disclose any information, documentation or
+
+                                                                                                             8
+
+         products to other clients without the written approval of
+          the accounting authority or the delegate.
+
+5.2        All the  intellectual property  rights arising from the
+         execution of this Agreement shall vest in IDFC and the
+          service provider undertakes to honour such intellectual
+          property rights and  all future rights by keeping the
+        know-how and all published and unpublished material
+           confidential.
+
+5.3       In the event that the service provider would like to use
+        any information or data generated  in terms of the
+          Services, the prior, written permission must be obtained
+         from IDFC.
+
+5.4     IDFC shall own all materials produced by the service
+          provider during the course of, or as part of the Services
+          including  without  limitation,  deliverables, computer
+        programmes  (source  code  and   object   code),
+        programming aids and tools, documentation, reports,
+          data,  designs,  concepts,  know-how  and  other
+          information whether capable of being copyrighted or
+          not (“IP”) which IP IDFC shall be entitled to freely cede
+        and assign to parties nominated by IDFC.
+
+
+
+6      PAYMENTS
+
+6.1     IDFC  will pay the service  provider  for the actual
+          services rendered in line with the contract.
+
+
+
+6.2     The service provider shall from time to time, during the
+          duration of the contract, invoice IDFC for the services
+         rendered. No payment  will be made to the service
+          provider unless an invoice complying with section 20 of
+       VAT Act No 89 of 1991 has been submitted to IDFC.
+
+
+
+6.3     Payment shall be made into the bidder’s bank account
+          or per cheque payment normally 30 days after receipt
+           of an acceptable, valid invoice. (Banking details must
+        be submitted as soon as this bid is awarded).
+
+
+                                                  Yes  No  Noted   If no, indicate
+7      NON-COMPLIANCE WITH DELIVERY TERMS                                                                                deviation
+
+7.1     As soon as it becomes known to the service provider
+           that  he/she   will  not  be  able   to   deliver  the
+         goods/services  within  the  delivery  period  and/or
+          against the quoted price and/or as specified, IDFC must
+        be given immediate written notice to this effect. IDFC
+         reserves the right to implement remedies as provided
+           for in the SLA.
+
+
+
+8      WARRANTIES
+
+
+
+                                                                                                            9
+
+8.1     The service provider warranties that:
+
+                It is able to conclude this Agreement to the satisfaction
+           of IDFC.
+
+
+8.2      Although the service provider will be entitled to provide
+          services  to persons other than IDFC, the service
+          provider shall not without the prior written consent of
+         IDFC, be involved in any manner whatsoever, directly
+          or  indirectly,  in  any  business  or  venture  which
+        competes  or  conflicts  with  the  obligations  of  the
+          contractor to provide the Services.
+
+8.3     The Service Provider under contract is obligated to
+         ensure that should a resource who is scheduled to
+          carry out work for IDFC or is carrying out work for IDFC
+        become unavailable, then that resource should be
+         replaced within 7 days with a resource in possession of
+          the   same    professional    registration    and/or
+          qualifications/experience. The replacement resource is
+          subject to the vetting of the IDFC project manager.
+
+
+9.      PARTIES  NOT  AFFECTED  BY  WAIVER OR
+      BREACHES
+
+9.1     The waiver (whether express or implied) by any Party
+           of any breach  of the terms  or  conditions  of  this
+        Agreement by the other Party shall not prejudice any
+        remedy of the waiving party in respect of any continuing
+          or other breach of the terms and conditions hereof
+
+9.2     No favour, delay, relaxation or indulgence on the part
+           of any Party in exercising any power or right conferred
+        on such Party in terms of this Agreement shall operate
+        as a waiver of such power or right nor shall any single
+          or partial exercise of any such power or right under this
+         Agreement.
+
+10     SUBMITTING BIDS                           Yes  No  Noted   If no, indicate
+                                                                                deviation
+
+10.1     Supply Chain Management (SCM)
+
+
+10.2    An original and electronic copy must be delivered to:
+        ITHALA TRADE CENTRE
+        29 Canal Quay Road (for GPS use 29 signal road)
+          Point Waterfront, Durban
+
+11     LATE BIDS
+11.1     Late submissions will not be accepted. A submission
+             will be considered late  if  it arrives one second after
+         11:00 or any time thereafter. The bid (tender) box shall
+        be locked at exactly 11:00 and bids arriving late will not
+        be accepted under any circumstances. Bidders are
+          therefore  strongly advised  to ensure  that bids be
+         dispatched allowing enough time for any unforeseen
+         events that may delay the delivery of the bid.
+
+
+12.     BID CLARIFICATIONS
+                                                                                                          10
+
+12.1    Any clarification required by a bidder regarding the
+        meaning or interpretation of the Terms of Reference, or
+        any other aspect concerning the bid, is to be requested
+            in writing (by e-mail). Please refer to Bid Notice and
+           Invitation to Tender page of this bid pack for contact
+           details. The bid number should be mentioned in  all
+         correspondence. Telephonic requests for clarification
+             will not be accepted.  If  appropriate, the  clarifying
+          information will be made available to all bidders by e-
+          mail only.
+
+13.    FORMAT OF BIDS
+13.1     Bidders  must  complete   all  the  necessary  bid
+        documents and  undertakings  required  in  this  bid
+         document.  Bidders are advised that their proposal
+         should be concise, written in plain English and simply
+          presented.
+
+
+14.1    PART 1: INVITATION TO BID
+
+14.2    PART 2: RFP SUMMARY AND DETAILS
+
+14.2.1    Bid summary must be completed and indicate what
+          returnable documents will be submitted.
+
+
+14.3    PART 3:    COMPLIANCE    TO    SPECIAL  Yes  No  Noted   If no, indicate
+       CONDITIONS  OF  BID  AND  NOTING  OF                      deviation
+       EVALUATION CRITERIA
+
+         Bidders must complete C3. Indicating compliance/non-
+         compliance or noted. In case of non-compliance details
+        and referencing to the specific paragraph is required.
+
+14.4    PART 4: SARS TAX STATUS
+
+        The bidder must be in compliance with SARS and such
+          information  will be  verified  with  Central  Supplier
+        Database (CSD).   In case  of a consortium/  joint
+          venture, or where sub-contractors are utilised, each
+          consortium/   joint  venture  member  and/or  sub-
+         contractor (individual) must be in compliance with
+       SARS and the information will be verified on Central
+          Supplier Database (CSD).
+
+14. 5   PART 5: CERTIFICATE OF AUTHORITY TO SIGN A
+        BID AND DECLARATION OF INTEREST
+
+14.5.1    Bidders must complete and submit the Declaration
+          forms.
+
+       A bidder must complete the relevant parts  of the
+        document and must  indicate who  is delegated  to
+        communicate or deal with IDFC. Any irrelevant sections
+           to the tendering entity must be marked ‘N/A’.
+
+14.6    PART    6:   JOINT   VENTURE/CONSORTIUM
+      AGREEMENT
+
+14.6.1   A copy of the joint venture/consortium agreement must
+        be included.
+
+                                                                                                          11
+
+14.7    PART 7: TECHNICAL PROPOSAL/FUNCTIONALITY
+      PROPOSAL
+
+14.7.1    Bidders must, at least, describe in detail exactly how
+         they propose to carry out the activities to achieve the
+        outcomes identified in the Terms of Reference. They
+         should identify any possible problems that might hinder
+          delivery and indicate how they will avoid or overcome
+        such problems.
+
+14.7.2   The  bidder must  confirm by  providing  letters  of
+          reference  from  previous/current  clients  including
+          contact details, for the previous, current or ongoing
+          projects of similar nature. This may be verified by IDFC.
+
+                                                  Yes  No  Noted   If no, indicate
+14.8    PART 8: DEVIATIONS FROM REQUEST FOR BID                                                                                deviation
+
+14.8.1   Please  indicate  deviations  or modifications  to  this
+        Request for Bid on form C13
+
+14.8.2      If no deviations are required, please mark the form “Nil”
+        and sign
+
+14.9    PART 9: PRICING SCHEDULE
+
+14.9.1   Any budget amount  that may be indicated  in  this
+        document shall be deemed to be a guide only and
+          bidders are expected to submit a costing that is fair and
+         reasonable.
+
+14.9.2   A proposed pricing schedule with one of the specified
+         elements (fees and reimbursable costs) omitted from
+          the costing, may be considered non-responsive.
+
+14.10   PART 10: PROCUREMENT TIMELINES
+
+14.10.1  This part of the bid document informs bidders when the
+          bid process is expected to be finalised.  It may not
+          necessarily be followed.
+
+14.10.2  Terms of reference (TOR) are the requirements by
+         IDFC. When a proposal is submitted, a bidder must be
+          certain that the TOR’s are understood and that  it has
+          the capacity to offer the specified service.
+
+14.11   VAT
+
+14.11.1  IDFC is a VAT Vendor. Prices quoted must include VAT
+         (where applicable).
+
+14.11.1  IDFC reserves the right to request the preferred bidder
+           to register for VAT if the award is anticipated to be in
+         excess of R1m for 12 consecutive months as per the
+         requirements of the VAT Act.
+
+15     PRESENTATIONS – N/A
+
+15.1    IDFC  reserves  the   right  to   invite  bidders   for
+          presentations before the award of the bid.
+
+
+                                                                                                          12
+
+15.2     Presentation may  affect  the  points  awarded  for
+           functionality.
+
+                                                  Yes  No  Noted   If no, indicate
+16     NEGOTIATION                                                                                deviation
+
+16.1    IDFC  has  the  right  to  enter  negotiation  with a
+          prospective  contractor  regarding  any  terms  and
+          conditions, including price(s), of a proposed contract.
+
+16.2    IDFC shall not be obliged to accept the lowest or any
+           financial offer or proposal. Furthermore, IDFC reserves
+          the right not to award the tender to the highest-ranking
+          bidder in terms of IDFC’s SCM Policy.
+
+16.3       All bidders will be informed whether they have been
+          successful or not. A contract will only be deemed to be
+         concluded when reduced to writing in a contract form
+        and signed by the designated responsible person of
+         both parties.
+
+17      DOMICILIUM
+
+17.1    The  parties  hereto  choose  domicilium  citandi  et
+         executandi for all purposes of and in connection with
+          the final contract as follows:
+
+           Ithala Trade Centre
+        29 Canal Quay Road (for GPS 29 Signal Road)
+          Point Waterfront
+        Durban
+
+
+18     COST OF BID PREPARATION
+
+18.1     Bidders shall prepare and submit a bid at their own
+         expense.
+
+19.
+        SITE INSPECTIONS
+19.1    IDFC reserves the right to carry out site inspections of
+          bidders to establish  suitability of properties, etc. to
+         perform services effectively and efficiently
+20
+        BID VALIDITY PERIOD
+20.1
+        The bid will be valid for a period of 120 days
+20.2
+        The bidder must hold the tender  offer(s) valid  for
+         acceptance by the employer at any time during the
+            validity period stated in the tender data after the closing
+         time stated in the tender data.
+
+20.3
+                If requested by the employer, the bidder must consider
+         extending the validity period stated in the tender data
+           for an agreed additional period.
+
+21      ISSUE ADDENDA
+                                                  Yes  No  Noted   If no, indicate
+                                                                                deviation
+
+21.1
+                If necessary, the employer may issue addenda that
+       may amend or amplify the tender documents to each
+          tenderer during the period from the date that tender
+
+                                                                                                          13
+
+        documents are available until seven days before the
+         tender closing time stated in the Tender Data. If, as a
+           result a tenderer applies for an extension to the closing
+         time stated in the Tender Data, the Employer may grant
+        such extension and, shall then notify those tendering
+           entities appearing on the attendance list.
+
+21.2
+         Tenderers must sign the attendance list in the name of
+          the tendering entity. Addenda will be issued to and
+         tenders  will be received only from those tendering
+           entities appearing on the attendance list
+
+21.3
+        The bidder must acknowledge receipt of addenda to the
+         tender documents, which the employer may issue.
+
+22
+       SUBMITTING OF FRAUDULENT DOCUMENTS
+
+22.1
+        IDFC will disregard the bid of any bidder if that bidder
+          or any of  its directors have abused the institution’s
+         supply chain management system and or committed
+          fraud or any other improper conduct in relation to such
+         system.
+
+22.2
+        IDFC will list bidders/ directors in the list of restricted
+          suppliers and they will not conduct any business with
+        an organ of state.
+
+22.3
+            All documentation will be verified and bidders who have
+         submitted fraudulent documentation will be disqualified
+         from further evaluation and reported to the relevant
+           authorities.
+
+
+23    EVALUATION ON PRICE AND SPECIFIC GOALS     Yes  No  Noted   If no, indicate
+                                                                                deviation
+
+
+
+23.1    Price and specific goals evaluation will be performed on
+        bidders who qualify for Stage 3.
+
+23.2     All prices submitted may be subject to negotiation.
+
+
+24    ADJUDICATION OF BID
+
+
+24.1   The  Bid  Adjudication Committee  will  consider  the
+       recommendations and make the final award.
+
+24.2   The bid shall be awarded at the sole and absolute
+         discretion of IDFC. IDFC hereby represents that it is not
+        obliged to award this bid to any bidder. IDFC is entitled
+         to retract this bid at any time as from the date of issue.
+       IDFC is not obliged to award this bid to the bidder that
+        quotes the lowest.
+
+24.3   A bidder shall be disqualified from bidding if any attempt
+           is made either directly to  solicit and/or canvass any
+         information  from any employee  or  agent  of IDFC
+
+                                                                                                          14
+
+        regarding this bid from the date the offer is submitted
+           until the date of award of the bid.
+
+
+25     Awarding of contract
+
+25.1   IDFC reserves the right to award this bid in full or in part.
+
+25.2   An IDFC SLA will be utilised to manage the relationship,
+       once a scope of works has been issued and agreed upon
+
+26    CONTRACT PERIOD
+
+26.1   The contract will be for a period of 36 months
+
+
+
+
+
+                                                                                                          15
+
+C.4                         SECTION M
+
+                      AUTHORITY TO SIGN A BID
+
+The bidder must indicate the enterprise status by ticking the appropriate box hereunder.
+
+         (I)                    (II)                   (III)              (IV)             (V)                 (VI)
+
+  CLOSE    COMPANIES    SOLE    PARTNERS      CO-     JOINT VENTURE /
+CORPORATI             PROPRIETO      HIP     OPERATIVE   CONSORTIUM
+   ON                  R
+                                                                              Incorporated
+
+                                                                          Unincorporated
+
+I/We, the undersigned, being the Member(s) of Cooperative/ Sole Owner (Sole Proprietor)/ Close
+
+Corporation/ Partners (Partnership)/ Company (Representative) or Lead Partner (Joint Venture  /
+
+Consortium), in the enterprise trading as:
+
+............................................................................................................................................
+
+hereby authorise Mr/Mrs/Ms ...............................................................................................
+
+acting in the capacity of  ......................................................................................................
+
+whose signature is ..............................................................................................................
+
+to sign all documents in connection with this bid and any contract resulting therefrom on behalf of the
+
+enterprise.
+
+    NAME             ADDRESS            SIGNATURE       DATE
+
+
+
+
+
+(If the space provided is not enough, a separate list should be attached)
+Note:
+Members of the enterprise must complete this form in full according to the type of enterprise, authorising
+the signatory to sign all documents in connection with this bid and any contract resulting therefrom on
+behalf of the enterprise.
+
+Note: In a case of a Sole proprietor, a director may appoint himself/herself if they will be the one
+signing all documents in connection with this bid and any contract resulting therefrom on behalf
+of the enterprise.
+
+
+
+
+                                                                                                           16
+
+C.5 CERTIFICATE OF ATTENDANCE AT COMPULSORY BRIEFING MEETING – N/A ONLINE
+
+This is to certify that
+
+(tenderer)..............................................................................................................
+
+of (address)
+
+............................................................................................................................................
+
+…..............................................………….............................................. was represented by the
+
+person(s)
+
+named below at the compulsory meeting held for all tenderers at: -
+
+
+
+ Description              Date                   Time      Venue
+
+ N/A                         N/A                          N/A         N/A
+
+
+
+I / We acknowledge that the purpose of the meeting was to acquaint myself / ourselves with the site of
+
+the works and / or matters incidental to doing the work specified in the tender documents in order for
+
+me / us to take account of everything necessary when compiling our rates and prices included in the
+
+tender.
+
+Particulars of Bidder’s representative attending the meeting:
+
+Name: .....................................……………............ Signature:
+.............…....................................
+
+Capacity: ...............................................................
+
+
+
+
+Attendance of the above person(s) at the meeting is confirmed by the IDFC’s
+representative, namely:
+
+
+Name: ................................………….................       Signature:
+.................................................
+
+
+Capacity: ..............................…………...............      Date and Time:
+.........................................
+
+
+
+
+
+                                                                                                           17
+
+C.6  PROCUREMENT TIMELINES
+
+
+
+ PROCUREMENT TIMELINE          DATE                      TIME
+
+
+  RFP Release Date                    02 MARCH 2026
+
+                                     10 MARCH 2026
+  Online Compulsory briefing session                                       10:00
+
+                                     12 MARCH 2026
+  Written questions of clarification – closing
+                                                                  16h00
+  date
+
+                                     16 MARCH 2026
+  Written response to all clarifications                                    16h00
+
+                                    24 MARCH 2026
+  Service Provider Proposals Due                                      11h00
+
+
+*Indicative dates
+
+
+
+
+
+                                                                                                           18
+
+C7. TERMS OF REFERENCE
+
+
+
+1. PURPOSE
+
+
+Ithala Development Finance Corporation (IDFC) requests proposals from suitable service providers to
+
+supply, install and configure Enterprise Wired and Wireless LAN infrastructure which will replace the
+
+current Cisco network infrastructure that is about to reach end of life (EOL).
+
+
+2. BACKGROUND
+
+
+Well-managed and reliable IT infrastructure is critical for supporting business operational objectives
+
+through ensuring reliable connectivity, enhanced productivity, and higher levels of information security.
+
+As an operational requirement, IT infrastructure needs to be regularly maintained and updated in line
+
+with technological advances in order to stay relevant to the ever-changing technology landscape and
+
+to remain resilient to emerging threats. IDFC conforms to this best practice through the appropriate ICT
+
+policy statement which stipulates that Network hardware need to be refreshed or updated in intervals
+
+of five (5) years.
+
+
+Ithala Development Finance Corporation (IDFC) network infrastructure comprises of a fully managed
+
+Cisco network with core and access switches that are stacked providing network connectivity for end-
+
+users throughout IDFC via its LAN network.
+
+
+In addition to the LAN network, IDFC network infrastructure also includes a fully managed Cisco
+
+wireless solution offering high availability, high performance, scalability, and a secure wireless network
+
+connectivity. This solution broadcasts wireless signals and coverage throughout most parts of the IDFC
+
+building spanning across multiple floors and sites.
+
+
+IDFC’s existing network infrastructure consists of the following:
+
+
+        •  4x Cisco WS-C4506-E
+        •  60x Cisco WS-C2960X
+        •  2x Cisco AIR-CT5508-K9 controllers
+        •  60x Cisco AIR-CAP2702I-E-K9
+
+
+The primary objective of this project is to replace the outdated infrastructure with product models that
+
+are currently at the forefront of market trends and technology, as recommended by the original
+
+equipment manufacturer (OEM).
+
+
+
+
+
+                                                                                                           19
+
+3. SCOPE OF SERVICES
+
+
+The scope of services includes:
+
+
+3.1.   ENTERPRISE WIRED NETWORK
+
+3.1.1.  Supply, install and configure a new Software-Defined Campus Core Network (SDN)
+
+        infrastructure for Ithala Development Finance Corporation (IDFC) in the following sites:
+
+            a.  Ithala Trade Centre (Durban)
+
+            b.  Ithala Power Centre (New Germany)
+
+             c.  Ithala Isithebe Industrial Estate (Mandeni)
+
+            d.  Ithala Ezakheni Industrial Estate (Ladysmith)
+
+            e.  Ithala Madadeni Industrial Estate (Newcastle)
+
+                 f.   Ithala Long Market (Pietermaritzburg)
+
+3.1.2. The campus core network must include 4x Enterprise-class core switches with 1/10/25GB
+
+     SFP28 access ports and 40/100GB QSFP28 ports for interconnect. Core switches must be
+
+       configured for High Availability (HA) technology to ensure redundancy. e.g. Cisco C9500-
+
+     48Y4C or equivalent.
+
+3.1.3.  Supply, install and configure 25x 48-port Access Switches for IDFC. E.G. Cisco C9300L-48P-
+
+      4X-A or equivalent. The access switches provide must provide POE+ and must be stackable.
+
+3.1.4.  Supply, install and configure 10x 48-port POE++ Access switches for IDFC. E.G. C9300L-
+
+      48UXG-4X-A or equivalent. The access switches provide must provide POE++ and must be
+
+       stackable.
+
+3.1.5.  Supply, install and configure 10x 24-port POE++ Access switches for IDFC. E.G. C9300L-
+
+      24UXG-4X-A or equivalent. The access switches provide must provide POE++ and must be
+
+       stackable.
+
+3.1.6. To enhance security within the access layer, all access switches supplied must be able to
+
+       support MACSEC with AES-256-bit encryption.
+
+3.1.7.  Supply, configure and provision a Network Management System such as a physical
+
+       appliance. E.G. Cisco Catalyst (ex-DNA) Centre or equivalent, including a support and
+
+      maintenance contract and a subscription license for all connected devices for a period of 36
+
+      months.
+
+3.1.8. Network Management System must include capability for compliance checks for device-
+
+       posture and remediation options using Cisco Secure Client or equivalent, to ensure that a
+
+       device is secure and compliant before gaining access to the network.
+
+3.1.9.  Supply, configure and provision a physical On-Prem Network Access Control (NAC) Solution -
+
+       Cisco ISE module inclusive of 450 Premier and 962 Advantage subscriptions or an equivalent
+
+     NAC solution with a similar licensing model for a period of 36 months.
+
+3.1.10. NAC solution must include the capability of Software-Defined segmentation by reducing the
+
+       attack surface using security groups to restrict lateral movement of malware to contain
+
+        threats.
+
+3.1.11. NAC solution must also be capable of dynamic VLAN assignment and Zero Trust Access
+
+      which includes contextual identity with attributes such as user, time, device, device posture,
+                                                                                                           20
+
+        location, threat, vulnerability and access type.
+
+3.1.12. The Proposed solution must include Next-Generation Security firewalls to isolate server farm
+
+       from the entire network for complete segmentation.
+
+3.1.13. The Next-Generation Security Firewall device must integrate with the NAC solution to provide
+
+       the capability of threat containment by removing the endpoint from the network.
+
+3.1.14. The Next-Generation firewall devices must be integrated with the Network Management
+
+      System for ease of monitoring from a single pane glass.
+
+3.1.15. The solution provided must include a Digital Experience Monitoring (DEM) module. E.G. Cisco
+
+      Thousand Eyes or equivalent.
+
+3.1.16. Supply of a 36-month next business day (NBD) support and maintenance contract with the
+
+    OEM for all software/ hardware including but not limited to Enterprise-class core Switches,
+
+      Network management console, NAC Solution, DEM Solution and next-Generation Security
+
+        firewalls.
+
+3.1.17. All equipment must include an OEM warranty.
+
+3.1.18. All necessary licenses to be included in the solution to ensure full functionality of the Network
+
+      Management System
+
+3.1.19. Cost for installation and additional sundry items e.g. cabling (where required), networking
+
+       accessories, etc. to be included in the proposed solution.
+
+
+3.2.   ENTERPRISE WIRELESS NETWORK
+
+3.2.1.  Supply, install and configure a new wireless network solution for Ithala Trade Centre and
+
+        Ithala remote sites which will replace the existing Wireless Network solution.
+
+3.2.2.  Supply, install and configure 55x latest Wi-Fi 7 Cisco CW9176I-CFG series or equivalent
+
+       wireless access point devices which will replace the existing AP’s within IDFC offices.
+
+      Coverage area should include all office areas within building excluding stairways.
+
+3.2.3.  Supply, install and configure 2x fixed wireless controllers (physical appliance) for
+
+      management of the wireless network. Controller specification must be Cisco C9800-L-F-K9
+
+       appliance or equivalent.
+
+3.2.4.  Wireless controllers must be configured for High Availability (HA) technology using Stateful
+
+       Switchover (SSO) concept.
+
+3.2.5.  Wireless system must be able to authenticate with active directory.
+
+3.2.6. Access Points located at remote sites must be able to connect to the main controller (currently
+
+       connecting via Flex-Connect mode) at Ithala Trade Centre building.
+
+3.2.7.  Configure and provision the Network management console to function with wireless networks
+
+      – Network Management Console must be a physical On-Premises appliance such as Cisco
+
+       Catalyst Centre Advantage (DNA) or equivalent which must include a 36-month support
+
+        license.
+
+3.2.8.  All necessary licenses to be included in the solution to ensure full functionality of the Wireless
+
+      Network System.
+
+3.2.9. Cost for installation and additional sundry items e.g. cabling (where required), networking
+
+       accessories, etc. to be included in the proposed solution.
+
+
+                                                                                                           21
+
+3.2.10. Supply of a 36-month Next business day (NBD) support and maintenance contract with the
+
+    OEM for all software/ hardware including but not limited to Wi-Fi controller, Wi-Fi access
+
+        points, network management console, etc.
+
+
+4.    DELIVERABLES
+
+4.1    Fully configured and functional Enterprise Wired and Wireless Network solution including
+
+     Campus Core switches, Access switches, Wireless Access Points, Wireless Controllers,
+
+      Network Management Software (Cisco Catalyst (DNA) Centre or equivalent), NAC Solution
+
+       (Cisco ISE or equivalent), Digital Experience Monitoring (DEM) – (Cisco Thousand Eyes or
+
+       equivalent) and next-Gen Security firewalls as per Deliverables Table 1.0 below.
+
+4.2    Existing network configuration to be successfully migrated and tested on new solution.
+
+4.3  OEM 8x5 Next Business Day (NBD) support and maintenance contract must be included for
+
+       the new proposed solution.
+
+4.4    Subscription license as per the Statement of Requirements (SOR) table in Evaluation Criteria
+
+     E must be included in the proposed solution.
+
+4.5    Project management deliverables including work breakdown structure, task and dependency-
+
+       driven project schedule, weekly status reports including risk and task progress updates, issues
+
+       log and test results.
+
+4.6    Provide training and skills transfer for up to 4x administrators on the new platform technology
+
+      and tools.
+
+4.7     All equipment must include an OEM warranty.
+
+4.8   Management of project from inception to hand-over stage of the project.
+
+4.9    Cost for installation and additional sundry items e.g. cabling (where necessary), networking
+
+       accessories, etc. to be included in the proposed solution.
+
+4.10  Proposed solution must include OEM certification (associate/professional/expert) credits for 4
+
+       engineers in relation to the new proposed Enterprise Wired and Wireless Network solution.
+
+
+       Deliverables Table 1.0
+
+
+        No.   Item                                            QTY
+
+           1.    Campus Core Switch
+
+         1.1    Cisco C9500-48Y4C-A or equivalent                               4
+
+         1.2   8x5xNBD 36-month Support                                     4
+
+         1.3    Redundant Power Supply (if applicable) -
+                                                                         4
+            650W AC Config 4 Power Supply front to back cooling
+
+         1.4    Network Management license (36-month) - Cisco C9500-DNA-A-3Y
+                                                                         4
+                 or equivalent
+         1.5   QSFP - 100GBASE-CR4 Passive Copper Cable, 1m or equivalent       4
+
+         1.6   1000BASE-T SFP transceiver module for Category 5 copper wire       15
+
+
+
+                                                                                                           22
+
+No.   Item                                            QTY
+
+2.     Access Switches – 48-Port POE+
+
+2.1    48 Port POE switch - Cisco C9300L-48P-4X-A or equivalent           25
+
+2.2   8x5xNBD 36-month Support                                     25
+
+2.3     Additional Platinum rated power supply 715W AC80+                 25
+
+2.4    Network Management license (36-month) -                         25
+
+       Cisco C9300L-DNA-A-48-3Y or equivalent
+2.5    Switch Stacking Kit (if applicable)                                 28
+
+2.6   10GBASE-SR SFP Module, Enterprise-Class                       50
+
+2.7   1000BASE-SX SFP transceiver module, MMF, 850nm, DOM           32
+
+2.8    Network PLUG-n-PLAY License (Zero Touch)                       25
+
+2.9    36-month term license for Network Management                     25
+
+3.    Access Switches – 48-Port POE ++
+
+3.1    48-Port POE++ switch – Cisco C9300L-48UXG-4X-A or equivalent      10
+
+3.2   8x5xNBD 36-month Support                                     10
+
+3.3     Additional Platinum rated power supply 1100W AC80+                10
+
+3.4    Network Management license (36-month) -
+                                                                 10
+       Cisco C9300L-DNA-A-48-3Y or equivalent
+3.5    Network PLUG-n-PLAY License (Zero Touch)                       10
+
+3.6    36-month term license for Network Management                     10
+
+4.    Access Switches – 24-Port POE ++
+
+4.1    24-Port POE++ switch – Cisco C9300L-24UXG-4X-A or equivalent      10
+
+4.2   8x5xNBD 36-month Support                                     10
+
+4.3     Additional Platinum rated power supply 715W AC80+                 10
+
+4.4    Network Management license (36-month) -
+                                                                 10
+       Cisco C9300L-DNA-A-24-3Y or equivalent
+
+4.5    Network PLUG-n-PLAY License (Zero Touch)                       10
+
+4.6    36-month term license for Network Management                     10
+
+5.     Network Access Control Solution (NAC) 3-Year
+
+5.1   On-Prem NAC Appliance – Cisco ISE or equivalent                   2
+
+5.2   8x5xNBD 36-month Support                                     2
+
+5.3   960GB 2.5 inch High Performance NVMe                           2
+
+5.4   Memory 32GB DDR5-6400                                      4
+
+5.5   CPU AMD 9115 2.6GHz 125W 16C/64MB Cache DDR5 6000MT/s      2
+
+                                                                                                 23
+
+C8.     No.   Item                                            QTY
+
+         5.6   10GBASE-SR SFP Module, Enterprise-Class                        4
+
+         5.7     Additional Titanium rated power supply 1200W AC                   2
+
+         5.8    Device Admin Node License                                     2
+
+         5.9    36-month subscription licence for NAC solution endpoints – Cisco
+                                                                        962
+                   Identity Service Engine Advantage or equivalent with basic support.
+
+        5.10   36-month subscription licence for NAC solution endpoints – Cisco
+                                                                        450
+                   Identity Service Engine Premier or equivalent with basic support.
+
+          6.    SDN Controller
+
+         6.1   On-Prem Network Management System/ Controller – Cisco Catalyst
+                                                                         3
+               Center (DNA) Gen3 (32 core) or equivalent
+
+         6.2   8x5xNBD 36-month Support                                     3
+
+         6.3   10GBASE-CU SFP+ Cable 3 Meter                               6
+
+         6.4   Memory 32GB RDIMM DRx4 3200                               24
+
+         6.5   CPU - Intel 6326 2.9GHz/185W 16C/24MB DDR4 3200MHz            6
+         6.6    1.9TB 2.5 inch Enterprise Value 12G SAS SSD                      6
+
+         6.7   12G SAS RAID Controller                                       3
+
+         6.8   2300W AC Power Supply for Rack Servers Titanium                  6
+
+         6.9    Network Controller Licenses                                     3
+
+          7.     Data Centre Firewalls (1RU)
+
+         7.1   On-Prem Next Generation firewalls – Cisco Secure Firewall 3105
+                                                                         2
+                appliance or equivalent
+         7.2   8x5xNBD 36-month Support                                     2
+
+         7.3    36-month Threat Defence and AMP subscription                     2
+
+         7.4    Redundant 400W AC Power supply                               2
+
+         7.5   10GBASE-SR SFP Module, Enterprise-Class                        4
+
+         7.6     Firewall Management Centre (FMC)                               1
+
+         7.7   8x5xNBD 36-month Support (FMC)                               1
+
+          8.     Wireless Network Solution
+
+         8.1   On-Prem Wireless Network Controller with fibre uplink – E.G. Cisco      2
+              C9800-L-F-K9 or equivalent
+
+         8.2            8x5xNBD 36-month Support (Controller)                            2
+
+         8.3   10GBASE-SR SFP Module, Enterprise-Class                        4
+
+         8.4    Wi-Fi 7 Access Points – E.G. Cisco 9176i-CFG or equivalent           55
+
+         8.5   8x5xNBD 36-month Support (Wireless Access Points)                55
+
+         8.6                Wireless License - Cisco Wireless License Advantage or equivalent     55
+
+
+
+                                                                                                           24
+
+  EVALUATION PROCESS & CRITERIA
+
+
+  The evaluation shall be conducted in three (3) stages as follows
+   1. Administrative Compliance
+   2. Functionality Evaluation
+   3. Price and Specific Goals
+
+
+    1. STAGE ONE: ADMINISTRATION COMPLIANCE             Yes   No   Noted       If no,
+                                                                                                     indicate
+                                                                                                 deviation
+All bids duly lodged will be examined to determine compliance
+with bidding requirements and conditions. Bids with obvious
+deviations from the requirements/conditions, will be eliminated
+from further adjudication.
+
+Mandatory Requirements
+
+Bids will be considered compliant if the following documents have been
+submitted or condition met (whichever is applicable}
+     •  The bidder must be registered as a vendor on the National
+        Treasury Central Supply Database (CSD), which can be found
+         at  https://secure.csd.gov.za/  in  compliance  with  National
+        Treasury compliance paragraph 4.2 with instruction note 4a of
+       2016/2017
+
+     •  The bidder must be in good standing with SARS prior to the
+       award of the bid. and such information will be verified through
+        Central  Supply Database  or  using SARS  efiling  pin,  in
+        compliance  with  National  Treasury  instruction  note 9  of
+       2017/2018
+
+     •  SBD 1 – A completed and duly signed Invitation to bid- A
+         resolution letter MUST be attached as per the requirement of
+      SBD 1.
+
+     •  SBD 4 - A completed and duly signed declaration of Interest.
+        Should a conflict of interest not be declared or identified, the
+         bid would be declared non- responsive. NB Bidder must
+        ensure all pages are complete and all questions answered,
+       you are to indicate not applicable (N/A) where appropriate.
+
+     •  The bidder must be an accredited approved/certified partner or
+          reseller  of  the  Original  Equipment  Manufacturer (OEM)-
+        Provide   a    letter   from   the  OEM    that   confirms
+         partnership/accreditation.
+
+     •  The bidder must propose a solution from an Original Equipment
+
+        Manufacturer (OEM) that is listed as a Challenger or Leader in
+
+        the 2024/2025 Gartner Magic Quadrant for Enterprise Wired
+
+       and Wireless LAN infrastructure.
+
+     •  The bidder must include a letter of authority from the OEM that
+        authorizes them to supply the specific products or services for
+        the purposes of this RFP.
+
+     •  Proof of online compulsory briefing attendance – MS Teams
+
+                                                                                                               25
+
+         register
+
+Failure to provide any mandatory information as requested above
+will result in the submission being deemed non-responsive.
+
+
+ STAGE TWO: FUNCTIONALITY EVALUATION
+
+
+Responsive bids will be evaluated according to the criteria indicated on
+pages 27-39
+
+ STAGE THREE: PRICE AND SPECIFIC GOALS
+
+ Price evaluation will be performed on bidders who passed stage 1 and
+ 2 above
+
+ ADJUDICATION OF BID
+
+
+   The quotation shall be awarded at the sole and absolute discretion
+     of IDFC. IDFC hereby represents that it is not obliged to award this
+    bid to any bidder. IDFC is entitled to retract this bid at any time as
+    from the date of issue. IDFC is not obliged to award this bid to the
+    bidder that bids the lowest.
+
+
+   A bidder shall be disqualified from bidding if any attempt is made
+     either directly to solicit and/or canvass any information from any
+    employee or agent of IDFC regarding this quotation from the date
+    the offer is submitted until the date of award of the quotation.
+
+
+
+
+
+                                                                                                              26
+
+2. STAGE TWO- FUNCTIONALITY EVALUATION
+
+Scores will be evaluated up to a maximum of 100 points as per the summary table below.
+
+Bidders must score greater than 80 points to proceed to the next evaluation process. IDFC reserves
+
+the right to disqualify a bidder if the bidder’s proposed solution does not meet the mandatory
+
+requirements listed under the Statement of Requirements (SOR) section E.
+
+     Criteria                                                Maximum
+
+                                                                          Points
+
+     A. Bidders Level of Partnership with OEM                                   20
+
+     B. Bidder’s Network Infrastructure installation experience                       10
+
+    C. Project Implementation Plan/ Timelines                                  10
+
+    D. Statement of Requirements (SOR)                                      60
+
+     Total evaluation points                                                100
+
+
+Evaluation Criteria A: Bidder’s level of partnership with OEM                     (10 points)
+
+The bidder’s partnership level shall be scored as below. The bidder to provide a valid OEM partnership
+
+certificate and provide valid signed letter from the OEM that stipulates the available OEM partnership
+
+levels and confirms the level of partnership of which the bidder is associated with. The certificate/letter
+
+must not be older than 18 months from date of submission.
+
+
+         Score  Criteria
+
+           20   Partner Level 1 (OEM highest partnership level)
+
+           15   Partner Level 2
+
+            5   Partner Level 3
+
+            0   Partner Level 4 (OEM lowest partnership level)
+
+
+Evaluation Criteria B: Bidder’s experience in Implementing Enterprise Networks (10 points)
+
+The bidder must provide client reference letters where the bidder has successfully implemented similar
+
+projects relating to Enterprise Core and Access network layer switches. The reference letters should
+
+be related to projects implemented since Jan 2017 (last 7 years) and should be presented in the
+
+following format:
+
+
+         1.  Written on an official letterhead from the client.
+
+         2.  Description of services provided must in specified.
+
+         3. Must include the year in which the project was completed.
+
+
+ Score    Criteria
+
+    10   Four (4) or more reference letters for implementing Enterprise Wired and Wireless
+
+          Network Solutions.
+
+    8    Three (3) reference letters for implementing Enterprise Wired and Wireless Network
+
+
+                                                                                                           27
+
+            Solutions.
+
+    5   Two (2) reference letters for implementing Enterprise Wired and Wireless Network
+
+           Solutions
+
+    3   One (1) reference letter for implementing Enterprise Wired and Wireless Network
+
+           Solutions
+
+    0   No customer references provided.
+
+
+Evaluation Criteria C: Project Implementation Plan or Timelines                   (10 points)
+
+This item  will be measured on relevant project deliverables against expected timeframes, post
+
+equipment (BOM) delivery on site. Bidders are to provide a detailed project plan to this effect for the
+
+following scope of services:
+
+
+
+    Score   Criteria
+
+
+
+       10    Project Implementation Plan indicating clear project deliverables with clear
+
+             timeframe between 0 – 8 weeks
+
+       8    Implementation Project Plan indicating clear project deliverables with clear
+
+             timeframe of between 8 – 12 weeks
+
+       3    Implementation Project Plan indicating clear project deliverables and timeframe
+
+            between 12 – 16 weeks
+
+       0    Implementation Project Plan indicating no project deliverables, and/or timeframe
+
+             exceeding 16 weeks, or No project plan
+
+
+
+
+Evaluation Criteria (D): Statement of Requirements (SOR)                         (60 points)
+
+
+Bidder to complete the SOR spreadsheet with clarity on whether the bidder is able to supply the
+
+identified hardware/ software component as per the proposed solution. The requirements are
+
+indicated on the Statement of Requirements (SOR) table below.
+
+
+The maximum score for the SOR is 60 points. The formula for the 60 points will be
+
+calculated as follows:
+
+
+                  Bidder’s score (SOR) / 1000 (Max Score) x 60 (max weight)
+
+                               = Functionality score (SOR criteria)
+
+The following rating will be used to evaluate bidder’s response to each requirement:
+
+
+
+
+
+                                                                                                           28
+
+Response      Rating                              Explanation
+
+                          Hardware / Infrastructure/ component NOT SUPPORTED by the
+   NS           0
+                             Bidder
+
+              Refer to Points Hardware / Infrastructure/ component/s SUPPORTED by the Bidder
+   SUP
+                  in table below
+
+
+
+
+N.B. All Mandatory items listed below must be supported before any points can be allocated to
+
+the non-mandatory items. The bidder must ensure that the appropriate column (SUP/ NS) is
+
+ticked for each sub-item.
+
+
+In order to be awarded points under SOR, the bidder must provide a complete Bill of Materials
+(BOM)  for the proposed solution which must include product models and OEM data
+specifications sheets for each type of hardware supplied.
+              Key Features/Functionality           POINTS  SUP  NS
+ 1      Functional Requirements
+ 1.1      Overall Functional Requirements
+           Single OEM for complete End to End Solution (Campus
+         Network Switches, Enterprise Wireless Network Solution,
+ 1.1.1    Network Management System, NAC Solution, DEM Solution        20
+             (Digital Experience Monitoring), next-Generation Security
+             firewall.
+                                                            Sub-total     20
+ 2        Fully Redundant SDN Controllers / Unified Network Management Dashboard
+ 2.1     Mandatory Requirements – SDN Controller
+         Network Management Dashboard must be provided as an On-
+ 2.1.1    Premises solution as a physical appliance. E.g. Cisco Catalyst    Mandatory
+          Centre (DNA) or equivalent.
+ 2.1.2     Fully redundant Software Defined Network (SDN) Controllers.    Mandatory
+         Network Management system must integrate with Network
+ 2.1.3    Access Control (NAC) solution to configure user and group-      Mandatory
+         based policies including network segmentation.
+           AI Network Assurance and Analytics for end-to-end visibility,
+ 2.1.4                                                            Mandatory
+          E.G. Thousand Eyes or equivalent.
+         Automated Device Provisioning with plug and play tools such as
+ 2.1.5                                                            Mandatory
+          Zero Touch Provisioning (ZTP).
+ 2.1.6    Dual Redundant Power supply (1+1)                         Mandatory
+          Granular end to end network segmentation without the use of
+ 2.1.7                                                            Mandatory
+         ACL’s or firewalls using SGT’s or similar.
+         Must provide deep insights into performance and end user
+ 2.1.8                                                            Mandatory
+          experience of applications in real time.
+         Must provide insights into PoE devices, power consumption,
+ 2.1.9                                                            Mandatory
+           operational status.
+         Must support Access Points onboarding, provisioning and
+ 2.1.10                                                           Mandatory
+         management.
+         Must support advanced monitoring and assurance capabilities
+ 2.1.11                                                           Mandatory
+           with sFlow or Netflow.
+         Must support detection of unauthorized access points. Must
+ 2.1.12                                                           Mandatory
+           detect and mitigate wireless intrusion threats.
+ 2.1.13   Must support multiple domains.                              Mandatory
+
+
+
+                                                                                                           29
+
+              Key Features/Functionality           POINTS  SUP  NS
+        Must support RESTful APIs, Python SDK and Ansible certified
+2.1.14                                                           Mandatory
+           collection.
+         Network Management System must provide AI and ML
+2.1.15                                                           Mandatory
+           capabilities for wired and wireless network troubleshooting.
+2.1.16   Support for automated network configuration.                  Mandatory
+         Support for Segmentation Policy Enforcement on managed
+2.1.17                                                           Mandatory
+         network devices.
+          Trust Analytics - detailed EndPoint Classification with behaviour
+2.1.18                                                           Mandatory
+          analysis and trust score features.
+2.1.19   Support 10GBASE-SR transceiver module (supply 2 in total).     Mandatory
+         Cisco DNA Centre (Catalyst Centre) Network Advantage
+2.1.20                                                           Mandatory
+         License or equivalent.
+         Next business day – Business hours technical support 36-
+2.1.21                                                           Mandatory
+        months
+2.2      Functional Requirements - SDN Controller
+          Centralized dashboard (single pane) to provide network
+2.2.1    management and network assurance for wired and wireless         20
+         network.
+          Policy based automation with one policy for wired and wireless
+2.2.2                                                            10
+         networks.
+2.2.3      Ability to provide instruments and features for network design.        5
+2.2.4     AI Analytics providing detection and threat mitigation.              20
+         Assurance – Telemetry on application performance and user
+2.2.5                                                            10
+          connectivity in real time.
+         Encrypted Traffic Analytics (ETA) - Advanced Security feature
+         using Machine Learning to identify and take action against
+2.2.6                                                            10
+          threats or anomalies including Malware in encrypted traffic
+          (without further decryption)
+2.2.7     Integration with Meraki Cloud Dashboard.                       15
+          Integration with MS Teams for view of quality metrics for audio,
+2.2.8                                                            10
+         video troubleshooting.
+        Must support up to 5000 devices (switch, router, wireless
+2.2.9                                                             5
+           controller, wireless access points).
+         Support network connectivity between provisioned and non-
+2.2.10                                                           10
+          provisioned network devices.
+         Support Wi-Fi analyzer, planning tools and AI-enhanced radio
+2.2.11                                                            5
+         resource management.
+                                                           Sub-total     120
+3      Network Access Control (NAC) (QTY = 2)
+3.1     Mandatory Requirements - Network Access Control (NAC)
+        Must be supplied as a physical appliance - E.G. Cisco ISE or
+3.1.1                                                            Mandatory
+          equivalent.
+         Support geo redundancy and distributed architecture with
+3.1.2                                                            Mandatory
+          centralized management console and reporting.
+        Must support agentless scanning of network for detection and
+3.1.3                                                            Mandatory
+         endpoint classification of devices.
+3.1.4    Must support MS Active Directory integration, LDAP, RADIUS.    Mandatory
+3.1.5    Must support TACACS+ for AAA capabilities.                  Mandatory
+3.1.6    Must support MDM/EMM solution integration.                  Mandatory
+        Must enforce dynamic network access control and enable
+3.1.7                                                            Mandatory
+         network segmentation in traditional and SDN-enabled networks.
+        Must support client risk and posture assessment and automatic
+3.1.8                                                            Mandatory
+         remediation
+        Must support clients based on Windows 10 and later, Mac OS X
+3.1.9    10.13 and later, Linux (RHEL, SUSE) for risk and posture        Mandatory
+         assessment.
+                                                                                                          30
+
+              Key Features/Functionality           POINTS  SUP  NS
+        Must support software interface for 3rd party vendor integrations
+3.1.10                                                           Mandatory
+           to automate threat containment.
+        Must be provided with necessary licensing to support 1412
+3.1.11                                                           Mandatory
+            client devices.
+        Must support temporary access policies to provide
+3.1.12    authentication and authorization for contractors or third-party     Mandatory
+          guests.
+        Must support dACLs, VLAN assignment, URL redirection,
+3.1.13                                                           Mandatory
+       named ACLs assignment
+         Support customizable Guest portal to provide authentication and
+3.1.14                                                           Mandatory
+         onboarding for wireless clients.
+        Must support multiple reports for network, compliance and
+3.1.15                                                           Mandatory
+          analysis.
+         Support for Self- Service device onboarding without requiring
+3.1.16                                                           Mandatory
+          the assistance of IT administrators
+        Automated device-compliance for device-posture and
+3.1.17                                                           Mandatory
+         remediation using agentless option
+3.1.18   Must be capable of supporting up to 50000 endpoint devices.     Mandatory
+3.1.19   10GBASE-SR transceiver module – 2 per appliance              Mandatory
+3.1.20   Dual Redundant Power supply (1+1)                         Mandatory
+3.1.21   Next business day – Business hours technical support 36-month  Mandatory
+3.2      Functional Requirements – Network Access Control (NAC)
+        Must be managed with Web console without additional agents
+3.2.1                                                            15
+        and extensions.
+3.2.2    Support client risk assessment with automatic remediation.         20
+        Must support Machine Learning capabilities to identify and
+3.2.3                                                            20
+         automate grouping of unknown endpoints.
+3.2.4    Must create an inventory of all devices on the network.             10
+                                                           Sub-total     65
+4     Campus Core Switches (QTY = 4)
+4.1     Mandatory Requirements – Core Switches
+         Device shall support Software-Defined Network (SDN)
+4.1.1                                                            Mandatory
+           capabilities. E.G. Cisco C9500-48Y4C-A or equivalent
+        The proposed equipment shall support switching capacity of at
+4.1.2                                                            Mandatory
+           least 6 Tbps.
+        The proposed equipment shall support forwarding capacity of at
+4.1.3                                                            Mandatory
+           least 2 Bpps.
+4.1.4    Device shall support MACsec 256-bit (AES-GCM) Encryption     Mandatory
+4.1.5     Uplink Ports = Min 4x 40/100Gig QSFP28 ports.                Mandatory
+4.1.6    High density Access ports = 48x 1/10/25Gig SFP28 ports.       Mandatory
+4.1.7     Resiliency and High Availability (Virtual Switch stacking/SSO).    Mandatory
+4.1.8    Dual Redundant Power supply (1+1)                         Mandatory
+4.1.9     Field replaceable fans N+1 without downtime                  Mandatory
+4.1.10   Devices must support VRFs to separate routing domains.        Mandatory
+4.1.11   Plug n Play for campus rollouts.                             Mandatory
+        The equipment shall support multi chassis LAG to allow uplinks
+4.1.12   from Access switches to be split across 2x Core switches with    Mandatory
+           active/active links.
+        The equipment shall support clustering of physical two switches
+4.1.13    into a single logical entity providing centralized control and       Mandatory
+        management planes.
+         Network Management Subscription license for 3 years – E.G.
+4.1.14                                                           Mandatory
+      DNA advantage license or equivalent
+
+
+
+                                                                                                          31
+
+              Key Features/Functionality           POINTS  SUP  NS
+         Network Assurance and Analytics for end-to-end visibility, E.G.
+4.1.15   Thousand Eyes or equivalent, Global insights, Trends,          Mandatory
+         Compliance, App health, etc
+         Devices shall support IoT integration with Precision Time
+4.1.16                                                           Mandatory
+          Protocol (PTP; IEEE 1588v2).
+4.1.17   15x 1000BASE-T transceiver modules included.                Mandatory
+        4x 100GBASE-CR4 Passive Copper Cable (1M) or equivalent
+4.1.18                                                           Mandatory
+           for interconnect included
+4.1.19   Rack mount accessories and power cords                     Mandatory
+4.1.20   Next business day – Business hours technical support 36-month  Mandatory
+4.2      Functional Requirements – Core Switches
+4.2.1   1RU form factor device with modular architecture design           15
+4.2.2    Device shall support a minimum 16 Gigabytes flash memory         5
+4.2.3    Device shall support a minimum 16 Gigabytes system memory      15
+4.2.4     Switching devices should have at least 36 MB of packet buffer       10
+        The proposed licenses shall support advanced L2 and L3
+          protocols. Devices must support EVPN overlay network using
+4.2.5                                                            10
+      BGP and VXLAN. Devices must support IPv6 routing for future
+           scalability
+         Devices have RFID and LED Beacon to simplify asset
+4.2.6                                                             5
+        management, location and tracking.
+         Devices must support management options: CLI, Web UI, on-
+4.2.7                                                            10
+        prem system and Cloud Management systems.
+4.2.8    Devices must support static and dynamic NAT and PAT            5
+         Dual Redundant Platinum Rated Power Supplies 715W AC
+4.2.9                                                            15
+        each with 94% power efficiency
+4.2.10    Integration into Meraki Dashboard.                             5
+         Support for model-driven programmability including NETCONF,
+4.2.11                                                           15
+       RESTCONF, YANG and ZTP
+4.2.12   Support for Network Automation                               10
+4.2.13   Enhanced Limited Lifetime Hardware Warranty (EOS + 5 years)      15
+                                                           Sub-total     135
+5      Access Switches 48-port POE+ (QTY = 25)
+5.1     Mandatory Requirements – Access Switches 48-port POE+
+         Device must be capable of operating in a Software-Defined
+         Network (SDN) architecture with centralized control plane
+5.1.1                                                            Mandatory
+       managed by a network controller.
+         E.G. Cisco C9300L-48P-4X-A or equivalent.
+        The proposed equipment shall support high switching capacity
+5.1.2                                                            Mandatory
+           of at least 176 Gbps.
+        The proposed equipment shall support forwarding capacity of at
+5.1.3                                                            Mandatory
+           least 130 Mpps.
+5.1.4    Device shall support MACsec 256-bit (AES-GCM) Encryption     Mandatory
+5.1.5     Uplink Ports = Min 4x 1/10Gig SFP+ ports                     Mandatory
+        Access ports = 48x Base-T 1Gig interfaces on same platform.
+5.1.6                                                            Mandatory
+          Ports must be capable of providing POE+.
+        The proposed equipment shall support a minimum of 1200W
+5.1.7                                                            Mandatory
+       PoE+ budget per switch.
+        The equipment shall support clustering of up to 8 switches into a
+5.1.8     single logical entity providing centralized control and            Mandatory
+        management planes.
+5.1.9    Dual Redundant Power supply (1+1)                         Mandatory
+5.1.10    Field replaceable fans N+1 without downtime                  Mandatory
+         Devices must support VRFs to separate routing domains.
+5.1.11                                                           Mandatory
+         Supported VRF number must be at least 256.
+                                                                                                          32
+
+              Key Features/Functionality           POINTS  SUP  NS
+         Network Management Subscription license for 36 months – E.G.
+5.1.12                                                           Mandatory
+      DNA advantage license or equivalent
+         Devices shall support IoT integration with Precision Time
+5.1.13                                                           Mandatory
+          Protocol (PTP; IEEE 1588v2).
+         Support 1000BASE-SX transceiver module (A total of 32
+5.1.14                                                           Mandatory
+          transceivers to be supplied for all switches)
+         Support 10GBASE-SR transceiver module (A total of 50
+5.1.15                                                           Mandatory
+          transceivers to be supplied all switches)
+5.1.16   Rack mount accessories and power cords                     Mandatory
+5.1.17   Next business day – Business hours technical support 36-month  Mandatory
+5.2      Functional Requirements – Access Switches 48-port POE+
+5.2.1   1RU Form factor                                           15
+5.2.2    Device shall support a minimum 16 Gigabytes flash memory         5
+5.2.3    Device shall support a minimum 8 Gigabytes system memory       15
+5.2.4     Switching devices should have at least 16 MB of packet buffer       10
+        The proposed licenses shall support advanced L2 and L3
+          protocols. Devices must support a EVPN overlay network using
+5.2.5                                                            10
+       BGP, VXLAN, OSPF, PBR, IS-IS, MPLS. Devices must support
+         IPv6 routing.
+         Devices must have RFID and LED Beacon to simplify asset
+5.2.6                                                             5
+        management, location and tracking.
+         Devices must support management options: CLI, Web UI, On-
+5.2.7                                                            10
+         Premises and Cloud Management systems.
+         Support for model-driven programmability including NETCONF,
+5.2.8                                                            15
+       RESTCONF, YANG and ZTP
+         Switch clustering accessories must be included to support up to
+5.2.9                                                            20
+        320Gbps.
+5.2.10   Device must support static and dynamic NAT and PAT             5
+5.2.11    Integration into Meraki Dashboard.                             5
+5.2.12   Enhanced Limited Lifetime Hardware Warranty (EOS + 5 years)      15
+                                                           Sub-total     130
+6      Access Switches 48-port with POE++ specification (QTY = 10)
+6.1     Mandatory Requirements – Access Switches 48-port POE++
+         Device must be capable of operating in a Software-Defined
+         Network (SDN) architecture with centralized control plane
+6.1.1                                                            Mandatory
+       managed by a network controller. E.G. Cisco C9300L-48UXG-
+        4X-A or equivalent
+        The proposed equipment shall support high switching capacity
+6.1.2                                                            Mandatory
+           of at least 390 Gbps
+        The proposed equipment shall support forwarding capacity of at
+6.1.3                                                            Mandatory
+           least 290 Mpps
+6.1.4    Device shall support MACsec 256-bit (AES-GCM) Encryption     Mandatory
+6.1.5     Uplink Ports = Min 4x 1/10Gig SFP+ ports                     Mandatory
+         High density ports = 12x multi-gig 100M/1G/2.5G/5G/10G
+6.1.6    copper interfaces and minimum 36x 10M/100M/1G copper       Mandatory
+          interfaces on the same platform.
+        The proposed equipment shall support minimum 1775W of PoE
+6.1.7                                                            Mandatory
+         budget per switch.
+            All access ports must be capable of providing PoE IEEE 802.3bt
+6.1.8                                                            Mandatory
+        (POE++) 60W or better.
+        The equipment shall support clustering up to 8 switches into a
+          single logical entity providing centralized control and
+6.1.9                                                            Mandatory
+        management planes. All clustering accessories must be
+          included to support up to 320Gbps.
+6.1.10   Dual Redundant Power supply (1+1)                         Mandatory
+
+                                                                                                          33
+
+              Key Features/Functionality           POINTS  SUP  NS
+6.1.11    Field replaceable fans N+1                                 Mandatory
+         Devices must support VRFs to separate routing domains.
+6.1.12                                                           Mandatory
+         Supported VRF number must be at least 256.
+         Network Management Subscription license for 36 months – E.G.
+6.1.13                                                           Mandatory
+      DNA advantage license or equivalent
+         Devices shall support IoT integration with Precision Time
+6.1.14                                                           Mandatory
+          Protocol (PTP; IEEE 1588v2).
+6.1.15   Rack mount accessories and power cords                     Mandatory
+6.1.16   Next business day – Business hours technical support 36-month  Mandatory
+6.2      Functional Requirements – Access Switches 48-port POE++
+6.2.1   1RU Form factor                                           15
+6.2.2    Device shall support a minimum 16 Gigabytes flash memory         5
+6.2.3    Device shall support a minimum 8 Gigabytes system memory       15
+6.2.4     Switching devices should have at least 16 MB of packet buffer       10
+        The proposed licenses shall support advanced L2 and L3
+          protocols. Devices must support a EVPN overlay network using
+6.2.5                                                            10
+       BGP, VXLAN, OSPF, PBR, IS-IS, MPLS. Devices must support
+         IPv6 routing.
+         Devices must have RFID and LED Beacon to simplify asset
+6.2.6                                                             5
+        management, location and tracking.
+         Devices must support management options: CLI, Web UI, on-
+6.2.7                                                            10
+        prem or cloud management systems.
+         Support for model-driven programmability including NETCONF,
+6.2.8                                                            15
+       RESTCONF, YANG and ZTP
+         Switch clustering accessories must be included to support up to
+6.2.9                                                            20
+        320Gbps.
+6.2.10   Devices must support static and dynamic NAT and PAT            5
+6.2.11    Integration into Meraki Dashboard.                             5
+        Enhanced Limited Lifetime Hardware Warranty (end of sale
+6.2.12                                                           15
+        announcement + 5 years)
+                                                           Sub-total     130
+7      Access Switches 24-port with POE++ specification (QTY = 10)
+7.1     Mandatory Requirements – Access Switches 24-port POE++
+         Device must be capable of operating in a Software-Defined
+         Network (SDN) architecture with centralized control plane
+7.1.1                                                            Mandatory
+       managed by a network controller. E.G. Cisco C9300L-24UXG-
+        4X-A or equivalent.
+        The proposed equipment shall support high switching capacity
+7.1.2                                                            Mandatory
+           of at least 270 Gbps
+        The proposed equipment shall support forwarding capacity of at
+7.1.3                                                            Mandatory
+           least 200 Mpps
+7.1.4    Device shall support MACsec 256-bit (AES-GCM) Encryption     Mandatory
+7.1.5     Uplink Ports = Min 4x 1/10Gig SFP+ ports                     Mandatory
+         High density ports = 8x multi-gig 100M/1G/2.5G/5G/10G copper
+7.1.6     interfaces and 16x 10M/100M/1G copper interfaces on the       Mandatory
+       same platform.
+        The proposed equipment shall support minimum 1440W of PoE
+7.1.7                                                            Mandatory
+         budget per switch.
+            All access ports must be capable of providing PoE IEEE 802.3bt
+7.1.8                                                            Mandatory
+        (POE++) 60W or better.
+        The equipment shall support clustering up to 8 switches into a
+7.1.9     single logical entity providing centralized control and            Mandatory
+        management planes.
+7.1.10   Power supply dual 1+1                                     Mandatory
+
+
+                                                                                                          34
+
+              Key Features/Functionality           POINTS  SUP  NS
+7.1.11    Field replaceable fans N+1                                 Mandatory
+         Devices must support VRFs to separate routing domains.
+7.1.12                                                           Mandatory         Supported VRF number must be at least 256.
+         Network Management Subscription license for 36 months – E.G.
+7.1.13                                                           Mandatory
+      DNA advantage license or equivalent
+         Devices shall support IoT integration with Precision Time
+7.1.14                                                           Mandatory
+          Protocol (PTP; IEEE 1588v2).
+7.1.15   Rack mount accessories and power cords                     Mandatory
+7.1.16   Next business day – Business hours technical support 36-month  Mandatory
+7.2      Functional Requirements – Access Switches 24-port POE++
+7.2.1   1RU Form factor                                           15
+7.2.2    Device shall support a minimum 16 Gigabytes flash memory         5
+7.2.3    Device shall support a minimum 8 Gigabytes system memory       15
+7.2.4     Switching devices should have at least 16 MB of packet buffer       10
+        The proposed licenses shall support advanced L2 and L3
+          protocols. Devices must support a EVPN overlay network using
+7.2.5                                                            10
+       BGP, VXLAN, OSPF, PBR, IS-IS, MPLS. Devices must support
+         IPv6 routing.
+         Devices must have RFID and LED Beacon to simplify asset
+7.2.6                                                             5
+        management, location and tracking.
+         Devices must support management options: CLI, Web UI, on-
+7.2.7                                                            10
+        prem or cloud management systems.
+         Support for model-driven programmability including NETCONF,
+7.2.8                                                            15
+       RESTCONF, YANG and ZTP
+         Switch clustering accessories must be included to support up to
+7.2.9                                                            20
+        320Gbps.
+7.2.10   Devices must support static and dynamic NAT and PAT            5
+7.2.11    Integration into Meraki Dashboard.                             5
+        Enhanced Limited Lifetime Hardware Warranty (end of sale
+7.2.13                                                           15
+        announcement + 5 years)
+                                                           Sub-total     130
+8       Data Centre firewalls
+8.1     Mandatory Requirements - DC Firewalls
+8.1.1    1 RU form factor                                          Mandatory
+         Device must have at least 8 Ethernet 10/100/1000 as well as 8
+8.1.2                                                            Mandatory
+       SFP+ ports.
+8.1.3    Dual Redundant Power supply                              Mandatory
+8.1.4     Field replaceable fans N+1 without downtime                  Mandatory
+8.1.5    Device must support SSD drive at least 900Gb                 Mandatory
+        Must support at least 4000 applications visibility with granular
+8.1.6                                                            Mandatory
+          application control.
+        The firewall must use stateful inspection based on granular
+8.1.7     analysis of communication and application state to track and     Mandatory
+          control the network flow.
+8.1.8     Firewall throughput at least 10 Gbps                         Mandatory
+8.1.9     Firewall threat protection and IPS throughput at least 10 Gbps    Mandatory
+8.1.10   Must support up to 1 500 000 sessions with application visibility   Mandatory
+        Must support up to 90 000 new connections per second with
+8.1.11                                                           Mandatory
+          application visibility
+8.1.12   Must support IPsec VPN throughput up to 5.5 Gbps             Mandatory
+8.1.13   Must support TLS 1.2 throughput up to 3.2 Gbps               Mandatory
+8.1.14   Must support IPv4 and IPv6                                 Mandatory
+8.1.15   Must support transparent and routed mode                    Mandatory
+
+
+
+                                                                                                          35
+
+              Key Features/Functionality           POINTS  SUP  NS
+        Must support VRF, PBR, OSPFv2, v3, BGPv4 and BGPv6,
+8.1.16                                                           Mandatory
+           static and dynamic NAT.
+8.1.17   Must provide active/passive and active/active mode redundancy  Mandatory
+        Must support integration with NAC platform to automate policy
+8.1.18                                                           Mandatory
+         enforcement and threat containment
+8.1.19   Must support local and centralized management                Mandatory
+8.1.20   Must support encrypted traffic analysis                        Mandatory
+            Ability to integrate with external authentication systems
+8.1.21                                                           Mandatory
+        (RADIUS, LDAP, AD).
+         Support for open APIs for interaction between external systems
+8.1.22                                                           Mandatory
+        and the centralized management system.
+       A single platform for centralized management of firewall
+          services, intrusion prevention systems, filtering of user web
+8.1.23                                                           Mandatory
+          requests, and a platform for preventing the penetration of
+          malicious code.
+         During the network evaluation, the intrusion prevention system
+           shall automatically generate an endpoint profile by registering
+8.1.24                                                           Mandatory
+          the operating system, services and applications used, and
+           identifying potential endpoint vulnerabilities.
+8.1.25   Next business day – Business hours technical support 36-month  Mandatory
+8.2      Functional Requirements – DC Firewalls
+        The intrusion prevention system shall automatically prioritize
+          security events based on information about the protected
+8.2.1                                                            10
+         environment (taking into account the endpoint profile and
+          information about potential vulnerabilities).
+        The vendor must have a security Firewall solution that can
+         support the enablement of all next generation firewall security
+8.2.2     applications, including intrusion protection, application control,       15
+       URL filtering, Anti-Virus, sandboxing all managed from a central
+          platform. E.G. Cisco Secure Firewall 3105 NGFW or equivalent.
+8.2.3    Device must have interface module extension slot                 5
+8.2.4    Must support OpenAppID                                    5
+8.2.5    Must support packet payload analysis                          10
+            Built-in mechanisms for creating custom reports of arbitrary
+8.2.6                                                            10
+          content based on events contained in the database.
+            Ability to create a report with one click from a customizable
+8.2.7                                                            10
+          information panel.
+         Support for various report download formats (e.g. PDF, HTML,
+8.2.8                                                             5
+        CSV).
+8.2.9      Ability to perform arbitrary searches in the event database.          5
+8.2.10    Ability to create and save custom search templates.               10
+        Must support for a role-based access control model for the
+8.2.11                                                           10
+          centralized management system.
+         Support for dynamic objects for promptly updating address
+8.2.12                                                           10
+          information without the need to re-apply the security policy.
+        Must support interaction with third-party systems as a result of
+8.2.13                                                           10
+           correlation of various conditions
+        The intrusion prevention system shall continuously evaluate the
+8.2.14   network status and endpoint parameters. It shall use the            10
+          evaluation results when making decisions.
+        The intrusion prevention system shall automatically generate
+8.2.15    intrusion prevention policy recommendations based on the          10
+         network evaluation results.
+        The intrusion prevention system shall support the generation of
+8.2.16                                                            5
+           whitelists of devices/operating systems/applications/services.
+        The intrusion prevention system shall support the ability to set
+8.2.17                                                            5
+         event correlation rules.
+
+                                                                                                          36
+
+              Key Features/Functionality           POINTS  SUP  NS
+        The intrusion prevention system shall support detection of
+8.2.18    indicators of compromise of endpoints based on multiple            5
+          security events.
+        The intrusion prevention system shall support APIs for enriching
+8.2.19                                                            5
+         endpoint data from other sources.
+        The intrusion prevention system shall support the ability to view
+8.2.20                                                            5
+           rules/filters/signatures.
+        The system shall support automatic regular downloading of
+          black and white lists of IP addresses, new IPS signatures and
+8.2.21  DNS names from both manufacturer-defined and user-defined       15
+         sources. Manufacturer-defined sources must be provided for at
+           least 12 months, with possibility to extend.
+                                                           Sub-total     175
+9       Wireless Controllers (QTY = 2)
+9.1     Mandatory Requirements - Wireless Controllers
+        Must be supplied as a physical appliance for centralized
+9.1.1                                                            Mandatory
+        management of access points
+        The system must support integration with a fabric-based SDN
+          enterprise architecture to enforce consistent access policies
+9.1.2                                                            Mandatory
+         across both wired and wireless domains, including support for
+          identity-based segmentation and policy automation.
+        The wireless controller must provide built-in wireless intrusion
+          detection/prevention (WIDS/WIPS), including rogue AP/client
+9.1.3                                                            Mandatory
+          detection, identity-based policy enforcement, and dynamic
+          threat response.
+9.1.4    Device must be 1 RU form factor                            Mandatory
+9.1.5    Must be capable of supporting a maximum of 500 access points  Mandatory
+9.1.6    Maximum number of clients up to 10000                      Mandatory
+9.1.7    Maximum backplane throughput up to 10Gbps                 Mandatory
+           Full support for:
+             - IEEE 802.11a/b/g/n/ac/ax (Wi-Fi 4, 5, 6, 6E, 7).
+9.1.8                                                            Mandatory
+             - Band steering, load balancing, and airtime fairness.
+             - Dynamic RF management and spectrum analysis.
+9.1.9     Cryptographically signed images support                      Mandatory
+        The proposed wireless LAN controller must support a hardware-
+9.1.10                                                           Mandatory
+         anchored secure boot process
+        The controller must support high availability through stateful
+         switchover (SSO), maintaining active client sessions without
+9.1.11                                                           Mandatory
+          requiring reauthentication or DHCP reassignment in the event of
+        a failover.
+9.1.12   Hot and cold software patching support                       Mandatory
+9.1.13    Controller must support In-service software upgrade            Mandatory
+9.1.14    Rolling upgrade support for access points                     Mandatory
+        The solution must support intelligent and dynamic radio
+         assignment based on client density, interference levels, and
+9.1.15                                                           Mandatory
+         coverage needs, including the ability to configure access point
+          radios as dedicated sensors or spectrum monitors.
+9.1.16   Advanced application classification and enforcement support     Mandatory
+9.1.17   Rack mount accessories and power cords                     Mandatory
+9.1.18   10GBASE-SR transceiver module (2 per device)               Mandatory
+         Next business day – Business hours technical support 36-
+9.1.19                                                           Mandatory
+        months
+9.2      Functional Requirements - Wireless Controllers
+9.2.1     Model-driven telemetry (e.g., gRPC, JSON/YANG) support          15
+        Vendor must provide security patches and firmware updates for
+9.2.2                                                            10
+        a minimum of 5 years from date of purchase.
+                                                                                                          37
+
+              Key Features/Functionality           POINTS  SUP  NS
+9.2.3    Open API support (NETCONF, RESTCONF)                     15
+         Scalable licensing model allowing future expansion of AP/client
+9.2.4                                                            10
+          capacity
+                                                           Sub-total     50
+10      Wireless Access Point (QTY = 55)
+10.1    Mandatory Requirements - Wireless Access Points
+         Supply factory-new, enterprise-grade indoor access points with
+           tri-band support (2.4 GHz, 5 GHz, 6 GHz) compliant with
+10.1.1    Wi-Fi 7(IEEE 802.11be) standards, capable of seamless         Mandatory
+           integration into existing controller-based or cloud-managed
+          wireless systems.
+          Tri-band configuration supporting concurrent 2.4GHz, 5Ghz,
+10.1.2                                                           Mandatory
+        6 GHz or 5GHz, 5GHz, 6GHz operation.
+10.1.3   4x4 uplink/downlink MU-MIMO with four spatial streams each     Mandatory
+       OFDMA, 4K-QAM, Multi-Link Operation (MLO), preamble
+10.1.4                                                           Mandatory
+          puncturing, Target Wake Time (TWT), BSS coloring support
+10.1.5   Channel widths: up to 320 MHz in 6 GHz, 160 MHz in 2.4/5 GHz   Mandatory
+
+           Full support for:
+             - IEEE 802.11a/b/g/n/ac/ax (Wi-Fi 4, 5, 6,6E and 7).
+10.1.6     - Band steering, load balancing, and airtime fairness.            Mandatory
+             - Client profiling and policy enforcement.
+             - Dynamic RF management and spectrum analysis.
+         At least one multigigabit Ethernet to provide up to 10Gbps
+10.1.7                                                           Mandatory
+         network connectivity
+         Band-steering support to help clients that are 6-GHz capable to
+10.1.8                                                           Mandatory
+         leave the 5-GHz radio and connect to the 6-GHz radio.
+        Access points must support intelligent radio mode determination
+10.1.9    the operating mode of client-serving radios based on the RF     Mandatory
+         environment and traffic demands.
+        Access point must support centralized management with
+10.1.10                                                          Mandatory
+          physical controller or with cloud-based NaaS solution.
+        Minimum five years of firmware/feature updates from date of
+10.1.11                                                          Mandatory
+         purchase.
+10.1.12  Hardware warranty with advance replacement                 Mandatory
+
+10.1.13  Access point mount accessories                             Mandatory
+
+         Next business day – Business hours technical support 3 years
+10.1.14                                                          Mandatory
+        minimum
+
+10.2     Functional Requirements - Wireless Access Points
+       Deep packet/capture capabilities with anomaly detection for
+10.2.1                                                           10
+          telemetry integration
+       A built-in GNSS/GPS antenna to support location-based
+10.2.2                                                            5
+         onboarding
+         Scalable licensing model allowing future expansion of AP/client
+10.2.3                                                            5
+          capacity
+        Access point power optimization mode to reduce energy
+10.2.4   consumption during weekends of off-hours with smart re-           10
+        engagement.
+10.2.5    Integrated Bluetooth Low Energy (BLE) radio support              5
+10.2.6    Integrated UWB radio                                       5
+         Container support to enable edge computing capabilities for IoT
+10.2.7                                                            5
+          applications on the host access point.
+                                                           Sub-total     45
+                                                                Total
+
+                                                                                                          38
+
+39
+
+3. STAGE THREE: PRICE (80 points AND SPECIFIC GOALS (20 points)
+
+
+   Pricing Schedule Final Summary
+
+The bidder to complete the table below for the pricing of the proposed solution.
+
+
+ No   Service Item               QTY  Once-Off/   Year 2      Year 3       Item Total
+                                          Year 1
+
+ 1.   Campus Core Switch
+
+ 1.1   Cisco C9500-48Y4C-A or equivalent     4
+
+ 1.2  8x5xNBD 36-month Support           4
+
+ 1.3  Redundant Power Supply (if
+       applicable) -
+                                       4
+     650W AC Config 4 Power Supply
+        front to back cooling
+
+ 1.4  Network Management license (36-
+      month) -
+                                       4
+      Cisco C9500-DNA-A-3Y or
+       equivalent
+
+ 1.5  QSFP - 100GBASE-CR4 Passive
+                                       4
+      Copper Cable, 1m or equivalent
+
+ 1.6  1000BASE-T SFP transceiver module
+                                       15
+        for Category 5 copper wire
+
+                                   Sub-Total
+
+ 2.   Access Switches – 48-Port POE+
+
+ 2.1  48 Port POE+ switch - Cisco C9300L-
+                                       25
+      48P-4X-A or equivalent
+ 2.2  8x5xNBD 36-month Support           25
+
+ 2.3   Additional Platinum rated power
+                                       25
+       supply 715W AC80+
+
+ 2.4  Network Management license (36-
+      month) -Cisco C9300L-DNA-A-48-3Y   25
+       or equivalent
+ 2.5   Switch Stacking Kit                  28
+
+ 2.6  10G28BASE-SR SFP Module,
+                                       50
+       Enterprise-Class
+
+     1000BASE-SX SFP transceiver
+                                       32
+ 2.7   module, MMF, 850nm, DOM
+
+                                   Sub-Total
+
+ 3.   Access Switches – 48-Port POE++
+
+ 3.1  48 Port POE++ switch - Cisco
+                                       10
+      C9300L-48UXG-4X-A or equivalent
+ 3.2  8x5xNBD 36-month Support           10
+
+ 3.3   Additional Platinum rated power
+                                       10
+       supply 1100W AC80+
+
+ 3.4  Network Management license (36-
+      month) -Cisco C9300L-DNA-A-48-3Y   10
+       or equivalent
+
+                                                                                                           40
+
+                                  Sub-Total
+
+4.   Access Switches – 24-Port POE++
+
+4.1   24-Port POE++ switch – Cisco
+                                      10
+     C9300L-24UXG-4X-A or equivalent
+4.2  8x5xNBD 36-month Support           10
+
+4.3   Additional Platinum rated power
+                                      10
+      supply 715W AC80+
+
+4.4  Network Management license (36-
+     month) -
+                                      10
+     Cisco C9300L-DNA-A-48-3Y or
+      equivalent
+
+                                  Sub-Total
+
+5.   Network Access Control Solution (NAC) 3-Year
+
+5.1  On-Prem NAC solution – Cisco ISE or
+                                      2
+      equivalent
+5.2  8x5xNBD 36-month Support           2
+
+5.3   3-year subscription services for 1412
+      endpoints (962 ISE Advantage and
+                                      1
+     450 ISE Premier or equivalent) with
+      basic support.
+
+5.4  10GBASE-SR SFP Module,
+                                      4
+      Enterprise-Class
+
+5.5   Additional Titanium rated power
+                                      2
+      supply 1200W AC
+
+                                  Sub-Total
+
+6.  SDN Controller
+
+6.1  On-Prem Network Management
+     System/ SDN Controller – Cisco        3
+      Catalyst Center (DNA) or equivalent
+6.2  8x5xNBD 36-month Support           3
+
+6.3  10GBASE-CU SFP+ Cable 3 Meter     6
+    10GBASE-SR SFP Module,
+6.4      Enterprise-Class                    6
+
+6.5   License                           3
+
+                                  Sub-Total
+
+7.   Data Centre Firewalls (1RU)
+
+7.1  On-Prem Next Generation firewalls –
+     Cisco Secure Firewall 3105 appliance   2
+      or equivalent
+7.2  8x5xNBD 36-month Support           2
+
+7.3  36-month Threat Defence and AMP
+                                      2
+      subscription
+7.4  Redundant 400W AC Power supply     2
+
+7.5  10GBASE Active Optical SFP+ Cable,
+                                      4
+    2M
+
+                                                                                                          41
+
+7.6   Firewall Management Centre (FMC) –
+     Cisco Secure firewall Management      1
+     Center 1700 or equivalent
+    8X5XNBD 36-month Support - Cisco
+7.7    FMC or equivalent                   1
+
+                                  Sub-Total
+
+8.   Wireless Network Solution
+
+8.1  On-Prem Wireless Network Controller   2
+      with fibre uplink – E.G. Cisco C9800-
+     L-F-K9 or equivalent
+
+8.2  8x5xNBD 36-month Support           2
+      (Controller)
+
+8.3  10GBASE-SR SFP Module,           4
+      Enterprise-Class
+
+8.4   Wi-Fi 7 Access Points – E.G. Cisco     55
+     9176i-CFG or equivalent
+
+8.5  8x5xNBD 36-month Support (Wireless   55
+     Access Points)
+
+8.6   Wireless License - Cisco Wireless      55
+     License Advantage or equivalent
+
+                                  Sub-Total
+
+
+
+8.    Installation & Commissioning      1
+
+9.    Training and handover           1
+
+10.  Other
+     (Please indicate)
+
+
+
+
+
+    VAT
+
+    TOTAL
+
+
+
+
+                                                                                                          42
+
+C.9                                                                 SBD6.1
+  PREFERENCE POINTS CLAIM FORM IN TERMS OF THE PREFERENTIAL PROCUREMENT
+                           REGULATIONS 2022
+
+This preference form must form part of all tenders invited.  It contains general information and serves
+as a claim form for preference points for specific goals.
+
+NB:   BEFORE COMPLETING THIS FORM, TENDERERS MUST STUDY THE GENERAL
+       CONDITIONS, DEFINITIONS AND DIRECTIVES APPLICABLE IN RESPECT OF THE
+      TENDER AND PREFERENTIAL PROCUREMENT REGULATIONS, 2022
+
+
+1.   GENERAL CONDITIONS
+
+1.1   The following preference point systems are applicable to invitations to tender:
+
+            -    the 80/20 system for requirements with a Rand value of up to R50 000 000 (all applicable
+             taxes included); and
+            -    the 90/10 system for requirements with a Rand value above R50 000 000 (all applicable
+             taxes included).
+
+1.2    To be completed by the organ of state
+
+
+       a) The applicable preference point system for this tender is the 80/20 or 90/10 preference point
+          system.
+
+
+       b) The 80/20 preference point system will be applicable in this tender  if the lowest/ highest
+          acceptable is below R50 million.
+
+        c) The 90/10 preference point system will be applicable in this tender if the lowest acceptable
+          tender is above R50 million.
+
+
+1.3      Points for this tender (even in the case of a tender for income-generating contracts) shall be
+       awarded for:
+        (a) Price; and
+
+        (b) Specific Goals.
+
+
+1.4   To be completed by the organ of state:
+
+      The maximum points for this tender are allocated as follows:
+
+                                                  POINTS
+
+       PRICE                                             80
+
+       SPECIFIC GOALS                                   20
+
+         Total points for Price and SPECIFIC GOALS            100
+
+
+1.5    Failure on the part of a tenderer to submit proof or documentation required in terms of this
+       tender to claim points for specific goals with the tender, will be interpreted to mean that
+       preference points for specific goals are not claimed.
+
+
+1.6   The organ of state reserves the right to require of a tenderer, either before a tender is
+       adjudicated or at any time subsequently, to substantiate any claim regarding preferences, in
+      any manner required by the organ of state.
+
+
+                                                                                                           43
+
+2.    DEFINITIONS
+
+    (a) “tender” means a written offer in the form determined by an organ of state in response to an
+        invitation to provide goods or services through price quotations, competitive tendering process
+       or any other method envisaged in legislation.
+
+
+    (b) “price” means an amount of money tendered for goods or services and includes all
+       applicable taxes less all unconditional discounts.
+
+    (c) “rand value” means the total estimated value of a contract in Rand, calculated at the time of
+       bid invitation, and includes all applicable taxes;
+
+    (d) “tender for income-generating contracts” means a written offer in the form determined by
+      an organ of state in response to an invitation for the origination of income-generating contracts
+       through any method envisaged in legislation that will result in a legal agreement between the
+      organ of state and a third party that produces revenue for the organ of state, and includes, but
+         is not limited to, leasing and disposal of assets and concession contracts, excluding direct sales
+      and disposal of assets through public auctions; and
+
+    (e) “the Act” means the Preferential Procurement Policy Framework Act, 2000 (Act No. 5 of 2000).
+
+
+3.     FORMULAE FOR PROCUREMENT OF GOODS AND SERVICES
+
+
+3.1.    POINTS AWARDED FOR PRICE
+
+
+3.1.1 THE 80/20 OR 90/10 PREFERENCE POINT SYSTEMS
+
+      A maximum of 80 or 90 points is allocated for price on the following basis:
+
+                    80/20            or                     90/10
+
+
+                     𝑷𝒕−𝑷𝒎𝒊𝒏
+      𝑷𝒔= 𝟖𝟎(𝟏−                             )        or       𝑷𝒔= 𝟗𝟎(𝟏− 𝑷𝒕−𝑷𝒎𝒊𝒏  )
+                     𝑷𝒎𝒊𝒏                                   𝑷𝒎𝒊𝒏
+       Where
+
+       Ps    =    Points scored for price of tender under consideration
+
+         Pt    =    Price of tender under consideration
+
+       Pmin  =    Price of lowest acceptable tender
+
+
+3.2.   FORMULAE FOR DISPOSAL OR LEASING OF STATE ASSETS AND INCOME
+      GENERATING PROCUREMENT
+
+3.2.1.   POINTS AWARDED FOR PRICE
+
+      A maximum of 80 or 90 points is allocated for price on the following basis:
+
+
+                          80/20              or                   90/10
+
+
+                    𝑷𝒕−𝑷𝒎𝒂𝒙
+      𝑷𝒔= 𝟖𝟎(𝟏+                              )        or       𝑷𝒔= 𝟗𝟎(𝟏+ 𝑷𝒕−𝑷𝒎𝒂𝒙  )
+                    𝑷𝒎𝒂𝒙                                    𝑷𝒎𝒂𝒙
+
+Where
+       Ps    =    Points scored for price of tender under consideration
+         Pt    =    Price of tender under consideration
+      Pmax =    Price of highest acceptable tender
+
+                                                                                                           44
+
+4.    POINTS AWARDED FOR SPECIFIC GOALS
+
+
+4.1.    In terms of Regulation 4(2); 5(2); 6(2) and 7(2) of the Preferential Procurement Regulations,
+       preference points must be awarded for specific goals stated in the tender. For the purposes of
+        this tender the tenderer will be allocated points based on the goals stated in table 1 below as
+     may be supported by proof/ documentation stated in the conditions of this tender:
+
+
+4.2.    In cases where organs of state intend to use Regulation 3(2) of the Regulations, which states
+        that,  if  it is unclear whether the 80/20 or 90/10 preference point system applies, an organ of
+       state must, in the tender documents, stipulate in the case of—
+
+
+              (a) an invitation for tender for income-generating contracts, that either the 80/20 or 90/10
+               preference point system will apply and that the highest acceptable tender will be used
+                  to determine the applicable preference point system: or
+
+
+              (b) any other invitation for tender, that either the 80/20 or 90/10 preference point system
+                     will apply and that the lowest acceptable tender  will be used to determine the
+                applicable preference point system, then the organ of state must indicate the points
+                 allocated for specific goals for both the 90/10 and 80/20 preference point system.
+
+
+
+Table 1: Specific goals for the tender and points claimed are indicated per the table below.
+Note to tenderers: The tenderer must indicate how they claim points for each preference point
+system.
+
+
+                         Specific goals allocated points in terms of this tender
+
+ PRICE – 80 points
+
+ SPECIFIC GOALS – 20 points
+                       Percentage                                         Proof / Evidence to be submitted     Points claimed by
+                          of Specific
+ Specific goals                               by the tenderer            bidder (Max total of                      Goal target                                                                                         20)
+
+ ≥51%Black Ownership          5        CSD, CIPC registration
+
+ ≥33%Women                 5        CSD, CIPC registration
+ Ownership
+
+ ≥33%Youth Ownership         5        CSD, CIPC registration - Youth is
+                                             defined as person under the age of
+                                      35
+
+ ≥25% Persons with            5       CSD report support by Certificate of
+ disability Ownership                               disability issued by a medical
+                                                     practitioner.
+
+   TOTAL POINTS           20
+
+
+
+DECLARATION WITH REGARD TO COMPANY/FIRM
+
+4.3.    Name of company/firm…………………………………………………………………….
+
+4.4.    Company registration number: …………………………………………………………...
+
+                                                                                                           45
+
+4.5.    TYPE OF COMPANY/ FIRM
+           Partnership/Joint Venture / Consortium
+
+          One-person business/sole propriety
+           Close corporation
+           Public Company
+
+           Personal Liability Company
+           (Pty) Limited
+
+           Non-Profit Company
+           State Owned Company
+
+         [TICK APPLICABLE BOX]
+
+
+4.6.         I, the undersigned, who is duly authorised to do so on behalf of the company/firm, certify that
+         the points claimed, based on the specific goals as advised in the tender, qualifies the
+        company/ firm for the preference(s) shown and I acknowledge that
+
+
+               i)  The information furnished is true and correct.
+
+
+                ii) The preference points claimed are in accordance with the General Conditions as indicated
+               in paragraph 1 of this form.
+
+
+                 iii) In the event of a contract being awarded as a result of points claimed as shown in
+           paragraphs 1.4 and 4.2, the contractor may be required to furnish documentary proof to
+            the satisfaction of the organ of state that the claims are correct.
+
+
+            iv)  If the specific goals have been claimed or obtained on a fraudulent basis or any of the
+             conditions of contract have not been fulfilled, the organ of state may, in addition to any
+             other remedy it may have –
+
+
+                (a)   disqualify the person from the tendering process.
+
+                (b)   recover costs, losses or damages it has incurred or suffered because of
+                      that person’s conduct.
+
+                 (c)   cancel the contract and claim any damages which it has suffered because
+                      of having to make less favourable arrangements due to such cancellation.
+
+                (d)  recommend that the tenderer or contractor, its shareholders, and directors,
+                    or only the shareholders and directors who acted on a fraudulent basis, be
+                      restricted from obtaining business from any organ of state for a period not
+                  exceeding 10 years, after the audi alteram partem (hear the other side)
+                      rule has been applied; and
+
+                (e)   forward the matter for criminal prosecution, if deemed necessary.
+
+
+
+
+
+                                                                                                           46
+
+47
+
+ C.10 TAX CLEARANCE REQUIREMENT
+
+IT IS A CONDITION OF BIDDING THAT
+•    The taxes of the successful bidder must be in order, or that satisfactory arrangements have
+     been made with the Receiver of Revenue to meet his/her tax obligations.
+
+•     In bids where Consortia/Joint Ventures/Sub-contractors/Partners are involved, each party
+     must be in compliance with SARS and such information will be verified through central
+      supplier database (CSD).
+
+
+
+
+
+                                                                                                     48
+
+C.11 SBD 4 - BIDDER’S DISCLOSURE
+
+1.  PURPOSE OF THE FORM
+
+    Any person (natural or juristic) may make an offer or offers in terms of this invitation to bid. In line
+
+      with the principles of transparency, accountability, impartiality, and ethics as enshrined in the
+
+      Constitution of the Republic of South Africa and further expressed in various pieces of legislation,
+
+          it is required for the bidder to make this declaration in respect of the details required hereunder.
+
+
+    Where a person/s are listed in the Register for Tender Defaulters and / or the List of Restricted
+
+      Suppliers, that person will automatically be disqualified from the bid process.
+
+
+2.    Bidder’s declaration
+
+      2.1   Is the bidder, or any of its directors / trustees / shareholders / members / partners or any
+
+          person  having a  controlling  interest1  in  the  enterprise, employed by  the  state?
+
+          YES/NO
+
+
+            2.1.1. If so, furnish particulars of the names, individual identity numbers, and, if applicable,
+
+                  state employee numbers of sole proprietor/ directors  / trustees  / shareholders  /
+
+              members/ partners or any person having a controlling interest in the enterprise, in
+
+                  table below.
+
+
+
+    Full Name                            Identity Number      Name of State institution
+
+
+
+
+
+      2.2. Do you, or any person connected with the bidder, have a relationship with any person who
+              is employed by the procuring institution? YES/NO
+
+            2.2.1. If so, furnish particulars:
+     ……………………………………………………………………………………
+     ……………………………………………………………………………………
+
+
+
+      2.3.  Does the bidder or any of its directors / trustees / shareholders / members / partners or any
+
+
+1 the power, by one person or a group of persons holding the majority of the equity of an enterprise, alternatively, the person/s having the
+deciding vote or power to influence or to direct the course and decisions of the enterprise.
+
+
+
+
+                                                                                                           49
+
+          person having a controlling interest in the enterprise have any interest in any other related
+            enterprise whether or not they are bidding for this contract?  YES/NO
+
+            2.3.1 If so, furnish particulars:
+   …………………………………………………………………………….
+   …………………………………………………………………………….
+
+3   DECLARATION
+
+         I,  the  undersigned, (name)…………………………………………………………………….   in
+      submitting the accompanying bid, do hereby make the following statements that I certify to be
+      true and complete in every respect:
+
+3.1 I have read and I understand the contents of this disclosure.
+
+
+3.2 I understand that the accompanying bid will be disqualified if this disclosure is found not to be true
+
+   and complete in every respect.
+
+
+3.3 The bidder has arrived at the accompanying bid independently from, and without consultation,
+
+   communication, agreement or arrangement with any competitor. However, communication between
+
+    partners in a joint venture or consortium2 will not be construed as collusive bidding.
+
+
+In addition, there have been no consultations, communications, agreements or arrangements with
+any competitor regarding the quality, quantity, specifications, prices, including methods, factors or
+formulas used to calculate prices, market allocation, the intention or decision to submit or not to
+submit the bid, bidding with the intention not to win the bid and conditions or delivery particulars of the
+products or services to which this bid invitation relates.
+
+3.4 The terms of the accompanying bid have not been, and will not be, disclosed by the bidder, directly
+
+    or indirectly, to any competitor, prior to the date and time of the official bid opening or of the awarding
+
+    of the contract.
+
+
+3.5 There have been no consultations, communications, agreements or arrangements made by the
+
+    bidder with any official of the procuring institution in relation to this procurement process prior to
+
+   and during the bidding process except to provide clarification on the bid submitted where so
+
+    required by the institution; and the bidder was not involved in the drafting of the specifications or
+
+   terms of reference for this bid.
+
+
+3.6 I am aware that, in addition and without prejudice to any other remedy provided to combat any
+
+    restrictive practices related to bids and contracts, bids that are suspicious will be reported to the
+
+   Competition Commission for investigation and possible imposition of administrative penalties in
+
+   terms of section 59 of the Competition Act No 89 of 1998 and or may be reported to the National
+
+   Prosecuting Authority (NPA) for criminal investigation and or may be restricted from conducting
+
+
+
+
+
+2 Joint venture or Consortium means an association of persons for the purpose of combining their expertise, property, capital, efforts,
+skill and knowledge in an activity for the execution of a contract.
+
+                                                                                                           50
+
+   business with the public sector for a period not exceeding ten (10) years in terms of the Prevention
+
+   and Combating of Corrupt Activities Act No 12 of 2004 or any other applicable legislation.
+
+
+I CERTIFY THAT THE INFORMATION FURNISHED IN PARAGRAPHS 1, 2 and 3 ABOVE IS
+CORRECT. I ACCEPT THAT THE STATE MAY REJECT THE BID OR ACT AGAINST ME IN TERMS
+OF PARAGRAPH 6 OF PFMA SCM INSTRUCTION 03 OF 2021/22 ON PREVENTING AND
+COMBATING ABUSE  IN THE SUPPLY CHAIN MANAGEMENT SYSTEM SHOULD THIS
+DECLARATION PROVE TO BE FALSE.
+
+
+
+
+ ………………………………           ..……………………………………………
+ Signature                                 Date
+
+
+ ………………………………          ………………………………………………
+ Position                            Name of bid der
+
+
+
+
+
+                                                                                                           51
+
+  C.12  CONTRACT FORM - RENDERING OF SERVICES
+
+
+ THIS FORM MUST BE FILLED IN DUPLICATE BY BOTH THE SERVICE PROVIDER (PART
+  1) AND THE PURCHASER (PART 2). BOTH FORMS MUST BE SIGNED IN THE ORIGINAL
+ SO THAT THE SERVICE PROVIDER AND THE PURCHASER WOULD BE IN POSSESSION
+ OF ORIGINALLY SIGNED CONTRACTS FOR THEIR RESPECTIVE RECORDS.
+
+ PART 1 (TO BE FILLED IN BY THE SERVICE PROVIDER)
+
+1.   I hereby undertake to render services described in the attached bidding documents to (name of
+    the institution) ……………………………………. in accordance with the requirements and task
+    directives / proposals specifications stipulated in Bid Number………….……….. at the price/s
+   quoted. My offer/s remain binding upon me and open for acceptance by the Purchaser during
+    the validity period indicated and calculated from the closing date of the bid .
+
+2. The following documents shall be deemed to form and be read and construed as part of this
+   agreement:
+
+      (i)  Bidding documents, viz
+               -       Invitation to bid;
+               -     Tax clearance certificate;
+               -       Pricing schedule(s);
+               -       Filled in task directive/proposal;
+               -      Preference claims for Broad Based Black Economic Empowerment Status Level
+                    of Contribution in terms of the Preferential Procurement Regulations 2011;
+               -      Declaration of interest;
+               -      Special Conditions of Contract;
+      (ii) General Conditions of Contract; and
+      (iii) Other (specify)
+
+3.   I confirm that I have satisfied myself as to the correctness and validity of my bid; that the price(s)
+   and rate(s) quoted cover all the services specified in the bidding documents; that the price(s)
+   and rate(s) cover all my obligations and I accept that any mistakes regarding price(s) and rate(s)
+   and calculations will be at my own risk.
+
+4.   I accept full responsibility for the proper execution and fulfilment of all obligations and conditions
+   devolving on me under this agreement as the principal liable for the due fulfillment of this
+    contract.
+
+5.   I declare that I have no participation in any collusive practices with any bidder or any other
+   person regarding this or any other bid.
+
+6.   I confirm that I am duly authorised to sign this contract.
+
+ NAME (PRINT)                        …………………………….
+                                      WITNESSES
+ CAPACITY                          …………………………….
+                                            1 …….…………………………….
+ SIGNATURE                         …………………………….
+                                            2 ……….………………………….
+ NAME OF FIRM                        …………………………….
+                                          DATE: ……………………………..
+ DATE                              …………………………….
+
+
+
+
+
+                                                                                                       52
+
+               CONTRACT FORM - RENDERING OF SERVICES
+
+
+ PART 2 (TO BE FILLED IN BY THE PURCHASER)
+
+
+1. I…………………………………………….                in         my             capacity
+  as……………………...……………………………….. accept your bid under reference number
+  ………………dated………………………for the rendering of services indicated hereunder and/or
+    further specified in the annexure(s).
+
+2. An official order indicating service delivery instructions is forthcoming.
+
+3.   I undertake to make payment for the services rendered in accordance with the terms and
+    conditions of the contract, within 30 (thirty) days after receipt of an invoice.
+
+
+
+                                                                    B-BBEE
+                                        PRICE (ALL                                    MINIMUM THRESHOLD
+        DESCRIPTION OF                                COMPLETION   STATUS LEVEL                                   APPLICABLE TAXES                                  FOR LOCAL
+            SERVICE                                     DATE      OF
+                                        INCLUDED)                                    PRODUCTION AND
+                                                                    CONTRIBUTION
+                                                                             CONTENT (if applicable)
+
+
+
+
+
+  4.      I confirm that I am duly authorised to sign this contract.
+
+ SIGNED AT ………………………………………ON………………………………..
+
+
+ NAME (PRINT)
+ ………………………………………….
+
+ SIGNATURE
+ …………………………………………
+
+ OFFICIAL STAMP
+
+
+
+                                                                 WITNESSES
+
+                                                                             1  ….……………………….
+
+                                                                             2  …..…………………………….
+
+                                                                        DATE:  ……………………………..   .
+
+                                                                                                       53
+
+C.13 DEVIATIONS FROM THE REQUEST FOR PROPOSAL
+
+    Should the bidder desire to make any departures from, or modifications to this Request for Proposal
+    or to qualify its bid in any way, it shall clearly set out its proposals hereunder or alternatively state
+   them in a covering letter attached to its bid and referred to hereunder, failing which the bidder shall
+   be deemed to be unqualified and conform exactly with the requirements of this Request for Proposal.
+
+       If no departures or modifications are desired, the Schedule hereunder is to be marked “NIL” and
+    signed by the bidder.
+
+    Unless otherwise specified specifically and stipulated in writing, the Contract constitutes the sole
+    memorial of the Contract between the parties and any terms and conditions forming part of the
+    bidder’s Bid or other documentation shall not form part of the Contract and shall be of no force or
+     effect.
+
+      PAGE NUMBER     CLAUSE NUMBER                  DEVIATION
+
+
+
+
+
+   __________________________________
+
+   SIGNATURE OF BIDDER
+
+
+   __________________________________
+
+   DATE
+
+
+
+
+
+                                                                                                              54

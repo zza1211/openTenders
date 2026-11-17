@@ -1,0 +1,941 @@
+       Annexure 1: Bid Specification:
+
+  RFB 3166-2025: Procurement of Defence
+
+     Information System Network (DISN)
+
+  Routers with maintenance and support of
+
+  60 months for the Department of Defence
+
+                  (DOD).
+
+TECHNICAL, PRICING AND PREFERENCE POINTS
+            REQUIREMENTS
+
+
+
+
+
+                                            RESTRICTED                                               1 of 24
+
+Contents
+
+   1.1  Introduction .......................................................................................................................................... 3
+   1.2 BACKGROUND ....................................................................................................................................... 3
+2. Scope of Bid ............................................................................................................................................ 3
+   2.1 Scope of Work ....................................................................................................................................... 3
+   2.2  Delivery address .................................................................................................................................... 3
+3. Product / Service / Solution Requirements............................................................................................... 3
+   3.1  Technical requirements ........................................................................................................................ 3
+4. Bid Evaluation Stages .............................................................................................................................. 5
+   4.1  Administrative responsiveness (Stage 1) ............................................................................................... 5
+        4.1.1 Attendance of briefing session ................................................................................................... 5
+   4.2  Technical returnable documents .......................................................................................................... 6
+        4.2.1 Instruction and evaluation criteria .............................................................................................. 6
+        4.2.2 Technical mandatory requirements (Stage 2) ............................................................................. 6
+   4.3  Special Conditions of Contract Verification (Stage 3) ............................................................................ 7
+        4.3.1 Special Conditions of Contract .................................................................................................... 7
+        4.3.2 Declaration of compliance and acceptance SCC ....................................................................... 13
+   4.4  Price and Preference Points Evaluation (Stage 4) ............................................................................... 13
+        4.4.1 Bid Pricing Schedule .................................................................................................................. 13
+        4.4.2 Costing and Pricing Conditions ................................................................................................. 13
+        4.4.3 Rate of Exchange Pricing Information ....................................................................................... 14
+        4.4.4 Bid Exchange Rate Conditions................................................................................................... 14
+        4.4.5 Bid Pricing Schedule .................................................................................................................. 14
+   4.5  Declaration of Acceptance .................................................................................................................. 14
+   4.6  Preference Requirements ................................................................................................................... 15
+         Bidder substantiating evidence .................................................................................................... 17
+5. Technical Mandatory Requirement Evidence ......................................................................................... 17
+   5.1  Bidder Certification / Affiliation Requirements ................................................................................... 17
+   5.2  Bidder Experience and Capability Requirements ................................................................................ 17
+6. Requirements Evidence ......................................................................................................................... 17
+   6.1  Technical Requirement ....................................................................................................................... 17
+7. Preference Points Preferential Goals Evidence ....................................................................................... 18
+  ANNEX B: ADDENDUM 1 ............................................................................................................................. 19
+
+Figures
+
+No table of figures entries found.
+Tables
+
+Table 1: Bid Evaluation Stages ............................................................................................................................ 5
+Table 2: Technical Mandatory Requirements ..................................................................................................... 6
+Table 3: References........................................................................................................................................... 17
+Table 4: B-BBEE Points Allocation .......................................................................... Error! Bookmark not defined.
+Table 5: Preferential Goal Requirements 80/20 Preference Points system ...................................................... 18
+
+
+
+
+
+                                                         RESTRICTED                                               2 of 24
+
+1.1  Introduction
+
+The purpose of the RFQ is to invite Suppliers (hereinafter referred to as “bidders”) to submit quotes for the
+Request for the procurement of Defence Information System Network (DISN) Routers with maintenance and
+support of 60 months for the Department of Defence (DOD).
+
+1.2 BACKGROUND
+
+The Department of Defence is in a process of refreshing the network equipment and they requested SITA to
+assist in procuring the Routers.
+
+2.  Scope of Bid
+
+2.1  Scope of Work
+
+(a) Procurement of Routers: 1 x Core Router, 7 Distributed Routers, and 69 Access Layer 3 Routers.
+(b) Maintenance and support of routers for a period of 60 months (5 years).
+
+2.2  Delivery address
+
+DOD Archives, Centurion.
+
+3.  Product / Service / Solution Requirements
+
+3.1  Technical requirements
+
+
+
+
+
+                                                         RESTRICTED                                               3 of 24
+
+RESTRICTED                                               4 of 24
+
+4.  Bid Evaluation Stages
+
+The bid evaluation process consists of four stages, according to the nature of the bid. A bidder must qualify
+for each stage to be eligible to proceed to the next stage of the evaluation. The stages are:
+
+                                    Table 1: Bid Evaluation Stages
+
+     Stage                            Description                         Applicable for this bid YES/NO
+ Stage 1        Administrative responsiveness                                    YES
+ Stage 2        Technical Mandatory responsiveness                               YES
+ Stage 3         Special Conditions of Contract verification                           YES
+ Stage 4         Price / Preference points                                         YES
+
+
+4.1  Administrative responsiveness (Stage 1)
+
+4.1.1 Attendance of briefing session
+
+       (a)   A non-compulsory virtual briefing session will be held..
+
+4.1.1.1 Registered Supplier
+
+       (a)   Only responses from bidders who are registered as a Supplier on National Treasury’s Central
+            Supplier Database (CSD) in terms of National Treasury’s Instruction Note 4A of 2016/17 will be
+            considered for award on this RFx.
+       (b)   SBD Documents. The bidder must complete in full and sign all the SBD documents as provided in
+           the Invitation to Bid document
+
+
+       (c)    In the case of joint ventures or consortiums the bidder must demonstrate that at least one of the
+             parties to the bid response attended the briefing session.
+
+
+
+                                                         RESTRICTED                                               5 of 24
+
+4.2  Technical returnable documents
+
+4.2.1 Instruction and evaluation criteria
+
+       (a)   The  bidder must comply with ALL the requirements  as per the  Technical Mandatory
+           Requirements below by providing substantiating evidence in the form of documentation or
+            information, failing which it will be regarded as “NOT COMPLY”.
+       (b)   The bidder must provide a unique reference number (e.g. binder/folio, chapter, section, page) to
+             locate substantiating evidence in the bid response.
+       (c)   The bidder must comply with ALL the TECHNICAL MANDATORY REQUIREMENTS in order for the
+            bid response to proceed to the next stage of the evaluation.
+
+
+4.2.2 Technical mandatory requirements (Stage 2)
+
+                              Table 2: Technical Mandatory Requirements
+
+
+
+ Mandatory Requirements          Substantiating evidence of         Evidence reference (to be
+                                 compliance (used to evaluate bid)  completed by bidder)
+ 1. Bidder Certification/ Affiliation Requirements
+
+ The bidder must be an accredited  Attach  a  valid  documentation  <provide unique reference to
+ partner by the OEM/OSM to         (certificate/letter/  license) from  locate substantiating evidence in
+ supply, install, maintain and        the Cisco OEM/OSM as proof that  the bid response – see Annex A,
+ support routers.                  the  bidder   is  an  accredited  par 5.1>
+                                   partner to supply, install, maintain
+                              and support routers.
+
+
+
+                           NOTE (1):
+                                  SITA reserves the right to verify
+                                   information provided.
+
+ 2. Bidder Experience and Capability Requirements
+
+ The bidder must have supplied,     Provide reference details from at  <provide unique reference to
+ installed, maintained and            least one (1) customer to whom  locate substantiating evidence in
+ supported routers to at least one                                   the bid response – see Annex A,                                     supply, installation, maintenance
+ (1) customer in the last five (5)                                      par 5.2, table 5>
+                              and  support  of  routers  was
+ years from date this bid is
+                                    delivered in the last five (5) years advertised.
+                               from date this bid is advertised.
+
+
+
+                           NOTE (1):
+                                  SITA reserves the right to verify
+                                   information provided.
+
+                              Note (2):
+                                       Failure to complete Table 5 fully
+                                   as indicated above will result in
+                                         disqualification.
+
+
+                                                         RESTRICTED                                               6 of 24
+
+ Mandatory Requirements          Substantiating evidence of         Evidence reference (to be
+                                 compliance (used to evaluate bid)  completed by bidder)
+
+
+ 3. Product / Service Functional Requirements
+
+ The   bidder   must   confirm  The Bidder must confirm that they  <provide unique reference to
+ compliance        to        the  comply with the Service/Product  locate substantiating evidence in
+                                                                  the bid response – see Annex B: Service/Product requirements for  Requirements     for     supply,
+                                                     Addendum 1>
+ supply, installation, maintenance   installation,  maintenance  and
+ and support of routers.            support of routers by completing
+                                                 all questions in Annex B.
+
+
+        NB: SITA reserves the right to verify the information provided for the above requirements.
+
+
+4.3  Special Conditions of Contract Verification (Stage 3)
+
+       (a)   The successful supplier will be bound by Government Procurement: General Conditions of
+            Contract (GCC) as well as this Special Conditions of Contract (SCC), which will form part of the
+            signed contract with the successful Supplier. However, SITA reserves the right to include or waive
+           the condition in the signed contract.
+       (b)   SITA reserves the right to:
+                   (i)    Negotiate the conditions; or
+                    (ii)    Automatically disqualify a bidder for not accepting these conditions; or
+                    (iii)   Award to multiple bidders
+       (c)    In the event that the bidder qualifies the proposal with own conditions and does not specifically
+           withdraw such own conditions when called upon to do so, SITA will invoke the rights reserved in
+           accordance with subsection 4.3. (b) above.
+
+
+4.3.1 Special Conditions of Contract
+
+4.3.1.1 Contracting Conditions
+
+       (a)   Formal Contract - The supplier must enter into a formal written contract (agreement) with SITA.
+       (b)    Right to Audit - SITA reserves the right, before entering into a contract, to conduct or commission
+          an external service provider to conduct a financial audit or probity to ascertain whether a
+             qualifying bidder has the financial wherewithal or technical capability to provide the goods and
+             services as required by this tender.
+
+4.3.1.2 Delivery Address
+
+       (a)   The supplier must deliver the required products or services at as indicated in Section 2.2, Delivery
+            Address. SITA Centurion Office.
+
+4.3.1.3 Services and Performance Metrics
+
+       (a)   The supplier must provide and install 1 router with the support and maintenance of 60 months
+            within a period of 3 months after they have been awarded the tender.
+
+4.3.1.4 Supplier Performance Reporting
+
+       (b)  NA
+
+                                                         RESTRICTED                                               7 of 24
+
+4.3.1.5 Certification, Expertise and Qualification
+
+       (a)   The bidder certifies that:
+                   (i)      it has the necessary expertise,  skill, qualifications and ability to undertake the work
+                  required in terms of the Statement of Work or Service Definition
+                    (ii)      it is committed to provide the Products or Services; and
+                    (iii)   perform all obligations detailed herein without any interruption to the Customer
+                (iv)     it has been certified for the Products and Services required
+
+4.3.1.6 Logistical Conditions
+
+       (a)   Hours of Work
+                   (i)    Office hours are defined as business working hours of the customer and is Mondays to
+                   Fridays between 07:30 and 16:00
+                    (ii)    After hours of the customer during week days are from16:00 to 07:30
+                    (iii)    All mission critical sites will be managed on a 24 x 7 x 365 basis
+       (b)    Client environment
+                   (i)     In the event that SITA grants the bidder permission to access SITA's Environment including
+                 hardware, software, internet facilities, data, telecommunication facilities and/or network
+                        facilities remotely, the bidder must adhere to SITA's relevant policies and procedures
+                 (which policy and procedures are available to the Supplier on request) or in the absence of
+                 such policy and procedures, in terms of, best industry practice.
+       (c)    Tools of Trade
+                   (i)    The bidder is expected to use its own resources (cell phone, laptops etc) to communicate
+                 with  its own offices or outside of the SITA/Client buildings, including  all tools and
+                equipment to render the services effectively.
+       (d)   Onsite and remote Support. The bidder must provide support/help desk for all items that he is
+            responsible for.
+
+
+4.3.1.7 Regulatory, Quality and Standards
+
+       (a)   The bidder must for the duration of the contract ensure compliance with ISO General Quality
+            Standards, ISO9001.
+
+       (b)   The bidder must  for the duration  of the contract ensure compliance with ISO 14001
+           Environmental conditions.
+
+       (c)   The bidder must for the duration of the contract ensure compliance with any SITA policy
+            regarding accommodation and services.
+
+       (d)   The bidder must for the duration of the contract ensure compliance with Protection of Personal
+            Information Act (POPIA) compliance is required.
+
+       (e)   Bidders must ensure that the Current State or AS Is Certificates of Compliance accompany bid
+           documents. These documents will not be accepted after closing or on award.
+
+         (f)    Bidders shall only submit Compliance Certificates for Future Upgrades to tenant requirements on
+           completion of works.
+
+       (g)   Bidders whose property is under construction or renovations must submit approved copies of all
+             building plans (Covering all trades).
+
+
+
+
+
+                                                         RESTRICTED                                               8 of 24
+
+4.3.1.8 Personnel Security Clearance
+
+       (a)   The Bidder personnel who are required to work with information related to NATIONAL SECURITY
+          must have a valid South African security clearance or must apply within 30 days of the signed
+            contract for a security clearance to the level of CONFIDENTIAL at the expense of the Bidder from
+           the South African State Security Agency or duly authorised Personnel Security Vetting entity of
+          SA Government.
+       (b)   The bidder personnel….
+       (c)   As an interim, an oath of secrecy must be signed by the technician /resources on condition that
+            proof is supplied that the submission is made for a security clearance of confidential.
+
+4.3.1.9 Confidentiality and non -disclosure conditions
+
+       (a)   The Supplier, including its management and staff, must before commencement of the Contract,
+             sign a non-disclosure agreement regarding Confidential Information
+       (b)    Confidential Information means any information or data, irrespective of the form or medium in
+           which it may be stored, which is not in the public domain and which becomes available or
+             accessible to a Party as a consequence of this Contract, including information or data which is
+            prohibited from disclosure by virtue of:
+                   (i)    the Promotion of Access to Information Act, 2000 (Act no. 2 of 2000);
+                    (ii)   being clearly marked "Confidential" and which is provided by one Party to another Party in
+                terms of this Contract;
+                    (iii)   being information or data, which one Party provides to another Party or to which a Party
+                 has access because of Services provided in terms of this Contract and in which a Party
+                would have a reasonable expectation of confidentiality;
+                (iv)   being information provided by one Party to another Party in the course of contractual or
+                 other negotiations, which could reasonably be expected to prejudice the right of the non-
+                    disclosing Party;
+               (v)   being information, the disclosure of which could reasonably be expected to endanger a life
+                  or physical security of a person;
+                (vi)   being technical, scientific, commercial, financial and market-related information, know-
+             how and trade secrets of a Party;
+                 (vii)  being financial, commercial, scientific or technical information, other than trade secrets, of
+                a Party, the disclosure of which would be likely to cause harm to the commercial or financial
+                    interests of a non-disclosing Party; and
+                  (viii)  being information supplied by a Party in confidence, the disclosure of which could
+                  reasonably be expected either to put the Party at a disadvantage in contractual or other
+                   negotiations or to prejudice the Party in commercial competition; or
+                 (ix)   information the disclosure of which would be likely to prejudice or impair the safety and
+                    security of a building, structure or system, including, but not limited to, a computer or
+                communication system; a means of transport; or any other property; or a person; methods,
+                  systems, plans or procedures for the protection of an individual in accordance with a
+                  witness protection scheme; the safety of the public or any part of the public; or the security
+                   of property; information the disclosure of which could reasonably be expected to cause
+                  prejudice to the defence of the Republic; security of the Republic; or international relations
+                   of the Republic; or plans, designs, drawings, functional and technical requirements and
+                    specifications of a Party, but must not include information which has been made
+                   automatically available, in terms of the Promotion of Access to Information Act, 2000; and
+
+                                                         RESTRICTED                                               9 of 24
+
+                  information which a Party has a statutory or common law duty to disclose or in respect of
+                which there is no reasonable expectation of privacy or confidentiality;
+       (c)   Notwithstanding the provisions of this Contract, no Party is entitled to disclose Confidential
+            Information, except where required to do so in terms of a law, without the prior written consent
+             of any other Party having an interest in the disclosure;
+       (d)   Where a Party discloses Confidential Information which materially damages or could materially
+          damage another Party, the disclosing Party must submit all facts related to the disclosure in
+             writing to the other Party, who must submit information related to such actual or potential
+            material damage to be resolved as a dispute;
+       (e)    Parties may not, except to the extent that a Party is legally required to make a public statement,
+         make any public statement or issue a press release which could affect another Party, without first
+            submitting a written copy of the proposed public statement or press release to the other Party
+          and obtaining the other Party's prior written approval for such public statement or press release,
+           which consent must not unreasonably be withheld.
+
+4.3.1.10 Guarantee and warranties
+
+       (a)   The supplier confirms that:
+                              i.   The warranty of goods supplied under this contract remains valid for the duration of the
+                     contract after the goods were delivered, installed and commissioned with a sign off,
+                      including the clients signature
+                             ii.    as at Commencement Date, it has the rights, title and interest in and to the Product or
+                      Services to deliver such Product or Services in terms of the Contract and that such rights
+                     are free from any encumbrances whatsoever;
+                             iii.    the Product is in good working order, free from Defects in material and workmanship,
+                  and substantially conforms to the Specifications, for the duration of the Warranty peri
+                  The warranty of services supplied under this contract remains valid for sixty (60) months
+                       after the occupation, or any portion thereof as the case may be, accepted at the final
+                      destination indicated in the contract;
+                     iv.    as at Commencement Date, it has the rights, title and interest in and to the Services
+                     delivered in terms of the Contract and that such rights are free from any encumbrances
+                    whatsoever;
+
+                   v.    the Service is in good working order, free from Defects in material and workmanship,
+                  and substantially conforms to the Specifications, for the duration of the Warranty
+                      period;
+
+                     vi.    during the Warranty period any defective item or part component of the Product be
+                     repaired or replaced within 3 (three) days after receiving a written notice from SITA;
+
+                      vii.    the service is maintained during its Warranty Period at no expense to SITA;
+
+                      viii.    the service possesses all material functions and features required for SITA’s Operational
+                    Requirements;
+
+                      ix.    the Service is continued during the term of the Contract;
+
+                    x.     all third-party warranties that the Supplier receives in connection with the service /
+                       infrastructure / installations including the corresponding software and the benefits of
+                              all such warranties are ceded to SITA without reducing or limiting the Supplier’s
+                      obligations under the Contract;
+
+                                                         RESTRICTED                                              10 of 24
+
+                      xi.   no actions, suits, or proceedings, pending or threatened against it or any of its third-
+                     party suppliers or sub-contractors that have a material adverse effect on the Supplier’s
+                          ability to fulfil its obligations under the Contract exist;
+
+                      xii.    SITA is notified immediately  if it becomes aware of any action, suit, or proceeding,
+                   pending or threatened to have a material adverse effect on the Supplier’s ability to fulfil
+                    the obligations under the Contract;
+
+                       xiii.   any Service provided to SITA after the Commencement Date of the Contract remains
+                      free from any lien, pledge, encumbrance or security interest;
+
+                  xiv.    SITA’s use of the Service supplied in connection with the Contract does not infringe any
+                        Intellectual Property Rights of any third party;
+
+                 xv.    the information disclosed to SITA does not contain any trade secrets of any third party,
+                     unless disclosure is permitted by such third party;
+
+                  xvi.      it is financially capable of fulfilling all requirements of the Contract and that the Supplier
+                              is a validly organized entity that has the authority to enter into the Contract;
+
+                   xvii.      it is not prohibited by any loan, contract, financing arrangement, trade covenant, or
+                        similar restriction from entering into the Contract;
+
+                   xviii.    the prices, charges and fees to SITA as contained in the Contract are at least as
+                     favourable as those offered by the Supplier to any of its other customers that are of the
+                 same or similar standing and situation as SITA; and
+
+                  xix.   any misrepresentation by the Supplier amounts to a breach of Contract.
+
+4.3.1.11 Intellectual Property Rights
+
+       (a)   SITA retains all Intellectual Property Rights in and to SITA's Intellectual Property. As of the
+             Effective Date, the Supplier is granted a non-exclusive license, for the continued duration of this
+            Contract, to perform any lawful act including the right to use, copy, maintain, modify, enhance
+          and create derivative works of SITA's Intellectual Property for the sole purpose of providing the
+            Products or Services to SITA pursuant to this Contract; provided that the Supplier must not be
+           permitted to use SITA's Intellectual Property for the benefit of any entities other than SITA
+           without the written consent of SITA, which consent may be withheld in SITA's sole and absolute
+             discretion. Except as otherwise requested or approved by SITA, which approval is in SITA's sole
+          and absolute discretion, the Supplier must cease all use of SITA's Intellectual Property, at of the
+              earliest of:
+                   (i)    termination or expiration date of this Contract;
+                    (ii)   the date of completion of the Services; and
+                    (iii)   the date of rendering of the last of the Deliverables
+       (b)     If so required by SITA, the Supplier must certify in writing to SITA that it has either returned all
+            SITA Intellectual Property to SITA or destroyed or deleted all other SITA Intellectual Property in
+                 its possession or under its control
+       (c)    SITA, at all times, owns all Intellectual Property Rights in and to all Bespoke Intellectual Property.
+       (d)   Save for the license granted in terms of this Contract, the Supplier retains all Intellectual Property
+             Rights in and to the Supplier’s pre-existing Intellectual Property that is used or supplied in
+           connection with the Products or Services
+
+
+
+
+                                                         RESTRICTED                                              11 of 24
+
+       (e)   Provide SITA with the compliant Occupational Health and Safety File (required on site for period
+             of installation and proof of compliance).
+
+4.3.1.12 General
+
+       (a)   The supplier will be bound by Government Procurement: General Conditions of Contract.
+       (b)   (GCC) as well as this Special Conditions of Contract (SCC), which will form part of the signed
+            contract with the Supplier. However, SITA reserves the right to include or waive the condition in
+           the signed contract.
+       (c)    SITA reserves the right to:
+                   (i)    Negotiate the conditions, or
+                    (ii)    Automatically disqualify a bidder for not accepting these conditions, or
+                    (iii)   Before entering into a contract, conduct or commission an external service provider to
+                   audit or conduct probity to ascertain whether a qualifying bidder has the technical
+                    capability to provide the goods and services as required by this tender.
+
+4.3.1.13 Counter Conditions
+
+       (a)    Bidders’ attention is drawn to the fact that amendments to any of the Bid Conditions or setting
+             of counter conditions by bidders may result in the invalidation of such bids.
+
+4.3.1.14 Fronting
+
+       (a)   The SITA supports the spirit of Broad Based Black Economic Empowerment and recognizes that
+             real empowerment can only be achieved through individuals and businesses conducting
+           themselves in accordance with the Constitution and in an honest, fair, equitable, transparent and
+              legally compliant manner. Against this background the SITA will not condone any form of fronting.
+       (b)   The SITA, in ensuring that bidders conduct themselves in an honest manner will, as part of the
+            bid evaluation processes, conduct or initiate the necessary enquiries/investigations to determine
+           the accuracy of the representation made in bid documents. Should any of the fronting indicators
+            as contained in the Guidelines on Complex Structures and Transactions and Fronting, issued by
+           the Department of Trade and Industry, be established during such enquiry/investigation, the onus
+               will be on the bidder / contractor to prove that fronting does not exist. Failure to do so within a
+            period of 14 days from date of notification may invalidate the bid / contract and may also result
+              in the restriction of the bidder/contractor to conduct business with the public sector for a period
+           not exceeding ten (10) years, in addition to any other remedies SITA may have against the
+            bidder/contractor concerned.
+
+4.3.1.15 Business Continuity and Disaster Recovery Plans
+
+       (a)   The bidder confirms that they have written business continuity and disaster recovery plans that
+            define the roles, responsibilities and procedures necessary to ensure that the required services
+           under this bid specification is in place and will be maintained continuously in the event of a
+             disruption to the bidder’s operations, regardless of the cause of the disruption.
+
+4.3.1.16 Supplier Due Diligence
+
+       (a)   SITA reserves the right to conduct supplier due diligence prior to final award or at any time during
+           the Contract period and this may include pre-announced / non-announced site visits. During the
+          due diligence process the information submitted by the bidder  will be verified and any
+            misrepresentation thereof may disqualify the bid or Contract in whole or parts thereof.
+
+
+
+
+                                                         RESTRICTED                                              12 of 24
+
+4.3.1.17 Preference Goal Requirements conditions
+
+       (a)   The Bidder’s commitment for the Preference Goal Requirements in this tender will be legally
+            binding and the Bidder needs to perform against their commitment for the duration of the
+            contract which will form part of the Contractual Agreement.
+       (b)   The Bidder must sustain, or improve the company’s BBBEE Level for the duration of the contact
+           which will form part of the Contractual Agreement.
+       (c)   Performance of Preference Goal Requirements will be determined annually. Bidders must submit
+             their Preference status report indicating progress against the Bidder’s Preferential commitments
+            within 30 days of the yearly anniversary of the contract.
+       (d)   Bidders need  to keep  auditable  substantive  records  / evidence and upon request by
+           SITA/Department must be made available for audit and, or due diligence purposes.
+       (e)   SITA reserves the right to require from a Bidder, either before a bid is adjudicated or at any time
+            subsequently, to substantiate any claim with regards to preferences, in any manner required by
+             SITA.
+         (f)    SITA reserves the right to verify information / evidence provided by the Bidder.
+       (g)   SITA/Department reserves the right to introduce a penalty of 1% of the overall annual year spent
+           by SITA/Department for the prior year if the Bidder fails to comply to paragraphs (a), (b) and (c)
+           above.
+
+4.3.2 Declaration of compliance and acceptance SCC
+
+I (we), the bidder hereby declare that I (we) accept ALL the Special Conditions of Contract as specified in par
+4.3.2 above and shall comply with all stated obligations:
+
+
+
+Name of Bidder:_____________________________     Signature: _________________________
+
+
+
+Date:______________
+
+
+4.4  Price and Preference Points Evaluation (Stage 4)
+
+4.4.1 Bid Pricing Schedule
+
+       (a)   Bidders must complete the bid pricing schedule in the Excel spreadsheet format provided and
+            include this as part their submission.
+
+4.4.2 Costing and Pricing Conditions
+
+       (a)   South African Pricing - The total price must be VAT inclusive and be quoted in South African Rand
+             (ZAR).
+       (b)    Total Price
+                   (i)     All quoted prices are the total price for the entire scope of required services and
+                   deliverables to be provided by the bidder.
+                    (ii)     All additional costs as well as cost of delivery, labour, S&T, overtime, etc. must be included
+                     in this bid.
+                    (iii)    All services, accessories, upgrades and options required by the solution or specified by the
+                     client must be included in the quoted price. If not included, suppliers will be required to
+                  supply these accessories at no cost to the client.
+
+                                                         RESTRICTED                                              13 of 24
+
+                (iv)   SITA reserves the right to negotiate pricing with the successful bidder prior to the award
+                  as well as envisaged quantities
+       (c)   Time and Material
+                   (i)    Time and Material Quotations will not form part of the total bid price.  It will be based on
+                an ad-hoc basis as and when required by the client.
+       (d)   These conditions will form part of the Contract between SITA and the bidder. However, SITA
+            reserves the right to include or waive the condition in the Contract.
+       (e)   The bidder must complete the declaration of acceptance as per par 4.5 below by marking with
+          an “X” either “ACCEPT ALL”, or “DO NOT ACCEPT ALL”, failing which the declaration will be
+           regarded as “DO NOT ACCEPT ALL” and the bid will be disqualified.
+
+4.4.3 Rate of Exchange Pricing Information
+
+Provide the TOTAL BID PRICE for the duration of Contract and clearly indicate the Local Price and Foreign Price,
+     where –
+
+       a)    Local Price means the portion of the TOTAL price that is NOT dependent on the Foreign Rate of
+     Exchange (ROE) and;
+
+      b)    Foreign Price means the portion of the TOTAL price that is dependent on the Foreign Rate of
+     Exchange (ROE).
+
+       c)    Exchange Rate means the ROE (ZA Rand vs foreign currency) as determined at time of bid.
+
+4.4.4 Bid Exchange Rate Conditions
+
+     The bidders must use the exchange rate provided below to enable SITA to compare the prices
+      provided by using the same exchange rate:
+
+       Foreign currency                             South African Rand (ZAR) exchange rate
+      1 US Dollar                                                      17.33
+      1 Euro                                                          20.05
+      1 Pound                                                         22.77
+
+
+4.4.5 Bid Pricing Schedule
+
+       (a)   Bidders must complete the bid pricing schedule in the Excel spreadsheet format provided and
+           upload this as part of their submission.
+
+
+4.5  Declaration of Acceptance
+
+                                                           ACCEPT ALL    DO NOT
+                                                                        ACCEPT ALL
+        1.    The bidder declares to ACCEPT ALL the Costing and Pricing
+             conditions as specified in par 4.4.2 above by indicating
+             with an “X” in the “ACCEPT ALL” column, or
+
+        2.    The bidder declares to NOT ACCEPT ALL the Costing and
+               Pricing Conditions as specified in par 4.4.2 above by -
+
+              (a)    Indicating with an “X” in the “DO NOT ACCEPT ALL”
+                column, and;
+
+
+
+
+
+                                                         RESTRICTED                                              14 of 24
+
+                                                           ACCEPT ALL    DO NOT
+                                                                        ACCEPT ALL
+             (b)   Provide reason and proposal for each of the condition
+                 not accepted.
+
+      Comments by bidder:
+       Provide the condition reference, the reasons for not accepting the condition.
+
+
+
+4.6  Preference Requirements
+
+       (a)   The bidder must complete in full all the PREFERENCE requirements.
+       (b)    Allocation of points per requirements: The points allocation of bidders’ responses to the
+           requirements will be determined by the completeness, relevance and accuracy of substantiating
+            evidence.
+
+       (c)    Points will be allocated for each PREFERENCE requirement as per the criteria set in each section
+              in the table below.
+
+       (d)   The bidder must provide a unique reference number (e.g. binder/folio, chapter, section, page) to
+             locate substantiating evidence in the bid response. During evaluation, SITA reserves the right to
+             treat substantiation evidence that cannot be located in the bid response, as “NOT COMPLY”. The
+           evidence needs to be attached to Annex A.
+
+       (e)   Preference Goal Requirements
+
+                   (i)    The applicable Preference Point system for this tender and points claimed is 80/20.
+                    (ii)   The specific Preferential Goal Requirements for this tender is indicated in Annex A table 5
+                 below.
+                    (iii)   Failure on the part of a bidder to complete the 80/20 preference point systems and submit
+                  proof or documentation required in terms of this tender to claim preference points for the
+                  Preference Goal Requirements, will be interpreted to mean that preference points for
+                     specific goals are not claimed.
+                (iv)   The Bidder must indicate how they claim points for each of the preference points by signing
+                   at par 4.5 in the Invitation to Bid document.
+               (v)   The Bidder must provide a Preferential Goals Plan (narrative document) as well as an
+                     Activity Plan with clear milestones indicating the commitment by the Bidder for each of the
+                    Preferential Goals identified for this tender for the duration of the contact set in each
+                   section in Annex A table 5 below.
+
+                (vi)   Failure on the part of a bidder to submit proof or documentation required in terms of this
+                 tender to claim preference points for the Preference Goal Requirements for this tender,
+                       will be interpreted to mean that preference points are not claimed.
+                 (vii)  The Bidder’s commitment for the Preference Goal Requirements in this tender will be
+                     legally binding and the Bidder needs to perform against their commitment for the duration
+                   of the contract which will form part of the Contractual Agreement.
+
+                  (viii)  The Bidder must sustain, or improve the company’s BBBEE Level for the duration of the
+                  contact which will form part of the Contractual Agreement.
+
+
+
+
+
+                                                         RESTRICTED                                              15 of 24
+
+(ix)   Performance of Preference Goal Requirements will be determined annually. Bidders must
+      submit their Preference status report indicating progress against the Bidder’s Preferential
+     commitments within 30 days of the yearly anniversary of the contract.
+
+(x)    Bidders need to keep auditable substantive records / evidence and upon request by
+      SITA/Department must be made available for audit and, or due diligence purposes.
+
+(xi)   SITA/Department reserves the right to require from a Bidder, either before a bid  is
+      adjudicated or at any time subsequently, to substantiate any claim with regards to
+      preferences, in any manner required by SITA.
+
+(xii)   SITA reserves the right to verify information / evidence provided by the Bidder.
+
+(xiii)  SITA/Department reserves the right to introduce a penalty of 1% of the overall annual year
+      spent by SITA for the prior year if the Bidder fails to comply to paragraphs (vii), (viii) and
+        (ix) above.
+
+
+
+
+
+                                           RESTRICTED                                              16 of 24
+
+         Bidder substantiating evidence
+
+5.  Technical Mandatory Requirement Evidence
+
+5.1  Bidder Certification / Affiliation Requirements
+
+      Attach a copy of OEM documentation (valid certificate or letter) that the bidder is the OEM or a
+      registered OEM partner or accredited reseller.
+
+
+     NOTE (1):
+      SITA reserves the right to verify information provided.
+
+
+5.2  Bidder Experience and Capability Requirements
+
+       (a)   Complete table below, noting that:
+                   (i)    Provide reference details of customers to whom the project or service of supply, install,
+               and configure network solution was delivered.
+                    (ii)   References may include multiple customers.
+                    (iii)   Project end-date must be current or not older than 5 years from date this bid is advertised.
+                (iv)   Scope of work must be related.
+
+
+                                         Table 3: References
+
+ No  Company       Reference person      Project Scope of Work              Project start
+    Name         name, contact                                    and end date
+                         details
+ 1   <Company       <Person Name>        < Provide scope details of a project   Start Date:
+     name>           <Tel>                 from a customer to whom a project or  End Date:
+                      <email>                  service was delivered for the supply,
+                                                         installation,    maintenance    and
+                                              support of routers.
+
+
+
+NOTE (1):
+SITA reserves the right to verify information provided.
+
+
+Note (2):
+Failure to complete Table 3 fully as indicated above will result in disqualification.
+
+
+6.  Requirements Evidence
+
+6.1  Technical Requirement
+
+
+     The bidder must confirm that they comply with the Product / Service Requirements by completing
+     Annex B: Addendum 1.
+
+
+
+
+
+                                                         RESTRICTED                                              17 of 24
+
+      Attach documentation (brochures/ specification, or product functionality sheet to verify that all of the
+      technical capabilities will be provided here.
+
+
+     NOTE: Failing to comply with all the aspect of this section will result in disqualification.
+
+      Yes = Comply
+
+    No = Not comply (Thus, disqualified)
+
+
+7.  Preference Points Preferential Goals Evidence
+
+       (a)   Bidder to complete the table(s) below in terms of points claimed for the specific bid and must
+            provide the required evidence justifying the points claimed.
+       (b)   The bidder must provide a copy of relevant proof of B-BBEE status level of contributor as defined
+              in the Broad-based Black Economic Empowerment Act and attach it here.
+       (c)   The Bidder must indicate how they claim points for each special goal by completing the table
+          below and providing the justification evidence for preference points claimed.
+
+
+                                   Table 4: B-BEE Points Allocation
+
+                                             Number of points
+           B-BBEE Status Level of Contributor
+                                                        (80/20 system)
+
+                        1                              20
+
+                        2                              18
+
+                        3                              14
+
+                        4                              12
+
+                        5                               8
+
+                        6                               6
+
+                        7                               4
+
+                        8                               2
+
+               Non-compliant contributor                     0
+
+
+
+
+
+                 Table 4: Preferential Goal Requirements 80/20 Preference Points system
+
+ Preferential Goal    Points     Example of Expected      Number     of  Substantiating
+ Requirements       allocated   substantiating evidence      points claimed  evidence
+ BBBEE
+
+
+                                                         RESTRICTED                                              18 of 24
+
+ Preferential Goal    Points     Example of Expected      Number     of  Substantiating
+ Requirements       allocated   substantiating evidence      points claimed  evidence
+ The allocation of                   Evidence:                                     <Provide unique
+ points for bidders                The Bidder must provide a                       reference to locate
+ that meet a certain               copy of relevant proof of B-                      (80/20) preference
+ B-BBEE level as                 BBEE status level of                              point system
+ defined in the                      contributor level as defined                       substantiating
+ Broad-Based Black                    in the Broad-Based Black                       evidence here>.
+ Economic                      Economic Empowerment Act.
+ Empowerment Act;
+                                     Points allocation:
+                                     Points will be allocated in
+                                 accordance with the B-BBEE
+                                      table in par. 6 above.
+
+
+
+
+
+ANNEX B: ADDENDUM 1
+
+NB: SITA Regulations 12.3 require that before a Department concludes a contract, the Agency must conduct
+standard (MIOS) certification in respect of the goods or services in question. Bidders are required to attach
+SITA PRODUCT CERTIFICATES for all offered products. These certificates can be obtained from the OEM. Refer
+to the SITA Product Certification website for more information www.sita.co.za/prodcert.htm.
+
+The bidder must confirm that they comply with the following Service / Product Functional Requirements as
+indicated below as this will be legal contractual binding:
+
+                                                         RESTRICTED                                              19 of 24
+
+ Product / Service Requirement:  Device Requirements                      Indicate by Yes= Comply/
+
+                                                         No= Not Comply
+•      Routers                        Technical Specs                      Indicate by Yes= Comply/
+                                        Cisco ASR-9902FC x1
+•      Maintenance and                                       No= Not Comply
+                                        Cisco C8300-1N1S-4T2X x7
+       support of both
+                                        Cisco C8200-1N-4T x69
+       required devices for a
+       period of 60 months.
+
+
+
+
+
+                                                         RESTRICTED                                              20 of 24
+
+RESTRICTED                                              21 of 24
+
+RESTRICTED                                              22 of 24
+
+ Product / Service Requirement:  Device Requirements                      Indicate by Yes= Comply/
+
+                                                         No= Not Comply
+
+
+
+
+
+I, the bidder (Full names) …………………………………………………. representing (company
+
+name)…………………………………………………………….. Hereby confirm that I comply with the above Device
+
+Mandatory Requirements and understand that it will form part of the contract and is legally binding.
+
+
+
+Thus done and signed at ……………………………………. On this………day of……………….20….
+
+
+
+……………………………….
+
+Signature
+
+Designation:
+
+
+
+
+
+                                                         RESTRICTED                                              23 of 24
+
+RESTRICTED                                              24 of 24

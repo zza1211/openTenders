@@ -1,0 +1,2390 @@
+               TENDER
+
+
+                FOR
+
+
+Supply and Installation of FTTH for BIT. Mesra Campus
+
+
+             BIT MESRA, Ranchi
+
+
+
+
+
+         Tender No.: IC/000378 & IC/000379
+
+        Tender date:    04 December., 2021
+
+
+     Last Date of submission:     04 January., 2022
+
+
+           Birla Institute of Technology, Mesra
+
+
+
+
+
+ P a g e 1 | 50                           Contractor seal and signature
+
+                                      Check List
+This checklist should be the cover page of the techno-commercial bid.
+While submitting the bid, bidders are required to check/ clearly mention whether they have submitted copies
+of the following documents or whichever is required as per terms  and conditions of the bid document.
+Reason(s) for non-submission of any document is to be clearly mentioned.
+   Sl.                ITEM                                           Mention  Page
+  No.                                                               Yes or No No.
+    1.   Whether all the pages of Bid and enclosures are serially numberedand         Yes / No
+         signed by authorized Signatory. Total No. of pages =
+
+    2.   Whether fee/ cost of tender document
+
+    3.   Whether Bid Security (EMD)
+    4.    Relationship certificate has been submitted.
+
+   5    Declaration regarding  blacklisting  /  debarred  has been submitted.
+
+   6   Copy of GST Registration No. (GSTIN) has been submitted
+
+   7    Proof of office address has been submitted.
+   8    Copies of I.T. Returns filed and copies of dully Certified/ Audited
+        Balance Sheet along with Profit and Loss account or Annual Report
+          indicating the required turnover of 3 financial years has been submitted.
+   9     Certificate of  satisfactory completion  of work  as asked under
+           eligibility clause has been submitted.
+   10   Documentary evidence  regarding  registration  of  the  firm with
+       EPF/RPF Commissioner or undertaking has been submitted.
+   11  PAN card of the firm submitted.
+   12   Undertaking that the bidder would get himself registered withCompetent
+         Authority under The Contract Labour (Regulation and
+         Abolition) Act, 1970, has been submitted.
+   13  BOCW: The contractor shall also comply with the provisions of the
+         building and other Construction Workers (Regulation of Employment &
+         Conditions of Service) Act, 1996 and the building and other Construction
+        Workers Welfare Cess Act, 1996.
+   14    Article   of  Memorandum    of   Association   and   Certificate   of
+         incorporation or partnership deed or proprietorship deed as the case
+       may be has been submitted.
+   15   General Power of Attorney in favour of the signatory in case of Partnership
+         firm/ Registered company duly notarized given by all partners in case of
+         Partnership firm, by the Resolution of the Board
+        given by authorized director(s) in case of company and  the proprietor in
+         case of proprietorship firm has been submitted
+   16   Whether an MSME. Enclose certificate.
+
+
+
+
+
+                   P a g e 2 | 50                           Contractor seal and signature
+
+Birla Institute of Technology, Mesra, Ranchi invites tender for Supply and Installation of FTTH for
+BIT. Mesra Campus, as per specifications given in the Annexure attached to the Tender.
+
+  Tender Reference No.                         IC/000378 & IC/000379 Dated 04 December
+                                            2021
+  Last Date and Time for receipt of Tender         04 January .2022 at 1500 Hrs
+  Address for Communication                  As Stated below in the Instructions to the bidders.
+  Contact Telephone Numbers, H.O.D.            0651-2276185
+  For technical Details Contact PIC-ICTC:          pic-ictc@bitmesra.ac.in
+  Department of Information and Communication
+  Technology
+   Prof..Abhijit Mustafi
+
+                                    Notice Inviting Tender (NIT)
+
+                            Type of tender       : Two BIDS system
+
+  Bids are invited from reputed contractors for undertaking the following work during the contract period.
+
+     S. No              Name of the work                    Cost of Bid       EMD
+          Supply and Installation of FTTH for
+           BIT. Mesra Campus
+
+    1                                                  Rs 2,500/-         Rs.5,00,000/-
+
+
+
+
+                     INSTRUCTIONS TO THE BIDDERS
+  1.   Eligibility:
+
+       a)  The bidder should be Indian Registered Company having office in India.
+
+      b)  Authorized Partner; should have letter of authorization from OEM MAF
+
+       c)  The bidder’s organization must be Operational for the last 3 years.
+
+      d) The bidder must submit the Certificate of Incorporation of its Firm/Company.
+
+       e)  The bidders will have to furnish copy of documentary evidence that they are registered with EPF/
+       RPF Commissioner or an undertaking to get registered if work is awarded. They will also furnish
+        an undertaking that within 7 (Seven) days of the close of every month they will submit a statement
+           to the Purchaser showing the recoveries of contributions in respect of employees with certificate
+           that the same have been deposited with EPF/ RPF Commissioner.
+
+        f)  An undertaking is to be furnished by the bidder that he would get himself registered with competent
+           authority under the Contract Labour (Regulation and Abolition) Act 1970 in reference to Purchaser
+          as a principal employer within 15 (Fifteen) days of award of work.
+
+      g) BOCW: The contractor shall also comply with the provisions of the building and other
+          Construction Workers (Regulation of Employment & Conditions.The bidder should have
+
+                     P a g e 3 | 50                           Contractor seal and signature
+
+        valid PAN No. and copy of the same need to be submitted.
+
+    h) The bidder should have valid Goods and Service Tax Registration No. (GSTIN) and copy of the
+      same need to be submitted or declaration mentioning as unregistered dealer.
+
+     i)  The bidder should not have been blacklisted/ debarred from any Government or Public Sector
+        Organization/ Public Bodies/ Municipalities/ GST Authorities, etc. A declaration shall have to be
+        furnished by the bidder in this respect along with the bid as per format given in Annexure-III
+        enclosed.
+
+     j)  The bidder should have experience of Installation & completion of provisioning of FTTH
+        connections for minimum 3 (Three) Projects earlier. The certificate of satisfactory completion of
+      work of such Project from the organization shall be enclosed with the bid. The certificate shall be
+        issued by an officer not below the rank of Project in-charge. Purchase order/work order issued by
+       competent authority should be enclosed in other cases.
+    k) The bidder should have average annual turnover of Rs.5.00 Crore in last three financial years and
+       submit duly audited (if applicable) balance sheet with profit & loss account or actual ITR for the
+        relevant period.
+
+ 2.  EMD: The bidder shall furnish, as part of his bid, a bid security (EMD) as mentioned in the tender
+      in form of demand draft (DD) in favour of BIRLA INSTITUTE OF TECHNOLOGY, Payable at
+     Ranchi valid for 180 days from the date of opening of tender.
+
+ 3.   Technical Bid:
+(a)     Proof of payment of tender documents fee Rs. 2500/- in the form of Demand draft in favour of
+     BIRLA INSTITUTE OF TECHNOLOGY, payable at Ranchi.
+(b)     Declaration regarding relationship certificate.
+(c)     Declaration regarding black listing of the firm
+(d)    Copy of valid Goods and Service Tax Registration No. (GSTIN),
+(e)     Proof of office address of the firm in India.
+(f)    Turn Over proof as asked under eligibility clause, duly certified by Chartered Accountant.
+(g)     Experience certificates as asked under eligibility clause.
+(h)    PF &ESI registration certificate of the firm.
+(i)   PAN card of the firm/ bidder.
+(j)     Undertaking regarding registration with labour commissioner’s office as applicable.
+(k)   BOCW: The contractor shall also comply with the provisions of the building and other
+        Construction Workers (Regulation of Employment & Conditions The bidder should have
+        valid PAN No. and copy of the same need to be submitted.
+(l)     Specimen signature and authorization to the person empowered by the firm to sign thebid
+       documents.  Partnership        Deed  /  Article     of   Association     /  Memorandum  of
+        Association and Certificate of Incorporation in case of non proprietary firm to besubmitted.
+
+4.     The bidder should read each page of the tender document thoroughly and submit certificate as per
+        bid form that he has read, under stood and agree all the terms & conditions of the tender.
+5.      Sealing and marking of bids :
+      The bidder should submit the technical and financial bids in two separate envelopes clearly
+       marking technical and financial bid. These two envelopes should again be put in one single main
+       envelope and sealed and bear tender enquiry number to be sent to The Deputy Registrar
+
+                   P a g e 4 | 50                           Contractor seal and signature
+
+        (Purchase &MM), BIT Mesra, Ranchi
+
+ 6.     The Technical Bids shall also be marked with the Company Name and address.
+
+ 7.      Deleted
+
+ 8.    CLARIFICATION OF BID DOCUMENTS
+
+
+ 8.1  Any clarification issued by BIT mesra in response to query raised by prospective bidders
+        shall form an integral part of bid documents and it shall amount to an amendment of relevant
+        clauses of the bid documents.
+
+8.2    The bidders are required to keep a watch on the BIT Website
+       :https://www.bitmesra.ac.in/BIT_Tender_Notices w.r.t. any amendment to the tender document
+        or clarification to the queries raised by the bidders till a day prior to the submission of the tender.
+        reserves the right for rejection of bids if the bids are submitted without taking into account these
+        amendments/clarifications. Further bidder will be fully responsible for downloading of the tender
+       document and amendments for the completeness.
+
+ 9.    AMENDMENT OF BID DOCUMENTS
+
+ 9.1    At any time, prior to the date of submission of Bids, the Purchaser may, for any reason, whether at
+            its own initiative or in response to a clarification requested by a prospective bidder, modify bid
+        documents by amendments.
+
+ 9.2    The amendments shall be displayed on website and these amendments will be binding on all
+         bidders.
+
+ 9.3     In order to afford prospective bidders a reasonable time to take the amendment into account in
+        preparing their bids, the purchaser may, at its discretion, extend the deadline for the submission of
+         bids suitably.
+
+ 10.   BIT Mesra will have the right to increase or decrease up to 10% of the value of goods and services
+         specified in the schedule or requirements without and change in the unit price or other terms and
+         conditions at the time of award of contract.
+
+11.   DEADLINE FOR SUBMISSION OF BIDS
+11.1   Bids must be received by the Purchaser on or before the due date and time of submission of the
+        bid.
+
+11.2   The Purchaser may, at its discretion, extend this deadline for the submission of bids by  amending
+        the Bid Documents in which case all rights and obligations of the purchaser and bidders previously
+        as extended.
+
+
+12 . LATE BIDS This office system will not accept any bid after the scheduled date
+    and time ofsubmission of the bids.
+
+13  MODIFICATIONS AND WITHDRAWAL OF BIDS
+
+
+                    P a g e 5 | 50                           Contractor seal and signature
+
+13.1 The bidder may modify or withdraw his bid after submission prior to the deadline prescribed for
+     submission of bids.
+
+13.2 No bid shall be modified subsequent to the deadline for submission of bids.
+
+14  A bid received without EMD shall be rejected summarily.
+
+15 The contract period shall be valid for the period of one (1) year.
+
+16.  If the services/ items used are not satisfactory or up to the mark, reserves the right to cancel the contract
+     at any time after giving one (1) month notice.
+
+17. SUMMARY REJECTION OF BIDS
+          a.  Any bid, unless exempted specifically not accompanied by required Earnest Money.
+
+          b.  Any bid received late without conclusive proof that  it was delivered before the specified
+             closing time.
+           c.  Any bid in which rates have not been quoted in accordance with specified formats /details.
+
+          d.  Any conditional bid.
+
+           e.  Any bid in which all asked documents have not been submitted.
+
+
+ 18. BIT Mesra reserves the right to cancel any or all the tenders without assigning any reason.
+
+ 19. In case of dispute the decision of the arbitrator appointed by the the Vice Chancellor will be final and
+     binding on both the Parties.
+
+ 20. FORMATS AND SIGNING OF BID
+    The bid shall be typed or printed numbered sequentially and digitally signed by the bidder or a person
+     or persons duly authorized to bind the bidder to the contract. An index of various documents and page
+     no. where it is available shall be given. The letter of authorization shall be indicated by written power
+     of attorney. The copy of power of attorney shall be enclosed along with the bid.
+
+ 21. BIT Mesra shall deduct TDS, GST, etc from the contractor’s bills as applicable from time to time.
+
+ 22. Document about experience of tender  in the line of work & capacity to execute the contract
+     successfully to be attached.
+
+ 23. If any tender bid is withdrawn before final acceptance of tender, the earnest money  is liable to be
+     forfeited.
+
+ 24. Deleted
+
+ 25. Deleted
+
+ 26. If the information furnished by the Bidder is found to be incorrect, the contract, if awarded is liable to
+    be terminated without notice and Earnest Money is liable to be forfeited.
+
+ 27. BIT Mesra does not bind himself to accept the lowest tender and reserves to himself the right to reject
+
+                    P a g e 6 | 50                           Contractor seal and signature
+
+     any or all the tenders. It may at its discretion terminate the tender at any time during the validity period
+     without assigning any reason.
+
+  28. BIT Mesra will not pay any interest on the earnest money deposit/ Bank Guarantee.
+
+  29. BIT Mesra also reserves the right to forfeit Earnest Money, if the Bidder, after accepting the    contract,
+       fails to comply with any of the terms and conditions set out here or in the contract agreement, which
+    may be drawn up as consequence of acceptance of tender. In such circumstances the right to cancel the
+      tender/contract rests with the BIT Mesra.
+
+
+  30. Bid shall remain valid for 180 days from the day of opening of bids. A bid valid for a shorter period
+      shall be rejected being non-responsive.
+
+  31. Tenderer(s) shall enclose self-attested Xerox copy of his/her valid registration, Sales tax, Income Tax
+      Clearance, TIN, PAN, Audited turnover, Character Certificate (Proprietorship Companies), Labour
+        License, EPF Registration, ESIC Registration, partnership deed etc. Acceptance of the tender will
+     be communicated through an acceptance letter.
+
+  32.  Any bribe, commission, gift for advance given, promised given, promised or offered by or on behalf
+        of the Bidder or his/her partner, agent or servant or any of his representative or relative to any official/
+        officer of BIT Mesra. with a motive to influence acceptance of tender or award of work or for
+       acceptance of substandard executive work will render the tender/contract to be cancelled.
+
+  33.    Price to Be Quoted: Rates should be quoted in attached Annexure of Financial Bid.
+
+  34.    Applicable taxes willbe shown separately.
+
+
+  35.    Deleted
+  36.    Deleted
+  37.   Adjustment of bills/ Bid security
+
+  37.1  No request for transfer of any previous deposit of earnest money or security deposit or adjustment
+         against any pending bill held by the Department in respect of any previous work shall be entertained.
+  37.2  Bidders shall not be permitted to withdraw their offer or modify the terms and conditions thereof. In
+         case the bidder fails to observe and comply with the stipulations made herein or backs out after
+         quoting the rates, the aforesaid bid security shall be forfeited.
+  37.3  Deleted
+  37.4  No claim shall lie against BIT MESRA in respect of erosion in the value or interest on the amount
+         of earnest money deposit or security deposit.
+  37.5   The bid security may be forfeited:
+
+            (i)     If the bidder withdraws his bid during the period of bid validity specified by the bidder in the
+          bid form; or
+            (ii)    In case of successful bidder, if the bidder
+           a) Fails to sign the contract in accordance with the terms of the tender document
+          b) Fails to furnish required performance security in accordance with the terms of tender document
+             within the time frame specified by the Client.
+           c) Fails or refuses to honor his own quoted prices for the services or part thereof.
+38.   VALIDITY OF BIDS
+38.1   Deleted
+
+                    P a g e 7 | 50                           Contractor seal and signature
+
+38.2    In case Client calls the bidder for negotiation then this shall not amount to cancellation or withdrawal
+       of original offer which shall be binding on the bidder.
+38.3  The Client may request for extension for another period of 60 days, without any modifications and
+        without giving any reasons thereof.
+39.   The Qualification Information, Part I, should be kept in a separate sealed envelope, superscribed as
+     “Minimum  Eligibility  Criteria  for  Tender  No.  IC/000378 & IC/00037  Dated  04/12/2021
+        with the Name and address of the Bidder.
+ 40.   The Bid shall be submitted not later than 3pm of  last date of submission.
+       addressed to The Deputy Registrar (Purchase&MM), Birla Institute of Technology, Mesra, Ranchi-
+       835215.
+ 41.   Bidders sending their bids through courier should also ensure that their bids are received on the said
+       address by the stipulated date and time. No time extension for couriers shall be granted.
+ 42.   Bids must be received in the office at the address specified above not later than the date and time
+        stipulated in the notification. No Bid shall be accepted after the aforesaid date and time. However
+       the competent authority of the BIT MESRA reserves right to extend the date / time for receipt of
+        bids, before opening of the Technical Bids
+ 43.  The Eligibility Criteria and the technical bids shall be evaluated based on the available documents
+       submitted by the bidder. To assist in the examination, evaluation, and comparison of the bids, and
+        qualification of the bidders, the Client may, at its discretion, ask any bidder for a clarification of its
+        bid. Any clarification submitted by a bidder that is not in response to a request by the Client shall
+        not be considered. The Client’s request for clarification and the response shall be inwriting.
+ 44.   Client also reserves right to seek confirmation/clarification from the issuer agency, on the supporting
+      documents submitted by the bidder.
+ 45.  RIGHT OF ACCEPTANCE:
+ 45.1  Deleted
+ 45.2 Any failure on the part of the bidder to observe the prescribed procedure and any attempt to canvass
+       for the work shall render the bidder ‘s bids liable for rejection.
+ 45.3 The competent authority of BIT MESRA reserves the right to award any or part or full contract to any
+       successful agency (ies) at its discretion and this will be binding on the bidders.
+ 45.4  In case of failure to comply with the provisions of the terms and conditions mentioned, by the agency
+        that has been awarded the contract, the competent authority of the BIT MESRA reserves the right to
+      award the contract to the next higher bidder or any other outside agency and the difference of price
+        shall be recovered from the defaulter agency who has been awarded the initial contract and this will
+      be binding on the bidders.
+ 45.5  BIT MESRA may terminate the Contract if it is found that the Contractor is black listed on previous
+       occasions by any of the Government Departments / Institutions / Local Bodies / Municipalities / Public
+       Sector Undertaking etc.
+ 46.  NOTIFICATION OF AWARD BY ISSUANCE OF ‘LETTER OF ACCEPTANCE’/WORKORDER
+ 46.1   After determining the successful evaluated bidder, Client shall issue a Work Order/ Letter of
+       Acceptance (LoA) in duplicate, who will return one copy to Client duly acknowledged, accepted
+       and signed by the authorized signatory, within Three (3) days of receipt of the same by him/her.
+ 47    Letter of Acceptance:
+
+ 47.1  Deleted
+ 47.2  The issuance of the Letter of Acceptance to the bidder shall constitute an integral part and it will be
+       a binding to the contract.
+ 47.3  The time taken between the date of issue of LoA and Notice to Proceed shall not prevent the
+       contractor to mobilize the man power and other resources.
+ 48.   SIGNING OF CONTRACT AGREEMENT
+ 48.1  The successful Bidder shall enter into contract and shall execute and sign the Contract Agreement
+         in accordance with the Articles of Agreement before commencement of the works and services.
+ 48.2   Client shall prepare the draft Articles of Agreement in the Proforma included in this Document,
+                    P a g e 8 | 50                           Contractor seal and signature
+
+       duly incorporating all the terms of agreement between the two parties and send the same in duplicate
+        to the successful Bidder for their concurrence.
+ 48.3   The successful Bidder shall return the duly concurred copies of the draft Articles of Agreement
+       within a Week of receipt of the draft Articles of Agreement from Client, duly printed on the correct
+      amount of stamp paper, duly adjudicated by the registrar of stamps where the contract is proposed to
+      be executed.
+48.4   The competent authority of the Client shall sign the Contract agreement and return a copy of the
+      same to the successful bidder.
+ 49.   While all efforts have been made to avoid errors in the drafting of the tender documents, the Bidder
+         is advised to check the same carefully. No claim on account of any errors detected in the tender
+      documents shall be entertained.
+ 50.   All materials used shall be as per specifications and ISI marked wherever applicable. ISI marking
+        referred relate to latest BIS code as published by Bureau of Indian Standards up to 30 days before the
+       date of opening the tender.
+  51. Warranty/ Guarantee/ AMC: The supplier should provide comprehensive warranty for Five years for all
+      active components without any additional cost to the purchaser form the date of satisfactory
+     commissioning. Components include all parts (accessories / consumables / spares parts). All accessories/
+     consumable/ spare parts replaced shall be from OEM/ Supplier of same model or higher version. If within
+     a period of Five years after commission, any accessory / consumable/ spare part is proved to be defective
+     then such product shall be replaced by the manufacturer / supplier. Such replacement shall be sole
+     obligation of manufacturer / supplier, including payment of charges for freight delivery, custom duty and
+      transportation, if any. In case of breakdown during the warranty period, a competent Service Engineering
+     of the supplier should make as many visits as are required to rectify the problem and replace the faulty
+      parts, without any liability of cost. Service response time must be less than 72 hours
+
+
+
+
+
+                    P a g e 9 | 50                           Contractor seal and signature
+
+                        BID SUBMISSION FORM
+
+                                                                                                Date:
+
+                               LETTER OF BID
+
+To
+
+      REGISTRAR
+       BIRLA INSTITUTE OF TECHNOLOGY, MESRA
+      RANCHI-835 215 (JHARKHAND) - INDIA
+
+        Ref: Invitation for Bid No. BIT MESRA Tender No. IC/000378 & IC/000379 Dated 04/12/21
+We, the undersigned, declare that:
+
+
+1.    We have examined and have no reservations to the Bidding Documents, including Addenda issued in accordance
+       with Instructions to Bidders.
+
+2.    We offer to execute in conformity with the Bidding Documents for Tender No. IC/000378 & IC/000379 Dated 04/12/21
+        of Birla Institute of Technology, Mesra, Ranchi-835215.
+
+3.     Our bid shall be valid for a period of 180 days from the date fixed for the bid submission deadline in accordance
+       with the Bidding Documents and it shall remain binding upon us and maybe accepted at any time before the
+        expiration of that period.
+
+4.        If our bid is accepted, we commit to submit a Bank Guarantee in accordance with the Bidding Documents.
+
+5.    We also declare that any Government of India or any other Government/Private body has not declared us ineligible
+        or black listed us on charges of engaging in corrupt, fraudulent, collusive or coercive practices or any
+        failure/lapses of serious nature.
+
+6.    We also accept all the terms and conditions of this bidding document and undertake to abide by them, including the
+       condition that you are not bound to accept highest ranked bid / lowest bid or any other bid that you may receive.
+
+7.     The rates quoted by me are valid and binding upon me for the entire period of contract and it is certified that
+        the rates quoted are the lowest rates as quoted in any other institution in India.
+
+8.     I/We give the rights to the competent authority of the office of BIT MESRA to forfeit the Earnest Money/
+      Bank Guarantee by me/us in case of breach of conditions of Contract.
+
+Yours sincerely,
+
+
+
+Authorised Signatory
+(Authorised person shall attached a copy of Authorisation for signing on behalf of Bidding company)
+
+Full Name and Designation
+(To be printed on Bidder’s letterhead)
+
+                 P a g e 10 | 50                           Contractor seal and signature
+
+                           BIDDER INFORMATION
+
+
+   1. Date                                                          :
+
+   2. Name of Tendering Firm / Agency             :
+     (Attach certificate of registration)
+
+3.  Registration & incorporation particulars of the Firm / Agency
+            i.     Private Limited
+            ii.     Public Limited
+
+         iii.   Any other – Please specify            :
+
+4. Name of Proprietor / Director(s)                :
+
+
+5.  Full Address of Reg. Office (Local)           :
+
+
+    Telephone No.                                            :
+    E-Mail Address                                           :
+
+
+6.  Full Address of Reg. Office (Corporate)          :
+
+    Telephone No.                                            :
+    E-Mail Address                                           :
+
+
+7.  Bank of Firm / agency                                :
+    Current Account Number                           :
+   IFSC Code                                                   :
+
+
+8.  GST No.                                                        :
+    (Attach attested copy)
+
+9. PAN No                                                        :
+    (Attach attested copy)
+
+10. E.P.F. Registration No.                               :
+    (Attach attested copy)
+
+11. E.S.I. Registration No                                 :
+
+
+               P a g e 11 | 50                           Contractor seal and signature
+
+          (Attach attested copy)
+
+
+   Place:
+
+               PROFORMA IN RESPECT OF DETAILS ON WORKING BID CAPACITY
+
+
+
+
+  NAME OF THE BIDDER:
+
+                                FINANCIAL INFORMATION
+
+   1.      Financial Analysis: Details to be furnished duly supported by figures in Balance Sheet / Profit & Loss Account
+           for the last 3 (ending 31st March of preceding FY) years duly certified by the Chartered Accountant, as
+          submitted by the applicant to the Income Tax Department (Certified copies to be attached).
+
+
+
+
+
+                                                                31st March of
+
+
+
+
+
+                                  Rs.              Rs.            Rs                (In Rs    (In Lacs)
+                                   (In Lacs)         (In Lacs)         (In Lacs)
+                                          a              b                  c                (a +b + c) / 3
+(1)  Gross
+
+
+
+
+
+   2.      Provisional balance sheets for FY (ending 31st March of preceding FY), duly certified by Chartered Accountants
+             is also permitted in case the Audited Balance Sheet in not available.
+
+
+
+           Signature of Chartered
+          Accountant with Seal
+
+
+
+
+                   P a g e 12 | 50                           Contractor seal and signature
+
+                                 General Terms & Conditions
+1.    DEFINITIONS:
+
+
+(a)    “The Purchaser” means the BIRLA INSTITUTE OF TECHNOLOGY, Mesra, Ranchi.
+(b)    “The Bidder” means the individual or firm who participates in this tender and submits its bid.
+(c)    “The Supplier” means the individual or firm supplying the goods/providing services under the
+        contract.
+(d)    The Goods” mean all the materials which the supplier is required to  use under the contract for
+         installation and commissioning of fibre distribution network of FTTH in buildings/societies/
+       complexes.
+(e)    Advance Purchase Order (APO/LOI)” means letter indicating the intention of the purchaser to
+        place Purchase Order/ Letter of intent on the bidder.
+
+(f)    “The Work Order” means the order placed by the Purchaser on the Supplier, duly signed by the
+       Purchaser and includes all attachments and appendices thereto and all documents incorporated by
+        reference therein. The purchase order shall be deemed to be the contract, which is defined below.
+
+ (g)    “Contract” means the agreement between and the successful bidder called Contractor for the
+        execution of the works including supply of all documents to which reference may be made in order
+        to ascertain the rights and obligations of the parties and shall include the Instructions to bidders,
+       General Terms and Conditions of the Contract, Addenda, Supplementary Agreement(s) (if any) as
+        part of the Contract.
+
+ (h)    “The Contract Price” means the price payable to the supplier under the purchase order for the
+       complete fulfillment and proper performance of its contractual obligations to the satisfaction of.
+
+ (i)     “Contract Date” means the date on which the Contract comes into effect.
+
+
+ (j)     “Certificate of Acceptance” means the certificate issued by to the Contractor upon completion of
+        the acceptance tests.
+
+ (k)    Progress Report” means the reports prepared by the contractor containing details of the progress
+       and implementation of the project as required by the Institute/ its representative..
+
+ (l)     “Site” means the place(s) other than the Contractor’s premises, to which the Services are to be
+        delivered and installed.
+
+ (m)   “Variation Orders” means a written agreement entered between the parties varying the items
+       mentioned in the Schedule of Prices.
+
+ (n)   “Works” means the jobs undertaken by the Contractor in order to complete the tasks falling within
+        the scope of the Contract.
+
+
+
+
+
+                   P a g e 13 | 50                           Contractor seal and signature
+
+ (o)    Commissioning” means successful completion of acceptance testing procedures as
+      may be prescribed by .
+
+ (p)    Services means laying, installation and commissioning of fiber distribution network
+       fromcurb (where the fiber is available in the buildings/societies/complexes) up to the
+        subscriber premises i.e. up to ONT and provision of FTTH connections in the buildings/
+        societies/complexes as per the broad description of work in the buildings identified by
+        as per its requirement.
+
+ (q)   “GPON” means Gigabit Passive Optical Network.
+
+2. EVALUATION OF TECHNO-COMMERCIAL BIDS:
+
+2.1 The details of financial strength and experience of the bidders shall be examined to
+     determine whether the bidders meet the qualification in accordance with the criteria
+     specified under eligibility clauses.
+
+2.2 The bids that do not meet all the requirements may be rejected.
+
+2.3 A detailed evaluation of techno-commercial bids of all substantially responsive bids will
+    be carried-out and a list of technically and commercially acceptable bids will be made.
+
+
+3.  Deleted
+4. AWARD of Contract:
+4.1    The purchaser may consider placement of order for commercial services on those
+        bidders whose offers have been found technically, commercially and financially
+        acceptable and whose services have been type approved/ validated by the purchaser or
+           its authorized agency/agencies. The Purchaser reserves the right to counter offer
+         price(s) against price(s) quoted by any bidder.
+4.2    Note: The quantum of work mentioned in Tender Document is tentative and may
+       change depending upon actual requirement of, BIT, Mesra. No bidder shall have any
+       claim for award of any specific quantity, including quantity indicated in the bid
+       document.
+4.3    The allocation of work (depending on the ranking of bidder) by the Purchaser  will be
+         final and not challengeable. It is clarified that the allocation of work (including any
+        quantity/portion of work) and site/location shall be exclusively determined by the
+       Purchaser without reference to any request or preference of the Contractor in respect
+         thereof.
+
+       Purchaser reserve its right to distribute the quantity at any position in case of pooling
+       up or clustering at one position or cartel formation.
+4.4   Any attempt of cartelisation will be very seriously viewed and any such move, of which
+       Purchaser will be the Sole Judge, shall entail summary disqualification of the bidders
+        concerned, their EMD/ shall be forfeited and they shall be debarred from future
+        participation in tenders.
+4.5    The bid security may be forfeited: (i) If the bidder withdraws his bid during the period
+        of bid validity specified by the bidder in the bid form; or (ii) In case of successful bidder,
+           if the bidder a) Fails to sign the contract in accordance with the terms of the tender
+       document b) Fails to furnish required performance security in accordance with the terms
+                P a g e 14 | 50                            Contractor seal and signature
+
+         oftender document within the time frame specified by the Client. c) Fails or refuses to
+        honor his own quoted prices for the services or part thereof.
+ 4.6    Language : Bids and all accompanying documents shall be in English
+
+ 5.      Post tender negotiations at sole discretion of the Purchaser.
+
+ 6.   NOTIFICATION OF AWARD (ISSUE OF LOA):
+ 6.1  The issue of LOA shall constitute the intention of the Purchaser to enter into contract with
+         the bidder.
+
+ 6.2    The bidder shall within 14 days of issue of the LOA, give his acceptance along with
+        performance security in conformity with section XI of the bid document and as per the
+        format specified by the purchase.
+
+ 7.   SIGNING OF THE CONTRACT:
+ 7.1    The successful bidders will have to sign the Agreement.
+ 7.2    The CONTRACTOR will have to bear all relevant expenses in connection with signing
+         of the Agreement
+7.3     Contractor’s Firm or Concern will have to be registered under of Labour Legislation
+        Act, 1970, if when the contractor engages more than the specified number of workers/
+       Labourers in a day, as per the aforesaid section.
+
+     a)  All works shall at all times be open for supervision, inspection and measurement by the
+        Concerned In-Charge and the officers of Acceptance Testing Unit and no work done
+       by the CONTRACTOR shall be accepted without such supervision, inspection and
+        measurement.
+
+     b)  For recording the measurement of work done by the CONTRACTOR, the prescribed
+       Measurement Books (MB) of the will be used.
+
+     c)  BIT Mesra reserves the right to suspend any of the scheduled item / items of work
+         temporarily or permanently.
+
+     d) The decision of for quantum of work shall be final and not challengeable by contractor.
+
+     e)  The Contractor shall be obliged to execute any of the work assigned to them for which
+         the rates are approved by.
+
+ 8.   On acceptance of the tender, the name of the accredited representative(s) of the
+         Contractor, who
+      would be responsible for taking instructions from the Professor In- Charge ICTC shall
+ be
+
+      communicated. Their attested photograph along with specimen signatures, 5 (five)
+ copies duly
+
+        attested by the contractors will also be given to concerned In-Charge after the work is
+ allotted to
+       the contractor by.
+
+ 9.    Payment Terms:
+      Payment shall be made in Indian Rupees as follows:
+                 P a g e 15 | 50                            Contractor seal and signature
+
+a) 50% of the cost on delivery of material
+b) 40% of the cost of Services a f t e r handover of the project
+c) 10% after one year from Handover
+d)  While submitting the bills the contractor shall also submit: -
+      (i)   An undertaking  that “I  will pay GST (CGST/SGST/IGST/UTGST) to the
+          respectiveGST Department.”
+      (ii)   Proof   of   deposit    of   “EPF/ESI   of   previous   month(s)    for    the    laborer
+         employed”. The amount if not paid shall be decucted from the bill.
+      (iii)  Proof of deposit of GST (CGST/SGST/IGST/UTGST) of previous month(s) to
+          therespective GST Department.
+e)  All payments for works relating to laying of cables etc will be made as per the relevant
+    category as approved by BIT Mesra  . The measurement should be recorded in the
+   Measurement Book.
+f)  BIT Mesra will pay to the bidder for the work which the bidder was called upon by any
+    Authorized Officer on behalf of the and which was satisfactorily done by the bidder at
+    the rates as approved.
+g) The payment to bidder’s will be subject to deduction of tax deducted at source of bill
+     (s), the purchaser will deduct Income Tax (TDS) as applicable or as may be fixed by
+    the Government of India from time to time on the gross amount of each bill passed for
+   payment in accordance with the provision of of Income Tax Act, 1973 as amended from
+    time to time. In addition to this purchaser will also deduct all other applicable Taxes
+    implemented by Govt. of India at the  applicable rate from the amount of each bill
+    passed for payment.
+h)  Payment of GST shall be released on production of necessary supporting documents i.e.
+   GST invoice. If the supplier fails to furnish necessary supporting documents i.e. GST
+    invoice, the amount pertaining to such Duties/Taxes will not be paid. Tax amount will
+    be payable to the supplier only after supplier declares the details of the invoices in its
+   GSTR-1 and GSTR-3B and the same is reflected in GSTR-2A of on GSTN portal.
+
+i)   Entire payment of invoice shall be paid by only after the credit of the GST portion in
+     the invoice is selected in the GSTN portal i.e. the outward return in GSTR 1 is uploaded
+    by the supplier by 10th of the subsequent month or as per submission of date declared
+    by the Government and duly reflected in account on GSTN portal.
+
+j)   The payment is subject to submission of complete documents along with A/T report
+    and made over to end user provided they comply with the following conditions
+    (Documents):-
+
+                i)   The bills be submitted in Duplicate, all copies being signed by the  bidder.
+           The three copies must be marked ‘Original’ and Duplicate’ respectively.
+                 ii)   Details of the quantity and nature of each item of work done.
+                 iii)  The dates of commencement and completion of the work. Measurement Book
+             should be duly signed by the bidder at the time of measurement and he will
+               attach completion report duly signed by the Professor In-charge ICTC based
+            on the measurement book.
+            iv)  The number and date of the Work Order must be mentioned.
+
+
+             P a g e 16 | 50                            Contractor seal and signature
+
+     Note: Institute shall not be liable for payment of any interest on any bill
+     outstanding for payment.
+10.    DOCUMENT TO  BE SUBMITTED ALONGWITH  BID AND OTHER
+      CONDITIONS: All instructions and terms & conditions are to be followed while
+        submitting the bids and in case of failure to comply with any of the instructions by the
+        bidders the bids will be liable to be considered as invalid.
+
+11.   DELAYS IN THE SUPPLIER’S PERFORMANCE
+ 11.1 Delivery of the Goods and performance of the services shall be made by the Contractor
+       in accordance with the time schedule specified by the purchaser in its work order.  In
+       case the work is not completed in the stipulated period, as indicated in the Work Order,
+       purchaser reserves the right either to short close /cancel this Work order and/or recover
+       liquidated damage charges. The cancellation/ short closing of the order shall be at the
+        riskand responsibility of the supplier and purchaser reserves the right to complete the
+       balancework at the risk and cost of the defaulting vendor.
+
+ 11.2 Delay by the bidder in the performance of its delivery obligations shall render the bidder
+        liable to any or all of the following sanctions:
+
+            a)  Imposition of liquidated damages as mentioned below, and/or
+
+           b)  Termination of the contract for default.
+
+ 12.   Liquidated Damage (LD) and penalties:
+      The liquidated damage charges shall be as follows:
+            a)  Delay in Start: If the contractor fails to start the work within the specified
+               period as per W.O., without any valid reason, LD shall be levied @ Rs.500/-
+                 for each day of delay.
+           b)  Delay in Execution/Completion: If the contractor fails to execute the work
+               within the specified time schedule as per W.O., LD shall be levied @ Rs 1000/-
+                 for each day of delay.
+            c)   If the contractor fails to complete the work within the date of completion or
+               extended date of completion, he shall without prejudice to any other right or remedy
+                 available under the law to BIT MESRA on account of such breach, pay as
+               compensation (Liquidated Damages): half percent (½ %) of the contract/Revised
+               Contract amount whichever is less, per week of delay .The aggregate of such
+               compensation/ compensations shall not exceed 10% of the total contract/revised
+                contract value and adjusted against any sum payable to the contractor under this or
+              any other contract with BIT MESRA.
+           d)  If BIT MESRA is satisfied, that the works can be completed within a reasonable time
+                   after the specified time of completion, may allow further extension of time at its
+                 discretion with or without the levy of L.D. If the contractor fails to complete within
+                the further extended period, LD shall be imposed
+            e)  BIT MESRA may at its sole discretion, waive the payment of compensation on request
+                received from the contractor indicating valid and acceptable reasons if the entire
+             work is completed within the date as specified in the contract/work order or as validly
+               extended date without stipulating any compensation for delay.
+              f)  In case, the contractor does not achieve a particular milestone mentioned elsewhere
+                 in the tender document, or the re-scheduled milestone(s) the amount shown against
+                   that milestone shall be withheld, to be adjusted against the compensation levied at
+                the final grant of Extension of Time. With-holding of this amount or failure to
+               achieve a milestone, shall be automatic without any notice to the Contractor.
+             However, if the contractor catches up with the progress of work on the subsequent
+
+                P a g e 17 | 50                            Contractor seal and signature
+
+                      milestone(s), the withheld amount shall be released. In case the contractor fails to
+                make up for the delay in subsequent milestone(s), amount mentioned against each
+                     milestone missed subsequently also shall be withheld. However, no interest,
+                    whatsoever, shall be payable on such withheld amount.
+                g) LD shall be levied to a maximum of 10% of respective Work Order amount
+                    (payable to contractor) excluding GST and will be recorded on the bill.
+                h)  If the contractor  fails  to redress the trench properly  i.e. ramming  and
+                     consolidation of the trench and removing of surplus earth, road spoils within
+                 48 hours of the completion of the work, then a penalty at the rate of 20% of the
+                    excavation of trenching charge on pro-rata basis shall be recovered straightway
+                  from the bill.
+                      i)  Test pits/trench should be restored immediately after completion of work. The
+                     contractor will be wholly responsible for any damage to life & property of any
+                    person due to delay in restoration work. If the pits are not restored as per
+                      specifications of local bodies in time, penalty of Rs. 1000/- per day for first day
+                  and Rs. 500/- per day for each subsequent day shall be imposed.
+                    j)   Delay Register:
+                   For the purpose of imposing LD/penalty, record of delays/ penalty details shall
+                  be maintained in a register called “Delay Register”. All the entries should be
+                    signed by Professor In-Charge ICTC and the Contractor. In case the contractor
+                   does not sign, a registered notice is to be sent to him in thi regard and it will be
+                      treated as deemed to be signed by the bidder in the Delay Register.
+
+       13.  SUB-CONTRACTS:
+          The bidder/ the contractor cannot assign/ transfer and sub-contract  its interests/
+             obligations under the contract without the prior written permission of the purchaser.
+
+       14.   Arbitration:-
+      14.1 The parties shall endeavor to resolve any dispute or difference under the agreement
+             through mutual discussions and negotiations. However, if the efforts to resolve any of
+              the disputes through negotiation fails, then, such dispute or difference whatsoever
+               arising between the parties in respect of agreement shall be referred to the sole
+              Arbitrator appointed by Competent Authority of BIT Mesra.
+     14.2  The Arbitration and Conciliation Act, 1996 as amended from time to time, and the rules
+          made there under shall be applicable. The Arbitration proceedings shall be held  in
+            Ranchi only. Jurisdiction: The place of Jurisdiction shall be Ranchi
+
+     15.    ACTION IN CASE WORK NOT DONE AS PER SPECIFICATIONS.
+
+     15.1    Deleted
+
+     15.2    All works under or in course of execution or executed in pursuance of the contract, shall at all times be open
+            and accessible to the inspection and supervision of the Professor In-charge ICTC and his authorized
+              subordinates.
+15.3    If it shall appear to the Professor In-charge ICTC or his authorized subordinates, that any work has been
+       executed with unsound, imperfect, or unskillful workmanship, or with materials or articles provided by
+       him/her for the execution of the work which are unsound or of a quality inferior to that contracted or
+       otherwise not in accordance with the contract, the contractor shall, on demand in writing which shall be made
+        within twelve months of the completion of the work from the Professor In-charge ICTC specifying the work,
+        materials or articles complained of; notwithstanding that the same may have been passed, certified and paid for
+        forthwith rectify, or remove and reconstruct the work so specified in whole or in part, as the case may require or
+                   P a g e 18 | 50                            Contractor seal and signature
+
+as the case may be, remove the materials or articles so specified and provide other proper and suitable materials
+or articles at his own charge and cost. In the event of the failing to do so within a period specified by the
+Professor In-charge ICTC in his demand aforesaid, then the contractor shall be liable to pay compensation as
+per clause 12 of the contract (for non-completion of the work in time) for this default. In such case the
+Professor In-charge ICTC may not accept the item of work at the rates applicable under the contract but
+may accept such items at reduced rates as the Professor In-charge ICTC may consider reasonable during the
+preparation of on account bills or final bill if the item is so acceptable without detriment to the safety and
+utility of the item and the structure or he may reject the work outright without any payment and/or get it and
+other connected and incidental items rectified, or removed and re-executed at the risk and cost of the
+contractor. Decision of the Professor In-charge ICTC to be conveyed in writing in respect of the same will
+be final and binding on the contractor.
+
+16.   CANCELLATION/DETERMINATION OF CONTRACT IN FULL OR PART AS PER CLAUSE 11
+
+  16.1    Subject to other provisions contained in this clause the Professor In-charge ICTC may, without
+  prejudice to his any other rights or remedy against the contractor in respect of any delay, inferior
+  workmanship, any claims for damages and / or any other provisions of this contract or otherwise, and
+  whether the date of completion has or has not elapsed, by notice in writing absolutely determine the
+  contract in any of the following cases:
+
+    a)   If the contractor having been given by the Professor In-charge ICTC a notice in writing to
+         rectify, reconstruct or replace any defective work or that the work is being performed in an inefficient
+        or otherwise improper or un-workmanlike manner shall omit to comply with the requirement of
+       such notice for a period of seven days thereafter; or
+    b)  If the contractor has, without reasonable cause, suspended the progress of the work or has failed to
+       proceed with the work with due diligence so that in the opinion of the Professor In-charge ICTC
+       (which shall be final and binding) he will be unable to secure completion of the work by the date
+         for completion and continues to do so after a notice in writing of seven days from the Professor In-
+       charge ICTC
+            ; or
+    c)   If the contractor persistently neglects to carry out his obligations under the contract and / or
+       commits default in complying with any of the terms and conditions of the contract and does not
+       remedy it or take effective steps to remedy it within 7 days after a notice in writing is given to
+       him/her in that behalf by the Professor In-charge ICTC ; or
+    d)  If the contractor shall obtain a contract with BIT MESRA as a result of wrong tendering or other
+        non-bona-fide methods of competitive tendering; or
+    e)  Transfers, sublets , assigns full or a part of work without prior approval of department.
+
+  16.2   When the contractor has made himself/herself liable for action under any of the cases aforesaid, the
+  Professor In-charge ICTC may without prejudice to any other right or remedy which shall have accrued
+  or shall accrue hereafter to BIT, by a notice in writing to cancel the contract as whole or only such items of
+  work in default from the Contract, shall determine the amount, if any, is recoverable from the contractor
+   for completion of the part work/part incomplete work of any item(s) taken out of his hands and execute at
+  the risk and cost of the contractor, the liability of contractor on account of loss or damage suffered by BIT
+
+              P a g e 19 | 50                            Contractor seal and signature
+
+MESRA because of action under this clause shall not exceed 10% of the tendered value of the work. The
+Professor In-charge ICTC shall have powers:
+
+  a) To determine or rescind the contract as aforesaid (of which termination or rescission notice in
+      writing to the contractor under the hand of the Professor In-charge ICTC shall be conclusive
+      evidence). Upon such determination or rescission the full security deposit recoverable under the
+      contract and performance guarantee shall be liable to be forfeited and un-used materials,
+      construction plants, implements, temporary buildings, etc. shall be taken over and shall be absolutely
+       at the disposal of BIT. If any portion of the Security Deposit has not been paid or received it would be
+      called for and forfeited; and/ or
+  b) To employ labour paid by BIT MESRA and to supply materials to carry out the work or any part of the
+     work debiting the contractor with the cost of the labour and the price of the materials of the amount
+      of which cost and price certified by the Professor In-charge ICTC shall be final and conclusive
+      against the contractor and crediting him/her with the value of the work done in all respects in the same
+     manner and at the same rates as if it had been carried out by the contractor under the terms of his
+      contract. The certificate of the Professor In-charge ICTC as to the value of the work done shall be
+       final and conclusive against the contractor provided always that action under the sub-clause shall only
+     be taken after giving notice in writing to the contractor. If the expenses incurred by BIT MESRA are
+       less than the amount payable to the contractor at his agreement rates, the difference shall not be paid to
+      the contractor; and/ or
+  c) By a notice in writing to withdraw from the contractor any items or items of work as the Professor In-
+     charge ICTC may determine in his absolute discretion and get the same executed at the risk and cost of
+      the contractor.
+
+16.3   Any excess expenditure incurred or to be incurred by BIT MESRA in completing the works or part
+of the works or the excess loss or damages suffered or may be suffered by BIT MESRA as aforesaid after
+allowing such credit shall without prejudice to any other right or remedy available to BIT MESRA in law be
+recovered from any moneys due to the contractor on any account, and if such moneys are not sufficient the
+contractor shall be called upon in writing and shall be liable to pay the same within 30 days.
+
+16.4     If the contractor shall fail to pay the required sum within the aforesaid period of 30 days, the
+Professor In-charge ICTC shall have the right to sell any or all of the contractors unused materials,
+constructional plant, implements, temporary buildings, etc. and apply the proceeds of sale thereof towards
+the satisfaction of any sums due from the contractor under the contract and if thereafter there be any balance
+outstanding from the contractor, it shall be recovered in accordance with the provisions of the contract and
+law.
+
+16.5   Any sums in excess of the amounts due to BIT MESRA and unsold materials, constructional plant etc.
+shall be returned to the contractor, provided always that if cost or anticipated cost of completion by BIT
+MESRA of the works or part of the works is less than the amount which the contractor would have been paid
+had he completed the works or part of the works, such benefit shall not accrue to the contractor.
+16.6   In the event of anyone or more of the above courses being adopted by the Professor In-charge
+ICTC the contractor shall have no claim to compensation for any loss sustained by him/her by reasons of his
+having purchased or procured any materials or entered into any engagements or made any advances on account
+
+             P a g e 20 | 50                            Contractor seal and signature
+
+   or with a view to the execution of the work or the performance of the contract. And in case action is taken
+   under any of the provision aforesaid the contractor shall not be entitled to recover or be paid any sum for
+   any work thereof or actually performed under this contract unless and until the Professor In-charge ICTC has
+   certified in writing the performance of such work and the value payable in respect thereof and he shall only
+   be entitled to be paid the value so certified.
+
+  16.7    Provided further that if any of the recoveries to be made, while taking action as above, are in excess
+   of the security deposit forfeited, these shall be limited to the amount by which the excess cost incurred by
+   the BIT MESRA exceeds the security deposit so forfeited.
+
+
+
+17.   CONTRACTOR LIABLE TO PAY COMPENSATION EVEN IF ACTION NOT TAKEN UNDER CLAUSE 16
+
+In any case in which any of the powers conferred upon the Professor In-charge ICTC by relevant clause
+thereof, shall have become exercisable and the same are not exercised, the non-exercise thereof shall not
+constitute a waiver of any of the conditions hereof and such powers shall notwithstanding be exercisable in the
+event of any future case of default by the contractor and the liability of the contractor for compensation
+shall remain unaffected.
+
+18.    SUSPENSION OF WORKS
+
+18.1 The contractor shall, on receipt of the order in writing of the Professor In-charge ICTC , suspend the
+   progress of the works or any part thereof for such time and in such manner as the Professor In-charge
+  ICTC may consider necessary for any of the following reasons:
+
+    a)  On account of any default on part of the contractor, or
+   b)   For proper execution of the works or part thereof for reason other than the default of the
+         contractor, or
+    c)   For safety of the works or part thereof.
+
+The contractor shall, during such suspension, properly protect and secure the works to the extent necessary
+and carry out the instructions given in that behalf by the Professor In-charge ICTC .
+
+18.2    If the suspension is ordered for reasons (ii) and (iii) in sub-para (a) above:
+
+   a)   The contractor shall be entitled to an extension of the time equal to the period of every such
+        suspension plus 25% for completion period. No adjustment in contract price will be allowed for
+        reasons of such suspension.
+   b)     If such suspension exceeds 45 (forty-five) days, the contractor will be compensated on mutually
+        agreed terms.
+  c)     In the event of the Contractor treating the suspension as an abandonment of the Contract by BIT, he shall
+       have no claim to payment of any compensation on account of any profit or advantage which he may
+       have derived from the execution of the work in full.
+
+19.   FORECLOSURE OF CONTRACT
+
+
+              P a g e 21 | 50                            Contractor seal and signature
+
+  BIT MESRA at any point of time can abandon/reduce scope of work by issuing a notice to the contractor and
+   contractor shall act accordingly. The contractor has no claim for payment of compensation other than
+   those mentioned below:-
+
+     a)  The expenditure incurred by the contractor on preliminary works.
+    b)  Full amount for works executed up to the date of abandonment.
+     c)  Materials brought out to be delivered at site, which the contractor is legally liable to pay, for the
+       purpose of works carried out or were to be carried out but for the foreclosure, including the cost of
+       purchase and transportation and cost of delivery of such materials.
+    d)  Transportation of tools and plants of the contractor from site to contractor's place or to any
+        other destination, whichever is less.
+
+20.    TERMINATION OF CONTRACT
+
+The contract shall also stand terminated under any of the following circumstances:
+
+     a)   If the contractor being an individual in case of proprietary concern or in the case of a partnership firm,
+       any of the partners declared insolvent as per provisions of Insolvency Act.
+    b)  In case of contractor being a company, its affairs are under Liquidation either by aresolution
+       passed by the contractor’s company or by an order of court.
+     c)  On the death of the contractor.
+    d)   If the contractor shall suffer an execution being levied on his / their goods, estates and allowed it to be
+       continued for a period of 21 days.
+
+21.    TIME ESSENCE OF CONTRACT & EXTENSION FOR DELAY
+
+  21.1   The time allowed for execution of the Works as specified in the Work Award or the extended time
+  in accordance with these conditions shall be the essence of the contract. The execution of the works shall
+  commence from such time period as mentioned in Work Award or the date on which the Professor In-
+  charge ICTC issues written orders to commence the work.
+
+  21.2   Within 10 (Ten) days of Letter of Award, the Contractor shall submit a Time and Progress Chart
+  (CPM/ PERT/ Quantified Bar Chart) and get it approved by the Professor In-charge ICTC . The Chart
+   shall be prepared in direct relation to the time stated in the contract documents for completion of items of
+  the works. It shall indicate the forecast (mile-stones) of the dates of commencement and completion of
+  various items, trades, sections of the work and may be amended as necessary by agreement between the
+  Professor In-charge ICTC and the Contractor within the limitations of time stipulated in the Contract
+  documents. This approved Network/ PERT Chart shall form a part of the agreement. Achievement of
+  milestones as well as total completion has to be within the time period allowed.
+
+  21.3    Contractor shall mobilize and employ sufficient resources for completion of all the works as
+  indicated in the agreed BAR CHART/PERT Network. No additional payment will be made to the contractor for
+  any multiple shift work or other incentive methods contemplated by him/her in his work schedule even
+  though the time schedule is approved by the Professor In-charge ICTC .
+
+21.4    If the work(s) be delayed by:
+
+              P a g e 22 | 50                            Contractor seal and signature
+
+    a)  force-majeure; or
+    b)  Abnormally bad weather; or
+     c)  Serious loss or damage by fire; or
+    d)  Civil commotion, local commotion of workmen, strike or lockout, affecting any or thetrades
+       employed on the work; or
+     e)  Delay on the part of other contractors or tradesmen engaged by Professor In-charge ICTC in
+        executing work not forming part of the Contract; or
+     f)   Non-availability of stores, which are responsibility of BIT; or
+    g)  Non-availability or break down of tools and plant to be supplied or supplied by BIT; or
+    h) Any other cause which, in the absolute discretion of BIT, is beyond the Contractor’s control,
+
+then upon the happening of any such event causing delay, the Contractor shall immediately give notice thereof
+in writing to the Professor In-charge ICTC within 07 days but shall nevertheless use constantly his best
+endeavour to prevent or make good the delay and shall do all that may be reasonably required to the
+satisfaction of the Professor In-charge ICTC to proceed with the works.
+
+
+21.5  Request for extension of time, to be eligible for consideration, shall be made by the Contractor in
+writing  within fourteen days of the happening of the event causing delay. The Contractor may also, if
+practicable, indicate in such a request the period for which extension is desired. In any such case BIT
+MESRA may give a fair and reasonable extension of time for completion of work. Such extension shall be
+communicated to the Contractor by the Professor In-charge ICTC in writing within a reasonable time
+from the receipt of such request. Non application by the contractor for extension of time shall not be a bar
+for giving a fair and reasonable extension by the Professor In-charge ICTC and the extension of time so
+given by the Professor In-charge ICTC shall be binding on the contractor.
+
+22.   TAXES AND DUTIES
+
+  22.1   Except as otherwise specifically provided in the contract, the contractor shall be liable and
+  responsible for the payment, of all taxes, such as Goods & Services Tax, excise duty, custom duty, sales tax,
+  Value Added Tax including the purchase tax, consignment tax, work contract tax, service tax, entry tax or
+  any other similar tax in the state concerned, turnover tax, toll tax, octroi charges, royalty, labour cess, levy
+  and other tax(es) or duty(ies) which may be specified by local/state/ central government from time to time
+  on all material articles / contract job including labour which may be used for this work. The rates quoted by
+  him/her in the tender in bill of quantities shall be inclusive of all taxes, duties, levies etc.
+
+  22.2   The imposition of any new and/or increase in the aforesaid taxes, duties levies (including fresh
+  imposition of any other Tax) is imposed by Statute, after the last stipulated date for the receipt of tender
+  including extensions  if any and the contractor thereupon necessarily and properly pays such
+   taxes/levies/cess, the contractor shall be reimbursed the amount so paid, provided such payments, if any, is not,
+  in the opinion of Professor In-charge ICTC attributable to delay in execution of work within the control
+  of contractor. The contractor shall, within a period of 30 days of the imposition of any such further tax or
+  levy or cess, give a written notice thereof to the Professor In-charge ICTC that the same is
+   given pursuant to this condition, together with all necessary information relating thereto. In the event of
+
+              P a g e 23 | 50                            Contractor seal and signature
+
+  non payment/default in payment of any of the above taxes, BIT MESRA reserves the right to with-hold the
+  dues/payments of contractor and make payment to local/state/Central Government authorities or to
+   labourers as may be applicable.
+
+  22.3   The rate quoted by the contractor shall be deemed to be inclusive of all taxes. Tax deductions at
+  source shall be made as per laws prevalent in the State as applicable for the work.
+
+  22.4   The stamp duty and registration charges, if any, on the contract agreement levied by the
+  Government or any other statutory body, shall be paid by the contractor as applicable in the state of work.
+
+  22.5    In the event of decrease / relaxation and / or waiver of any of the existing / prevailing tax(es), duties,
+   levies, cess by Central / state Govt. Or any other statutory body(ies), after the last stipulated date for the
+  receipt of tender including extension (if any), and the contractor thereupon has been paid or has raised
+  claims of such tax(es), duties, levies, cess; such sums shall be recovered / deducted (from claims raised but
+  which has not been paid) effective from the date as reckoned in the relevant statutory order / law /
+  ordinance etc. The contractor, shall, within a period of 30 days of any such waiver/relaxation/decrease in
+   tax(es), duties, levies, cess, give a written notice thereof to Professor In-charge ICTC stating the statutory
+  change with documentary proof thereto. Provided always that Professor In-charge ICTC shall have full
+  powers to effect recovery/deduction on account of any such statutory change even if contractor has not
+  intimated in the event when any such statutory action comes to his notice.
+
+23.   INCOME TAX DEDUCTION (TDS)
+
+Income tax deductions shall be made from all payments made to the contractor including advances against
+work done, as per the rules and regulations in force, in accordance with the Income Tax act prevailing from
+time to time.
+
+     a) MOBILIZATION OF MEN, MATERIALS AND MACHINERY AND SAFETY
+
+             i)  The contractor shall provide at his own cost all men, materials, machinery, tools & plants as required
+             for completion of work. In addition to this, appliances, implements, other plants, ladders, cordage,
+              tackle, scaffolding and temporary works required for the proper execution of the work, whether
+              original, altered or substituted.
+
+              ii)  All expenses towards mobilization at site and de-mobilization including bringing in equipment,
+          work force, materials, dismantling the equipment, clearing the site etc. shall be deemed to be
+           included in prices quoted and no separate payment on account of such expenses shall be
+             entertained.
+
+               iii)  It shall be entirely the Contractor’s responsibility to provide, operate and maintain all
+           necessary construction equipment, scaffoldings and safety, gadget, lifting tackles, tools and
+            appliances to perform the work in a workman like and efficient manner and complete all jobs
+            as per the specifications and within the schedule time of completion of work. Further,
+            contractor shall also be responsible for obtaining temporary electric and water connection
+             for all purposes. The contractor shall also make standby arrangement for water & electricity
+             to ensure un-interrupted supply.
+
+              P a g e 24 | 50                            Contractor seal and signature
+
+             b) SAFETY: Precaution should be exercised at all times by the contractor for the protection of
+          persons
+            and equipment. The safety required and recommended by all applicable laws, codes, statutes and
+                regulations shall be observed by the contractor. In case of accidents, the contractor shall be bound for
+             compliance with all the requirements imposed by the Workmen Compensation Act or any other
+             similar
+             law in force & the contractor shall indemnify BIT MESRA against any claim on this account.
+
+
+24.   MEASUREMENTS OF WORKS
+
+    24.1    Professor In-charge ICTC shall, except as otherwise provided, ascertain and determine by
+     measurement, the value of work done in accordance with the contract.
+
+    24.2    All measurements and levels shall be taken jointly by the Professor In-charge ICTC or his
+     authorized representative and by the contractor or his authorized representative from time to time
+     during the progress of the work and such measurements shall be signed and dated by the Professor In-
+     charge ICTC and the contractor or their representatives in token of their acceptance. If the contractor
+     objects to any of the measurements recorded, a note shall be made to that effect with reason and signed by
+     both theparties.
+
+    24.3    All measurements of all items having financial value shall be entered by the contractor and compiled
+      in the shape of the Computerized Measurement Book as per the format of BIT MESRA so that a complete
+     record is obtained of all the items of works performed under the contract. All such measurements and
+      levels recorded by the contractor or his authorized representative from time to time, during the progress of
+     the work, shall be got checked by the contractor from the Professor In-charge ICTC or his authorized
+     representative as per interval or program fixed in consultation with Professor In-charge ICTC or his
+     authorized representative.
+
+  Whenever bill is due for payment, the contractor would initially submit draft computerized measurement sheets
+  and these measurements would be got checked/test checked from the Professor In-charge ICTC and/or his
+   authorized representative. The contractor will, thereafter, incorporate such changes as may be done during
+   these checks/test checks in his draft computerized measurements, and submit to CLIENT a computerized
+  measurement book, duly bound, and with its pages machine numbered. The Professor In-charge ICTC and/or
+   his authorized representative would thereafter check this MB, and record the necessary certificates for
+   their checks/test checks.
+
+  The final, fair, computerized measurement book given by the contractor, duly bound, with its pages
+  numbered, should be 100% correct, and no cutting or over-writing in the measurements would thereafter be
+   allowed. If at all any error is noticed, the contractor shall have to submit a fresh computerized MB with its pages
+  duly numbered and bound, after getting the earlier MB cancelled by the
+
+  CLIENT. The contractor shall submit two spare copies of such computerized MB’s for the purpose of
+   reference and record by the various officers of the CLIENT.
+
+  The contractor shall also submit to the department separately his computerized Abstract of Cost and the bill
+   based on these measurements, duly bound, and its pages numbered along with two spare copies of the “bill.
+                P a g e 25 | 50                            Contractor seal and signature
+
+  24.4     It is also a term of this contract that checking and/or test checking the measurements of any item of
+  work in the measurement book and/or its payment in the interim, on account of final bill shall not be
+  considered as conclusive evidence as to the sufficiency of any work or material to which it relates nor shall
+    it relieve the contractor from liabilities from any over measurement or defects noticed till completion
+  of the defects liability period.
+
+25.   COMPLETION CERTIFICATE
+
+  25.1   Within ten days of the completion of the work, the contractor shall give notice of such completion
+  to the Professor In-charge ICTC and within thirty days of the receipt of such notice, the Professor In-
+  charge ICTC shall inspect the work and if there is no defect in the work, shall furnish the contractor
+  with a final certificate of completion, otherwise a provisional certificate of physical completion indicating
+   defects (a) to be rectified by the contractor and/or (b) for which payment will be made at reduced rates, shall
+  be issued.
+  25.2   But no final certificate of completion shall be issued, nor shall the work be considered to be
+  complete until the contractor shall have removed from the premises on which the work shall be executed all
+   scaffolding, surplus materials, rubbish and all huts and sanitary arrangements required for his/their work
+  people on the site in connection with the execution of the works as shall have been erected or constructed
+  by the contractor(s) and cleaned off the dirt from all wood work, doors, windows, walls, floor or other parts
+  of the building, in, upon, or about which the work is to be executed or of which he may have had
+  possession for the purpose of the execution; thereof, and not until the work shall have been measured by
+  the Professor In-charge ICTC .
+
+  25.3     If the contractor shall fail to comply with the requirements of this Clause as to removal of
+  scaffolding, surplus materials and rubbish and all huts and sanitary arrangements as aforesaid and
+  cleaning off dirt on or before the date fixed for the completion of work, the Professor In-charge ICTC
+  may at the expense of the contractor remove such scaffolding, surplus materials and rubbish etc., and dispose
+  of the same as he thinks fit and clean off such dirt as aforesaid, and the contractor shall have no claim in respect
+  of scaffolding or surplus materials as aforesaid except for any sum actually realized by the sale thereof less
+  actual cost incurred on removal of materials / debris / malba etc.
+
+25.4 The contractor shall submit completion plan as required vide General Specifications for Electrical works
+as applicable within thirty days of the completion of the work. In case, the contractor fails to submit the
+completion plan as aforesaid, he shall be liable to pay a sum equivalent to 2.5% of the value of the work subject
+to a ceiling of Rs.5,00,000 (Rs. Five Lakhs only) as may be fixed by the Professor In-charge ICTC concerned
+and in tis respect the decision of the Professor In-charge ICTC shall be final and binding on the
+contractor.
+
+  25.5    Four copies of ‘as built’ drawings shall be supplied to BIT MESRA by the contractor within 30 days
+  of the completion. All costs incurred in this respect shall be borne by the contractor.
+
+26.    DEFECTS LIABILITY PERIOD
+
+The contractor shall be responsible for the rectification of defects in the works for a period twelve months
+from the date of taking over of the works by BIT MESRA whichever is later. Any defects discovered
+
+              P a g e 26 | 50                            Contractor seal and signature
+
+  and brought to the notice of the contractor forthwith shall be attended to and rectified by him/her at his own
+   cost and expense. In case the contractor fails to carry out these rectifications, the same may without prejudice
+   to any other right or remedy available, be got rectified by BIT MESRA at the cost and expense of the
+   contractor.
+
+   27.   FORCE MAJEURE
+
+  Any delay in or failure to perform of either party, shall not constitute default so as to give rise to any claim for
+  damages, to the extent such delay or failure to perform is caused by an act of God, or by fire, explosion,
+   flood or other natural catastrophe, governmental legislation, orders or regulation etc. The time for performance
+   of the obligation by the parties shall be deemed to be extended for a period equal to the duration of the force
+  majeure event. Both parties shall make their best efforts to minimize the delay caused by the force majeure
+   event. In the event of foreclosure, the contractor shall not be entitled to any compensation whatsoever. If prior
+   to such foreclosure the contractor has brought any materials to the site, the Professor In-charge ICTC shall
+   always have the option of taking over of all such materials at their purchase price or at the local current rates,
+  whichever is lower.
+28.   NO COMPENSATION CLAUSE
+
+  The contractor shall have no claim whatsoever for compensation or idle charges against BIT MESRA on any
+  ground or for any reason, whatsoever.
+29.   WORK IN MONSOON AND RAIN, SUNDAYS, HOLIDAYS AND DURING NIGHT
+
+29.1 The execution of the work may entail working in the monsoon also. The contractor must maintain labour
+     force as may be required for the job and plan and execute the construction and erection according to the
+     prescribed schedule. No special/ extra rate will be considered for such work in monsoon. The
+     contractors’ rate shall be considered inclusive of cost of dewatering due to rains required if any and no extra
+     rate shall be payable on this account. The stipulated period for completion of project includes the monsoon
+     period, holidays & festivals.
+
+29.2 For carrying out work on Sunday and Holidays or during night, the contractor will approach the
+     Professor In-charge ICTC or his representative at least two days in advance and obtain his permission. The
+     Professor In-charge ICTC at his discretion can refuse such permission. The contractor shall have no claim
+    on this account whatsoever. If work demand, the contractor shall make arrangements to carry out the work
+    on Sundays, Holidays and in two, three shifts with the approval of Professor In-charge ICTC at no extra
+     cost to BIT.
+
+30.   WATER AND ELECTRICITY
+
+  The contractor shall make his own arrangement for Water & Electrical power for construction and other
+   purposes at his own cost and pay requisite electricity and water charges. The contractor shall also make standby
+  arrangement for water & electricity to ensure un-interrupted supply.
+
+31.   WATCH, WARD AND LIGHTING OF WORK PLACE
+
+  The contractor shall at his own cost take all precautions to ensure safety of life and property by providing
+   necessary barriers, OBSTRUCTIONS, lights, watchmen etc. during the progress of work as directed by
+
+                P a g e 27 | 50                            Contractor seal and signature
+
+   Professor In-charge ICTC.
+
+32.   SCHEDULE OF QUANTITIES / BILL OF QUANTITIES
+
+  The quantities shown against the various items of work are only approximate quantities which may vary as per
+   the actual requirement at site. No item which is not covered in the bill of quantities shall be executed by
+   the Contractor without the approval of the CLIENT. In case any Extra/Substituted item is carried out
+   without specific-approval, the same will not be paid.
+
+33.     Deleted
+
+
+34.   LABOUR LAWS TO BE COMPLIED BY THECONTRACTOR
+
+34.1  Labour License: The contractor shall obtain a valid license under the contract labour(Regulation
+ & Abolition) Act 1970 and the contract labour Act (Regulation & Abolition) Central Rules 1971 and
+  amended from time to time, and continue to have a valid license until the completion of the work
+   including defect liability period. The contractor shall also adhere by the provision of the child labour
+   (Prohibition and Regulation) Act. 1986 and as amended from time to time.
+34.2 BOCW: The contractor shall also comply with the provisions of the building and other Construction
+    Workers (Regulation of Employment & Conditions of Service) Act, 1996 and the building and other
+     Construction Workers Welfare Cess Act, 1996.
+
+34.3 Any failure to fulfill above requirement shall attract the penal provisions of this contract arising out the
+     resultant for non execution of the work before the commencement of work. No labour below the age of 18
+     years shall be employed on the work.
+
+34.4 The contractor shall comply with the provisions of the Payment of Wages Act, 1936, Minimum Wages
+     Act, 1948, Employees Liability Act, 1938, Workmen’s Compensation Act, 1923, Industrial Disputes Act,
+     1947, Maternity Benefits Act, 1961, and the Contractor’s Labour (Regulation and Abolition) Act 1970, or the
+     modifications thereof or any other laws relating thereto and the rules made there under from time to time.
+    The contractor shall comply with all the provisions of the minimum wages Act, 1948, contract labour Act
+     (Regulation & Abolition) 1970, and rules framed there under and other labour laws/local laws affecting
+     contract labour that may be brought into force from time to time.
+
+34.5 The contractor shall be fully responsible for observance of all labour laws applicable including local laws and
+     other laws applicable in this matter and shall indemnify and keep indemnified BIT MESRA against effect or non
+     observance of any such laws. The contractor shall be liable to make payment to all its employees, workers
+     and sub-contractors and make compliance with labour laws. If BIT MESRA or the client/ owner is held liable as
+     “Principal Employer” to pay contributions etc. under legislation of Government or Court decision in respect
+     of the employees of the contractor, then the contractor would reimburse the amount of such payments,
+     contribution etc. to BIT MESRA and/ or same shall be deducted from the payments, security deposit etc.
+     of the contractor.
+
+34.6 EPF: The Contractor shall submit proof of having valid EPF registration certificate. He shall within 7 days of
+     the close of every month, submit to BIT MESRA a statement showing the recoveries of contributions
+
+                P a g e 28 | 50                            Contractor seal and signature
+
+     in respect of each employee employed by or through him/her and shall furnish to BIT MESRA such
+     information as the BIT MESRA is required to furnish under the provisions of para 36 B of the EPF scheme 1952
+      to the EPF authorities and other information required by EPFO authorities from time to time. He shall also
+     submit a copy of challan every month in token of proof of having deposited the subscription and
+     contribution of workers engaged on the project.
+     a)  In case, the contractor is not complying the above provision BIT MESRA shall withhold payment to the
+           extent of 4.70% (Four point Seven Zero percent) of the value of the bill and shall release only after
+          the submission of above mentioned details. If it is incumbent upon BIT MESRA to deposit withhold
+         amount with EPF authorities, the withhold amount shall be deposited by BIT MESRA with EPF
+            authorities. In such a case BIT MESRA shall not refund this withheld amount to the contractor even
+           after the production of EPF registration certificate.
+ 35.     LABOUR RECORDS
+  The contractor shall submit by the 4th & 19th of every month to the Professor In-charge ICTC of BIT MESRA
+  a true statement, showing in respect of the second half of the preceding month and the first half of the current
+  month, respectively, of the following data:
+
+       a)  The number of the labour employed by him/her (category-wise).
+       b)  Their working hours.
+       c)  The wages paid to them.
+       d)  The accidents that occurred during the said fortnight showing the circumstances under which they
+         happened and the extent of damage and injury caused.
+       e)  The number of female workers who have been allowed Maternity Benefits and the amount paid to
+          them.
+          f)  Any other information required by Professor In-charge ICTC
+
+36.     Failing which the contractor shall be liable to pay to BIT, a sum not exceeding Rs.200/- for each
+         default or materially incorrect statement. The decision of the BIT MESRA shall be final in
+        deducting from any bill due to the contractor; the amount levied as fine and is binding on the
+        contractor
+
+37.   LABOUR CESS
+
+37.1 BIT MESRA shall make a recovery @ 1% on account of labour cess from bill of the contractor and labour cess
+     so recovered/deducted shall be deposited with the Labour Board of the concerned state. In case the Labour
+    Board is not established in the state, recovery made by BIT MESRA on account of labour cess shall be
+     retained under suspense account and will be deposited with the Labour Board at later date as & when the
+    Labour Board is constituted in the state.
+
+37.2 The contractor shall also be responsible for maintaining register of beneficiaries i.e. the workers in such
+    form as may be prescribed by the competent authority & the same shall be kept open at all reasonable
+     times for inspection of relevant authority and officials of client / BIT MESRA.
+
+37.3 The contractor shall be further responsible for maintaining such register & records; giving such
+      particulars of Building workers employed by him/her, the work performed by them, the number of hours of
+    work which shall constitute a normal working day, the wages paid to them, the receipts given by them and,
+    such other particulars in such form as may be prescribed by the authority or BIT MESRA.
+                P a g e 29 | 50                            Contractor seal and signature
+
+37.4 In the event of contractor failing to comply with the above clause(s) in part or in full, BIT MESRA,
+     without prejudice to any other rights or remedy available under law or any other clause(s) of contract,
+     shall be at absolute liberty to forfeit any sum or sums that are payable or could become payable on
+     account of execution of contract work and decision of Professor In-charge ICTC shall be final &
+     binding in this regard on the contractor.
+
+38.    INSOLVENCY
+
+  The competent authority of BIT MESRA may at any time by notice in writing summarily terminate the
+   contract without compensation to the contractor in any of the following events, that is to say:-
+   If the contractor being a company shall pass a resolution or the court shall make an order for the
+   liquidation of the affairs or a receiver or Manager on behalf of the debenture holder shall be appointed or
+   circumstances shall have arisen which entitled the court or debenture holders to appoint a receiver or
+  Manager.
+
+    If the contractor commits any breach of this contract not herein specifically provided for: Provided always that
+  such determination shall not prejudice any right of action or remedy which shall have accrued or shall
+  accrue thereafter to the Client and provided also that the contractor shall be liable to pay the Client for any extra
+   expenditure, he is thereby put to but shall not be entitled to any gain.
+
+39.   No payment shall be made to the contractor for any damage caused by rain, snowfall, floods or any other
+        natural cause whatsoever during the execution of work. The damage to work will be made good by the
+        contractor at his own cost, and no claim on this account shall be entertained.
+
+40.    The contractor shall give a performance test of the entire installation (s) as per standard
+        specifications and/or as directed by the Professor In-charge ICTC and will also submit Test
+         Certificates as are required by Municipal / Electrical authority or any other authority. Nothing extra
+         shall be payable for the same other than the fees paid to such authorities, which shall be reimbursed on
+        production of receipts.
+
+41.     All the activities related to project shall be properly correlated before executing any work.
+      However in case of any discrepancy, it will be the responsibility of contractor to sort out the matter in
+        consultation with the Engg. in charge of the work. The decision of the Professor In-charge ICTC in such
+        cases will be final.
+
+42.    The contractor shall give a performance test of the entire installation (s) as per standard
+        specifications and/or as directed by the Professor In-charge ICTC and will also submit Test
+         Certificates as are required by Municipal / Electrical authority or any other authority. Nothing extra
+         shall be payable for the same other than the fees paid to such authorities, which shall be reimbursed on
+        production ofreceipts.
+
+43.     All the activities related to project shall be properly correlated before executing any work.
+      However in case of any discrepancy, it will be the responsibility of contractor to sort out the matter in
+        consultation with the Professor in charge ICTC of the work. The decision of the Professor In-charge ICTC in
+        such cases will be final.
+44.   RIGHT OF ACCEPTANCE: BIT MESRA reserves all rights to reject any bid including of those
+        bidders who fail to comply with the instructions without assigning any reason whatsoever and does
+        not bind itself to accept the lowest or any specific bids. The decision of the Competent Authority of
+      BIT MESRA in this regard shall be final and binding. Any failure on the part of the bidder to observe
+        the prescribed procedure and any attempt to canvass for the work shall render the bidder ‘s bids
+         liable for rejection. The competent authority of BIT MESRA reserves the right to award any or part
+
+                P a g e 30 | 50                            Contractor seal and signature
+
+        or full contract to any successful agency (ies) at its discretion and this will be binding on the bidders.
+        In case of failure to comply with the provisions of the terms and conditions mentioned, by the
+       agency that has been awarded the contract, the competent authority of the BIT MESRA reserves the
+         right to award the contract to the next higher bidder or any other outside agency and the difference
+        of price shall be recovered from the defaulter agency who has been awarded the initial contract and
+         this will be binding on the bidders. BIT MESRA may terminate the Contract if it is found that the
+        Contractor  is black listed on previous occasions by any of the Government Departments  /
+         Institutions / Local Bodies / Municipalities / Public Sector Undertaking etc.
+
+45.    NOTIFICATION   OF   AWARD   BY   ISSUANCE   OF    ‘LETTER   OF
+     ACCEPTANCE’/WORKORDER
+
+         After determining the successful evaluated bidder, Client shall issue a Work Order/ Letter of
+       Acceptance (LoA) in duplicate, who will return one copy to Client duly acknowledged, accepted and
+        signed by the authorized signatory, within Three (3) days of receipt of the same by him/her. The
+        issuance of the Letter of Acceptance to the bidder shall constitute an integral part and it will be a
+        binding to the contract. The time taken between the date of issue of LoA and Notice to Proceed shall
+        not prevent the contractor to mobilize the man power and other resources.
+
+46.    ESCALATION
+
+      No claim on account of any escalation on whatsoever ground shall be entertained at any stage of works.
+        All rates as per Bill of Quantities (BOQ) quoted by contractor shall be firm and fixed for entire contract
+        period as well as extended period for completion of the works. No escalation shall be applicable on this
+         contract.
+
+
+
+
+
+                P a g e 31 | 50                            Contractor seal and signature
+
+                           BIRLA INSTITUTE OF TECHNOLOGY MESRA,
+                              RANCHI
+Letter No.                                                           Date:
+
+To,
+
+M/s
+Add:
+Ph:
+Email:
+Kind Attn.:
+
+Subject : Letter of Acceptance Cum Notice to Proceed with ………………………………………………………………………
+………………………………………………………………………….. OF BIT MESRA. References :
+
+     1. Your Techno commercial Bid submission dated                  bearing reference to BIT MESRA
+       Tender No.                    dated                        .
+    2.
+
+Dear Sir,
+
+With reference to your offer, for the above mentioned subject and referred set of correspondences, we are glad to
+issue this letter of acceptance and notice for commencement of works for the price to be undertaken, as per
+following clauses:
+
+    1.  Contract Documents : Unless and until a formed contract ( as agreed by BIT MESRA, Ranchi, and the
+        contractor) is prepared and executed , the tender document No. -------------------------------- will
+        constitute a binding contractor between the parties
+                   a)  The Bid submitted by the bidder including all its attachments and the bill of
+                      quantities ;
+                  b)  Technical specifications and Drawings , including any Amendment / Errata thereto:
+                    c) Agreed Quality Assurance and safety plan;
+                  d)  Letter of Acceptance (LOA) along with its Annexure.
+
+      2. Scope of Work: The scope of work shall be ……………………………………………………………………………………
+    ……………………………………… OF BIT MESRA, which shall include all labor, material, tools, equipment and
+         transport which may be required in transportation, entire execution and completion of the Project.
+
+
+
+
+
+               P a g e 32 | 50                            Contractor seal and signature
+
+    3.  Contract Price: The estimate cost of the works for the project is INR Rs.                         /- (Rupees
+                                                                                ) including all the taxes.
+
+    4.  Time Schedule: The date for the commencement of work shall be                  and  the works
+       were to be completed within              from the date of commencement.
+
+    5.  Terms of Payment: Only one bill shall be prepared every             month which shall be based on the
+         joint measurement by the contractor or his representative and the representative of BIT MESRA,
+       Ranchi.
+    6.  Bank Guarantee: The contract performances security / guarantee shall be 10% of the contract value and
+       due contracts, after approval of draft guarantee bond by the owner / client shall arrange to submit the
+       bank guarantee within 15 days of acceptance of LOA.
+
+    7.  Remedying Defects: The contractor shall make good all damages to the works or any thereof, if the
+       damages are attributable to the contracts. This will be applicable from the date of commencement to
+         the end of Defect Liability period. The defect rectification will be at the cost of the contractor.
+
+    8.  Work Progress: Upon acceptance of this LOA, the Professor In-charge ICTC/clients shall together
+       with contractor, agree upon a work schedule for the execution of the project and the progress of the
+        contract will be based on the terms of agreed schedule.
+
+        All the terms and conditions shall be as per bidding document and subsequent amendments/
+         clarifications issued by the client.
+
+          If any of the provisions contained in this LOA are in conflict with the provisions of Bidding
+        documents, then the provisions of this LOA will supersede and prevail. Similarly on signing of the contract,
+        the provisions of the contract shall supersede and prevail the provisions of this LOA.
+
+
+        Please return two originals (duly signed and stamped) by an authorized signatory as a token of
+       acknowledgment and acceptance of this LOA.
+
+For M/s                                                 .         For Birla Institute of Technology, Mesra, Ranchi.
+
+
+
+NAME :
+DESIGNATION:                                        (Authorised Signatory)
+
+
+
+
+
+               P a g e 33 | 50                            Contractor seal and signature
+
+Guarantee No :
+                                          Amount of Guarantee :
+                                                Guarantee cover from :
+                                                        Last date for Lodgement of Claim :
+
+
+
+To,
+The Registrar
+Birla Institute of Technology
+Mesra, Ranchi
+
+This Bank Guarantee ( herein after the “ Guarantee “ is made at _________________ on the
+_________________________________
+
+WHEREAS
+1.M/S. ___________________________________ , a company incorporated under the Companies Act,1956
+having its registered Office at ___________________________________________________
+( herein after referred to as the “ Contractor “ , which expression shall, unless repugnant to the context or
+meaning thereof , include its successors and permitted assigns has entered into an contractor Service
+Agreement dated _______________________ ( herein after such agreement , as amended and
+supplemented , referred to as the “ Agreement “ with Birla Institute of Technology , Mesra, Ranchi( herein
+after referred to as “ BIT “ ,which expression shall, unless repugnant to the context or meaning thereof ,
+include its successors and assigns for undertaking the project management in coordination with BIT, work
+order No. __________________________________________________________
+Rs. ______________________________
+
+2.Aper the terms and conditions of the Agreement , the contractor is obliged to furnish to BIT, Mesra an
+irrevocable , unconditional and automatic revolving Bank Guarantee from a Scheduled commercial Bank in
+India , of a value and validity as set for thereunder .
+
+3.Bank Name & Address branch having registered Office at ____________________________________
+And a branch office at _________________________________________________________ ( herein after
+referred to as the “ Bank” which expression shall unless repugnant to the context or meaning thereof be
+deemed to mean and include its successors ) , being a schedule commercial Bank in India , has at the request
+of the Contractor , agreed to issue this Bank Guarantee , in accordance with the terms and conditions set
+forth herewith , in favour of BIT .
+
+NOW THEREFORE , the Bank hereby undertakes the pecuniary responsibility of the Contractor to BIT, MESRA
+for the due performance of the Agreement and hereby issues in favour of BIT, MESRA this irrevocable and
+unconditional bank guarantee ( herein after referred to as the ‘ Guarantee “ ) on behalf of the Contractor .
+
+    A.  The Bank for the purpose hereof unconditionally and irrevocably undertakes to pay to BIT MESRA
+       without any demur, reservation , caveat , protest or recourse immediately on receipt of first written
+      demand from BIT , a sum or sums ( by way of one or more claims ) without BIT MESRA needing to
+       prove or to show to the Bank grounds or reasons for such demand for the sum specified therein and
+       notwithstanding any dispute or difference between BIT MESRA and the Contractor in respect of the
+       performance of the Agreement or moneys payable by the Contractor to BIT MESRA or any matter
+      what so .
+
+                  P a g e 34 | 50                            Contractor seal and signature
+
+B.  The Bank acknowledges that this Guarantee may be invoked more then once and each one of such
+   demands by BIT MESRA of the amount payable by the Bank to BIT MESRA shall be final ,binding and
+    conclusive evidence in respect of the amounts payable by the contractor to BIT MESRA .
+C.  The Bank hereby waives the necessity for BIT MESRA from demanding the aforesaid amount or any
+    part thereof from the Contractor and also waives any right that the Bank may have of first requiring
+    BIT MESRA to pursue its legal remedies against the Contractor , before presenting any written
+   demand to the Bank for payment under this GUARANTEE .
+D.  The Bank unconditionally agrees with BIT MESRA that BIT MESRA shall be at liberty , without the
+    Bank’s consent and without affecting in any manner the Bank’s obligation under this Guarantee ,
+   from time to time to .
+
+           (i ) vary and / or modify any of the terms and conditions of the Agreement ,
+
+         ( ii ) extend and / or postpone the time for performance of the obligations of the Contractor under
+    the Agreement , or
+
+        ( iii ) For bear or enforce any of the rights exercisable by BIT MESRA against the Contractor under
+    the terms and conditions of the Agreement .
+
+   And the Bank shall not be relieved from its liability by reason of any such act or omission on the part
+    of BIT MESRA or any indulgence by BIT MESRA to the Contractor or other thing whatsoever which
+   under the law relating to sureties would , but for this provision , have the effect of relieving the Bank
+    of its obligations under this Guarantee .
+
+E.  The Bank’s obligations under this Guarantee shall not be reduced by reason of any partial
+   performance of the Agreement . The Bank’s obligations shall not be reduced by the failure by BIT
+   MESRA to timely pay or perform any of its obligations under the Agreement .
+F.  Any payment made hereunder shall be made free and clear of and without deduction for , or on
+    account of , any present or future charges , fees , commissions , deductions whatsoever and by
+   whom ever imposed .
+G.  This Guarantee shall be a continuing Bank Guarantee and shall not be discharged by the change in
+    constitution of any member of the contractor and the Guarantee shall not be affected or discharged
+   by the liquidation , winding up , bankruptcy , reorganization , dissolution of insolvency of the
+    contractor or any Affiliate of the Contractor whatsoever .
+H.  This Guarantee shall have a minimum validity of at least _______________ months and shall be
+    rolled and renewed at least three ( 3) months prior to its expiry so as to keep it valid until one year
+    following the expiry or early termination of the Agreement , whichever is earlier . Provided however
+    that in the event the Bank does not renew the Guarantee three (3) months prior to its expiry in the
+   manner provided above , BIT MESRA shall, irrespective of due performance of other terms of the
+   Agreement by the Contractor , have the right to encash the entire amount of the Guarantee in one
+    or more demands . This Guarantee shall remain valid and subsisting until released by BIT MESRA in
+    writing .
+I.   This Guarantee shall be in addition to and not a substitution or in derogation of any other security
+    held by BIT MESRA to secure the performance of the obligations of the CONTRACTOR under the
+   Agreement .
+J.  The Bank agrees that BIT MESRA at its option shall be entitled to enforce this Guarantee against the
+   Bank , as a principal debtor in the first instance without proceeding at the first instance against the
+    Contractor or any other security / guarantee that BIT MESRA may have .
+K.  The quantum of the Guarantee shall be Rs.___________________________ only which is 10% of
+    total value of the Agreement of Rs.________________________________ during the _____
+               P a g e 35 | 50                            Contractor seal and signature
+
+   _____________________________after the Effective Date of the Agreement ( such amount being
+    the “ full amount “ of the Guarantee ) .
+    In the event any portion of the Guarantee is en cashed pursuant hereto , then immediately following
+    such encashment , the Bank shall replenish the Guarantee to its full amount . In the event the
+   Guarantee is not replenished to its Full Amount within three ( 3 ) months of its encashment in any
+    part ,BIT MESRA shall have the right to en- cash the entire Guarantee .
+L.  This Guarantee is subject to the laws of India .Any suit ,action, or other proceedings arising out of
+    this Guarantee or the subject matter hereof shall be subject to the exclusive jurisdiction of courts of
+    Ranchi .
+M. Capitalized terms not otherwise defined shall have their respective meanings given to such terms as
+    set forth in the Agreement.
+N. The Bank has power and authority to validly to execute and issue this Guarantee and the
+    undersigned is duly authorized to execute and deliver this Guarantee pursuant to the power granted
+   under ______ and its obligations under this Guarantee will be legally and binding and enforceable
+    against the Bank.
+O.  E- NOTICES
+
+      Any demand certificates , e-Notice or any other communication under this Guarantee shall be ( I )
+    in writing and ( ii ) faxed or sent by person , or overnight courier at the following address es :
+    Mail ID - ____of bank required ______________________
+
+      If sent by fax , when sent ( with the correct answerback) , ( ii ) if sent by person when delivered ,
+      (iii) if sent by courier one (I) Business Day after deposit with an overnight courier , and ( iv) if sent by
+    registered letter when the registered letter would , in the ordinary course of post , be delivered
+   whether actually delivered or not .
+
+     All such Demand Certificates , e-Notices and communications shall be effective ( i) if sent by fax ,
+   when sent ( with the correct answerback ) ,(ii) if sent by person ,when delivered , ( iii ) if sent by
+    courier one ( I ) Business Day after deposit with an overnight courier , and (iv) if sent by registered
+    letter when the registered letter would , in the ordinary course of post , be delivered whether
+    actually delivered or not .
+
+   Not withstanding anything contained herein above .
+
+    1.  Our Liability under this Bank Guarantee shall not exceed Rs._________________
+
+
+
+    2.   This Bank Guarantee shall be valid upto _________________________
+    3. We are liable to pay the guaranteed amount or any part thereof under this Bank Guarantee only
+      and if you serve upon us a written claim or demand on or before ____________
+
+   Date :                                      Signature of the Authorised Officer of the Bank
+
+
+
+
+
+    Witness :                               Name
+    Signature:                                         Designation
+   Name:                                               Seal
+    Address:
+               P a g e 36 | 50                            Contractor seal and signature
+
+                          AGREEMENT FORM
+
+This agreement made this day of (Month) (Year), between the BIRLA INSTITUTE OF TECHNOLOGY MESRA,
+RANCHI, established in 1955,a premier technical institute and deemed University, having its Registered Office at
+Mesra, Ranchi – 835 215 (hereinafter referred to as the “BIT MESRA” which expression shall include its
+administrators, successors, executors and assigns) of the one part and M/s(NAME OF CONTRACTOR)
+(hereinafter referred to as the ‘Contractor’ which expression shall unless the context requires otherwise include
+its administrators, successors, executors and permitted assigns) of the other part.
+
+WHEREAS, BIT MESRA (hereinafter referred to as “OWNER”), desirous of construction of (NAME OF WORK)
+(herein after referred to as the “PROJECT”), had invited tenders as per Tender documents vide NIT No.  .
+
+AND WHEREAS (NAME OF CONTRACTOR) had participated in the above referred tender vide their tender dated
+           and BIT MESRA has accepted their aforesaid tender and awarded the contract for
+(NAME OF PROJECT) on the terms and conditions contained in its Letter of Acceptance No.
+and the documents referred to therein, which have been unequivocally accepted by (NAME OF
+CONTRACTOR) vide their acceptance letter dated               resulting into a contract.
+
+NOW THEREFORE THIS DEED WITNESSETH AS UNDER:
+
+ARTICLE 1.0 – AWARD OF CONTRACT
+
+1.1 SCOPE OF WORK
+
+BIT MESRA has awarded the contract to (NAME OF CONTRACTOR) for the work of (NAME OF WORK) on the
+terms and conditions in its letter of Acceptance No.                   dated          and the documents
+referred to therein. The award has taken effect from (DATE) i.e. the date of issue of aforesaid letter of
+Acceptance. The terms and expressions used in this agreement shall have the same meanings as are assigned to
+them in the “Contract Documents” referred to in the succeeding Article.
+
+ARTICLE 2.0 – CONTRACT DOCUMENTS
+
+2.1 The contract shall be performed strictly as per the terms and conditions stipulated herein and in the
+following documents attached herewith (herein after referred to as “Contract Documents”).
+
+    a)   BIT MESRA Notice Inviting Tender vide No.     date    and BIT MESRA’s tender documents
+
+        consisting of:
+             i) The Bid submitted by the bidder including all its attachments and the bill of quantities ;
+              ii)  Technical specifications and Drawings , including any Amendment / Errata thereto:
+
+    b)  (NAME OF CONTRACTOR) letter proposal dated  and their subsequent communication:
+
+             i)   Letter of Acceptance of Tender Conditions dated
+              ii)
+               iii)
+
+
+
+
+
+               P a g e 37 | 50                            Contractor seal and signature
+
+   2.2 BIT MESRA’s detailed Letter of Acceptance No.              dated  including  Bill  of Quantities,
+   agreed time schedule, Contractor’s Organisation Chart and list of Plant and Equipments submitted by
+   Contractor.
+
+   2.3 All the aforesaid contract documents referred to in Para 2.1 and 2.2 above shall form an integral part of this
+   Agreement, in so far as the same or any part thereof column, to the tender documents and what has been
+    specifically agreed to by BIT MESRA in its Letter of Acceptance. Any matter inconsistent therewith, contrary
+   or repugnant thereto or deviations taken by the Contractor in its “TENDER” but not agreed to specifically by BIT
+  MESRA in its Letter of Acceptance, shall be deemed to have been withdrawn by the Contractor without any cost
+   implication to BIT MESRA. For the sake of brevity, this Agreement alongwith  its aforesaid contract
+   documents and Letter of Acceptance shall be referred to as the “Contract”.
+
+  ARTICLE 3.0 – CONDITIONS & CONVENANTS
+
+   3.1 The scope of Contract, Consideration, terms of payments, advance, security deposits, taxes wherever applicable,
+    insurance, agreed time schedule, compensation for delay and all other terms and conditions contained in BIT
+  MESRA’s Letter of Acceptance No.                              dated are to be read
+   in conjunction with other aforesaid contract documents. The contract shall be duly performed by the contractor
+    strictly and faithfully in accordance with the terms of this contract.
+
+   3.2 The scope of work shall also include all such items which are not specifically mentioned in the Contract
+   Documents but which are reasonably implied for the satisfactory completion of the entire scope of work envisaged
+   under this contract unless otherwise specifically excluded from the scope of work in the Letter of Acceptance.
+
+   3.3 Contractor shall adhere to all requirements stipulated in the Contract documents.
+
+   3.4 Time is the essence of the Contract and it shall be strictly adhered to. The progress of work shall conform
+   to agreed works schedule/contract documents and Letter of Acceptance.
+
+   3.5 This agreement constitutes full and complete understanding between the parties and terms of the presents. It
+    shall supersede all prior correspondence to the extent of inconsistency or repugnancy to the terms and conditions
+   contained in Agreement. Any modification of the Agreement shall be effected only by a written instrument signed
+   by the authorized representative of both the parties.
+
+   3.6 The total contract price for the entire scope of this contract as detailed in Letter of Acceptance is Rs.
+                                                     (Rupees                                          only),
+   which shall be governed by the stipulations of the contract documents.
+
+  ARTICLE 4.0 – NO WAIVER OF RIGHTS
+
+   4.1 Neither the inspection by BIT MESRA or the Professor In-charge ICTC or any of their officials, employees
+   or agents nor order by BIT MESRA or the Professor In-charge ICTC for payment of money or any payment
+    for or acceptance of, the whole or any part of the work by BIT MESRA or the Professor In-charge ICTC nor any
+   extension of time nor any possession taken by the Professor In-charge ICTC shall operate as waiver of any
+   provisions of the contract, or of any power herein reserved to BIT MESRA, or any right to damage herein
+   provided, nor shall any waiver of any breach in the contract be held to be a waiver or any other or subsequent
+   breach.
+
+  ARTICLE 5.0 – GOVERNING LAW AND JURISDICTION
+
+   5.1 The Laws applicable to this contract shall be the laws in force in India and jurisdiction of Ranchi Court(s) only.
+
+
+Contractor Sign & Seal
+
+
+
+
+                  P a g e 38 | 50                            Contractor seal and signature
+
+5.2 Notice of Default
+
+Notice of default given by either party to the other party under the Agreement shall be in writing and shall be deemed to
+have been duly and properly served upon the parties hereto, if delivered against acknowledgment due or by FAX or by
+registered mail duly addressed to the signatories at the address mentioned herein below:
+
+           REGISTRAR
+            BIRLA INSTITUTE OF TECHNOLOGY, MESRA RANCHI-
+             835 215 (JHARKHAND) – INDIA
+
+IN WITNESS WHEREOF, the parties through their duly authorized representatives have executed these presents (execution
+whereof has been approved by the Competent Authorities of both the parties) on the day, month and year first above mentioned
+at Ranchi.
+
+For and on behalf of:                                                      For and on behalf of:
+
+
+
+
+(NAME OF CONTRACTOR)                                          (Birla Institute of Technology, Mesra)
+
+
+WITNESS:                                           WITNESS:
+
+1.                                                                    1.
+
+
+
+
+
+                   P a g e 39 | 50                            Contractor seal and signature
+
+                                                                               Annexure I
+ TECHNICAL NOTES:
+
+ 1.  The selected vendor shall treat the project as a turnkey project and be responsible for every single phase and activity
+     involved. Such activities involve (but not limited to) layout of lines, setting up of devices, distribution of lines to
+     residences, software programming etc.
+
+ 2.  The vendor and OEM shall commit in writing to completion of the entire project including handover within a period
+     of 150 days from the day of award of contract.
+
+ 3.  The items specified in BoQ in Annexure II are indicative and the vendor shall bill for the same on an as per actual
+     basis. Any other line item that the vendor deems to be required may be brought to the attention of the Institute for
+     incorporation into the BoQ. Details about the consumption of items must be provided monthly to the Institute by
+     the selected vendor.
+
+ 4.  The maintenance of work force during execution of the project  (incl. labour and engineers) shall be the
+     responsibility of the vendor. However, the vendor may request the Institute for support regarding the same on a
+    payment basis. The Institute shall not guarantee such support.
+
+ 5.  The vendor shall ensure complete packing and cement work for all drilling conducted in residential quarters to seal
+     the drill locations.
+
+ 6.  The vendor must maintain the highest work standards and the vendor shall agree to redo any part of the project not
+     as per specifications at his own expense.
+
+ 7.  Interested vendors may perform site visit on working days of the Institute between 5th to 15th of Nov. 2021, if such
+    a visit has not already been undertaken. The visit is to be scheduled in the working hours of the Institute and must
+    be intimated at least 24 hours before the actual visit.
+
+ 8.  Fiber layout shall be done using hydraulic digging and use of overhead lines and manual trench digging shall be
+     kept to the bare minimum required.
+
+ 9.  Preference shall be given to reputed and trustworthy OEMS for active elements as per technical specification
+    Annexure II.
+
+ 10. Documentation including layout map, installation, testing, programming, and commissioning, in both soft (2 Nos.)
+    and hard (1 Nos.) copies are to be provided at the end of the deployment.
+
+ 11. The vendor shall be responsible for any structural damage caused to the Institute’s property and must ensure that
+     the same is rectified either by repair work or in terms of payment to the Institute. The valuation of the damage shall
+    be undertaken by the Institute in case a payment is made in compensation of the damage.
+
+12. The selected vendor and the OEM involved shall ensure the presence of an onsite engineer for a one-year period
+     after the project is handed over to the Institute.
+
+ 13. Any issues related to structural damage of the fiber or other lines, software programming, active devices etc. must
+    be attended to within 24 hours of the ticket being raised by the Institute for the first year, post-handover of the
+     project to the Institute. The vendor shall ensure the setting up of an effective ticketing platform for the same.
+
+ 14. The vendor shall mandatorily provide an online work advancement report to the Institute every week and a hardcopy
+    work advancement report to the Institute at the end of every month.
+
+                   P a g e 40 | 50                            Contractor seal and signature
+
+15. A POC shall be provided by the bidder during the Technical Evaluation if required by the evaluation committee for
+    verification of offered features and applications.
+
+16. The vendor must mandatorily have an office in Jharkhand and preferably in Ranchi.
+
+17. The vendor shall provide the contact details of SPoC in all previous installations of the same nature within the last
+    3years.
+
+18. For technical details and information of site visit please contact:
+
+        a)  Satish Kumar: 7541077438
+        b)  Brajesh Mishra: 8084906804
+         c)  Rakesh Kumar: 9771297938
+
+19. Note: The above quantities of work are tentative and may change depending upon actual requirement
+    of BIRLA INSTITUTE OF TECHNOLOGY, Delhi Unit. No bidder shall have any claim for award
+    ofany specific quantity, including quantity indicated in the bid document.
+
+
+
+
+
+                   P a g e 41 | 50                            Contractor seal and signature
+
+                                                                                     Annexure II
+
+
+                                         Technical Specifications
+
+       TENDER FOR SUPPLY AND INSTALLATION OF FTTH FOR BIT MESRA CAMPUS
+
+Sl. No.     Item Description       Specification/Model& Manufacturer                quantity
+1       OLT            GPON OLT with 8/16 PON SFP ports,           2 Nos.
+                              2 x 10G Fiber uplink Module,
+                                  8/16 Giga Ethernet Ports PON ports fully pre-
+                                          installed,
+                                   4/6 Giga SFP ports and 2 10 Giga SFP+ Ports,
+                              Hot dual power supply,
+                              With 5 Years Warranty
+2      ONU           ONU with one FXS and Wi-Fi                  275 Nos.
+                        GEPON/GPON ONU 300Mbps Wi-Fi Router
+                                  with PON,
+                              2 x 1GE & 1FE, 1FXS Voice Interface Port,
+                                     also support analog phone,
+                              With 5 Years Warranty
+3       SERVER              Server Hardware with                         1 Nos.
+                             Management Software (EMS) With 5 Years
+                                Warranty
+4        LIU 24 PORT          Fiber Drawer LIU, Fully Loaded,               2 Nos.
+        PRELOADED WITH  24SM, SC-APC SX, 24 Port,
+        ALL ACCESSORIES   as per Actual Basis With 5 Years Warranty
+5        FIBER PATCH        Patch cord, SM (OS2),                        48 Nos.
+       CORD               Duplex LC-SC- PC Type, 3 Mtrs.,
+                            As per Actual Basis
+6        JOINT ENCLOSURE   Joint Enclosure Standard,                      30 Nos.
+                              DGJC-24F-JC, Underground
+                       OFC Joint Enclosure Bamboo Type 24-F,
+7      UNDERGROUND     Standard, 2F/2F underground Chamber,          30 Nos.
+       CHAMBER
+8          12U RACK       12U Rack Outdoor Cabinet, 600W/600D Floor     12 Nos.
+                             Rack
+                                  (IP55 protection Rack)
+                                  Cabinet CRCA sheet with all accessories
+9         HDPE PIPE      HDPE Pipe & Jointer                          10000Mtr.
+                       HDPE pipe, 50mm /25 mm Standard Quality,
+                                   as per Actual Basis
+10        PVC CONDUIT   PVC Conduit (with all fittings)                  15000Mtr.
+          PIPE                  Standard Quality, (Pipe/ Casing/ Flexible etc.),
+                            As per Actual Basis
+11          GI PIPE 2''        GI Pipe Standard quality                      500 Nos.
+12          42 U RACK      42U Network Rack with all accessories,          1 Nos.
+                             Make: APW President, Tata
+13         FIBER SPLITTER   Fiber Optic splitter with                       70 Nos
+                                   enclosure (IP65)-1*4,1*8,1*16,1:32,1:64,
+
+                     P a g e 42 | 50                            Contractor seal and signature
+
+                            As per Actual Basis
+14        OFC 12 CORE     12 Core Fiber Cable Armoured Jelly Filled        8000 Mtrs.
+                                  Outdoor,
+                                   as per actual basis
+15        OFC 6 CORE      6 Core Fiber Cable Armoured Jelly Filled         10000
+                                  Outdoor,                                         Mtrs.
+                            As per Actual Basis
+16        OFC 2 CORE      2 Core Optical Fiber Armoured Drop Cable,       20000 Mtr.
+                                   as per Actual Basis
+17        ROUTE            Concrete Route Marker,                       70 Nos.
+       MARKER              as per Actual Basis
+
+
+                                         Technical Specifications
+
+       TENDER FOR SUPPLY AND INSTALLATION OF FTTH FOR BIT MESRA CAMPUS
+
+Sl.   Item Description       Specification/Model&           quantity
+No.                        Manufacturer
+1   MICRO          HDPE Pipe with micro         8000
+    TUNNELING WITH   tunnelling                MTR.
+    HDPE               (As per actual) with fibre
+                             laying
+2   HARD SOIL         Hard Soil like Road cutting       500
+    TRENCHING          concrete, boring and refilling   MTR.
+                             as per site condition with fibre
+                               laying.
+                          (As per actual basis)
+3    SOIL TRENCHING   Soil Trenching 1 Mtrs Deep     10000
+                         and refilling as per site       MTR.
+                             condition with fibre laying
+                          (As per actual basis)
+4   OFC LAYING      OFC Laying through pvc       20000
+    THROUGH PVC      conduit for drop cable as per   MTR.
+    CONDUIT            Actual Basis
+5   INSTALLATION     Underground chamber and      60 NOS.
+    OF CHAMBER         joint encloser installation
+    AND ENCLOSURE
+6   INSTALLATION      Installation of FTTX box and    70 NOS.
+    OF FTTX BOX     OFC Splitter
+    AND OFC
+    SPLITTER
+7   INSTALLATION       Installation, Testing and        1 Nos
+                         Commissioning of FTTX
+                           Setup
+                        With 5 years warranty support
+
+
+
+
+
+                     P a g e 43 | 50                            Contractor seal and signature
+
+                  RELATIONSHIP CERTIFICATE PROFORMA
+
+
+                          DECLARATION
+
+
+I/WE/Mr./Ms/M/S                              S/O
+
+            resident of                                                      declare as under.
+
+1.     That I or any of my partners is/ are not employee of BIT MESRA.
+2.    My partner or I don’t have any close relative working in BIT MESRA.
+
+
+   S.N  Name of officer             Designation      Related To             Relation.
+
+
+
+
+
+Note: Close relative means:
+        a) Members of a Hindu undivided family.
+       b) They are husband and wife.
+        c) The one is related to the other in the manner as Father, Mother, Son(s) & Son’s wife(daughter in law),
+          Daughter(s) &  daughter’s husband(son  in  law),  Brother(s) &  brother’s  wife  Sister(s) and  sister’s
+          husband(brother in law).
+
+
+                                            NAME OF THE BIDDER
+                                      WITH RUBBER STAMP & CAPACITYIN
+                                            WHICH HE/SHE IS SIGNING
+                                                                  (OFFICE SEAL)
+
+
+
+
+
+                    P a g e 44 | 50                            Contractor seal and signature
+
+                              Debar/Blacklist certificate proforma
+                          DECLARATION
+
+
+
+I/WE/Mr./Ms/Mrs                                     S/o/ Wife of Sh.                   and
+proprietor/ director / partner of M/s                            do hereby solemnly affirm
+and declare as under:
+1.     That is the sole proprietor/partner/director of M/s………………………….
+2.     That I am state and declare that the above firm
+
+
+M/s                                   has  never  ever  been  debarred  and/or  blacklisted by any
+department of Central Govt./state Govt./PSU/Public bodies/Municipalities.
+
+
+In case the above declaration is found to be incorrect or wrong, the contract, if awarded to the firm may be
+terminated immediately and the firm shall be liable to be black listed/debarred for future works/contract
+with BIT MESRA . Any such action shall however, be without prejudice to BIT MESRA rights under the
+law.
+
+
+
+
+                                      Signature of the Proprietor/Partner/Director
+
+Station:                                                (Sh./Smt/miss)
+
+
+
+Note:    The signatory should not affect any variation in the text of declaration in any form. It shall
+          not be acceptable and tender the tendered for penal action as decided by .
+
+
+
+
+
+                    P a g e 45 | 50                            Contractor seal and signature
+
+                                       Questionnaire
+
+Please furnish the following information:
+  1.   Name of the Company
+
+
+       Office Address
+
+
+        Registration particulars
+
+  2.    Status of organization
+      (Company    partnership,    Pvt   Ltd,
+      Limited etc)
+  3   Name    of    proprietor/     partners/
+
+       executives.
+
+  4.   Mobile No.
+
+       Fax/landline No.
+
+      E-Mail address
+
+  5.   GST Registration No.
+
+
+  6.   EPF Registration No.(if available)
+
+
+  7.   ESI Registration No.
+          (if available)
+
+  8.  PAN No.
+
+
+  9.   Total No. of employees
+
+ 10.   No. of similar types of jobs in hand, if
+      any at present.
+
+ 11.  No of years in business/ experience
+
+
+
+Date
+
+                                                                  Authorized Signatory
+                                                                      (with official Seal)
+
+
+
+                    P a g e 46 | 50                            Contractor seal and signature
+
+                                                  Price Bid
+
+       TENDER FOR SUPPLY AND INSTALLATION OF FTTH FOR BIT MESRA CAMPUS
+
+Sl.   Item Description        Specification/Model& Manufacturer        quantity   Amount  GST   Total
+No.
+1   OLT            GPON OLT with 8/16 PON SFP ports,     2 Nos.
+                          2 x 10G Fiber uplink Module,
+                             8/16 Giga Ethernet Ports PON ports fully
+                                  pre-installed,
+                              4/6 Giga SFP ports and 2 10 Giga SFP+
+                                 Ports, Hot dual power supply,
+                          With 5 Years Warranty
+2   ONU           ONU with one FXS and Wi-Fi           275 Nos.
+                    GEPON/GPON ONU 300Mbps Wi-Fi
+                             Router with PON,
+                          2 x 1GE & 1FE, 1FXS Voice Interface
+                                 Port,
+                                also support analog phone,
+                          With 5 Years Warranty
+3   SERVER               Server Hardware with                  1 Nos.
+                         Management Software (EMS)
+4    LIU 24 PORT           Fiber Drawer LIU, Fully Loaded,         2 Nos.
+    PRELOADED WITH   24SM, SC-APC SX, 24 Port,
+    ALL ACCESSORIES   as per Actual Basis
+5    FIBER PATCH         Patch cord, SM (OS2),                  48 Nos.
+    CORD               Duplex LC-SC- PC Type, 3 Mtrs.,
+                        As per Actual Basis
+6    JOINT ENCLOSURE    Joint Enclosure Standard,                30 Nos.
+                          DGJC-24F-JC, Underground
+                    OFC Joint Enclosure Bamboo Type 24-F,
+7   UNDERGROUND      Standard, 2F/2F underground Chamber,    30 Nos.
+    CHAMBER
+8      12U RACK       12U Rack Outdoor Cabinet, 600W/600D   12 Nos.
+                              Floor Rack
+                             (IP55 protection Rack)
+                             Cabinet CRCA sheet with all accessories
+9     HDPE PIPE      HDPE Pipe & Jointer                   10000Mtr
+                    HDPE pipe, 50mm /25 mm Standard             .
+                                Quality,
+                              as per Actual Basis
+10    PVC CONDUIT    PVC Conduit (with all fittings)           15000Mtr
+     PIPE                  Standard Quality, (Pipe/ Casing/ Flexible      .
+                                       etc.),
+                        As per Actual Basis
+11     GI PIPE 2''         GI Pipe Standard quality                500 Nos.
+12      42 U RACK       42U Network Rack with all accessories,    1 Nos.
+                         Make: APW President, Tata
+13     FIBER SPLITTER   Fiber Optic splitter with                 70 Nos
+                              enclosure (IP65)-1*4,1*8,1*16,1:32,1:64,
+                        As per Actual Basis
+
+                     P a g e 47 | 50                            Contractor seal and signature
+
+14    OFC 12 CORE      12 Core Fiber Cable Armoured Jelly       8000
+                                 Filled Outdoor,                            Mtrs.
+                              as per actual basis
+15    OFC 6 CORE       6 Core Fiber Cable Armoured Jelly Filled   10000
+                             Outdoor,                                  Mtrs.
+                        As per Actual Basis
+16    OFC 2 CORE       2 Core Optical Fiber Armoured Drop      20000
+                              Cable,                                   Mtr.
+                              as per Actual Basis
+17    ROUTE MARKER   Concrete Route Marker,                 70 Nos.
+                              as per Actual Basis
+
+
+
+
+
+                     P a g e 48 | 50                            Contractor seal and signature
+
+                                                   Price Bid
+
+        TENDER FOR SUPPLY AND INSTALLATION OF FTTH FOR BIT MESRA CAMPUS
+
+ Sl.   Item Description    Specification/Model&          quantity       Amount  GST  BOCW    Total
+ No.                     Manufacturer                                 1% (on
+                                                                                       base
+                                                                                   amount)
+ 1   MICRO        HDPE Pipe with micro       8000 MTR.
+     TUNNELING      tunnelling
+     WITH HDPE      (As per actual) with fibre
+                           laying
+ 2   HARD SOIL      Hard Soil like Road cutting     500 MTR.
+     TRENCHING      concrete, boring and refilling
+                           as per site condition with
+                              fibre laying.
+                        (As per actual basis)
+ 3    SOIL               Soil Trenching 1 Mtrs Deep   10000 MTR.
+     TRENCHING     and refilling as per site
+                           condition with fibre laying
+                        (As per actual basis)
+ 4   OFC LAYING    OFC Laying through pvc      20000 MTR.
+    THROUGH PVC   conduit for drop cable as per
+     CONDUIT         Actual Basis
+ 5   INSTALLATION  Underground chamber and    60 NOS.
+     OF CHAMBER     joint encloser installation
+    AND
+     ENCLOSURE
+ 6   INSTALLATION   Installation of FTTX box and   70 NOS.
+     OF FTTX BOX   OFC Splitter
+    AND OFC
+     SPLITTER
+ 7   INSTALLATION   Installation, Testing and      1 Nos
+                        Commissioning of FTTX
+                         Setup
+                       With 5 years warranty
+                           support
+
+
+
+The submitted commercial quote must be accompanied with
+    1.  Documentary proof of the vendor’s association
+    2. A Manufacturer’s Authorization Form (MAF).
+
+
+
+
+
+                     P a g e 49 | 50                            Contractor seal and signature
+
+                             FORM
+
+                 (UPTO THE PRECEDING MONTH OF SUBMISSION OF BID)
+
+
+
+
+
+ S.     Name of the      Details of client     Contract         Start          Finish    Work done up     Value of existing
+No   Work / Project       along with       Value        Date         Date          to the        commitments and
+                             address and                                            preceding      ongoing works to be
+                             telephone                                       month of      completed (for all the
+                                                                                submission of     clients of the Bidder)
+                                                                                       bid          during the period of
+                                                                                                 completion of work
+                                                                                                                   for which bids have
+                                                                                            been invited (i.e.
+                                                                                                Balance value of
+                                                                                                 work)
+
+
+                                                                                                                 (B)
+
+
+
+
+
+Note: The bidder shall also include the value of all such works which are awarded to bidder but yet not started up
+to the preceding month of submission of bid. Any misrepresentation by the bidder will debar him/her for 2
+years from BIT MESRA works.
+
+Date:
+Place:
+
+
+
+
+
+                  P a g e 50 | 50                            Contractor seal and signature

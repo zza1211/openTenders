@@ -1,0 +1,228 @@
+                            College of Engineering Trivandrum, Thiruvananthapuram
+
+
+        P4/2414/23/CET                                          25.07.2023
+                                NOTICE INVITING TENDER
+
+
+                    Tender ID                2023_DTE_589786
+
+                    Tender No.                 :21/2023/P4/CCF
+                                                    :24 Port 10G Manageable Switch,24
+                                              Port L2 Manageable Switch,
+                       Superscription            SFP+, 10G BASE-LR Type 2, SMF
+                                  10Km
+1                                                            for Central Computing Facility
+
+                      Last date and time ofPage
+-                      receipt of tender on the
+PM                                                :21/08/2023  3 P.M
+                      website
+                      (www.etenders.gov.in)10:20
+                    Date and time of opening
+                                                23/08/2023  3 P.M
+                         of tender25-Jul-2023                  Date upto which the
+                                                23/02/2024
+on                     rates are to be firm
+
+                    Tender Cost                 :₹5070/- (4300+18% GST)
+Principal             EMD required                :₹28647/-
+by
+                                           :THE   PRINCIPAL,COLLEGE   OF
+                                       ENGINEERING
+                    Address  of  the   officer  toApproved                                     TRIVANDRUM,
+                whom hardcopy is to be
+                                        THIRUVANANTHAPURAM-695016,
+                      send.
+                                      KERALA
+                                            :GSTIN :32AAAGC0358L1ZPP4/2414/23/CET
+        Specifications are attached as Annexure.
+File
+of     General conditions
+#4       1. The unit price, all other charges such as delivery, transporting, packing, shipping, loading and
+         unloading  charges  e.t.c,  and GST  must  be shown  separately and  should  be  furnishedDraft
+        unambiguously.
+          2. Payment : 100% after the successful supply, installation, and satisfactory performance.
+          3. Delivery Period: Within 20 weeks from the date of receipt of supply order
+          4. For : Central Computing Facility Centre of this institution.
+          5. Warranty: 3 year warranty
+           6.Validity: 2 Weeks
+          7. Agreements as per NIT 2 in Rs.220/- Kerala Stamp Paper and tender form should be uploaded.
+          8. 5% security deposit along with agreement should be furnished within a month/fortnight from the
+        date of receipt of supply order.
+          9. Date of opening of tender  : In case the proposed date declared is holiday, the tender will be
+
+       opened on the next working day.
+         10. Only GST registered firm can participate in the tender. GST number must be mentioned. The
+          firm under composition scheme must mention the words "Composition taxable person" in their
+        documents and should submit proof for that.
+         11. GST  18%
+        12.Hard Copy of Tender documents not required.
+        NB: The Tender procedure will be made as per Rules mentioned in the Revised Store Purchase
+        Manual.
+         The bidders should participate this tender through E-Tendering System. Tender cost and EMD
+        should be submitted only through online.
+
+
+
+2          The bidder should submit the Manufactures Authorisation Letter (MAF) along with the BID
+Page
+
+-
+PM
+10:20
+            The bidder should submit the Technical Compliance along with the BID (adequate documents
+             must be attached).For more details25-Jul-2023
+on
+
+        Contact Ph. 0471 2577088, 0471 2577188, 0471 2577388,0471 2515760.
+Principal
+by
+
+
+                                                     SpecificationsApproved
+
+
+
+
+                  Sl.No Item & Specification                                   QuantityP4/2414/23/CET
+                     24 Port 10G Manageable SwitchFile
+of                  24x10G Multigigabit switch with 4x25G 2x100G
+#4                        uplink/stacking ports. 90W POE. MACsec AES256), TAA
+                           version, Power Cord, AC, Continental Europe, C15M,Draft                 1                                                       1
+                     10A/250V, 2.5m, Straight plug to straight high temp C15M,
+                  1050W Compact AC AFO power supply, PSS Next Day
+                        Support
+                          Detailed specifications attached in Annexure I
+
+                     24 Port L2 Manageable Switch
+                          24-port 10/100/1000BaseT, 4 x 1/10G SFP/SFP+, 2 x 40G
+                    QSFP+, redundant fans, front-to-back airflow, 1 AC PSU
+                 2    JPSU-150-AC-AFO included, 150W AC Power Supply,    4
+                          Front-to-back airflow, AC Power Cable - India (6A/250V,
+
+                         2.5m), PSS Next Day Support
+                          Detailed specifications attached in Annexure II
+
+                     SFP+, 10G BASE-LR Type 2, SMF 10Km, Standard
+                       Temperature (0 through 70 Degree C), Duplex LC
+                 3     Connector ( Modules for ethernet to fiber ) Accessories    45
+                          attached with above two items. (same OEM with item no 1 &
+                          2)
+
+                             Annexure I
+
+             I.
+
+
+
+3
+                           24 Port 10G Manageable Switch
+Page
+
+-
+PM
+10:20      Minimum 24 x 100M/1/2.5/5/10GbE copper and should have 4 x 10/25G
+        uplink Ports.
+       1 U Rack mountable and should provide stacking of minimum 8 switches25-Jul-2023        with 360 Gbps or more of dedicated stacking/ equivalent bandwidth (All
+on
+       the stacking accessories should be included from day 1).
+       The Switch should have 4GB DRAM and 10GB internal FlashPrincipal      1000 Gbps or higher Backplane capacity and minimum 800 Mpps or more
+by
+         of forwarding rate
+       Should support Non-blocking hardware architectureApproved     Support for at least 4000 VLANs & 60k MAC address
+       Should support 64K IPv4 & 64K IPv6 routes.
+             It should support IGMP snooping v1,v2 & v3
+             It should have static IP routing like OSPF and PIM from Day and should be
+       upgradable to support BGPP4/2414/23/CET
+File     Should support VXLAN & EVPN
+of     Should support ESI-LAG
+#4
+       Switch should support 8 hardware queues per port
+Draft     Dynamic Host Configuration Protocol (DHCP) snooping
+       Switch should support LLDP capabilities
+       Should support IP Source Guard , DAI and IPv6 Security feature like IPv6
+      RA Guard and IPv6 Neighbor Discovery Inspection
+       Should support Secure Shell (SSH) Protocol and Simple Network
+      Management Protocol Version 3 (SNMPv3).
+       Switch needs to have console port for administration & management
+      Management using CLI, GUI using Web interface should be supported
+       FTP/TFTP for upgrading the operating System
+        IEEE 802.1D Spanning-Tree Protocol, IEEE 802.1p class-of-service (CoS)
+
+         prioritization, IEEE 802.1Q VLAN
+       Switch should have internal redundant power supply and Hotswappable
+        fans
+       Switch should able to support management via CLI, Web interface
+      SNMP v1,v2,v3
+       Switch should be manageable through both IPv4 & IPv6.
+       Switch series should be UL-UL60950-1,FCC Part 15, VCCI Class A, EN
+       55022/55032, Reduction of Hazardous Substances (ROHS) certified
+       The Switch series should be IPv6 (IPv6 Logo ready/ USGv6) certified
+       The switch should support minimum 1776W of PoE power budget (using
+       two power supplies).
+
+
+
+4                             Annexure II
+Page
+-        II.
+PM
+10:20                          24 Port L2 Manageable Switch
+25-Jul-2023
+on    Minimum 24 x 10/100/1000 Base-T and 4 x 1/10G ports (with
+        required transceiver modules)
+       1 U Rack mountable and should provide stacking of minimum 8Principal
+by     switches with 128Gbps of dedicated stacking/ equivalent bandwidth
+          (All the stacking accessories should be included from day 1).
+       The Switch should have 2GB DRAM and 2GB internal FlashApproved
+      128Gbps or higher Backplane capacity and minimum 95 Mpps of
+        forwarding rate (excluding the stacking bandwidth and forwarding)
+       Should support Non-blocking hardware architecture
+          All interfaces should provide wire speed forwarding for both Fiber andP4/2414/23/CET       copper modules
+File       Support for at least 2000 VLANs & 32k MAC address
+of
+#4         It should support IGMP snooping v1,v2 & v3
+Draft         It should have static IP routing from Day 1 and should be upgradable
+        to support OSPF and PIM
+       Switch should support 8 hardware queues per port
+      Dynamic Host Configuration Protocol (DHCP) snooping
+       Switch should support LLDP capabilities
+       Should support IP Source Guard , DAI and IPv6 Security feature like
+        IPv6 RA Guard and IPv6 Neighbor Discovery Inspection
+       Should support Secure Shell (SSH) Protocol and Simple Network
+      Management Protocol Version 3 (SNMPv3).
+       Switch needs to have console port for administration & management
+      Management using CLI, GUI using Web interface should be supported
+
+           g         g           g                      pp
+       FTP/TFTP for upgrading the operating System
+       Should support Energy Efficient Ethernet
+        IEEE 802.1x support, IEEE 802.1D Spanning-Tree Protocol, IEEE
+       802.1p class-of-service (CoS) prioritization, IEEE 802.1Q VLAN, IEEE
+       802.3 10BASE-T specification, IEEE 802.3u 100BASE-TX
+       Switch should support internal redundant power supply and
+       Hotswappable fans
+       Switch should able to support management via CLI, Web interface
+      SNMP v1,v2,v3
+       Switch should be manageable through both IPv4 & IPv6.
+       Switch should be UL-UL60950-1,FCC Part 15, VCCI Class A, EN 55022,
+5    EN 55024, EN 300386, CAN/CSA 22.2 No.60950-1, Reduction of
+Page     Hazardous Substances (ROHS) certified
+-     Switch should be IPv6 (IPv6 Logo ready/ USGv6) certified
+PM       Switch Should be Common Criteria EAL3/ NDPP/NDcPP certified
+10:20
+25-Jul-2023
+on
+Principal                                                                  PRINCIPAL
+by
+Approved
+       Approval Valid
+
+           Digitally Approved By
+         Savier JS
+         Date: 25.07.2023P4/2414/23/CET
+File     Reason: Approved
+of
+#4
+Draft

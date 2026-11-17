@@ -1,0 +1,984 @@
+                       Notice Inviting Quotation (E-Procurement mode)
+
+
+                      INDIAN INSTITUTE OF TECHNOLOGY DELHI
+
+                       HAUZ KHAS, NEW DELHI-110016
+
+
+                                                                                 Dated: 23/08/2017
+
+
+                       Open Tender Notice No.IITD/BEEN(SP-1196)/2017
+
+
+Indian Institute of Technology Delhi is in the process of purchasing following item(s) as per details as given as
+under.
+                   GPON System (OLT, GPON SFP, ONU with SFP, Fiber Connection
+ Details of the item                           Base Plate, Splitter)
+
+ Earnest Money Deposit to
+                              Rs. NIL
+ be submitted
+
+ Warranty                 3 Years
+
+ Performance security         Nil
+
+
+
+Tender Documents may be downloaded from Central Public Procurement Portal http://eprocure.gov.in/eprocure/app
+. Aspiring Bidders who have not enrolled / registered in e-procurement should enroll / register before participating
+through the website http://eprocure.gov.in/eprocure/app . The portal enrolment is free of cost. Bidders are advised to
+go through instructions provided at ‘Instructions for online Bid Submission ‘.
+
+
+Tenderers can access tender documents on the website (For searching in the NIC site, kindly go to Tender Search
+option and type ‘IIT’. Thereafter, Click on “GO” button to view all IIT Delhi tenders). Select the appropriate tender
+and  fill them with all relevant information and submit the completed tender document online on the website
+http://eprocure.gov.in/eprocure/app as per the schedule given in the next page.
+
+No manual bids will be accepted. All quotation (both Technical and Financial should be submitted in the E-
+procurement portal).
+
+
+
+
+
+                                                       1
+
+                                         Schedule
+Name of Organization                            Indian Institute of Technology Delhi
+
+Tender Type (Open/Limited/EOI/Auction/Single)  Open
+
+Tender Category (Services/Goods/works)        Goods
+
+Type/Form of Contract (Work/Supply/ Auction/   Buy
+Service/ Buy/ Empanelment/ Sell)
+
+Product Category (Civil Works/Electrical           Electrical equipment
+Works/Fleet Management/ Computer Systems)
+
+Source of Fund (Institute/Project)                   Project Code RP03270
+
+Is Multi Currency Allowed                  INR
+
+Date of Issue/Publishing                        23/08/2017 (16:00 Hrs)
+
+Document Download/Sale Start Date              23/08/2017 (16:00 Hrs)
+
+Document Download/Sale End Date              06/09/2017 (15:00 Hrs)
+
+Date for Pre-Bid Conference                             ---
+
+Venue of Pre-Bid Conference                           ---
+
+Last Date and Time for Uploading of Bids         06/09/2017 (15:00 Hrs)
+
+Date and Time of Opening of Technical Bids      07/09/2017 (15:00 Hrs)
+
+Tender Fee                                     Rs.NIL/- (For Tender Fee)
+                                               Rs.NIL/- (For EMD)EMD
+                                            (To be paid through RTGS/NEFT. IIT Delhi Bank details are
+                                                   as under:
+                                   Name of the Bank A/C     : IITD Revenue Account
+                                        SBI A/C No.                    : 10773572622
+                                   Name of the Bank             : State Bank of India, IIT Delhi,
+                                                              Hauz Khas, New Delhi-110016
+                                        IFSC Code                      : SBIN0001077
+                                 MICR Code                     : 110002156
+                                                Swift No.                        : SBININBB547
+                                                  (This is mandatory that UTR Number is provided in the on-
+                                                        line quotation/bid. (Kindly refer to the UTR Column of the
+                                                  Declaration Sheet at Annexure-II)
+
+No. of Covers (1/2/3/4)                       02
+
+Bid Validity days (180/120/90/60/30)            90 days (From last date of opening of tender)
+
+Address for Communication                       Optical Communications Lab, II-203, IIT Delhi
+
+Contact No.                                 011-26596121
+
+Email Address                                      abhishek.dixit@iitd.ac.in
+                                                    Chairman Purchase Committee
+                                                                       (Buyer Member)
+
+
+
+
+
+                                                     2
+
+Instructions for Online Bid Submission:
+As per the directives of Department of Expenditure, this tender document has been published on the Central
+Public Procurement Portal (URL:http://eprocure.gov.in/eprocure/app). The bidders are required to submit soft
+copies of  their bids electronically on the CPP  Portal, using valid Digital Signature  Certificates. The
+instructions given below are meant to assist the bidders in registering on the CPP Portal, prepare their bids in
+accordance with the requirements and submitting their bids online on the CPP Portal.
+
+More information useful for submitting online bids on the CPP Portal may be obtained at:
+http://eprocure.gov.in/eprocure/app
+
+
+REGISTRATION
+     1)  Bidders are required to enroll on the e-Procurement module of the Central Public Procurement Portal
+        (URL:http://eprocure.gov.in/eprocure/app) by clicking on the link “Click here to Enroll”. Enrolment
+       on the CPP Portal is free of charge.
+
+     2) As part of the enrolment process, the bidders will be required to choose a unique username and assign
+        a password for their accounts.
+
+     3)  Bidders are advised to register their valid email address and mobile numbers as part of the registration
+        process. These would be used for any communication from the CPP Portal.
+
+     4) Upon enrolment, the bidders will be required to register their valid Digital Signature Certificate
+        (Class  II or Class  III Certificates with signing key usage) issued by any Certifying Authority
+        recognized by CCA India (e.g. Sify / TCS / nCode / eMudhra etc.), with their profile.
+
+     5) Only one valid DSC should be registered by a bidder. Please note that the bidders are responsible to
+        ensure that they do not lend their DSCs to others which may lead to misuse.
+     6) Bidder then logs in to the site through the secured log-in by entering their user ID / password and the
+       password of the DSC / eToken.
+
+
+SEARCHING FOR TENDER DOCUMENTS
+
+     1) There are various search options built in the CPP Portal, to facilitate bidders to search active tenders
+       by several parameters. These parameters could include Tender ID, organization name, location, date,
+        value, etc. There is also an option of advanced search for tenders, wherein the bidders may combine a
+       number of search parameters such as organization name, form of contract, location, date, other
+       keywords etc. to search for a tender published on the CPP Portal.
+     2) Once the bidders have selected the tenders they are interested in, they may download the required
+       documents / tender schedules. These tenders can be moved to the respective ‘My Tenders’ folder.
+        This would enable the CPP Portal to intimate the bidders through SMS / e-mail in case there is any
+       corrigendum issued to the tender document.
+
+     3) The bidder should make a note of the unique Tender ID assigned to each tender, in case they want to
+        obtain any clarification / help from the Helpdesk.
+PREPARATION OF BIDS
+
+     1) Bidder should take into account any corrigendum published on the tender document before submitting
+         their bids.
+     2)  Please go through the tender advertisement and the tender document carefully to understand the
+       documents required to be submitted as part of the bid. Please note the number of covers in which the
+                                                 3
+
+        bid documents have to be submitted, the number of documents - including the names and content of
+       each of the document that need to be submitted. Any deviations from these may lead to rejection of
+        the bid.
+
+    3)  Bidder, in advance, should get ready the bid documents to be submitted as indicated in the tender
+       document / schedule and generally, they can be in PDF / XLS / RAR / DWF formats. Bid documents
+      may be scanned with 100 dpi with black and white option.
+
+    4) To avoid the time and effort required in uploading the same set of standard documents which are
+        required to be submitted as a part of every bid, a provision of uploading such standard documents
+          (e.g. PAN card copy, annual reports, auditor certificates etc.) has been provided to the bidders.
+        Bidders can use “My Space” area available to them to upload such documents. These documents may
+       be directly submitted from the “My Space” area while submitting a bid, and need not be uploaded
+        again and again. This will lead to a reduction in the time required for bid submission process.
+
+SUBMISSION OF BIDS
+    1) Bidder should log into the site well in advance for bid submission so that he/she upload the bid in
+        time i.e. on or before the bid submission time. Bidder will be responsible for any delay due to other
+         issues.
+    2) The bidder has to digitally sign and upload the required bid documents one by one as indicated in the
+        tender document.
+
+    3) Bidder has to select the payment option as “on-line” to pay the tender fee / EMD as applicable and
+        enter details of the instrument. Whenever, EMD / Tender fees is sought, bidders need to pay the
+        tender fee and EMD separately on-line through RTGS (Refer to Schedule, Page No.2).
+
+    4) A standard BoQ format has been provided with the tender document to be filled by all the bidders.
+        Bidders are requested to note that they should necessarily submit their financial bids in the format
+        provided and no other format is acceptable. Bidders are required to download the BoQ file, open it
+       and complete the white colored (unprotected) cells with their respective financial quotes and other
+         details (such as name of the bidder). No other cells should be changed. Once the details have been
+        completed, the bidder should save it and submit it online, without changing the filename. If the BoQ
+          file is found to be modified by the bidder, the bid will be rejected.
+     OR
+
+        In some cases Financial Bids can be submitted in PDF format as well (in lieu of BOQ).
+
+    5) The server time (which is displayed on the bidders’ dashboard) will be considered as the standard
+        time for referencing the deadlines for submission of the bids by the bidders, opening of bids etc. The
+        bidders should follow this time during bid submission.
+
+    6)  All the documents being submitted by the bidders would be encrypted using PKI encryption
+        techniques to ensure the secrecy of the data. The data entered cannot be viewed by unauthorized
+        persons until the time of bid opening. The confidentiality of the bids is maintained using the secured
+       Socket Layer 128 bit encryption technology. Data storage encryption of sensitive fields is done.
+    7) The uploaded tender documents become readable only after the tender opening by the authorized bid
+        openers.
+
+    8) Upon the successful and timely submission of bids, the portal will give a successful bid submission
+       message & a bid summary will be displayed with the bid no. and the date & time of submission of the
+        bid with all other relevant details.
+
+    9) Kindly add scanned PDF of all relevant documents in a single PDF file of compliance sheet.
+
+                                                 4
+
+ASSISTANCE TO BIDDERS
+
+     1) Any queries relating to the tender document and the terms and conditions contained therein should be
+        addressed to the Tender Inviting Authority for a tender or the relevant contact person indicated in the
+         tender.
+
+     2) Any queries relating to the process of online bid submission or queries relating to CPP Portal in
+        general may be directed to the 24x7 CPP Portal Helpdesk. The contact number for the helpdesk is
+       1800 233 7315.
+General Instructions to the Bidders
+
+    1)  The tenders will be received online through portal http://eprocure.gov.in/eprocure/app  . In the
+        Technical Bids, the bidders are required to upload all the documents in .pdf format.
+
+    2)  Possession of a Valid Class II/III Digital Signature Certificate (DSC) in the form of smart card/e-
+        token in the company's name is a prerequisite for registration and participating in the bid submission
+          activities through https://eprocure.gov.in/eprocure/app. Digital Signature Certificates can be obtained
+       from  the  authorized  certifying  agencies,  details  of  which  are  available  in  the web  site
+         https://eprocure.gov.in/eprocure/app under the link “Information about DSC”.
+
+    3)  Tenderer are advised to follow the instructions provided in the ‘Instructions to the Tenderer
+         for the e-submission of the bids online through the Central Public Procurement Portal for e
+        Procurement at https://eprocure.gov.in/eprocure/app .
+
+
+
+
+
+                                                 5
+
+                           Department of Electrical Engineering
+                                 Indian Institute of Technology
+                           Hauz Khas, New Delhi-110 016
+
+                     NOTICE INVITING QUOTATIONS
+                                                                                   Dated: 23/08/2017
+
+Subject: GPON System (OLT, GPON SFP, ONU with SFP, Fiber Connection Base Plate, Splitter
+
+Invitation for Tender Offers
+
+Indian Institute of Technology Delhi invites online Bids (Technical bid and Commercial bid) from eligible
+and experienced OEM (Original Equipment Manufacturer) OR OEM Authorized Dealer for <supply,
+installation & integration of GPON System (OLT, GPON SFP, ONU with SFP, Fiber Connection Base
+Plate, Splitter)> with (warranty period as stated at page #1 of this tender) on site comprehensive warranty
+from the date of receipt of the material as per terms & conditions specified in the tender document, which is
+available on CPP Portal http://eprocure.gov.in/eprocure/app
+
+
+TECHNICAL SPECIFICATION:
+
+     Product               Features                       General specifications
+
+1.   OLT        GPON Optical Line Terminal  GPON Interfaces: 4 GPON ports (SFP, SC PC Type support B+
+                                                             Optics)                          with 4 SFP ports
+                                                            Ethernet Interfaces for Up-Link:
+                                                   4 1000Base-X ports (SFP, SX/LX/ZX Type)
+                                                          Console: Ethernet console
+                                                    System memory
+                                                                  -greater or equal to 512MB DRAM
+                                                                             - greater or equal to 1GB Flash Memory
+                                                         Operating Temperature: -20°C to 60°C
+                                                            Store Temperature: -25°C to 65°C based on SMPS
+                                                         Operating Humidity: 5% to 95%
+                                                  Power Input: AC 220V 60Hz
+                                                     Complete remotely manageable EMS for monitoring
+                                                        Support B+ and C+ SFP
+                                                     Redundant Power Supply
+                                                                Traffic management and QoS functions  
+                                                        Support ITU-T G.984.3  standard  with  2.5 Gbps @ 1490nm
+                                                    downstream and 1.25Gbps @ 1310nm upstream  
+
+    2. GPON C+    GPON SFP transceiver         Reach 10/20km physical distance at 128:1 or 64:1 split  
+     SFP                                               Single   fiber   bi-directional   data   links   asymmetric  TX
+                                               2488Mbps/RX1244Mbps application  
+                                               1490nm continuous-mode DFB  laser  transmitter and 1310nm
+                                                        burst-mode APD-TIA receiver  
+                                                       Small Form Factor Pluggable package
+                                                     -20°C to 60°C operating temperature  
+                                                            Single 3.3V power supply  
+                                                                 Digital diagnostic monitoring interface  
+
+                                                 6
+
+                                                                 Digital burst RSSI function to monitor the input optical power
+                                                                  level
+                                        LVPECL compatible data input/output interface 
+                                        LVTTL transmitter disable control 
+                                        LVTTL transmitter laser fault alarm
+                                          Low EMI and excellent ESD protection
+                                                           Class I laser safety standard IEC-60825 compliant
+                                                          Standards
+                                                     Complies with ITU-T G.984.2 Amendment 1
+                                                       Compatible with Telcordia GR-468-CORE
+                                                        Connectors compatible with other systems
+    3. ONU with      Optical Network Unit with 4   4 User data (LAN) ports RJ-45 with 11n Wi-Fi & 1 Port USB 2.0  
+                                                                                                             SFP              user data rate ports [4G + 2V   Compliant with IEEE 802.3 Clause 40  (10/100/1000BASE-T)
+                    + Wi-Fi + USB]                                        LED indicators for link and activity  
+                                                            Auto-negotiating speed, duplex, MDI/MDIX  
+                                                End user management via web interface 
+                                  MTU size 1600 bytes
+                                                      Compliant with: -
+                                                  ITU-T G.984.1
+                                                  ITU-T G.984.2
+                                                  ITU-T G.984.3  
+                                                  ITU-T G.984.4, G.988 (OMCI)  
+                                                  ITU-T G.984.5  
+                                                      Compliant with Single mode fiber (ITU-T G.652 / G.657)
+                                                        Connectors compatible with other sub-systems
+                                                   20 km range  
+                                                           Class B+/C+ GPON optical transceiver  
+                                                      Data TX 1310 nm
+                                                      Data RX 1490 nm
+                                                      Data TX power 0.5 to +5 dBm
+                                                      Data RX power -8 to -28 dBm
+4.     Fiber            Fiber connection base plate       Providing connectivity for one fiber patch cord
+Connection Base
+Plate
+
+5.      Splitter       PLC based 1:8 power splitter     Port Configuration : 1X8
+(PLC splitter)                                           Fiber Type: Single Mode G.652/G.657 (cut-off wavelength 1200-
+                                               1250nm
+                                                            Fiber size: 9/125 µm
+                                                         Operating Wavelength (nm): 1260 to1650
+                                                                 Insertion Loss (dB): (Max : 10.5)
+                                                      Loss Uniformity (dB): (Max : 1.0)
+                                                        Return Loss (dB): ( Min : 55)
+                                                               Polarization Dependent Loss(dB): (Max: 0.3)
+                                                                 Directivity (dB): (Min:55)
+                                                     Wavelength Dependent Loss (dB): (Max: 0.3)
+                                                       Temperature Dependent Loss (-20 to 55) (dB) (Max: 0.5)
+                                                         Operating Temperature (°C) : -20 °C to +55 °C
+                                                        Connectors compatible with other systems
+
+                                                 7
+
+A complete set of tender documents* may be Download by prospective bidder free of cost from the website
+http://eprocure.gov.in/eprocure/app. Bidder has to make payment of requisite fees (i.e. Tender fees (if any)
+and EMD) online through RTGS/NEFT only.
+
+
+Terms & Conditions Details
+
+ Sl. No.   Specification
+ 1.      Due date: The tender has to be submitted on-line before the due date. The offers received after the
+          due date and time will not be considered. No manual bids will be considered.
+ 2.       Preparation of Bids: The offer/bid should be submitted in two bid systems (i.e.) Technical bid and
+            financial bid. The technical bid should consist of all technical details along with commercial terms
+          and conditions. Financial bid should indicate item wise price for the items mentioned in the
+           technical bid in the given format i.e Financial Bids to be submitted in PDF format.
+         The Technical bid and the financial bid should be submitted Online.
+ 3.    EMD (if applicable): The tenderer should submit an EMD amount through RTGS/NEFT. The
+          Technical Bid without EMD would be considered as UNRESPONSIVE and will not be accepted.
+         The EMD will be refunded without any interest to the unsuccessful bidders after the award of
+            contract. Refer to Schedule (at page 1 of this document) for its actual place of submission.
+ 4.       Refund of EMD: The EMD will be returned to unsuccessful Tenderer only after the Tenders are
+            finalized. In case of successful Tenderer,  it will be retained  till the successful and complete
+            installation of the equipment.
+ 5.       Opening of the tender: The online bid will be opened by a committee duly constituted for this
+           purpose. Online bids (complete in all respect) received along with EMD (if any) will be opened as
+          mentioned at “Annexure: Schedule” in presence of bidders representative if available. Only one
+           representative will be allowed to participate in the tender opening. Bid received without EMD (if
+           present)  will be rejected straight way. The technical bid will be opened online first and it will be
+         examined by a technical committee (as per specification and requirement). The financial offer/bid
+            will be opened only  for  the  offer/bid which  technically meets  all requirements as per the
+            specification, and will be opened in the presence of the vendor’s representatives subsequently for
+            further evaluation. The bidders if interested may participate on the tender opening Date and Time.
+         The bidder should produce authorization letter from their company to participate in the tender
+           opening.
+ 6.       Acceptance/ Rejection of bids: The Committee reserves the right to reject any or all offers without
+           assigning any reason.
+ 7.        Pre-qualification criteria:
+               (i)  Bidders should be the manufacturer / authorized dealer. Letter of Authorization from original
+          equipment manufacturer (OEM) on the same and specific to the tender should be enclosed.
+               (ii) An undertaking from the OEM is required stating that they would facilitate the bidder on a
+           regular basis with technology/product updates and extend support for the warranty as well. (Ref.
+          Annexure-II)
+               (iii) OEM should be internationally reputed Branded Company.
+             (iv) Non-compliance of tender terms, non-submission of required documents, lack of clarity of the
+            specifications, contradiction between bidder specification and supporting documents etc. may lead to
+            rejection of the bid.
+            (v) In the tender, either the Indian agent on behalf of the Principal/OEM or Principal/OEM itself can
+           bid but both cannot bid simultaneously for the same item/product in the same tender.
+             (vi) If an agent submits bid on behalf of the Principal/OEM, the same agent shall not submit a bid on
+           behalf of another Principal/OEM in the same tender for the same item/product.
+ 8.       Performance Security: The supplier shall require to submit the performance security in the form of
+
+                                                 8
+
+          irrevocable bank guarantee issued by any Indian Nationalized Bank for an amount which is stated at
+         page #1 of the tender document within 21 days from the date of receipt of the purchase order/LC and
+          should be kept valid for a period of 60 days beyond the date of completion of warranty period.
+9.       Force Majeure:  The Supplier shall not be liable for forfeiture of its performance security, liquidated
+         damages or termination for default, if and to the extent that, it’s delay in performance or other failure
+           to perform its obligations under the Contract is the result of an event of Force Majeure.
+          For purposes of this Clause, "Force Majeure" means an event beyond the control of the Supplier
+             and not involving the Supplier's fault or negligence and not foreseeable.  Such events may
+                include, but are not limited to, acts of the Purchaser either in its sovereign or contractual capacity,
+              wars or revolutions, fires, floods, epidemics, quarantine restrictions and freight embargoes.
+            If a Force Majeure situation arises, the Supplier shall promptly notify the Purchaser in writing of
+              such conditions and the cause thereof. Unless otherwise directed by the Purchaser in writing, the
+               Supplier shall continue to perform its obligations under the Contract as far as is reasonably
+                  practical, and shall seek all reasonable alternative means for performance not prevented by the
+              Force Majeure event.
+10.      Risk Purchase Clause: In event of failure of supply of the item/equipment within the stipulated
+          delivery schedule, the purchaser has all the right to purchase the item/equipment from the other
+          source on the total risk of the supplier under risk purchase clause.
+11.      Packing Instructions: Each package will be marked on three sides with proper paint/indelible ink, the
+          following:
+                    i.  Item Nomenclature
+                  ii.  Order/Contract No.
+                 iii.  Country of Origin of Goods
+              iv.  Supplier’s Name and Address
+             v.  Consignee details
+             vi.  Packing list reference number
+12.       Delivery and Documents:
+          Delivery of the goods should be made within a maximum of 08 to 16 weeks from the date of
+         placement of purchase order and the opening of LC. Within 24 hours of shipment, the supplier shall
+          notify the purchaser and the insurance company by cable/telex/fax/e mail the full details of the
+         shipment including contract number, railway receipt number/ AAP etc. and date, description of goods,
+           quantity, name of the consignee, invoice etc. The supplier shall mail the following documents to the
+          purchaser with a copy to the insurance company:
+            1.  4 Copies of the Supplier invoice showing contract number, goods' description, quantity
+            2.  unit price, total amount;
+            3.  Insurance Certificate if applicable;
+            4.  Manufacturer's/Supplier's warranty certificate;
+            5.  Inspection Certificate issued by the nominated inspection agency, if any
+            6.  Supplier’s factory inspection report; and
+            7.  Certificate of Origin (if possible by the beneficiary);
+            8. Two copies of the packing list identifying the contents of each package.
+            9.  The above documents should be received by the Purchaser before arrival of the Goods (except
+             where the Goods have been delivered directly to the Consignee with all documents) and, if not
+                received, the Supplier will be responsible for any consequent expenses.
+13.      Delayed delivery: If the delivery is not made within the due date for any reason, the Committee will
+         have the right to impose penalty 1% per week and the maximum deduction is 10% of the contract
+          value / price.
+14.       Prices: The price should be quoted in net per unit (after breakup) and must include all packing and
+          delivery charges. The offer/bid should be exclusive of taxes and duties, which will be paid by the
+
+                                                9
+
+          purchaser as applicable. However the percentage of taxes & duties shall be clearly indicated.
+        The price should be quoted without custom duty and excise duty, since IIT Delhi is exempted from
+         payment of Excise Duty and is eligible for concessional rate of custom duty. Necessary certificate
+           will be issued on demand.
+         In case of imports, the price should be quoted on FOB/FCA origin Airport Basis only. Under
+           special circumstances (eg. perishable chemicals), when the item is imported on CIF/CIP, please
+           indicate CIF/CIP charges separately upto IIT Delhi indicating the mode of shipment. IIT Delhi will
+        make necessary arrangements for the clearance of imported goods at the Airport/Seaport. Hence the
+           price should not include the above charges. At any circumstances, it is the responsibility of the
+          foreign supplier to handover the material to our forwarder at the origin airport after
+         completing all the inland clearing. No Ex- Works consignment will be entertained.
+          “In case of CIF/CIP shipments, kindly provide the shipment information at least 2 days in advance
+          before landing the shipment along with the documents i.e. invoice, packing list, forwarder Name,
+          address, contact No. in India to save penalty/demurrage charges (imposed by Indian Customs)  .
+         Otherwise these charges will be recovered from the supplier/Indian Agent.”
+15.       Notices: For the purpose of all notices, the following shall be the address of the Purchaser and
+           Supplier.
+         Purchaser: Dr. Abhishek Dixit, Optical Communications Lab, II-203, IIT Delhi
+                Indian Institute of Technology
+             Hauz Khas, New Delhi - 110016.
+
+          Supplier:  (To be filled in by the supplier)
+           (All supplier’s should submit its supplies information as per Annexure-II).
+         ______________________________________
+         ______________________________________
+
+16.       Progress of Supply: Wherever applicable, supplier shall regularly intimate progress of supply, in
+           writing, to the Purchaser as under:
+           1.  Quantity offered for inspection and date;
+           2.  Quantity accepted/rejected by inspecting agency and date;
+           3.  Quantity dispatched/delivered to consignees and date;
+           4.  Quantity where incidental services have been satisfactorily completed with date;
+           5.  Quantity  where   rectification/repair/replacement   effected/completed  on   receipt   of  any
+            communication from consignee/Purchaser with date;
+           6.  Date of completion of entire Contract including incidental services, if any; and
+           7.  Date of receipt of entire payments under the Contract (In case of stage-wise inspection, details
+              required may also be specified).
+17.       Inspection and Tests: Inspection and tests prior to shipment of Goods and at final acceptance are as
+           follows:
+            After the goods are manufactured and assembled, inspection and testing of the goods shall be
+              carried out at the supplier’s plant by the supplier, prior to shipment to check whether the goods are
+              in conformity with the technical specifications attached to the purchase order. Manufacturer’s test
+                certificate with data sheet shall be issued to this effect and submitted along with the delivery
+            documents. The purchaser shall be present at the supplier’s premises during such inspection and
+               testing if need is felt. The location where the inspection is required to be conducted should be
+               clearly indicated. The supplier shall inform the purchaser about the site preparation, if any, needed
+               for installation of the goods at the purchaser’s site at the time of submission of order acceptance.
+            The acceptance test will be conducted by the Purchaser, their consultant or other such person
+            nominated by the Purchaser at its option after the equipment is installed at purchaser’s site in the
+             presence of supplier’s representatives.  The acceptance will involve trouble free operation and
+
+                                               10
+
+              ascertaining conformity with the ordered specifications and quality. There shall not be any
+              additional charges for carrying out acceptance test. No malfunction, partial or complete failure of
+            any part of the equipment is expected to occur.  The Supplier shall maintain necessary log in
+              respect of the result of the test to establish to the entire satisfaction of the Purchaser, the successful
+             completion of the test specified.
+            In the event of the ordered item failing to pass the acceptance test, a period not exceeding one
+           weeks will be given to rectify the defects and clear the acceptance test, failing which the Purchaser
+              reserve the right to get the equipment replaced by the Supplier at no extra cost to the Purchaser.
+            Successful conduct and conclusion of the acceptance test for the installed goods and equipment
+               shall also be the responsibility and at the cost of the Supplier.
+18.       Resolution of Disputes: The dispute resolution mechanism to be applied pursuant shall be as follows:
+          In case of Dispute or difference arising between the Purchaser and a domestic supplier relating to any
+            matter arising out of or connected with this agreement, such disputes or difference shall be settled in
+           accordance with the Indian  Arbitration & Conciliation Act, 1996, the rules there under and any
+             statutory modifications or re-enactments thereof shall apply to the arbitration proceedings.  The
+            dispute shall be referred to the Director, Indian Institute of Technology (IIT) Delhi and if he is unable
+            or unwilling to act, to the sole arbitration of some other person appointed by him willing to act as
+           such Arbitrator. The award of the arbitrator so appointed shall be final, conclusive and binding on all
+             parties to this order.
+          In the case of a dispute between the purchaser and a Foreign Supplier, the dispute shall be settled by
+             arbitration in accordance with provision of sub-clause (a) above. But if this is not acceptable to the
+            supplier then the dispute shall be settled in accordance with provisions of UNCITRAL (United
+           Nations Commission on International Trade Law) Arbitration Rules.
+          The venue of the arbitration shall be the place from where the order is issued.
+19.       Applicable Law: The place of jurisdiction would be New Delhi (Delhi) INDIA.
+20.      Right to Use Defective Goods
+             If after delivery, acceptance and installation and within the guarantee and warranty period, the
+          operation or use of the goods proves to be unsatisfactory, the Purchaser shall have the right to continue
+           to operate or use such goods until rectifications of defects, errors or omissions by repair or by partial or
+         complete replacement is made without interfering with the Purchaser’s operation.
+21.       Supplier Integrity
+        The Supplier is responsible for and obliged to conduct all contracted activities in accordance with the
+          Contract using state of the art methods and economic principles and exercising all means available to
+          achieve the performance specified in the contract.
+22.      Training
+        The Supplier is required to provide training to the designated Purchaser’s technical and end user
+          personnel to enable them to effectively operate the total equipment.
+23.        Installation & Demonstration
+        The supplier is required to done the installation and demonstration of the equipment within one month
+          of the arrival of materials at the IITD site of installation, otherwise the penalty clause will be the same
+          as per the supply of materials.
+
+          In case of any mishappening/damage to equipment and supplies during the carriage of supplies from
+          the  origin  of equipment  to  the  installation  site,  the  supplier  has  to  replace  it  with new
+          equipment/supplies immediately at his own risk. Supplier will settle his claim with the insurance
+        company as per his convenience. IITD will not be liable to any type of losses in any form.
+24.       Insurance: For delivery of goods at the purchaser’s premises, the insurance shall be obtained by the
+           supplier in an amount equal to 110% of the value of the goods from "warehouse to warehouse" (final
+           destinations) on “All Risks" basis including War Risks and Strikes. The insurance shall be valid for a
+          period of not less than 3 months after installation and commissioning. In case of orders placed on
+                                               11
+
+       FOB/FCA basis, the purchaser shall arrange Insurance. If orders placed on CIF/CIP basis, the
+         insurance should be up to IIT Delhi.
+25.       Incidental services: The incidental services also include:
+         Furnishing of 01 set of detailed operations & maintenance manual.
+         Arranging the shifting/moving of the item to their location of final installation within IITD
+             premises at the cost of Supplier through their Indian representatives.
+26.      Warranty:
+              (i)  Warranty period shall be (as stated at page #2 of this tender) from date of installation of Goods at
+                the IITD site of installation. The Supplier shall, in addition, comply with the performance and/or
+              consumption guarantees specified under the contract.  If for reasons attributable to the Supplier,
+                these guarantees are not attained in whole or in part, the Supplier shall at its discretion make such
+               changes, modifications, and/or additions to the Goods or any part thereof as may be necessary in
+               order to attain the contractual guarantees specified in the Contract at its own cost and expense and
+                to carry out further performance tests. The warranty should be comprehensive on site.
+              (ii) The Purchaser shall promptly notify the Supplier in writing of any claims arising under this
+               warranty. Upon receipt of such notice, the Supplier shall immediately within in 02 days arrange
+                to repair or replace the defective goods or parts thereof free of cost at the ultimate destination.
+            The Supplier shall take over the replaced parts/goods at the time of their replacement. No claim
+              whatsoever shall lie on the Purchaser for the replaced parts/goods thereafter.  The period for
+                correction of defects in the warranty period is 02 days.  If the supplier having been notified fails
+                to remedy the defects within 02 days, the purchaser may proceed to take such remedial action as
+           may be necessary, at the supplier’s risk and expenses and without prejudice to any other rights,
+             which the purchaser may have against the supplier under the contract.
+              (iii) The warranty period should be clearly mentioned. The maintenance charges (AMC) under
+                different  schemes  after  the  expiry  of  the  warranty  should  also  be  mentioned. The
+             comprehensive   warranty   will  commence   from   the   date   of   the   satisfactory
+               installation/commissioning  of  the  equipment  against  the  defect  of  any  manufacturing,
+             workmanship and poor quality of the components.
+            (iv) After the warranty period  is  over, Annual Maintenance Contract (AMC)/Comprehensive
+             Maintenance Contract (CMC) up to next two years should be started. The AMC/CMC charges
+                will not be included in computing the total cost of the equipment.
+27.      Governing Language
+        The contract shall be written in English language. English language version of the Contract shall
+         govern its interpretation. All correspondence and other documents pertaining to the Contract, which
+           are exchanged by the parties, shall be written in the same language.
+28.       Applicable Law
+        The Contract shall be interpreted in accordance with the laws of the Union of India and all disputes
+           shall be subject to place of jurisdiction.
+29.       Notices
+             Any notice given by one party to the other pursuant to this contract/order shall be sent to the
+                 other party in writing or by cable, telex, FAX or e mail and confirmed in writing to the other
+                  party’s address.
+             A notice shall be effective when delivered or on the notice’s effective date, whichever is later.
+30.      Taxes
+          Suppliers shall be entirely responsible for all taxes, duties, license fees, octroi, road permits, etc.,
+          incurred until delivery of the contracted Goods to the Purchaser. However, VAT in respect of the
+           transaction between the Purchaser and the Supplier shall be payable extra, if so stipulated in the order.
+31.       Duties
+          IIT Delhi is exempted from paying custom duty under notification No.51/96 (partially or full) and
+
+                                               12
+
+           necessary “Custom Duty Exemption Certificate” can be issued after providing following information
+          and Custom Duty Exemption Certificate will be issued to the shipment in the name of the Institute, (no
+             certificate will be issued to third party): The procured product should be used for teaching, scientific
+          and research work only.
+            a) Shipping details i.e. Master Airway Bill No. and House Airway No. (if exists)
+           b) Forwarder details i.e. Name, Contact No., etc.
+
+           IIT Delhi is exempted from paying Excise Duty and necessary Excise Duty Exemption Certificate will
+          be provided for which following information are required.
+           b) Quotation with details of Basic Price, Rate, Tax & Amount on which ED is applicable
+            c) Supply Order Copy
+           d) Proforma-Invoice Copy.
+ 32.      Agency Commission: Agency commission if any will be paid to the Indian agent in Rupees on
+            receipt of the equipment and after satisfactory installation. Agency Commission will not be paid in
+           foreign currency under any circumstances. The details should be explicitly shown in Tender even in
+           case of Nil commission. The tenderer should indicate the percentage of agency commission to be
+           paid to the Indian agent.
+ 33.      Payment:
+               (i)  For imported items Payment will be made through irrevocable Letter of Credit (LC) Cash
+               Against Documents (CAD)/Against delivery/after satisfactory installation by T.T. Letter of
+                Credit (LC)  will be  established  in favour of  foreign Supplier  after  the submission of
+              performance security. The letter of credit (LC) will be established on the exchange rates as
+                applicable on the date of establishment. For Imports, LC will be opened for 100% FOB/CIF
+                 value. 80% of the LC amount shall be released on presentation of complete and clear shipping
+              documents and 20% of the LC amount shall be released after the installation and demonstration
+                of the equipment at the INST site of installation in faultless working condition for period of 60
+               days from the date of the satisfactory installation and subject to the production of unconditional
+               performance bank guarantee as specified in Clause 8 of tender terms and conditions.
+               (ii)  For Indigenous supplies, 100% payment shall be made by the Purchaser against delivery,
+                 inspection, successful installation, commissioning and acceptance of the equipment at IITD in
+             good condition and to the entire satisfaction of the Purchaser and on production of unconditional
+               performance bank guarantee as specified in Clause 9 of tender terms and conditions.
+               (iii) Indian Agency commission (IAC),  if any  shall be paid  after  satisfactory  installation &
+              commissioning of the goods at the destination at the exchange rate prevailing on the date of
+                negotiation of LC documents, subject to DGS&D registration for restricted items.
+             (iv) All the bank charges within India will be borne by the Institute and outside India will be borne
+             by the Supplier.
+ 34.      User  list: Brochure  detailing technical  specifications and performance,  list of  industrial and
+           educational establishments where the items enquired have been supplied must be provided. (Ref.
+           Annexure-III)
+ 35.      Manuals and Drawings
+               (i)   Before the goods and equipment are taken over by the Purchaser, the Supplier shall supply
+                operation and maintenance manuals. These shall be in such details as will enable the Purchaser to
+                 operate, maintain, adjust and repair all parts of the works as stated in the specifications.
+               (ii)  The Manuals shall be in the ruling language (English) in such form and numbers as stated in the
+                  contract.
+                (iii) Unless and otherwise agreed, the goods equipment shall not be considered to be completed for the
+                purposes of taking over until such manuals and drawing have been supplied to the Purchaser.
+36.       Application  Specialist: The  Tenderer  should  mention  in  the Techno-Commercial  bid  the
+            availability and names of Application Specialist and Service Engineers in the nearest regional office.
+
+                                                13
+
+           (Ref. to Annexure-III)
+37.        Site Preparation: The supplier shall inform to the Institute about the site preparation, if any, needed
+            for the installation of equipment, immediately after the receipt of the purchase order. The supplier
+         must provide complete details regarding space and all the other infrastructural requirements needed
+            for the equipment, which the Institute should arrange before the arrival of the equipment to ensure
+              its timely installation and smooth operation thereafter.
+         The supplier shall visit the Institute and see the site where the equipment is to be installed and may
+            offer his advice and render assistance to the Institute in the preparation of the site and other pre-
+            installation requirements.
+38.       Spare Parts
+         The Supplier may be required to provide any or all of the following materials, notifications, and
+           information pertaining to spare parts manufactured or distributed by the Supplier:
+                   ii.  Such spare parts as the Purchaser may elect to purchase from the Supplier, providing that this
+                 election shall not relieve the Supplier of any warranty obligations under the Contract; and
+                  iii.  In the event of termination of production of the spare parts:
+              iv. Advance notification to the Purchaser of the pending termination, in sufficient time to permit the
+               Purchaser to procure needed requirements; and
+              v.  Following such termination, furnishing at no cost to the Purchaser, the blueprints, drawings and
+                 specifications of the spare parts, if requested.
+           Supplier shall carry sufficient inventories to assure ex-stock supply of consumable spares for the
+          Goods, such as gaskets, plugs, washers, belts etc. Other spare parts and components shall be supplied
+           as promptly as possible but in any case within six months of placement of order.
+39.        Defective Equipment: If any of the equipment supplied by the Tenderer is found to be substandard,
+           refurbished, un-merchantable or not in accordance with the description/specification or otherwise
+            faulty, the committee will have the right to reject the equipment or its part. The prices of such
+          equipment shall be refunded by the Tenderer with 18% interest if such payments for such equipment
+          have already been made. All damaged or unapproved goods shall be returned at suppliers cost and
+            risk and the incidental expenses incurred thereon shall be recovered from the supplier. Defective part
+            in equipment, if found before installation and/or during warranty period, shall be replaced within 45
+          days on receipt of the intimation from this office at the cost and risk of supplier including all other
+           charges. In case supplier fails to replace above item as per above terms & conditions, IIT Delhi may
+           consider "Banning" the supplier.
+40.       Termination for Default
+         The Purchaser may, without prejudice to any other remedy for breach of contract, by written notice of
+            default sent to the Supplier, terminate the Contract in whole or part:
+                       i.  If the Supplier fails to deliver any or all of the Goods within the period(s) specified in the order,
+                  or within any extension thereof granted by the Purchaser; or
+                      ii  If the Supplier fails to perform any other obligation(s) under the Contract.
+                      iii If the Supplier, in the judgment of the Purchaser has engaged in corrupt or fraudulent practices
+                   in competing for or in executing the Contract.
+          For the purpose of this Clause:
+                         i.   “Corrupt practice” means the offering, giving, receiving or soliciting of anything of value
+                           to influence the action of a public official in the procurement process or in contract
+                          execution.
+                       ii.   “Fraudulent  practice” means a  misrepresentation  of  facts  in  order  to  influence a
+                       procurement process or the execution of a contract to the detriment of the Borrower,
+                      and includes collusive practice among Bidders (prior to or after bid submission)
+                        designed to establish bid prices at artificial non-competitive levels and to deprive the
+                      Borrower of the benefits of free and open competition;’”
+
+
+                                                14
+
+          In the event the Purchaser terminates the Contract in whole or in part, the Purchaser may procure,
+             upon such terms and in such manner, as it deems appropriate, Goods or Services similar to those
+                undelivered, and the Supplier shall be liable to the Purchaser for any excess costs for such similar
+            Goods or Services. However, the Supplier shall continue the performance of the Contract to the
+                extent not terminated.
+41.        Shifting: After 1-2 years once our new Academic Block will be ready, the supplier has to shift and
+             reinstall the instrument free of cost (if required).
+42.      Downtime: During the warranty period not more than 5% downtime will be permissible. For every
+         day exceeding permissible downtime, penalty of 1/365 of the 5% FOB value will be imposed.
+         Downtime will be counted from the date and time of the filing of complaint with in the business
+           hours.
+43.       Training of Personnel: The supplier shall be required to undertake to provide the technical training
+            to the personnel involved in the use of the equipment at the Institute premises, immediately after
+          completing the installation of the equipment for a minimum period of one week at the supplier’s
+            cost.
+44.       Disputes and Jurisdiction: Any legal disputes arising out of any breach of contract pertaining to
+             this tender shall be settled in the court of competent jurisdiction located within New Delhi.
+45.      Compliancy certificate: This certificate must be provided indicating conformity to the technical
+            specifications. (Annexure-I)
+
+
+
+
+
+                                                15
+
+                                                           ANNEXURE-I
+
+                        COMPLIANCE SHEET
+
+TECHNICAL SPECIFICATION
+
+    Product                               Specifications                         Compliance
+                                                                    Y/N
+    1. OLT            GPON Interfaces: 4 GPON ports (SFP, SC PC Type support
+     (ATLAS-          B+ Optics)
+     OLT-
+                                   Ethernet Interfaces for Up-Link:
+      1000A)                             4 1000Base-X ports (SFP, SX/LX/ZX Type)
+                                 Console: Ethernet console
+                              System memory
+                                            - 512MB DRAM
+                                            - 1GB Flash Memory
+                              Dimension (H x W x D): 66mm x 440mm x 195mm
+                                Weight: 3.85Kg
+                                 Operating Temperature: -20°C - 60°C
+                                   Store Temperature: -25°C - 65°C based on SMPS
+                                 Operating Humidity: 5% - 95%
+                             Power Input: AC 110V/220V 60Hz
+                             Power Output: DC 12V@4A
+                             Power Consumption: Max. 42W
+    2. ONU (GPON C+      Single  fiber  bi-directional  data  links  asymmetric TX
+      Fiber SFP)          2488Mbps/RX1244Mbps application
+                           1490nm continuous-mode DFB laser transmitter and 1310nm
+                                burst-mode APD-TIA receiver
+                                Small  Form  Factor  Pluggable  package  with SC/UPC
+                                Connector
+                                 -40 to 85°C operating temperature
+                                  Single 3.3V power supply
+                                     Digital diagnostic monitoring interface
+                                  Distance Support: 20 Km
+    3. G1030 +T-24         Power supply voltage 12 Vdc ± 5%
+                             Power consumption typ. 3W
+                                          incl. Live! Titanium typ. 13W
+                                 with CATV typ. 5W
+                                          incl. Live! Titanium typ. 15W
+                                          • Operating condition 0 - 40 °C
+                        10% - 80% relative humidity non condensing
+                                  Storage condition 0 - 70 °C
+                        10% - 95% relative humidity non condensing
+    4.  Fiber Connection    Dimensions (H x W x D) 210x105x32mm
+      Base Plate           –– incl. Element and Live! 241x104x62mm
+                              Weight 65 g(Universe 101)
+                                 Operating temperature 0 - 70 °C
+                                  Storage temperature 0 - 70 °C
+    5.  Splitter                 Port Configuration : 1X8
+     (PLC                    Fiber Type: SMF-28e or customer specified
+                                 Operating Wavelength (nm): 1260 to1650        splitter)
+                                     Insertion Loss (dB): (Typical: 10.2 and Max : 10.5)
+                               Loss Uniformity (dB): (Max : 1.0)
+                                Return Loss (dB): ( Min : 55)
+                                    Polarization Dependent Loss(dB): (Max: 0.3)
+                                     Directivity (dB): (Min:55)
+                              Wavelength Dependent Loss(dB): (Max: 0.3)
+                                                16
+
+                                Temperature Dependent Loss (-40 to 85) (dB) (Max: 0.5)
+                                 Operating Temperature (°C) : -40 °C to +85 °C
+                                  Storage Temperature (°C) : -40 °C to +85 °C
+
+I have also enclosed all relevant documents in support of my claims, (as above) in the following pages.
+
+
+                                                                          Signature of Bidder
+
+                                              Name: ___________________________
+
+                                                        Designation: _______________________
+
+                                           Organization Name: __________________________
+
+                                               Contact No. : ____________________________
+
+
+
+
+
+                                                17
+
+                                                                ANNEXURE-II
+                            << Organization Letter Head >>
+                          DECLARATION SHEET
+
+We, _______________________________________ hereby certify that all the information and data furnished by
+our organization with regard to this tender specification are true and complete to the best of our knowledge. I have
+gone through the specification, conditions and stipulations in details and agree to comply with the requirements
+and intent of specification.
+This is certified that our organization has been authorized (Copy attached) by the OEM to participate in Tender.
+We further certified that our organization meets all the conditions of eligibility criteria laid down in this tender
+document. Moreover, OEM has agreed to support on regular basis with technology / product updates and extend
+support for the warranty.
+The prices quoted in the financial bids are subsidized due to academic discount given to IIT Delhi.
+
+We,   further   specifically   certify   that  our NAME & ADDRESS OF
+organization  has  not  been  Black  Listed/De THE Vendor/ Manufacturer / Agent
+Listed or put to any Holiday by any Institutional
+Agency/  Govt.  Department/  Public  Sector
+Undertaking in the last three years.
+1 Phone
+
+2 Fax
+
+3 E-mail
+
+4 Contact Person Name
+
+5 Mobile Number
+
+6 TIN Number
+
+7 PAN Number
+
+(In case of on-line payment of Tender Fees)
+
+8 UTR No. (For Tender Fee)
+(In case of on-line payment of EMD)
+
+9 UTR No. (For EMD)
+10 Kindly provide bank details of the
+bidder in the following format:
+a) Name of the Bank
+
+b) Account Number
+
+c) Kindly attach scanned copy of one
+Cheque book page to enable us to return
+the EMD to unsuccessful bidder
+
+
+                                                                    (Signature of the Tenderer)
+
+                                                  Name:
+
+                                                                            Seal of the Company
+
+
+
+                                                18
+
+                                                                         Annexure-III
+
+                                List of Govt. Organization/Deptt.
+
+List of Government Organizations for whom the Bidder has undertaken such work during last three
+years (must be supported with work orders)
+Name of the organization                    Name of Contact Person      Contact No.
+
+
+
+
+
+Name of application specialist / Service Engineer who have the technical competency to handle and
+support the quoted product during the warranty period.
+Name of the organization                    Name of Contact Person      Contact No.
+
+
+
+
+
+                                                                                  Signature of Bidder
+
+                                                    Name: ___________________________
+
+                                                                 Designation: _______________________
+
+                                                   Organization Name: __________________________
+
+                                                      Contact No. : ____________________________
+
+                                                19
+
+                                  Bid Submission
+
+Online Bid Submission:
+
+The Online bids (complete in all respect) must be uploaded online in two Envelops as explained below:-
+
+                          Envelope – 1
+              (Following documents to be provided as single PDF file)
+
+Sl. No.     Documents                        Content                            File Types
+   1.       Technical Bid   Compliance Sheet as per Annexure - I                .PDF
+   2.                        Organization Declaration Sheet as per Annexure - II     .PDF
+   3.                                                                 .PDF                                List of organizations/ clients where the same products
+                          have been supplied (in last two years) along with their
+                              contact number(s). (Annexure-III)
+   4.                                                                 .PDF                            Technical supporting documents in support of all claims
+                       made at Annexure-I (Annexure-IV)
+                              Envelope – 2
+Sl. No.  TYPES                                Content
+   1.        Financial Bid     Price bid should be submitted in PDF format.           .PDF
+
+
+
+
+
+                                                20
+
+                                          <Department/Centre Name>
+                                        Indian Institute of Technology Delhi
+                                    Hauz Khas, New Delhi-110016
+                                                                                            Date: XX/XX/XXXX
+    Subject: Purchase of <Item> (Following format is used for indigenous items)
+S.      Description and Specification of the  Qty. in Units   Unit Price in Rs.       GST%             Total Price in Rs.
+No.    Item
+1.    OLT
+
+                                     1
+
+
+2.     Power Splitter (1*8)             6
+
+
+3.    ONU with SFP                 4
+
+4.    GPON C+ SFP                 4
+
+5.      Fiber connection base plate     1
+
+     Note: The above financial template should be strictly followed. Any deviation from the above template (in terms of description and
+     specification of the item) may lead to cancellation of the tender.
+
+
+
+
+
+                                                                        21

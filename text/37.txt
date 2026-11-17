@@ -1,0 +1,3027 @@
+                    INVITATION TO BID
+
+
+    Fraud alert! It is common for scammers to call bidders pretending to be NRF’s employees and offering to swing tenders
+     your way for a fee.
+
+    Do not fall for it, it is a scam!
+
+    The NRF would never offer payment or any other consideration in return for the favourable consideration of a bid.
+
+     Please report any suspected acts of fraud or corruption to the following toll-free number - 0800 701 701 or SMS 39772.
+
+
+
+
+                          BID DESCRIPTION
+
+Appointment of a service provider for a network security infrastructure refresh. This includes the
+replacement of seven firewalls, complete with 5-year hardware support.
+
+ Bidder Name:
+
+
+ Bid Number:          NRF/SAEON/Ulwazi /37/2025-26
+ Compulsory Briefing    16 September 2025
+ Session                 11:00
+                                 Virtual via Google Meet Link Below:
+                          https://meet.google.com/xap-bqrn-kqr?authuser=0&hs=122
+  Validity Period         90 Days
+ Closing Date          30 September 2025
+ Closing Time:          11:00 AM
+                 NO LATE BIDS WILL BE ACCEPTED
+ Bid documents are       www.saeon.nrf.ac.za ; www.nrf.ac.za ; www.etenders.gov.za
+ available
+ on the following
+ websites
+ Electronic Bid
+ Submission               Bid application via the National Treasury e-submission. Below is link
+ Email Address          and instructions for the application process:
+                                 https: //www.etenders.gov.za
+
+ Bids Labelling             Split documents into:
+                                1. Technical Proposal
+                                2. Pricing Schedule (only the SBD3.1 form)
+ Enquiries are directed in writing to:
+ Section                Supply Chain Management
+ Contact person          Irene Matsimela
+ Email address           tenders@saeon.nrf.ac.za
+
+            TABLE OF CONTENTS
+
+INTRODUCTION AND BID METHODOLOGY ............................................................................................. 3
+ INTRODUCTION TO THE NRF ..................................................................................................................3
+ BACKGROUND TO SAEON ......................................................................................................................3
+ THE NEED FOR THIS PROCUREMENT WITHIN SAEON ........................................................................3
+ THE BID PREPARATION ...........................................................................................................................4
+ THE BIDDER SELECTION METHOD ........................................................................................................5
+CONTRACT PART A – REQUIREMENTS ................................................................................................... 7
+ CONTRACT OBJECTIVE ...........................................................................................................................7
+ COST-EFFECTIVENESS AND FLEXIBILITY ............................................................................................7
+ INTERDEPENDENCIES TO OTHER SYSTEMS ........................................................................................8
+ SERVICES SPECIFICATION .....................................................................................................................8
+ REQUIREMENTS OF THE INITIAL IMPLEMENTATION ...........................................................................8
+     Current Firewalls due for refresh                                                       8
+
+ NEW FIREWALL REQUIRMENTS .............................................................................................................9
+ EXTRA REQUIRMENTS .......................................................................................................................... 11
+ INSTALLATION: ....................................................................................................................................... 14
+ DELIVERY ADDRESSES: ........................................................................................................................ 15
+ BIDDER QUALIFICATION TO PERFORM THE CONTRACT ................................................................. 16
+ CONTRACT PERIOD ............................................................................................................................... 17
+ CONTRACT MANAGEMENT ................................................................................................................... 17
+ GENERAL AND SPECIAL CONDITIONS OF CONTRACT ..................................................................... 20
+ EVALUATION CRITERIA FOR THE BID ................................................................................................. 35
+CONTRACT PART B – SBD 3.1 PRICING ................................................................................................ 38
+ SPECIAL PRICING CONDITIONS TO GCC17 FOR THIS BID ................................................................ 38
+  BID PRICE SCHEDULE (SBD 3.1) .......................................................................................................... 40
+CONTRACT PART C - RETURNS ............................................................................................................. 41
+ BIDDER’S DISCLOSURE SBD 4 ............................................................................................................. 43
+ STANDARD BIDDING DOCUMENT (SBD 6.1) ....................................................................................... 47
+ ANNEXURES – ATTACHED AT END OF DOCUMENT .......................................................................... 54
+ ANNEXURE 1 – REFERENCE LETTER FORMAT FOR BIDDER ........................................................... 55
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 2 of 66                   Ver. Product/Services 2019-4GS YEM
+
+INTRODUCTION AND BID METHODOLOGY
+
+
+             INTRODUCTION TO THE NRF
+
+The National Research Foundation Act as amended, Act 19 of 2018, establishes the National Research
+Foundation (“NRF”) as the juristic legal entity that will contract with the awarded bidder. Please visit the NRF
+website (https://www.nrf.ac.za ) for more information.
+
+
+            BACKGROUND TO SAEON
+
+The South African Environmental Observation Network (SAEON) is a long-term environmental research facility
+of the National Research Foundation, established in 2002 to deliver coordinated, nationwide ecological
+monitoring in the wake of the 2002 World Summit on Sustainable Development. Core-funded by the Department
+of Science and Innovation, SAEON comprises seven geographically dispersed research nodes and a national
+office that together span South Africa’s major terrestrial, coastal and marine biomes. Through these nodes it
+maintains sustained, question-driven observation systems—ranging from savanna flux towers to offshore
+oceanographic moorings—designed to generate multi-decadal datasets on environmental change. SAEON’s
+work is organised around three complementary pillars: environmental observation, open data management, and
+education/outreach, ensuring that the knowledge  it produces informs both scientific discovery and evidence-
+based policy.
+
+
+   THE NEED FOR THIS PROCUREMENT WITHIN SAEON
+
+SAEON’s  current FortiGate  firewalls  will reach End-of-Life and End-of-Support  in 2026, exposing the
+organisation to escalating cyber-security and compliance risks if they are not replaced. To maintain a secure,
+resilient perimeter and align with industry best practice, SAEON must refresh these appliances through a trade-
+up programme to next-generation firewalls. The refresh will also incorporate a central management platform to
+enable unified policy administration and reporting across all sites, and advanced AI-driven analytics to accelerate
+log correlation, threat detection, and incident response. Procuring these integrated capabilities now will ensure
+business continuity, reduce operational overheads, and safeguard SAEON’s scientific data assets
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 3 of 66                   Ver. Product/Services 2019-4GS YEM
+
+              THE BID PREPARATION
+
+ Clarification
+  If the respondent wishes to  clarify aspects of  this request or the acquisition process, they write to the SAEON
+  representative(s) listed on the cover page of this bid document under the enquiries section.
+
+ SAEON provides a response (including an explanation of the query, but without identifying the source of the query) to all
+ prospective, identifiable bidders who have registered at the above email address within 2 working days of receipt of the
+ query. SAEON may publish the clarification notes under the published bid on the respective electronic sites. SAEON does
+ not provide the origin of the request to any party.
+
+ Response preparation costs
+ SAEON is not liable for any costs incurred by a bidder in the process of responding to this invitation, including on-site
+ presentations.
+
+ Counter proposals
+ No counter proposals or variations are accepted.
+
+
+ Electronic submission through National Treasury e-tender portal
+
+ Link : https: //www.etenders.gov.za
+
+ NB: Bidders may be disqualified if they do not follow the instruction and attach the relevant documents when
+ submitting electronically through the e-tender portal. Bidders who wish to access the bid for application must
+  first register on the e-portal.
+
+
+ Central Supplier Database registration
+ The NRF, as the legal entity, is allowed legally to contract with suppliers/service providers registered on the National
+ Treasury’s Central Supplier Database (CSD). The bidders must include their Master Registration Number (Supplier
+ Number) from the CSD in their submissions. SAEON utilises the bidders’ Master Registration Number to conduct due
+  diligence (registration, directors, and tax compliance) through the Central Supplier Database in conjunction with the bidders’
+ submitted SBD 1 (pages to as part of the due diligence pre-award process.
+
+ Collusion, fraud and corruption
+ Any effort by the bidder to influence evaluation, comparisons, or award decisions in any manner will result in the rejection
+ and disqualification of the bidder concerned.
+
+ Fronting (Hiding Beneficial Ownership)
+
+ NRF condemns any form of fronting/hidden beneficial ownership especially where defeating real empowerment through not
+ conducting themselves in accordance with the Constitution and in an honest, fair, equitable, transparent, and legally
+ compliant manner. SAEON’s evaluation committee will conduct or initiate enquiries to determine the accuracy of bidders’
+ representations. Should SAEON suspect any form of fronting, the respective bidder is given 7 days from date of notification
+  to provide evidence that such fronting does not exist. SAEON, upon confirmation of fronting, will invalidate the bid or any
+ contracts entered into with the bidder, apply for the bidder to be restricted from conducting business with the public sector
+  for a period not exceeding 10 years, and exercise any other remedies SAEON may have against such a bidder.
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 4 of 66                   Ver. Product/Services 2019-4GS YEM
+
+ Disclaimers
+ The NRF has produced this document in good faith. The NRF, its agents, its employees and associates do not warrant its
+ accuracy or completeness; make no representation, warranty, assurance, guarantee, or endorsements to any third parties
+ concerning the document. The NRF has no liability towards the bidders in connection therewith.
+
+ Bidders are responsible for their own preparation due diligence.
+
+ General definitions
+ “Bid” means a written offer in a prescribed or stipulated form in response to an invitation by the National Research
+ Foundation for the provision of goods or services, through price quotations, advertised competitive bidding processes or
+ proposals;
+
+ “Specific Goals” means the specific social-economic goals set for this bid in terms of PPPFA section 2(1d and 1e) for
+ which preference points are claimed on the SBD 6.1 Preference Claim form;
+
+ “Broad-Based Black Economic Empowerment Act” means the Broad-Based Black Economic Empowerment
+  Act, 2003 (Act No. 53 of 2003);
+
+ “Contract” means the entire bid document inclusive of scope of work, specification, price conditions, price quote table,
+ service delivery conditions, performance conditions with their key performance indicators, and general conditions when
+ attached to the Standard Bidding Document 7 (SBD 7.2) which has been signed by the awarded bidder and the National
+ Research Foundation;
+
+ “Equipment” means the operational unit including spares, replacement components, consumables, sub-systems,
+ firmware, and software that delivers the specified output.
+
+ “NRF” means the National Research Foundation and it is used interchangeable with its business units managing the
+ contract being South African Environmental Observation Network (SAEON)
+
+
+          THE BIDDER SELECTION METHOD
+
+ Stage 1 – Verification of the ability of a bidder to provide the contract output in accordance with
+ specifications and conditions as set out in the bid documents to enter the price competition.
+ Responsive to submission requirements
+
+ Bids that do not meet all the submission requirements in the bid document are a non-responsive bid that is disqualified.
+
+ Meeting technical specifications
+
+ Bids that do not meet the minimum technical specifications with their thresholds in the bid document are disqualified.
+
+ Due Diligence
+
+ Bids that fail due diligence are disqualified i.e. contacting the references to verify truthfulness of the given references, tax
+ compliant, and may conduct interviews with bidders to clarify their bid submission.
+
+ Stage 2 – Pricing Evaluation
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 5 of 66                   Ver. Product/Services 2019-4GS YEM
+
+ SAEON’s evaluation committee evaluates only qualifying bidders’ price offers. SAEON’s evaluation committee compares
+ each bidder’s price offer on an equal and fair comparison basis equitable to all bidders, taking into account all aspects of
+ the bid’s pricing requirements. SAEON’s evaluation committee ranks the qualifying bids on price points scored in
+ accordance with the PPPFA formula - with the lowest priced bid receiving the highest price score.
+
+ SAEON has selected the 80:20 points Price: Preference framework.
+
+ SAEON’s evaluation committee verifies validity of the preference points claimed for societal goals in terms of PPPFA section
+ 2(1e) set out in the SBD6.1 and where verified, add these points to the price ranking points of the bid.
+
+ Stage 3 – Award and Contract Signing
+ SAEON’s evaluation committee recommends to the NRF’s Bid Adjudication Committee the bidder for subsequent approval
+ by the Delegated Authority for signing the contract subject to the final verification of the bidder’s tax status as set out in the
+ SBD 1 through the CSD.
+
+ Cancellation of the bid prior to award
+ NRF reserves the right to cancel this bid invitation prior to making an award where:
+
+      1)  Due to changed circumstances, there is no longer a need for this procurement, or
+
+      2)  No bids meet the required specifications, or
+
+      3)  The bidding procedure listed in this bid document contravenes the Promotion of Administrative Justice Act, Act 3
+            of 2000; or
+
+      4)  Where the price is too low/high in comparison to the market price range determined by SAEON or the budget
+           allocated by SAEON to this procurement.
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 6 of 66                   Ver. Product/Services 2019-4GS YEM
+
+   CONTRACT PART A – REQUIREMENTS
+
+
+             CONTRACT OBJECTIVE
+ The primary objective of this contract is to engage a qualified supplier for the comprehensive supply,
+ configuration, delivery, and commissioning of a modern, enterprise-grade network security solution. This
+  initiative will be executed through a trade-in or equivalent technology refresh program to replace all of
+ SAEON's existing perimeter firewalls before their scheduled end-of-support date in mid-2026. This timely
+ replacement  is  critical  to ensuring  operational  continuity,  mitigating  security  risks associated  with
+ unsupported hardware, and establishing a secure, resilient, and scalable foundation to protect SAEON's
+  critical research infrastructure.
+
+ The new solution must include an integrated central management platform that provides unified security
+ policy enforcement, monitoring, and reporting across all SAEON sites. A key requirement is the incorporation
+  of built-in AI capabilities, including an engine for advanced configuration analysis to optimise policies and
+ AI-assisted log analytics to accelerate threat detection, correlation, and response. This Log analysis AI
+  functionality must be compatible  with SAEON's  current  log analysis software  (FortiAnalyzer). The
+ engagement will culminate in securing a minimum five-year contract for comprehensive vendor support,
+ covering all necessary software updates, feature upgrades, and ongoing technical assistance to guarantee
+ the long-term security and integrity of the network.
+
+        COST-EFFECTIVENESS AND FLEXIBILITY
+
+ The proposed solution must balance up-front value with long-term savings by leveraging trade-in credits,
+ scalable licensing, and unified management to reduce capital and operational expenditure. Modular
+ appliance models and subscription tiers should allow SAEON to right-size capacity per site and adapt
+ security functions as threats evolve, while open integration points enable future add-ons without costly
+ hardware swaps. This flexible, lifecycle-conscious approach ensures sustainable protection within budget
+ constraints.
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 7 of 66                   Ver. Product/Services 2019-4GS YEM
+
+       INTERDEPENDENCIES TO OTHER SYSTEMS
+
+ The replacement firewalls must accept direct migration of existing configurations—including security
+  policies, object databases, VPN tunnels, and IPS profiles—from the retiring devices to avoid service
+  disruption. They must also  retain  full log-export and  analytics  compatibility with SAEON’s current
+ FortiAnalyzer environment, ensuring that historical reporting, dashboards, and compliance workflows
+ remain intact. In addition, the new platform must integrate seamlessly with FortiEMS for centralised endpoint
+ management and with deployed FortiClient agents to preserve posture checks, ZTNA enforcement, and
+ automated response playbooks. Successful delivery therefore hinges on proven interoperability across
+ these systems and on tooling that simplifies configuration transfer while maintaining continuity of all security
+ and monitoring functions.
+
+             SERVICES SPECIFICATION
+
+ The appointed supplier shall deliver and commission next-generation firewall appliances, each protected by
+ a  five-year advanced  hardware-replacement  warranty and a  five-year  all-inclusive  security-fabric
+ subscription (intrusion prevention, web filtering, application control, DNS security, SD-WAN optimisation and
+  threat-intelligence updates). A central management platform licensed for ten devices must be supplied for
+  five years, including AI for configuration management, alongside a two-year subscription to an AI-driven log-
+ analytics module that ingests firewall telemetry and produces actionable threat insights. Vendor-approved
+ migration tooling will be used to transfer all existing firewall configurations—policies, objects, VPNs, routing,
+ authentication, etc.—with pre-migration audits and post-migration validation. The scope includes hardware
+  logistics, on-site delivery, rack-and-stack, software installation, cut-over planning, configuration migration,
+ acceptance  testing, and handover documentation,  with 24/7 vendor-backed  technical support and
+ firmware/patch management for the duration of each licence and warranty term.
+
+    REQUIREMENTS OF THE INITIAL IMPLEMENTATION
+
+           CURRENT FIREWALLS DUE FOR REFRESH
+
+ Access to confidential information regarding the current firewall infrastructure, which includes but
+  is not limited to device specifications, configurations, and serial numbers, is strictly conditional.
+ All prospective bidders are required to complete and sign the Non-Disclosure Agreement (NDA),
+ the full terms of which are provided in Annexure 2 (pages 55 – 65). The duly executed NDA must be
+ submitted via email to Tenders@saeon.nrf.ac.za.
+
+ Submission of this agreement is a mandatory prerequisite for attendance at the briefing session,
+ where these confidential details will be disclosed. Please be advised that failure to submit a
+ completed NDA to the specified email address in advance will result in immediate disqualification
+ from attending the mandatory briefing session.
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 8 of 66                   Ver. Product/Services 2019-4GS YEM
+
+         NEW FIREWALL REQUIREMENTS
+
+  Specifications for trade up of 4x FortiGate 60E
+
+  Category     Minimum Requirement (must meet or exceed)
+                ●   Layer-3 firewall throughput ≥ 5 Gbps
+                ●  IPS throughput ≥ 2.25 Gbps; NGFW throughput ≥ 1.25 Gbps; full
+                          UTM/threat-protection throughput ≥ 1.1 Gbps
+  Performance      ●  IPsec VPN throughput (AES-256) ≥ 4.5 Gbps
+  Interfaces        ●  ≥ 5 × GE RJ-45 ports
+                ●   Integrated routing, stateful firewall, IPS, anti-malware, web/DNS filtering,
+  Security &               application & device control, SD-WAN, and basic zero-trust/ZTNA functions
+  Features                out-of-box
+                ●   Five-year “unified threat management” (UTM) or equivalent security-service
+                        bundle covering all features above, plus 24 × 7 vendor technical support
+  Licensing &          and firmware/IPS/AV signature updates
+  Support         ●   Five-year advanced hardware-replacement warranty
+                ●   Aridlands - Kimberly
+                ●  Grasslands - Pietermaritzburg
+                ●  Fynbos Cape Town
+  Locations        ●  Egagasini - Cape Town
+
+
+
+  Specifications for trade up of 2x FortiGate 500E
+
+  Category     Minimum Requirement (must meet or exceed)
+
+                ●   Layer-3 firewall throughput ≥ 39 Gbps
+                ●  IPS throughput ≥ 5.3 Gbps; NGFW throughput ≥ 3.1 Gbps; full UTM/threat-
+                           protection throughput ≥ 2.8 Gbps
+  Performance      ●  IPsec VPN throughput (AES-256) ≥ 35 Gbps
+
+                ●  1 RU rack-mount appliance with a minimum:
+                ●  16 × GE RJ-45 data ports
+                ●  8 × GE SFP ports
+                ●  4 × 10 GE SFP+
+  Interfaces        ●   Dual, PSUs are mandatory.
+
+                ●   Integrated routing, stateful firewall, IPS, anti-malware, web/DNS filtering,
+  Security &               application & device control, SSL/TLS 1.3 inspection, SD-WAN, basic
+  Features            ZTNA. Supports ≥ 10 virtual domains
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 9 of 66                   Ver. Product/Services 2019-4GS YEM
+
+                ●   Five-year unified-threat-management (UTM) or equivalent security-service
+                        bundle covering all features above, with 24 × 7 vendor TAC and continuous
+                          signature/firmware updates.  Licensing &
+  Support         ●   Five-year advanced hardware-replacement warranty.
+
+                ●  DR Site - Tshwane
+  Locations:        ●  Elwandle – Gqeberha
+
+
+
+  Specifications for trade up of 1x FortiGate 500E
+
+  Category     Minimum Requirement (must meet or exceed)
+
+                 ●   Layer-3 firewall throughput ≥ 39 Gbps
+
+                 ●  IPS ≥ 9 Gbps; NGFW ≥ 7 Gbps; full UTM/threat-protection ≥ 6 Gbps
+
+                 ●  IPsec VPN (AES-256) ≥ 36 Gbps;
+
+                 ●  Concurrent sessions ≥ 11 million; new sessions ≥ 400 000 per second;
+  Performance           packets-per-second ≥ 39.7 Mpps;
+
+                 ●  1 RU rack-mount appliance with a minimum:
+
+                 ●  8 × GE RJ-45 data
+
+                 ●  8 × 1/2.5/5 GE RJ-45 multi-gig
+
+                 ●  4 × GE SFP
+
+                 ●  8 × 10 GE SFP+
+
+  Interfaces        ●   Dual, redundant PSUs are mandatory.
+
+                 ●   Integrated routing, stateful firewall, IPS, anti-malware, web/DNS filtering,
+  Security &               application & device control, SSL/TLS 1.3 inspection, SD-WAN, basic
+  Features            ZTNA. Supports ≥ 10 virtual domains
+
+                 ●   Five-year unified-threat-management (UTM) or equivalent security-services
+                        bundle (IPS, anti-malware, web filtering, application control, cloud threat
+                                  intel, SD-WAN optimisation).
+
+  Licensing &       ●   Five-year advanced hardware-replacement warranty and 24 × 7 vendor
+  Support                 technical support.
+
+  Location         ●  To be hosted at uLwazi Node- Cape Town
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 10 of 66                  Ver. Product/Services 2019-4GS YEM
+
+             OTHER REQUIRMENTS
+
+   Firewall Central Management
+
+  Category       Minimum Requirement (must meet or exceed)
+
+                   ●  Manage ≥ 10 next-generation firewalls or virtual domains concurrently,
+                               with stackable licence option for future expansion
+
+                   ●  Support central administration of security, SD-WAN, VPN and ZTNA
+  Capacity                      policies, firmware, and global objects
+
+  System Resources    ●  Deployable as a virtual machine on VMware vSphere/ESXi
+
+                   ●   Centralised device manager with role-based access control (RBAC) and
+                      AD/LDAP integration
+
+                   ●   Policy & object versioning, change-control workflow, and audit trail
+
+                   ●   Zero-touch provisioning (ZTP) and script/CLI automation
+
+                   ●  SD-WAN and IPSec tunnel orchestration, dynamic address objects, and
+  Core Features            CLI template groups
+
+                   ●  Natural Language Processing (NLP): Must provide a generative AI
+                                interface to convert natural language prompts into executable scripts,
+                               configuration snippets, and policy queries.
+
+                   ●  AI-Assisted Analysis: The system shall use AI to analyse policy
+  AI-Driven                packages to identify shadowed, redundant, or overly permissive rules
+  Operations              and recommend optimisations.
+
+                   ●   Native log forwarding and fabric telemetry to existing FortiAnalyzer
+                              instance; API-level integration with FortiEMS and FortiClient for
+                            endpoint posture sync
+
+  Analytics &          ●  Generates configuration baselines and compliance reports; exports data
+  Interoperability                in syslog/CEF/JSON formats
+
+                   ●   Five-year subscription for central management of up to 10 devices,
+  Licensing &                 including software updates, 24 × 7 vendor technical support and
+  Support                      vulnerability/feature upgrades
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 11 of 66                  Ver. Product/Services 2019-4GS YEM
+
+                   ●   includes migration utility to import existing firewall configurations,
+                   ADOMs and policy packages from legacy managers (or directly from
+                             devices)
+
+                   ●   Five-Year Subscription to AI tools
+
+                   ●   Administrative MFA (TOTP, SAML 2.0, or RADIUS) • Encrypted
+                       management traffic (TLS 1.2/1.3, SSH v2)
+
+                   ●  Supports backup/restore, High Availability (active-passive clustering)  Security &
+  Resilience              and snapshot-friendly operation for rapid DR
+
+  Location            ●  To be Hosted at uLwazi- Cape Town
+
+
+
+  AI for analysing FortiAnalyzer logs
+
+  Category     Minimum Requirement (must meet or exceed)
+
+                 ●   Machine-learning plug-in for SAEON’s on-prem FortiAnalyzer to automate
+                             threat detection, correlation, and triage across firewall, VPN, web-filter and
+  Purpose                endpoint logs.
+
+                 ●  ML anomaly detection
+
+                 ●   incident grouping and threat-score ranking
+
+                 ●  MITRE ATT&CK technique mapping & recommended remediation
+
+                 ●   Natural-language incident summaries and executive reporting
+
+  Core Functions     ●   One-click export of IOCs/blocklists to managed firewalls
+
+                 ●   Native FortiAnalyzer plug-in (v7.4 +). Ingests logs via internal bus; pushes
+                             verdicts over REST API to FortiManager, FortiEMS and FortiClient for
+  Integration                policy enforcement. No separate SIEM required.
+
+                 ●  Deployed inside/alongside FortiAnalyzer VM: 4 vCPU, 16 GB RAM, 500
+  System           GB SSD-class storage. Supported hypervisors: VMware vSphere 7+,
+  Resources             Hyper-V 2019+, KVM, Azure & GCP compute.
+
+                 ●  Two-year subscription covering AI model updates, software upgrades and
+  Licensing &           24 × 7 vendor TAC. Licence transferable if FortiAnalyzer is migrated during
+  Support                 term.
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 12 of 66                  Ver. Product/Services 2019-4GS YEM
+
+  Security &        ●   All log data remains on-prem; plug-in traffic encrypted (TLS 1.3). Inherits
+  Compliance              FortiAnalyzer admin RBAC and MFA controls.
+
+  FortiAnalyzer
+  Details        SN: FAZVMSTM23004802
+
+  Location       To be hosted at uLwazi - Cape Town
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 13 of 66                  Ver. Product/Services 2019-4GS YEM
+
+ INSTALLATION:
+
+ 1.Scope
+ Provide end-to-end delivery, installation, configuration migration, testing, and hand-over of seven (7) next-
+ generation firewall appliances—one per site—at the locations listed elsewhere in this tender. Installation
+ includes all ancillary hardware (rack rails, power cords) and software required for full production cut-over.
+
+  2. Pre-Installation Activities
+
+   ●  Schedule site work at least ten (10) working days in advance SAEON.
+      ○   after-hours change windows will be mandatory for production cut-overs at the uLwazi Node in
+           Cape town.
+      ○    All other site cut-overs can be during business hours.
+
+
+  3. On-Site Installation
+
+   ●  Equipment needs to be delivered to their respective locations, Address details can be found in next
+         Section under “Delivery Addresses”
+   ●   Installation will happen at the addresses where devices were delivered.
+   ●  Unbox, inspect, and rack-mount each appliance in the designated cabinet with proper cable
+       management and redundant power feeds.
+   ●  Connect management, WAN, and LAN interfaces as per SAEON’s port-mapping sheet; label all
+         connections.
+   ●  Apply validated configuration migrated via the approved conversion tool; preserve policy IDs,
+          objects, VPNs, and routing logic.
+   ●  Establish secure management links to the central management platform and confirm live telemetry
+           into the analytics system.
+
+
+  4. Commissioning & Acceptance
+
+   ●  Provide SAEON with “as-built” documentation: port maps, configuration backups (unencrypted
+        and encrypted), change logs, and a post-installation test report.
+   ●  Obtain written site sign-off from the authorised SAEON representative.
+
+
+  5. Personnel & Compliance
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 14 of 66                  Ver. Product/Services 2019-4GS YEM
+
+   ●  Technical staff must hold current vendor NGFW certification (Professional level or higher) and
+        must comply with SAEON health, safety, and security policies when on-site.
+   ●  The supplier is responsible for travel, accommodation, and insurance costs.
+
+  6. Timeline
+
+   ●   All seven installations must be completed, commissioned, and accepted within Sixty (60) calendar
+        days of Delivery, unless mutually revised in writing due to site access constraints.
+
+              DELIVERY ADDRESSES:
+
+
+
+         Aridlands Node:                          Grasslands Node:
+         -28.7719222, 24.7510805                 Queen Elizabeth Park,
+         P.O. Box 110040                         1 Peter Brown Drive,
+         Kimberley                                      Pietermaritzburg
+        8306                                     South Africa
+
+      DR Site:                                 Elwandle Node:
+       NRF Building                           Ocean Sciences Campus, Nelson Mandela
+         South Gate                                      University Gomery Avenue, Summerstrand
+        CSIR Complex                             Gqeberha, 6001 South Africa
+          Meiring Naudé Road
+        Brummeria
+          Pretoria
+         South Africa
+
+        Fynbos Node:                             Egagasini Node:
+         Located on SAAO premises. 1 Observatory      5th Floor
+        Road Observatory                               Foretrust Building
+                                                         Martin Hammerschlag Way
+                                            Cape Town, 8000
+
+         Ulwazi Node:
+
+          8th Floor, The Towers South Corner, Hertzog Blvd, Foreshore, Cape Town, 8001
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 15 of 66                  Ver. Product/Services 2019-4GS YEM
+
+  BIDDER QUALIFICATION TO PERFORM THE CONTRACT
+
+ Each bidder must provide a full portfolio of evidence to allow SAEON’s evaluation committee to assess the
+ bidders’ qualifications to execute the contract, to proceed to the price competition and awarding stages.
+
+ Ability to execute the contract:
+
+      ▪   Bidders must provide the requisite documents in detail that substantiate their responses to the
+          specifications on pages 8 to 14.
+
+      ▪   Bidders must supply all relevant Data Sheets for equipment and software that will be supplied
+
+      ▪   Statement of assurance that the bidder’s proposal delivers the entire scope of requirements listed
+           in the detailed specification above.
+
+      ▪   Statement of assurance that ALL hardware will be covered by a 5-year warranty as per the SCC
+        (SCC15A).
+
+      ▪   Statement of assurance that the bidder's proposal  is compatible with  all items  listed under
+         Interdependencies to other systems on page 8.
+
+      ▪  The bidder has provided three or more contactable reference letters, using the template on page
+        54-55 or a reference letter from their clients with a minimum score per line of “meets requirements”
+          or higher, from customers to whom the bidder has provided a similar service.
+
+      ▪   Bidder needs  to have  relevant  qualifications  for  the proposed hardware  installation and
+          configuration.
+
+ Background of the bidder bidding:
+
+      ▪  The bidder must submit schedule detailing the bidder’s experience in the installation and support of
+           firewall solutions.
+
+ Ethical Requirements
+
+      ▪  The bidder must confirm that there are no interests with the NRF, has clean business practices,
+        have not been disbarred, and has determined its bid independently from others as reflected on its
+         submitted SBD 4 (Pages 42-45).
+
+
+
+
+ Beneficial Ownership
+
+      ▪  The bidder provides its legal detail on the SBD1 form in this document with the attached CSD report.
+        (Pages 40-41).
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 16 of 66                  Ver. Product/Services 2019-4GS YEM
+
+ Price Submission Administration
+
+      ▪  The submitted SBD3.1 (page 38) is in a separate electronic folder; password protected.
+
+      ▪  The submitted SBD3.1 has detail schedules to allow the SAEON’s Evaluation Committee to assess
+         the completeness of the line item pricing
+
+              CONTRACT PERIOD
+ This is a once-off supply, delivery, installation and configuration of Next Generation Firewall appliances,
+ with all relevant licensing and warranties in place.
+
+            CONTRACT MANAGEMENT
+
+ 1   Contract Manager
+
+      1.1 SAEON appoints a contract manager and notifies the other party in writing of the name and contact
+          details of the appointed contract manager.
+
+ 2   Service Provider’s Contract Manager
+
+      2.1 The Contractor appoints a contract manager and notifies the other party in writing of the name and
+         contact details of the appointed contract manager.
+
+ 3   Contract Communication
+
+      3.1 SAEON communicates in writing including through email.
+
+      3.2 SAEON maintains all contract documentation, and communications and correspondence, etc. for
+         record purposes.
+
+      3.3 SAEON allocates the contract number with secondary reference numbers i.e. purchase order
+        numbers and  will inform the service provider  of these numbers. SAEON  will require any
+        communication to contain the contract number.
+
+ 4   Timing of communication
+
+      4.1 Any notice, request, consent, approvals or other communications made between the Parties
+         pursuant to the Contract shall be in writing and forwarded to the addresses specified in the contract
+        and may be given as set out hereunder and shall be deemed to have been received when:
+
+          4.1.1   hand delivered – on the day of delivery;
+
+          4.1.2   registered mail – five (5) working days after mailing;
+
+          4.1.3   email – one (1) working day after it has been sent
+
+ 5  Managing service levels
+
+      5.1 Establishment of agreed service levels
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 17 of 66                  Ver. Product/Services 2019-4GS YEM
+
+          5.1.1  Upon appointment, both parties agree on the final set of performance levels for each
+                  deliverable service levels including measurable key performance indicators with minimum
+                 thresholds in writing which is appended to this contract document.
+
+      5.2 Variations to agreed service levels
+
+          5.2.1  Where both parties agree to variation of these, both parties sign the revision that is
+              appended to this contract document
+
+      5.3 Measurement, monitoring, and correction of under-performance
+
+          5.3.1  The contracted service provider and SAEON’s contract manager measure delivered
+                performance against these performance levels.
+
+          5.3.2  Where poor performance has been identified, both parties will meet and investigate the
+                 matter to determine the root cause, the correction plan, and the execution planning thereof.
+
+          5.3.3   Both parties will assess the applicability of penalties to the incurred poor performance and
+                 apply these.
+
+      5.4 Escalation
+
+          5.4.1  Where under performance is not addressed promptly, the SAEON contract manager will
+                 escalate the matter to the CEO of the contracted service provider for corrective. action.
+
+      5.5 The service performance levels are:
+
+    Service Level             Performance Standard               Target
+
+    Delivery of the specified  Both  parties   jointly  check  and   IT    infrastructure   as    per
+   goods                     confirm specifications are met using   specifications detailed on page 8
+                              catalogue   or   quality   certificate   to 16
+                              provided by the supplier.
+
+
+
+   Timeous    delivery    of  Delivery  should  not  exceed  30  Delivery   of   IT   infrastructure
+    requested items           working  days  from  the  updated   following   the   issuing   of  a
+                                 delivery  date  determined  by  the  purchase order. (SCC22A)
+                               bidder (subject to availability of the IT
+                                   infrastructure) when  the purchase
+                               order is sent.
+
+    Installation                    Installation should not exceed 14  Meets the agreed deadline as per
+                             working  days  from  agreed-upon  the  initial meeting and that the
+                                     installation dates                   hardware is up.
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 18 of 66                  Ver. Product/Services 2019-4GS YEM
+
+    Onsite next business day  Hot swop out in the next business  Zero data losses
+    warranty                day after notification
+
+ 4.2 Penalties
+
+    Service Level            Consequences or remedies
+
+    Delivery of the specified  Penalty – replacement of incorrect items and transport cost paid by the
+   goods                      service provider, and as per GCC
+
+   Timeous    delivery    of  Penalty – 5% of invoice value will be deducted if delivery time exceeds
+    requested items          30 working days as agreed upon. Ref to SCC22A
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 19 of 66                  Ver. Product/Services 2019-4GS YEM
+
+   GENERAL AND SPECIAL CONDITIONS OF CONTRACT
+
+  In this document words in the singular also mean in the plural and vice versa, words in the masculine mean
+  in the feminine and neuter, words “department” means organs of state inclusive of public entities and vice
+ versa, and the words “will/should” mean “must”.
+
+ The National Research Foundation cannot amend the National Treasury’s General Conditions of Contract
+ (GCC). The National Research Foundation compiles separate Special Conditions of Contract (SCC) relevant
+  to this bid where applicable supplementing the General Conditions of Contract. Where there is conflict, the
+ provisions of the Special Conditions of Contract shall prevail.
+
+ GCC 1     Definitions - The following terms shall be interpreted as indicated:
+
+ 1.1        “Closing time” means the date and hour specified in the bidding documents for the receipt of
+              bids.
+
+ 1.2        “Contract” means the written agreement entered into between the purchaser and the supplier,
+           as recorded in the contract form signed by the parties, including all attachments and appendices
+             thereto and all documents incorporated by reference therein.
+
+ 1.3        “Contract price” means the price payable to the supplier under the contract for the full and proper
+           performance of his contractual obligations.
+
+ 1.4        “Corrupt practice” means the offering, giving, receiving, or soliciting of anything of value to
+             influence the action of a public official in the procurement process or in contract execution.
+
+ 1.5        "Countervailing duties” are imposed in cases where an enterprise abroad is subsidized by its
+           government and encouraged to market its products internationally.
+
+ 1.6        “Country of origin” means the place where the goods were mined, grown, or produced, or from
+           which the services are supplied. Goods are produced when, through manufacturing, processing,
+             or substantial and major assembly of components, a commercially recognized new product
+              results that is substantially different in basic characteristics or in purpose or utility from its
+           components.
+
+ 1.7        “Day” means calendar day.
+
+ 1.8         “Delivery” means delivery in compliance of the conditions of the contract or order.
+
+ 1.9        “Delivery ex stock” means immediate delivery directly from stock actually on hand.
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 20 of 66                  Ver. Product/Services 2019-4GS YEM
+
+   GENERAL AND SPECIAL CONDITIONS OF CONTRACT
+
+ 1.10       “Delivery into consignees store or to his site” means delivered and unloaded in the specified
+             store or depot or on the specified site in compliance with the conditions of the contract or order,
+            the supplier bearing all risks and charges involved until the supplies are so delivered and a valid
+             receipt is obtained.
+
+ 1.11      "Dumping" occurs when a private enterprise abroad market its goods on own initiative in the
+        RSA at lower prices than that of the country of origin and which have the potential to harm the
+              local industries in the RSA.
+
+ 1.12       “Force majeure” means an event beyond the control of the supplier and not involving the
+              supplier’s fault or negligence and not foreseeable. Such events may include, but is not restricted
+               to, acts of the purchaser in its sovereign capacity, wars or revolutions, fires, floods, epidemics,
+            quarantine restrictions and freight embargoes.
+
+ 1.13       “Fraudulent practice” means a misrepresentation of facts in order to influence a procurement
+           process or the execution of a contract to the detriment of any bidder, and includes collusive
+             practice among bidders (prior to or after bid submission) designed to establish bid prices at
+                 artificial non-competitive levels and to deprive the bidder of the benefits of free and open
+             competition.
+
+ 1.14     “GCC” mean the General Conditions of Contract.
+
+ 1.15      “Goods” means all of the equipment, machinery, and/or other materials that the supplier is
+            required to supply to the purchaser under the contract.
+
+ 1.16       “Imported content” means  that portion  of the bidding price represented by the cost  of
+           components, parts or materials which have been or are still to be imported (whether by the
+             supplier or his subcontractors) and which costs are inclusive of the costs abroad, plus freight
+          and other direct importation costs such as landing costs, dock dues, import duty, sales duty or
+            other similar tax or duty at the South African place of entry as well as transportation and handling
+           charges  to the factory  in the Republic where the supplies covered by the bid  will be
+            manufactured.
+
+ 1.17       “Local content” means that portion of the bidding price, which is not included in the imported
+            content provided that local manufacture does take place.
+
+ 1.18       “Manufacture” means  the  production  of  products  in a  factory  using  labour,  materials,
+           components, and machinery and includes other related value-adding activities.
+
+ 1.19       “Order” means an official written order issued for the supply of goods or works or the rendering
+              of a service.
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 21 of 66                  Ver. Product/Services 2019-4GS YEM
+
+   GENERAL AND SPECIAL CONDITIONS OF CONTRACT
+
+
+
+ 1.20       “Project site”, where applicable, means the place indicated in bidding documents.
+
+ 1.21       “Purchaser” means the organization purchasing the goods.
+
+ 1.22       “Republic” means the Republic of South Africa.
+
+ 1.23      “SCC” means the Special Conditions of Contract.
+
+ 1.24       “Services” means those functional services ancillary to the supply of the goods, such as
+             transportation and any other incidental services, such as installation, commissioning, provision
+              of technical assistance, training, catering, gardening, security, maintenance and other such
+             obligations of the supplier covered under the contract.
+
+ 1.25       “Written” or “in writing” means handwritten in ink or any form of electronic or mechanical writing.
+
+ GCC2     Application
+
+ 2.1       These general conditions are applicable to all bids, contracts and orders including bids for
+             functional and professional services, sales, hiring, letting and the granting or acquiring of rights,
+            but excluding immovable property, unless otherwise indicated in the bidding documents.
+
+ 2.2      Where applicable, special conditions of contract are also laid down to cover specific supplies,
+            services or works.
+
+ 2.3      Where such special conditions of contract are in conflict with these general conditions, the
+             special conditions shall apply.
+
+ GCC 3    General
+
+ 3.1       Unless otherwise indicated in the bidding documents, the purchaser shall not be liable for any
+           expense incurred in the preparation and submission of a bid. Where applicable a non-refundable
+            fee for documents may be charged.
+
+ 3.2       With certain exceptions (National Treasury’s eTender website), invitations to bid are only
+            published in the Government Tender Bulletin. The Government Tender Bulletin may be obtained
+              directly from the Government Printer, Private Bag X85, Pretoria 0001, or accessed electronically
+           from www.treasury.gov.za.
+
+ GCC 4    Standards
+
+ 4.1      The goods supplied shall conform to the standards mentioned in the bidding documents and
+              specifications.
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 22 of 66                  Ver. Product/Services 2019-4GS YEM
+
+   GENERAL AND SPECIAL CONDITIONS OF CONTRACT
+
+
+
+ GCC 5   Use of contract documents and information
+
+ 5.1      The supplier shall not, without the purchaser’s prior written consent, disclose the contract, or any
+             provision thereof, or any specification, plan, drawing, pattern, sample, or information furnished
+           by or on behalf of the purchaser in connection therewith, to any person other than a person
+           employed by the supplier in the performance of the contract. Disclosure made to any such
+           employed person is in confidence and shall extend only as far as may be necessary for purposes
+              of such performance.
+
+ 5.2      The supplier shall not, without the purchaser’s prior written consent, make use of any document
+             or information mentioned in GCC clause 5.1 except for purposes of performing the contract.
+
+ 5.3      Any document, other than the contract itself mentioned in GCC clause 5.1 shall remain the
+            property of the purchaser and shall be returned (all copies) to the purchaser on completion of
+            the supplier’s performance under the contract if so required by the purchaser.
+
+ 5.4      The supplier shall permit the purchaser to inspect the supplier’s records relating to the
+           performance of the supplier and to have them audited by auditors appointed by the purchaser,
+                       if so required by the purchaser.
+
+ GCC6     Patent rights
+
+ 6.1      The supplier shall indemnify the purchaser against all third-party claims of infringement of patent,
+            trademark, or industrial design rights arising from use of the goods or any part thereof by the
+            purchaser.
+
+ GCC7    Performance security
+
+ 7.1        Within thirty days (30) of receipt of the notification of contract award, the successful bidder shall
+             furnish to the purchaser the performance security of the amount specified in SCC.
+
+ 7.2      The proceeds of the performance security shall be payable to the purchaser as compensation
+               for any loss resulting from the supplier’s failure to complete his obligations under the contract.
+
+ 7.3      The performance security shall be denominated in the currency of the contract, or in a freely
+             convertible currency acceptable to the purchaser and shall be in one of the following forms:
+
+             7.3.1 bank guarantee or an irrevocable letter of credit issued by a reputable bank located in the
+            purchaser’s country or abroad, acceptable to the purchaser, in the form provided in the bidding
+           documents or another form acceptable to the purchaser; or
+
+             7.3.2 cashier’s or certified cheque.
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 23 of 66                  Ver. Product/Services 2019-4GS YEM
+
+   GENERAL AND SPECIAL CONDITIONS OF CONTRACT
+
+
+
+ 7.4      The performance security will be discharged by the purchaser and returned to the supplier within
+                thirty (30) days following the date of completion of the supplier’s performance obligations under
+            the contract, including any warranty obligations, unless otherwise specified in SCC.
+
+ SCC     An acceptable financial performance bond is required where an upfront deposit is paid by NRF
+            over an amount of R1 million (or such lesser amount as specified here) to the same value as
+           any such upfront deposit.
+
+ GCC8     Inspections, tests and analyses
+
+ 8.1          All pre-bidding testing will be for the account of the bidder.
+
+ 8.2             If it is a bid condition that supplies to be produced or services to be rendered should at any stage
+            during production or execution or on completion be subject to inspection, the premises of the
+            bidder or contractor shall be open, at all reasonable hours, for inspection by a representative of
+            the purchaser or an organization acting on behalf of the purchaser.
+
+ 8.3             If there are no inspection requirements indicated in the bidding documents and no mention is
+         made in the contract, but during the contract period, it is decided that inspections shall be carried
+              out,  the  purchaser  shall  itself make  the  necessary  arrangements,  including payment
+           arrangements with the testing authority concerned.
+
+ 8.4             If the inspections, tests and analyses referred to in clauses 8.2 and 8.3 show the supplies to be
+               in accordance with the contract requirements, the cost of the inspections, tests and analyses
+              shall be defrayed by the purchaser.
+
+ 8.5      Where the supplies or services referred to in clauses 8.2 and 8.3 do not comply with the contract
+            requirements, irrespective of whether such supplies or services are accepted or not, the supplier
+              shall defray the cost in connection with these inspections, tests, or analyses.
+
+ 8.6        Supplies and services referred to in clauses 8.2 and 8.3 and which do not comply with the
+             contract requirements may be rejected.
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 24 of 66                  Ver. Product/Services 2019-4GS YEM
+
+   GENERAL AND SPECIAL CONDITIONS OF CONTRACT
+
+ 8.7      Any contract supplies may on or after delivery be inspected, tested or analysed and may be
+             rejected if found not to comply with the requirements of the contract. Such rejected supplies are
+            held at the cost and risk of the supplier who shall, when called upon, remove them immediately
+              at his own cost and forthwith substitute them with supplies, which do comply with the
+            requirements of the contract. Failing such removal, the rejected supplies shall be returned at the
+             suppliers cost and risk. Should the supplier fail to provide the substitute supplies forthwith, the
+            purchaser may, without giving the supplier further opportunity to substitute the rejected supplies,
+           purchase such supplies as may be necessary at the expense of the supplier.
+
+ 8.8      The provisions of clauses 8.4 to 8.7 shall not prejudice the right of the purchaser to cancel the
+             contract because of a breach of the conditions thereof, or to act in terms of Clause 23 of GCC.
+
+ GCC9     Packing
+
+ 9.1      The supplier shall provide such packing of the goods as is required to prevent their damage or
+             deterioration during transit to their final destination, as indicated in the contract. The packing
+              shall be sufficient to withstand, without limitation, rough handling during transit and exposure to
+           extreme temperatures, salt, and precipitation during transit, and open storage. Packing, case
+             size and weights shall take into consideration, where appropriate, the remoteness of the goods’
+                final destination and the absence of heavy handling facilities at all points in transit.
+
+ 9.2      The packing, marking, and documentation within and outside the packages shall comply strictly
+             with such special requirements as shall be expressly provided for in the contract, including
+             additional requirements, if any, specified in SCC, and in any subsequent instructions ordered by
+            the purchaser.
+
+ GCC10    Delivery and Documentation
+
+ 10.1       Delivery of the goods shall be made by the supplier in accordance with the terms specified in the
+             contract. The details of shipping and/or other documents to be furnished by the supplier are
+             specified in SCC.
+
+ 10.2      Documents submitted by the supplier specified in SCC.
+
+ GCC11    Insurance
+
+ 11.1     The goods supplied under the contract shall be fully insured in a freely convertible currency
+            against loss or damage incidental to manufacture or acquisition, transportation, storage and
+             delivery in the manner specified in the SCC.
+
+ GCC12    Transportation
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 25 of 66                  Ver. Product/Services 2019-4GS YEM
+
+   GENERAL AND SPECIAL CONDITIONS OF CONTRACT
+
+
+
+ 12.1      Should a price other than an all-inclusive delivered price be required, this shall be specified in
+            the SCC.
+
+ GCC13    Incidental services
+
+ 13.1     The supplier may be required to provide any or all of the following services, including additional
+             services, if any, specified in SCC:
+
+            13.1.1 Performance or supervision of on-site assembly and/or commissioning of the supplied
+           goods;
+
+            13.1.2 Furnishing of tools required for assembly and/or maintenance of the supplied goods;
+
+            13.1.3 Furnishing of a detailed operations and maintenance manual for each appropriate unit of
+            the supplied goods;
+
+            13.1.4 Performance or supervision or maintenance and/or repair of the supplied goods, for a
+            period of time agreed by the parties, provided that this service shall not relieve the supplier of
+           any warranty obligations under this contract; and
+
+            13.1.5 Training of the purchaser’s personnel, at the supplier’s plant and/or on-site, conducted in
+           assembly, start-up, operation, maintenance, and/or repair of the supplied goods.
+
+ 13.2       Prices charged by the supplier for incidental services, if not included in the contract price for the
+           goods, shall be agreed upon in advance by the parties and shall not exceed the prevailing rates
+           charged to other parties by the supplier for similar services.
+
+
+
+ GCC14   Spare parts
+
+
+
+ 14.1     As specified in SCC, the supplier may be required to provide any or all of the following materials,
+              notifications, and information pertaining to spare parts manufactured or distributed by the
+              supplier:
+
+            14.1.1 Such spare parts as the purchaser may elect to purchase from the supplier, provided that
+               this election shall not relieve the supplier of any warranty obligations under the contract; and
+
+            14.1.2 In the event of termination of production of the spare parts:
+
+             14.1.2.1 Advance notification to the purchaser of the pending termination, in sufficient time to
+            permit the purchaser to procure needed requirements; and
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 26 of 66                  Ver. Product/Services 2019-4GS YEM
+
+             14.1.2.1 Following such termination, furnishing at no cost to the purchaser, the blueprints,
+            drawings, and specifications of the spare parts, if requested.
+
+
+
+ GCC15   Warranty
+
+ 15.1     The supplier warrants that the goods supplied under the contract are new, unused, of the most
+            recent or current models and that they incorporate all recent improvements in design and
+             materials unless provided otherwise in the contract. The supplier further warrants that all goods
+            supplied under this contract shall have no defect, arising from design, materials, or workmanship
+            (except when the design and/or material is required by the purchaser’s specifications) or from
+           any act or omission of the supplier, that may develop under normal use of the supplied goods in
+            the conditions prevailing in the country of final destination.
+
+ 15.2       This warranty shall remain valid for twelve (12) months after the goods, or any portion thereof as
+            the case may be, have been delivered to and accepted at the final destination indicated in the
+             contract, or for eighteen (18) months after the date of shipment from the port or place of loading
+               in the source country, whichever period concludes earlier, unless specified otherwise in SCC.
+
+ 15.3     The purchaser shall promptly notify the supplier in writing of any claims arising under this
+             warranty.
+
+ 15.4     Upon receipt of such notice, the supplier shall, within the period specified in SCC and with all
+            reasonable speed, repair or replace the defective goods or parts thereof, without costs to the
+            purchaser.
+
+ 15.5           If the supplier, having been notified, fails to remedy the defect(s) within the period specified in
+          SCC, the purchaser may proceed to take such remedial action as may be necessary, at the
+              supplier’s risk and expense and without prejudice to any other rights, which the purchaser may
+           have against the supplier under the contract.
+
+
+
+ SCC15A  The warranty period in Clause 15.2 for delivery or performance that has been accepted by the
+        NRF at the final destination indicated in the contract shall not read as stated in Clause 15.2,
+             rather shall read as sixty (60) months from date of signed handover of the installation.
+
+ GCC16   Payment
+
+ 16.1     The method and conditions of payment to be made to the supplier under this contract shall be
+             specified in SCC.
+
+ 16.2     The supplier shall furnish the purchaser with an invoice accompanied by a copy of the delivery
+            note and upon fulfilment of other obligations stipulated in the contract.
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 27 of 66                  Ver. Product/Services 2019-4GS YEM
+
+ 16.3      Payments shall be made promptly by the purchaser, but in no case later than thirty (30) days
+              after submission of an invoice or claim by the supplier.
+
+ 16.4      Payment will be made in Rand unless otherwise stipulated in SCC.
+
+ SCC     Payment is made 30 days after receipt of invoice or claim by the purchaser to NRF which period
+                is automatically extended by any delay occasioned by the supplier such as failure to supply a
+           copy of the delivery note,  if applicable; and/or failure to provide proof of fulfilment of other
+             obligations stipulated in the contract.
+
+ GCC17    Prices
+
+ 17.1       Prices charged by the supplier for goods delivered and services performed under the contract
+              shall not vary from the prices quoted by the supplier in his bid, with the exception of any price
+            adjustments authorized in SCC or in the purchaser’s request for bid validity extension, as the
+           case may be.
+
+
+
+ GCC18    Contract amendment
+
+ 18.1     No variation in or modification of the terms of the contract shall be made except by written
+          amendment signed by the parties concerned.
+
+ GCC19   Assignment
+
+ 19.1     The supplier shall not assign, in whole or in part, its obligations to perform under the contract,
+            except with the purchaser’s prior written consent.
+
+ GCC20    Subcontract
+
+ 20.1     The supplier shall notify the purchaser in writing of all subcontracts awarded under this contract
+                       if not already specified in the bid. Such notification, in the original bid or later, shall not relieve
+            the supplier from any liability or obligation under the contract
+
+ GCC21   Delays in supplier’s performance
+
+ 21.1       Delivery of the goods and performance of services shall be made by the supplier in accordance
+             with the time schedule prescribed by the purchaser in the contract.
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 28 of 66                  Ver. Product/Services 2019-4GS YEM
+
+ 21.2           If at any time during performance of the contract, the supplier or its subcontractor(s) should
+            encounter conditions impeding timely delivery of the goods and performance of services, the
+             supplier shall promptly notify the purchaser in writing of the fact of the delay, its likely duration,
+          and its cause(s). As soon as practicable after receipt of the supplier’s notice, the purchaser shall
+            evaluate the situation and may at his discretion extend the supplier’s time for performance, with
+             or without the imposition of penalties, in which case the extension shall be ratified by the parties
+           by amendment of contract.
+
+ 21.3     No provision in a contract shall be deemed to prohibit the obtaining of supplies or services from
+          a national department, provincial department, or a local authority.
+
+ 21.4     The right is reserved to procure outside of the contract small quantities or to have minor essential
+            services executed if an emergency arises, the supplier’s point of supply is not situated at or near
+            the place where the supplies are required, or the supplier’s services are not readily available.
+
+ 21.5      Except as provided under GCC Clause 25, a delay by the supplier in the performance of its
+             delivery obligations shall render the supplier liable to the imposition of penalties, pursuant to
+        GCC Clause 22, unless an extension of time is agreed upon pursuant to GCC Clause 21.2
+             without the application of penalties.
+
+ 21.6     Upon any delay beyond the delivery period in the case of a supplies contract, the purchaser
+               shall, without cancelling the contract, be entitled to purchase supplies of a similar quality and up
+              to the same quantity in substitution of the goods not supplied in conformity with the contract and
+              to return any goods delivered later at the supplier’s expense and risk, or to cancel the contract
+          and buy such goods as may be required to complete the contract and without prejudice to his
+            other rights, be entitled to claim damages from the supplier.
+
+ GCC22    Penalties
+
+ 22.1       Subject to GCC Clause 25, if the supplier fails to deliver any or all of the goods or to perform the
+            services within the period(s) specified in the contract, the purchaser shall, without prejudice to
+                 its other remedies under the contract, deduct from the contract price, as a penalty, a sum
+             calculated on the delivered price of the delayed goods or unperformed services using the current
+           prime interest rate calculated for each day of the delay until actual delivery or performance. The
+            purchaser may also consider termination of the contract pursuant to GCC Clause 23.
+
+ SCC22A  Replace 22.1 with the following:
+
+            Subject to GCC Clause 25, if the supplier fails to deliver any or all of the goods or to perform the
+            services within 30 working days as agreed upon by the bidder  the purchaser shall, without
+             prejudice to its other remedies under the contract, deduct from the invoice price, as a penalty, a
+         sum calculated at 5% of the invoice value. The purchaser may also consider termination of the
+             contract pursuant to GCC Clause 23
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 29 of 66                  Ver. Product/Services 2019-4GS YEM
+
+            Termination for default GCC23
+
+ 23.1     The purchaser, without prejudice to any other remedy for breach of contract, by written notice of
+             default sent to the supplier, may terminate this contract in whole or in part:
+
+            23.1.1 If the supplier fails to deliver any or all of the goods within the period(s) specified in the
+             contract, or within any extension thereof granted by the purchaser pursuant to GCC Clause 21.2;
+
+            23.1.2 If the supplier fails to perform any other obligation(s) under the contract; or
+
+            23.1.3 If the supplier, in the judgment of the purchaser, has engaged in corrupt or fraudulent
+             practices in competing for or in executing the contract.
+
+ 23.2        In the event the purchaser terminates the contract in whole or in part, the purchaser may procure,
+          upon such terms and in such manner as it deems appropriate, goods, works or services similar
+              to those undelivered, and the supplier shall be liable to the purchaser for any excess costs for
+           such similar goods, works or services. However, the supplier shall continue performance of the
+             contract to the extent not terminated.
+
+ 23.3     Where the purchaser terminates the contract in whole or in part, the purchaser may decide to
+           impose a restriction penalty on the supplier by prohibiting such supplier from doing business with
+            the public sector for a period not exceeding 10 years.
+
+ 23.4           If a purchaser intends imposing a restriction on a supplier or any person associated with the
+              supplier, the supplier will be allowed a time period of not more than fourteen (14) days to provide
+           reasons why the envisaged restriction should not be imposed. Should the supplier fail to respond
+             within the stipulated fourteen (14) days the purchaser may regard the intended penalty as not
+            objected against and may impose it on the supplier.
+
+ 23.5     Any restriction imposed on any person by the Accounting Authority will, at the discretion of the
+            Accounting Authority, also be applicable to any other enterprise or any partner, manager, director
+             or other person who wholly or partly exercises or exercised or may exercise control over the
+             enterprise of the first-mentioned person, and with which enterprise or person the first-mentioned
+            person, is or was in the opinion of the Accounting Authority actively associated.
+
+ 23.6           If a restriction is imposed, the purchaser must, within five (5) working days of such imposition,
+             furnish the National Treasury, with the following information:
+
+            23.6.1 the name and address of the supplier and / or person restricted by the purchaser;
+
+            23.6.2 the date of commencement of the restriction;
+
+            23.6.3 the period of restriction; and
+
+            23.6.4 the reasons for the restriction.
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 30 of 66                  Ver. Product/Services 2019-4GS YEM
+
+          These details will be loaded in the National Treasury’s central database of suppliers or persons
+             prohibited from doing business with the public sector.
+
+ 23.7           If a court of law convicts a person of an offence as contemplated in sections 12 or 13 of the
+            Prevention and Combating of Corrupt Activities Act, No. 12 of 2004, the court may also rule that
+           such person’s name be endorsed on the Register for Tender Defaulters. When a person’s name
+           has been endorsed on the Register, the person will be prohibited from doing business with the
+             public sector for a period not less than five years and not more than ten (10) years. The National
+            Treasury is empowered to determine the period of restriction and each case will be dealt with on
+                 its own merits. According to Section 32 of the Act the Register must be open to the public. The
+            Register can be perused on the National Treasury website.
+
+ GCC24    Anti-dumping and countervailing duties and rights
+
+ 24.1     When, after the date of bid, provisional payments are required, or anti-dumping or countervailing
+             duties are imposed, or the amount of a provisional payment or anti-dumping or countervailing
+               right is increased in respect of any dumped or subsidized import, the State is not liable for any
+          amount so required or imposed, or for the amount of any such increase. When, after the said
+             date, such a  provisional payment  is no  longer  required  or any such anti-dumping  or
+             countervailing right is abolished, or where the amount of such provisional payment or any such
+               right is reduced, any such favourable difference shall on demand be paid forthwith by the
+             contractor to the State or the State may deduct such amounts from moneys (if any) which may
+            otherwise be due to the contractor in regard to supplies or services which he delivered or
+            rendered, or is to deliver or render in terms of the contract or any other contract or any other
+          amount which may be due to him
+
+ GCC25   Force Majeure
+
+ 25.1       Notwithstanding the provisions of GCC Clauses 22 and 23, the supplier shall not be liable for
+              forfeiture of its performance security, damages, or termination for default if and to the extent that
+             his delay in performance or other failure to perform his obligations under the contract is the result
+              of an event of force majeure.
+
+ 25.2           If a force majeure situation arises, the supplier shall promptly notify the purchaser in writing of
+           such condition and the cause thereof. Unless otherwise directed by the purchaser in writing, the
+             supplier shall continue to perform its obligations under the contract as far as is reasonably
+              practical, and shall seek all reasonable alternative means for performance not prevented by the
+             force majeure event
+
+ GCC26    Termination for insolvency
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 31 of 66                  Ver. Product/Services 2019-4GS YEM
+
+ 26.1     The purchaser may at any time terminate the contract by giving written notice to the supplier if
+            the supplier becomes bankrupt or otherwise insolvent. In this event, termination will be without
+           compensation to the supplier, provided that such termination will not prejudice or affect any right
+              of action or remedy which has accrued or will accrue thereafter to the purchaser.
+
+ GCC27    Settlement of disputes
+
+ 27.1           If any dispute or difference of any kind whatsoever arises between the purchaser and the supplier
+               in connection with or arising out of the contract, the parties shall make every effort to resolve
+            amicably such dispute or difference by mutual consultation.
+
+ 27.2           If, after thirty (30) days, the parties have failed to resolve their dispute or difference by such
+           mutual consultation, then either the purchaser or the supplier may give notice to the other party
+              of his intention to commence with mediation. No mediation in respect of this matter may be
+         commenced unless such notice is given to the other party.
+
+ 27.3      Should it not be possible to settle a dispute by means of mediation, it may be settled in a South
+             African court of law.
+
+ 27.4      Mediation proceedings shall be conducted in accordance with the rules of procedure specified
+               in the SCC.
+
+ 27.5       Notwithstanding any reference to mediation and/or court proceedings herein,
+
+            27.5.1 the parties shall continue to perform their respective obligations under the contract unless
+            they otherwise agree; and
+
+            27.5.2 the purchaser shall pay the supplier any monies due the supplier.
+
+ GCC28    Limitation of liability
+
+ 28.1      Except in cases of criminal negligence or wilful misconduct, and in the case of infringement
+            pursuant to Clause 6;
+
+            28.1.1 the supplier shall not be liable to the purchaser, whether in contract, tort, or otherwise, for
+           any indirect or consequential loss or damage, loss of use, loss of production, or loss of profits or
+              interest costs, provided that this exclusion shall not apply to any obligation of the supplier to pay
+             penalties and/or damages to the purchaser; and
+
+            28.1.2 the aggregate liability of the supplier to the purchaser, whether under the contract, in tort
+             or otherwise, shall not exceed the total contract price, provided that this limitation shall not apply
+              to the cost of repairing or replacing defective equipment.
+
+ GCC29   Governing language
+
+ 29.1     The contract shall be written in English. All correspondence and other documents pertaining to
+            the contract that is exchanged by the parties shall also be written in English.
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 32 of 66                  Ver. Product/Services 2019-4GS YEM
+
+ GCC30    Applicable law
+
+ 30.1     The contract shall be interpreted in accordance with South African laws, unless otherwise
+             specified in SCC.
+
+ GCC31    Notices
+
+ 31.1      Every written acceptance of a bid shall be posted to the supplier concerned by registered or
+               certified mail and any other notice to him shall be posted by ordinary mail to the address
+             furnished in his bid or to the address notified later by him in writing and such posting shall be
+         deemed to be proper service of such notice.
+
+ 31.2     The time mentioned in the contract documents for performing any act after such aforesaid notice
+           has been given, shall be reckoned from the date of posting of such notice
+
+ GCC32   Taxes and duties
+
+ 32.1     A foreign supplier shall be entirely responsible for all taxes, stamp duties, license fees, and other
+           such levies imposed outside the purchaser’s country.
+
+ 32.2     A local supplier shall be entirely responsible for all taxes, duties, license fees, etc., incurred until
+             delivery of the contracted goods to the purchaser.
+
+ 32.3     No contract shall be concluded with any bidder whose tax matters are not in order. Prior to the
+          award of a bid, the Department must be in possession of a tax clearance certificate, submitted
+           by the bidder. This certificate must be an original issued by the South African Revenue Services
+
+ GCC33    National Industrial Participation Programme
+
+ 33.1     The NIP Programme administered by the Department of Trade and Industry shall be applicable
+              to all contracts that are subject to the NIP obligation.
+
+ GCC34    Prohibition of restrictive practices
+
+ 34.1        In terms of Section 4 (1) (b)  (iii) of the Competition Act No. 89 of 1998, as amended, an
+           agreement between, or concerted practice by, firms, or a decision by an association of firms, is
+             prohibited  if  it is between parties in a horizontal relationship and  if a bidder (s) is/are or a
+             contractor(s) was/were involved in collusive bidding (or bid rigging).
+
+ 34.2           If a bidder(s) or contractor(s), based on reasonable grounds or evidence obtained by the
+            purchaser, has/have engaged in the restrictive practice referred to above, the purchaser may
+              refer the matter to the Competition Commission for investigation and possible imposition of
+             administrative penalties as contemplated in the Competition Act No. 89 of 1998.
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 33 of 66                  Ver. Product/Services 2019-4GS YEM
+
+ 34.3           If a bidder(s) or contractor(s), has/have been found guilty by the Competition Commission of the
+               restrictive practice referred to above, the purchaser may, in addition and without prejudice to any
+            other remedy provided for, invalidate the bid(s) for such item(s) offered, and/or terminate the
+             contract in whole or part, and/or restrict the bidder(s) or contractor(s) from conducting business
+             with the public sector for a period not exceeding ten (10) years and/or claim damages from the
+             bidder(s) or contractor(s) concerned.
+
+
+
+
+
+NRF/SAEON/Ulwazi /37/2025-26                 Page 34 of 66                  Ver. Product/Services 2019-4GS YEM
+
+         EVALUATION CRITERIA FOR THE BID
+
+
+
+
+ Document        Reference
+                                                                     Decision          Bid Section
+ description         to bidder’s    Weight      Decision Criteria
+                                                      Scheme          Reference
+                 document
+
+  (All criteria are weighted equally to each other)
+
+                                              Bidder has no poor    YES/NO
+                                           performance on
+                                                 contracts Signed SBD 4
+ Bidder’s                      Mandatory                                     Pages 48                                              Bidder is not         YES/NO
+ disclosures                                                  disbarred, did not
+                                                   collude, or do any
+                                                  unethical practises
+
+                                     Has the bidder       YES/NO
+                                              provided the evidence
+ Signed SBD 6.1                  Optional      to substantiate                       Pages 52
+                                           meeting the set
+                                                     specific goals
+
+ A valid B-BBEE                                         YES/NO
+                                                 Bidder’s disclosure
+  certificate or
+                                  Optional      affidavit signed by                     Pages 52
+ sworn
+                                                directors/owners
+  affidavit
+
+
+
+
+                                     Has the bidder completed the price
+ Signed SBD 3.1                Mandatory   schedule correctly                     Pages 42
+                                   YES/NO
+
+
+
+
+                                     Has the bidder signed  YES/NO
+ Signed SBD 1                 Mandatory                                     Pages 45-46
+                                                the SBD 1?
+
+
+
+
+Bid Number: NRF SAEON/                      Page 35 of 66                  Ver. Product/Services 2019-4GS YEM
+
+                                     Has the bidder
+                                              provided the CSD
+                                                 report?
+
+                                      Does the due
+                                                  diligence prove the
+                                                     YES/NO
+                                             data in the SBD 1 is
+                                                 correct?
+
+ Evidence                                         Verify the response
+  portfolio                                 meets 100% of the
+ supporting                    Mandatory  minimum hardware    YES/NO         Page 15
+ meeting the                                 requirements of each
+ Specifications                                     specification.
+
+                                                    Verify the data sheets
+                                                     of the Firewalls
+                                              provided indicate
+                                                      clearly which features
+                                                     YES/NO
+                                              are included and
+                                           which features are not
+                                                included in the pricing
+                               Mandatory   schedule.
+
+                                                    Verify the data sheets
+                                                     of the Firewalls
+ Data Sheets                                              provided indicate
+                                                     YES/NO
+                                                      clearly which features
+                                        meet the minimum
+                                                      specification.                        Page 13 to 15
+
+
+                                                    Verify the response
+                                         meets 100% minimum
+ Warranties                                    warrantied response   YES/NO
+                               Mandatory
+                                               time requirements of
+                                         each specification
+
+
+ At     least    3               Mandatory  Does   the   bidder’s  YES/NO
+ Contactable    x                             references
+                                                                        Page 60 Annexure
+ References                                demonstrate       the
+                                                                            1
+                                                bidder can perform the
+                                                  contract work?
+
+
+
+
+Bid Number: NRF SAEON/                      Page 36 of 66                  Ver. Product/Services 2019-4GS YEM
+
+                                                Supplier has clearly    YES/NO
+                                                 stated that installation
+  Installation                    Mandatory                                    Page 13 to 15
+                                                             is included in the
+                                                       pricing.
+
+                                                Supplier has clearly    YES/NO
+ Migration of                                    stated that Firewall
+  Firewall                       Mandatory   Configuration                        Page 13
+ configurations                                 Migrations is included
+                                                         in the pricing.
+
+                                            Did the bidder submit  YES/NO
+                                                  relevant qualifications
+  Qualification of                                   of the technical staff
+                               Mandatory                                    Page 15
+  technical staff                         who will be doing
+                                                        installation and
+                                                    configuration.
+
+ Annexure 2 -                                          YES/NO
+  Confidentiality and                             Did the bidder
+  Non-Disclosure                               completed and sign
+  Agreement.                     Mandatory                                    Page 55 - 65                                                the Non-disclosure
+ Completed and                             agreement.
+ signed
+
+
+
+
+
+ BIDDER IS ABLE TO DELIVER THE SPECIFICATION?            YES - PASS TO  NO -
+                                                        PRICING        DISQUALIFIED
+
+
+
+
+
+Bid Number: NRF SAEON/                      Page 37 of 66                  Ver. Product/Services 2019-4GS YEM
+
+   CONTRACT PART B – SBD 3.1 PRICING
+
+  SPECIAL PRICING CONDITIONS TO GCC17 FOR THIS BID
+
+ Actual Prices charged by the bidder for goods delivered and/or services performed for this bid shall not vary
+ from the prices quoted by the bidder in the submitted bid with the exception of any price adjustments as
+ outlined in the following price conditions.
+
+    1.   Compliant price calculation for price competition: Price quoted is South African Rands
+
+    2.   Date of unit pricing: All unit prices are quoted at the closing date of this bid.
+
+    3.    Price Quotation Basis: Unit prices are fully inclusive of all applicable taxes including VAT, less
+             all unconditional discounts, plus all costs to deliver the services and/or goods to the specified
+          delivery point stated in South African Rand currency.
+
+       Where imported goods/services are to be used, the exchange rate to be quoted in arriving at ZAR
+                 if a firm local currency price is not quoted as well as the portion of the line item price payable in
+          foreign currency overseas
+
+        Exchange rate movements do not apply to local pricing and costs i.e. clearing, customs, delivery,
+           installation, etc.
+
+    4.    Quantity estimation: Bidders must quote according to the quantities stipulated in the pricing
+         schedule
+
+    5.    Contract Price: The cumulative value of all purchase orders issued and paid for is the total value
+          of the signed contract at the completion date of the contract, not the competition bid price.
+
+    6.   Value Added Tax: Pricing will be adjusted for any variation in the in Value Added Tax rate as
+          gazetted.
+
+    7.    Price Adjustment Rules: The business unit will not consider any unit price variations that are
+         applied unilateral. The appointed bidder provides detail reasons for the submitted price variations
+          substantiated by evidence for negotiation with SAEON for considering the price adjustment.
+
+    8.    Contract Price Management during the contract: Where appropriate, the contract manager will
+         issue written purchase orders authorising the deliverables of this bid as addendums to this
+          contract. The purchase orders stipulate quantity, work description, delivery date, and the unit price
+           in accordance with the contract.
+
+    9.    Delivery Points are:
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 38 of 66                  Ver. Product/Services 2019-4GS YEM
+
+          Aridlands Node:                         Grasslands Node:
+          -28.7719222, 24.7510805                 Queen Elizabeth Park,
+          P.O. Box 110040                         1 Peter Brown Drive,
+          Kimberley                                     Pietermaritzburg
+         8306                                     South Africa
+
+
+       DR Site:                                Elwandle Node:
+       NRF Building                          Ocean Sciences Campus, Nelson Mandela
+         South Gate                                     University Gomery Avenue, Summerstrand
+        CSIR Complex                                Port Elizabeth, 6001 South Africa
+           Meiring Naudé Road
+         Brummeria
+           Pretoria
+         South Africa
+
+        Fynbos Node:                            Egagasini Node:
+          Located on SAAO premises. 1 Observatory     5th Floor
+        Road Observatory                              Foretrust Building
+                                                         Martin Hammerschlag Way
+                                            Cape Town, 8000
+
+         Ulwazi Node:
+
+           8th Floor, The Towers South Corner, Hertzog Blvd, Foreshore, Cape Town, 8001
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 39 of 66                  Ver. Product/Services 2019-4GS YEM
+
+             BID PRICE SCHEDULE (SBD 3.1)
+
+ Submit pricing in separate folder(stand-alone)
+
+
+
+ DESCRIPTION          QUANTI  UNIT OF     UNIT PRICE         TOTAL (INCLUDEs
+                     TY     MEASURE                     VAT of 15%)
+
+ FortiGate 60E            4         Per Firewall
+ Replacements
+
+ FortiGate 500E           2         Per Firewall
+ Replacements
+
+ FortiGate 500E           1         Per Firewall
+ Replacement
+
+ Central Management      1         Per License
+ Software
+
+ AI Log Analyser          1         Per License
+  Integration
+
+ Configuration Migration     7         Per Firewall
+  tool
+
+ Delivery                 1          Total for all
+                                             sites
+
+ Total Installation Cost      1          Total for all
+                                             sites
+
+
+
+ TOTAL EXCLUDING VAT
+
+ VAT (15%)
+
+ TOTAL BID PRICE INCLUSIVE OF VAT          R
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 40 of 66                  Ver. Product/Services 2019-4GS YEM
+
+       CONTRACT PART C - RETURNS
+
+
+                              PART A                    SBD 1
+                                 INVITATION TO BID
+YOU ARE HEREBY INVITED TO BID FOR REQUIREMENTS OF THE (NAME OF DEPARTMENT/ PUBLIC ENTITY)
+BID NUMBER:   NRF/SAEON/Ulwazi /37/2025-26   CLOSING DATE:           30 September 2025   CLOSING TIME:    11:00
+                Appointment of service provider to Replacement of 7 ageing firewalls at SAEON with new NGFWs and adding some extra
+DESCRIPTION   needed security management services Research Infrastructure
+BID RESPONSE DOCUMENTS MAY BE DEPOSITED IN THE BID BOX SITUATED AT (STREET ADDRESS)
+
+N/A( Electronic Submission)
+
+
+
+
+
+BIDDING PROCEDURE ENQUIRIES MAY BE DIRECTED TO         TECHNICAL ENQUIRIES MAY BE DIRECTED TO:
+CONTACT PERSON                                   CONTACT PERSON
+TELEPHONE NUMBER                                  TELEPHONE NUMBER
+FACSIMILE NUMBER                                         FACSIMILE NUMBER
+E-MAIL ADDRESS                                              E-MAIL ADDRESS
+SUPPLIER INFORMATION
+
+NAME OF BIDDER
+
+POSTAL ADDRESS
+
+STREET ADDRESS
+
+TELEPHONE NUMBER   CODE                                NUMBER
+
+CELLPHONE NUMBER
+
+FACSIMILE NUMBER     CODE                                NUMBER
+
+E-MAIL ADDRESS
+VAT    REGISTRATION
+NUMBER
+SUPPLIER COMPLIANCE  TAX COMPLIANCE                            CENTRAL
+STATUS              SYSTEM PIN:                                  SUPPLIER
+                                                OR                                                             DATABASE
+                                                                              No:         MAAA
+ARE YOU THE
+ACCREDITED                                        ARE YOU A FOREIGN BASED      ☐Yes            ☐No
+REPRESENTATIVE IN    ☐Yes         ☐No              SUPPLIER FOR THE GOODS
+SOUTH AFRICA FOR                                        /SERVICES OFFERED?                  [IF YES, ANSWER THE
+THE GOODS /SERVICES    [IF YES ENCLOSE PROOF]                                         QUESTIONNAIRE BELOW]
+OFFERED?
+QUESTIONNAIRE TO BIDDING FOREIGN SUPPLIERS
+
+
+
+
+
+         Bid Number: NRF/SAEON/37/2025-26                                      Page 41 of 66                  Ver. Product/Services 2019-4GS YEM
+
+IS THE ENTITY A RESIDENT OF THE REPUBLIC OF SOUTH AFRICA (RSA)?                  ☐ YES ☐ NO
+DOES THE ENTITY HAVE A BRANCH IN THE RSA?                             ☐ YES ☐ NO
+
+DOES THE ENTITY HAVE A PERMANENT ESTABLISHMENT IN THE RSA?                   ☐ YES ☐ NO
+
+DOES THE ENTITY HAVE ANY SOURCE OF INCOME IN THE RSA?                      ☐ YES ☐ NO
+
+IS THE ENTITY LIABLE IN THE RSA FOR ANY FORM OF TAXATION?                     ☐ YES ☐ NO
+IF THE ANSWER IS “NO” TO ALL OF THE ABOVE, THEN IT IS NOT A REQUIREMENT TO REGISTER FOR A TAX COMPLIANCE STATUS
+SYSTEM PIN CODE FROM THE SOUTH AFRICAN REVENUE SERVICE (SARS) AND IF NOT REGISTER AS PER 2.3 BELOW.
+
+
+
+                                PART B
+                    TERMS AND CONDITIONS FOR BIDDING
+
+         1.  BID SUBMISSION:
+         1.1.  BIDS MUST BE DELIVERED BY THE STIPULATED TIME TO THE CORRECT ADDRESS. LATE BIDS WILL NOT BE
+         ACCEPTED FOR CONSIDERATION.
+
+         1.2. ALL BIDS MUST BE SUBMITTED ON THE OFFICIAL FORMS PROVIDED (NOT TO BE RE-TYPED) OR IN THE
+         MANNER PRESCRIBED IN THE BID DOCUMENT.
+
+         1.3.  THIS BID IS SUBJECT TO THE PREFERENTIAL PROCUREMENT POLICY FRAMEWORK ACT, 2000 AND THE
+          PREFERENTIAL PROCUREMENT REGULATIONS, THE GENERAL CONDITIONS OF CONTRACT (GCC) AND, IF
+           APPLICABLE, ANY OTHER SPECIAL CONDITIONS OF CONTRACT.
+
+         1.4. THE SUCCESSFUL BIDDER WILL BE REQUIRED TO FILL IN AND SIGN A WRITTEN CONTRACT FORM (SBD7).
+
+         2.  TAX COMPLIANCE REQUIREMENTS
+        2.1  BIDDERS MUST ENSURE COMPLIANCE WITH THEIR TAX OBLIGATIONS.
+
+        2.2  BIDDERS ARE REQUIRED TO SUBMIT THEIR UNIQUE PERSONAL IDENTIFICATION NUMBER (PIN) ISSUED BY SARS
+         TO ENABLE THE ORGAN OF STATE TO VERIFY THE TAXPAYER’S PROFILE AND TAX STATUS.
+
+        2.3  APPLICATION FOR TAX COMPLIANCE STATUS (TCS) PIN MAY BE MADE VIA E-FILING THROUGH THE SARS
+          WEBSITE WWW.SARS.GOV.ZA.
+
+        2.4  BIDDERS MAY ALSO SUBMIT A PRINTED TCS CERTIFICATE TOGETHER WITH THE BID.
+
+        2.5  IN BIDS WHERE CONSORTIA / JOINT VENTURES / SUB-CONTRACTORS ARE INVOLVED; EACH PARTY MUST
+          SUBMIT A SEPARATE TCS CERTIFICATE / PIN / CSD NUMBER.
+
+        2.6  WHERE NO TCS PIN IS AVAILABLE BUT THE BIDDER IS REGISTERED ON THE CENTRAL SUPPLIER DATABASE
+             (CSD), A CSD NUMBER MUST BE PROVIDED.
+
+        2.7  NO BIDS WILL BE CONSIDERED FROM PERSONS IN THE SERVICE OF THE STATE, COMPANIES WITH DIRECTORS
+        WHO ARE PERSONS IN THE SERVICE OF THE STATE, OR CLOSE CORPORATIONS WITH MEMBERS PERSONS IN
+          THE SERVICE OF THE STATE.”
+
+      NB: FAILURE TO PROVIDE / OR COMPLY WITH ANY OF THE ABOVE PARTICULARS MAY RENDER THE BID INVALID.
+
+     SIGNATURE OF BIDDER:                 ……………………………………………
+
+     CAPACITY UNDER WHICH THIS BID IS SIGNED:       ……………………………………………
+       (Proof of authority must be submitted e.g. company resolution)
+
+     DATE:                          ……………………………
+
+
+
+
+         Bid Number: NRF/SAEON/37/2025-26                                      Page 42 of 66                  Ver. Product/Services 2019-4GS YEM
+
+            BIDDER’S DISCLOSURE SBD 4
+
+
+
+1. PURPOSE OF THE FORM
+
+Any person (natural or juristic) may make an offer or offers in terms of this invitation to bid. In line with the
+principles of transparency, accountability, impartiality, and ethics as enshrined in the Constitution of the
+Republic of South Africa and further expressed in various pieces of legislation, it is required for the bidder to
+make this declaration in respect of the details required hereunder.
+
+
+Where a person/s are listed in the Register for Tender Defaulters and / or the List of Restricted Suppliers,
+that person will automatically be disqualified from the bid process.
+
+
+2.  Bidder’s declaration
+
+2.1      Is the bidder, or any of its directors / trustees / shareholders / members / partners or any person
+having a controlling interest1 in the enterprise,
+
+       employed by the state?
+
+                                                                  YES/NO
+
+2.1.1     If so, furnish particulars of the names, individual identity numbers, and, if applicable, state employee
+numbers of sole proprietor/ directors / trustees / shareholders / members/ partners or any person having a
+controlling interest in the enterprise, in table below.
+
+
+
+  Full Name                        Identity Number        Name of State institution
+
+
+
+
+
+1 the power, by one person or a group of persons holding the majority of the equity of an enterprise, alternatively, the person/s having the deciding
+vote or power to influence or to direct the course and decisions of the enterprise.
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 43 of 66                  Ver. Product/Services 2019-4GS YEM
+
+2.2    Do you, or any person connected with the bidder, have a relationship with any person who is
+employed by the procuring institution?
+                                                                     YES/NO
+
+
+2.2.1     If so, furnish particulars:
+
+……………………………………………………………………………………
+
+……………………………………………………………………………………
+
+
+2.3    Does the bidder or any of its directors / trustees / shareholders / members / partners or any person
+having a controlling interest in the enterprise have any interest in any other related enterprise whether or not
+they are bidding for this contract?
+
+                                                                    YES/NO
+
+
+2.3.1     If so, furnish particulars:
+
+…………………………………………………………………………….
+
+…………………………………………………………………………….
+
+
+3   DECLARATION
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 44 of 66                  Ver. Product/Services 2019-4GS YEM
+
+I, the undersigned, (name)……………………………………………………………………. in submitting the
+accompanying bid, do hereby make the following statements that I certify to be true and complete in every
+respect:
+
+
+3.1        I have read and I understand the contents of this disclosure;
+
+3.2        I understand that the accompanying bid will be disqualified if this disclosure is found not to be true
+and complete in every respect;
+
+3.3    The bidder has arrived at the accompanying bid independently from, and without consultation,
+communication, agreement, or arrangement with any competitor. However, communication between
+partners in a joint venture or consortium2 will not be construed as collusive bidding.
+
+3.4     In addition, there have been no consultations, communications, agreements or arrangements with
+any competitor regarding the quality, quantity, specifications, prices, including methods, factors or formulas
+used to calculate prices, market allocation, the intention or decision to submit or not to submit the bid, bidding
+with the intention not to win the bid and conditions or delivery particulars of the products or services to which
+this bid invitation relates.
+
+3.4    The terms of the accompanying bid have not been, and will not be, disclosed by the bidder, directly
+or indirectly, to any competitor, prior to the date and time of the official bid opening or of the awarding of the
+contract.
+
+
+3.5    There have been no consultations, communications, agreements or arrangements made by the
+bidder with any official of the procuring institution in relation to this procurement process prior to and during
+the bidding process except to provide clarification on the bid submitted where so required by the institution;
+and the bidder was not involved in the drafting of the specifications or terms of reference for this bid.
+
+
+3.6  I am aware that, in addition and without prejudice to any other remedy provided to combat any restrictive
+    practices related to bids and contracts, bids that are suspicious will be reported to the Competition
+   Commission for investigation and possible imposition of administrative penalties in terms of section 59
+    of the Competition Act No 89 of 1998 and or may be reported to the National Prosecuting Authority
+   (NPA) for criminal investigation and or may be restricted from conducting business with the public sector
+     for a period not exceeding ten (10) years in terms of the Prevention and Combating of Corrupt Activities
+    Act No 12 of 2004 or any other applicable legislation.
+
+
+
+
+
+2 Joint venture or Consortium means an association of persons for the purpose of combining their expertise, property, capital, efforts, skill and
+knowledge in an activity for the execution of a contract.
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 45 of 66                  Ver. Product/Services 2019-4GS YEM
+
+I CERTIFY THAT THE INFORMATION FURNISHED IN PARAGRAPHS 1, 2 and 3 ABOVE IS CORRECT.
+
+I ACCEPT THAT THE STATE MAY REJECT THE BID OR ACT AGAINST ME IN TERMS OF PARAGRAPH
+6 OF PFMA SCM INSTRUCTION 03 OF 2021/22 ON PREVENTING AND COMBATING ABUSE IN THE
+SUPPLY CHAIN MANAGEMENT SYSTEM SHOULD THIS DECLARATION PROVE TO BE FALSE.
+
+
+
+
+
+………………………………   ..……………………………………………
+
+          Signature                           Date
+
+
+………………………………   ………………………………………………
+
+             Position                  Name of bidder
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 46 of 66                  Ver. Product/Services 2019-4GS YEM
+
+       STANDARD BIDDING DOCUMENT (SBD 6.1)
+
+ PREFERENCE POINTS CLAIM FORM IN TERMS OF THE PREFERENTIAL PROCUREMENT
+ REGULATIONS 2022
+
+ This preference form must form part of all tenders invited. It contains general information and serves as a
+ claim form for preference points for specific goals.
+
+
+ NB:   BEFORE COMPLETING THIS FORM, TENDERERS MUST STUDY THE GENERAL CONDITIONS,
+ DEFINITIONS AND DIRECTIVES APPLICABLE IN RESPECT OF THE TENDER AND PREFERENTIAL
+ PROCUREMENT REGULATIONS, 2022
+
+ 1.     GENERAL CONDITIONS
+
+ 1.1      The following preference point systems are applicable to invitations to tender:
+
+             -    the 80/20 system for requirements with a Rand value of up to R50 000 000 (all applicable taxes
+                 included); and
+
+             -    the 90/10 system for requirements with a Rand value above R50 000 000 (all applicable taxes
+                 included).
+
+
+ 1.2     To be completed by the organ of state
+
+
+         a)  The applicable preference point system for this tender is the 80/20 preference point system.
+
+
+         b)  The 80/20 preference point system  will be applicable  in  this tender. The lowest/ highest
+            acceptable tender will be used to determine the accurate system once tenders are received.
+
+
+ 1.3       Points for this tender (even in the case of a tender for income-generating contracts) shall be
+         awarded for:
+
+             (a)    Price; and
+
+             (b)   Specific Goals.
+
+
+ 1.4     To be completed by the organ of state:
+
+ The maximum points for this tender are allocated as follows:
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 47 of 66                  Ver. Product/Services 2019-4GS YEM
+
+       STANDARD BIDDING DOCUMENT (SBD 6.1)
+
+                                                   POINTS
+
+         PRICE                                         80
+
+         SPECIFIC GOALS                                20
+
+            Total points for Price and SPECIFIC GOALS           100
+
+
+
+
+ 1.5       Failure on the part of a tenderer to submit proof or documentation required in terms of this tender
+            to claim points for specific goals with the tender will be interpreted to mean that preference points
+             for specific goals are not claimed.
+
+
+ 1.6      The organ of state reserves the right to require of a tenderer, either before a tender is adjudicated
+            or at any time subsequently, to substantiate any claim in regard to preferences, in any manner
+           required by the organ of state.
+
+
+ 2.      DEFINITIONS
+
+      (a)  “tender” means a written offer in the form determined by an organ of state in response to an invitation
+          to provide goods or services through price quotations, competitive tendering process or any other
+        method envisaged in legislation;
+
+      (b) “price” means an amount of money tendered for goods or services, and includes all applicable taxes
+          less all unconditional discounts;
+
+      (c) “rand value” means the total estimated value of a contract in Rand, calculated at the time of bid
+           invitation, and includes all applicable taxes;
+
+      (d) “tender for income-generating contracts” means a written offer in the form determined by an organ
+          of state in response to an invitation for the origination of income-generating contracts through any
+        method envisaged in legislation that will result in a legal agreement between the organ of state and a
+           third party that produces revenue for the organ of state, and includes, but is not limited to, leasing and
+         disposal of assets and concession contracts, excluding direct sales and disposal of assets through
+          public auctions; and
+
+      (e) “the Act” means the Preferential Procurement Policy Framework Act, 2000 (Act No. 5 of 2000).
+
+
+ 3.     FORMULAE FOR PROCUREMENT OF GOODS AND SERVICES
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 48 of 66                  Ver. Product/Services 2019-4GS YEM
+
+       STANDARD BIDDING DOCUMENT (SBD 6.1)
+
+
+            3.1.   POINTS AWARDED FOR PRICE
+
+
+ 3.1.1 THE 80/20 PREFERENCE POINT SYSTEMS
+
+      A maximum of 80 points is allocated for price on the following basis:
+
+
+                80/20
+
+
+
+
+                     𝑃𝑡−𝑃𝑚𝑖𝑛
+     𝑃𝑠= 80 (1 − 𝑃𝑚𝑖𝑛)
+
+       Ps    =       Points scored for price of tender under consideration
+
+         Pt     =       Price of tender under consideration
+
+       Pmin  =       Price of lowest acceptable tender
+
+
+            3.2.   FORMULAE FOR DISPOSAL OR LEASING OF STATE ASSETS AND INCOME
+             GENERATING PROCUREMENT
+
+
+                       3.2.1.  POINTS AWARDED FOR PRICE
+
+
+ A maximum of 80 or 90 points is allocated for price on the following basis:
+
+
+
+
+                      80/20             or           90/10
+
+
+
+     𝑃𝑠= 80 (1 +                    𝑃𝑡−𝑃𝑚𝑎𝑥        or   𝑃𝑠= 90 (1 + 𝑃𝑡−𝑃𝑚𝑎𝑥                𝑃𝑚𝑎𝑥)                   𝑃𝑚𝑎𝑥)
+
+
+ Where
+
+       Ps    =       Points scored for price of tender under consideration
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 49 of 66                  Ver. Product/Services 2019-4GS YEM
+
+       STANDARD BIDDING DOCUMENT (SBD 6.1)
+
+         Pt     =       Price of tender under consideration
+
+       Pmax  =       Price of highest acceptable tender
+
+
+ 4.  4. POINTS AWARDED FOR SPECIFIC GOALS
+
+
+            4.1.     In terms of Regulation 4(2); 5(2); 6(2) and 7(2) of the Preferential Procurement Regulations,
+                  preference points must be awarded for specific goals stated in the tender. For the purposes
+                     of this tender the tenderer will be allocated points based on the goals stated in table 1 below
+                 as may be supported by proof/ documentation stated in the conditions of this tender:
+
+            4.2.     In cases where organs of state intend to use Regulation 3(2) of the Regulations, which
+                    states that, if it is unclear whether the 80/20 or 90/10 preference point system applies, an
+                 organ of state must, in the tender documents, stipulate in the case of—
+
+                 (a) an invitation for tender for income-generating contracts, that either the 80/20 or 90/10
+                  preference point system will apply and that the highest acceptable tender will be used to
+                  determine the applicable preference point system; or
+
+
+                 (b) any other invitation for tender, that either the 80/20 or 90/10 preference point system will
+                  apply and that the lowest acceptable tender will be used to determine the applicable
+                  preference point system,
+
+ then the organ of state must indicate the points allocated for specific goals for both the 90/10 and 80/20
+ preference point system.
+
+
+ Table 1: Specific goals for the tender and points claimed are indicated per the table below.
+
+ (Note to organs of state: Where either the 90/10 or 80/20 preference point system is applicable, corresponding
+ points must also be indicated as such.
+
+ Note to tenderers: The tenderer must indicate how they claim points for each preference point system.)
+
+ The NRF supports the specific goals set out in the B-BBEE Codes of Good Practise for the various sectors.
+ The NRF sets as the bid’s specific goals those that the bidder has in its Code of Good Practise scorecard and
+ accepts the verified measurement of the accredited verifier that the scores achieved for each specific goal is
+ correctly stated in the last verified scorecard.
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 50 of 66                  Ver. Product/Services 2019-4GS YEM
+
+       STANDARD BIDDING DOCUMENT (SBD 6.1)
+
+ The NRF, not to penalise bidders on their specific goal achieved scores, utilises the total score of the scorecard
+ as the measurement of achieving the portfolio of specific goals. To aid in administration, the NRF groups the
+  total score in the B-BBEE status level bands and uses these for the allocation preference points.
+
+
+ Preference points are allocated to both procurement and income-generation based on the two different
+ thresholds in terms of the table below:
+
+
+
+  The specific goals allocated                        Number    of    points                         Number of points
+   points in terms of this tender:                             claimed (80/20 system)
+                                 allocated  Stated in the table above                                                        (To be completed by
+                               (80/20 system)  B-BBEE Status Level of                                   the tenderer)
+
+   Contributor
+
+  1                        20
+
+  2                        18
+
+  3                        14
+
+  4                        12
+
+  5                        8
+
+  6                        6
+
+  7                        4
+
+  8                        2
+
+  Non-compliant             0
+
+
+
+       DECLARATION WITH REGARD TO COMPANY/FIRM
+
+
+            4.3.   Name of company/firm…………………………………………………………………….
+
+            4.4.   Company registration number: …………………………………………………………...
+
+            4.5.   TYPE OF COMPANY/ FIRM
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 51 of 66                  Ver. Product/Services 2019-4GS YEM
+
+       STANDARD BIDDING DOCUMENT (SBD 6.1)
+
+  •       Partnership/Joint Venture / Consortium
+
+  •      One-person business/sole propriety
+
+  •      Close corporation
+
+  •       Public Company
+
+  •       Personal Liability Company
+
+  •        (Pty) Limited
+
+  •       Non-Profit Company
+
+  •       State Owned Company
+
+ [Tick applicable box]
+
+
+            4.6.       I, the undersigned, who is duly authorised to do so on behalf of the company/firm, certify
+                     that the points claimed, based on the specific goals as advised in the tender, qualifies the
+                company/ firm for the preference(s) shown and I acknowledge that:
+
+                   i)  The information furnished is true and correct;
+
+                    ii)  The preference points claimed are in accordance with the General Conditions as indicated in
+              paragraph 1 of this form;
+
+                     iii)  In the event of a contract being awarded as a result of points claimed as shown in paragraphs
+               1.4 and 4.2, the contractor may be required to furnish documentary proof to the satisfaction of
+               the organ of state that the claims are correct;
+
+               iv)   If the specific goals have been claimed or obtained on a fraudulent basis or any of the conditions
+                 of contract have not been fulfilled, the organ of state may, in addition to any other remedy it
+           may have –
+
+
+                                    (a) disqualify the person from the tendering process;
+
+                                    (b) recover costs, losses or damages it has incurred or suffered as a result
+                                        of that person’s conduct;
+
+                                      (c) cancel the contract and claim any damages which it has suffered as a
+                                         result of having to make less favourable arrangements due to such
+                                       cancellation;
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 52 of 66                  Ver. Product/Services 2019-4GS YEM
+
+       STANDARD BIDDING DOCUMENT (SBD 6.1)
+
+                                    (d) recommend  that  the  tenderer  or  contractor,  its  shareholders and
+                                        directors, or only the shareholders and  directors who acted on a
+                                     fraudulent basis, be restricted from obtaining business from any organ of
+                                      state for a period not exceeding 10 years, after the audi alteram partem
+                                   (hear the other side) rule has been applied; and
+
+                                    (e) forward the matter for criminal prosecution, if deemed necessary.
+
+
+
+
+ ……………………………………….
+
+ SIGNATURE(S) OF TENDERER(S)
+
+
+ SURNAME AND NAME:    ……………………………………………………….
+
+ DATE:        ………………………………………………………
+
+ ADDRESS:      ………………………………………………………
+
+            ………………………………………………………
+
+            ………………………………………………………
+
+            ………………………………………………………
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 53 of 66                  Ver. Product/Services 2019-4GS YEM
+
+    ANNEXURES – ATTACHED AT END OF DOCUMENT
+
+
+
+  Annexure Number    Annexure Title
+
+  Annexure 1       REFERENCE LETTER
+
+  Annexure 2         CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 54 of 66                  Ver. Product/Services 2019-4GS YEM
+
+   ANNEXURE 1 – REFERENCE LETTER FORMAT FOR
+                    BIDDER
+
+
+
+  Referee Legal Name:
+
+  Company:
+
+  Bid Number:                 NRF/SAEON/Ulwazi /37/2025-26
+
+  Bid Description: Appointment of service provider to Replacement of 7 ageing firewalls at SAEON with
+  new NGFWs and adding some extra needed security management services Research Infrastructure.
+
+
+
+  Describe the service/work the above bidder provided to you below
+
+
+
+
+   Criteria/Risks                          Below           Meets         Exceeds
+                                            requirements      requirements    requirements
+
+  Professionalism
+
+  Completion times
+
+   Satisfaction with work done
+
+  Technology up to date
+
+   Project management
+
+   Is the service provider reliable?
+
+  Service delivery scheduling and
+  implementation
+
+   Overall Impression                        Other comments
+
+  Approximate value of contract
+
+  Would you use the provider again?                  ❑ YES ❑ NO
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 55 of 66                  Ver. Product/Services 2019-4GS YEM
+
+  Completed by:
+
+   Signature:
+
+  Company Name:
+
+  Contact Telephone Number:
+
+  Date:
+
+
+ ANNEXURE 2 – CONFIDENTIALITY AND NON-DISCLOSURE
+                AGREEMENT
+
+
+
+                              THIS AGREEMENT is between
+
+                   THE NATIONAL RESEARCH FOUNDATION (NRF)
+
+ A statutory entity and a juristic person established in terms of the National Research Foundation
+  Act, No 23 of 1998 herein represented by Mr. Hannes Greeff in his capacity as Acting Head: GRLC
+                              and duly authorised thereto
+
+
+                                   (hereinafter referred to as “NRF”)
+
+
+                                       And
+
+
+                              ____________________________
+
+  herein represented by __________________ in his capacity as ______________________, he being
+                                        duly authorised.
+
+
+                         (hereinafter referred to as “ _____________________”)
+
+
+                                 collectively referred to as the “Parties”
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 56 of 66                  Ver. Product/Services 2019-4GS YEM
+
+ WHEREAS:
+
+  During the course of the collaboration the Parties will gain access to Confidential Information (as hereinafter
+ defined) pertaining to the affairs of the Parties; and
+
+ The Parties wish to regulate how such Confidential Information is to be treated while in the possession or
+ control of (the Receiving Party as hereinafter defined) so as to protect the proper interests of either Party
+ and/or (the Disclosing Party as hereinafter defined).
+
+ NOW IT IS HEREBY AGREED AS FOLLOWS:
+
+
+    1  INTERPRETATION
+
+ In this agreement:-
+
+ Unless the contract indicates a contrary intention, an expression which denotes:-
+
+ Any gender includes the other genders;
+
+ A natural person includes a juristic person and vice versa;
+
+ The singular includes the plural and vice versa;
+
+ Words and expressions defined in any clause shall, for the purposes of that clause, bear the meaning
+ assigned to such words and expressions in such clause.
+
+
+    2  DEFINITIONS
+
+ The following words and phrases shall have the following meanings unless the context otherwise requires:
+
+         1.1 “Business Day” shall mean any day other than a Saturday, Sunday or a public holiday
+
+ recognised as such under the Public Holidays Act, 1994
+
+
+         1.2 “ Confidential Information” means information furnished to the Receiving Parties by the
+             Disclosing Party in connection with the Purpose and which is unpublished, not available to the
+             general public or trade, and which is maintained as confidential and proprietary information by
+             the  Disclosing Party  for any reason,  including,  without  limitation,  regulatory, business,
+              competitive, contractual or customer relations reasons, but excluding information which was in
+             the public domain prior to the date of this Agreement or which becomes part of the public domain
+               after the date of this Agreement without any breach of this Agreement by the relevant party or
+             information which the relevant party can show was received by it from a third party without any
+            breach of a confidentiality obligation owed by that third party to the other party, or which was
+             independently developed by the relevant party without any breach of this Agreement;
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 57 of 66                  Ver. Product/Services 2019-4GS YEM
+
+         1.3 “Disclosing Party” means the party to this Agreement disclosing the Confidential Information;
+
+
+         1.4 "Information" shall include information provided to or acquired by the Receiving Party in oral
+              or documentary form or by way  of models or other  tangible or intangible form or by
+            demonstrations or presentations.
+
+
+         1.5 “Party (ies)” means the NRF and ____________________
+
+
+         1.6 “Period” means a period of one year commencing on the date of signature of this Agreement
+           by the last signing Party;
+
+
+         1.7 “Purpose” means to provide legal contract drafting, vetting and advisory services on a call off
+              basis.
+
+
+         1.8 “Receiving Party” means the party to this Agreement to whom the Confidential Information is
+              disclosed;
+
+
+ 3  BACKGROUND
+
+ At the NRF, contracts and agreements are generated and approved through a decentralized, structured
+ drafting and vetting process. This approach may lead to multiple drafts before submission for signatures.
+ The NRF utilizes contract management software to ensure efficient workflow and process control.
+
+ Legal practitioners appointed to our legal panel deliver high-quality, specialized services, including drafting,
+ reviewing, and advising on a wide range of complex commercial contracts. This encompasses memoranda
+ of understanding, funding agreements, partnership agreements, non-disclosure agreements, and other
+ related documents. They also provide guidance on governance matters.
+
+ The parties to this Agreement have developed or acquired technical and proprietary information regarding
+ products (referred to as "Confidential Information"). To ensure this information is treated with the utmost
+ confidentiality, the parties wish to establish clear guidelines for its disclosure.
+
+ Both parties aim to share Confidential Information solely for the limited purpose of drafting or vetting
+ contracts or advisory services.
+
+
+ 4  SUPPLY AND USE OF MATERIAL
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 58 of 66                  Ver. Product/Services 2019-4GS YEM
+
+ 4.2 The parties intend disclosing Confidential Information to each other for the Purpose and the parties
+     agree for the entire duration of the Agreement:
+
+
+ 4.2.1  To keep the Disclosing Party’s Confidential Information confidential;
+
+
+ 4.2.2   Not to use the Disclosing Party’s Confidential Information except for the Purpose or in relations to
+        any services which may be performed by the parties;
+
+
+ 4.2.3   Not to disclose the Disclosing Party’s Confidential Information to any third party and to use
+         reasonable efforts to prevent any such disclosure except as expressly permitted by this Agreement.
+
+
+ 4.2.4   Each party's Confidential Information shall be supplied to the other party in written, graphic,
+         photographic, recorded, prototype, sample, or in any other tangible form and shall be identified as
+         being disclosed under this Agreement. Any Confidential Information which is disclosed in oral form
+          shall be identified as such at the time of disclosure and confirmed in written summary form within
+            thirty (30) days after its disclosure to the receiving party.
+
+
+ 4.2.5  As used in this Agreement, "Confidential Information" shall mean all data, samples, technical and
+        economic information, commercialisation, company strategies, customer information, trade secrets
+        and know-how disclosed or provided by one party to the other, except such information which:-
+
+
+                        (a) can be shown by the receiving party to have been in  its possession prior to
+                          disclosure to it by the other party;
+
+
+                        (b) at the time of disclosure hereunder is, or thereafter, becomes, through no fault of
+                         the receiving party, part of the public domain by publication or otherwise;
+
+
+                         (c)  is furnished to the receiving party by a third party after the time of disclosure
+                       hereunder as a matter of right and without restriction on its disclosure;
+
+
+                        (d)  is independently developed by employees or agents of the receiving party who
+                     have not had access, direct or indirect, to the Confidential Information received
+                       from the other;
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 59 of 66                  Ver. Product/Services 2019-4GS YEM
+
+                        (e)  is furnished to others by the Disclosing Party without restriction on disclosure; or;
+
+
+  (f)        is disclosed to a third party with the written approval of the Disclosing Party.
+
+
+ 4.2.6   Each party agrees to limit its use of any Confidential Information received from the other party, and
+           for no other purpose unless the parties shall otherwise agree in writing. Each party agrees to not
+        make, use, sell, offer for sale, or have made, any product or service based upon the Confidential
+         Information provided to it without executing a licensing agreement. Each party further agrees not to
+         reverse engineer or disassemble the technology disclosed to it.
+
+
+ 4.2.7   Each party agrees to maintain in confidence and not to disclose any Confidential Information
+         received from the other party other than to employees or agents who have a need to know the
+          Confidential Information for its purpose.
+
+
+ 4.2.8   Each party agrees not to make any copies in whole or in part of Confidential Information or analyze
+        samples of tangible materials included therein, which are not available on the open market or from
+         other sources, and will, upon request by the disclosing party, return all tangible materials furnished
+        hereunder and any notes or memoranda of conversations relating thereto, including any copies
+          thereof.
+
+
+ 4.2.9  The confidentiality obligation in sub-Clause (b) of this Clause shall continue in force during the
+         continuance of this Agreement and will remain in force for ten (10) years following the termination
+         or expiration of this Agreement.
+
+
+ 5  CONFIDENTIALITY
+
+
+ 5.2 Each party shall protect the Confidential Information of the other party through the exercise of the
+     precaution set out in this Agreement and no less protection and care than  it customarily uses in
+     preserving and safeguarding its own Confidential Information which shall be at least a reasonable
+     standard of care;
+
+
+ 5.3 The Receiving Party will keep the Confidential Information in a secure environment, and not copy or use
+     Confidential Information except as is reasonably necessary in connection with the purpose;
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 60 of 66                  Ver. Product/Services 2019-4GS YEM
+
+ 5.4 Nothing in this Agreement shall prevent or restrict the parties from developing, using and disclosing the
+     techniques, ideas, concepts, information or know-how relating to methods or processes of general
+      application that is similar or related to the Confidential Information disclosed under this Agreement ;
+
+
+ 5.5 The Receiving Party agrees to advise the Disclosing Party immediately if it is aware or suspects that the
+      security of the Confidential Information has or may be compromised in any way;
+
+
+ 5.6 The Receiving Party shall not reproduce, copy, disclose, disseminate or transfer to any third party in
+     whole or in part any Confidential Information of the Disclosing Party except:
+
+
+ 5.6.1   With the prior written consent of the Disclosing Party;
+
+
+ 5.6.2  To those of its directors, contractors, advisers and employees as are or are likely to be directly
+        concerned with furthering the Purpose or incidental matters and who need to know the Confidential
+         Information (or any part or it) in furtherance of the Purpose;
+
+
+ 5.6.3  To those of its professional advisers engaged to advise in connection with the purpose who need to
+       know the Confidential Information (or any party of it) in order to advise such party provided that the
+         Receiving Party shall procure that each of those directors, contractors, employees, advisers and
+         professional advisers to whom Confidential Information is to be disclosed is made aware of and
+          shall undertake to comply with the terms of this Agreement as if he were a party to it;
+
+
+ 5.6.4  To the extent such disclosure is required by any court of competent jurisdiction or by a governmental
+         or regulatory authority or where there is a legal right, duty or requirement to disclose, provided that
+        (and without breaching any legal or regulatory requirement)  where reasonably practicable the
+         Receiving Party gives not less than 2 (two) business days’ notice in writing to the Disclosing Party
+          of the requirement to make such disclosure;
+
+
+ 5.7 The Receiving Party shall not without the prior written consent of the Disclosing Party permit any third
+     party to have access to the Confidential Information where the Receiving Party is notified, or ought
+     reasonably to know that such third party is, or is employed by, a direct competitor of the Disclosing Party;
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 61 of 66                  Ver. Product/Services 2019-4GS YEM
+
+ 5.8 Neither of the parties shall use the Confidential Information in any way that is directly or indirectly
+     detrimental to the other party or so as to procure any commercial advantage over the other party.
+
+
+ 6  OWNERSHIP OF CONFIDENTIAL INFORMATION
+
+ Any Confidential Information imparted, disclosed or acquired hereunder shall remain the property of the
+ Disclosing Party or the originator of such Confidential Information and shall be applied for the Proper Use
+ only. No licence under any trademark, copyright, patent, design rights or any other intellectual property right
+  is granted, whether expressly or by implication, to the Receiving Party by the disclosure or acquisition of
+ such Confidential Information. The disclosure of such Confidential Information shall not constitute any
+ representation or warranty, express or implied with respect to the non-infringement of trademarks, patents,
+ copyright, design rights or any other intellectual property rights belonging to third parties.
+
+
+ 7  DURATION
+
+
+ The obligation of the parties under this Agreement shall terminate on the 1st anniversary of the date of this
+ Agreement. The provisions of this Agreement shall endure post the termination, notwithstanding any
+ termination of this Agreement.
+
+
+ 8  NO WARRANTY
+
+
+ No representation or warranty of any kind is given by the Disclosing Party with respect to Confidential
+ Information provided to the Receiving Party by the Disclosing Party or otherwise acquired by the Receiving
+ Party, including but not limited to any representation or warranty as to its accuracy or completeness or as to
+ the purpose for which the Confidential Information may be used. The Disclosing Party shall have no liability
+ to the Receiving Party for any claim by the Receiving Party arising out of the Receiving Party’s use of such
+ Confidential Information or to indemnify the Receiving Party in respect of any claim made against the
+ Receiving Party by any third party arising out of use of the Confidential Information
+
+
+ 9  LIABILITY
+
+
+ Neither party accepts any responsibility for or makes any representations nor shall warrant (express or
+ implied, statutory or otherwise) with respect to the accuracy or completeness of any of the Confidential
+ Information and neither party be liable to the other or any third party for any loss or damage resulting from
+ use of the Confidential Information.
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 62 of 66                  Ver. Product/Services 2019-4GS YEM
+
+    10  AMENDMENTS AND NO WAIVER
+
+ The provisions of this Agreement shall not be modified, amended or waived except by a written instrument
+ duly executed by the Parties. The requirement of written form can only be waived in writing.
+
+ The failure or neglect by the Disclosing Party to enforce at any time any of the provisions hereof shall not be
+ construed and shall not be deemed to be a waiver of the Disclosing Party's rights hereunder nor in any way
+ affect the validity of the whole or any part of this Agreement nor prejudice the Disclosing Party's rights to
+ take subsequent action. No waiver by a Party of any condition or of any breach of any term, covenant,
+ representation or warranty contained in this Agreement shall be effective unless in writing, and no waiver in
+ any one or more instances shall be deemed to be a further or continuing waiver of any such condition or
+ breach in other instances or a waiver of any other term, covenant, representation or warranty.
+
+  If any provision of this Agreement shall be held invalid, illegal or unenforceable, the validity, legality or
+ enforceability of the other provisions hereof shall not be affected thereby and the Parties shall use
+ reasonable endeavours to negotiate, in good faith, with a view to substituting for the provision in question a
+ valid, legal and enforceable provision as similar as possible to the provision in question.
+
+
+    11 NOTICES
+
+
+ Any notice required to be given hereunder by either Party to the other shall be in writing and shall be deemed
+ to have been sufficiently given if transmitted by telex or facsimile or delivered by hand or sent by registered
+ or recorded delivery post to the address of the Party as stated herein. Any notice so given shall be deemed
+ to have been duly given, if sent by telex or facsimile, at 10 a.m. local time in the place of receipt on the first
+ Business Day after completion of the transmission; and, if delivered by hand, at 10 a.m. local time in the
+ place of receipt on the first Business Day after being left at the address of the Party as stated herein; and, if
+ sent by registered or recorded delivery post, on the third Business Day after posting it.
+
+
+
+
+    12 NO POACHING
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 63 of 66                  Ver. Product/Services 2019-4GS YEM
+
+ The Parties shall, and shall procure that its subsidiaries shall, not solicit to hire or hire any employee of the
+ other Party with whom the Parties first had contact or learned of during the activities connected with the
+ purpose referred to in recital A above, without the prior written consent of the other Party: provided, however,
+ that nothing in this Agreement shall restrict or preclude the rights of the Parties or its subsidiaries to make
+ general solicitations for employees by way of advertisements in the media (including, without limitation, trade
+ media) or by engaging search firms to engage in solicitations that are not targeted or focused on the
+ employees of a Party and to hire any employees responding to such solicitations.
+
+
+    13 BREACH
+
+
+ In the event that the terms and conditions of this Agreement are breached by the Receiving Party, the
+ Disclosing Party may, at its option, elect to institute proceedings in court to obtain damages, to enforce
+ specific performance thereof, or to otherwise enjoin the disclosure or unauthorised use of its Confidential
+ Information.
+
+
+    14 NO ASSIGNMENT
+
+
+ Neither Party shall assign this Agreement or any part thereof without the prior written consent of the other.
+
+
+    15 GOVERNING LAW AND JURISDICTION
+
+
+ This Agreement shall be governed by, and construed in accordance with, the laws of the Republic of South
+ Africa and the Parties hereto submit to the exclusive jurisdiction of the courts of the Republic of South Africa
+ for  all purposes connected with  it save that the Disclosing Party reserves the right to institute legal
+ proceedings or take any other actions in any jurisdiction as the Disclosing Party believes is necessary to
+ protect its Confidential Information and other intellectual property rights and trade secrets.
+
+
+ 16 GENERAL
+
+
+ This Agreement constitutes the entire Agreement between the parties in respect of the subject matter hereof
+ and neither party shall be bound by any undertakings, representations, warranties or promises not recorded
+ in this Agreement;
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 64 of 66                  Ver. Product/Services 2019-4GS YEM
+
+ Neither party may assign, transfer or attempt to assign or transfer its rights or obligations under this
+ Agreement without the prior written consent of the other party. Any attempt to assign or transfer rights or
+ obligations under this Agreement in violation of this Clause will be void and of no force and effect;
+
+ Nothing in this Agreement shall be construed as a waiver or limitation of the rights of a party to enforce any
+ common law or statutory right which it may have in regard to the subject matter if this Agreement;
+
+ No variation or consensual cancellation of this Agreement and no addition to this Agreement, shall be of any
+ force or effect unless reduced to writing and signed by the parties or their duly authorised representatives;
+
+ No waiver of any of the terms and conditions of this Agreement will be binding or effectual for any purpose
+ unless expressed in writing and signed by the party hereto giving the same, and any such waiver will be
+ effective only in the specific instance and for the purpose given. No failure to delay on the part of either
+ party hereto in exercising any right, power or privilege hereunder will operate as a waiver thereof, nor will
+ any single or partial exercise of any right, power or privilege preclude any other or further exercise thereof
+ or the exercise of any other right, power or privilege;
+
+ Should any of the terms and conditions of this Agreement be held to be invalid, unlawful or unenforceable,
+ such terms and conditions will be severable from the remaining terms and conditions which will continue to
+ be valid and enforceable.  If any term or condition held to be invalid is capable of amendment to render it
+ valid, the parties agree to negotiate an amendment to remove the invalidity;
+
+ This Agreement will be governed by and construed in accordance with the law of the Republic of South
+ Africa and all disputes, actions and other matters relating thereto will be determined in accordance with such
+ law;
+
+ Notwithstanding termination of this Agreement, any clause which, from the context, contemplates on-going
+ rights and obligations of the parties, shall survive such termination and continue to be of full force and effect.
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 65 of 66                  Ver. Product/Services 2019-4GS YEM
+
+ Thus, done and signed at _______________________on the _____________day of _____________ 2025.
+
+
+ The National Research Foundation
+
+ Being duly authorised thereto
+
+
+ Signature: ______________________________
+
+ Shaun Swanepoel
+
+ Infrastructure Team Lead
+
+
+ Thus done and signed at _____________________on the ___________ day of _____________ 2025.
+
+
+ Bidder: _______________________________
+
+ Being duly authorised thereto
+
+
+ Name: ______________________________
+
+
+
+
+ Signature: ______________________________
+
+
+
+
+
+Bid Number: NRF/SAEON/37/2025-26                                      Page 66 of 66                  Ver. Product/Services 2019-4GS YEM

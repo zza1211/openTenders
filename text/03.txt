@@ -1,0 +1,1148 @@
+                         Phone No. 040-24581393
+
+
+    Tender Notice No.5-541/18-19/PS                     Date : 3rd December , 2018
+
+    TENDER ENQUIRY FOR PROCUREMENT AND INSTALLATION OF 10g
+  NETWORK CORE, LAYER 3 & LAYER 2 DISTRIBUTION SWITCHES IN TWO
+                             BID SYSTEM
+
+       ICAR-NAARM is a premier publicly funded Training and Research Management
+Organization under ICAR, DARE, Ministry of Agriculture, Government of India. The Director,
+ICAR-NAARM, Rajendranagar, Hyderabad – 500 030, Telangana, India now Invites sealed
+tenders for “procurement and installation of cisco outdoor and indoor access points with
+license (25 nos.) On single bid system”.
+
+Terms and Conditions:
+
+    1.  Important Dates:
+
+   Sl. No.             Description                 Date          Time
+      1.    Tender Publishing Date                03-12-2018       1400 hrs
+      2.    Document Download start date         03-12-2018       1400 hrs
+      3.    Seek Clarification Start Date           03-12-2018       1500 hrs
+      4.    Seek Clarification End Date            26-12-2018       1000 hrs
+      5.    Bid Submission Start Date             03-12-2018       1600 hrs
+      6.    Bid Submission Closing Date           26-12-2018       1400 hrs
+      7.    Bid Opening Date                     27-12-2018       1400 hrs
+
+
+
+Down Load :The tender documents indicating full details of 10g Network Core, Layer 3 &
+Layer 2 Distribution Switches - terms and conditions for supply and information format can
+be downloaded from NAARM Website (http://www.naarm.org.in/) or the Government of
+India, Central Public Procurement Portal (http://eprocure.gov.in/cppp/). Director, ICAR-
+NAARM reserves the right to accept or reject any tender(s) or in full without assigning any
+reason thereof. THE TENDER HAS TO BE SUBMITTED ONLINE ONLY.
+
+Note :
+    a.  The items as per supply order shall be transported to ICAR-NAARM Stores at your cost.
+    b. The information format should invariably be filled in and duly signed by the authorized
+       signatory and the terms and conditions strictly be followed before submitting the
+       tender.
+    c.  The tender(s) may be addressed to the Director, ICAR-NAARM, Rajendranagar,
+      Hyderabad-500 030.
+
+                                     1
+
+    d. Note : Bidder should Sign and Seal on each page of the Tender Document failing which
+      your Tender Document will not be accepted.
+
+General Terms and Conditions:
+
+    1.  Cost of Tender:  The cost of Tender document is free. The terms and conditions and
+       information  format  can  be  downloaded  from  ICAR   - NAARM  Website
+       (http://www.naarm.org.in/) or the Government of India, Central Public Procurement
+        Portal (http://eprocure.gov.in/cppp/). Director, ICAR-NAARM reserves the right to
+       accept or reject any tender(s) or in full without assigning any reason thereof.
+
+    2.  Earnest Money Deposit:   The vendors has to submit an EMD of Rs.1,50,000/-
+      (Rupees One Lakh Fifty Thousands only) along with tender document. Original
+     Demand Draft in respect of EMD has to be submitted to the Stores and Purchase Officer
+       before the due date. The tenders will not be considered at any cost without EMD. EMD
+       in the form of crossed Demand Draft/Bankers cheque drawn from any commercial
+      bank in favour of “ICAR Unit – NAARM A/c.”, payable at Hyderabad should be
+       enclosed with the tender (technical bid). The bidder has to submit EMD with the
+      Tender Document except those who are registered with National Small Industries
+       Corporation (NSIC).
+
+    3. The EMDs of successful Bidder/s shall be returned  / refunded  after furnishing
+      Performance Security/Security Deposit as required in the Tender Document.
+
+    4. EMDs furnished by all unsuccessful Bidders will be returned on the expiration of the
+       bid validity / finalization of successful Bidder, whichever is earlier.
+
+    5.  All communications must be addressed to the Director, ICAR-NAARM, Rajendranagar,
+      Hyderabad.
+
+    6.  Forfeiture of EMD: The EMD made by the bidder will be forfeited if:
+               i.   Bidder withdraws its bid before opening of the bids.
+              ii.   Bidder withdraws its bid after opening of the bids but before Notification of Award.
+             iii.    Selected Bidder withdraws  its bid  / Proposal before furnishing Performance
+              Security/Security Deposit
+          iv.   Bidder violates any of the provisions of the Tender Document up to submission of
+            Performance Security/Security Deposit.
+          v.    Selected Bidder fails to accept the order within five days from the date of receipt of
+               the order. However, ICAR-NAARM reserves  its  right to consider  at  its sole
+               discretion the late acceptance of the order by selected Bidder.
+          vi.   Bidder fails to submit the Performance Security/Security Deposit within stipulated
+              period from the date of execution of the contract. In such instance, ICAR-NAARM
+                 at its discretion may cancel the order placed on the selected Bidder without giving
+            any notice.
+
+    7. Payment:   No advance payment is permissible. Payment will be made only after
+        satisfactory supply & installation of the goods/equipment material in couple of weeks
+       with due certification of the concerned in-charges.
+
+    8.  Security Deposit:   The successful bidder has to furnish an amount equivalent to ten
+       (10) per cent of the order value as Performance Security Deposit which will be
+
+                                                                          2
+
+   refunded / returned only after satisfactory completion of the contractual obligations
+    including warranty. The Security Deposit should be in the form of Demand Draft, Fixed
+   Deposit Receipt or Bank Guarantee from any commercial bank and on which no interest
+    will be paid.
+
+9.  Delivery Schedule:
+     Supply,  installation, commissioning and  integration of  existing Network Routers,
+       Switches Delivery of equipment & licenses should be within 8 weeks.
+      Installation and commissioning should be within 2 weeks after delivery.
+      Specific mention imported/acquired and in the latter case the time required for delivery
+        after firm purchase order is placed should be indicated clearly.
+     No part supply is allowed.
+
+10. Liquidated:   If you are failed to deliver any or all of the goods or to perform the
+    services within the delivery period specified above, a sum equivalent to 0.5% of the
+    contract price per week or part thereof off delay until actual delivery or performance
+    shall be deducted from the Bill up to a maximum deduction of 10% of the contract
+    price. Once the maximum is reached, we may consider termination of the contract and
+    the firm will not be allowed to participate in any Tender for the next three (03) years.
+
+11. Bank details for e-payment: The bank details may be furnished along with tender for
+   making e-payment to the successful bidder.
+
+12. ISO Certification: The ISO certification of the product may be furnished along with
+    tender.
+
+13. A Pre-inspection of the product will be done by Committee before its supply,  if
+    required.
+
+14. Expiry date: The supplied goods should be from latest stock by the manufacturers.
+
+15. ICAR – NAARM has entitlement for GST exemption for Educational Institutions.
+
+16. Period of Validity: Bids shall remain valid for a period of 180 days after the date of
+    bid opening as mentioned in the Tender Document or as may be extended from time to
+    time. ICAR-NAARM reserves the right to reject a bid valid for a period shorter than
+   180 days as non-responsive, without any correspondence
+
+17. Rates:     Rates should be quoted per Item basis in the prescribed Price Schedule in
+    Indian Rupees only.
+
+18. Specifications:    Full specifications and part number of the item quoted for should
+   be indicated in the tender along with illustrated pamphlets, drawings, Brochures,
+    catalogues etc. must be invariable enclosed wherever applicable. The supplier has to
+   submit the compliance statement on the technical specifications in the prescribed format
+   enclosed to this schedule.
+
+19. Shipment:     Shipment should be  directly supplied from Manufacture  to  the
+   Academy securely package at supplier’s risk, unless otherwise specified.
+
+
+                                                                       3
+
+20. Taxes / Duties:       If taxes, duties, or any other charges over and above the rates
+   quoted are payable by the Academy, actual / percentage of such taxes / duties / charges
+   should be clearly indicated.
+
+21. Registration of GST: Necessary declaration on the following line should be furnished:
+    “Certified that the goods on which GST is chargeable have not been exempted under
+    the relevant GST Act or rules made there under and the charges on account of GST on
+    these goods are correct under the relevant act or rules made there under. A valid GST
+    Registration Certificate must be enclosed along with the declaration
+
+22. Warranty:    The Equipment/goods  supplied should be under comprehensive
+   warranty for three years from the date of installation and acceptance by the academy as
+    specified in the Schedule of Requirements.  However, the manufacturer’s warranty,
+   which exceeds the period specified in the Schedule of Requirements, should be
+   extended accordingly.
+
+23. Penalty:      Security deposit submitted by the bidder will be  forfeited,  if the
+   bidder/OEM fails to give service support during the warranty period as specified in the
+   Tender document and the firm will not be allowed to participate in any Tender for the
+   next three (03) years
+
+24. Enquiry’s on tender: Any enquiry’s regarding the tenders will not be entertained once
+    the tenders are opened.
+
+25. Acceptance of tender:   Director, ICAR-NAARM reserves the right to accept or
+    reject any of the tenders either in part or in full without assigning any reason thereof.
+
+26. Quantities:   Director, ICAR-NAARM reserves the right to reduce or increase the
+   work order / quantity at the time of placing the Purchase Order.
+
+27. Decision:    The Decision of the Director, ICAR-NAARM on any dispute in the
+    matter will be final and legally binding.
+
+28. Jurisdiction: All disputes including court proceedings shall be settled within the
+   Hyderabad jurisdiction only.
+
+29. Rejection of tenders: Tenders not complying with any one of the above conditions, are
+    liable to be rejected. No correspondence in this regard will be entertained.
+
+30. In the event of the date & time specified for tender receipt being declared as a closed
+   holiday for purchaser’s office, the due date for submission of tenders will be the
+   following working day at the specified timings.
+
+31. Bid Evaluation Process
+   The Bid Evaluation will be carried out in 2 stages:
+
+   Stage 1 – At this stage, Eligibility Criteria and Technical Bid will be evaluated. Only
+    those Bidders who have submitted all the required forms, relevant papers to support the
+    eligibility criteria conditions and Datasheets of the quoted products and comply with
+    the  eligibility criteria and technical specifications will be considered for further
+    evaluation.
+
+                                                                       4
+
+       Stage 2 – At this stage, those Bidders who qualify the eligibility and technical criteria
+        will be evaluated further to finalize the successful Bidder.
+
+    32. Late submission of tenders & unsigned tenders shall not be entertained at any cost after
+       specified date & time as indicated. The tenders without EMD amount will not be
+       considered.
+
+    33. Director, ICAR-NAARM reserves the right to accept or reject any or all the tenders.
+       Decision of the Director will be final and legally binding.
+
+IMPORTANT NOTE:     The bidder should submit the Tender Document along with
+Earnest Money Deposit (EMD) including schedule of requirements and technical specification
+item wise price mentioned in the Tender Document. The bid must be accompanied with earnest
+money deposit in the form of DD. In any case the bid without EMD/DD will not be entertained.
+
+
+
+
+                                                               (Stores & Purchase Officer)
+
+
+
+
+
+                                                                          5
+
+                                       CHECK LIST
+Please give page numbers to the tender document and all enclosures and also verify the following documents
+before submission of the tender in the sequence listed below, to avoid rejection or disqualification of your
+tender.
+         PLEASE NOTE THAT ALL RELATED XEROX COPIES MAY PLEASE BE ENCLOSED WITH THE TENDER
+                              DOCUMENT AS A PROOF
+   S.No.        List of the Documents to be enclosed with the Tender                                Page No.     Enclosed
+                                                                                                             (Yes/No)
+   1.         Earnest Money Deposit: EMD should be drawn on any Commercial Bank as indicated in
+              the notice inviting tenders in favour of “ICAR UNIT – NAARM A/c” vide EMD D.D.
+            No.______________________ Dated:________________ for Rs. _____________
+   2.        The entire original tender document with seal and signature on each page at the time of
+             submission of tender document(s) within the due date and the terms and conditions
+             should strictly be followed before submitting the tender.
+   3.          Registration certificate of the Firm
+   4.         NSIC certificate registered with NSIC (if applicable) to be enclosed
+   5.           Certificates of registration for GST issued by appropriate Government for the required
+               sales with the seal of the tenderer to be enclosed.
+   6. (a)      Experience: Existence of Firm should have minimum of 10 years in supply and installation
+               of Network Switches and equipment and IT services
+      (b)      Performance : Minimum of 03 Purchase Orders for supply and installation of the similar
+             network switches in Govt. of India, State Govt. Public or Private Sector Enterprises for
+            worth of minimum Order Value Rs.10 lakhs for the past three years.
+       (c)     The bidder should submit the Satisfactory Performance Certificates from the respective
+                clients with complete contact details.
+     7.       The firm should submit Income Tax returns of previous 03 assessment years i.e., 2015-16,
+             2016-17 & 2017-18 along with the tender document.
+     8.       Annual Turnover minimum of Rs.50.00 Lakhs in the last 03 years
+     9.       The Bidder should be an active channel partner of OEM i.e CISCO/DELL/HP
+     10.     There should be 24x7 Technical Support from direct OEM for any technical issue
+              for all the supplied products and the bidder has to submit the authorization
+               letter from the OEM to that effect
+     11.      The Firm should not be blacklisted in last 05 years by Central Government/State Govt.,
+               Public or Private Sector Enterprises. The bidder should submit an undertaking in this
+              regard
+     12.      The bidder should Provide formal training to the ICAR-NAARM personnel for
+            monitoring and managing the devices. The bidder has to submit the
+             authorization letter from the OEM or its authorized training partner to that effect
+     13.      Tender Form – Annexure – I
+     14.       Technical Specification Compliance – Annexure – II
+     15.      Data sheet for the quoted products with photo – Annexure – III
+     16.     Any other document or information as required in the tender document.
+                                                                                           No. of Total Pages : __
+                If any of the documents is not submitted with in the technical bid, quote will be rejected.
+
+
+
+
+
+                                                                            6
+
+Eligibility Criteria
+
+
+    1.  Experience: Existence of Firm should have minimum of 10 years in supply and
+        installation of Network Switches and equipment and IT services
+
+    2. The firm should be an OEM authorized partner. Proof of Document to be submitted
+      from OEM
+
+    3. Minimum of 03 Purchase Orders for supply and installation of the similar switches or
+      Network Components in Govt. of India, State Govt. Public or Private Sector Enterprises
+        for the past three years. Document proof to be submitted
+
+    4. The bidder should submit the Satisfactory Performance Certificates from the respective
+        clients with complete contact details.
+
+    5. The firm should submit Income Tax returns of previous 03 assessment years i.e., 2015-
+       16, 2016-17 & 2017-18 along with the tender document.
+
+    6.  Annual Turnover should be more than `.50 lakhs for the last three financial years i.e.
+       2015-16, 2016-17, 2017-18.
+
+    7. The Firm should not be blacklisted in last 05 years by Central Government/State Govt.,
+       Public or Private Sector Enterprises. The bidder should submit an undertaking in this
+       regard
+
+
+
+
+
+                                                                          7
+
+                      SCOPE OF WORK,
+
+1. The scope of work includes supply,  installation, commissioning, maintenance and
+    integration of Quoted Network switch models, with the existing Network Router model
+   CISCO ME3800X, Switches i.e Dell make and firewall from SOPHOS XG 310 with onsite
+   support as mentioned in the specifications. ICAR-NAARM intends to procure the Centrally
+   Managed Network core devices and Distribution (Layer 3 and Layer 2) Switches, as per
+    details provided in the Technical Specifications
+2. The devices should have onsite comprehensive support from the OEM for a period of 3
+   years from the date of acceptance.
+3. The equipment quoted by bidder should not be declared as EOL or EOS by the OEM for
+   next five years’ period. In the event of the supplied equipment being declared as EOL or
+   EOS within the period of 5 years from the date of commissioning of the equipment, the
+   bidder has to replace the equipment with equipment having equivalent or higher
+    configurations.
+4. The bidder ensures that after installation and commission of the quoted products, high
+    availability for the CORE LAN network and various failovers scenarios need to considered.
+5.  Supply, installation and commissioning of Core Switches and Distribution Switches with
+    existing infrastructure.
+6.  Supply, implement and manage all the equipment such as Core Switches, Distribution
+   switches associated cables and accessories as required for implementing the core LAN
+   network at ICAR-NAARM sites.
+7.  Necessary configuration for ICAR-NAARM network including L2/L3 protocols, security
+    policies, NATing features etc.,
+8.  Provide documentation and template for conducting UAT (User Acceptance test).
+9. The resolution time for hardware related issue of network core devices NBD. There should
+   be 24x7 Technical Support from direct OEM for any technical issue for all the supplied
+   products and the bidder has to submit the authorization letter from the OEM to that
+    effect.
+10. Bidder has to provide Industry Qualified and Trained engineers at the ICAR-NAARM Data
+   center during the process of network devices Installation and Configurations and ensure
+    that the activity is carried out strictly in accordance with the Industry Best Followed
+    Practices and guidelines provided by ICAR-NAARM
+11. Suggest suitable IOS for all the devices quoted as per the requirement of ICAR-NAARM &
+   recommend the latest IOS if OEM identifies bug in the earlier recommended IOS.
+12. Provide formal training to the ICAR-NAARM personnel for monitoring and managing the
+    devices.
+13. The responsibility of the Field Maintenance and upkeep of the network equipment
+   deployed under this project lies with the Bidder during the warranty period
+14. All the hardware and software deployed under this project by the Bidder should be IPv4
+   and IPv6 enabled. ICAR-NAARM may decide the implementation of IPv6 at any stage
+   during the contract period and Service Provider should assist this activity during non-
+   business hours
+15. All Switches should be from same OEM and fully compatible with existing switches.
+16. All Switches should have capability to manage, configure and troubleshoot from
+   Network management system with a single pane of glass
+17. All SFP, SFP+ and QSFP should be from same OEM as of switches
+
+
+                                                                          8
+
+                SCHEDULE OF REQUIREMENT
+
+
+Sno    Item                            Description                          Quantity
+    I.    Network Security Accessories  -  SFP+, 10GbE, LR, 1310nm wavelength,  20 Nos.
+        10g SFP+ Transceivers           up to 10km reach for Dell Make and
+                                    Model Dell N2024G / N2048G (existing
+                                             switches)
+  II.    10G 24 port Layer 3 Core Network  Layer 3 Core 24 Port Switch populated   02 Nos
+        Switch with SFP + Modules         with 12 Numbers of 10g SFP+ Modules.
+                                        Should be integrated with existing
+                                           network.
+ III.    10g 24 Port Layer 3 Network        Distribution Layer 3 Network 24 Port    01 No.
+         Ethernet over Copper Switch 2      Switch with 24 number of 10g Ethernet
+       SFP+ Uplinks                     over Copper ports plus 2 Nos. of 10g
+                                  SFP+ and with lifetime warranty
+ IV.    Layer 3 Distribution Switches   -  Distribution Layer3 Network 24 Ports    05 Nos.
+        Network 24 Ports Network Switch  Network Switch with 2 SFP+ 10g
+         with 2 SFP+ 10g Uplinks           Uplinks and lifetime warranty
+ V.    Layer  2  Distribution  Switches  Distribution Layer3 Network 48 Ports    04 Nos.
+        Network 48 Ports Network Switch  Network Switch with 2 SFP+ 10g
+         with 2 SFP+ 10g  Uplinks and  Uplinks and lifetime warranty
+          lifetime warranty
+ VI.      Installation,    Integration    and  All the components should be installed
+        Commissioning of the Components  and integrate with existing network.
+VII.    Warranty and Support             Comprehensive warranty and support as
+                                        mentioned in the respective schedules.
+
+
+
+
+
+                                                                          9
+
+10
+
+                 TECHNICAL SPECIFICATIONS
+
+  I.   Network Security Accessories – Transceivers for existing Dell Switches
+            a.  10g SFP+, 10GbE Uplink Modules  - 20 Nos.
+                             i.  Device Type: SFP+ transceiver module
+                           ii. Form Factor: Plug-in module
+                          iii.  Cabling Type: 10GBase-LR
+                     iv. Data Transfer Rate :10 Gbps
+                    v.  Optical Wave Length: 1310 nm
+                     vi. Data Link Protocol: 10 GigE
+                     vii. Max Transfer Distance: 6.2 miles
+                     viii.  Designed For: Dell EMC PowerEdge R440, R540, R740; Dell
+                   Networking Switches N2024, N2048
+
+ II.   10G 24 port Layer 3 Core Network Switch with SFP + Modules – 2 Nos
+
+             1.  The Switch should be either from CISCO or Dell or HP
+             2.  Switch should have minimum 24 ports of 10GbE (SFP+) and up to Four ports of
+            100GbE or QSFP28)
+             3.  Multi-rate 100GbE ports should support 10/25/40/50 GbE speed
+             4.  Each should be equipped with 12 x Transceiver SFP+, 10GbE 1310nm
+               wavelength, up to 10km reach
+
+             5.  Switch should support capacity of 1.7 Tbps and through put of 1300Mpps
+             6.  The Core Switches should support min 64 K MAC addresses and min 4K active
+            VLANs
+             7.  Switch should support Scalable L2 and L3 Ethernet Switching with QoS, ACL and
+             a full complement of standards based IPv4 and IPv6 features including OSPF, BGP
+             and PBR
+             8.  The switch should support Open flow 1.3  / REST API integration  / DEVOPS  /
+                 scripting and programming using various tools or other means of deploying
+               Software define technology which can integrate with multi-vendor switches, server,
+                storage, and applications.
+
+             9.  Core Switch should support VXLAN Layer 2 & layer 3 Gateway features
+            10. Core Switch should support Data center bridging features like 802.1Qbb Priority-
+             Based Flow Control,802.1Qaz Enhanced Transmission Selection (ETS),Data
+              Center Bridging eXchange (DCBx),DCBx Application TLV (iSCSI, FCoE)
+            11. The Core Switch should support SNMP v1, v2 & v3 for management. It should be
+             manageable with any standard EMS/NMS.
+            12. The switch should be fully compatible and interoperable with existing switches.
+
+            13. Warranty and Support: Lifetime Warranty and 3 years 24 x 7 onsite support
+
+            14. OEM should be  list in one of the Quadrant   i.e  Leader  / Challenger  / Niche  /
+                Visionary in latest Gartner's Magic Quadrant for Data Center Networking Switches
+
+III.   10g 24 Port Layer 3 Network Ethernet over Copper 2 Uplinks – 1 No.
+
+            1.  The Switch should be either from CISCO or Dell or HP
+            2.   Switch should have minimum 24 ports of 10GBASET and up to Four ports of
+            100GbE or QSFP28)
+            3.   Multi-rate 100GbE ports should support 10/25/40/50 GbE speed
+            4.  Each should be equipped with  uplinks 2 x Transceiver SFP+, 10GbE 1310nm
+               wavelength, up to 10km reach
+
+            5.   Switch should support capacity of 1.7 Tbps and through put of 1300Mpps
+                                                                         11
+
+           6.  The Core Switches should support min 64 K MAC addresses and min 4K active
+           VLANs
+           7.   Switch should support Scalable L2 and L3 Ethernet Switching with QoS, ACL and
+             a full complement of standards based IPv4 and IPv6 features including OSPF, BGP
+             and PBR
+           8.  The switch should support Open flow 1.3  / REST API integration  / DEVOPS  /
+                 scripting and programming using various tools or other means of deploying
+              Software define technology which can integrate with multi-vendor switches, server,
+                storage, and applications.
+
+           9.   Core Switch should support VXLAN Layer 2 & layer 3 Gateway features
+          10.  Core Switch should support Data center bridging features like 802.1Qbb Priority-
+            Based Flow Control,802.1Qaz Enhanced Transmission Selection (ETS),Data
+              Center Bridging eXchange (DCBx),DCBx Application TLV (iSCSI, FCoE)
+          11. The Core Switch should support SNMP v1, v2 & v3 for management. It should be
+             manageable with any standard EMS/NMS.
+          12.  The switch should be fully compatible and interoperable with existing switches.
+
+          13.  Warranty and support : 3 years warranty and onsite support 24x7
+
+          14. OEM should be list in one of the Quadrant   i.e  Leader  / Challenger  / Niche  /
+               Visionary in latest Gartner's Magic Quadrant for Data Center Networking Switches
+
+
+IV.   Layer 3 Distribution Switches  - Network 24 Ports Network Switch with 2 SFP+ 10g
+      Uplinks - 5 Nos
+
+Sno  Item             Description
+
+1    Hardware        24 x RJ45 10/100/1000 Mb auto-sensing ports Layer-3 image,
+       features           stackable, standard 19’’ rack mountable .
+                      Proposed network device must be
+                         Network Infrastructure equipment must use Indian Power adopter
+                          Switch shall have internal Redundant Power Supply (RPS).
+                            The primary as well as redundant power supply shall be hot
+                         swappable and no downtime / reboot shall be required for addition
+                                / removal of power supply module.
+                              fully compatible and interoperable with existing switches.
+                    The switch should support minimum 1 Gbps Flash and 2Gbps DRAM
+                    The switch should be populated with  2 x Transceiver SFP+, 10GbE
+                    1310nm wavelength, up to 10km reach
+                    The switch should support 2 SFP+ 10G links, required 1G / 10G Optics
+                      as uplinks to be factored.
+                    The switch should support minimum 200 Gbps of Switching Performance
+                           with 150 Mpps of Forwarding rate.
+                    The switch should support minimum 80Gbps of stacking bandwidth
+                    The stacking offered should be of Daisy chain, closed loop stacking, with
+                    minimum 5 switches in a single stack.
+                        License (if required) to enable 1G / 10G and stacking to be included for all
+                            ports.
+2      Scalability       Each SFP+  port should be able  to support IEEE standard based
+                      1000baseSX, LX, ZX, 1000baseT SFP, 10GbaseSR, LR, ER Optics. Any
+                           license required to be factored for all supported ports on the switch.
+                                All Optic and modules offered should be hot swappable.
+                         Physical IEEE standards for Network Device Should support
+                             Ethernet (802.3, 10BASE-T),
+                             Fast Ethernet (IEEE 802.3u, 100BASE-TX),
+                                                                         12
+
+Sno  Item             Description
+
+                            Gigabit Ethernet (IEEE 802.3z, 802.3ab),
+                           Ten Gigabit Ethernet (IEEE 802.3ae)
+
+                            Software based IEEE standards for Network Device
+                         Must support 802.1d  - Spanning-Tree Protocol,
+                       IEEE 802.1w - Rapid Spanning Tree,
+                       IEEE 802.1s - Multiple Spanning Tree Protocol,
+                       IEEE 802.1q - VLAN encapsulation,
+                       IEEE 802.3ad - Link Aggregation Control Protocol (LACP),
+                       IEEE 802.1ab - Link Layer Discovery Protocol (LLDP),
+                       IEEE 802.3x Flow Control
+
+                     Must support auto-sensing and auto-negotiation (Link Speed/Duplex)
+                       Routing protocol support; Static IP routing, OSPF, BGPv4, BGP Route ,
+                         appropriate L2/L3 advance Licenses to be included from day one
+                      Should support Bidirectional Forwarding Detection (BFD) for OSPF, IS-IS
+                         appropriate L2/L3 advance Licenses to be included from day one
+                    The switch should support IPv4 and IPv6 features and function in
+                      hardware with minimum Layer-3 routing capacity of 8K for IPv4 and 4K
+                             for IPv6 in hardware. Any license or hardware required to enable all
+                          feature to be incorporated in the offer.
+                    The switch should support minimum 32K MAC address and 4K Vlan ID
+                     and 802.1Q vlans
+                    IEEE 802.3ad Link Aggregation or equivalent capabilities
+
+                     The switch hardware shall be designed to run both IPv4 & IPv6
+                        simultaneously (Dual Stack).
+                        IP Version 6 (IPv6) must be supported in hardware
+                     Must support Static IPv6 routing, OSPFv3, IPv6 IS-IS
+                      Should support both IPv4 and IPv6 routing concurrently. There should be
+                         the ability to tunnel IPv6 within IPv4.
+                      Supported IPv6 features should include: DHCPv6, ICMPv6, IPv6
+                          Multicast support, IPv6 PIMv2 Sparse Mode,
+                       Device must support multicast in hardware supporting feature PIM-SM,
+                  MSDP, SSM, MLD, IGMP V1/V2/V3.
+3     Security         Must support multiple privilege levels for remote access (e.g. console or
+       features            telnet access)
+                     Must support Remote Authentication  Dial-In User Service (RADIUS)
+                        and/or  Terminal  Access  Controller  Access  Control  System  Plus
+                    (TACACS+)
+4    QoS features     Must support IEEE 802.1p class-of-service (CoS) prioritization, with 8
+                     queues per port.
+                     Must  support   rate   limiting   (to  configurable   levels)  based  on
+                          source/destination IP/MAC, L4 TCP/UDP
+                     Must have the ability to complete traffic shaping to configurable levels
+                     based on source/destination IP/MAC and Layer 4 (TCP/UDP) protocols
+                      There should not be any impact to performance or data forwarding when
+                 QoS features
+                     Must support a "Priority" queuing mechanism to guarantee delivery of
+                            highest-priority (broadcast critical/delay-sensitive traffic) packets ahead of
+                                   all other traffic
+                      Should support Network monitoring features like NetFlow, sFlow, SPAN,
+                 RSPAN or similar technologies
+5      Virtualization     The switch must support data center virtualization, giving department the
+                               ability to virtualize a physical switch into multiple logical devices. With each
+                            logical switch having its own processes, configuration, and administration
+
+
+                                                                        13
+
+ Sno  Item             Description
+
+                     The switch should support Openflow 1.3 / REST API integration /
+                 DEVOPS / scripting and programming using various tools or other means
+                             of deploying Software define technology which can integrate with multi-
+                        vendor switches, server, storage, and applications.
+ 6    Management     Must support SNMP V1,V2, V3
+        features
+                      Must support SNMP traps (alarms/alerts) for a minimum of four
+                           destinations
+                       Network switch should support Remote Monitoring on every port covering
+                          the following four groups (Statistics, Alarm, Event, History).
+                       Should support flow based traffic analysis features and the ability to
+                          export of network IP flow information.
+                      Must support Network Timing Protocol
+                     Each CPU  to  provide system  level LEDs  indicators, Out  of band
+                     management port - 10/100/1000baseT, USB-A port, and serial console
+                            port via an RJ45 and or USB-B port.
+                     The switch should have USB port to transport device supports boot image,
+                           software, and configuration upload/download via USB.
+       Warranty and     Lifetime Warranty and 3 years 24 x 7 onsite support
+       Support
+       Product Support  The system should not be an end of life / end of service product.
+
+V.    Layer 2 Distribution Switches  Network 48 Ports Network Switch with 2 SFP+ 10g
+       Uplinks and lifetime warranty  – 4 Nos
+
+ Sno    Item          Description
+
+      OEM      OEM should be list in one of the Quadrant  i.e Leader / Challenger / Niche /
+          requirement    Visionary in latest Gartner's Magic Quadrant for Data Center Networking
+                        Switches
+          Preferable    CISCO   /  Dell   / HP and  the quoted models  should be  compatible   /
+       Make            interoperability with the existing Dell Switches.
+     1  Hardware     24x RJ45 10/100/1000 Mb auto-sensing ports, Layer 2+ manage switch with
+           features        Enterprise Layer2 capabilities, stackable, standard 19’’ rack mountable
+                         Switch.
+                     Network Infrastructure equipment must use 240V AC power.
+                    The switch should be fully compatible and interoperable with existing switches.
+                    The switch should support minimum 256MB Flash
+                    The switch should support minimum 256MB DRAM
+                    The switch should support 2 SFP+ 10G links, required 1G / 10G Optics as
+                         uplinks to be factored.
+                    The switch should be populated with 2 x Transceiver SFP+, 10GbE 1310nm
+                        wavelength, up to 10km reach
+                    Each Switch should be equipped with 2 x Transceiver SFP+, 10GbE
+                   1310nm wavelength, up to 10km reach
+                    The switch should support minimum 160 Gbps of Switching Performance
+                        with 120 Mbps of Forwarding rate.
+                    The switch should support minimum 80Gbps of stacking bandwidth
+                    The stacking offered should be of Daisy chain, closed loop stacking, with
+                   minimum 10 switches in a single stack.
+                        License (if required) to enable 1G / 10G and stacking to be included for all
+                             ports.
+
+
+                                                                         14
+
+2       Scalability    Each SFP+ port should be able to support IEEE standard based 1000baseSX,
+                   LX, ZX, 1000baseT SFP, 10GbaseSR, LR, ER Optics. Any license required to
+                     be factored for all supported ports on the switch.
+                       All Optic and modules offered should be hot swappable.
+                   Must support port channeling or equivalent across multiple chassis.
+                       Physical standards for Network Device Should support
+                       VI.     Ethernet (IEEE 802.3, 10BASE-T),
+                         VII.    Fast Ethernet (IEEE 802.3u, 100BASE-TX),
+                         VIII.   Gigabit Ethernet (IEEE 802.3z, 802.3ab),
+                       IX.    Ten Gigabit Ethernet (IEEE 802.3ae)
+                      Software based standards for Network Device Must support
+                        IEEE 802.1d - Spanning-Tree Protocol,
+                        IEEE 802.1w - Rapid Spanning Tree,
+                        IEEE 802.1s - Multiple Spanning Tree Protocol,
+                        IEEE 802.1q - VLAN encapsulation,
+                        IEEE 802.3ad - Link Aggregation Control Protocol (LACP),
+                        IEEE 802.1ab - Link Layer Discovery Protocol (LLDP),
+                        IEEE 802.3x Flow Control
+                   Must support auto-sensing and auto-negotiation (Link Speed/Duplex)
+                   The network infrastructure must allow for multiple equal metric/cost routes
+                         to be utilized at the same time
+                   The switch should support minimum 16K MAC address and 4K Vlan ID and
+                    802.1Q vlans
+                  IEEE 802.3ad Link Aggregation or equivalent capabilities
+                   The switch hardware shall be designed to run both IPv4 & IPv6
+                       simultaneously (Dual Stack).
+                   Must be IPv6 capable.  If IPv6 compliance/support is not available, please
+                          identify if compliance is defined in device roadmap along with a timeframe
+                      IP Version 6 (IPv6) must be supported in hardware
+3       Security      Must support multiple privilege levels for remote access (like console , telnet
+         features        access, etc.)
+                   Must support Remote Authentication Dial-In User Service (RADIUS) and/or
+                      Terminal Access Controller Access Control System Plus (TACACS+)
+4     QoS features   Must support IEEE 802.1p class-of-service (CoS) prioritization, with 8 queues
+                       per port.
+                   Must support rate limiting (to configurable levels) based on source/destination
+                   IP/MAC, L4 TCP/UDP
+                   Must have the ability to complete traffic shaping to configurable levels based
+                    on source/destination IP/MAC and Layer 4 (TCP/UDP) protocols
+                     There should not be any impact to performance or data forwarding when QoS
+                         features
+                   Must support a "Priority" queuing mechanism to guarantee delivery of highest-
+                          priority (broadcast critical/delay-sensitive traffic) packets ahead of all other
+                            traffic
+                     Should support Network monitoring features like NetFlow, sFlow, SPAN,
+               RSPAN or similar technologies
+5       Virtualization  The switch must support data center virtualization, giving department the
+                           ability to virtualize a physical switch into multiple logical devices. With each
+                          logical switch having its own processes, configuration, and administration
+6      Management   Must support SNMP V1,V2, V3
+         features
+                   Must support SNMP traps (alarms/alerts) for a minimum of four destinations
+                    Network switch should support Remote Monitoring on every port covering
+                        the following four groups (Statistics, Alarm, Event, History).
+                                                                        15
+
+                       Should support flow based traffic analysis features and the ability to export of
+                       network IP flow information.
+                     Must support Network Timing Protocol
+                    The switch should have USB port to transport device supports boot image,
+                          software, and configuration upload/download via USB.
+         Warranty and  Lifetime Warranty and 3 years 24 x 7 onsite support
+         Support
+         Product       The system should not be an end of life / end of service product.
+         Support
+
+                            Statement of Compliance
+
+I.     Network Security Accessories – Transceivers for existing Dell Switches - 10g SFP+,
+     10GbE Uplink Modules
+
+ SNo   Specification                                     Compliance  Deviations , if any
+                                                        (Yes / No)
+
+      1. Device Type: SFP+ transceiver module
+      2. Form Factor: Plug-in module
+      3. Cabling Type: 10GBase-LR
+      4. Data Transfer Rate :10 Gbps
+      5. Optical Wave Length: 1310 nm
+      6. Data Link Protocol: 10 GigE
+      7. Max Transfer Distance: 6.2 miles
+      8. Designed For: Dell EMC PowerEdge R440,
+      R540, R740; Dell Networking Switches N2024,
+      N2048
+
+II.    10G 24 port Layer 3 Core Network Switch with SFP + Modules
+
+ SNo    Specification                                       Complian   Deviations ,
+                                                                    ce               if any
+                                                                (Yes / No)
+
+      1.  The Switch should be either from CISCO or Dell or HP only
+      2.   Switch should have minimum 24 ports of 10GbE (SFP+) and
+        up to Four ports of 100GbE or QSFP28)
+      3.   Multi-rate 100GbE ports should support 10/25/40/50 GbE
+        speed
+      4.  Each should be equipped with 12 x Transceiver SFP+,
+       10GbE 1310nm wavelength, up to 10km reach
+
+      5.   Switch should support capacity of 1.7 Tbps and through put
+          of 1300Mpps
+      6.  The Core Switches should support min 64 K MAC addresses
+        and min 4K active VLANs
+      7.   Switch should support Scalable L2 and L3 Ethernet Switching
+          with QoS, ACL and a full complement of standards based IPv4
+        and IPv6 features including OSPF, BGP and PBR
+      8.  The  switch  should  support Open  flow  1.3   / REST API
+           integration  / DEVOPS  /  scripting and programming using
+          various tools or other means of deploying Software define
+         technology which can integrate with multi-vendor switches,
+           server, storage, and applications.
+
+
+                                                                         16
+
+      9.   Core Switch should support VXLAN Layer 2 & layer 3
+        Gateway features
+     10.  Core Switch should support Data center bridging features like
+        802.1Qbb Priority-Based Flow Control,802.1Qaz Enhanced
+         Transmission Selection (ETS),Data Center Bridging
+        eXchange (DCBx),DCBx Application TLV (iSCSI, FCoE)
+     11. The Core Switch should support SNMP v1, v2 & v3  for
+        management.  It should be manageable with any standard
+       EMS/NMS.
+     12. The switch should be  fully compatible and interoperable with
+            existing switches.
+     13.  Warranty and Support: Lifetime Warranty and 3 years 24 x 7
+          onsite support
+     14. OEM should be  list in one of the Quadrant   i.e  Leader  /
+          Challenger   / Niche   /  Visionary  in  latest  Gartner's Magic
+         Quadrant for Data Center Networking Switches
+
+III.    10g 24 Port Layer 3 Network Ethernet over Copper Switch 2 SFP+ Uplinks
+
+ SNo  Specification                                         Compliance  Deviations
+                                                                (Yes / No)       , if any
+
+      1. The Switch should be either from CISCO or Dell or HP
+      2.  Switch should have minimum 24 ports of 10GBASET and up
+          to Four ports of 100GbE or QSFP28)
+      3.  Multi-rate 100GbE ports should support 10/25/40/50 GbE
+       speed
+      4. Each should be equipped with  uplinks 2 x Transceiver SFP+,
+      10GbE 1310nm wavelength, up to 10km reach
+
+      5.  Switch should support capacity of 1.7 Tbps and through put of
+       1300Mpps
+      6. The Core Switches should support min 64 K MAC addresses and
+       min 4K active VLANs
+      7.  Switch should support Scalable L2 and L3 Ethernet Switching
+         with QoS, ACL and a full complement of standards based IPv4
+       and IPv6 features including OSPF, BGP and PBR
+      8. The switch should support Open flow 1.3 / REST API integration
+              / DEVOPS / scripting and programming using various tools or
+         other means of deploying Software define technology which can
+         integrate  with  multi-vendor  switches,  server,  storage, and
+         applications.
+      9. Core Switch should support VXLAN Layer 2 & layer 3 Gateway
+         features
+    10 Core Switch should support Data center bridging features like
+       802.1Qbb Priority-Based Flow Control,802.1Qaz Enhanced
+        Transmission Selection (ETS),Data Center Bridging eXchange
+       (DCBx),DCBx Application TLV (iSCSI, FCoE)
+    11 The Core Switch should support SNMP  v1, v2 & v3  for
+       management.  It should be manageable  with any standard
+      EMS/NMS.
+    12 The switch should be  fully compatible and interoperable with
+          existing switches.
+    13 Warranty and support : Lifetime Warranty and 3 years 24 x 7
+         onsite support
+    14 OEM should be  list in one of the Quadrant   i.e  Leader  /
+        Challenger / Niche / Visionary in latest Gartner's Magic Quadrant
+          for Data Center Networking Switches
+
+
+                                                                         17
+
+IV.    Layer 3 Distribution Switches - Network 24 Ports Network Switch with 2 SFP+ 10g
+       Uplinks
+
+ SNo      Specification                                     Compliance  Deviations,
+                                                               (Yes / No)      if any
+
+      1.     24 x RJ45 10/100/1000 Mb auto-sensing ports Layer-3
+            image, stackable, standard 19’’ rack mountable .
+      2.     Proposed network device must be
+          V.   Network Infrastructure equipment must use Indian
+             Power adopter
+                   .    Switch shall have internal Redundant Power Supply
+                 (RPS).
+                   .   The primary as well as redundant power supply shall
+             be hot swappable and no downtime / reboot shall be
+               required for addition / removal of power supply
+              module.
+                   .
+      3.     The switch should support minimum 1 Gbps Flash and
+          2Gbps DRAM
+      4.     The switch should be populated with  2 x Transceiver
+          SFP+, 10GbE 1310nm wavelength, up to 10km reach
+      5.     The switch should support 2 SFP+ 10G links, required 1G
+                     / 10G Optics as uplinks to be factored.
+      6.     The switch should support minimum 200 Gbps of
+            Switching Performance with 150 Mpps of Forwarding rate.
+      7.     The switch should support minimum 80Gbps of stacking
+           bandwidth
+      8.     The stacking offered should be of Daisy chain, closed loop
+             stacking, with minimum 5 switches in a single stack.
+      9.     License (if required) to enable 1G / 10G and stacking to be
+            included for all ports.
+     10.    Each SFP+ port should be able to support IEEE standard
+           based 1000baseSX, LX, ZX, 1000baseT SFP, 10GbaseSR,
+           LR, ER Optics. Any license required to be factored for all
+            supported ports on the switch.
+     11.      All Optic and modules offered should be hot swappable.
+     12.    Physical IEEE standards for Network Device Should
+            support
+                Ethernet (802.3, 10BASE-T),
+                Fast Ethernet (IEEE 802.3u, 100BASE-TX),
+                Gigabit Ethernet (IEEE 802.3z, 802.3ab),
+               Ten Gigabit Ethernet (IEEE 802.3ae)
+     13.        Software based IEEE standards for Network Device
+              Must support 802.1d  - Spanning-Tree Protocol,
+             IEEE 802.1w - Rapid Spanning Tree,
+             IEEE 802.1s - Multiple Spanning Tree Protocol,
+             IEEE 802.1q - VLAN encapsulation,
+             IEEE 802.3ad - Link Aggregation Control Protocol
+               (LACP),
+             IEEE 802.1ab - Link Layer Discovery Protocol
+               (LLDP),
+             IEEE 802.3x Flow Control
+     14.    Must support auto-sensing and auto-negotiation (Link
+           Speed/Duplex)
+     15.    Routing protocol support; Static IP routing, OSPF, BGPv4,
+        BGP Route , appropriate L2/L3 advance Licenses to be
+            included from day one
+                                                                         18
+
+16.    Should support Bidirectional Forwarding Detection (BFD)
+         for OSPF, IS-IS appropriate L2/L3 advance Licenses to be
+       included from day one
+17.    The switch should support IPv4 and IPv6 features and
+        function in hardware with minimum Layer-3 routing
+       capacity of 8K for IPv4 and 4K for IPv6 in hardware. Any
+        license or hardware required to enable all feature to be
+       incorporated in the offer.
+18.    The switch should support minimum 32K MAC address
+      and 4K Vlan ID and 802.1Q vlans
+19.    IEEE 802.3ad Link Aggregation or equivalent capabilities
+20.    The switch hardware shall be designed to run both IPv4 &
+       IPv6 simultaneously (Dual Stack).
+21.    IP Version 6 (IPv6) must be supported in hardware
+22.    Must support Static IPv6 routing, OSPFv3, IPv6 IS-IS
+23.    Should support both IPv4 and IPv6 routing concurrently.
+       There should be the ability to tunnel IPv6 within IPv4.
+24.    Supported IPv6 features should include: DHCPv6,
+      ICMPv6, IPv6 Multicast support, IPv6 PIMv2 Sparse
+      Mode,
+25.    Device must support multicast in hardware supporting
+        feature PIM-SM, MSDP, SSM, MLD, IGMP V1/V2/V3.
+26.    Must support multiple privilege levels for remote access
+         (e.g. console or telnet access)
+27.    Must support Remote Authentication Dial-In User Service
+      (RADIUS)  and/or  Terminal  Access  Controller  Access
+       Control System Plus (TACACS+)
+28.    Must  support  IEEE  802.1p   class-of-service  (CoS)
+         prioritization, with 8 queues per port.
+29.    Must support rate limiting (to configurable levels) based on
+        source/destination IP/MAC, L4 TCP/UDP
+30.    Must have  the  ability  to  complete  traffic  shaping  to
+        configurable levels based on source/destination IP/MAC
+      and Layer 4 (TCP/UDP) protocols
+31.    There should not be any impact to performance or data
+       forwarding when QoS features
+32.    Must support a "Priority" queuing mechanism to guarantee
+        delivery   of   highest-priority  (broadcast   critical/delay-
+        sensitive traffic) packets ahead of all other traffic
+33.    Should support Network monitoring features like NetFlow,
+       sFlow, SPAN, RSPAN or similar technologies
+34.    The switch must support data center virtualization, giving
+       department the ability to virtualize a physical switch into
+        multiple logical devices. With each logical switch having its
+      own processes, configuration, and administration
+35.    The switch should support Openflow 1.3 / REST API
+        integration / DEVOPS / scripting and programming using
+        various tools or other means of deploying Software define
+       technology which can integrate with multi-vendor switches,
+        server, storage, and applications.
+36.    Must support SNMP V1,V2, V3
+37.    Must support SNMP traps (alarms/alerts) for a minimum of
+        four destinations
+38.    Network switch should support Remote Monitoring on
+       every port covering the following four groups (Statistics,
+       Alarm, Event, History).
+39.    Should support flow based traffic analysis features and the
+         ability to export of network IP flow information.
+40.    Must support Network Timing Protocol
+
+                                                                     19
+
+     41.    Each CPU to provide system level LEDs indicators, Out of
+          band management port - 10/100/1000baseT, USB-A port,
+          and serial console port via an RJ45 and or USB-B port.
+     42.    The switch should have USB port  to transport device
+            supports  boot  image,   software,  and   configuration
+            upload/download via USB.
+     43.    The switch should be fully compatible and interoperable with
+               existing switches
+      44.     Lifetime Warranty and 3 years 24 x 7 onsite support
+     45.    The system should not be an end of life / end of service
+            product.
+
+V.    Layer 2 Distribution Switches Network 48 Ports Network Switch with 2 SFP+ 10g
+       Uplinks and lifetime warranty
+
+ SNo      Specification                                      Compliance  Deviations ,
+                                                                (Yes / No)      if any
+
+       1.   OEM should be list in one of the Quadrant   i.e  Leader  /
+            Challenger  / Niche  / Visionary in latest Gartner's Magic
+           Quadrant for Data Center Networking Switches
+       2.    Preferable models from CISCO / Dell / HP and the quoted
+           models should be compatible  /  interoperability with the
+              existing Dell Switches.
+       3.    24x RJ45 10/100/1000 Mb auto-sensing ports, Layer 2+
+          manage switch with Enterprise Layer2 capabilities,
+             stackable, standard 19’’ rack mountable Switch.
+      4.     Network Infrastructure equipment must use 240V AC
+           power.
+      5.     The switch should support minimum 256MB Flash
+      6.     The switch should support minimum 256MB DRAM
+      7.     The switch should support 2 SFP+ 10G links, required 1G /
+         10G Optics as uplinks to be factored.
+      8.     The switch should be populated with 2 x Transceiver SFP+,
+         10GbE 1310nm wavelength, up to 10km reach
+      9.    Each Switch should be equipped with 2 x Transceiver
+          SFP+, 10GbE 1310nm wavelength, up to 10km reach
+     10.    The switch should support minimum 160 Gbps of
+            Switching Performance with 120 Mbps of Forwarding rate.
+     11.    The switch should support minimum 80Gbps of stacking
+           bandwidth
+     12.    The stacking offered should be of Daisy chain, closed loop
+             stacking, with minimum 10 switches in a single stack.
+     13.    License (if required) to enable 1G / 10G and stacking to be
+            included for all ports.
+     14.    Each SFP+ port should be able to support IEEE standard
+           based 1000baseSX, LX, ZX, 1000baseT SFP, 10GbaseSR,
+          LR, ER Optics. Any license required to be factored for all
+            supported ports on the switch.
+     15.    All Optic and modules offered should be hot swappable.
+     16.    Must support port channeling or equivalent across multiple
+              chassis.
+
+
+
+
+                                                                         20
+
+17.    Physical standards for Network Device Should support
+           18. Ethernet (IEEE 802.3, 10BASE-T),
+           19. Fast Ethernet (IEEE 802.3u, 100BASE-TX),
+           20. Gigabit Ethernet (IEEE 802.3z, 802.3ab),
+           21. Ten Gigabit Ethernet (IEEE 802.3ae)
+22.    Software based standards for Network Device Must support
+         IEEE 802.1d  - Spanning-Tree Protocol,
+         IEEE 802.1w - Rapid Spanning Tree,
+         IEEE 802.1s - Multiple Spanning Tree Protocol,
+         IEEE 802.1q - VLAN encapsulation,
+         IEEE 802.3ad - Link Aggregation Control Protocol
+          (LACP),
+         IEEE 802.1ab - Link Layer Discovery Protocol
+          (LLDP),
+         IEEE 802.3x Flow Control
+23.    Must support auto-sensing and auto-negotiation (Link
+       Speed/Duplex)
+24.    The network infrastructure must allow for multiple equal
+        metric/cost routes to be utilized at the same time
+25.    The switch should support minimum 16K MAC address
+      and 4K Vlan ID and 802.1Q vlans
+26.   IEEE 802.3ad Link Aggregation or equivalent capabilities
+27.    The switch hardware shall be designed to run both IPv4 &
+       IPv6 simultaneously (Dual Stack).
+28.    Must be IPv6 capable.  If IPv6 compliance/support is not
+        available, please identify if compliance is defined in device
+      roadmap along with a timeframe
+29.    IP Version 6 (IPv6) must be supported in hardware
+30.    Must support multiple privilege levels for remote access (like
+       console , telnet access, etc.)
+31.    Must support Remote Authentication Dial-In User Service
+      (RADIUS)  and/or  Terminal  Access  Controller  Access
+       Control System Plus (TACACS+)
+32.    Must   support  IEEE  802.1p   class-of-service  (CoS)
+         prioritization, with 8 queues per port.
+33.    Must support rate limiting (to configurable levels) based on
+        source/destination IP/MAC, L4 TCP/UDP
+34.    Must  have  the  ability  to  complete  traffic  shaping  to
+       configurable levels based on source/destination IP/MAC and
+       Layer 4 (TCP/UDP) protocols
+35.    There should not be any impact to performance or data
+       forwarding when QoS features
+36.    Must support a "Priority" queuing mechanism to guarantee
+        delivery  of   highest-priority  (broadcast   critical/delay-
+        sensitive traffic) packets ahead of all other traffic
+37.    Should support Network monitoring features like NetFlow,
+       sFlow, SPAN, RSPAN or similar technologies
+38.    The switch must support data center virtualization, giving
+       department the ability to virtualize a physical switch into
+       multiple logical devices. With each logical switch having its
+     own processes, configuration, and administration
+39.    Must support SNMP V1,V2, V3
+40.    Must support SNMP traps (alarms/alerts) for a minimum of
+       four destinations
+
+                                                                     21
+
+     41.    Network switch should support Remote Monitoring on
+            every port covering the following four groups (Statistics,
+           Alarm, Event, History).
+     42.    Should support flow based traffic analysis features and the
+              ability to export of network IP flow information.
+     43.    Must support Network Timing Protocol
+     44.    The switch should have USB port  to  transport device
+            supports   boot   image,   software,  and   configuration
+           upload/download via USB.
+     45.    The switch should be fully compatible and interoperable with
+               existing switches
+     46.    Lifetime Warranty and 3 years 24 x 7 onsite support
+     47.    The system should not be an end of life / end of service
+             product.
+
+
+
+
+
+Note:   This proforma should be filed in for each schedule/ item of schedule and submitted
+along with the bid without fail.
+
+
+
+                                Signature and Seal of the Bidder: _____________________
+
+                               Business Address:__________________________________
+
+                            ________________________________________________
+
+
+
+
+
+                                                                         22
+
+                                                                Annexure – I
+                            TENDER FORM
+
+            (To be filled in by the Tenderer duly printed on their letter head)
+
+Tenderer’s Ref.No.____________________ Date:____________________
+
+ From: _______________________          Grams: ______________________
+ _____________________________
+                                      Phone No._____________________
+
+ PIN__________________________          Fax No. ______________________
+
+
+To
+The Director
+ICAR-NAARM, Rajendranagar,
+HYDERABAD – 500 030
+
+Ref: Your Tender Notice Advt. No. _________________ dated---------------.
+
+Dear Sir,
+
+      I/We hereby offer for your requirements detailed in the schedule hereto or such
+portion thereof as you may specify in the Acceptance of Tender at the rates given in the said
+schedule and agree to hold this offer for 90 days for acceptance. I/We shall be bound by a
+communication of Acceptance dispatched within the prescribed time and also execute
+agreement required in this regard.
+
+2.    I/We have understood the Instructions to Tenderers and General Conditions of
+Contract governing such contracts placed by Indian Council of Agricultural Research and its
+Research Institutes and the Special Conditions of Contract, and have thoroughly examined
+the details indicated in the Schedule to Tender thereof and am/are fully aware of the goods
+and/or services required and my/our offer to work/supply/provide the goods and/or services
+strictly is in accordance with the requirements.
+
+3.     D.D.No._____________Dt.__________for  Rs.______________(in  words)  Rupees
+__________________________________________________   only)  drawn  on   (Bank)
+_________________ is enclosed towards Earnest Money Deposit.
+
+      The following pages have been added to and form part of this tender.
+
+                                                                    Yours faithfully,
+
+
+                                               Signature:________________________
+                                     Name : _________________________
+                                                Address : ________________________
+
+                                Signature and Seal of the Bidder: _____________________
+                               Business Address:__________________________________
+
+
+
+
+                                                                         23

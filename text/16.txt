@@ -1,0 +1,499 @@
+          414 Wallace Avenue, Kansas City, MO 64125
+          816-242-4206
+
+            Kansas City International Academy – Kansas City, MO
+                          Request for Proposal
+                  “Network with supporting Services”
+                       December 18th, 2025
+
+
+Instructions to Vendors
+
+
+
+Kansas City International Academy (KCIA is looking for a company to setup and configure an
+entire network. In addition to the equipment, the company should provide other technology
+services for 600+ students along with 120+ staff.
+
+We will be applying for federal ERATE funds to offset the costs of purchasing and owning a
+firewall, network switches and access points. We will also be seeking reimbursement for the
+“Managed Services” costs of this project, covering the portion of the service that manages the
+firewall, network switches and access points. KCIA is currently at an 85% discount level for
+Category II funding.  The proposal should itemize out the yearly “Managed Services” expected
+cost to KCIA, which may be embedded into the total cost of the whole proposal.
+
+Any Vendor responding to the RFP, should list multiyear options of support with the contract
+proposal. KCIA also would like voluntary extensions offered in the contract proposal.
+
+The due date for all RFP proposals will be Friday, February 13th. 2026, at 1 pm (central Time),
+and will then all be opened and analyzed starting at 1:15 pm.
+
+The proposal will go to the school board for approval on Tuesday, February 24th, 2026.
+
+Please submit all questions and proposals to:
+
+Bruce Rehmer (Technology Director)
+brehmer@kcia.us
+816-300-2010
+
+Or
+
+Benjamin Rehmer (Technology Assistant)
+ben@kcia.us
+
+
+
+
+
+                                                                                   1
+
+          414 Wallace Avenue, Kansas City, MO 64125
+          816-242-4206
+Items Requested:
+
+A. Core Components with Managed services and monitoring using Cisco or like products:
+    1.  Firewall – One on premise device, supporting a 1 gigabit internet connection. External
+       monitoring service should be included to inform of us any attacks, intrusions. or other
+        threats. (Currently a Cisco 2900 series device is being used).
+
+    2. POE Switches – Nine - 48 port POE switches located in 3 closets (3 in Main closet, 3 in
+       2nd floor and 2 in 3rd floor closet – currently using Meraki). For the purpose of this proposal
+      assume all switch ports are fully populated.
+
+    3.  Access Points – 51 POE access points (currently using Meraki)
+            a. Main Wing (East)
+                                i. Lower Level - 5
+                                ii.  1st floor - 7
+                               iii.  2nd floor - 12
+                        iv.  3rd floor - 9
+            b.  K-4 (West Wing)
+                                i. 18
+
+
+B. The following are additional components and services needed that would not be covered
+   by the ERATE program:
+        1. Hardware
+            a.  Virtual Server with backup solution to handle: Printing services; Microsoft KMS
+                licenses, Imaging services; DRC mandated State Testing software; Papercut type
+              of Copier Software; Active Directory Services; file storage, and other server
+             software components as needed.  Storage for 15 administrators on the server
+                 will be needed.
+            b. Phone (VOIP) system:
+                                i. 90 total handsets to replace leased Cisco phones. 10 of these handsets
+                    are administrative handsets.
+                                ii.  Each handset should have a corresponding Direct Inward Dialing number
+                     to an external number
+                               iii.  All handsets should have a speaker phone with an ethernet pass thru
+                       port.
+                        iv. Phone system tied to 28 Wahsega Hall Speakers for bells and
+                  announcements (currently InformaCast is used to do this).
+
+
+
+
+
+                                                                                   2
+
+          414 Wallace Avenue, Kansas City, MO 64125
+          816-242-4206
+
+
+        2.  Services and Support (priced out separately):
+           a)  Active Directory with group policies setup and support
+           b)  Virtual Server Software costs with setup and support
+            c)  Microsoft Licensing server (KMS)
+           d) Imaging solution for laptops and desktops
+           e)  Printing services setup and support
+               f)  Google Management support as needed with auto account creation for students
+            and staff, base off of SIS (Infinite Campus).
+            g)  Content Filter solution (Currently using Securly).
+           h) Student User account creation solution tied to Infinite Campus Student
+           Management System.
+                 i)  InformaCast type system software to manage the hall speakers for bells and
+            announcements.
+
+
+C. Other Items:
+        1. The contract should include setup and configuration along with continual managed
+          support as needed during length of contract.
+        2.  Contractor needs to allow Technology Director access to all systems provided to be
+          able to provide quick base level support.
+        3. Vendor selected needs to be well versed with the Federal ERATE system to assist
+          KCIA in capturing federal funds allocated for KCIA.
+                a.  Vendor must provide SPIN #.
+               b. ERATE Billed Entity # is: 17012744
+        4.  Services need to be installed and configured as close to July 1st, 2026 as possible to
+           eliminate down times in network connectivity for the building.
+        5.  KCIA received a grant from Aruba Network which provided 6 outside access points
+          (AP-365) that were installed in the Fall of 2020. The new network configuration
+          should provide support and connectivity for the outside Aruba network. We are not
+           looking to replace these with this new contract.
+        6. Vendor needs to provide references for customers who have received similar
+           services requested in this RFP.
+
+
+
+
+
+                                                                                   3
+
+          414 Wallace Avenue, Kansas City, MO 64125
+          816-242-4206
+General Bidding Instructions and Conditions
+Proposals must be submitted electronically, through either email or a delivered USB memory
+device, and received by 1:00 PM local time (central time) on Friday, February 13, 2026.  If
+emailing a proposal it is highly suggested calling Bruce Rehmer to confirm the successful
+delivery of your response.  If desired, a postal or hand delivery should be mailed to:
+
+      KC International Academy
+       Attn: Bruce Rehmer
+      414 Wallace Road
+      Kansas City, MO 64125
+      Phone: 816-300-2010 Email: brehmer@kcia.us
+
+ Proposals received after the exact time and date noted will NOT be considered.
+
+
+Terms and Conditions
+
+1.  Proponents may not amend their proposal after the closing date and time, unless as a result
+    of negotiations commenced by the KC International Academy (KCIA) but may withdraw
+    their proposal at any time.
+2.  E-mail transmitted proposals will be accepted under the following conditions:
+        a.  the proposal is received before the submission deadline at the e-mail address
+           stated.
+        b.  KCIA will not accept liability for any claim, demand or other actions for any reason
+          should the e-mail transmission be interrupted, not received in its entirety, received
+           after stated closing time and date, received by any other e-mail system other than
+           that stated herein, or for any other reasons.
+3.  All questions or inquiries concerning this Request for Proposals must be submitted to the e-
+   mail address provided above no later than 9 am, Thursday, February 12th, 2026 . All
+   questions and answers will be documented at
+   https://docs.google.com/document/d/1z7wwVLZOI4oLwrox8hfgM1cVED_ebh0_/edit?usp=sharing&
+   ouid=111602641265251840935&rtpof=true&sd=true.  Verbal responses to any inquiry cannot
+   be relied upon and are not binding on either party.
+4. Any amendments or addendums made after the release of this bid may be found on our
+   website at https://kcia.us/about-kcia/#procurement.
+5.   If a contract is to be awarded as a result of this Request for Proposals, it shall be awarded to
+   the proponent who is responsible and whose proposal provides the best potential value to
+    KCIA, taking into account overall content of the proposal, cost, overall proposal, experience
+   and qualifications of the firm, staff assigned and quality and content of the manner in which
+   the services are proposed to be performed. The District may request additional information
+   and/or an interview with some or all Proposers as part of the selection process. In no event
+    shall the District be required to explain the evaluation process or award selection to any
+   Proposer.
+
+                                                                                   4
+
+          414 Wallace Avenue, Kansas City, MO 64125
+           816-242-4206
+ 6.  Notice in writing to a proponent and the subsequent execution of a written agreement shall
+     constitute the making of a contract. No proponent shall acquire any legal or equitable rights
+    or privileges until the contract is signed.
+ 7. The contract will contain the relevant provisions of this Request for Proposals and of the
+     successful proposal, as well as such other terms as may be mutually agreed upon, whether
+     arising from the proposal or as a result of any negotiations prior or subsequent thereto.
+ 8.  In the event of any inconsistency between this Request for Proposal, and the ensuing
+     contract, the contract shall govern.
+ 9.  KCIA has the right to cancel this Request for Proposals at any time and to reissue it for any
+    reason whatsoever without incurring any liability and no proponent will have any claim
+     against the KCIA as a consequence.
+ 10. KCIA is not liable for any costs of preparation or presentation of proposals.
+ 11. An evaluation committee will review each proposal. KCIA reserves the exclusive right to
+    determine the qualitative aspects of all proposals relative to the evaluation criteria.
+ 12. The proposal and accompanying documentation submitted by the proponents are the
+    property of KCIA and will not be returned.
+ 13. Vendor must notify KCIA of any specific portions of proposals considered confidential. KICA
+     will take reasonable efforts to protect the confidentiality of such material but makes no
+    guarantees that such material may be protected. Entire proposals designated as
+     confidential may be rejected.
+ 14. Vendor proposal in response to this RFP will be incorporated into the final agreement
+    between KCIA and the selected vendor. The submitted proposal at a minimum should
+    include the following sections:
+       •  Itemized Pricing and Total Sheet Summary
+       • Any exclusions
+       • KCIA and Vendor Responsibilities
+       •  Fees, Payments and any applicable Trade-in credits
+       •  Legal Terms and Conditions
+15. Vendors must include references for projects of similar size and scope that have been
+    completed within the past two years. These references must be schools, school district,
+    higher education or business similar in size and contain the following:
+
+       •  Job Location
+       •  Contact name and telephone numbers
+       •  Dates of contract
+       •   Project description
+       •  Devices provided
+16.  All services must be provided solely by a single vendor.
+17. The District reserves the right to waive any minor technical deficiencies in bids submitted,
+       but is not bound to do so.
+
+
+
+
+                                                                                   5
+
+          414 Wallace Avenue, Kansas City, MO 64125
+          816-242-4206
+Pricing:
+
+Please price out the following separately:
+
+    1) ERATE related pricing for:
+            a. Network components
+           b. Managed Services for the Firewall, switches, and access points
+                              i. 3 year and optional 1 year renewals for managed service
+    2)  All other components priced
+            a.  Server, setup and management
+           b. VOIP phone system
+             c.  Services and support
+
+ KCIA Itemized Network Components and Pricing for 2026              Pricing
+ Equipment (ERATE)
+ Firewall
+ Network Switches
+ Access Points
+
+
+ Managed Services ERATE Equipment
+
+
+ Equipment (non erate eligible)
+ VOIP phone system
+ Virtual Server with licenses & support with Backup solution
+
+
+ Other Services and Support
+ Active Directory/Group Policy setup and support
+ Imaging solution for laptops & desktops
+ Printing services setup and support
+ Microsoft licensing server (KMS) setup & support
+ Informacast type solution and support
+ Student Account autocreation & management from Infinite Campus
+ SIS)
+ Content Filter solution like Securly
+ Google Management support with auto account creation from SIS
+ Domain name registration assistance (Godaddy)
+
+
+                                                                                   6
+
+          414 Wallace Avenue, Kansas City, MO 64125
+          816-242-4206
+
+
+References
+
+    A.  Include three references in the requested format that closely meet or exceed the
+       following requirements:
+            a.  References in the K-12 industry are strongly encouraged
+            b.  Support that occurred within the last three years are preferred
+             c.  The Proposer sold the devices at the reference’s location
+            d. The reference’s request correlates directly to the products provided in this RFP
+            e.  References should be environments consisting of a similar size
+                f.  References will be contacted. Please verify the contact information before
+              submitting.
+
+
+    B.  Reference format:
+  Reference 1
+  Organization Name
+
+
+  Mailing Address Line 1
+  Mailing Address Line 2
+  City
+  State
+  Zip Code
+
+
+  Contact Person Name
+  Contact Person Title
+  Contact Person Phone Number
+  Contact Person E-mail Address
+
+
+  Device Sell Date
+  Number of Users
+  Specific Device Model that was sold
+
+
+  Reference 2
+  Organization Name
+
+
+  Mailing Address Line 1
+  Mailing Address Line 2
+  City
+  State
+  Zip Code
+
+                                                                                   7
+
+          414 Wallace Avenue, Kansas City, MO 64125
+          816-242-4206
+
+
+  Contact Person Name
+  Contact Person Title
+  Contact Person Phone Number
+  Contact Person E-mail Address
+
+
+  Device Sell Date
+  Number of Users
+  Specific Device Model that was sold
+
+
+  Reference 3
+  Organization Name
+
+
+  Mailing Address Line 1
+  Mailing Address Line 2
+  City
+  State
+  Zip Code
+
+
+  Contact Person Name
+  Contact Person Title
+  Contact Person Phone Number
+  Contact Person E-mail Address
+
+
+  Device Sell Date
+  Number of Users
+  Specific Device Model that was sold
+
+
+
+Deviations
+
+    A.  List any deviations or exceptions from the requirements of this RFP. Please include
+        illustrated descriptions of all RFP items that are deviations from specified items.
+
+
+
+
+
+                                                                                   8
+
+          414 Wallace Avenue, Kansas City, MO 64125
+           816-242-4206
+
+ Signatures
+
+
+ In compliance with this Request for Proposal, any addenda thereto, and subject to all terms,
+ conditions, and provisions thereof, the undersigned offers and agrees, if the Proposal is
+ accepted, to furnish any or all of the items or services listed herein at the price and terms
+ stated.
+
+
+
+   Authorized Person
+
+   Signature
+
+
+   Signature:                                                             Date:
+
+
+
+
+   Authorized Person
+   Contact Information (please print)
+
+
+  Name:
+
+
+
+
+    Title:
+
+
+
+
+   Phone Number:
+
+
+
+
+   E-mail Address:
+
+
+
+The next pages displays:
+    •   Arial view of property
+    •  Access, MDF and IDF locations
+    •  Aruba outside Access Points
+
+
+
+                                                                                   9
+
+414 Wallace Avenue, Kansas City, MO 64125
+816-242-4206
+
+
+
+
+
+                                                                                                        10
+
+414 Wallace Avenue, Kansas City, MO 64125
+816-242-4206
+
+
+
+
+
+                                                                                                        11
+
+414 Wallace Avenue, Kansas City, MO 64125
+816-242-4206
+
+
+
+
+
+                                                                                                        12
+
+414 Wallace Avenue, Kansas City, MO 64125
+816-242-4206
+
+
+
+
+
+                                                                                                        13
+
+414 Wallace Avenue, Kansas City, MO 64125
+816-242-4206
+
+
+
+
+
+                                                                                                        14
+
+414 Wallace Avenue, Kansas City, MO 64125
+816-242-4206
+
+
+
+
+
+                                                                                                        15
+
+414 Wallace Avenue, Kansas City, MO 64125
+816-242-4206
+                        ARUBA OUTSIDE ACCESS POINTS
+
+
+
+
+
+                                                                                                        16

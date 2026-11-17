@@ -1,0 +1,3084 @@
+      Annexure 1: Bid Specification: RFB 3012-2024
+
+        STATE INFORMATION TECHNOLOGY AGENCY (SOC) LTD
+
+                        Registration number 1999/001899/30
+
+RFB REF. NO:                     RFB 3012 - 2024
+
+                            PROCUREMENT OF LAN AND WIFI EQUIPMENT WITH MAINTENANCE AND
+DESCRIPTION                    SUPPORT FOR THE KZN DEPARTMENT OF EDUCATION FOR THE PERIOD OF
+                               THREE (03) YEARS
+
+PUBLICATION DATE                               27 September 2024
+
+                            A Compulsory Briefing Session will be held as follows:
+
+                                     Date: 04 October 2024
+
+BRIEFING DATE                      Time: 10:00 am (South African Time)
+
+                                     Address: 343 Jabu Ndlovu Street, 1ST Floor Natalia Building,
+
+                                      Pietermaritzburg 3200
+
+CLOSING DATE FOR QUESTIONS  /
+                               18 October 2024QUERIES
+
+                                     Date: 21 October 2024
+
+                                    Time: 11:00 am (South African Time)
+RFB CLOSING DETAILS
+                                        Place: Tender Office, Pongola In Apollo, 459 Tsitsa Street, Erasmuskloof,
+
+                                        Pretoria (Head Office).
+
+RFB VALIDITY PERIOD               200 Days from the Closing Date
+
+BIDDERS MUST REGISTERED ON NATIONAL TREASURY’S CENTRAL SUPPLIER
+             DATABASE PRIOR TO SUBMITTING BID.
+
+
+
+eSDCC-03594                                            RESTRICTED                                               1 of 56
+
+Contents
+
+1. Introduction and background ........................................................................................................................ 4
+   1.1 Purpose ................................................................................................................................................. 4
+   1.2 Background ........................................................................................................................................... 4
+2. Scope of Bid .................................................................................................................................................. 4
+   2.1 Scope of Work ....................................................................................................................................... 4
+   2.2  Delivery Address ................................................................................................................................... 5
+   2.3 Customer Infrastructure and environment requirements .................................................................... 5
+3. Requirements ................................................................................................................................................ 5
+   3.1  Service Elements ................................................................................................................................... 5
+        3.1.1 Full-Service Agreement ............................................................................................................... 5
+4. Bid Evaluation Stages .................................................................................................................................... 9
+   4.1 Mandatory Administrative responsiveness (Stage 1) ............................................................................ 9
+        4.1.1 Attendance of briefing session ................................................................................................... 9
+        4.1.2 Registered Supplier ..................................................................................................................... 9
+        4.1.3 Bid Submission Instructions ........................................................................................................ 9
+   4.2  Technical returnable documents ........................................................................................................ 10
+        4.2.1 Instruction and evaluation criteria ............................................................................................ 10
+        4.2.2 Technical mandatory requirements (Stage 2) ........................................................................... 11
+   4.3  Special Conditions of Contract Verification (Stage 3) .......................................................................... 13
+        4.3.1 Special Conditions of Contract .................................................................................................. 13
+        4.3.2 Contracting Conditions ............................................................................................................. 13
+        4.3.3 Delivery Address ....................................................................................................................... 13
+        4.3.4 Services and performance Metrics ........................................................................................... 14
+        4.3.5 Mission Critical MTTResolve: Response and Repair Times ....................................................... 14
+        4.3.6 Scope of work changes ............................................................................................................. 14
+        4.3.7 Delivery timeframes .................................................................................................................. 14
+        4.3.8 Supplier performance reporting ............................................................................................... 14
+        4.3.9  Certification, Expertise and Qualification ................................................................................. 14
+        4.3.10 Logistical Conditions ................................................................................................................. 15
+        4.3.11 Skills transfer and training ........................................................................................................ 16
+        4.3.12 Regulatory, Quality and Standards ........................................................................................... 16
+        4.3.13 Security clearance requirements .............................................................................................. 16
+        4.3.14 Confidentiality and non-disclosure conditions .......................................................................... 17
+        4.3.15 Guarantee and warranties ........................................................................................................ 18
+        4.3.16 Intellectual Property Rights ...................................................................................................... 19
+        4.3.17 Counter Conditions ................................................................................................................... 20
+        4.3.18 Fronting .................................................................................................................................... 20
+        4.3.19 Business Continuity and Disaster Recovery Plans ..................................................................... 20
+        4.3.20 Supplier Due Diligence .............................................................................................................. 20
+        4.3.21 Sub-Contracting as a Condition of Tender ................................................................................ 20
+        4.3.22 Preference Goal Requirements conditions ............................................................................... 21
+        4.3.23 Declaration of compliance and acceptance SCC ....................................................................... 21
+         Bidder substantiating evidence ...........................................................................................................36
+5. Technical Mandatory Requirement Evidence ...............................................................................................36
+   5.1  Bidder Certification / Affiliation Requirements ................................................................................... 36
+   5.6  Preference Points Preferential Goals Evidence ................................................................................... 38
+      ADDENDUM 1 .....................................................................................................................................40
+
+ eSDCC-03594                                            RESTRICTED                                               2 of 56
+
+        THIRD-PARTY RISK MANAGEMENT (TPRM) ASSESSMENT ...................................................................51
+6. Instructions ..................................................................................................................................................51
+   6.1  Evaluation Criteria ............................................................................................................................... 51
+        6.1.1 Company risk ............................................................................................................................ 51
+        6.1.2  All questions for all other risk elements: .................................................................................. 52
+   6.2  Third Party Risk Assessment ................................................................................................................ 52
+   6.3  Third Party Risk Management Declaration .......................................................................................... 55
+        6.3.1 Declaration of Acceptance ........................................................................................................ 55
+
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                               3 of 56
+
+1.  Introduction and background
+
+1.1  Purpose
+
+The purpose of this Request For Bid (RFB) is to invite Suppliers (hereinafter referred to as “bidders”) to submit
+bids to appoint a service provider for the supply, installation and configuration of various LAN and WIFI
+equipment for the KZN Department of Education for new sites as well as replacement of obsolete
+infrastructure to be deployed across its offices in KZN as well as at schools and other government sites
+identified by the Department including three-year maintenance and support for equipment installed.
+
+1.2  Background
+
+The KZN DOE has an outdated network and requires a phased approach to which this network will be
+upgraded. The network will extend from departmental sites to schools and other education sites of relevance.
+The department has set aside budget to oversee the replacement of obsolete LAN equipment and expand the
+existing LAN to accommodate WIFI deployment across identified education sites.
+
+
+
+The KZN DoE requires various LAN and WIFI equipment to be deployed across its offices in KZN as well as at
+schools also in other government sites identified by the department. This deployment will take place as and
+when budget becomes available. Due to the sensitive financial situation across government as well as the
+tendency for the government to reprioritize its budget, the KZN Department of Education seeks to appoint a
+service provider for the supply and installation of LAN and Wi-Fi equipment over a period of three years.
+
+Having such a contract available will enable the Department to quickly procure the required equipment when
+the budget is made available.
+
+
+
+The Department envisages that once the Service Provider is appointed, the Department will then task SITA
+with quantities of the required equipment at various times over a three-year period and that SITA will then
+procure these devices from the successful bidder within an expeditious timeframe. In addition, SITA is required
+to project manage the installation of this equipment and ensure the implementation is executed in line with
+industry standards.
+
+The Department seeks to provide a high quality of IT services by ensuring its customers have uninterrupted
+access to IT systems and infrastructure. The objective is to ensure minimum downtime and be able to address
+IT related faults within acceptable timeframes.
+
+
+
+2.   Scope of Bid
+
+2.1  Scope of Work
+
+The scope of work for the bidders is as follow:
+
+The scope of work is for the supply, installation and configuration of various LAN and WIFI equipment for the
+KZN Department of Education for new sites as well as replacement of obsolete infrastructure to be deployed
+across its offices in KZN as well as at schools and other government sites identified by the Department including
+three-year maintenance and support for equipment installed.
+
+Refer to section 3. for the detailed requirements.
+
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                               4 of 56
+
+2.2   Delivery Address
+
+     The successful service provider must be able to deliver products and services to the KZN Department of
+      Education sites across its offices in KZN as well as at schools. The specific sites will be indicated to the
+      prospective bidder as and when required during the duration of the contract.
+
+2.3  Customer Infrastructure and environment requirements
+
+     The client requires the installation of various LAN and WIFI equipment for the KZN Department of
+      Education to be deployed across its offices in KZN as well as at schools and other Government sites
+       identified by the Department including three-year maintenance and support as per scope of work in
+      section 2.1 and section 3.0.
+
+3.   Requirements
+
+3.1   Service Elements
+
+3.1.1 Full-Service Agreement
+
+     The The KZN DoE requires various LAN and WIFI equipment to be deployed across its offices in KZN as
+      well as at schools also in other government sites identified by the department. The department has set
+      aside budget to oversee the replacement of obsolete LAN equipment and expand the existing LAN to
+     accommodate WIFI deployment across identified education sites.
+
+     Hardware  is to be maintained as per hardware manufacture’s condition for full contract period.
+      Required for restoration of services , in the event that any hardware component malfunctions and
+      requires being repaired or reconfigure. The appointed service provider will be required to cater for
+      request that occur during the maintenance and support period of the solution (configurations or
+      change, upgrade, etc).
+
+      Note: The network monitoring platform must be cloud-based and must support WDM, WLAN, LAN and WAN
+            networks in one platform.
+
+     The Table below shows the specific requirements for this Bid.
+
+      #           Requirements
+      1           Supply the below specifications or equivalent
+       1.1                     ETSI Rack (2000*600*300mm)
+       1.2                        Electrical-layer Chassis without service boards
+       1.3                 16*10G Tributary board
+       1.4                 2*40G Tributary board
+       1.5                 2*100G Tributary board
+       1.6                 2*100G Hybrid Line Service Processing Board
+       1.7                      Optical-layer Device (0-80km)
+       1.8                      Optical-layer Device (80-150km)
+       1.9           WDM NMS Cabinet
+       1.10           WDM NMS Server
+       1.11           WDM NMS Server Software and License
+       1.12           WDM NMS Server Software and License SnS
+       1.13           WDM NMS WDM Device License (Per 5 Equivalent NEs)
+       1.14           WDM NMS Device License SnS (Per 5 Equivalent NEs)
+       1.15                    Access microwave equipment (100 M/bps)
+
+
+ eSDCC-03594                                            RESTRICTED                                               5 of 56
+
+     #           Requirements
+      1.16                   Access microwave equipment (200 M/bps)
+      1.17                   Access microwave equipment (300 M/bps)
+      1.18                   Access microwave equipment (400 M/bps)
+      1.19                0.6m Single-polarized antenna
+      1.20                0.9m Single-polarized antenna
+      1.21                1.2m Single-polarized antenna
+      1.22                1.8m Single-polarized antenna
+      1.23                   24-Port Entry Level Access Switch
+      1.24                   24-Port Mid-Level Access Switch
+      1.25                   24-Port High Level Access Switch
+      1.26                   48-Port Entry Level Access Switch
+      1.27                   48-Port Mid-Level Access Switch
+      1.28                   48-Port High Level Access Switch
+      1.29                   48-Port Entry Level Aggregation switch
+      1.30                   48-Port High Level Aggregation switch
+      1.31                 Core Switch
+      1.32                    4-port 100GE interface for Core Switch
+      1.33                   48-port 10/100/1000BASE-T interface card(RJ45 PoE++) for Core Switch
+      1.34         20-port 100/1000BASE-X and 4-port 100M/1G/10GBASE-X interface card for Core
+                   Switch
+      1.35                   24-port 100M/1G/10GBASE-X interface card for Core Switch
+      1.36                   24-port 10/100/1000BASE-T interface card (RJ45) for Core Switch
+      1.37                   Entry Level Indoor Access Point
+      1.38                   Mid-Level Indoor Access Point
+      1.39                  High Level Indoor Access Point
+      1.40               Low Level Outdoor Access Point
+      1.41                  High Level Outdoor Access Point
+      1.42                   Small size Campus Wireless Controller
+      1.43                   Large size Campus Wireless Controller
+      1.44                   Small size Branch Router
+      1.45                    Mid-size Branch Router
+      1.46                   Large size Branch Router
+      1.47                   Entry Level Backbone Router
+      1.48                   Mid-Level Backbone Router
+      1.49                  High Level Backbone Router
+      1.50                    2-Port 50GBase/1-Port 100GBase-QSFP28 Physical Interface Card for Router
+      1.51                   Entry Level Firewall
+      1.52                   Mid-Level Firewall
+      1.53                  High Level Firewall
+      1.54                    Optical Transceiver, eSFP, GE, Multi-mode Module(850nm,0.55km, LC)
+      1.55                  2.5G-SR Optical Transceiver, SFP,2.5GE,Multi-mode Module(850nm,0.3km,LC)
+
+
+eSDCC-03594                                            RESTRICTED                                               6 of 56
+
+     #           Requirements
+      1.56                    Optical Transceiver, SFP28-25G Multi-mode(850nm,0.3km,LC)
+      1.57                    Optical Transceiver, SFP+,10G,Multi-mode Module(850nm,0.3km,LC)
+      1.58                    Optical Transceiver, SFP+,10G,Single-mode Module(1310nm,10km,LC)
+      1.59               Campus Network Management System
+      1.60                 Backbone Network Management System - Hardware
+      1.61                 Backbone Network Management System – Slave Hardware
+      1.62                 Backbone Network Management System – Basic Software
+      1.63        Backbone Network Management System – Network Control License per 50 equivalent
+                   device
+      1.64                 Smart Board:65-inch LED Interactive Whiteboard with all accessories.
+      1.65                 Smart Board:86-inch LED Interactive Whiteboard with all accessories.
+      1.66                 Smart Board: Smart Black Board 65/86-inch
+      1.67                 Smart Board: LVC per classroom per year.
+     2           Maintenance and technical support (per device)
+      2.1                 36-months 9x5xNBD-S Technical Support Service for Electrical-layer Chassis
+      2.2                 36-months 9x5xNBD-S Technical Support Service for 2*40G Tributary board
+      2.3                 36-months 9x5xNBD-S Technical Support Service for 2*100G Tributary board
+      2.4         36-months 9x5xNBD-S Technical Support Service for 2*100G Hybrid Line Service
+                   Processing Board
+      2.5         36-months 9x5xNBD-S Technical Support Service for 2*200G Hybrid Line Service
+                   Processing Board
+      2.6         36-months 9x5xNBD-S Technical Support Service for 2*400G Hybrid Line Service
+                   Processing Board
+      2.7                 36-months 9x5xNBD-S Technical Support Service for Optical-layer Device (0-80km)
+      2.8                 36-months 9x5xNBD-S Technical Support Service for Optical-layer Device (80-150km)
+      2.9                 36-months 9x5xNBD-S Technical Support Service for WDM NMS Hardware
+      2.10        36-months 9x5xNBD-S Technical Support Service for Access microwave
+                 equipment(200 M/bps) -1 hop
+      2.11                 36-months 9x5xNBD-S Technical Support Service for 24-Port Entry Level Access Switch
+      2.12                 36-months 9x5xNBD-S Technical Support Service for 24-Port Mid-Level Access Switch
+      2.13                 36-months 9x5xNBD-S Technical Support Service for 24-Port High Level Access Switch
+      2.14                 36-months 9x5xNBD-S Technical Support Service for 48-Port Entry Level Access Switch
+      2.15                 36-months 9x5xNBD-S Technical Support Service for 48-Port Mid-Level Access Switch
+      2.16                 36-months 9x5xNBD-S Technical Support Service for 48-Port High Level Access Switch
+      2.17        36-months 9x5xNBD-S Technical Support Service for 48-Port Entry Level Aggregation
+                   switch
+      2.18        36-months 9x5xNBD-S Technical Support Service for 48-Port High Level Aggregation
+                   switch
+      2.19                 36-months 9x5xNBD-S Technical Support Service for Core Switch
+      2.20                 36-months 9x5xNBD-S Technical Support Service for Entry Level Indoor Access Point
+      2.21                 36-months 9x5xNBD-S Technical Support Service for Mid-Level Indoor Access Point
+      2.22                 36-months 9x5xNBD-S Technical Support Service for High Level Indoor Access Point
+      2.23                 36-months 9x5xNBD-S Technical Support Service for Low Level Outdoor Access Point
+
+
+
+eSDCC-03594                                            RESTRICTED                                               7 of 56
+
+     #           Requirements
+      2.24                 36-months 9x5xNBD-S Technical Support Service for High Level Outdoor Access Point
+      2.25        36-months 9x5xNBD-S Technical Support Service for Small size Campus Wireless
+                    Controller
+      2.26        36-months 9x5xNBD-S Technical Support Service for Large size Campus Wireless
+                    Controller
+      2.27                 36-months 9x5xNBD-S Technical Support Service for Small size Branch Router
+      2.28                 36-months 9x5xNBD-S Technical Support Service for Mid-size Branch Router
+      2.29                 36-months 9x5xNBD-S Technical Support Service for Large size Branch Router
+      2.30                 36-months 9x5xNBD-S Technical Support Service for Entry Level Backbone Router
+      2.31                 36-months 9x5xNBD-S Technical Support Service for Mid-Level Backbone Router
+      2.32                 36-months 9x5xNBD-S Technical Support Service for High Level Backbone Router
+      2.33        36-months 9x5xNBD-S Technical Support Service for 2-Port 50GBase/1-Port
+                 100GBase-QSFP28 Physical Interface Card
+      2.34                 36-months 9x5xNBD-S Technical Support Service for Entry Level Firewall
+      2.35                 36-months 9x5xNBD-S Technical Support Service for Mid-Level Firewall
+      2.36                 36-months 9x5xNBD-S Technical Support Service for High Level Firewall
+      2.37        36-months 9x5xNBD-S Technical Support Service for Campus Network Management
+                 System
+      2.38        36-months 9x5xNBD-S Technical Support Service for Backbone Network Management
+                 System
+      2.39        36-months 9x5xNBD-S Technical Support Service for 65-inch LED Interactive
+                 Whiteboard
+      2.40        36-months 9x5xNBD-S Technical Support Service for 86-inch LED Interactive
+                 Whiteboard
+      2.41                 36-months 9x5xNBD-S Technical Support Service for Smart Black Board 65/86-inch
+     3                  Design and Configuration (per device)
+      3.1                  Design and configuration for Branch Router
+      3.2                  Design and configuration for Backbone Router
+      3.3                  Design and configuration for Core Switch
+      3.4                  Design and configuration for Access Switch
+      3.5                  Design and configuration for NMS for Campus Device
+      3.6                  Design and configuration for Indoor Access Point
+      3.7                  Design and configuration for Outdoor Access Point
+      3.8                  Design and configuration for Wireless Controller
+      3.9                  Design and configuration for Single-Polarized Antenna
+      3.10                  Design and configuration for Optical-layer Device (0-80km)
+      3.11                  Design and configuration for Optical-layer Device (80-150km)
+      3.12                  Design and configuration for NMS for Optical-layer Device
+      3.13                  Design and configuration for Firewall
+      3.14                  Design and configuration for Video Conference Terminal
+      3.15         Design and configuration for NMS for IP Device
+
+
+
+
+
+eSDCC-03594                                            RESTRICTED                                               8 of 56
+
+      #           Requirements
+      4                  Implementation (per hour)
+       4.1                        Installation, cabling and Labelling for all the hardware by Junior Engineer
+       4.2                        Installation, cabling and Labelling for all the hardware by Intermediate engineer
+       4.3                        Installation, cabling and Labelling for all the hardware by Senior Engineer
+
+
+4.    Bid Evaluation Stages
+
+       (a)   The bid evaluation process consists of several stages, according to the nature of the bid.
+
+       (b)   A Bidder must qualify for each stage to be eligible to proceed to the next stage of the evaluation.
+
+          The stages are:
+
+                                     Table 1: Bid Evaluation Stages
+
+            Stage                          Description                      Applicable for this bid YES/NO
+       Stage 1        Mandatory Administrative requirements                     YES
+       Stage 2          Technical Mandatory requirement                          YES
+       Stage 3          Special Conditions of Contract verification                    YES
+       Stage 4          Costing and Preference Points Evaluation                    YES
+
+
+4.1  Mandatory Administrative responsiveness (Stage 1)
+
+4.1.1  Attendance of briefing session
+
+       (a)   A Compulsory Physical Briefing session will be held. The bidder must sign the briefing session
+           attendance register using the same information (bidder company name, bidder representative
+           person name and contact details) as submitted in the bidder’s response document.
+           Note (1):
+             Bidder’s who wishes to attend the Compulsory Physical Briefing Session needs to notify the
+            responsible Specialist indicated in the Bid Document of attending the session. The details of the
+           Compulsory Physical Briefing Session will then be sent to those Bidders.
+
+
+           Note (2):
+          Any Bidder who fails to attend the Compulsory Physical Briefing session will be disqualified.
+
+4.1.2  Registered Supplier
+
+         (a)  Only responses from bidders who are registered as a Supplier on National Treasury’s Central
+             Supplier Database (CSD) in terms of National Treasury’s Instruction Note 4A of 2016/17 will be
+            considered for award on this RFB.
+         (b)  In the case of joint ventures or consortiums the bidder must demonstrate that at least one of the
+             parties to the bid response attended the briefing session.
+         (c)  Bidders need to complete all the SBD documents which needs to be submitted as stated in the
+              Invitation to Bid Document.
+
+   4.1.3 Bid Submission Instructions
+
+      Note that a Two Envelope process will be followed and therefore bidders must submit as follows:
+
+       (a)   One (1) original file excluding pricing which must be submitted in a separate envelope.
+       (b)   One (1) hard copy excluding pricing which must be submitted in a separate envelope.
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                               9 of 56
+
+       (c)   Two (2) electronic copies on USB memory stick/ flash drive in Portable Document Format (PDF) of
+            the RFB Document and Technical / Functionality Response.
+       (d)   Two (2) electronic copies on USB memory stick/ flash drive in Portable Document Format (PDF) of
+             pricing only.
+       (e)     It is the Bidder’s responsibility to ensure that the information and contents on the electronic
+            copies is the same as in the hard copies.
+         (f)   To ensure that the electronic copies are not damaged, the bidder must submit the USB’s (memory
+              stick/ flash drive) in a sealed padded envelop and be clearly marked.
+       (g)   Bidders shall submit proposal responses in accordance with the prescribed manner of submission
+            as specified above. Failure to comply with the above instructions on submitting a proposal will lead
+            to disqualification.
+       (h)   The RFB Responses (hard and electronic copies) must be clearly marked as follows: Bidder’s Name
+        & Contact Details, RFB Number, RFB Description, and Closing Date.
+         (i)     All Bids in this regard shall only be accepted if they have been placed in the tender box before or
+          on the closing date and stipulated time.
+         (j)    Late bids shall not be considered.
+       (k)   The proposal must be signed by an authorised employee, agent or representative of the bidder.
+          The proposal must bear the initials of the signatory at the bottom of every page as an indication
+            that the bidder has familiarised itself with the terms and conditions of this RFB document.
+         (l)    Faxed or e-mailed bids will not be accepted.
+      (m)   Bidders shall submit proposal responses in accordance with the prescribed manner of submission
+            as specified in this document. Failure to comply with the bid submission requirements will lead to
+              disqualification.
+       (n)   Bidders are required to submit  all returnable documents/information together with their
+            Bids/proposals on or before the closing time and date of the Bids/proposals.
+       (o)    All services supplied in accordance with the bidder’s proposal must be in accordance with all
+             applicable legal requirements in terms of South African law, policies and regulations.
+
+4.2   Technical returnable documents
+
+4.2.1 Instruction and evaluation criteria
+
+       (a)   The bidder must comply with ALL the requirements  as per the  Technical Mandatory
+           Requirements below by providing substantiating evidence in the form of documentation or
+            information, failing which it will be regarded as “NOT COMPLY”.
+       (b)   The bidder must provide a unique reference number (e.g. binder/folio, chapter, section, page) to
+             locate substantiating evidence in the bid response.
+       (c)   The bidder must comply with ALL the TECHNICAL MANDATORY REQUIREMENTS for the bid
+           response to proceed to the next stage of the evaluation.
+
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              10 of 56
+
+4.2.2 Technical mandatory requirements (Stage 2)
+
+                              Table 2: Technical Mandatory Requirements
+
+        Mandatory Requirements   Substantiating evidence of         Evidence reference (to be completed
+                                 compliance (used to evaluate bid)   by bidder)
+          1.  BIDDERS CERTIFICATION/AFFILIATION REQUIREMENTS
+
+       The Bidder must be        Attach to ANNEX A a copy of valid  <provide unique reference to locate
+          Certified by the Original    documentation                     substantiating evidence in the bid
+        Equipment Manufacturer   (letter/certificate/license) as       response – see Annex A, par 5.1>
+        (OEM), or Original         proof that the Bidder is Certified
+        Software Manufacturer    by the Original Equipment
+       (OSM) as an Accredited    Manufacturer (OEM), or Original
+         Partner/Reseller on an     Software Manufacturer (OSM) as
+         enterprise level for the    an Accredited Partner/Reseller
+         supply, installation and    on an enterprise level for the
+        maintenance of the LAN    supply, installation and
+        and Wi-fi installation        maintenance of the LAN and Wi-fi
+         Solution.                       installation Solution.
+
+
+                           NOTE (1):
+                                   SITA reserves the right to verify
+                                   information provided.
+
+
+          2. BIDDER EXPERIENCE AND CAPABILITY REQUIREMENTS
+
+       The Bidder must have     The Bidder must provide          <provide unique reference to locate
+         supplied, installed and      reference details from at least      substantiating evidence in the bid
+        maintained LAN and Wifi    two (02) customers to whom LAN   response – see Annex A, par 5.2, table
+          solutions to at least two     and Wi-fi solutions were supplied,    6>
+         (02) customers in the last   installed and maintained in the
+          five (5) years from the       last five (5) years from the
+         publication date of this     publication date of this bid.
+          bid.
+                           NOTE (1)
+                              The Bidder must provide all of the
+                                     following information when
+                                 completing table 6:
+                                           (a)  Company name; and
+                                         (b)   Contact person, telephone
+                                       and/or e-mail address; and
+                                            (c)   Project scope of Work; and
+                                         (d)   Project start and End date.
+
+                           NOTE (2):
+                                       Failure to comply  fully  to the
+                                 requirements as indicated above
+                                             will result in disqualification.
+
+                           NOTE (3):
+                                   SITA reserve the right to verify
+                                   information provided.
+
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              11 of 56
+
+       Mandatory Requirements   Substantiating evidence of         Evidence reference (to be completed
+                                compliance (used to evaluate bid)   by bidder)
+         3. MINIMUM DETAILED SPECIFICATIONS AND TECHNICAL PRODUCT/SERVICE FUNCTIONAL
+        REQUIREMENTS
+
+      The Bidder must confirm   The Bidder must confirm that      <provide unique reference to locate
+       compliance to the         they comply with the Minimum     substantiating evidence in the bid
+      Minimum Detailed          Detailed Specifications and        response – see Annex A, section 5.3
+        Specifications and          Technical Product/ Service        and Annex B ADDENDUM 1.>
+        Technical Product/          Functional Requirements for the
+        Service Functional          supply, installation and
+       Requirements for the      maintenance of the LAN and Wifi
+        supply, installation and      solution.by completing and signing
+       maintenance of the LAN    Annex B ADDENDUM1.
+       and Wifi solution.
+                          NOTE (1):
+                                  SITA reserve the right to verify
+                                 the information provided.
+
+                          NOTE (2):
+                                     Failure to comply fully to the
+                                requirements as indicated above
+                                           will result in disqualification.
+
+
+         4. SPECIAL CONDITIONS OF CONTRACT ACCEPTANCE
+       Bidder must accept ALL    The Bidder must accept ALL the  <provide unique reference to locate
+       the Special Conditions of    Special  Conditions  of  Contract  substantiating evidence in the bid
+       Contract (SCC) as stated    (SCC) as stated in section 4.3, by  response – see ANNEX A, section 5.4>
+         in section 4.3.               signing  in  the  declaration  of
+                                compliance and  acceptance  of
+                             SCC in section 4.3.23.
+
+
+                              Note (1):
+
+                                     Failure to accept ALL the Special
+                                  Conditions of Contract will result
+                                        in disqualification.
+
+
+       5.THIRD PARTY RISK ASSESSMENT
+
+      The Bidder must confirm   The Bidder must comply to the     <Provide unique reference to locate
+       compliance to Third-        Third-Party Risk Management       substantiating evidence in the bid
+        Party Risk Management    Assessment requirement by       response – see ANNEX A, section 5.5
+       Assessment.              completing All the questions in    and Annex C,>
+                             Annex C.
+
+                          NOTE (1):
+                                     Failure to comply fully to the
+                                requirements as indicated above
+                                           will result in disqualification.
+
+
+                          NOTE (2)
+
+
+
+eSDCC-03594                                            RESTRICTED                                              12 of 56
+
+        Mandatory Requirements   Substantiating evidence of         Evidence reference (to be completed
+                                 compliance (used to evaluate bid)   by bidder)
+                                   SITA reserves the right to verify
+                                   information provided.
+
+
+
+
+4.3   Special Conditions of Contract Verification (Stage 3)
+
+       (a)   The successful supplier will be bound by Government Procurement: General Conditions of
+            Contract (GCC) as well as this Special Conditions of Contract (SCC), which will form part of the
+            signed contract with the successful Supplier. However, SITA reserves the right to include or waive
+           the condition in the signed contract.
+
+       (b)   SITA reserves the right to –
+
+                   (i)    Negotiate the conditions, or
+                    (ii)    Automatically disqualify a bidder for not accepting these conditions; or
+                    (iii)   Award to multiple bidders; or
+                (iv)   Not to award; or
+               (v)   To do a partial award; or
+                (vi)   To negotiate and/or vary the scope of work for each site or all the sites.
+       (c)    In the event that the bidder qualifies the proposal with own conditions and does not specifically
+           withdraw such own conditions when called upon to do so, SITA will invoke the rights reserved in
+           accordance with subsection 4.3. (b) above.
+
+
+4.3.1  Special Conditions of Contract
+
+4.3.2  Contracting Conditions
+
+       (a)   Formal Contract - The supplier must enter a formal written contract (agreement) with SITA.
+       (b)    Right to Audit - SITA reserves the right, before entering a contract, to conduct or commission an
+             external service provider to conduct a financial audit or probity to ascertain whether a qualifying
+            bidder has the financial wherewithal or technical capability to provide the goods and services as
+            required by this tender.
+       (c)    Right of Award - SITA reserves the right to award the contract for required goods or services to
+            multiple Suppliers.
+       (d)    Full as-built documentation for the implementation must be provided to the Department prior to
+               final commissioning of the network infrastructure.
+       (e)   The appointed service provider must ensure compliance to the Scope of Work (section 2) and
+           Requirements (section 3).
+         (f)     All the infrastructure must be delivered within a minimum of five (5) weeks from date of placing
+          an order.
+       (g)   Maintenance and support for a period of 36 months for the procured infrastructure and services
+           which details will be addressed during the contracting stage.
+
+4.3.3 Delivery Address
+
+       (a)   The supplier must deliver the required products or services at as indicated in Section 2.2, Delivery
+            Address.
+
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              13 of 56
+
+4.3.4 Services and performance Metrics
+
+       (a)   The bidder is responsible to provide the following services as specified in the Service
+               Breakdown Structure (SBS):
+                   (i)    Operational MTTResolve: Response and Repair Times - The Bidder must perform corrective
+                maintenance within predefined response and repair times. Maximum Time To Repair in all
+                  cases (Full Service Agreement) will be sixteen (16) working hours for all UTP LAN and WI-
+                      FI incidents.
+                    (ii)   Minimum monthly average of 95% availability of network uptime.
+
+4.3.5  Mission Critical MTTResolve: Response and Repair Times
+
+                   (i)    The Bidder must perform corrective maintenance within predefined response and repair
+                   times. Maximum Time To Repair in all mission critical cases (Full Service Agreement) will
+               be two (2) working hours for all UTP LAN and WI-FI incidents.
+                    (ii)   Minimum monthly average of 95% availability of network uptime.
+
+   4.3.6 Scope of work changes
+
+         (a)  SITA reserves the right to add or remove any scope of work requirement from contract on
+             notification done two (2) months in advance.
+
+4.3.7    Delivery timeframes
+
+              (i) The full LAN and WI-FI equipment solution must be implemented within seven (7) days after
+             receipt of an official Purchase Order from SITA.
+
+         (i)     fairly and mutually.
+
+4.3.8    Supplier performance reporting
+
+           (a)  Quarterly meetings to be scheduled between SITA/KZNDOE and service provider and ADHOC
+             meetings from both sided.
+
+          (b) A monthly report must be submitted to SITA on the first business day of the following month,
+             with the following information:
+
+           (c)  Status of equipment as per maintenance schedule.
+
+                     (i)  Problems, solutions and risks.
+
+                      (ii)  Where any downtime occurred, the following must be shown:
+
+                    a) Reason for Outage;
+
+                   b) Date of Outage;;
+
+                     c) Time of Outage
+
+                   d) Total repair time.
+
+
+
+4.3.9    Certification, Expertise and Qualification
+
+           (a)   The bidder certifies that:
+                        (i)    it has the necessary expertise, skill, qualifications and ability to undertake the work
+                   required in terms of the Statement of Work or Service Definition and,
+
+                         (ii)   it is committed to provide the Products or Services; and
+
+
+ eSDCC-03594                                            RESTRICTED                                              14 of 56
+
+                          (iii) perform all obligations detailed herein without any interruption to the Customer.
+
+                    (iv)  at the time of the contracting the intended personnel who will carry out the maintenance
+
+                 (v)  The Supplier must provide the service in a good and workmanlike manner and in
+                 accordance with the practices and high professional standards used in well-managed
+                  operations performing services like the Services.
+
+                  (vi) The Supplier must perform the Services in the most cost-effective manner consistent with
+                 the level of quality and performance as defined in Statement of Work or Service Definition.
+
+                    (vii) Original Equipment Manufacturer (OEM) or Original Software Manufacturer (OSM) work.
+               The Supplier must ensure that work or service is performed by a person who is certified by
+                    Original Equipment Manufacturer or Original Software Manufacturer.
+
+4.3.10   Logistical Conditions
+
+           (a)   The service provider shall have a 24/7/365 Technical Call Centre.
+
+          (b)    This  Call Centre  shall have multiple telecommunication  lines and  shall have a 100%
+              telecommunication uptime and 100% Information Technology uptime. This Call Centre shall
+             be equipped with backup power sources and shall have a 100% power uptime. The bidder
+                  shall have a disaster recovery site to which Call Centre operations can be routed, should the
+              primary Call Centre encounter a disaster. The disaster recovery site shall be operational and
+                functional and be able to manage 25% of the operations within 15 minutes, 50% of the
+               operations within 30 minutes, and able to manage full strength within 60 minutes.
+
+           (c)   The staff manning the bidder’s Call Centre shall have a technical background and understand
+              the Data Centre Environmental system. This Call Centre shall supervise the actions of the
+                technicians on the call out and ensure that the most suitable technical, safe, and economical
+                action is taken to resolve the incident with no risk to SITA and to prevent a failure in the SITA
+                 Infrastructure.
+
+          (d)     If SITA’s email system  is down, the above correspondence shall revert to telephonic
+              correspondence with telephonic updates.
+
+           (e)   The service provider shall have a proper incident management process in place to ensure that
+              the best possible levels of service quality and availability are maintained.
+
+         (f)   The Maintenance Bidder shall have an External Escalation Matrix in place within one week of
+            contract award to manage external escalations against his Call Centre. The Maintenance Bidder
+              shall also have an Internal Escalation Matrix in place within one week of contract award to indicate
+            to SITA how internal escalations within the Call Centre shall run.
+
+       (g)   Proper problem management needs to be implemented by the bidder to eliminate recurring
+             incidents, and to minimize the impact of incidents that cannot be prevented.
+
+       (h)   Configuration management needs to be implemented to ensure the infrastructure equipment
+           performance, and operational information can be measured throughout its life.
+
+       (a)    Tools of Trade
+                   (i)    The bidder is expected to use its own resources (cell phone, laptops etc) to communicate
+                 with its own offices or outside of the SITA/KZNDOE buildings, including all tools and
+                equipment to render the services effectively.
+
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              15 of 56
+
+4.3.11 Skills transfer and training
+
+         (a)  The Bidder must ensure that the SITA/KZNDOE technical staff receives the required training to
+           ensure the safe operation of the new equipment.
+
+                   (i)  The in-post training provided must include the possible primary cause and solutions to all
+                the alarm events that can be encountered on the new equipment.
+
+                    (ii)  Free In-post training must be provided on an on-going basis to ensure that the responsible
+              SITA/KZNDOE technical staff is acquainted with the safe operation of the equipment and
+                  interpretation of all alarm conditions.
+
+                    (iii) The bidder must provide the required free in-post training material i.e., instruction manual
+                 to the responsible SITA/KZNDOE technical staff.
+
+4.3.12   Regulatory, Quality and Standards
+
+           (a)   The Supplier must for the duration of the contract ensure compliance with ISO/IEC General
+                Quality Standards, ISO27001, and Protection of Personal Information Act (POPIA).
+          (b)   The Supplier must for the duration of the contract ensure compliance with General Quality
+               Standards, ISO 9001.
+           (c)    SITA Regulations (12.3) require that before a concluding a contract, the Agency must conduct
+              standard (MIOS) certification in respect of the goods or services in question. To avoid delays
+               or cancellation, bidders are encouraged to attach SITA PRODUCT CERTIFICATE for all offered
+               items which can be obtained from the OEM.
+
+
+               For more clarity and OEM agreements, visit the Product Certification website with the
+              Technology Certification Process at www.sita.co.za/prodcert.htm.
+          (d)   The safety of KZNDOE personnel and visitors to KZNDOE premises must be placed first, always
+             and great care must be taken not to damage any infrastructure or equipment.
+
+4.3.13   Security clearance requirements
+
+          a)   Company security screening: The supplier may be required to undergo a company security
+               screening conducted by the State Security Agency (SSA). Should the SSA find the supplier not
+                suitable after the conduct of the security screening, the business relationship  will be
+               terminated. The following documentation will be required for the company security screening
+               process to be conducted:
+
+                        (i)   Copy of company registration documentation.
+
+                         (ii)    Copy(ies) of identity documentation of Director(s), Member(s) or Trustee(s);
+
+                          (iii)   Copy of valid tax clearance certificate.
+
+         b)    Security suitability check for individuals: SITA may, at its own discretion and in line with its
+                 policies and procedures, require employees of the supplier to be subjected to a security
+                  suitability check before commencement of a project or delivering of a service. The security
+                  suitability check is conducted by SITA in order to ensure that individuals meet the minimum
+                security requirements and also to verify personal information. The supplier will be required to
+               replace any employee(s) who is found to be not suitable after the conduct of the security
+                screening. The following documentation will be required for the security suitability check:
+
+                        (i)   Copy of identity document;
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              16 of 56
+
+                         (ii)    Copy(ies) of qualification(s) if SITA requires verification thereof;
+
+                          (iii)   Fingerprints – will be taken electronically;
+
+                     (iv)   Signed consent form for the conduct of background checks.
+
+           c)     Security clearance: A security clearance, issued by either the SSA or Defence Intelligence (DI)
+                     is required  if any employee of the supplier will have or may gain access to classified
+               information throughout the duration of the project or in the process of delivering a service.
+             The level of security clearance required – Confidential, Secret or Top Secret,  will be
+              determined at the sole discretion of SITA. The supplier will have to replace any employee who
+            do not qualify for a security clearance or is found not suitable by the SSA or DI. The following
+              documentation will be required for the security clearance process:
+
+                        (i)    Completed Z204 or DD1057 security clearance application form.
+
+                         (ii)    Fingerprints;
+
+                          (iii)   Personal documentation of the applicant, including but not limited  to, identity
+                   document, passport, marriage certificate (if applicable), divorce order (if applicable),
+                        qualifications, salary advice and bank statements.
+
+4.3.14   Confidentiality and non-disclosure conditions
+
+           (a)   The Supplier, including  its management and staff, must before commencement of the
+                Contract, sign a non-disclosure agreement regarding Confidential Information
+          (b)    Confidential Information means any information or data, irrespective of the form or medium
+                 in which it may be stored, which is not in the public domain and which becomes available or
+                accessible to a Party as a consequence of this Contract, including information or data which is
+               prohibited from disclosure by virtue of:
+                   (i)    the Promotion of Access to Information Act, 2000 (Act no. 2 of 2000),
+                    (ii)   being clearly marked "Confidential" and which is provided by one Party to another Party in
+                terms of this Contract.
+                    (iii)   being information or data, which one Party provides to another Party or to which a Party
+                 has access because of Services provided in terms of this Contract and in which a Party
+                would have a reasonable expectation of confidentiality.
+                (iv)   being information provided by one Party to another Party during contractual or other
+                   negotiations, which could reasonably be expected to prejudice the right of the non-
+                    disclosing Party.
+               (v)   being information, the disclosure of which could reasonably be expected to endanger a life
+                  or physical security of a person.
+                (vi)   being technical, scientific, commercial, financial and market-related information, know-
+             how and trade secrets of a Party.
+                 (vii)  being financial, commercial, scientific or technical information, other than trade secrets, of
+                a Party, the disclosure of which would be likely to cause harm to the commercial or financial
+                    interests of a non-disclosing Party; and
+                  (viii)  being information supplied by a Party in confidence, the disclosure of which could
+                  reasonably be expected either to put the Party at a disadvantage in contractual or other
+                   negotiations or to prejudice the Party in commercial competition; or
+                 (ix)   information the disclosure of which would be likely to prejudice or impair the safety and
+                    security of a building, structure or system, including, but not limited to, a computer or
+                communication system; a means of transport; or any other property; or a person; methods,
+
+
+ eSDCC-03594                                            RESTRICTED                                              17 of 56
+
+                  systems, plans or procedures for the protection of an individual in accordance with a
+                  witness protection scheme; the safety of the public or any part of the public; or the security
+                   of property; information the disclosure of which could reasonably be expected to cause
+                  prejudice to the defence of the Republic; security of the Republic; or international relations
+                   of the Republic; or plans, designs, drawings, functional and technical requirements and
+                    specifications of a Party, but must not include information which has been made
+                   automatically available, in terms of the Promotion of Access to Information Act, 2000; and
+                  information which a Party has a statutory or common law duty to disclose or in respect of
+                which there is no reasonable expectation of privacy or confidentiality;
+       (c)   Notwithstanding the provisions of this Contract, no Party is entitled to disclose Confidential
+            Information, except where required to do so in terms of a law, without the prior written consent
+             of any other Party having an interest in the disclosure.
+       (d)   Where a Party discloses Confidential Information which materially damages or could materially
+          damage another Party, the disclosing Party must submit all facts related to the disclosure in
+             writing to the other Party, who must submit information related to such actual or potential
+            material damage to be resolved as a dispute.
+       (e)    Parties may not, except to the extent that a Party is legally required to make a public statement,
+         make any public statement or issue a press release which could affect another Party, without first
+            submitting a written copy of the proposed public statement or press release to the other Party
+          and obtaining the other Party's prior written approval for such public statement or press release,
+           which consent must not unreasonably be withheld.
+
+4.3.15  Guarantee and warranties
+
+       (a)   The supplier confirms that:
+                   (i)    The warranty of goods supplied under this contract remains valid for the duration of the
+                  contract after the goods were delivered, installed and commissioned with a sign off,
+                   including the clients signature.
+                    (ii)    In case infrastructure equipment needs to be replaced  all relevant guarantees and
+                  warranties must be honoured by the service provider. At expiry of the contract, the service
+                  provider will transfer the warranty/guarantee to KZNDOE.
+                    (iii)   The warranty of goods supplied under this contract remains valid for twelve (12) months
+                    after the goods, or any portion thereof as the case may be, have been delivered to and
+                 accepted at the destination indicated in the contract, or for eighteen (18) months after the
+                 date of shipment from the port or place of loading in the source country, whichever period
+                 concludes earlier.
+                (iv)   as at Commencement Date, it has the rights, title and interest in and to the Product or
+                   Services to deliver such Product or Services in terms of the Contract and that such rights
+                  are free from any encumbrances whatsoever.
+               (v)   the Product is in good working order, free from Defects in material and workmanship, and
+                    substantially conforms to the Specifications, for the duration of the Warranty period.
+                (vi)   during the Warranty period any defective item or part component of the Product be
+                  repaired or replaced within 3 (three) days after receiving a written notice from SITA.
+                 (vii)  the Products is maintained during its Warranty Period at no expense to SITA.
+                  (viii)  the Product possesses all material functions and features required for SITA’s Operational
+                 Requirements.
+                 (ix)   the Product remains connected or Service is continued during the term of the Contract;
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              18 of 56
+
+               (x)     all third-party warranties that the Supplier receives in connection with the Products
+                   including the corresponding software and the benefits of all such warranties are ceded to
+                  SITA without reducing or limiting the Supplier’s obligations under the Contract.
+                 (xi)   no actions, suits, or proceedings, pending or threatened against it or any of its third-party
+                   suppliers or sub-contractors that have a material adverse effect on the Supplier’s ability to
+                          fulfil its obligations under the Contract exist.
+                  (xii)   SITA is notified immediately if it becomes aware of any action, suit, or proceeding, pending
+                  or threatened to have a material adverse effect on the Supplier’s ability to fulfil the
+                   obligations under the Contract.
+                  (xiii)  any Product sold to SITA after the Commencement Date of the Contract remains free from
+                any lien, pledge, encumbrance or security interest.
+               (xiv)  SITA’s use of the Product and Manuals supplied in connection with the Contract does not
+                    infringe any Intellectual Property Rights of any third party.
+              (xv)   the information disclosed to SITA does not contain any trade secrets of any third party
+                  unless disclosure is permitted by such third party.
+               (xvi)   it is financially capable of fulfilling all requirements of the Contract and that the Supplier is
+                a validly organized entity that has the authority to enter the Contract.
+                (xvii)  it is not prohibited by any loan, contract, financing arrangement, trade covenant, or similar
+                     restriction from entering the Contract.
+                 (xviii) the prices, charges and fees to SITA as contained in the Contract are at least as favourable
+                  as those offered by the Supplier to any of its other customers that are of the same or similar
+                  standing and situation as SITA; and
+                (xix)  any misrepresentation by the Supplier amounts to a breach of Contract.
+              (xx)   Sita will only approve quotes which are market related and the service provider will be
+                  required to review the quotation if it’s not market related.
+
+4.3.16   Intellectual Property Rights
+
+       (a)   SITA retains all Intellectual Property Rights in and to SITA's Intellectual Property. As of the
+             Effective Date, the Supplier is granted a non-exclusive license, for the continued duration of this
+            Contract, to perform any lawful act including the right to use, copy, maintain, modify, enhance
+          and create derivative works of SITA's Intellectual Property for the sole purpose of providing the
+            Products or Services to SITA pursuant to this Contract; provided that the Supplier must not be
+           permitted to use SITA's Intellectual Property for the benefit of any entities other than SITA
+           without the written consent of SITA, which consent may be withheld in SITA's sole and absolute
+             discretion. Except as otherwise requested or approved by SITA, which approval is in SITA's sole
+          and absolute discretion, the Supplier must cease all use of SITA's Intellectual Property, at of the
+              earliest of:
+                   (i)    termination or expiration date of this Contract.
+                    (ii)   the date of completion of the Services; and
+                    (iii)   the date of rendering of the last of the Deliverables
+       (b)     If so, required by SITA, the Supplier must certify in writing to SITA that it has either returned all
+            SITA Intellectual Property to SITA or destroyed or deleted all other SITA Intellectual Property in
+                 its possession or under its control
+       (c)    SITA, always, owns all Intellectual Property Rights in and to all Bespoke Intellectual Property.
+       (d)   Save for the license granted in terms of this Contract, the Supplier retains all Intellectual Property
+             Rights in and to the Supplier’s pre-existing Intellectual Property that is used or supplied in
+           connection with the Products or Services
+
+
+ eSDCC-03594                                            RESTRICTED                                              19 of 56
+
+       (e)   Provide SITA with the compliant Occupational Health and Safety File (required on site for period
+             of installation and proof of compliance).
+
+4.3.17  Counter Conditions
+
+       (a)    Bidders’ attention is drawn to the fact that amendments to any of the Bid Conditions or setting
+             of counter conditions by bidders may result in the invalidation of such bids.
+
+4.3.18   Fronting
+
+       (a)   The SITA supports the spirit of Broad Based Black Economic Empowerment and recognizes that
+             real empowerment can only be achieved through individuals and businesses conducting
+           themselves in accordance with the Constitution and in an honest, fair, equitable, transparent and
+              legally compliant manner. Against this background the SITA will not condone any form of fronting.
+       (b)   The SITA, in ensuring that bidders conduct themselves in an honest manner will, as part of the
+            bid evaluation processes, conduct or initiate the necessary enquiries/investigations to determine
+           the accuracy of the representation made in bid documents. Should any of the fronting indicators
+            as contained in the Guidelines on Complex Structures and Transactions and Fronting, issued by
+           the Department of Trade and Industry, be established during such enquiry/investigation, the onus
+               will be on the bidder / contractor to prove that fronting does not exist. Failure to do so within a
+            period of 14 days from date of notification may invalidate the bid / contract and may also result
+              in the restriction of the bidder/contractor to conduct business with the public sector for a period
+           not exceeding ten (10) years, in addition to any other remedies SITA may have against the
+            bidder/contractor concerned.
+
+4.3.19   Business Continuity and Disaster Recovery Plans
+
+       (a)   The bidder confirms that they have written business continuity and disaster recovery plans that
+            define the roles, responsibilities and procedures necessary to ensure that the required services
+           under this bid specification is in place and will be maintained continuously in the event of a
+             disruption to the bidder’s operations, regardless of the cause of the disruption.
+
+4.3.20   Supplier Due Diligence
+
+       (a)   SITA reserves the right to conduct supplier due diligence prior to final award or at any time during
+           the Contract period and this may include pre-announced / non-announced site visits. During the
+          due diligence process the information submitted by the bidder  will be verified and any
+            misrepresentation thereof may disqualify the bid or Contract in whole or parts thereof.
+
+4.3.21  Sub-Contracting as a Condition of Tender
+
+       (a)    SITA, in terms of the SITA Preferential Policy (PPP), has an obligation to advance designated
+           groups which includes black SMMEs (i.e. Exempted Micro Enterprises (EME) and Qualifying Small
+             Enterprises (QSE) for the supply of certain ICT goods or services where feasible to subcontract for
+           a contract above R50m, an organ of state must apply sub-contracting to advance designated
+            groups.
+            Note:
+          The feasibly of subcontracting as well as the exact percentage subcontracting will be agreed by
+           the parties during the contracting stage.
+
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              20 of 56
+
+4.3.22  Preference Goal Requirements conditions
+
+       (a)   The Bidder’s commitment for the Preference Goal Requirements in this tender will be legally
+            binding and the Bidder needs to perform against their commitment for the duration of the
+            contract which will form part of the Contractual Agreement.
+       (b)   The Bidder must sustain, or improve the company’s BBBEE Level for the duration of the contact
+           which will form part of the Contractual Agreement.
+       (c)   Performance of Preference Goal Requirements will be determined annually. Bidders must submit
+              their Preference status report indicating progress against the Bidder’s Preferential commitments
+            within 30 days of the yearly anniversary of the contract.
+       (d)   Bidders  need  to  keep  auditable  substantive  records/evidence  and upon  request  by
+           SITA/Department must be made available for audit and, or due diligence purposes.
+       (e)   SITA reserves the right to require from a Bidder, either before a bid is adjudicated or at any time
+            subsequently, to substantiate any claim with regards to preferences, in any manner required by
+             SITA.
+         (f)    SITA reserves the right to verify information / evidence provided by the Bidder.
+       (g)   SITA/Department reserves the right to introduce a penalty of 1% of the overall annual year spent
+           by SITA/Department for the prior year if the Bidder fails to comply to paragraphs (a), (b) and (c)
+            above.
+
+4.3.23   Declaration of compliance and acceptance SCC
+
+                I (we), the bidder hereby declare that I (we) accept ALL the Special Conditions of Contract as specified
+          in par 4.3 above and shall comply with all stated obligations:
+
+
+
+      Name of Bidder:_____________________________  Signature: _________________________
+
+
+
+        Date:______________
+
+
+4.4  Costing and Preference Points Evaluation (Stage 4)
+
+4.4.1 Costing and Preference Evaluation
+
+(1)    In terms of the SITA Preferential Procurement Policy (PPP), the following preference point system is
+      applicable for this Bid:
+
+              (a)   the 80/20 system (80 Price, 20 Specific Goals) for requirements with a Rand value of up to
+               R50 000 000 (all applicable taxes included); or
+
+              (b)   the 90/10 system (90 Price and 10 Specific Goals) for requirements with a Rand value above
+               R50 000 000 (all applicable taxes included).
+
+       (2)   The Bidder must complete either the 80/20 or 90/10 preference point system based on the offer
+           submitted by the Bidder and submit proof of documentation required in terms of this tender.
+
+       (3)   SITA reserve the right to apply either the 80/20, or 90/10 preference point system based on the
+             following conditions:
+
+              (a)      If the lowest acceptable bid price is up to and including R50 000 000 (all applicable taxes
+                   included) then the 80/20 preferential point system will apply to all acceptable bids; or
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              21 of 56
+
+              (b)     If the lowest acceptable bid price is above R50 000 000 (all applicable taxes included) then
+                 the 90/10 preferential point system will apply to all acceptable bids;
+
+       (4)    Points will be allocated for each of the Preferential Goal Requirements for this tender as indicated
+              in table 3, dependant on paragraphs (2) and (3) above.
+
+       (5)   The maximum points for this tender will be allocated as follows, subject to paragraph 4 above.
+
+       (6)    Points for this tender shall be awarded for:
+
+              (a)    Price; and
+
+              (b)   Preference points for specific goals.
+
+                                          Table 3: Points allocation
+
+              Description                                                                Points         Points
+                                                                                      Table 4A     Table 5A
+              Price                                                     80         90
+             Preference points for specific goals                             20         10
+              Total points for Price and preference points for specific goals         100        100
+
+
+4.4.2 Costing and Pricing Conditions
+
+       (a)   South African Pricing –
+          The total price must be VAT inclusive and be quoted in South African Rand (ZAR).
+       (b)    Total Price
+                   (i)     All quoted prices are the total price for the entire scope of required services and
+                   deliverables to be provided by the bidder.
+                    (ii)     All additional costs as well as cost of delivery, labour, S&T, overtime, etc. must be included
+                     in this bid.
+                    (iii)    All services, accessories, upgrades and options required by the solution or specified by the
+                     client must be included in the quoted price. If not included, bidders will be required to
+                  supply these accessories at no cost to the client.
+                (iv)   SITA reserves the right to negotiate pricing with the successful bidder prior to the award
+                  as well as envisaged quantities.
+               (v)   The Bidder needs to ensure that all items provided are market related and if SITA can obtain
+                  these item(s) at a better price the bidder must accept the price, or SITA reserves the right to
+                 procure this item(s) themselves.
+       (c)   These conditions will form part of the Contract between SITA and the bidder. However, SITA
+            reserves the right to include or waive the condition in the Contract.
+       (d)   The bidder must complete the declaration of acceptance as per par 4.5 below by marking with
+          an “X” either “ACCEPT ALL”, or “DO NOT ACCEPT ALL”, failing which the declaration will be
+           regarded as “DO NOT ACCEPT ALL” and the bid will be disqualified.
+
+4.4.3 Bid Pricing Schedule
+
+       (a)   Bidders must complete the bid pricing schedule in the Excel spreadsheet format provided and
+            include this as part their submission.
+
+
+         NOTE 1:
+
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              22 of 56
+
+          The Bidder needs to ensure that all items provided are market related and if SITA can obtain these
+             item(s) at a better price the bidder must accept the price, or SITA reserves the right to procure this
+             item(s) themselves.
+
+
+         NOTE 2:
+            Bidders must complete and submit bid pricing in the provided Excel spreadsheet format, and any
+             pricing schedule submitted in a different format will not be considered.
+
+4.4.4 Rate of Exchange Pricing information
+
+            Provide the TOTAL BID PRICE for the duration of Contract and clearly indicate the Local Price and
+            Foreign Price, where –
+
+             a)    Local Price means the portion of the TOTAL price that is NOT dependent on the Foreign
+                 Rate of Exchange (ROE) and;
+
+             b)    Foreign Price means the portion of the TOTAL price that is dependent on the Foreign Rate
+                   of Exchange (ROE).
+
+              c)    Exchange Rate means the ROE (ZA Rand vs foreign currency) as determined at time of bid.
+
+4.4.5 Bid Exchange Rate Conditions
+
+          The bidders must use the exchange rate provided below to enable SITA to compare the prices
+           provided by using the same exchange rate:
+
+             Foreign currency                        South African Rand (ZAR) exchange rate
+           1 US Dollar                                                R17,23
+           1 Euro                                                    R19,28
+           1 Pound                                                  R23,05
+
+
+          Note (1):
+
+          The ROE indicated above is to ensure a competitive bidding process.
+
+
+
+          Note (2):
+
+          The ROE stated above will apply for this tender and Bidder need to indicate the foreign content
+          which will be subjected to ROE fluctuation.
+
+
+
+         ROE fluctuation will only be applied to the specific foreign component.
+
+          The details will be negotiated during the contracting phase.
+
+4.5  Declaration of Acceptance
+
+                                                            ACCEPT ALL     DO NOT
+                                                                          ACCEPT ALL
+        1.    The bidder declares to ACCEPT ALL the Costing and Pricing
+             conditions as specified in par 4.4.2 above by indicating with
+           an “X” in the “ACCEPT ALL” column, or
+
+        2.    The bidder declares to NOT ACCEPT ALL the Costing and
+               Pricing Conditions as specified in par 4.4.2 above by -
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              23 of 56
+
+                                                            ACCEPT ALL     DO NOT
+                                                                          ACCEPT ALL
+              (e)    Indicating with an “X” in the “DO NOT ACCEPT ALL”
+                column, and;
+
+                 (f)    Provide reason and proposal for each of the condition
+                 not accepted.
+
+      Comments by bidder:
+       Provide the condition reference, the reasons for not accepting the condition.
+
+
+
+4.6  Preference Requirements
+
+       (a)   The bidder must complete in full all the PREFERENCE requirements.
+       (b)    Allocation of points per requirements: The points allocation of bidders’ responses to the
+           requirements will be determined by the completeness, relevance and accuracy of substantiating
+            evidence.
+
+       (c)    Points will be allocated for each PREFERENCE requirement as per the criteria set in tables 4A, or
+            5A, based on the offer submitted by the Bidder.
+
+       (d)   The bidder must provide a unique reference number (e.g. binder/folio, chapter, section, page) to
+             locate substantiating evidence in the bid response. During evaluation, SITA reserves the right to
+             treat substantiation evidence that cannot be located in the bid response, as “NOT COMPLY”. The
+           evidence needs to be attached to Annex A.
+
+       (e)   Preference Goal Requirements
+
+                   (i)    The Bidder must complete either the 90/10 or 80/20 preference point system based on the
+                    offer submitted by the Bidder and submit proof or documentation required in terms of this
+                  tender.
+
+                    (ii)   The specific Preferential Goal Requirements for this tender is indicated in table 4A and 5A
+                 below.
+
+                    (iii)   The Bidder must indicate their commitment to claim points for each of the preference
+                   points by signing at par 4.5 in the Invitation to Bid document.
+
+                (iv)   Failure on the part of a bidder to submit proof or documentation required or to comply to
+                 paragraph (d) above in terms of this tender to claim preference points for the Preference
+                 Goal Requirements for this tender, will be interpreted to mean that preference points are
+                 not claimed.
+
+               (v)   The Bidder’s commitment for the Preference Goal Requirements in this tender will be legally
+                  binding and the Bidder needs to perform against their commitment for the duration of the
+                  contract which will form part of the Contractual Agreement.
+
+                (vi)   The Bidder must sustain, or improve the company’s BBBEE Level for the duration of the
+                  contact which will form part of the Contractual Agreement.
+
+                 (vii)  Performance of Preference Goal Requirements will be determined annually. Bidders must
+                 submit their Preference status report to SITA indicating progress against the Bidder’s
+                    Preferential commitments within 30 days after each quarter from the commencement date
+                   of the contract.
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              24 of 56
+
+                (viii)  Bidders need to keep auditable substantive records / evidence and upon request by SITA
+              must be made available for audit and, or due diligence purposes.
+
+               (ix)   SITA reserves the right to require from a Bidder, either before a bid is adjudicated or at any
+                time subsequently, to substantiate any claim with regards to preferences, in any manner
+                 required by SITA.
+
+              (x)    SITA reserves the right to verify information / evidence provided by the Bidder.
+
+               (xi)   SITA reserves the right to introduce a penalty of 1% of the overall annual year spent by SITA
+                   for the prior year if the Bidder fails to comply to paragraphs (v), (vi)and (vii) above.
+
+
+
+
+
+eSDCC-03594                                            RESTRICTED                                              25 of 56
+
+                                         Table 4A: Preference Goal Requirements (Specific Goals for (80/20) system)
+
+ Preference Goal                                                              Preferential Goal Requirements
+ Requirement #
+                                                                                              (Specific Goals)
+
+                                                                                  (80/20) system
+
+                         Preferential Goal          Point allocation      Substantiating evidence and evidence reference to be completed by   Evidence reference
+                     Requirements                                  bidder.
+                                                    for 80/20 system
+                        allocated for this                              Evaluation per requirement: Each requirement indicated in the
+                      tender                                         table below must be completed and points will be allocated based
+                                                        on the evidence required below:
+
+
+
+                    B-BBEE
+                     Requirements
+
+ 1)                 B-BBEE                                       Evidence:                                                       <provide unique
+                      Requirements:                           The Bidder must provide a copy of the following relevant evidence  reference to locate
+                                                                          for the Preferential Goal points which the Bidder qualifies for:        substantiating
+                    Promotion of
+                                             10                                                                                                                               evidence in the bid
+                      Transformational                                a)   Columns A, B, C and Din table 4B
+                                                                                                                            response – Annex
+                        Objectives.                                  Copy of relevant proof of the following to confirm the B-BBEE
+                                                                                                                                               A, section 5.6>
+                                                                             status of the contributor as defined in the Broad-Based Black
+                                                               Economic Empowerment Act:
+                                                                                                                  (i) B-BBEE certificate (from a SANAS Accredited
+                                                                              Agency/thedtic);
+                                                                           or
+                                                                  Sworn affidavit in the format provided by CIPC - Applicable
+                                                                             to EMEs and QSEs only;
+                                                                       b)   Column D in table 4B
+                                                             Copy of South African Identification Document (ID); and/ or
+                                                                                c)   Column E in table 4B
+
+
+
+eSDCC-03594                                            RESTRICTED                                              26 of 56
+
+ Preference Goal                                                              Preferential Goal Requirements
+ Requirement #
+                                                                                              (Specific Goals)
+
+                                                                                  (80/20) system
+
+                         Preferential Goal          Point allocation      Substantiating evidence and evidence reference to be completed by   Evidence reference
+                     Requirements                                  bidder.
+                                                    for 80/20 system
+                        allocated for this                              Evaluation per requirement: Each requirement indicated in the
+                      tender                                         table below must be completed and points will be allocated based
+                                                        on the evidence required below:
+
+
+
+                                                             Copy of Medical Certificate clearly indicating the disability in
+                                                                                        line with the B-BBEE status claimed as defined in the Broad-
+                                                                 Based Black Economic Empowerment Act.
+
+
+                                                                 Note:
+
+                                                          The CIPC (Companies and Intellectual Property Commission)
+                                                                           registration documents will also be used as evidence to confirm
+                                                               compliance to the Preferential procurement requirements as part
+                                                                      of the evaluation process.
+
+                                                                       Points allocation:
+                                                                      Points will be allocated for bidders that meets the requirements as
+                                                                      indicated in table 4B in section 4.6.
+
+
+
+
+
+eSDCC-03594                                            RESTRICTED                                              27 of 56
+
+ Preference Goal                                                              Preferential Goal Requirements
+ Requirement #
+                                                                                              (Specific Goals)
+
+                                                                                  (80/20) system
+
+                         Preferential Goal          Point allocation      Substantiating evidence and evidence reference to be completed by   Evidence reference
+                     Requirements                                  bidder.
+                                                    for 80/20 system
+                        allocated for this                              Evaluation per requirement: Each requirement indicated in the
+                      tender                                         table below must be completed and points will be allocated based
+                                                        on the evidence required below:
+
+
+
+ 2)                 The promotion of                            Evidence                                                       <provide unique
+                        enterprises located                                                                                            reference to locate
+                                                                   Attach proof of Operating Business Address within KwaZulu Natal.
+                          in a specific                                                                                                          substantiating
+                                             10         NOTE (1):                      province for the                                                                                           evidence in the bid
+                    work to be done, or                       The proof of Business Address must be in the bidder’s name.        response – Annex
+                         service to be                                                                                                          A, section 5.6>
+                                                    NOTE (2):
+                     rendered at the
+                        province.                                  Only one of the following will be accepted as proof of Business
+                                                                  Address:
+                    The Bidder must
+                    have an Operating                                  (a)  A utility bill reflecting the name and residential address of the
+                       Business within the                            company;
+                    KwaZulu Natal                                                                               (b) A recent signed lease or rental agreement or rental statement
+                        Province.                                                                                  reflecting the name and residential address of the company;
+
+                                                                                     (c)   Utilities account e.g. rates, taxes, water, electricity, issued by
+                                                                  a Body Corporate / Share Block Association;
+
+                                                                               (d)  Municipal rates reflecting the name and residential address of
+                                                                      the company;
+
+
+
+
+
+eSDCC-03594                                            RESTRICTED                                              28 of 56
+
+ Preference Goal                                                              Preferential Goal Requirements
+ Requirement #
+                                                                                              (Specific Goals)
+
+                                                                                  (80/20) system
+
+                         Preferential Goal          Point allocation      Substantiating evidence and evidence reference to be completed by   Evidence reference
+                     Requirements                                  bidder.
+                                                    for 80/20 system
+                        allocated for this                              Evaluation per requirement: Each requirement indicated in the
+                      tender                                         table below must be completed and points will be allocated based
+                                                        on the evidence required below:
+
+
+
+                                                                                (e)  Mortgage statement from a financial institution reflecting the
+                                                       name and residential address of the company;
+
+                                                                                                  (f)  A copy original title deeds issued by the Deeds Registry with
+                                                                      the ERF description is allowed provided the company name,
+                                                                            erf/stand and city/township details are reflected on the
+                                                                document;
+
+                                                                                  (g)  Affidavit by the landlord / property owner / lessee confirming
+                                                                            that the company operates from the property that is owned,
+                                                                          rented. NOTE: This Must accompanied by the document
+                                                                                  reflecting the operating address from landlord/lessee.
+
+                                                    NOTE (3):
+
+                                                                   SITA reserves the right to verify the information provided.
+
+                        Total                      20
+
+
+
+
+
+eSDCC-03594                                            RESTRICTED                                              29 of 56
+
+Table 4B: B-BBEE Points as part of the Preference Goal requirements (Preferential Goal Requirements for (80/20) system)
+
+Note: Bidder to select the section for points they wish to claim (Mark as Y=Yes) in the table below.
+
+                                                                                        Ownership
+
+                                                                                                                                                              Bidder to select
+                        Contributor Level as                                               Black Woman Owned
+                                                                     Black Owned                                        Owned by                   the section for
+                       defined in the Broad-                                          (BWO)
+      Reference #                         EME/QSEs             (BO)                                  Youth Owned     People living      Score      points they wish
+                     Based Black Economic                                        (More than 30%)
+                                                         (51% or more)                                                 with disabilities                    to claim
+                    Empowerment Act
+                                                                                                                                                (Mark as Y= Yes)
+
+                                                         (A)                     (B)                         (C)                   (D)                   (E)               (F)
+
+           1         Level 1                   6                 4                    4                4              2           20
+
+           2         Level 1                   6                 4                    2                2              0           14
+
+           3         Level 1                   6                 4                    2                0              0           12
+
+           4         Level 1                   6                 4                    0                0              0           10
+
+           5         Level 2 and 3              4                 2                    1                1              1            9
+
+           6         Level 2 and 3              4                 2                    1                1              0            8
+
+           7         Level 2 and 3              4                 2                    1                0              0            7
+
+           8         Level 2 and 3              4                 2                    0                0              0            6
+
+           9         Level 4 and 5              2                 1                       0,5                  0,5                0,5             4,5
+
+          10         Level 4 and 5              2                   0,5                       0,5                  0,5              0             3,5
+
+          11         Level 4 and 5              2                   0,5                       0,5                0              0            3
+
+          12         Level 4 and 5              2                   0,5                   0                0              0             2,5
+
+          13         Level 6                   0                                      0                0              0            0
+
+          14         Level 7                   0                                      0                0              0            0
+
+          15         Level 8                  0                                      0                0              0            0
+
+          16        Non-Contributor           0                                      0                0              0            0
+
+       Total Maximum Score Allocation:            20
+
+      F= A+B+C+D+E
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              30 of 56
+
+                                         Table 5A: Preference Goal Requirements (Specific Goals for (90/10) system)
+
+ Preference Goal                                                              Preferential Goal Requirements
+ Requirement #
+                                                                                              (Specific Goals)
+
+                                                                                  (90/10) system
+
+                         Preferential Goal          Point allocation      Substantiating evidence and evidence reference to be completed by   Evidence reference
+                     Requirements                                  bidder.
+                                                    for 90/10 system
+                        allocated for this                              Evaluation per requirement: Each requirement indicated in the
+                      tender                                         table below must be completed and points will be allocated based
+                                                        on the evidence required below:
+
+
+
+                    B-BBEE
+                     Requirements
+
+ 1)                 B-BBEE                                       Evidence:                                                       <provide unique
+                      Requirements:                           The Bidder must provide a copy of the following relevant evidence  reference to locate
+                                                                          for the Preferential Goal points which the Bidder qualifies for:        substantiating
+                    Promotion of
+                                              5                                                                                                                               evidence in the bid
+                      Transformational                                 a)  Columns A, B, C and Din table 5B
+                                                                                                                            response – Annex
+                        Objectives.                                  Copy of relevant proof of the following to confirm the B-BBEE
+                                                                                                                                               A, section 5.6>
+                                                                             status of the contributor as defined in the Broad-Based Black
+                                                               Economic Empowerment Act:
+                                                                                                                        (ii) B-BBEE certificate (from a SANAS Accredited
+                                                                              Agency/thedtic);
+                                                                           or
+                                                                  Sworn affidavit in the format provided by CIPC - Applicable
+                                                                             to EMEs and QSEs only;
+                                                                       b)   Column D in table 5B
+                                                             Copy of South African Identification Document (ID); and/ or
+                                                                                c)   Column E in table 5B
+
+
+eSDCC-03594                                            RESTRICTED                                              31 of 56
+
+ Preference Goal                                                              Preferential Goal Requirements
+ Requirement #
+                                                                                              (Specific Goals)
+
+                                                                                  (90/10) system
+
+                         Preferential Goal          Point allocation      Substantiating evidence and evidence reference to be completed by   Evidence reference
+                     Requirements                                  bidder.
+                                                    for 90/10 system
+                        allocated for this                              Evaluation per requirement: Each requirement indicated in the
+                      tender                                         table below must be completed and points will be allocated based
+                                                        on the evidence required below:
+
+
+
+                                                             Copy of Medical Certificate clearly indicating the disability in
+                                                                                        line with the B-BBEE status claimed as defined in the Broad-
+                                                                 Based Black Economic Empowerment Act.
+
+
+                                                                 Note:
+
+                                                          The CIPC (Companies and Intellectual Property Commission)
+                                                                           registration documents will also be used as evidence to confirm
+                                                               compliance to the Preferential procurement requirements as part
+                                                                      of the evaluation process.
+
+                                                                       Points allocation:
+                                                                      Points will be allocated for bidders that meets the requirements as
+                                                                      indicated in table 5B in section 4.6.
+
+
+
+
+
+eSDCC-03594                                            RESTRICTED                                              32 of 56
+
+ Preference Goal                                                              Preferential Goal Requirements
+ Requirement #
+                                                                                              (Specific Goals)
+
+                                                                                  (90/10) system
+
+                         Preferential Goal          Point allocation      Substantiating evidence and evidence reference to be completed by   Evidence reference
+                     Requirements                                  bidder.
+                                                    for 90/10 system
+                        allocated for this                              Evaluation per requirement: Each requirement indicated in the
+                      tender                                         table below must be completed and points will be allocated based
+                                                        on the evidence required below:
+
+
+
+ 2)                 The promotion of                            Evidence                                                       <provide unique
+                        enterprises located                                                                                            reference to locate
+                                                                   Attach proof of Operating Business Address within KwaZulu Natal.
+                          in a specific                                                                                                          substantiating
+                                              5         NOTE (1):                      province for the                                                                                           evidence in the bid
+                    work to be done, or                       The proof of business address must be in the bidder’s name.         response – Annex
+                        service to be                                                                                                          A, section 5.5>
+                                                    NOTE (2):
+                     rendered at the
+                        province.                                  Only one of the following will be accepted as proof of business
+                                                                    address:
+                    The Bidder must
+                    have an Operating                                 (h) A utility bill reflecting the name and residential address of the
+                       Business within the                            company;
+                    KwaZulu Natal                                                                                                           (i)  A recent signed lease or rental agreement or rental statement
+                        Province.                                                                                  reflecting the name and residential address of the company;
+
+                                                                                                         (j)   Utilities account e.g. rates, taxes, water, electricity, issued by
+                                                                  a Body Corporate / Share Block Association;
+
+                                                                                     (k)  Municipal rates reflecting the name and residential address of
+                                                                      the company;
+
+
+
+eSDCC-03594                                            RESTRICTED                                              33 of 56
+
+ Preference Goal                                                              Preferential Goal Requirements
+ Requirement #
+                                                                                              (Specific Goals)
+
+                                                                                  (90/10) system
+
+                         Preferential Goal          Point allocation      Substantiating evidence and evidence reference to be completed by   Evidence reference
+                     Requirements                                  bidder.
+                                                    for 90/10 system
+                        allocated for this                              Evaluation per requirement: Each requirement indicated in the
+                      tender                                         table below must be completed and points will be allocated based
+                                                        on the evidence required below:
+
+
+
+                                                                                                           (l)  Mortgage statement from a financial institution reflecting the
+                                                       name and residential address of the company;
+
+                                                               (m) A copy original title deeds issued by the Deeds Registry with
+                                                                      the ERF description is allowed provided the company name,
+                                                                            erf/stand and city/township details are reflected on the
+                                                                document;
+
+                                                                               (n)  Affidavit by the landlord / property owner / lessee confirming
+                                                                            that the company operates from the property that is owned,
+                                                                          rented. NOTE: This Must accompanied by the document
+                                                                                  reflecting the operating address from landlord/lessee.
+
+                                                    NOTE (3):
+
+                                                                   SITA reserves the right to verify the information provided.
+
+                        Total                      10
+
+
+
+
+
+eSDCC-03594                                            RESTRICTED                                              34 of 56
+
+Table 5B: B-BBEE Points as part of the Preference Goal requirements (Preferential Goal Requirements for (90/10) system)
+
+Note: Bidder to select the section for points they wish to claim (Mark as Y=Yes) in the table below.
+
+                                                                                         Ownership
+
+                         Contributor Level as                                                 Black Woman Owned                                               Bidder to select the
+                                                                       Black Owned                                       Owned by
+                     defined in the Broad-Based                                         (BWO)                                                          section for points
+      Reference #                           EME/QSEs             (BO)                                  Youth Owned     People living     Score
+                            Black Economic                                             (More than 30%)                                                they wish to claim
+                                                          (51% or more)                                                with disabilities
+                    Empowerment Act                                                                                                         (Mark as Y= Yes)
+
+                                                            (A)                    (B)                          (C)                   (D)                  (E)             (F)
+
+          1        Level 1                      3                2                     2                2              1          10
+
+          2        Level 1                      3                2                     2                2              0          9
+
+          3        Level 1                      3                2                     2                0              0          7
+
+          4        Level 1                      3                2                     0                0              0          5
+
+          5        Level 2 and 3                  2                1                        0,5                  0,5               0,5           4,5
+
+          6        Level 2 and 3                  2                1                        0,5                  0,5             0          4
+
+          7        Level 2 and 3                  2                1                        0,5               0              0            3,5
+
+          8        Level 2 and 3                  2                1                     0                0              0          3
+
+          9        Level 4 and 5                  1                   0,5                      0,25                0,25             0,25         2,25
+
+          10        Level 4 and 5                  1                   0,5                      0,25                 0,5             0           2,25
+
+          11        Level 4 and 5                  1                   0,5                      0,25               0              0           1,75
+
+          12        Level 4 and 5                  1                   0,5                    0                0              0            1,5
+
+          13        Level 6                      0                                      0                0              0          0
+
+          14        Level 7                      0                                      0                0              0          0
+
+          15        Level 8                      0                                      0                0              0          0
+
+          16       Non-Contributor               0                                      0                0              0          0
+
+       Total Maximum Score Allocation:              10
+
+      F= A+B+C+D+E
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              35 of 56
+
+         Bidder substantiating evidence
+
+5.   Technical Mandatory Requirement Evidence
+
+5.1  Bidder Certification / Affiliation Requirements
+
+      Attach a copy of valid documentation (letter/certificate/license) as proof that the Bidder is Certified by
+      the Original Equipment Manufacturer (OEM), or Original Software Manufacturer (OSM) as an Accredited
+      Partner/Reseller on an enterprise level for the supply, installation and maintenance of the LAN and Wi-fi
+        installation Solution here.
+
+     NOTE (1):
+
+      SITA reserves the right to verify information provided.
+
+5.2  Bidder Experience and Capability requirements
+
+     Complete table below, noting that:
+
+     The Bidder must provide all of the following reference details from at least two (2) projects to whom
+     LAN and Wi-fi solutions were supplied, installed and maintained in the last five (5) years from the
+      publication date of this bid.
+
+     NOTE (1)
+
+     The Bidder must provide all of the following information when completing table 6:
+
+       1.  Company name
+             a.  Company name; and
+
+            b.   Reference Person Name, Tel and/or email; and
+
+             c.   Project Scope of Work; and
+
+            d.   Project Start and End-date.
+
+       2.  Project end-date must be current or not older than ten (10) years from the publication date of this
+           bid.
+
+       3.  Scope of work must be related.
+
+
+
+
+
+                                             Table 6: Reference
+
+
+ eSDCC-03594                                            RESTRICTED                                              36 of 56
+
+ No   Company name      Reference Person         Project Scope of work        Project Start and
+                       Name, Tel and/or email                             End-date
+
+ 1    <Company name>    <Person Name>          <Provide scope details of a    Start Date:
+                                                          project from a customer to
+                             <Tel>                                         End Date:
+                                     whom LAN and Wi-fi
+                            <email>                                                            solutions was supplied,
+                                                                installed and maintained in
+                                                     the last five (5) years from
+                                                     the publication date of this
+                                                           bid.>
+
+
+ 2    <Company name>    <Person Name>         <Provide scope details of   Start Date:
+                                             a project from a                             <Tel>                                         End Date:
+                                             customer to whom LAN
+                            <email>
+                                               and Wi-fi solutions was
+                                                   supplied, installed and
+                                              maintained in the last
+                                                          five (5) years from the
+                                                    publication date of this
+                                                     bid.>
+
+
+5.3 Minimum  Detailed  Specifications and  Technical  Product/Service  Functional
+     requirements
+
+     The Bidder must confirm that they comply with the Minimum Detailed Specifications and Technical
+      Product/ Service Functional Requirements for the supply, installation and maintenance of the LAN and
+       Wifi solution.by completing and signing Annex B ADDENDUM1.
+
+     NOTE (1):
+
+      SITA reserve the right to verify the information provided.
+
+     NOTE (2):
+
+       Failure to comply fully to the requirements as indicated above will result in disqualification.
+
+5.4  Special Conditions of Contract Acceptance
+
+     The Bidder must accept ALL the Special Conditions of Contract (SCC) as stated in section 4.3, by signing
+       in the declaration of compliance and acceptance of SCC in section 4.3.23.
+
+     Note (1):
+
+       Failure to accept ALL the Special Conditions of Contract will result in disqualification.
+
+
+
+
+5.5  Third Party Risk Management Assessment
+
+ eSDCC-03594                                            RESTRICTED                                              37 of 56
+
+     The Bidder must comply to the Third-Party Risk Management Assessment requirement by completing
+        All the questions in Annex C.
+
+     NOTE (1):
+
+       Failure to comply fully to the requirements as indicated above will result in disqualification.
+
+5.6  Preference Points Preferential Goals Evidence
+
+     The Bidder must provide the following Preference Goal Requirements evidence and attach it here:
+
+       (1)   B-BBEE Requirements:
+           Promotion of Transformational Objectives
+              (a)   Bidder to select the section for points they wish to claim (Mark as Y=Yes) in either tables
+               4A or 5A in section 4.6, dependant on which preference system the Bidder selects in line
+                 with section 4.6; and
+              (b)   Provide a copy of the following relevant evidence for the Preferential Goal points which
+                 the Bidder qualifies for as set out in tables 4A and 5A in section 4.6 and attach it here:
+                            (i)    Columns A, B and C in tables 4B or 5B:
+                    Copy of relevant proof of the following to confirm the B-BBEE status of the
+                         contributor as defined in the Broad-Based Black Economic Empowerment Act:
+                      B-BBEE certificate (from a SANAS Accredited Agency/thedtic);
+
+                        or
+
+
+                     Sworn affidavit in the format provided by CIPC - Applicable to EMEs and QSEs only;
+                      and/ or
+
+
+                              (ii)   Column D in tables 4B or 5B:
+                    Copy of South African Identification Document (ID);
+                      and/ or
+
+
+                               (iii)   Column E in tables 4B or 5B:
+                    Copy of Medical Certificate clearly indicating the disability in line with the B-BBEE
+                          status claimed as defined in the Broad-Based Black Economic Empowerment Act.
+
+
+                       Note:
+
+                     The CIPC (Companies and Intellectual Property Commission) registration
+                     documents will also be used as evidence to confirm compliance to the Preferential
+                     procurement requirements as part of the evaluation process.
+
+       (2)   The promotion of enterprises located in a specific province for the work to be done, or service to
+          be rendered at the province.
+          The Bidder must have an Operating Business within the KwaZulu Natal Province)
+
+
+              (a)   Bidder to select the section for points they wish to claim (Mark as Y=Yes) in either tables
+               4A or 5A in section 4.6, dependant on which preference system the Bidder selects in line
+                 with section 4.6; and
+              (b)   Provide a copy of the following relevant evidence for the Preferential Goal points which
+                 the Bidder qualifies for as set out in tables 4A and 5A in section 4.6 and attach it here:
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              38 of 56
+
+                Evidence
+
+                 Attach proof of Operating Business Address within KwaZulu Natal.
+
+             NOTE (1):
+
+              The proof of Business Address must be in the bidder’s name.
+
+             NOTE (2):
+
+               Only one of the following will be accepted as proof of Business Address:
+
+                     (a)  A utility bill reflecting the name and residential address of the company;
+
+                    (b) A recent signed lease or rental agreement or rental statement reflecting the name
+                   and residential address of the company;
+
+                      (c)   Utilities account e.g. rates, taxes, water, electricity, issued by a Body Corporate /
+                    Share Block Association;
+
+                    (d)  Municipal rates reflecting the name and residential address of the company;
+
+                    (e)  Mortgage statement from a financial institution reflecting the name and residential
+                     address of the company;
+
+                         (f)  A copy original title deeds issued by the Deeds Registry with the ERF description is
+                     allowed provided the company name, erf/stand and city/township details are
+                       reflected on the document;
+
+                     (g)  Affidavit by the landlord / property owner / lessee confirming that the company
+                     operates from the property that is owned, rented. NOTE: This Must accompanied by
+                     the document reflecting the operating address from landlord/lessee.
+
+             NOTE (3):
+
+                SITA reserves the right to verify the information provided.
+
+
+
+      (3)    Indicate their commitment to claim points for each of the preference points by signing at par 4.5
+             in the Invitation to Bid document.
+
+
+        NOTE (4):
+
+            Failure on the part of a bidder to comply to paragraphs (1), (2) and (3) above, will be interpreted to
+        mean that preference points are not claimed.
+
+
+
+
+
+eSDCC-03594                                            RESTRICTED                                              39 of 56
+
+      ADDENDUM 1
+
+NB: The bidder must confirm that they comply with the following Minimum Detailed Specifications and
+Technical Product/ Service Functional Requirements as indicated below as this will be legal contractual binding:
+
+
+
+  Minimum WDM Devices Specifications
+
+     Number         Requirements (unless explicitly otherwise stated, all requirements, higher and additional
+                                                       specifications are also acceptable)
+
+    1          The bidding equipment should not be higher than 18 U. It can support 19-inch and 21-inch devices
+                   at the same time, and support two subracks in one cabinet to reduce the requirement on the floor
+                 space of the equipment room.
+    2          The bidding equipment should support both AC and DC power supply. The AC power supply can be
+               1+1 63 A or 2+2 63 A to reduce the power supply requirements for the equipment room.
+    3          The electronic subrack of the bidding equipment supports at least 24 service slots.
+    4          The access board supports any service from 100 Mbit/s to 10 Gbit/s, reducing the number of board
+                   types. The number of ports on a 10G board at a core site must be at least 20, and the number of
+                  ports on a 100G/40G board must be at least four.
+    5          The bidding equipment is a 1T OTN platform. A single slot supports 1T service access, 1T backplane
+                bus bandwidth, and 1T electrical cross-connection capability.
+    6          The cross-connect capability of the bidding equipment is greater than or equal to 4.8 Tbit/s ODUk.
+                   (k=0, 1, 2, 2e, 3, 4, flex). Not less than 520 Gbit/s VC4, not less than 40 Gbit/s VC3/VC12, and not less
+                 than 4 Tbit/s Packet.
+    7          10G/100G/200G line boards must support OTN+SDH+Packet hybrid transmission. Services must be
+                  transmitted on the same wavelength to reduce wavelength waste and improve bandwidth utilization.
+    8          The bidding equipment must support 400G backbone transmission and 400G QPSK@150 GHz.
+    9          The bidding equipment must have the single-wavelength 400G/600G/800G transmission capability
+               and a single-fiber transmission capability of 48T. (600G x 80 wavelengths or 800G x 60 wavelengths)
+                  Transmission bandwidth: hybrid transmission with 100G/200G wavelengths on the live network and
+               smooth upgrade.
+    10         The  bidding equipment must  support C-band 96 wavelengths@50 GHz and C-band 120
+               wavelengths@50 GHz end-to-end transmission capabilities, including service boards, optical and
+                  demultiplexer boards, OA boards, and optical monitoring boards.
+    11         The bidding optical-layer system supports the C-band 6 THz spectrum and supports smooth evolution
+                  to the C+L-band 12 THz spectrum.
+    12         The bidding equipment must support CDCG ROADM networking. The WSS has at least 20 dimensions.
+    13         The  bidding equipment must support  optical-layer/electrical-layer ASON, and Huawei OTN
+                equipment must provide application cases.
+    14         The optical power, OSNR, and wavelength values of all wavelengths must be monitored. Performance
+                 parameters  such  as  10G/100G/200G  OSNR  can  be  reported  to  the NMS  and  E2E
+               10G/100G/200G/400G OSNR can be managed online. The detection precision must reach +/-1.5 dB.
+    15         The device provides the online fiber monitoring function to locate fiber faults and provide
+                  screenshots for monitoring fiber performance on the NMS. The OTDR function must be integrated
+                 with other functional boards.
+
+
+
+
+
+  Minimum WDM Network Management System Specifications
+
+       No.         Requirements (unless explicitly otherwise stated, all requirements, higher and additional
+                                                   specifications are also acceptable)
+
+
+ eSDCC-03594                                            RESTRICTED                                              40 of 56
+
+    1        The NMS shall comply with ITU-T G.784.
+
+    2       NEs and connections shall be displayed on the topology in the NMS system.
+
+    3       To display different states of NEs and subnets, alarms in the topology view shall be displayed as
+               different colour or symbol.
+    4        The NMS shall generate appropriate alarms by monitoring the performance of the circuits.
+
+    5        Alarms shall be listed in the NMS. Each alarm shall have a defined alarm type category.
+
+    6        The NMS shall support latency detection and latency map function
+
+    7        Graphic display shall be available and the alarm status shall be monitored via graphic display.
+
+    8           All alarms shall be recalled from memory when it is necessary to keep them on the platform for at
+                least 6 months. When requested, date and time records shall be exported.
+    9        The NMS shall manage both WDM and microwave equipment.
+
+
+ Minimum Microwave Equipment Specifications
+
+     Number         Requirements (unless explicitly otherwise stated, all requirements, higher and additional
+                                                     specifications are also acceptable)
+
+    1         The equipment for bidding should support the Maximum ETH throughput of up to 1Gbps with single
+                channel without XPIC, 2Gbps with XPIC.
+    2         The equipment for bidding should support all of modulation scheme like
+             QPSK/16QAM/32QAM/64QAM/128QAM/256 QAM/512QAM/1024QAM/2048QAM/4096QAM
+    3         The equipment should support the physical link aggregation (PLA) function, that aggregates all
+                Ethernet transmission paths in several Integrated IP radio links into a logical Ethernet link for higher
+                Ethernet bandwidth and Ethernet transmission reliability.
+    4         The equipment for bidding should support open and standard interfaces like SNMP for easy
+                  integration, and must support SNMP GET and SET function
+    5         The equipment for bidding must support TDM/Hybrid (Ethernet and E1/STM-1 service exists in the
+                  airport at the same time)/packet (support PWE3 and MPLS/MPLS-TP) unified platform, and smoothly
+               update to the L3 network.
+    6         The equipment for bidding should support operate in the following frequency bands:
+              7G/8G/10G/10.5G/11G/13G/15G/18G/23G/26G/28G/32G/38G
+    7         The equipment for bidding should support native Ethernet, MPLS service, IPV4 and IPV6 frame
+               header compression functions.
+    8         The equipment for bidding should support IEEE 1588V2 Synchronization, in traditional MW, E-band
+        MW and SDB link, and must support one or all of the following mode:
+                   •   OC (Ordinary clock)
+                   •   BC (Boundary clock)
+                   •   TC (Transparent clock)
+    9          Environmental requirements of indoor unit:
+               Environment for normal operation:
+                    a)       Ambient temperature range:
+                          Long-term: -5°C to +60°C
+                           Short-term: -20°C to +65°C
+                   b)        Relative humidity:
+                   5% - 95%
+    10        The outdoor unit should comply with IP 65.
+    11          Carrier Aggregation (CA) must be supported, it can aggregate multiple dispersed channels in one RF
+                 port to provide two carrier(2+0) for large capacity .
+                   In this way, bidder must present a solution with smooth upgrade from 1+0 XPIC to 2+0 XPIC with
+             minimum deployment and upgrade cost, it is also need to be clarified that if software upgrade only
+                        is possible.
+    12     MW equipment shall support (at least) four FE/GE electrical and two GE optical interfaces for all
+                standard configurations.
+    13        The equipment for bidding must support ERPS (comply with G.8032) function for Ethernet ring
+                  protection.
+
+eSDCC-03594                                            RESTRICTED                                              41 of 56
+
+     Number         Requirements (unless explicitly otherwise stated, all requirements, higher and additional
+                                                     specifications are also acceptable)
+
+    14        The equipment should support N+1 protection, with the maximum N=7.
+
+
+ Minimum 24-Port Access Switch Specifications
+
+     Number         Requirements (unless explicitly otherwise stated, all requirements, higher and additional
+                                                     specifications are also acceptable)
+
+     1.0         Entry Level
+
+    1         24*10/100/1000BASE-T ports, 4*10GE SFP+ ports
+
+    2          Supports 4K VLANs, voice VLANs, port VLANs, protocol VLANs, and IP subnet VLANs.
+
+    3          Supports IEEE 802.1d(STP), 802.w(RSTP), 802.1s(MSTP)
+
+    4          Supports at least 32K MAC address entries and provides authoritative third-party test reports
+
+    5          Supports the DRR, SP, and DRR+SP queue scheduling algorithms.
+                Supports bidirectional port rate limiting and broadcast storm suppression
+    6          Switching capacity ≥ 176 Gbit/s
+
+    7         The chip supports a buffer of 2 MB, and the port supports a buffer of 0.075 MB, ensuring packet loss
+                during traffic bursts. Authoritative third-party reports are provided
+    8          Supports VRRP and BFD.
+                Supports IPv6 and IPv4/IPv6 dual stack
+     2.0         Mid-Level
+
+    1         24*10/100/1000/2.5GBASE-T ports(PoE+), 4*10GE SFP+ ports, 2*12GE stack ports, without power
+              module
+    2         The device supports the reset button and PNP button.
+                        1.  The power supply needs to be removed and then inserted for device commissioning reset.
+                     You can press the button to reset the device.
+                        2.    If you forget the password, you can restore the factory settings by pressing the button.
+    3       When the 220 V AC power supply is disconnected, an alarm is automatically sent to quickly locate
+                the fault.
+    4          Support 90W PoE++
+
+    5       MAC table: 32K
+
+    6        Maximum PoE power: 2880 W
+
+    7          Support 2 x 12GE stack ports
+
+     3.0        High Level
+
+    1         24 x 100M/1/2.5GE Base-T Ethernet ports, 4 x 1/10/25G SFP28 ports
+
+    2         ≥ 256K MAC address entries and authoritative third-party test reports
+
+    3          Switching capacity ≥ 320 Gbit/s
+
+    4          Supports access control list (ACL). IPv4 ≥ 42K and IPv6 ≥ 21K. Authoritative third-party test reports
+                are provided.
+    5          Supports the limit on the rate at which the port receives and transmits packets, and supports the
+              queue scheduling algorithms such as SP, WRR, DRR, SP+WRR, and SP+DRR
+    6          Supports MPLS-LDP, MPLS-L3VPN, and MPLS-QoS
+
+    7          Support IPv4 FIB table ≥ 256K and IPv6 FIB table ≥ 128K, and provide authoritative third-party test
+                  reports.
+    8          Supports unified user management, 802.1X and MAC authentication, 10000 authentication, and
+                  third-party test reports.
+
+
+
+
+eSDCC-03594                                            RESTRICTED                                              42 of 56
+
+ Minimum 48-Port Access Switch Specifications
+
+     Number   Requirements (unless explicitly otherwise stated, all requirements, higher and additional specifications
+                                                      are also acceptable)
+
+     1.0         Entry Level
+
+    1         48 x 10/100/1000Base-T Ethernet ports and 4 x 10GE SFP+ ports
+
+    2          Switching capacity ≥ 224 Gbit/s
+
+    3          Supports AC input, voltage range: 90–264 V, PoE output power ≥ 380 W
+
+    4          Supports 4K VLANs, voice VLANs, port VLANs, protocol VLANs, and IP subnet VLANs
+
+    5          Supports IEEE 802.1d(STP), 802.w(RSTP), 802.1s(MSTP)
+
+    6          Supports VRRP and BFD
+
+                Supports IPv6 and IPv4/IPv6 dual stack
+
+    7          Supports 1 GB, which can store more logs and facilitate device maintenance
+
+    8          Supports two cores and the dominant frequency is greater than or equal to 1.1 GHz. This ensures that
+                the CPU usage is low for a long time and that the system will not be abnormal due to CPU overload in
+                case of emergencies
+
+     2.0         Mid-Level
+
+    1         48*10/100/1000/2.5GBASE-T ports(PoE+), 4*10GE SFP+ ports, 2*12GE stack ports, without power
+              module
+    2         The device supports the reset button and PNP button.
+                   1. The power supply needs to be removed and then inserted for device commissioning reset. You can
+                 press the button to reset the device.
+                   2.  If you forget the password, you can restore the factory settings by pressing the button.
+    3       When the 220 V AC power supply is disconnected, an alarm is automatically sent to quickly locate the
+                    fault.
+    4          Support 90W PoE++
+
+    5       MAC table: 32K
+
+    6        Maximum PoE power: 2880 W
+
+    7          Support 2 x 12GE stack ports
+
+     3.0        High Level
+
+    1         48 x 100M/1/2.5GE Base-T Ethernet ports, 4 x 1/10/25G SFP28 ports
+    2         ≥ 256K MAC address entries and authoritative third-party test reports
+    3          Switching capacity ≥ 440 Gbit/s
+    4          Supports 4K VLANs, QinQ, selective QinQ, port VLAN, protocol VLAN, and IP subnet VLAN
+
+    5          Supports super VLAN, voice VLAN, and multicast VLAN
+    6          Support IPv4 FIB table ≥ 256K and IPv6 FIB table ≥ 128K, and provide authoritative third-party test
+                  reports.
+    7          Supports network-level E2E flow-based fault locating and network-level E2E packet loss demarcation.
+    8          Supports ARP entry specification ≥ 128K and provides authoritative third-party test reports.
+
+
+
+
+
+eSDCC-03594                                            RESTRICTED                                              43 of 56
+
+ Minimum 48-Port Aggregation Switch Specifications
+
+     Number   Requirements (unless explicitly otherwise stated, all requirements, higher and additional specifications
+                                                      are also acceptable)
+
+     1.0         Entry Level
+
+    1         48 x 10 Gig SFP+, 6 x 40/100 Gig QSFP28
+
+    2          Dual pluggable power modules, 1+1 power backup
+
+    3          Switching capacity: 2.16Tbps/2.4Tbps
+
+    4          At least 384K Mac address
+
+    5          Support IPv4 dynamic routing protocols such as RIP, OSPF, IS-IS, and BGP
+
+    6          Support iPCA, SVF, VXLAN
+
+    7          Support standalone and cloud mode
+
+    8      ±6 kv Surge protection
+
+    9          Support Telemetry
+
+     2.0        High Level
+
+    1         48 x 1/10/25 Gig SFP28, 8 x 40/100 Gig QSFP28 ports
+
+    2          Forwarding Performance 1200 Mpps
+
+    3         Power Supply 1+1 power backup
+
+    4          Support MAC address auto-learning and aging; Static, dynamic, and blackhole MAC address entries;
+                Packet filtering based on source MAC addresses; MAC address learning limiting based on ports and
+             VLAN
+    5           Direct marking of service packets to obtain real-time statistics about dropped packets and packet loss
+                 rate
+    6             Statistics about dropped packets and packet loss rate on Layer 2/Layer 3 networks and devices
+
+    7          Support distributed and centralized VXLAN gateways, BGP EVPN, VXLAN configuration through
+              NETCONF, VXLAN to the access and aggregation layers
+    8          Support VBST, LNP, VCMP
+
+
+ Minimum Core Switch Specifications
+
+     Number    Requirements (unless explicitly otherwise stated, all requirements, higher and additional specifications
+                                                       are also acceptable)
+
+    1          Switching capacity ≥ 352 Gbit/s
+
+    2         The MPU slot has the same width as the slot for a service line card.
+
+    3           Applicable to 600 mm deep cabinets
+
+    4         To improve the slot usage, the control engine must support service ports.
+
+    5          Supports a maximum of 90 W PoE++ power supply on a single port
+
+    6          Supports ≥ 384K MAC addresses on the entire system. MAC address learning rate > 16000/s.
+                 Authoritative third-party test reports are provided
+    7        ARP entries ≥ 140,000 and ND entries ≥ 80,000 on the entire system, and authoritative third-party test
+                 reports are provided
+    8           IPv4 route forwarding FIB entries ≥ 256,000; authoritative third-party test reports are provided.
+
+    9          Supports hardware-based BFD/OAM, stable and even packet sending detection within 3.3 ms, improving
+                device reliability and providing authoritative third-party test reports.
+    10         Supports the Telemetry technology to collect device data in real time and send the data to the network
+                  analysis component platform. The intelligent fault identification algorithm is used to analyze network
+
+
+
+eSDCC-03594                                            RESTRICTED                                              44 of 56
+
+     Number    Requirements (unless explicitly otherwise stated, all requirements, higher and additional specifications
+                                                       are also acceptable)
+
+                 data, accurately display the real-time network status, and demarcate faults and fault causes in a timely
+               manner, ensuring accurate user experience.
+
+
+ Minimum Indoor Access Points Specifications
+
+     Number    Requirements (unless explicitly otherwise stated, all requirements, higher and additional specifications
+                                                       are also acceptable)
+
+     1.0         Entry Level
+
+    1         The AP should support system maximum rate up to 1.775 Gbit/s(0.575 Gbit/s at 2.4 GHz, 1.2 Gbit/s at 5
+                GHz).
+    2          Operating temperature: -10°C ~ +50°C.
+
+    3         The AP should have at least two 1GE Ethernet interface.
+
+    4         The AP should support USB port, the port can be used for external IoT expansion.
+
+    5         The AP should support dual-link backup.
+
+    6         The AP should support Bluetooth low energy 5.0 and Bluetooth positioning.
+
+     2.0         Mid-Level
+
+    1          Support Wi-Fi 7 protocol
+
+    2         Can achieve a device rate of up to 6.45Gbps
+
+    3          Operating temperature: -10℃ to +50℃
+
+    4          Support built-in BLE 5.4, External USB, NearLink SLE1.0
+
+    5         4KV ethernet Surge protection
+
+     2.0        High Level
+
+    1          Support Wi-Fi 7 protocol
+
+    2         Can achieve a device rate of up to 13.66 Gbps
+
+    3          Operating temperature: -10℃ to +50℃
+
+    4         can simultaneously provide services on 2.4 GHz (2x2 MIMO), 5 GHz (2x2 MIMO), and 6
+             GHz (4x4 MIMO) frequency bands
+    5         4KV ethernet Surge protection
+
+
+
+ Minimum Outdoor Access Points Specifications
+
+     Number    Requirements (unless explicitly otherwise stated, all requirements, higher and additional specifications
+                                                       are also acceptable)
+
+     1.0       Low Level
+
+    1         The AP should support system maximum rate up to 1.77 Gbit/s(0.57 Gbit/s at 1.2 GHz, 4.8 Gbit/s at 5
+                GHz).
+    2         The AP should support Bluetooth serial remote wireless operation and maintenance
+
+    3         The AP should support 802.11ax 2*2 MIMO on 2.4 GHz band and 802.11ax 2*2 MIMO on 5 GHz band.
+
+    4         The AP should have at least one 1GE SFP interface.
+
+    5         The AP should support application Trafﬁc statistics: globally, by SSID, or by user.
+
+    6         The AP should support dual-link backup.
+
+    7         The AP should support Operating temperature: -40°C ~ +65°C.
+
+
+
+eSDCC-03594                                            RESTRICTED                                              45 of 56
+
+     Number    Requirements (unless explicitly otherwise stated, all requirements, higher and additional specifications
+                                                       are also acceptable)
+
+     2.0        High Level
+
+    1          Support 1x5GE port +1xGE port +1x10GE SFP+ port
+
+    2         The AP should have at least one 5GE Ethernet interface and one 1GE Ethernet interface.
+
+    3          Support IP68
+
+    4           External antenna port: 2.4 GHz&5 GHz: 4
+
+    5         The AP should support system maximum rate up to 5.95 Gbit/s(1.15 Gbit/s at 2.4 GHz, 4.8 Gbit/s at 5
+                GHz).
+    6         The AP should support smart application control technology and can implement visualized control on
+                Layer 4 to Layer 7 applications.
+    7         The AP should support dual-link backup.
+
+
+ Minimum Wireless Controllers Specifications
+
+     Number    Requirements (unless explicitly otherwise stated, all requirements, higher and additional specifications
+                                                       are also acceptable)
+
+     1.0         Small Campus
+
+    1          Provides 2 x 10GE optical interfaces and 10 x GE electrical interfaces
+
+    2        Management of up to 512 Access Point
+
+    3          Forwarding Capability 10 Gbit/s
+
+    4        Maximum Number of Access Users: 4K
+
+    5          Support IPv6 dynamic routing protocols, including OSPFv3 and BGP4
+
+    6        AC Active/Standby Mode: 1 + 1 HSB or N + 1 backup
+
+     2.0         Large size Campus
+
+    1         2 x 100GE/(2 x 40GE + 4 x 25GE)/(2 x 40GE + 8 x 10GE)/8 x 25GE optical ports + 4 x 25GE optical ports +
+              4 x 10GE optical ports + 8 x GE combo ports
+    2        AP management capability: 4K.
+
+    3          Should provide 120Gbps forwarding performance.
+
+    4            Client capacity: 50,000.
+
+    5          Support Power redundancy.
+
+
+
+ Minimum Branch Routers Specifications
+
+     Number    Requirements (unless explicitly otherwise stated, all requirements, higher and additional specifications are
+                                                               also acceptable)
+
+     1.0         Small size Branch
+
+    1         2*10GE SFP+/2.5GE Copper Combo WAN,4*GE Copper(POE++) LAN,4*GE Combo LAN
+
+    2          Operating temperature 0°C to 45°C
+
+    3         CPU: Quad-core 1.6 GHz
+
+    4           Service forwarding performance: 1.5Gbps
+
+    5          Operating humidity: 5% to 95%
+
+     2.0         Mid-size Branch
+
+
+
+
+eSDCC-03594                                            RESTRICTED                                              46 of 56
+
+     Number    Requirements (unless explicitly otherwise stated, all requirements, higher and additional specifications are
+                                                               also acceptable)
+
+    1        WAN: 1 x 10GE optical, 2 x GE Combo (All WAN ports can be configured as LAN); LAN: 1 x GE Combo，8 x
+             GE electrical (All LAN ports can be configured as WAN)
+    2           IPsec performance (IMIX): 1.6Gbps
+
+    3          Forwarding Performance: 2Gbps
+
+    4        Memory: 4GB
+
+    5            Flash: 2GB
+
+     3.0         Large size Branch
+
+    1         Memory/Flash: 8GB/8GB
+    2          Expansion card slot: 6*SIC+1*WSIC
+
+    3         2 x 25GE optical ports + 4 x 10GE optical ports + 4 x GE electrical ports
+
+    4           IPSec forwarding performance (IMIX): 8Gbps
+
+    5          Operating Temperature: 0-45 °C
+
+
+ Minimum Backbone Routers Specifications
+
+     Number   Requirements (unless explicitly otherwise stated, all requirements, higher and additional specifications are
+                                                               also acceptable)
+
+     1.0         Entry Level
+
+    1         The proposed router should support switching capacity ≥ 300Gbps.
+
+    2         The proposed equipment must support height(U) no more than 1U
+
+    3         The proposed equipment must support MAC address at least 256K
+
+    4         The proposed equipment must support ACLv4 at least 2k
+    5         The proposed equipment must support long term Operating temperature -40°C～65°C
+
+    6         The proposed equipment should support NP chipset instead of the ASIC architecture to support new
+                 features in future by software upgrade only
+    7         The proposed equipment must support BFD for
+               VRRP, OSPF, ISIS, BGP, LDP, TE, SR, VRRPv6, OSPFv3, ISISv6, BGP4+, SRv6, PW
+     2.0         Mid-Level
+
+    1         The proposed router should support switching capacity ≥ 1.76 Tbps.
+
+    2         The proposed equipment must support height(U) no more than 1U
+
+    3         The proposed router must support at least 4(eight) 100GE, besides this, the router must also support 24
+                   (forty-eight) 10GE ports
+    4         The proposed router should support 100GE/50GE/40GE/25GE/ 10GE/GE interface.
+
+    5         The 100G interfaces should support QSFP28 optical module and should support adjustable to 40G and
+             50G
+    6         The proposed equipment must support FIBv4/v6 at least 1M/128K
+
+    7         The proposed router should support IPSec
+
+    8         The proposed equipment must support BFD for
+               VRRP, OSPF, ISIS, BGP, LDP, TE, SR, VRRPv6, OSPFv3, ISISv6, BGP4+, SRv6, PW
+     3.0         High Level
+
+    1         The proposed router should have at least ≥ 12 services slots for expansion in the future.
+
+    2         The proposed router should support 400GE/100GE/50GE/40GE/25GE/ 10GE/GE interface
+
+    3         The proposed equipment must support height(U) no more than 3U
+               The proposed equipment must support long term Operating temperature -20℃~55℃
+
+
+eSDCC-03594                                            RESTRICTED                                              47 of 56
+
+     Number   Requirements (unless explicitly otherwise stated, all requirements, higher and additional specifications are
+                                                               also acceptable)
+
+    4         The proposed equipment must support RIB v4/v6 at least 10M/5M
+
+    5         The proposed equipment must support FIBv4/v6 at least 4M/2M
+
+    6         The proposed router should support SRv6 Policy, support EVPN over SRv6 policy; should provide the
+                  configuration examples in the official product document to prove it.
+    7         100G interface should support QSFP28 optical module and should support adjustable to 40G and 50G;
+
+
+ Minimum Firewall Specifications
+
+     Number   Requirements (unless explicitly otherwise stated, all requirements, higher and additional specifications are
+                                                               also acceptable)
+
+     1.0         Entry Level
+
+    1           Firewall throughput ≥ 2.5 Gbit/s; maximum number of concurrent connections ≥ 300,000; number of new
+                connections per second ≥ 20,000
+    2        Number of GE electrical ports ≥ 8, number of GE optical ports ≥ 4, number of LTE antenna ports ≥ 2
+
+    3          Supports URL identification and URL address library. The number of URLs in the cloud-based URL library is
+                 greater than or equal to 500 million
+    4           Antivirus for HTTP, FTP, SMTP, POP3, IMAP, and NFS
+
+    5           IPSec VPN throughput ≥ 2 Gbit/s
+
+    6           Local log storage space ≥ 64 GB
+
+     2.0         Mid-Level
+
+    1           IPSec VPN tunnels ≥ 4000, SSL VPN concurrent online users ≥ 1000
+
+    2        Number of virtual firewalls ≥ 100
+
+    3           Gigabit Combo interface ≥ 8, Gigabit electrical interface ≥ 2, 10G optical interface ≥ 2
+
+    4          Supports the configuration of both IPv4 and IPv6 addresses in a security policy
+
+    5           Firewall throughput ≥ 2.5 Gbit/s, maximum number of concurrent connections ≥ 3 million, and number of
+            new connections per second ≥ 80,000
+    6          Supports IPv6 over IPv4 tunnels and 6RD tunnels.
+
+     3.0        High Level
+
+    1           Firewall throughput ≥ 50 Gbit/s; maximum number of concurrent connections ≥ 20 million; number of
+            new connections per second ≥ 500,000
+    2           IPS throughput ≥ 18 Gbit/s
+
+    3        Number of IPSec VPN tunnels ≥ 20,000
+
+    4        Number of concurrent SSL VPN users ≥ 10,000
+
+    5          Supports two 10-Gigabit optical bypass links
+
+    6        Number of expansion slots ≥ 2
+
+    7           IPv4 multicast protocols, including IGMP, MSDP, PIM-DM, and PIM-SM
+
+ Minimum Network Management System Specifications
+
+     Number   Requirements (unless explicitly otherwise stated, all requirements, higher and additional specifications are
+                                                               also acceptable)
+
+    1          Support basic services, management, control, and analysis
+
+    2          Support Multi-tenant Management
+
+    3          Support User Access Authentication, such as 802.1X, portal, SMS and social media
+
+    4           Capability  Openness,  provide 170+  northbound  RESTful  APIs  for  user management,  topology
+              management, access authentication, service configuration, and performance monitoring
+eSDCC-03594                                            RESTRICTED                                              48 of 56
+
+      Number   Requirements (unless explicitly otherwise stated, all requirements, higher and additional specifications are
+                                                                also acceptable)
+
+     5          Support manage multi-vendor equipment, include WDM devices, switches and routers
+
+
+  Minimum Specifications of Smart Board Specifications
+
+      Number   Requirements (unless explicitly otherwise stated, all requirements, higher and additional specifications are
+                                                                also acceptable)
+
+     1         LED Interactive Whiteboard should include:
+                   1)   65/86-inch 4K touch screen
+                   2)   Supports 20 touch points.
+                   3)   Optical anti-blue light, zero-gap bonding, anti-glare (AG)
+                   4)   2 built-in speakers, frequency response range: 100Hz-20KHz, total power 30W
+                   5)   Video Out: 1 x HDMI 2.0 (4K30), Clone screen content to another screen via HDMI cable
+                   6)   Wi-Fi 2.4 GHz and 5 GHz dual-band access.
+                   7)   1 x USB Type-B, support projection and reserve control
+                   8)  Embedded Android9.0 operating system. 4 core CPU, 4 GB RAM, 32GB Flash
+                   9)   Support OPS Model: I5-10500, 8G DDR4, and 128G SSD. OS Windows 10
+                  10)  Writing latency, no more than 25ms
+                  11)  Full-screen annotation
+                  12)  The contents of the whiteboard can be saved locally, to an external USB flash memory, sent to an
+                        email, or scanned with the QR code
+                  13)  Support wireless dongle for one-click projection. Projection resolution: up to 1080p60fps or
+                     4K15fps
+                  14)  Information window and welcome page
+     2         Smart Black Board should support:
+                   1)   Writing with chalks
+                   2)   The written content can be synchronized to the LED Interactive whiteboard in real time.
+                   3)   Erasing on the blackboard is also synchronized to the LED Interactive whiteboard
+                   4)   Exporting blackboard content as images and PDF file
+     3        VHD Camera should support:
+                   1)   Tracking teacher and student
+                   2)   Position setting on the camera
+     4        LMS & LVC should support:
+                   1)   Release announcements for student
+                   2)   Creates and publish courseware
+                   3)   Upload teaching resource, and student can view
+                   4)   Create topic for student discussion
+                   5)   Create and record virtual classroom
+                   6)   Create online exam
+                   7)   Teacher view course data analysis
+
+
+
+
+
+I,      the      bidder       (Full    names)………………………………………………….representing     (company
+
+name)…………………………………………………………….. Hereby confirm that  I comply with the above Minimum
+
+Detailed Specifications and Technical Product/ Service Functional Requirements and understand that it will form
+
+part of the contract and is legally binding.
+
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              49 of 56
+
+Thus done and signed at ……………………………………. On this………day of……………….20….
+
+
+
+……………………………….
+
+Signature
+
+Designation
+
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              50 of 56
+
+        THIRD-PARTY RISK MANAGEMENT (TPRM) ASSESSMENT
+
+6.   Instructions
+
+       (a)    In terms of the approved SITA Third-Party Risk Management Framework, all Bidders responding
+            to this bid must complete the following section by answering ALL the questions.
+       (b)   By completing the Third-Party Risk Management Assessment, the Bidder agrees to provide all
+            reasonable supporting documentation when requested to do so, as well as during contract
+              finalisation as this is a pre-award condition of this bid.
+       (c)   Any risk identified during the assessment process will have to be mitigated and/or remediated
+            before or during the contract finalisation phase. A detailed mitigation plan, that is acceptable to
+             SITA, may also be required.
+       (d)    Supplier due diligence, as contained in the Special Conditions of Contract, is also applicable to this
+             Third-Party Risk Management process.
+       (e)   The following 6 (six) risk elements will be assessed:
+                   (i)   Company risk: 10 questions;
+                    (ii)    Financial risk: 6 questions;
+                    (iii)   Operational risk: 8 questions;
+                (iv)   Governance and compliance risk: 6 questions;
+               (v)    Information security and privacy risk: 7 questions;
+                (vi)   Reputational risk: 6 questions.
+
+6.1  Evaluation Criteria
+
+   6.1.1 Company risk
+
+       (a)   Questions 2, 3, 6, 8, 9, 10:
+
+       Evaluation criteria                                                          Score
+
+       Yes                                                                      0
+
+         Partially meet requirements                                                            0.5
+
+     No                                                                      1
+
+
+
+       (b)   Questions 1, 4, 5:
+
+       Evaluation criteria                                                          Score
+
+       Yes                                                                      1
+
+         Partially meet requirements                                                            0.5
+
+     No                                                                      0
+
+
+
+       (c)   Question 7:
+
+       Evaluation criteria                                                          Score
+
+        Yes, actively operating for more than 5 years                                     1
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              51 of 56
+
+       Evaluation criteria                                                          Score
+
+       2-5 Years actively operating                                                            0.5
+
+       No, actively operating for less than 2 years                                       0
+
+
+
+   6.1.2 All questions for all other risk elements:
+
+       Evaluation criteria                                                          Score
+
+       Yes                                                                      1
+
+         Partially meet requirements                                                            0.5
+
+     No                                                                      0
+
+6.2   Third Party Risk Assessment
+
+       (a)   The assessment of bidders’ responses to the questions will be determined by the completeness
+                 (i.e. all questions answered), undertaking signed (where required) and accuracy of substantiating
+            evidence, when requested. Please note that SITA reserves the right to verify the information
+            provided.
+
+
+
+  Question to assess each risk element                        Bidders response:
+
+                                                 Mark relevant box with an “X”
+
+ Company Risk
+
+  (1)   Have you  listed  all  related  party  transactions to be
+                                                                Yes       Partially      No
+        declared between you and SITA or its department in SBD9?
+
+  (2)   Are you currently involved in litigation against SITA – or do
+       you foresee litigation being instituted within the next 6     Yes       Partially      No
+       months?
+
+  (3)   Are there any lawsuits or ongoing litigation that could
+         affect this transaction in any way or the bidder as an     Yes       Partially      No
+       ongoing concern?
+
+  (4)     Is customer service delivery or contract performance
+                                                                Yes       Partially      No
+         actively monitored by you?
+
+  (5)   Do you have formal strategic planning processes in place?     Yes       Partially      No
+
+  (6)   Are any of your directors or shareholders Prominent
+         Influential People  (PIP) or  Politically Exposed Persons     Yes       Partially      No
+        (PEP)?
+
+  (7)   Has your company been actively operating as a going                           Less than 2
+                                                                Yes      2-5 Years
+       concern for more than 5 years?                                                      years
+
+  (8)     Is the company busy with a re-
+        organisational/restructuring process that may impact this     Yes       Partially      No
+        transaction?
+
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              52 of 56
+
+ Question to assess each risk element                        Bidders response:
+
+                                                Mark relevant box with an “X”
+
+ (9)   Are any of your suppliers located  in a region where
+                                                               Yes       Partially      No
+        geopolitical risk exposure is high?
+
+ (10)  Has any current director of the bidder ever served as a
+       director  of  a  company  during  a  period  where  a     Yes       Partially      No
+      Government contract was cancelled?
+
+ Financial Risk
+
+ (1)   Did you have positive revenue growth in the past three
+                                                               Yes       Partially      No
+       years?
+
+ (2)     Is the proposed bid price going to be less than 40% of your
+                                                               Yes       Partially      No
+        total annual revenue for the previous financial year?
+
+ (3)     Is the financial health of your company in good standing?      Yes       Partially      No
+
+ (4)   Were your Annual Financial Statement (AFS) unqualified in
+                                                               Yes       Partially      No
+      the last financial year?
+
+ (5)   Do you have sufficient cash in the bank (2 or more months’
+      worth of operating cost) to operate under restricted     Yes       Partially      No
+       conditions for at least 2 months?
+
+ (6)   Do you have a clean credit record: No current or pending
+      judgement, adverse listing, business rescue or principal     Yes       Partially      No
+       sequestration listing?
+
+ Operational Risk
+
+ (1)   Do you have operational redundancy (resilience) in terms
+       of technology and energy  resources  to ensure  high     Yes       Partially      No
+        availability of services?
+
+ (2)   Are your dependencies for logistics either fully under your
+     own control or managed through supplier performance
+                                                               Yes       Partially      No
+     management contracts? (Choose “Yes” if fully under your
+     own control and “No” for supplier contracts)
+
+ (3)   Do you have operational procedure standards in place
+       across the organisation, such as change control, release
+                                                               Yes       Partially      No
+      management, access control, incident management, back-
+      up regimes and restore tests, etc?
+
+ (4)   Do you have human resources management in place,
+       including succession planning and mitigation against key     Yes       Partially      No
+       reliance on single individuals?
+
+ (5)   Do you have sound supply chain processes in place?          Yes       Partially      No
+
+ (6)   Do you have sound third party risk management processes
+                                                               Yes       Partially      No
+        in place (fourth party for SITA)?
+
+ (7)   Do you have a fully-fledged research and development
+                                                               Yes       Partially      No
+      (R&D) department to ensure continuous improvement?
+
+
+
+
+eSDCC-03594                                            RESTRICTED                                              53 of 56
+
+ Question to assess each risk element                        Bidders response:
+
+                                                Mark relevant box with an “X”
+
+ (8)   Do you rely on locally manufactured components or have
+        actively managed the risk relating to lead times or delivery
+       delays? (Choose “Yes” is you rely on locally manufactured
+                                                               Yes       Partially      No
+      components or can  actively manage lead times and
+      prevent delivery delays where manufacturing is not local
+          i.e. not in South Africa)
+
+ Governance and Compliance Risk
+
+ (1)   Do you comply with all legislation, including labour, health
+                                                               Yes       Partially      No
+      and safety regulations?
+
+ (2)   Do you have the appropriate governance frameworks
+        (Cobit, ITIL, King) in place with due monitoring against set     Yes       Partially      No
+       standards?
+
+ (3)   Do you have an internal audit function compliant with IIA
+                                                               Yes       Partially      No
+       standards (insourced, outsourced or co-sourced) in place?
+
+ (4)   Do you  follow  formally documented  enterprise  risk
+                                                               Yes       Partially      No
+     management processes?
+
+ (5)   Are all statutory requirements of the entity up to date?
+        Specifically, the following: CIPC Returns, Tax returns, UIF     Yes       Partially      No
+      and COIDA.
+
+ (6)   Do you have comprehensive insurance in place, including
+                                                               Yes       Partially      No
+       cover for assets, business disruption and liability?
+
+ Information Security and Privacy Risk
+
+ (1)   Are  your  physical  security  perimeters  appropriately
+                                                               Yes       Partially      No
+      safeguarded?
+
+ (2)   Do you have video surveillance of areas that will contain
+                                                               Yes       Partially      No
+       SITA information/products?
+
+ (3)   Do you conduct security and suitability verification of all
+                                                               Yes       Partially      No
+      employees prior to employment?
+
+ (4)   Do you have identification verification controls in place in
+                                                               Yes       Partially      No
+          all your buildings?
+
+ (5)   Are your access control protocols verified to be effective
+                                                               Yes       Partially      No
+      by Internal and/or External Auditors?
+
+ (6)   Do you have Security Information and Events Management
+                                                               Yes       Partially      No
+       (SIEM) processes in place?
+
+ (7)   Do you have sufficient information security and cyber
+                                                               Yes       Partially      No
+      arrangements in place for employees working from home?
+
+ Reputational Risk
+
+ (1)   Do you have anti-bribery and corruption, anti-money
+                                                               Yes       Partially      No
+       laundering and fraud prevention practices in place?
+
+
+
+
+eSDCC-03594                                            RESTRICTED                                              54 of 56
+
+  Question to assess each risk element                        Bidders response:
+
+                                                 Mark relevant box with an “X”
+
+  (2)   Please confirm that neither the company, nor any of its
+        directors has been named  in any corruption scandal
+                                                              Yes          Partially      No
+       (choose “Yes” to confirm not being named in a corruption
+        scandal)
+
+  (3)   Do you have a social responsibility programme in place?       Yes       Partially      No
+
+  (4)   Do you have an environmental protection policy, including
+        potential  harmful   emission   or  hazardous  waste     Yes       Partially      No
+      management?
+
+  (5)   Do you  actively manage  your  organisation’s  energy
+                                                                Yes       Partially      No
+       consumption?
+
+  (6)     Is your employment equity plan up to date and actively
+                                                                Yes       Partially      No
+      managed?
+
+
+
+6.3   Third Party Risk Management Declaration
+
+       (a)   The bidder hereby makes the following declaration and confirm the following information (mark
+           with a “X” in the corresponding column):
+
+
+ Statement of Declaration                            Accept and Confirm    Do not accept
+                                                                   and confirm
+
+
+ (1)    All questions in this assessment were answered
+        accurately.
+
+ (2)   SITA can request additional supporting
+       documentation, within reason, to confirm the
+       accuracy and completeness of the information
+       provided in this self-assessment.
+
+
+
+6.3.1    Declaration of Acceptance
+
+                                                          Accept all    Do not accept all
+
+ (1)   The bidder declares that all information provided in this
+       assessment is accurate.
+
+ (2)   The bidder understands that any false information may
+        constitute misrepresentation.
+
+         (a)   SITA reserves the right to verify the information
+             provided.
+
+ (3)   By completing the Third-Party Risk Management
+      Assessment the Bidder agrees to provide all reasonable
+       supporting documentation when requested to do so, as
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              55 of 56
+
+        well as during contract finalisation as this is a pre-award
+       condition of this bid.
+
+ (4)   The bidders understand and agrees that this section will
+      form part of the contract and is legally binding.
+
+
+
+ Any additional comments by bidder pertaining to the third-party risk assessment:
+
+
+
+
+
+NOTE: Failing to complete all the questions, or not Accepting the Declaration of Acceptance will lead to
+         disqualification.
+
+
+
+
+
+ eSDCC-03594                                            RESTRICTED                                              56 of 56

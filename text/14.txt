@@ -1,0 +1,823 @@
+      The Supreme Court of Ohio
+
+                   INVITATION TO BID
+
+         REPLACEMENT OF FIREWALL APPLIANCE
+
+                        ITB No. 308
+
+   ISSUING OFFICE: OFFICE OF INFORMATION TECHNOLOGY
+
+
+                    Date of Issuance: April 14, 2026
+
+
+As defined herein, the Supreme Court of Ohio, Office of Information Technology, is seeking
+competitive quotations from experienced contractors for the replacement of a firewall appliance
+and related equipment and licenses.
+
+                     Response Due Date and Time:
+
+                      April 28, 2026 at 12:00 p.m. EST
+
+
+                      NOTICE
+
+
+R.C. 9.24 prohibits the Supreme Court from awarding a contract to any offeror against whom the
+Auditor of State has issued a finding for recovery if the finding for recovery is unresolved at the
+time of award. By submitting a Quotation, an offeror warrants that it is not now and will not
+become subject to an unresolved finding for recovery under R.C. 9.24, prior to the award of any
+contract arising out of this Invitation to Bid, without notifying the Supreme Court of such finding.
+
+
+
+                                    Page 1 of 9
+
+1.   Overview:
+
+The Supreme Court of Ohio (“Court”), Office of Information Technology through this Invitation
+to Bid (“ITB”) is seeking competitive quotations from experienced contractors for the replacement
+of a firewall appliance and related equipment and licenses.
+
+For the purpose of this ITB, “Respondent” means the entity or individual who submits a response
+in relation to this ITB, “Contractor” means the successful Respondent awarded the contract.
+
+2.   Information for Respondents:
+
+2.1    Questions and Clarifications Related to ITB:
+
+All  questions  in  relation  to  this ITB  shall  be  submitted  in  writing  to  Brent  Flanik,
+Procurement Administrator: Brent.Flanik@sc.ohio.gov no later than 12:00 p.m. EST on
+April 17, 2026. Oral inquiries and/or questions will not be accepted.
+
+Questions received after this date and time will not be responded to or answered. An Addenda
+documenting the Court’s responses to all submitted questions will be posted in accordance with
+the schedule below at: https://www.supremecourt.ohio.gov/courts/judicial-system/supreme-court-
+of-ohio/admin-offices/office-of-chief-financial-officer/procurement-opportunities/
+
+2.2    Quotation Response Submission:
+
+Quotation responses to this ITB are to be received by the Court, via email, no later than
+12:00 p.m. EST on April 28, 2026. All responses  shall be sent  directly to Brent Flanik,
+Procurement Administrator: Brent.Flanik@sc.ohio.gov. Quotations received after this date and
+time shall be considered late, and as a result, will not be considered for evaluation and award.
+
+The Court is not responsible for late email submissions, and the Court reserves the right to reject
+any and all Quotations. The preparation of this Quotation shall be solely at the Respondent’s
+expense.
+
+2.3    Schedule of Key Milestone Events:
+
+Listed below are specific dates and times related to this ITB. Actions with specific dates and
+times shall be adhered to unless changed by the Court via an addendum.
+
+It is the sole responsibility of the Respondent to ensure receipt of all documentation issued by the
+Court.
+
+
+
+
+                                    Page 2 of 9
+
+   ITB Issuance                                               April 14, 2026
+    Deadline for Submitting Questions                          April 17, 2026
+
+    Final Addendum to be Issued (If Applicable)                 April 22, 2026
+
+    Quotation Responses Due                                   April 28, 2026
+   Award Bid / Executed Contract (Estimated)             May 5, 2026
+    Deliverables Completed                          May 29, 2026
+
+  3. Communication with Court Personnel:
+
+Respondent shall not meet or initiate communication with Court staff during the ITB process,
+except as otherwise provided in this ITB, or with respect to current or ongoing work. The ITB
+process is considered to have begun on the date on which it is issued and is considered concluded
+on the date on which any resulting contract has been fully executed. Any attempts to meet and/or
+initiate contact during the ITB process, other than that expressly authorized by the ITB, may result
+in the disqualification of said Respondent.
+
+  4. Scope of Work:
+
+The Court will be replacing aging hardware with new hardware and expanded security features
+and management. An itemized product listing of equipment, agreements, and licenses to be
+procured is detailed below:
+  1.  Palo Alto Networks PA-1410 Firewall Appliance
+
+           a.  Quantity: 2
+          b. MFG Part Number: PAN-PA-1410
+
+  2.  Palo Alto Networks PA-1410 Redundant Power Supply
+
+           a.  Quantity: 2
+          b. MFG Part Number: PAN-PWR-450W-AC
+
+  3.  Palo Alto Premium Support Service Agreement
+
+           a.  Quantity: 2
+          b.  Length: 3 years
+           c. MFG Part Number: PAN-SVC-PREM-1410-3YR
+
+  4.  Palo Alto Prisma Access Agent Subscription License
+
+
+
+                                  Page 3 of 9
+
+            a.  Quantity: 2
+           b.  Length: 3 years
+            c. MFG Part Number: PAN-PA-1410-PAA-3YR
+
+    5.  Palo Alto Precision AI Network Security Bundle Subscription License
+
+             a.  Quantity: 2
+            b.  Length: 3 years
+             c. MFG Part Number: PANPA1410BNDPRECISIONAI3YR
+
+    6.  Optional: Palo Alto Strata Cloud Manager PRO with AIOPS and ADEM
+
+             a.  Pricing of this item will be used to evaluate the Quotation as specified in Section 6,
+            however the Court reserves the right to decline purchasing this item. Notification
+              of that decision will be given to the awarded Contractor upon award determination.
+            b.  Quantity: 2
+             c.  Length: 3 years
+            d. MFG Part Number: PAN-NGFW-SCM-PRO
+
+
+5.     Proposal Response Criteria:
+
+Quotation responses shall be formatted and submitted in a single PDF format. Quotations shall be
+completed in chronological order, utilizing the same categories and subcategories as listed below.
+It is the respondent’s responsibility to ensure that sufficient documentation has been included to
+satisfy the requirements specified within the Quotation response.  Failure to meet any of these
+submission requirements may result in the Quotation being found non-responsive.
+
+5.1    Executive Summary:
+
+All Respondents shall include Appendix A / Letter of Transmittal as an executive summary to
+submit organizational information and state that Respondent is an authorized representative and
+has read, reviewed, and are submitting the quotation for consideration on behalf of the business
+entity.
+
+5.2    Project Schedule:
+
+All Respondents shall include a proposed schedule, outlining dates project will be completed,
+incorporating key components and/or deliverables as specified. The Court  is requesting  all
+hardware be delivered by May 22, 2026.
+
+5.3    Cost Proposal:
+
+Respondents  shall complete Appendix B  / Pricing Response Form  to provide  all  cost
+assumptions and components, as well as estimated lead times of hardware components. Failure to
+                                   Page 4 of 9
+
+complete and submit in its entirety may result in the Quotation being found non-responsive.
+Alternate forms will not be accepted. No additional payment will be made for fringe benefits,
+travel time, travel-related expenses or indirect costs.
+
+
+5.4    Subcontractors:
+
+As a portion of their Quotation response, Respondents shall identify any subcontractors that they
+intend to utilize and elaborate on what will be their specific purpose. All subcontractors shall work
+at the sole expense of the Respondent, and the Respondent shall be solely responsible for ensuring
+proper payment to the subcontractors. The Respondent shall assume responsibility for all work
+performed by subcontractors and ensure that all subcontractors comply with all contractual terms
+and conditions and policies of the Court.
+
+Proposed subcontractors shall also be considered and reviewed as a portion of the evaluation
+criteria. The Court reserves the right to review information regarding all proposed subcontractors
+and reject any identified before a contract is awarded.
+
+6.   Evaluation Criteria:
+
+All responsive Quotations received will be reviewed and evaluated by a team of representatives
+identified by the Court. The Court may accept or reject any and/or all Quotations, in whole or in
+part, or waive minor defects in a Quotation, if no prejudice results to the rights of another potential
+Respondent or to the public. Non-responsive Quotations will not be considered. Non-responsive
+Quotations are defined as those that do not meet, and/or are not compliant with the requirements
+as specified in the ITB.
+
+The Court will evaluate the Quotation by totaling all itemized costs, including optional items, in
+Appendix B / Pricing Response Form. Based upon total cost of all items as described in the
+specifications, a contract will be awarded to the responsive Quotation with the lowest overall cost.
+Quotations failing to quote pricing in the form requested or by using alternate forms of submission
+will be determined to be non-responsive and will not receive further consideration.
+
+7.   Proposal Clarification:
+
+The Court may contact any Respondent who submits a Quotation response in order to clarify
+uncertainties or eliminate confusion concerning the contents of a submitted Quotation. However,
+the Respondent will not be able to modify their Quotation as a result of any such clarification
+request.
+
+8.   Reference Verification:
+
+The Court reserves full discretion to determine the competence and capabilities of any Respondent
+who has submitted a Quotation response. The Court may contact any customer of the proposed
+
+                                   Page 5 of 9
+
+Respondent, whether or not included in a submitted reference list, and use such information in the
+evaluation process.
+
+
+9.     Contract Award:
+
+The Court will award one contract for this project. In the event that the Court and the awarded
+Contractor are unable to reach an agreement in a timely manner, the Court reserves the right to
+terminate negotiations with the Contractor. In such an event, the Court reserves the right to enter
+into negotiations with an alternate Contractor.
+
+10.     Contract Term:
+
+The anticipated term of the resulting contract shall be from its date of execution and last for
+a period of three (3) years, until the expiration of the licenses identified herein.
+
+
+11.    Independent Contractor:
+
+All Respondents shall acknowledge and agree with the Court that services performed under this
+contract are being performed as an independent contractor, and not as a public employee,
+pursuant to R.C. 145.01 et. seq.  The Respondent shall be required to complete and sign the
+Ohio Public Employees Retirement System form PEDACKN and return it to the Court before
+payment will be made for any services.
+
+
+
+
+12.   General Terms and Conditions:
+
+    1. The Court assumes no responsibility for costs incurred by any Respondent prior to the
+      award of any contract resulting from this ITB.
+
+    2.  All proposed offers submitted to the Court are firm and shall remain in effect for 180 days
+      from the Quotation due date. Respondents are well-advised to check their Quotation
+        carefully before submitting. Errors cannot be corrected after the Quotations are opened. It
+        shall be a condition of any award that the selected Respondent shall deliver all product and
+       services at the fee or cost quoted, even if in error.
+
+    3. A Quotation response, upon acceptance by the Court, immediately creates a binding
+       contract between Respondent and the Court.  Except as otherwise provided in this ITB,
+      once accepted,  it may not be rescinded, canceled, or modified by Respondent unless
+       mutually agreed in writing by the parties.
+
+                                   Page 6 of 9
+
+4.  All responsive Quotations shall be evaluated by the Court, which may accept or reject any
+    or all Quotations, in whole or in part.  Also, the Court may waive minor defects in a
+    Quotation, if no prejudice results to the rights of another Respondent or to the public.
+
+5.  At the sole discretion of the Court, the ITB may be cancelled or reissued in whole or in
+    part, or a contract may not be awarded, if any of the following apply:
+
+    a) The goods  or  services  offered  are  not  in compliance with  the  requirements,
+        specifications, or terms and conditions set forth in the ITB;
+
+    b) The  price offered  is considered excessive  in comparison with  existing market
+       conditions, in comparison with the goods or services to be received, or in relation to
+       available funds;
+
+    c)  It is determined that the award of a contract would not be in the best interest of the
+       Court.
+
+6. The Court requires Respondents wishing to do business with the Court to provide their
+    Federal Taxpayer Identification Number.
+
+7. The Court is exempt from taxation. Federal transportation and excise taxes, as well as state
+    excise taxes shall not be included in the Quotation pricing. Excise tax exception certificates
+    will be furnished upon request.
+
+8.  Respondent warrants that it is not subject to an unresolved finding for recovery under R.C.
+    9.24. If the warranty is false on the date the parties sign a contract awarding Respondent’s
+    submittal, the contract is void ab initio, and Respondent shall immediately repay to the
+   Court any funds paid under the contract.
+
+9. The Court may, at any time prior to the completion of the contract by Contractor, suspend
+    or terminate the contract with or without cause by giving written notice to Contractor.
+   Upon receipt of written notice to Contractor to suspend or terminate, Contractor shall
+   immediately cease work on the suspended or terminated activities and take all necessary
+    steps to minimize costs; and if requested by the Court, Contractor must furnish a report
+    describing the status of services. Contractor shall be paid for all completed work rendered
+   up to the date Contractor received notice provided Contractor has supported such payment
+   with detailed factual data containing hours worked and product/services performed.
+
+10. Any contract resulting from this ITB is binding on the successful Respondent. Contractor’s
+    failure to meet or perform any of the contract terms or conditions shall permit the Court to
+    rescind or cancel the contract and purchase replacement articles or services of comparable
+   grade in the open market. Contractor shall reimburse costs and expenses in excess of the
+    contract price necessitated by such replacement purchases to the Court.
+
+
+                                Page 7 of 9
+
+11. At the date deliverables are due as specified in the contract resulting from this ITB, or in
+    the event the contract is suspended or terminated prior to its completion, Contractor, upon
+   payment as specified, shall deliver to the Court all work products which have been prepared
+   by Contractor in the course of providing services under this contract. All such materials
+    shall become and remain the property of the Court, to be used in such manner and for such
+   purpose as the Court may choose. Upon termination of the contract by either party, all
+    property belonging to the Court and in the possession of Contractor shall be returned to the
+   Court prior to final payment to Contractor.
+
+12. The Respondent acknowledges and agrees that all documents submitted to the Supreme
+   Court in response to this Request for Proposals shall become public records subject to
+    disclosure. Documents containing trade secret, proprietary, or confidential information
+   should not be included in a proposal or supporting materials.
+
+     If the Supreme Court requests information from the Respondent that the Respondent deems
+    confidential, proprietary, or trade secret information exempt from disclosure under the law,
+    the Respondent may designate information as such and request that the information be
+   exempt from disclosure. The Respondent must clearly designate the part or parts of the
+   proposal that contain confidential, proprietary, or trade secret information in order to claim
+   exemption from disclosure by submitting both an unredacted copy and a redacted copy of
+     its proposal in electronic format and clearly identified as either ‘ORIGINAL COPY” or
+  “REDACTED COPY.”   Respondent acknowledges  that  failure  to  properly  redact
+   information exempt from disclosure by law, clearly label all copies, and submit the required
+    redaction log specifying a legal basis for each redaction shall result in the Supreme Court
+    treating all information contained in the original proposal as a public record subject to
+    disclosure and may result in the proposal response being found non-responsive.
+
+   Respondent  agrees and acknowledges  that  failure  to comply  with  the  foregoing
+   requirements shall constitute a waiver of any and all rights, claims, or protections regarding
+    the confidentiality, secrecy, or limitation on use or disclosure of such information. The
+   Supreme Court shall have no obligation to maintain the confidentiality of, or restrict the
+   use or disclosure of, any information contained in the proposal and supporting materials.
+   Respondent further acknowledges that the mere inclusion of a footer, watermark, or other
+    general marking indicating “confidential,” “proprietary,” or similar designation is not
+    sufficient to claim exemption from disclosure under applicable law.
+
+13. Respondent agrees to adhere to the requirements of Ohio Ethics Laws, Chapter 102 and
+   R.C. 2921.42 and 2921.43. Respondent represents, warrants and certifies that it and its
+   employees engaged in the administration or performance of any contract resulting from
+    this ITB are knowledgeable of and understand the Ohio ethics and conflict of interest laws.
+   Respondent further represents, warrants, and certifies that neither Contractor nor any of its
+   employees will do any act that is inconsistent with such laws.
+
+14. Respondent represents and warrants that it is not debarred from consideration for contract
+   awards by any governmental agency.
+                                Page 8 of 9
+
+Supreme Court of Ohio - Administrative Policies (Appendix D):
+
+       Administrative Policy 5 - Equal Employment Opportunity Policy:
+
+          The Court is an equal opportunity employer.   Persons conducting or seeking to
+            conduct business with the Supreme Court  are  subject  to Adm.  P. 5 (Equal
+          Employment Opportunity), a copy of which is attached.
+
+       Administrative Policy 22 – Alcohol and Drug Free Workplace:
+
+          The Court intends to provide an alcohol and drug free workplace. Persons conducting
+             or seeking to conduct business with the Supreme Court are subject to Adm. P. 22
+            (Alcohol and Drug Free Workplace), a copy of which is attached.
+
+       Administrative Policy 23 – Weapons and Violence Free Workplace:
+
+          The Court intends to provide a weapons and violence free workplace.  Persons
+            conducting or seeking to conduct business with the Supreme Court are subject to Adm.
+             P. 23 (Weapons and Violence Free Workplace), a copy of which is attached.
+
+       Administrative Policy 24 – Discrimination and Harassment:
+
+          The Court intends to provide a discrimination and harassment free workplace.
+            Persons conducting or seeking to conduct business with the Supreme Court are
+             subject to Adm. P. 24 (Discrimination and Harassment), a copy of which is attached.
+
+
+
+
+
+                                   Page 9 of 9
+
+                             Appendix A
+                              Letter of Transmittal
+
+                                   The Supreme Court of Ohio
+                                        ITB #308
+                                              Firewall Replacement
+                                                  April 2026
+
+
+The Respondent’s name and address exactly as it would appear in a contract:
+
+Entity Name: ______________________________________________________________
+
+Street Address: _____________________________________________________________
+
+City, State, ZIP Code: ________________________________________________________
+
+Respondent’s Phone Number: __________________________________________________
+
+Respondent’s E-mail Address: _________________________________________________
+
+Form of Ownership:      Sole Proprietorship         Franchise              Partnership
+                         Corporation                 Joint Venture       LLC
+                        Other (Please Specify):___________________________
+
+
+Owner(s) of Entity, if private: _________________________________________________
+
+If a corporation, state of incorporation: __________________________________________
+
+Federal Identification Number: ________________________________________________
+
+State of Ohio Supplier ID Number (if registered): _________________________________
+
+
+
+SIGNATURE:______________________________________________________________
+
+PRINTED NAME AND TITLE:________________________________________________
+
+By signing this page, you state that you are an authorized representative and have read, reviewed,
+and are submitting this proposal for consideration on behalf of your business entity.
+
+                        The Supreme Court of Ohio
+                                                                     OFFICE OF INFORMATION TECHNOLOGY
+                                                                                          ITB #308
+                                                  APPENDIX B -- PRICING RESPONSE FORM
+                                                            PALO ALTO FIREWALL REPLACEMENT
+                                                          PRODUCT LIST and RESPONSE FORM
+                                                      PLEASE INCLUDE ALL SHIPPING AND FREIGHT CHARGES IF APPLICABLE
+                                                                  QUANTITY           PRICE           LEAD TIME (if                 EXTENDED PRICE
+                     PRODUCT DESCRIPTION                                                                 NEEDED         PER UNIT              applicable)
+Firewall Appliance (Section 4.1):
+
+Palo Alto Networks PA-1410 Firewall Appliance                                                                           2MFG Part Number: PAN-PA-1410
+Additional costs:
+Power Supply (Section 4.2):
+Palo Alto Networks PA-1410 Redundant Power Supply
+                                                                                 2MFG Part Number: PAN-PWR-450W-AC
+Additional costs:
+
+Support Service Agreement (Section 4.3):
+3-year Palo Alto Premium Support Service Agreement
+                                                                                 2MFG Part Number: PAN-SVC-PREM-1410-3YR
+Additional costs:
+Agent Subscription License (Section 4.4):
+3-year Palo Alto Prisma Access Agent Subscription License
+                                                                                 2MFG Part Number: PAN-PA-1410-PAA-3YR
+Additional costs:
+
+AI Network Security Bundle Subscription License (Section 4.5):
+3-year Palo Alto Precision AI Network Security Bundle Subscription License
+                                                                                 2MFG Part Number: PANPA1410BNDPRECISIONAI3YR
+Additional costs:
+
+OPTIONAL ADD-ONS (Section 4.6):
+Optional: Palo Alto Strata Cloud Manager PRO with AIOPS and ADEM
+                                                                                 2MFG Part Number: PAN-NGFW-SCM-PRO
+Additional costs:
+                                                        QUOTATION TOTAL:
+SUBCONTRACTORS (if applicable) / ADDITIONAL NOTES:
+
+                  APPENDIX A
+
+
+Administrative Policy 5. Equal Employment Opportunity.
+
+This policy is intended to establish consistent standards and expectations regarding the
+application of all applicable federal and state laws, rules, and regulations prohibiting
+discrimination in the workplace to every employee and applicant for a position of
+employment with the Supreme Court.
+
+(A)   Equal Employment Opportunity. The Court is committed to equal employment
+opportunity for all qualified individuals without regard to race, color, religion, gender,
+sexual orientation, national origin, ancestry, age, citizenship, marital status, veteran’s
+status, or non-disqualifying disability and shall engage in employment practices and
+decisions, including recruitment, hiring, working conditions, compensation, training,
+promotions, transfers, retention of employment, and other terms, benefits, and privileges
+of employment that are based upon job-related criteria and qualifications.
+
+(B)   Equal Employment Opportunity Plan.  The Administrative Director and the
+Director of Human Resources shall prepare and annually review an equal employment
+opportunity plan to assure the employment practices and decisions of the Court are
+consistent with the objectives and requirements of this policy.
+
+(C)    Distributions and Postings. Each position description created for a position of
+employment with the Court pursuant to Adm. P. 15 (Position Management), each
+position vacancy announcement circulated pursuant to Adm. P. 6 (Employment Process),
+all requests for proposals, and any other solicitations for employment with or to provide
+goods and services to the Court shall reference this policy and that the Court is an equal
+opportunity employer.
+
+(D)    Application of Policy.  This policy applies to current employees and applicants
+for positions of employment with the Court.
+
+Effective Date: July 1, 2003
+Amended: September 1, 2007
+
+Administrative Policy 22. Alcohol and Drug Free Workplace.
+
+This policy  is intended  to  establish  consistent standards and expectations  for the
+development, promotion, and maintenance of a workplace at the Supreme Court that is
+free from the influence of alcohol and drugs.
+
+(A)    Alcohol.  The purchase, service, and use of alcohol involve health and safety
+issues for an employee, and liability risks and public perception concerns for the Court.
+The Court’s policy on alcohol depends on the location and circumstances of an event and
+the work status of the employee.
+
+        (1)    Location and circumstances.  Generally, alcohol shall not be served or
+       used at a Court sponsored event or at the workplace. In limited circumstances, the
+       Court may allow the service and use of alcohol at a Court sponsored event,
+       including an event at the workplace, but only if alcohol is provided by a properly
+       licensed third party vendor and upon the prior approval of the Administrative
+        Director.
+
+        (2)    Purchase at Court expense prohibited. Alcohol shall not be purchased
+        at Court expense, regardless of the location or circumstances involved.
+
+        (3)   Employee on duty. An employee who is on duty shall not purchase,
+        serve, or use alcohol, regardless of the location or circumstances involved.
+
+        (4)   Employee off duty. An employee who is off duty shall not serve alcohol
+        at a Court sponsored event, regardless of the location or circumstances of the
+       event. An employee who is off duty may purchase and use alcohol at a Court
+       sponsored event approved by the Administrative Director pursuant to paragraph
+       (A)(1) of this policy, including an event at the workplace.
+
+These prohibitions shall be read in conjunction with the requirements and guidance of
+OJC Reg. 14 (Alcohol; Intoxicating Liquor).
+
+(B)    Controlled Substances and Illegal Drugs. An employee shall not unlawfully
+manufacture, distribute, dispense, possess, or use a controlled substance or purchase,
+transfer, use, or possess any illegal drugs or prescription drugs that are illegal, either at
+the workplace or any other location. A controlled substance includes any drug listed in
+Section 812, Title 21 U.S. Code and federal regulations adopted pursuant to federal law.
+This prohibition shall be read in conjunction with the requirements and guidance of OJC
+Reg. 15 (Controlled Substances).
+
+The Court shall notify any federal agency from which it has received a grant when an
+employee has been convicted of a violation of any state or federal criminal drug statute.
+The notice shall be provided within ten days after receiving notice from the employee of
+the conviction or after receiving other actual notice of the conviction.
+
+(C)      Alcohol and Drug Testing.
+
+        (1)    Circumstances requiring testing.  The Administrative Director, or the
+        director’s  designee, upon  the recommendation  of  the  Director  of Human
+       Resources, or the director’s designee, and sufficient cause shown, may require an
+      employee to undergo an alcohol or drug test under the following circumstances:
+
+             •  When there is reasonable cause to suspect that the employee may be
+                   intoxicated or under the influence of a controlled substance not
+                  prescribed by the employee’s physician;
+
+             •  When the employee is involved in a significant incident in which the
+               employee or another person has a reportable and recordable injury or
+                   in which documented property damage has occurred;
+
+             •  Pursuant  to  the  specifications  and  provisions  of  a  counseling,
+               employee assistance, or rehabilitative program to which the employee
+                 has been referred as a result of a previous corrective action pursuant to
+             Adm. P. 21 (Corrective Actions).
+
+        (2)    Refusal to submit to testing. An employee who refuses to consent or
+       submit to an alcohol or drug test when required under this policy shall be subject
+        to corrective action pursuant to Adm. P. 21 (Corrective Actions).
+
+        (3)    Confidentiality.  Confidentiality concerning alcohol or drug test results
+        shall be maintained to the extent provided by law, and an employee shall have the
+       opportunity to refute the results of any alcohol or drug test.
+
+(D)    Corrective Actions. An employee who is found to have violated this policy is
+subject to appropriate corrective action pursuant to Adm. P. 21 (Corrective Actions).
+
+(E) Employee Assistance and Rehabilitation.   If an employee  is convicted of a
+violation of any state or federal statute proscribing the abuse of alcohol or the possession
+or sale of a controlled substance, or if an employee has a confirmed positive alcohol or
+drug test, the Court may require the employee to participate in and satisfactorily complete
+an alcohol or drug assistance or rehabilitation program as a prerequisite to continued
+employment or as part of a corrective action.
+
+Effective Date: January 1, 2004
+Amended: April 1, 2009
+
+
+
+
+
+                                    2
+
+Administrative Policy 23. Weapons and Violence Free Workplace.
+
+This policy is intended to establish consistent standards and expectations for the development,
+promotion, and maintenance of a safe and productive workplace at the Supreme Court that is free
+from the effects of weapons and violence.
+
+(A)   Weapons Prohibited. Except as provided in OJC Reg. 11, no employee shall possess,
+carry, or store a weapon while on Court property or engaged in the course of the employee’s
+employment or official responsibilities for the Court unless specifically required to do so as a
+condition of the employee’s work assignment. Any employee who violates this policy is subject
+to having the matter referred to the appropriate law enforcement officials.
+
+(B)    Acts and Threats of Violence Prohibited. No employee shall engage in an act or make
+a threat of violence while on Court property, while engaged in the course of employment or official
+responsibilities for the Court, or when conducting business for the Court.  Acts and threats of
+violence may include the following activities:
+
+        (1)    Threats and intimidation. Engaging in threatening, intimidating, harassing, or
+       coercive behavior that is sufficiently severe or offensive so as to alter the conditions of
+      employment, or to create a hostile, abusive, or intimidating work environment for another
+       person;
+
+        (2)    Stalking.   Willfully, maliciously, or repeatedly following or stalking another
+       person;
+
+        (3)    Communications. Making or sending a threatening, intimidating, harassing, or
+       coercive statement, telephone call, letter, or other written or electronic communication to
+       another person, with the intent to place that person in reasonable fear for the person’s
+        safety, or the safety of the person’s family, friends, associates, or property;
+
+        (4)    Physical contact. Intentionally engaging in physical contact with another person
+        that would cause a reasonable person to believe the person is being assaulted;
+
+        (5)   Damaging property. Intentionally damaging or defacing the personal property of
+       another person or property owned, operated, or controlled by the Court.
+
+(C)    Domestic Violence. The Court is committed to creating and maintaining an environment
+that facilitates the needs of employees who are victims of domestic violence. The Court shall not
+discriminate against an employee in any employment actions because the employee is, or is
+perceived to be, a victim of domestic violence. The Administrative Director may issue guidelines
+establishing a workplace plan addressing domestic violence, including appropriate employee
+protection, assistance, and education measures.
+
+(D)    Notification of Protection or Restraining Order. An employee who obtains a protection
+or restraining order shall notify the Director of Human Resources. Upon notification, the Director
+of Human Resources shall inform the appropriate Court personnel.
+
+(E)   Reporting Acts or Threats of Violence. An employee shall report any acts or threats of
+violence to the employee’s Senior Staff supervisor or Court security.
+
+(F)    Corrective Action. An employee who is found to have violated this policy is subject to
+appropriate corrective action pursuant to Adm. P. 21 (Corrective Actions).
+
+Effective Date: July 1, 2004
+Amended: April 1, 2009; February 13, 2025
+
+Administrative Policy 24. Discrimination and Harassment.
+
+This policy  is intended  to  establish  consistent standards and expectations  for the
+development, promotion, and maintenance of a workplace at the Supreme Court that is
+free from the effects of discrimination and harassment.
+
+(A)    Prohibited Activity. No employee shall engage in or be subject to a prohibited
+discriminatory practice or harassment, including sexual harassment.
+
+        (1)    Prohibited discriminatory practice.  For the purpose of this policy, a
+       “prohibited discriminatory practice” means a decision  relating  to  either the
+       recruitment,  hiring, working  conditions,  compensation,  training,  promotion,
+        transfer, or retention of employees or the selection of vendors to provide goods or
+        services, when the decision is made with regard to race, color, religion, gender,
+       sexual  orientation,  national  origin,  ancestry, age,  citizenship,  marital  status,
+       veteran’s status, or non-disqualifying disability.
+
+        (2)    Harassment. For the purpose of this policy, “harassment” means conduct
+       based on race, color, religion, gender, sexual orientation, national origin, ancestry,
+       age, citizenship, marital status, veteran’s status, or non-disqualifying disability
+        that unreasonably interferes with a person’s work performance or creates an
+        intimidating, hostile, or offensive work environment for a person.   It involves
+      unwelcome   or  unwanted   conduct,   including   verbal  and   non-verbal
+       communications, when the conduct consists of one or more of the following:
+
+             •  Using racially derogatory words, phrases, or epithets;
+
+             •  Demonstrations of a racial or ethnic nature, such as a use of gestures,
+                    pictures, or drawings which would offend a particular racial or ethnic
+                 group;
+
+             •  Comments about a person’s skin color or other  racial or ethnic
+                    characteristics;
+
+             •  Making disparaging remarks about a person’s gender that are not
+                  sexual in nature;
+
+             •  Negative comments about a person’s  religious  beliefs or lack of
+                   religious beliefs;
+
+             •  Expressing negative stereotypes regarding a person’s birthplace or
+                   ancestry;
+
+             •  Negative comments regarding a person’s age when referring to a
+                 person 40 years of age or older;
+
+             •  Derogatory or intimidating references to a person’s mental or physical
+                 impairment.
+
+        (3)    Sexual harassment.  For the purpose of this policy, “sexual harassment ”
+      means conduct based upon sex that unreasonably interferes with a person’s work
+       performance or creates an intimidating, hostile, or offensive work environment for
+       a person.  It involves unwelcome or unwanted conduct, including verbal and non-
+       verbal communications and physical contact, when the conduct consists of one or
+      more of the following:
+
+             •  Making submission to a sexual advance or request for sexual favor an
+                    explicit or implicit term or condition of employment;
+
+             •  Making submission to or rejection of a sexual advance or request for
+                  sexual favor a basis for employment decisions affecting the person to
+            whom the harassment is directed;
+
+             •  Making sexual innuendo, using sexually vulgar or explicit language,
+               making sexually suggestive comments or sounds, telling jokes of a
+                  sexual nature, or making sexual propositions or threats;
+
+             •  Displaying  or  disseminating  sexually  suggestive  objects,  books,
+                 magazines, computer  software,  internet  websites,  e-mail,  graphic
+                 commentaries, photographs, cartoons, or pictures;
+
+             •  Touching,  pinching,  leering, making  obscene  gestures,  brushing
+                   against the body, or engaging in sexual intercourse or sexual assault;
+
+
+(B)   Reporting an incident. An employee who believes to have been subject to or
+       observed any prohibited discriminatory practice or harassment by a Justice, other
+       employee, Court appointee, person who conducts business with the Court, or
+        visitor should report it immediately to any member of Senior Staff, the Director of
+     Human Resources, the Administrative Director, or, if the subject of the prohibited
+       discriminatory practice or harassment is an employee and the incident did not
+       involve that employee’s immediate supervisor, to the employee’s immediate
+       supervisor. Any of these persons to whom an incident is reported shall promptly
+       notify the Director of Human Resources.
+
+(C)    Investigation and written report.  Upon receiving a report of an alleged
+       prohibited discriminatory practice or harassment involving an employee, Court
+       appointee, person who conducts business with the Court, or visitor, the Director
+       of Human Resources, or the director’s designee, shall immediately and thoroughly
+        investigate the incident and prepare a written report. The report shall contain the
+       findings of the  investigator and,  if the  investigator believes a  violation of
+       paragraph (A) of this policy has occurred, a recommendation for corrective action
+
+
+                                    2
+
+       or sanction pursuant to paragraph (F) of this policy. The report shall be provided
+        to the parties involved.
+
+         If the alleged prohibited discriminatory practice or harassment involves a Justice,
+       the Director of Human Resources shall notify the Administrative Director, who
+        shall report the allegation to the Chief Justice for whatever action the Court
+       considers appropriate.
+
+(D)   Determination of incident.
+
+        (1)    Agreement of the parties.  If the parties involved agree with the findings
+      and recommended corrective action contained in the written report, the Director
+       of Human Resources shall obtain the signature of each party on the report within
+        five business days after it is provided to them. The Director of Human Resources
+        shall promptly provide a copy of the signed report to the Administrative Director
+        for review.  Absent extraordinary circumstances demonstrated in the report, the
+       Administrative Director shall approve its immediate implementation.
+
+        (2)   Formal hearing.  If any party involved does not agree with the findings or
+      recommended  corrective  action  contained  in  the  written  report  or  if  the
+       Administrative Director believes extraordinary circumstances are demonstrated in
+       the report, within five business days after receiving the report the Administrative
+       Director shall take appropriate action, including appointment of a hearing officer
+        to conduct a formal hearing on the matter.
+
+(E)    Conflicts.
+
+        (1)    Director of Human Resources.   If a party or witness to an incident
+       reported under this policy is the Director of Human Resources, the Administrative
+       Director shall designate another member of the Court staff to perform the duties
+       of the Director of Human Resources as required by this policy.
+
+        (2)    Administrative Director.  If a party or witness to an incident reported
+       under this policy is the Administrative Director, the Chief Justice shall perform
+       the duties of the Administrative Director as required by this policy.
+
+        (3)    Chief Justice.  If a party to an incident reported under this policy is the
+       Chief Justice, the next most senior Justice shall perform the duties of the Chief
+        Justice as required by this policy.
+
+(F)    Corrective Action. An employee who is found to have violated paragraph (A) of
+this policy shall be subject to appropriate corrective action as set forth in Adm. P. 21
+(Corrective Actions).
+
+
+
+
+
+                                    3
+
+(G)    Confidentiality.  The Court shall make every reasonable effort to protect the
+privacy of the parties in the process. Parties and witnesses shall maintain confidentiality
+with respect to a complaint or report. However, the Court cannot ensure that complaints
+or reports will be kept strictly confidential.
+
+(H)    Distribution  of  Policy.  All  requests  for  proposals  and  solicitations  for
+employment and to provide goods or services shall reference this policy and the Court’s
+prohibition against discrimination and harassment in the workplace.
+
+Effective Date: July 1, 2003
+Amended: September 1, 2007; April 1, 2009
+
+
+
+
+
+                                    4

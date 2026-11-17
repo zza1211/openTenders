@@ -1,0 +1,2363 @@
+ BIDDING DOCUMENTS
+      FOR THE
+  SUPPLY, DELIVERY,
+  INSTALLATION AND
+ CONFIGURATION OF
+ NETWORK SWITCHES
+
+
+
+APPROVED BUDGET FOR THE CONTRACT:
+          PHP 26,000,000.00
+
+       BID REFERENCE NUMBER
+           DICTBAC-2024-103
+
+
+          AUGUST 2024
+
+                  Table of Contents
+
+
+Glossary of Acronyms, Terms, and Abbreviations                                  2
+Section I. Invitation to Bid                                                     5
+Section II. Instructions to Bidders                                               9
+   1.    Scope of Bid                                                       10
+   2.    Funding Information                                                 10
+   3.    Bidding Requirements                                               10
+   4.     Corrupt, Fraudulent, Collusive, and Coercive Practices                      10
+   5.     Eligible Bidders                                                    10
+   6.     Origin of Goods                                                    11
+   7.     Subcontracts                                                       11
+   8.     Pre-Bid Conference                                                  11
+   9.     Clarification and Amendment of Bidding Documents                       11
+  10.   Documents comprising the Bid: Eligibility and Technical Components         11
+  11.   Documents comprising the Bid: Financial Component                      12
+  12.   Bid Prices                                                         12
+  13.   Bid and Payment Currencies                                           13
+  14.   Bid Security                                                       13
+  15.    Sealing and Marking of Bids                                          13
+  16.   Deadline for Submission of Bids                                       13
+  17.   Opening and Preliminary Examination of Bids                            13
+  18.   Domestic Preference                                                 14
+  19.    Detailed Evaluation and Comparison of Bids                              14
+  20.    Post-Qualification                                                   14
+  21.   Signing of the Contract                                               15
+Section III. Bid Data Sheet                                                    16
+Section IV. General Conditions of Contract                                      19
+   1.    Scope of Contract                                                   20
+   2.    Advance Payment and Terms of Payment                                20
+   3.    Performance Security                                                20
+   4.     Inspection and Tests                                                 20
+   5.    Warranty                                                          21
+   6.     Liability of the Supplier                                              21
+Section V. Special Conditions of Contract                                        22
+Section VI. Schedule of Requirements                                          27
+Section VII. Technical Specifications                                           28
+Section VIII. Checklist of Technical and Financial Documents                       52
+
+
+
+                                             1
+
+     Glossary of Acronyms, Terms, and
+               Abbreviations
+
+
+ABC – Approved Budget for the Contract.
+
+BAC – Bids and Awards Committee.
+
+Bid – A signed offer or proposal to undertake a contract submitted by a bidder in response to
+and in consonance with the requirements of the bidding documents. Also referred to as
+Proposal and Tender. (2016 revised IRR, Section 5[c])
+
+Bidder – Refers to a contractor, manufacturer, supplier, distributor and/or consultant who
+submits a bid in response to the requirements of the Bidding Documents. (2016 revised IRR,
+Section 5[d])
+
+Bidding Documents – The documents issued by the Procuring Entity as the bases for bids,
+furnishing all information necessary for a prospective bidder to prepare a bid for the Goods,
+Infrastructure Projects, and/or Consulting Services required by the Procuring Entity. (2016
+revised IRR, Section 5[e])
+
+BIR – Bureau of Internal Revenue.
+
+BSP – Bangko Sentral ng Pilipinas.
+
+Consulting Services – Refer to services for Infrastructure Projects and other types of projects
+or activities of the GOP requiring adequate external technical and professional expertise that
+are beyond the capability and/or capacity of the GOP to undertake such as, but not limited to:
+(i) advisory and review services; (ii) pre-investment or feasibility studies; (iii) design; (iv)
+construction supervision; (v) management and related services; and (vi) other technical services
+or special studies. (2016 revised IRR, Section 5[i])
+
+CDA - Cooperative Development Authority.
+
+Contract – Refers to the agreement entered into between the Procuring Entity and the Supplier
+or Manufacturer or Distributor or Service Provider for procurement of Goods and Services;
+Contractor for Procurement of Infrastructure Projects; or Consultant or Consulting Firm for
+Procurement of Consulting Services; as the case may be, as recorded in the Contract Form
+signed by the parties, including all attachments and appendices thereto and all documents
+incorporated by reference therein.
+
+CIF – Cost Insurance and Freight.
+
+CIP – Carriage and Insurance Paid.
+
+CPI – Consumer Price Index.
+
+DDP – Refers to the quoted price of the Goods, which means “delivered duty paid.”
+
+
+                                             2
+
+DTI – Department of Trade and Industry.
+
+EXW – Ex works.
+
+FCA – “Free Carrier” shipping point.
+
+FOB – “Free on Board” shipping point.
+
+Foreign-funded Procurement or Foreign-Assisted Project– Refers to procurement whose
+funding source is from a foreign government, foreign or international financing institution as
+specified in the Treaty or International or Executive Agreement. (2016 revised IRR, Section
+5[b]).
+
+Framework Agreement – Refers to a written agreement between a procuring entity and a
+supplier or service provider that identifies the terms and conditions, under which specific
+purchases, otherwise known as “Call-Offs,” are made for the duration of the agreement. It is in
+the nature of an option contract between the procuring entity and the bidder(s) granting the
+procuring entity the option to either place an order for any of the goods or services identified
+in the Framework Agreement List or not buy at all, within a minimum period of one (1) year
+to a maximum period of three (3) years. (GPPB Resolution No. 27-2019)
+
+GFI – Government Financial Institution.
+
+GOCC – Government-owned and/or –controlled corporation.
+
+Goods – Refer to all items, supplies, materials and general support services, except Consulting
+Services and Infrastructure Projects, which may be needed in the transaction of public
+businesses or in the pursuit of any government undertaking, project or activity, whether in the
+nature of equipment, furniture, stationery, materials for construction, or personal property of
+any kind, including non-personal or contractual services such as the repair and maintenance of
+equipment and furniture, as well as trucking, hauling, janitorial, security, and related or
+analogous services, as well as procurement of materials and supplies provided by the Procuring
+Entity for such services. The term “related” or “analogous services” shall include, but is not
+limited to, lease or purchase of office space, media advertisements, health maintenance
+services, and other services essential to the operation of the Procuring Entity. (2016 revised
+IRR, Section 5[r])
+
+GOP – Government of the Philippines.
+
+GPPB – Government Procurement Policy Board.
+
+INCOTERMS – International Commercial Terms.
+
+Infrastructure Projects – Include the construction, improvement, rehabilitation, demolition,
+repair,  restoration  or maintenance  of  roads and  bridges,  railways,  airports,  seaports,
+communication  facilities,  civil works components  of  information technology  projects,
+irrigation, flood control and drainage, water supply, sanitation, sewerage and solid waste
+management systems, shore protection, energy/power and electrification facilities, national
+
+
+
+                                             3
+
+buildings, school buildings, hospital buildings, and other related construction projects of the
+government. Also referred to as civil works or works. (2016 revised IRR, Section 5[u])
+
+LGUs – Local Government Units.
+
+NFCC – Net Financial Contracting Capacity.
+
+NGA – National Government Agency.
+
+PhilGEPS - Philippine Government Electronic Procurement System.
+
+Procurement Project – refers to a specific or identified procurement covering goods,
+infrastructure project or consulting services. A Procurement Project shall be described,
+detailed, and scheduled in the Project Procurement Management Plan prepared by the agency
+which shall be consolidated in the procuring entity's Annual Procurement Plan. (GPPB Circular
+No. 06-2019 dated 17 July 2019)
+
+PSA – Philippine Statistics Authority.
+
+SEC – Securities and Exchange Commission.
+
+SLCC – Single Largest Completed Contract.
+
+Supplier – refers to a citizen, or any corporate body or commercial company duly organized
+and registered under the laws where it is established, habitually established in business and
+engaged in the manufacture or sale of the merchandise or performance of the general services
+covered by his bid. (Item 3.8 of GPPB Resolution No. 13-2019, dated 23 May 2019). Supplier
+as used in these Bidding Documents may likewise refer to a distributor, manufacturer,
+contractor, or consultant.
+
+UN – United Nations.
+
+
+
+
+
+                                             4
+
+Section I. Invitation to Bid
+
+
+
+
+
+                          5
+
+  INVITATION TO BID FOR THE SUPPLY, DELIVERY, INSTALLATION AND
+            CONFIGURATION OF NETWORK SWITCHES
+
+1.   The Department of Information and Communications Technology (DICT), through the
+     2023 Continuing Fund, intends to apply the sum of TWENTY-SIX MILLION PESOS
+    (PHP 26,000,000.00) being the ABC to payment under the contract for the Supply,
+      Delivery, Installation and Configuration of Network Switches with Bid Reference
+     No. DICTBAC-2024-103. Bids received in excess of the ABC shall be automatically
+      rejected at bid opening.
+
+2.   The DICT now invites bids for the above Procurement Project. Delivery of the Goods is
+      required within sixty calendar (60) days upon receipt of the Notice to Proceed.
+     Bidders should have completed, within five (5) years from the date of submission and
+      receipt of bids, a contract similar to the Project. The description of an eligible bidder is
+     contained in the Bidding Documents, particularly, in Section II (Instructions to Bidders).
+
+3.    Bidding will be conducted through open competitive bidding procedures using a non-
+      discretionary “pass/fail” criterion as specified in the 2016 revised Implementing Rules
+     and Regulations (IRR) of Republic Act (RA) No. 9184.
+
+     Bidding  is  restricted  to  Filipino  citizens/sole  proprietorships,  partnerships,  or
+      organizations with at least sixty percent (60%) interest or outstanding capital stock
+     belonging to citizens of the Philippines, and to citizens or organizations of a country the
+     laws or regulations of which grant similar rights or privileges to Filipino citizens,
+     pursuant to RA No. 5183.
+
+4.    Prospective Bidders may obtain further information from DICT and inspect the Bidding
+     Documents at the address given below during office hours from 9:00 AM to 4:00 PM.
+
+5.  A complete set of Bidding Documents may be acquired by interested Bidders on August
+      31, 2024, from the given address and website(s) below, and upon payment of the
+      applicable fee for the Bidding Documents, pursuant to the latest Guidelines issued by the
+    GPPB, in the amount of TWENTY-FIVE THOUSAND PESOS (PhP25,000.001).
+
+         A. Department of Information and Communications Technology
+         BAC Secretariat Office
+              3/F DICT Building, C.P. Garcia Ave., Diliman, Quezon City
+              Website: www.dict.gov.ph
+
+          B. PhilGEPS Website
+
+     The Procuring Entity shall allow the bidder to present its proof of payment for the fees
+     by     emailing  a  copy   of   the   official   receipt   at  bac@dict.gov.ph   or
+
+
+1 In accordance with the Guidelines on the Sale of Bidding Documents of the 2016 Revised IRR of RA 9184
+https://www.gppb.gov.ph/wp-content/uploads/2023/06/SaleBiddingDocs.pdf
+
+      bac.secretariat@dict.gov.ph or presenting the official receipt in person on or before the
+      deadline of submission of bids.
+
+6.   The DICT will hold a Pre-Bid Conference on 10 September 2024 at 10:00 AM through
+     video conferencing. All prospective bidders are advised to contact the BAC Secretariat
+     through email at bac@dict.gov.ph or bac.secretariat@dict.gov.ph or landline no. (02) 8-
+     920-01-01 loc. 6108, in advance or prior to the scheduled procurement activity to get
+      log-in details for the Zoom Application meeting/Google Meet and/or any other online
+     conference facilities.
+
+7.    Bids must be duly received by the BAC Secretariat through manual/physical submission
+       at the offices address indicated below on or before 9:00 AM, September 23, 2024. Bid
+      proposals may be submitted by authorized representatives of the supplier or through
+      courier. Interested bidders that submit bids through courier must make sure that bid
+     document fees are paid and the copy of the official/acknowledgement receipt be
+     submitted   to   the  BAC   Secretariat  through   bac.secretariat@dict.gov.ph   or
+     bac@dict.gov.ph or on or before the deadline of submission of bids. Bidding documents
+      fee may be paid in cash or through bank transfer. For account details, please contact the
+   BAC Secretariat.
+
+     For submission of bids through courier service, bidders are reminded that the courier
+      service personnel must submit the bid proposal to a personnel of the BAC Secretariat
+      Division at the office address provided below. Bid submission/proposal left by the
+      courier service personnel at the lobby guard or any other personnel or staff aside from
+      the authorized BAC Secretariat personnel will not be considered “submitted” for
+     purposes of bid opening. The responsibility to ensure that the courier service personnel
+     submits the bid proposal to the authorized BAC Secretariat personnel  is the sole
+      responsibility of the prospective bidder.
+
+             Department of Information and Communications Technology
+            G/F DICT Building
+              C.P. Garcia Ave., Diliman, Quezon City
+
+     Bidders are reminded that entry inside the DICT premises are subject to the safety and
+      health protocols in place and processing of payment for the bidding documents prior to
+      the submission of the actual bid offer may take time. Presence in the DICT premises does
+      not constitute “submission on time” which shall refer to the actual hand-over of the bid
+     proposal to the authorized personnel of the BAC Secretariat.
+
+8.    All Bids must be accompanied by a bid security in any of the acceptable forms and in
+      the amount stated in ITB Clause 14. Bidders that will submit a Bid Securing Declaration
+     must use the template provided in this bidding document.
+
+9.   Bid opening shall be on 23 September, 2024 at 10:00 AM at 3rd floor, Procurement
+      Service Conference Room, DICT Building, C.P. Garcia Ave., Diliman, Quezon City and
+      via   video conferencing  application. For video conferencing application meeting
+     password,   kindly   email   the  BAC   Secretariat    at   bac@dict.gov.ph   or
+      bac.secretariat@dict.gov.ph or landline no. (02) 8-920-01-01 loc. 6108. Bidders who are
+      physically present during the opening may view and participate in the activity in a
+
+
+
+                                             7
+
+      designated area inside the DICT premises. Bidders are reminded that entry to the DICT
+     premises is subject to the health and safety protocols of the agency.
+
+10.  The DICT reserves the right to reject any and all bids, declare a failure of bidding, or not
+     award the contract at any time prior to contract award in accordance with Sections 35.6
+     and 41 of the 2016 revised IRR of RA No. 9184, without thereby incurring any liability
+      to the affected bidder or bidders.
+
+11.  For further information, please refer to:
+
+    PHILIPPE D. CORTES
+      Director IV, Procurement Service
+     Department of Information and Communications Technology
+     3/F Office of the Director for Procurement Service
+     C.P. Garcia Avenue, Diliman, Quezon City
+     Telephone No. (02) 8-920-01-01 loc. 6108
+     Email Address: bac@dict.gov.ph or bac.secretariat@dict.gov.ph
+     Website: www.dict.gov.ph
+
+12.  You may visit the following websites:
+
+             a.  www.dict.gov.ph; or
+            b. PhilGEPS Website
+
+
+
+
+                                                            (Original Signed)
+                                 HEHERSON M. ASIDDAO
+                                                     Chairperson, DICTBAC-1
+
+
+
+
+
+                                             8
+
+Section II. Instructions to Bidders
+
+
+
+
+
+                                 9
+
+1.  Scope of Bid
+
+      The Procuring  Entity, DICT wishes  to receive Bids  for the Supply, Delivery,
+       Installation and Configuration of Network Switches with Bid Reference No.
+      DICTBAC-2024-103.
+
+      The Procurement Project referred to herein as “Project” is composed of one (1) lot, the
+        details of which are described in Section VII (Technical Specifications).
+
+2.  Funding Information
+
+
+        2.1.   The Government of the Philippines (GOP) through the source of funding as
+               indicated below for FY 2023 Continuing Fund in the amount of TWENTY-SIX
+         MILLION PESOS (PHP 26,000,000.00).
+
+        2.2.   The source of funding is: National General Appropriations (NGA), the General
+              Appropriations Act.
+
+
+3.  Bidding Requirements
+
+      The Bidding for the Project shall be governed by all the provisions of RA No. 9184 and
+          its 2016 revised IRR, including  its Generic Procurement Manuals and associated
+        policies, rules and regulations as the primary source thereof, while the herein clauses
+        shall serve as the secondary source thereof.
+
+     Any amendments made to the IRR and other GPPB issuances shall be applicable only
+        to the ongoing posting, advertisement, or IB by the BAC through the issuance of a
+       supplemental or bid bulletin.
+
+      The Bidder, by the act of submitting its Bid, shall be deemed to have verified and
+       accepted the general requirements of this Project, including other factors that may affect
+       the cost, duration and execution or implementation of the contract, project, or work and
+      examine  all instructions, forms, terms, and project requirements in the Bidding
+      Documents.
+
+4.  Corrupt, Fraudulent, Collusive, and Coercive Practices
+
+      The Procuring Entity, as well as the Bidders and Suppliers, shall observe the highest
+       standard of ethics during the procurement and execution of the contract.  They or
+       through an agent shall not engage in corrupt, fraudulent, collusive, coercive, and
+       obstructive practices defined under Annex “I” of the 2016 revised IRR of RA No. 9184
+       or other integrity violations in competing for the Project.
+
+5.   Eligible Bidders
+
+        5.1.   Only Bids of Bidders found to be legally, technically, and financially capable
+               will be evaluated.
+
+
+                                            10
+
+        5.2.   Foreign ownership limited to those allowed under the rules may participate in
+                 this Project.
+
+        5.3.   Pursuant to Section 23.4.1.3 of the 2016 revised IRR of RA No.9184, the Bidder
+                shall have an SLCC that is within five (5) years contract similar to the Project
+               the value of which, adjusted to current prices using the PSA’s CPI, must be at
+                least equivalent to:
+
+                 a.  The Bidder must have completed, within the period specified in the
+                    Invitation to Bid, an SLCC that is similar to the contract to be bid, and
+               whose value, adjusted to current prices using the Philippine Statistics
+                  Authority (PSA) consumer price indices, must be at least fifty percent
+               (50%) of the ABC.
+
+        5.4.   The Bidders shall comply with the eligibility criteria under Section 23.4.1 of the
+            2016 IRR of RA No. 9184.
+
+6.  Origin of Goods
+
+      There is no restriction on the origin of goods other than those prohibited by a decision
+       of the UN Security Council taken under Chapter VII of the Charter of the UN, subject
+        to Domestic Preference requirements under ITB Clause 18.
+
+7.   Subcontracts
+
+        7.1.   The Procuring Entity has prescribed that: Subcontracting is NOT ALLOWED.
+
+8.  Pre-Bid Conference
+
+      The Procuring Entity will hold a pre-bid conference for this Project on the specified
+       date and time through videoconferencing/webcasting as indicated in paragraph 6 of the
+       IB.
+
+9.   Clarification and Amendment of Bidding Documents
+
+       Prospective bidders may request for clarification on and/or interpretation of any part of
+       the Bidding Documents.  Such requests must be in writing and received by the
+       Procuring Entity, either at its given address or through electronic mail indicated in the
+       IB, at least ten (10) calendar days before the deadline set for the submission and receipt
+       of Bids.
+
+10. Documents comprising the Bid: Eligibility and Technical Components
+
+       10.1.  The first envelope shall contain the eligibility and technical documents of the
+            Bid as specified in Section VIII (Checklist of Technical and Financial
+            Documents).
+
+       10.2.  The Bidder’s SLCC as indicated in ITB Clause 5.3 should have been completed
+              within five (5) years prior to the deadline for the submission and receipt of bids.
+
+
+                                            11
+
+       10.3.   If the eligibility requirements or statements, the bids, and all other documents
+               for submission to the BAC are in foreign language other than English, it must
+             be accompanied by a translation in English, which shall be authenticated by the
+              appropriate Philippine foreign service establishment, post, or the equivalent
+               office having jurisdiction over the foreign bidder’s affairs in the Philippines.
+              Similar to the required authentication above, for Contracting Parties to the
+               Apostille Convention, only the translated documents shall be authenticated
+             through an apostille pursuant to GPPB Resolution No. 13-2019 dated 23 May
+             2019. The English translation shall govern, for purposes of interpretation of the
+               bid.
+
+11. Documents comprising the Bid: Financial Component
+
+       11.1.  The second bid envelope shall contain the financial documents for the Bid as
+               specified in Section VIII (Checklist of Technical and Financial Documents).
+
+       11.2.   If the Bidder claims preference as a Domestic Bidder or Domestic Entity, a
+                certification issued by DTI shall be provided by the Bidder in accordance with
+              Section 43.1.3 of the 2016 revised IRR of RA No. 9184.
+
+       11.3.  Any bid exceeding the ABC indicated in paragraph 1 of the IB shall not be
+              accepted.
+
+       11.4.  For Foreign-funded Procurement, a ceiling may be applied to bid prices
+              provided the conditions are met under Section 31.2 of the 2016 revised IRR of
+         RA No. 9184.
+
+12. Bid Prices
+
+       12.1.  Prices indicated on the Price Schedule shall be entered separately in the
+              following manner:
+
+                 a.  For Goods offered from within the Procuring Entity’s country:
+
+                                  i.   The price of the Goods quoted EXW (ex-works, ex-factory, ex-
+                         warehouse, ex-showroom, or off-the-shelf, as applicable);
+
+                                ii.   The cost of all customs duties and sales and other taxes already
+                          paid or payable;
+
+                               iii.   The cost of transportation, insurance, and other costs incidental to
+                           delivery of the Goods to their final destination; and
+
+                         iv.   The price of other (incidental) services, if any, listed in the BDS.
+
+                b.  For Goods offered from abroad:
+
+                                  i.    Unless otherwise stated in the BDS, the price of the Goods shall
+                        be quoted delivered duty paid (DDP) with the place of destination
+                             in the Philippines as specified in the BDS.  In quoting the price,
+                            the Bidder shall be free to use transportation through carriers
+                                            12
+
+                             registered in any eligible country.  Similarly, the Bidder may
+                           obtain insurance services from any eligible source country.
+
+                                ii.   The price of other (incidental) services, if any, as listed in the BDS.
+
+13. Bid and Payment Currencies
+
+       13.1.  For Goods that the Bidder will supply from outside the Philippines, the bid
+               prices may be quoted in the local currency or tradeable currency accepted by the
+          BSP at the discretion of the Bidder. However, for purposes of bid evaluation,
+             Bids denominated in foreign currencies,  shall be converted to Philippine
+              currency based on the exchange rate as published in the BSP reference rate
+               bulletin on the day of the bid opening.
+
+       13.2.  Payment of the contract price shall be made in Philippine Pesos.
+
+
+14. Bid Security
+
+       14.1.  The Bidder shall submit a Bid Securing Declaration2 or any form of Bid Security
+               in the amount indicated in the BDS, which shall be not less than the percentage
+              of the ABC in accordance with the schedule in the BDS.
+
+       14.2.  The Bid and bid security shall be valid until 120 days from the Bid Submission.
+          Any Bid not accompanied by an acceptable bid security shall be rejected by the
+             Procuring Entity as non-responsive.
+
+15.  Sealing and Marking of Bids
+
+      Each Bidder shall submit one copy of the first and second components of its Bid.
+
+      The Procuring Entity may request additional hard copies and/or electronic copies of the
+       Bid. However, failure of the Bidders to comply with the said request shall not be a
+      ground for disqualification.
+
+         If the Procuring Entity allows the submission of bids through online submission or any
+       other electronic means, the Bidder shall submit an electronic copy of its Bid, which
+      must be digitally signed. An electronic copy that cannot be opened or is corrupted shall
+      be considered non-responsive and, thus, automatically disqualified.
+
+16. Deadline for Submission of Bids
+
+       16.1.  The Bidders shall submit on the specified date and time and either at its physical
+              address or through online submission as indicated in paragraph 7 of the IB.
+
+17. Opening and Preliminary Examination of Bids
+
+
+
+
+2  In the case of Framework Agreement, the undertaking shall refer to entering into contract with the Procuring Entity and
+furnishing of the performance security or the performance securing declaration within ten (10) calendar days from receipt of
+Notice to Execute Framework Agreement.
+                                            13
+
+      17.1.  The BAC shall open the Bids in public at the time, on the date, and at the place
+              specified in paragraph 9 of the IB. The Bidders’ representatives who are present
+              shall sign a register evidencing their attendance.  In case videoconferencing,
+            webcasting or other similar technologies will be used, attendance of participants
+              shall likewise be recorded by the BAC Secretariat.
+
+             In case the Bids cannot be opened as scheduled due to justifiable reasons, the
+             rescheduling requirements under Section 29 of the 2016 revised IRR of RA No.
+           9184 shall prevail.
+
+      17.2.  The preliminary examination of bids shall be governed by Section 30 of the
+           2016 revised IRR of RA No. 9184.
+
+ 18. Domestic Preference
+
+      18.1.  The Procuring Entity will grant a margin of preference for the purpose of
+            comparison of Bids in accordance with Section 43.1.2 of the 2016 revised IRR
+             of RA No. 9184.
+
+19.  Detailed Evaluation and Comparison of Bids
+
+      19.1.  The Procuring Entity’s BAC shall immediately conduct a detailed evaluation of
+                 all Bids rated “passed,” using non-discretionary pass/fail criteria. The BAC shall
+             consider the conditions in the evaluation of Bids under Section 32.2 of the 2016
+             revised IRR of RA No. 9184.
+
+      19.2.   If the Project allows partial bids, bidders may submit a proposal on any of the
+               lots or items, and evaluation will be undertaken on a per lot or item basis, as the
+             case maybe. In this case, the Bid Security as required by ITB Clause 14 shall be
+             submitted for each lot or item separately.
+
+      19.3.  The descriptions of the lots or items shall be indicated in Section VII (Technical
+              Specifications), although the ABCs of these lots or items are indicated in the
+        BDS for purposes of the NFCC computation pursuant to Section 23.4.2.6 of the
+           2016 revised IRR of RA No. 9184. The NFCC must be sufficient for the total
+             of the ABCs for all the lots or items participated in by the prospective Bidder.
+
+      19.4.  The Project shall be awarded as: One Project having several items that shall
+           be awarded as one contract.
+
+      19.5.  Except for bidders submitting a committed Line of Credit from a Universal or
+           Commercial Bank in lieu of its NFCC computation, all Bids must include the
+        NFCC computation pursuant to Section 23.4.1.4 of the 2016 revised IRR of RA
+           No. 9184, which must be sufficient for the total of the ABCs for all the lots or
+             items participated in by the prospective Bidder. For bidders submitting the
+            committed Line of Credit, it must be at least equal to ten percent (10%) of the
+         ABCs for all the lots or items participated in by the prospective Bidder.
+
+ 20.  Post-Qualification
+
+
+                                           14
+
+      20.1.  Within a non-extendible period of five (5) calendar days from receipt by the
+            Bidder of the notice from the BAC that it submitted the Lowest Calculated Bid,
+             the Bidder shall submit its latest income and business tax returns filed and paid
+            through the BIR Electronic Filing and Payment System (eFPS) and other
+             appropriate licenses and permits required by law and stated in the BDS.
+
+21. Signing of the Contract
+
+      21.1.  The documents required in Section 37.2 of the 2016 revised IRR of RA No.
+          9184 shall form part of the Contract. Additional Contract documents are
+             indicated in the BDS.
+
+
+
+
+
+                                          15
+
+Section III. Bid Data Sheet
+
+
+
+
+
+                          16
+
+            Bid Data Sheet
+ ITB
+Clause
+
+  5.3     For this purpose, contracts similar to the Project shall be:
+
+                 a.  Supply of Network Equipment
+
+               b. Completed within five (5) years prior to the deadline for the submission
+               and receipt of bids.
+
+  7.1     Subcontracting is not allowed.
+
+  12    The price of the Goods shall be quoted DDP at DICT Central Office: C.P
+         Garcia Avenue, Diliman, Quezon City  or  the  applicable  International
+         Commercial Terms (INCOTERMS) for this Project.
+
+ 14.1    The bid security shall be in the form of a Bid Securing Declaration, or any of the
+          following forms and amounts:
+
+
+                 a.  The  amount  of  not  less  than  FIVE HUNDRED TWENTY
+          THOUSAND PESOS (PHP 520,000.00) or two percent (2%) of ABC,
+                        if bid security is in cash, cashier’s/manager’s check, bank draft/guarantee
+                 or irrevocable letter of credit; or
+
+               b. The amount of not less than ONE MILLION THREE HUNDRED
+          THOUSAND PESOS (PHP 1,300,000.00) or five percent (5%) of
+            ABC, if bid security is in Surety Bond.
+
+ 19.3   No further instructions.
+
+ 20.1     Certified True Copies of the following Class “A” Documents as supporting
+         documents in Annex “A” of the PhilGEPS Registration Certificate (Platinum
+         Membership):
+
+                  I.    Registration  certificate from  Securities and Exchange Commission
+                (SEC), Department of Trade and Industry (DTI) for sole proprietorship,
+                 or Cooperative Development Authority (CDA) for cooperatives or its
+                 equivalent documents;
+                II.   Mayor’s or Business permit issued by the city or municipality where the
+                  principal place of business of the prospective bidder is located, or the
+                 equivalent document for Exclusive Economic Zones or Areas;
+              III.   Tax clearance per E.O. No. 398,  s. 2005, as finally reviewed and
+                approved by the Bureau of Internal Revenue (BIR); and
+          IV.   The Supplier’s audited financial statements, showing, among others, the
+                  Supplier’s total and current assets and liabilities, stamped “received” by
+                  the BIR or  its duly accredited and authorized  institutions, for the
+
+
+
+                                          17
+
+               preceding calendar year which should not be earlier than two (2) years
+              from the date of bid submission.
+
+21.1   No further instructions.
+
+
+
+
+
+                                         18
+
+Section IV. General Conditions of Contract
+
+
+
+
+
+                                          19
+
+1.   Scope of Contract
+
+      This Contract shall include all such items, although not specifically mentioned, that can
+      be reasonably inferred as being required for its completion as if such items were
+      expressly mentioned herein. All the provisions of RA No. 9184 and its 2016 revised
+      IRR, including the Generic Procurement Manual, and associated issuances, constitute
+       the primary source for the terms and conditions of the Contract, and thus, applicable in
+       contract implementation.  Herein clauses shall serve as the secondary source for the
+      terms and conditions of the Contract.
+
+      This is without prejudice to Sections 74.1 and 74.2 of the 2016 revised IRR of RA No.
+     9184 allowing the GPPB to amend the IRR, which shall be applied to all procurement
+        activities, the advertisement, posting, or invitation of which were issued after the
+       effectivity of the said amendment.
+
+      Additional requirements for the completion of this Contract shall be provided in the
+      Special Conditions of Contract (SCC).
+
+2.   Advance Payment and Terms of Payment
+
+       2.1.   Advance payment of the contract amount is provided under Annex “D” of the
+              revised 2016 IRR of RA No. 9184.
+
+       2.2.   The Procuring Entity is allowed to determine the terms of payment on the partial
+              or staggered delivery of the Goods procured, provided such partial payment
+               shall correspond to the value of the goods delivered and accepted in accordance
+             with prevailing accounting and auditing rules and regulations. The terms of
+            payment are indicated in the SCC.
+
+       2.3.   For a single-year Framework Agreement, prices charged by the Supplier for
+           Goods delivered and/or services performed under a Call-Off shall not vary from
+              the prices quoted by the Supplier in its bid.
+
+       2.4.   For multi-year Framework Agreement, prices charged by the Supplier for
+           Goods delivered and/or services performed under a Call-Off shall not vary from
+              the prices quoted by the Supplier during conduct of Mini-Competition.
+
+3.   Performance Security
+
+      Within ten (10) calendar days from receipt of the Notice of Award by the Bidder from
+       the Procuring Entity but in no case later than the signing of the Contract by both parties,
+       the successful Bidder shall furnish the performance security in any of the forms
+      prescribed in Section 39 of the 2016 revised IRR of RA No. 9184.
+
+4.    Inspection and Tests
+
+     The Procuring Entity or its representative shall have the right to inspect and/or to test
+       the Goods to confirm their conformity to the Project specifications at no extra cost to
+       the Procuring Entity in accordance with the Generic Procurement Manual. In addition
+       to tests in the SCC, Section VII (Technical Specifications) shall specify what
+
+                                           20
+
+       inspections and/or tests the Procuring Entity requires, and where they are to be
+      conducted.  The Procuring Entity shall notify the Supplier in writing, in a timely
+      manner, of the identity of any representatives retained for these purposes.
+
+      All reasonable  facilities and assistance for the inspection and testing of Goods,
+      including access to drawings and production data, shall be provided by the Supplier to
+       the authorized inspectors at no charge to the Procuring Entity.
+
+5.   Warranty
+
+      5.1    In order to assure that manufacturing defects shall be corrected by the Supplier,
+             a warranty shall be required from the Supplier as provided under Section 62.1
+              of the 2016 revised IRR of RA No. 9184.
+
+      5.2   The Procuring Entity shall promptly notify the Supplier in writing of any claims
+               arising under this warranty. Upon receipt of such notice, the Supplier shall,
+               repair or replace the defective Goods or parts thereof without cost to the
+             Procuring Entity, pursuant to the Generic Procurement Manual.
+
+6.    Liability of the Supplier
+
+     The Supplier’s liability under this Contract shall be as provided by the laws of the
+      Republic of the Philippines.
+
+        If the Supplier is a joint venture, all partners to the joint venture shall be jointly and
+       severally liable to the Procuring Entity.
+
+
+
+
+
+                                           21
+
+Section V. Special Conditions of Contract
+
+
+
+
+
+                                        22
+
+          Special Conditions of Contract
+
+
+GCC
+Clause
+
+  1      Delivery and Documents –
+
+
+          For purposes of the Contract, “EXW,” “FOB,” “FCA,” “CIF,” “CIP,” “DDP”
+         and other trade terms used to describe the obligations of the parties shall have
+           the meanings assigned to them by the current edition of INCOTERMS
+          published by the International Chamber of Commerce, Paris.  The Delivery
+          terms of this Contract shall be as follows:
+
+         [For Goods supplied from abroad, state:] “The delivery terms applicable to the
+          Contract are DDP delivered at DICT Central Office: C.P Garcia Avenue, Diliman,
+         Quezon City. In accordance with INCOTERMS.”
+
+         [For Goods supplied from within the Philippines, state:] “The delivery terms
+           applicable to this Contract are delivered at DICT Central Office: C.P Garcia
+         Avenue, Diliman, Quezon City. Risk and title will pass from the Supplier to
+           the Procuring Entity upon receipt and final acceptance of the Goods at their final
+           destination.”
+
+          Delivery of the Goods shall be made by the Supplier in accordance with the
+          terms specified in Section VI (Schedule of Requirements).
+
+
+          For purposes of this Clause the Procuring Entity’s Representative at the Project
+           Site is Antonio Edward E. Padre.
+
+          Incidental Services –
+
+         The Supplier is required to provide all of the following services, including
+           additional services, if any, specified in Section VI. Schedule of Requirements:
+
+                   a.   Performance or supervision of on-site assembly and/or start-up of
+                      the supplied Goods;
+
+                  b.   Furnishing of a detailed operations and maintenance manual for each
+                      appropriate unit of the supplied Goods;
+
+                   c.   Performance or supervision or maintenance and/or repair of the
+                     supplied Goods, for a period of time agreed by the parties, provided
+                        that this service shall not relieve the Supplier of any warranty
+                      obligations under this Contract; and
+
+
+
+
+
+                                          23
+
+The Contract price for the Goods shall include the prices charged by the
+Supplier for incidental services and shall not exceed the prevailing rates charged
+to other parties by the Supplier for similar services.
+
+Spare Parts –
+
+
+The Supplier is required to provide all of the following materials, notifications,
+and information pertaining to spare parts manufactured or distributed by the
+Supplier:
+
+    a.  such spare parts as the Procuring Entity may elect to purchase from the
+       Supplier, provided that this election shall not relieve the Supplier of any
+       warranty obligations under this Contract; and
+
+The spare parts and other components required are listed in Section VII
+(Technical Specifications) and the costs thereof are included in the contract
+price.
+
+The Supplier shall carry sufficient inventories to assure ex-stock supply of
+consumable spare parts or components for the Goods for a period of 12 months.
+
+
+Spare parts or components shall be supplied as promptly as possible, but in any
+case, within the warranty period after delivery.
+
+
+Packaging –
+
+The Supplier shall provide such packaging of the Goods as is required to prevent
+their damage or deterioration during  transit to  their  final destination, as
+indicated in this Contract.  The packaging shall be sufficient to withstand,
+without limitation, rough handling during transit and exposure to extreme
+temperatures, salt and precipitation during transit, and open storage. Packaging
+case size and weights shall take into consideration, where appropriate, the
+remoteness of the Goods’ final destination and the absence of heavy handling
+facilities at all points in transit.
+
+The packaging, marking, and documentation within and outside the packages
+shall comply strictly with such special requirements as shall be expressly
+provided for in the Contract, including additional requirements, if any, specified
+below, and in any subsequent instructions ordered by the Procuring Entity.
+
+
+
+The outer packaging must be clearly marked on at least four (4) sides as follows:
+
+
+
+
+
+                               24
+
+Name of the Procuring Entity
+
+Name of the Supplier
+
+Contract Description
+
+Final Destination
+
+Gross weight
+
+Any special lifting instructions
+
+Any special handling instructions
+
+Any relevant HAZCHEM classifications
+
+A packaging list identifying the contents and quantities of the package is to be
+placed on an accessible point of the outer packaging if practical. If not practical
+the packaging list is to be placed inside the outer packaging but outside the
+secondary packaging.
+
+Transportation –
+
+Where the Supplier is required under Contract to deliver the Goods CIF, CIP,
+or DDP, transport of the Goods to the port of destination or such other named
+place of destination in the Philippines, as shall be specified in this Contract,
+shall be arranged and paid for by the Supplier, and the cost thereof shall be
+included in the Contract Price.
+
+Where the Supplier is required under this Contract to transport the Goods to a
+specified place of destination within the Philippines, defined as the Project Site,
+transport to such place of destination in the Philippines, including insurance and
+storage, as shall be specified in this Contract, shall be arranged by the Supplier,
+and related costs shall be included in the contract price.
+
+Where the Supplier is required under Contract to deliver the Goods CIF, CIP or
+DDP, Goods are to be transported on carriers of Philippine registry. In the event
+that no carrier of Philippine registry is available, Goods may be shipped by a
+carrier which is not of Philippine registry provided that the Supplier obtains and
+presents to the Procuring Entity certification to this effect from the nearest
+Philippine consulate to the port of dispatch.  In the event that carriers of
+Philippine registry are available but their schedule delays the Supplier in its
+performance of this Contract the period from when the Goods were first ready
+for shipment and the actual date of shipment the period of delay will be
+considered force majeure.
+
+The Procuring Entity accepts no liability for the damage of Goods during transit
+other than those prescribed by INCOTERMS for DDP deliveries. In the case
+of Goods supplied from within the Philippines or supplied by domestic
+Suppliers risk and title will not be deemed to have passed to the Procuring Entity
+until their receipt and final acceptance at the final destination.
+
+
+
+
+
+                               25
+
+         Intellectual Property Rights –
+
+       The Supplier shall indemnify the Procuring Entity against all third-party claims
+         of infringement of patent, trademark, or industrial design rights arising from use
+         of the Goods or any part thereof.
+
+2.2      Full payment shall be made upon the complete Delivery, Configuration,
+         Inspection, and Issuance of Certificate of Final Acceptance and submission
+         of payment documents for Supply, Delivery and Configuration of Network
+        Switches for DICT.
+
+ 4     The requirements for testing and acceptance are specified in Section VII
+        (Technical Specifications).
+
+
+
+
+
+                                        26
+
+    Section VI. Schedule of Requirements
+
+ The delivery schedule expressed as weeks/months stipulates hereafter a delivery date which is
+ the date of delivery to the project site.
+
+  Item                                                                     Delivered,
+                  Description         Quantity         Total
+Number                                                     Weeks/Months
+
+                                                                    Within Sixty (60)
+           Supply,           Delivery,
+                                                                           calendar    days
+   1       Installation            and     1 lot    PHP 26,000,000.00                                                               upon  receipt  of
+           Configuration  of  Network
+                                                                              the   Notice   to
+           Switches
+                                                                     Proceed (NTP)
+
+
+
+
+
+ _____________________         ________________________      _______________
+   Name of Company              Signature Over Printed Name             Date
+                                     of Authorized Representative
+
+
+
+
+
+                                             27
+
+Section VII. Technical Specifications
+
+
+
+
+
+                                    28
+
+             Technical Specifications
+
+
+Bidders must state here either “Comply” or “Not Comply” against each of the individual
+parameters of each Specification stating the corresponding performance parameter of the
+equipment offered. Statements of “Comply” or “Not Comply” must be supported by evidence
+in a Bidders Bid and cross-referenced to that evidence, when applicable. Evidence shall be in
+the form  of  manufacturer’s un-amended  sales  literature,  unconditional  statements  of
+specification and compliance issued by the manufacturer, samples, independent test data etc.,
+as appropriate. A statement that is not supported by evidence or is subsequently found to be
+contradicted by the evidence presented will render the Bid under evaluation liable for
+rejection.  A statement either in the Bidder's statement of compliance or the supporting
+evidence that is found to be false either during Bid evaluation, post-qualification or the
+execution of the Contract may be regarded as fraudulent and render the Bidder or supplier
+liable for prosecution subject to the applicable laws and issuances.
+
+
+
+                                                                  Statement of
+     Item                            Specification
+                                                              Compliance
+
+Supply, Delivery, Installation and Configuration of Network Switches
+
+1                 Project Procurement Boundaries
+
+
+1.1           Minimum Technical Specifications
+
+
+1.1.1            Core Switch (2 units)
+
+
+1.1.1.1           Switch Type
+              ● Should be high-performance, fixed-form switches for leaf,
+                        spine, aggregation, or core applications
+              ● Core switch, distribution switch, and POE switch should be
+                       of the same brand or same manufacturer
+
+1.1.1.2            Ports   and  its transceivers
+              SFP+ ports:
+              ●  at least 48 x 1/10 GbE ports
+              ● should include 24 SR transceivers and 24 LR transceivers
+              ● should include at least 10 meter 24 units multi-mode cable
+              ● should include at least 10 meter 24 units single-mode cable
+                 QSFP28 ports:
+              ●  at least 8 x 40/100GbE QSFP28 ports
+              ● should include 6 QSFP28 100G AOC at least 20 meter
+                      cable
+                   console port:
+              ●  at least 1 x Serial console port RJ-45
+              ● 1 x 10/100/1000BASE-T out-of-band management port
+
+
+                                            29
+
+              ● USB Type A storage port
+
+
+1.1.1.3            Switching Capacity
+                 At least 4 Tbps Switching Capacity (2 Tbps ingress, 2 Tbps
+                    egress)
+
+1.1.1.4          Management
+                 on-box management can be done manually via a web-based
+              GUI or generic CLI.
+
+1.1.1.5           Forwarding Rate
+                 At least 1000 Mpps
+
+1.1.1.6         CPU/ Memory
+              ●  at least 8-core Processor
+              ●  at least 16GB DDR4 memory
+              ●  at least 128GB SSD memory
+
+1.1.1.7           Packet Buffer
+                 At least 32MB
+
+1.1.1.8          Power Supply
+                 Modular 800W AC power supply (up to two PSUs)
+
+1.1.1.9           Fans
+                 At least 6 fan modules
+
+1.1.1.11        IEEE 802.3 Media Access Standards
+              ● IEEE 802.3ab 1000BASE-T
+              ● IEEE 802.3ae 10GBASE-X
+              ● IEEE 802.3ba/802.3bm 40 GBASE-X and 100 GBASE-X
+
+1.1.1.12      MAC Table
+                 At least 290,000 addresses
+
+1.1.1.13          IPv4 ARP Table
+                 At least 180,000 addresses
+
+1.1.1.14        VLANs
+              Maximum of 4,094 VLANS
+
+1.1.1.15           Policy Profiles
+                 At least 60 policy profiles
+
+1.1.1.16        QoS Egress Queues per port
+                 At least 8 Queues
+
+1.1.1.17      MAC Security
+             ● Lockdown
+             ● Limit
+
+
+                                            30
+
+1.1.1.18          Other Features
+                 must have all of the following:
+              ● LACP
+              ● Stackable
+              ● Non-blocking, wire-speed design
+              ● Software redundant port
+              ● Link Fault Signaling (LFS)
+              ● CPU DoS protect
+              ● CPU Monitoring
+
+1.1.1.19            Electrical
+                 must include power cable (compatible with the existing power
+                    source)
+
+1.1.2              Distribution Switch (2 units)
+
+1.1.2.1           Switch Type
+              ● Should high-performance, fixed-form switches for leaf,
+                        spine, aggregation, or core applications
+              ● Core switch, distribution switch, and POE switch should be
+                       of the same brand or same manufacturer
+
+1.1.2.2            Ports and its transceivers
+              SFP+ ports:
+              ●  at least 48 x 1/10GbE ports
+              ● should include 24 SR transceivers and 24 LR transceivers
+              ● should include at least 10 meter 24 units multi-mode cable
+              ● should include at least 10 meter 24 units single-mode cable
+                 QSFP28 ports:
+              ●  at least 8 x 40/100GbE QSFP28 ports
+              ● should include 6 QSFP28 100G AOC at least 20 meter
+                      cable
+                   console port:
+              ●  at least 1 x Serial console port RJ-45
+              ● 1 x 10/100/1000BASE-T out-of-band management port
+              ● USB Type A storage port
+
+1.1.2.3            Switching Capacity
+                 At least 4 Tbps Switching Capacity (2 Tbps ingress, 2 Tbps
+                    egress)
+
+1.1.2.4          Management
+                 on-box management can be done manually via a web-based
+              GUI or generic CLI.
+
+1.1.2.5           Operating System
+                  Dual-persona hardware allows user choice of switch operating
+                   systems.
+
+
+
+                                            31
+
+1.1.2.6           Forwarding Rate
+                 At least 1000 Mpps
+
+1.1.2.7         CPU/Memory
+              ●  at least 8-core Processor
+              ●  at least 16GB DDR4 memory
+              ●  at least 128GB SSD memory
+
+1.1.2.8           Packet Buffer
+                 At least 32MB
+
+1.1.2.9          Power Supply
+                 Modular 800W AC power supply (up to two PSUs)
+
+1.1.2.10          Fans
+                 At least 6 fan modules
+
+1.1.2.12        IEEE 802.3 Media Access Standards
+              ● IEEE 802.3ab 1000BASE-T
+              ● IEEE 802.3ae 10GBASE-X
+              ● EEE 802.3ba/802.3bm 40 GBASE-X and 100 GBASE-X
+
+1.1.2.13      MAC Table
+                 At least 290,000 addresses
+
+1.1.2.14          IPv4 ARP Table
+                 At least 180,000 addresses
+
+1.1.2.15        VLANs
+              Maximum of 4,094 VLANS
+
+1.1.2.16           Policy Profiles
+                 At least 60 policy profiles
+
+1.1.2.17        QoS Egress Queues per port
+                 At least 8 Queues
+
+1.1.2.18          Other Features
+
+               must have all of the following:
+              ● LACP
+              ● Stackable
+              ● Non-blocking, wire-speed design
+              ● Software redundant port
+              ● Link Fault Signaling (LFS)
+              ● CPU DoS protect
+              ● CPU Monitoring
+
+1.1.2.19            Electrical
+                 must include power cable (compatible with the existing power
+                    source)
+
+
+                                            32
+
+1.1.3         POE Switch (14 units)
+
+1.1.3.1           Switch Type
+              ● Should be high-performance, feature-rich, stackable edge
+                       switches.
+              ● Core switch, distribution switch, and POE switch should be
+                       of the same brand or same manufacturer
+
+1.1.3.2         PoE+ ports
+              ●  at least 48 x 10/100/1000BASE-T 802.3at (30W) ports, 4 x
+                   1/10Gb SFP+
+              ● SFP/SFP+ Ports: 4 ports (should include SR transceivers on
+                            all SFP ports)
+              ● 1 x Serial console port (RJ-45)
+              ● 1 x 10/100/1000BASE-T out-of-band management port
+              ● 1 x USB A ports for management or external USB flash
+              ● 1 x USB Micro-B console port
+
+1.1.3.3         PoE Power Budget
+                 At least 740 W
+
+1.1.3.4         CPU/Memory
+              ●  at least 1-core, 1.7GHz x86 ARM CPU (Cortex A72)
+              ●  at least 1 GB DDR4 ECC memory
+              ●  at least 4 MB packet buffer per chip
+
+1.1.3.7            Switching Capacity
+                 At least 250 Gbps
+
+1.1.3.8           Forwarding Rate
+                 At least 190 Mpps
+
+1.1.3.9         IEEE 802.3 Media Access Standards
+              ● IEEE 802.3ab 1000BASE-T
+              ● IEEE 802.3ae 10GBASE-X
+              ● IEEE 802.3aq 10GBASE-LRM
+              ● IEEE 802.3az Energy Efficient Ethernet
+
+1.1.3.10         Redundancy
+                 Redundant power supply
+
+1.1.3.11      MAC Table
+                 At least 32,000 addresses
+
+1.1.3.12          IPv4 ARP Table
+                 At least 16,000 addresses
+
+1.1.3.13        QoS Egress Queues/Port
+                 At least 8 Queues
+
+
+
+                                            33
+
+1.1.3.14        VLANs
+              Maximum of 4,094 VLANS
+
+1.1.3.15         Management
+                On-box management can be done manually via a web based
+              GUI or generic command-line interface (CLI)
+
+1.1.3.16          Other Features
+                 must have all of the following:
+              ● LACP
+              ● Stackable
+              ● Non-blocking, wire-speed design
+              ●  Software redundant port
+              ● Link Fault Signaling (LFS)
+              ● CPU DoS protect
+              ● CPU Monitoring
+
+1.1.3.17            Electrical
+                 must include power cable (compatible with the existing power
+                    source)
+
+1.2                All equipment must have at least one (1) year warranty and
+                   support for parts and service.
+
+
+1.3                Deliverables
+              ● Brand New with all bundled accessories
+              ● Documentation - Manuals, Warranty Certificate
+              ● Complete proper configuration, setup, and installation for
+                      Switches.
+
+2              Warranty Security
+                The obligation for the warranty shall be covered by either
+                     retention money or a special bank guarantee equivalent to one
+                    percent (1%) of the total contract price. The said amounts shall
+                   only be released after the lapse of the warranty period.
+
+3                Liquidated Damages
+                   Liquidated damages equivalent to one-tenth of one percent
+                  (0.1%) of the cost of the unperformed/undelivered portion for
+                   every day of delay shall be imposed. The DICT may rescind
+                    the  contract  once  the  cumulative amount  of  liquidated
+                damages reaches ten percent (10%) of the amount of the
+                     contract, without prejudice to other courses of action and
+                  remedies open to it.
+
+4                 Product/Service/Results Acceptance Criteria
+              ● Upon delivery, an inspection team will be conducting an
+                       inspection of the delivered equipment.
+
+
+
+                                            34
+
+              ● The inspection Team must see to  it that the delivered
+                    equipment and licenses is Brand New and in good working
+                        conditions.
+              ●  Specifications must be equal  or higher  to  the  users’
+                 minimum technical specifications enumerated in the Terms
+                       of Reference.
+              ● Must see to it that the parts and accessories are complete
+                      including manuals.
+
+
+
+
+
+_____________________         ________________________      _______________
+   Name of Company              Signature Over Printed Name             Date
+                                    of Authorized Representative
+
+
+
+
+
+                                            35
+
+Required Forms
+
+
+
+
+
+                        36
+
+ 1.    Templates
+
+      Templates for the following are provided herewith:
+
+            ●  Bid Form for the Procurement of Goods;
+            ●  Price Schedule for Goods Offered from Abroad;
+            ●  Price Schedule for Goods Offered from Within the Philippines;
+            ●  Bid Securing Declaration; and
+            ●  Omnibus Sworn Statement.
+
+       Pursuant to Section 5.3 of Government Procurement Policy Board Circular No. 04-
+       2020, bidders are highly encouraged to use the templates provided to minimize errors
+       or omissions in the forms submitted. However, failure to use said templates is not a
+      ground for disqualification, provided that the form submitted includes all the mandatory
+       provisions required in the 2016 revised IRR of RA No. 9184 and  its associated
+       issuances as identified in the following section.
+
+2.    Mandatory Provisions of Required Forms
+
+      The Required Forms to be submitted by Bidders shall contain the following:
+
+
+              Required Forms                  Mandatory Provisions
+
+
+       a. Bid Form                                                 i. Bid prices in figures and in words; and
+
+                                                                           ii. The Bid price shall include the cost of
+                                                             all taxes, such as, but not limited to, value
+                                          added tax, income tax, local taxes, and
+                                                 other fiscal levies and duties which shall
+                                               itemized in the bid form and reflected in
+                                                 the price schedule or detailed estimates.
+
+
+      b. Price Schedule                           Prices indicated in the Price Schedule shall
+                                           be  entered  separately  in  the following
+                                           manner:
+
+                                                                            i. For Goods offered from within the PE’s
+                                                country:
+
+                                                        1. The price of the Goods quoted EXW
+                                               (ex works, ex factory, ex warehouse, ex
+                                        showroom, or off-the-shelf, as applicable);
+
+                                                        2. The cost of all sales and other taxes
+                                                already paid or payable;
+
+
+
+
+
+                                            37
+
+                                                 3. The cost of transportation, insurance,
+                                      and other costs incidental to delivery of
+                                             the Goods to their final destination; and
+
+                                                 4.  The  price  of  other  (incidental)
+                                                services, if any.
+
+                                                                   ii. For Goods offered from abroad:
+
+                                                 1. The price of the Goods shall be quoted
+                                          Delivered Duty Paid with the place of
+                                              destination in the Philippines;
+
+                                                 2.  The  price  of  other  (incidental)
+                                                services, if any; and
+
+                                                 3. For Services, based on the form which
+                                may  be  prescribed  by  the  PE,  in
+                                         accordance with existing laws, rules and
+                                               regulations.
+
+
+c. Bid Securing Declaration                        i. Bidder shall enter into contract with the
+                              PE and furnish the required performance
+                                             security within ten (10) calendar days,
+                                     from receipt of the Notice of Award; and
+
+                                                                   ii. Bidder accepts that:
+
+                                                1.  It shall be automatically disqualified
+                                      from  bidding  for  any  procurement
+                                              contract with any PE for a period of two
+                                               (2) years upon receipt of the Blacklisting
+                                          Order; and
+
+                                                 2. It will pay the applicable fine provided
+                                        under the Guidelines on the Use of Bid
+                                         Securing Declaration, within fifteen (15)
+                                        days from receipt of the written demand
+                                     by the PE for the commission of acts
+                                               resulting to the enforcement of the Bid
+                                         Securing Declaration under the pertinent
+                                            provisions of the IRR of RA No. 9184,
+                                      and its associated issuances.
+
+
+d. Omnibus Sworn Statement                       i. The signatory  is the duly authorized
+                                            representative of the Bidder, and granted
+                                                   full power and authority to do, execute and
+                                       perform any and  all  acts necessary  to
+                                                participate, submit the bid, and to sign and
+
+
+                                       38
+
+    execute the ensuing contract accompanied
+   by relevant notarized document;
+
+      ii. Bidder is not “blacklisted” or barred
+   from bidding by the Government of the
+    Philippines or any of its agencies, offices,
+    corporations, or local government units,
+    including foreign government/foreign or
+    international financing institution whose
+    blacklisting rules have been recognized by
+    the GPPB,  by  itself  or  by  relation,
+    membership,  association,  affiliation,  or
+    controlling    interest    with    another
+    blacklisted person or entity as defined and
+    provided for in the Uniform Guidelines on
+    Blacklisting.
+
+      iii. Each of the documents submitted in
+    satisfaction of the bidding requirements is
+    an authentic copy of the original, complete,
+   and   all  statements  and  information
+    provided therein are true and correct;
+
+     iv. Bidder authorizes the HoPE or his/her
+    duly authorized representative/s to verify
+     all the documents submitted;
+
+    v. Bidder complies with the disclosure
+    provision under Section 47 of RA No.
+   9184 and its 2016 revised IRR, in relation
+    to other provisions of RA No. 3019;
+
+     vi. Bidder complies with existing labor
+    laws and standards;
+
+     vii.    Bidder    complies    with    the
+    responsibilities of a prospective or eligible
+    bidder provided in the PBDs;
+
+     viii. Bidder did not give or pay, directly or
+     indirectly, any commission, amount, fee,
+    or any form of consideration, pecuniary or
+    otherwise,  to  any  person  or  official,
+    personnel   or   representative   of   the
+    government in relation to any Procurement
+    Project or activity; and
+
+     ix. In case advance payment was made or
+    given, failure to perform or deliver any of
+    the obligations and undertakings in the
+
+
+
+39
+
+                                            contract  shall be  sufficient grounds  to
+                                              constitute criminal liability for Swindling
+                                             (Estafa) or the commission of fraud with
+                                            unfaithfulness  or  abuse  of  confidence
+                                        through  misappropriating  or  converting
+                                     any payment received by a person or entity
+                                       under an obligation involving the duty to
+                                             deliver certain goods or services, to the
+                                           prejudice of the public and the government
+                                           of the Philippines pursuant to Article 315
+                                           of Act No. 3815 s. 1930, as amended, or
+                                            the Revised Penal Code.
+
+
+e. Other Required Forms on  the Bid    i. Security is posted in favor of the PE;
+Security  aside from  the Bid Securing
+Declaration                                                 ii. Amount  of  the  Security, which  is
+                                      denominated in Philippine pesos, which
+                                        should  not  be  less  than  the  required
+f. Performance Security                                           percentage, as follows: 1. For Bid Security,
+                                       based on  the ABC  to be  bid;  2. For
+                                      Performance Security, based on the Totalg. Warranty Security
+                                         Contract  Price;  and  3.  For  Warranty
+                                             Security, based on the required percentage
+                                           of the Progress Payment or Total Contract
+                                              Price;
+
+                                                                  iii.  Validity  period,  which  should  be
+                                        corresponding to the timeframe provided
+                                              in the 2016 revised IRR of RA No. 9184
+                                     and its associated issuances;
+
+                                                    iv. Respective obligation or undertaking
+                                                that is guaranteed relative to the faithful
+                                       performance of the responsibilities stated
+                                              in the  relevant provisions of the 2016
+                                           revised IRR; and
+
+                                               v. For surety bonds,  it shall be callable
+                                    upon demand  issued  by  a  surety  or
+                                          insurance company duly certified by the
+                                         Insurance Commission as authorized to
+                                            issue such security.
+
+
+h. Statement  of  the Bidder  of  all  its    i. Names of outstanding contracts with
+ongoing   government   and    private  other contracting party, i.e., PE or private
+contracts, including contracts awarded but  company allowed by the rules, contract
+not yet started                                date, period and amount or value; and
+
+
+
+
+                                       40
+
+                                                                   ii. For Goods, kinds of Goods and dates of
+                                              delivery.
+
+
+i. Statement of the Bidder’s SLCC similar    i. Name of the completed contract with
+to the contract to be bid                     contract date, period and amount, which
+                                        should   correspond   to   the   required
+                                         percentage of the ABC to be bid. The value
+                                                     is adjusted to the current prices using the
+                                           Philippine Statistics Authority consumer
+                                             price indices, when necessary;
+
+                                                                   ii. For Goods,  the  relevant  period  or
+                                            delivery date when the said SLCC was
+                                        completed;  end  user’s  acceptance  or
+                                                 official receipt(s) or sales invoice issued
+                                              for the contract, if completed; and
+
+                                                                  iii. Definition or description of the similar
+                                             project or major categories of work.
+
+
+j. Owner’s Certificate of Acceptance or    i. For Owner’s Certificate of Acceptance:
+CPES rating accompanying the Statement
+of the Bidder’s SLCC                          1. Name of project owner that issued the
+                                                    certificate;
+
+                                                 2. Name of Contractor/Constructor;
+
+                                                 3. Name of Contract; and
+
+                                                 4. Contract Duration
+
+                                                                   ii. For CPES rating, a final rating of at least
+                                              Satisfactory.
+
+                                      For contracts with the private sector, an
+                                           equivalent document shall be submitted.
+
+
+k. Bidder’s Computation  of NFCC or    i. For NFCC Computation:
+committed  Line  of  Credit (CLC)  for
+Goods                                          1. ABC to be bid;
+
+                                                 2. Amount or value of bidder’s current
+                                               assets  based  on  Audited  Financial
+                                          Statements (AFS);
+
+                                                 3. Amount or value of bidder’s current
+                                                       liabilities based on AFS; and
+
+
+
+
+                                       41
+
+                                                       4. Amount or value of all outstanding or
+                                            uncompleted  portions  of  the  projects
+                                             under  ongoing   contracts,   including
+                                           awarded  contracts  yet  to  be  started,
+                                                 coinciding with the contract to be bid.
+
+                                                                           ii. For CLC:
+
+                                                       1. ABC to be bid;
+
+                                                       2. Amount, which should be at least equal
+                                                     to ten percent (10%) of the ABC; and
+
+                                                       3. Name of issuing foreign Universal or
+                                          Commercial  Bank,  as  confirmed  or
+                                                   authenticated by a  local Universal or
+                                          Commercial Bank.
+
+
+         l.  Joint Venture Agreement (JVA)  or    i. If a JVA  is already in existence, the
+     Notarized Statements as to forming JV for  contents shall include the responsibility of
+    Goods                                 each of the JV partners or its contributions
+                                                    to the JV; and
+
+                                                                           ii.  The   contents   of   the  Notarized
+                                              Statements from all potential JV partners
+                                                     shall include that:
+
+                                                            a. they will enter into and abide by the
+                                                  provisions of the JVA in the event that
+                                                   the bid is successful; and
+
+                                                       b. failure to enter into JVA in the event of
+                                               a contract award shall be a ground for bid
+                                                     disqualification     and     subsequent
+                                                       forfeiture of the bid security.
+
+
+    m. Certification as to reciprocity to foreign  Foreign bidder claiming eligibility based
+     bidders for Goods                     on  its country’s extension of reciprocal
+                                                     rights   to   Filipinos   shall  submit  a
+                                                      certification from the relevant government
+                                                    office of their country stating that Filipinos
+                                                 are  allowed   to   participate   in   their
+                                          government procurement activities for the
+                                       same item/product.
+
+                    Bid Form for the Procurement of Goods
+                               [shall be submitted with the Bid]
+_______________________________________________________________________________
+
+
+
+                                            42
+
+                              BID FORM
+                                                            Date: _________________
+
+Bid Reference No.: _________________
+
+ To:  Department of Information and Communications Technology
+
+      DICT Building, CP Garcia Avenue, Diliman Quezon City
+
+Having examined the Philippine Bidding Documents (PBDs) including the Supplemental or Bid
+Bulletin Numbers [insert numbers], the receipt of which is hereby duly acknowledged, we, the
+undersigned, offer to [supply/deliver/perform] [description of the Goods] in conformity with the said
+PBDs for the sum of [total Bid amount in words and figures] or the total calculated bid price, as
+evaluated and corrected for computational errors, and other bid modifications in accordance with the
+Price Schedules attached herewith and made part of this Bid. The total bid price includes the cost of all
+taxes, such as, but not limited to: [specify the applicable taxes, e.g. (i) value added tax (VAT), (ii)
+income tax, (iii) local taxes, and (iv) other fiscal levies and duties], which are itemized herein or in the
+Price Schedules,
+
+          If our Bid is accepted, we undertake:
+
+                 a.   to deliver the goods in accordance with the delivery schedule specified in the
+                  Schedule of Requirements of the Philippine Bidding Documents (PBDs);
+
+                 b.    to provide a performance security in the form, amounts, and within the times
+                    prescribed in the PBDs;
+
+                   c.    to abide by the Bid Validity Period specified in the PBDs and it shall remain
+                   binding upon us at any time before the expiration of that period.
+
+                 [Insert this paragraph if Foreign-Assited Project with Development Partner:
+
+Commission or gratitudes, if any, paid or to be paid by us to agents relating to this Bid, and to contract
+execution if we are awarded the contract, are listed below:
+
+Name and address Amount and Purpose of
+of agent Currency Commission or gratuity
+
+___________________________________
+___________________________________
+___________________________________
+(if none, state “None”)
+
+
+
+
+Until a formal Contract is prepared and executed, this Bid, together with your written acceptance
+thereof and your Notice of Award, shall be binding upon us.
+
+We understand that you are not bound to accept the Lowest Calculated Bid or any Bid you may receive.
+We certify/confirm that we comply with the eligibility requirements pursuant to the PBDs.
+
+The undersigned is authorized to submit the bid on behalf of [name of the bidder] as evidenced by the
+attached [state the written authority].
+
+
+                                            43
+
+We acknowledge that failure to sign each and every page of this Bid Form, including the attached
+Schedule of Prices, shall be a ground for the rejection of our bid.
+
+Name: ___________________________________________________________________
+
+Legal capacity: _____________________________________________________________
+
+Signature: ________________________________________________________________
+
+Duly authorized to sign the Bid for and behalf of: __________________________________
+
+Date: ___________________
+
+
+
+
+
+                    Price Schedule for Goods Offered from Abroad
+
+
+           [shall be submitted with the Bid if bidder is offering goods from Abroad]
+
+
+
+
+                                            44
+
+                       For Goods Offered from Abroad
+ Name of Bidder _________________________ Project ID No._________ Page ___ of ___
+
+
+
+
+
+   1        2          3         4          5         6        7          8          9
+
+
+ Item    Description   Country   Quantity    Unit price    Total   Unit Price   Unit price      Total
+                        of origin            CIF port of    CIF                                 Price
+                                                   entry                                                                or     Delivered    Delivered    delivered
+                                                   CIP
+                                                   (specify            Duty       Duty Paid   DDP
+                                                    port) or            Unpaid                                                                 price
+                                                                   (DDP)      (col 4 x                                                              per                                      CIP named                                                     (DDU)                      8)                                                          item                                                  place
+
+                                                                        (col.                                                   (specify
+                                                    4 x                                             border point
+                                                or place of
+                                                  destination)     5)
+
+
+
+
+
+Name: ___________________________________________________________________
+
+Legal Capacity: ____________________________________________________________
+
+Signature: ________________________________________________________________
+
+Duly authorized to sign the Bid for and behalf of: __________________________________
+
+
+
+
+
+            Price Schedule for Goods Offered from Within the Philippines
+
+     [shall be submitted with the Bid if bidder is offering goods from within the Philippines]
+
+                    For Goods Offered from Within the Philippines
+
+
+                                            45
+
+Name of Bidder ________________________ Project ID No._________ Page ___of___
+
+
+
+    1        2       3      4      5       6        7       8       9       10
+
+
+ Item        Descripti   Countr   Quantit   Unit   Transportat    Sales    Cost of    Total      Total
+           on         y of    y         price   ion and all     and                            Price
+                           origin                      other costs     other    Incident    Price,    delivered
+                             EX                                    al        per       Final
+                    W     incidental     taxes    Services,    unit
+                                             per         to                             if        (col     Destinati
+                                           item                 payabl   applicab             on
+                                                          delivery,      e if        le, per   5+6+7
+                                                     per item                item    +         (col 9) x
+                                                             Contra
+                                                                                 ct                   8)       (col 4)
+
+                                                                                       is
+
+                                                          awarde
+                                                                           d, per
+                                                                item
+
+
+
+
+
+Name: ___________________________________________________________________
+
+Legal Capacity: ____________________________________________________________
+
+Signature: ________________________________________________________________
+
+Duly authorized to sign the Bid for and behalf of: __________________________________
+
+
+
+                        Bid Securing Declaration Form
+     [shall be submitted with the Bid if bidder opts to provide this form of bid security]
+
+REPUBLIC OF THE PHILIPPINES)
+CITY OF _______________________) S.S.
+
+                      BID SECURING DECLARATION
+
+                                            46
+
+                                 Bid Reference No.
+
+ To:   Department of Information and Communications Technology
+
+DICT Building, CP Garcia Avenue, Diliman Quezon City
+
+ I/We, the undersigned, declare that:
+
+    1.  I/We understand that, according to your conditions, bids must be supported by a Bid Security,
+       which may be in the form of a Bid Securing Declaration.
+
+    2.  I/We undertake that I/we shall enter into contract with the PE and furnish the required
+       performance security within ten (10) calendar days, from receipt of the Notice of Award3
+
+    3. I/We accept that: (a) I/we will be automatically disqualified from bidding for any procurement
+        contract with any procuring entity for a period of two (2) years upon receipt of your
+        Blacklisting Order; and, (b) I/we will pay the applicable fine provided under Section 6 of the
+        Guidelines on the Use of Bid Securing Declaration, within fifteen (15) days from receipt of the
+        written demand by the procuring entity for the commission of acts resulting to the enforcement
+        of the bid securing declaration under Sections 23.1(b), 34.2, 40.1 and 69.1, except 69.1(f),of
+        the IRR of RA No. 9184; without prejudice to other legal action the government may
+        undertake.
+
+    4.  I/We understand that this Bid Securing Declaration shall cease to be valid on the following
+        circumstances:
+
+         a.  Upon expiration of the bid validity period, or any extension thereof pursuant to your
+            request;
+         b.   I am/we are declared ineligible or post-disqualified upon receipt of your notice to such
+              effect, and (i) I/we failed to timely file a request for reconsideration or (ii) I/we filed a
+           waiver to avail of said right; and
+         c.  I am/we are declared the bidder with the Lowest Calculated Responsive Bid, and I/we have
+            furnished the performance security and signed the Contract.
+
+IN WITNESS WHEREOF, I/We have hereunto set my/our hand/s this ____ day of [month]
+[year] at [place of execution].
+
+
+                                            [Insert NAME OF BIDDER OR ITS AUTHORIZED
+                                         REPRESENTATIVE]
+                                                                        [Insert  signatory’s  legal
+                                                                   capacity] Affiant
+                                              [Jurat]
+               [Format shall be based on the latest Rules on Notarial Practice]
+
+
+
+    Contract Agreement Form for the Procurement of Goods (Revised)
+
+  [Not required to be submitted with the Bid, but it shall be submitted within ten (10) days after receiving the
+                                           Notice of Award]
+
+
+
+3 Mandatory provision pursuant to GPPB Circular 04-2020 date 16 September 2020
+
+                                            47
+
+                 CONTRACT AGREEMENT
+
+     THIS AGREEMENT made the _____ day of __________ 20_____ between [name of
+PROCURING ENTITY] of the Philippines (hereinafter called “the Entity”) of the one part and
+[name of Supplier] of [city and country of Supplier] (hereinafter called “the Supplier”) of the
+other part;
+
+     WHEREAS,  the  Entity  invited Bids  for  certain goods and  ancillary  services,
+particularly [brief description of goods and services] and has accepted a Bid by the Supplier
+for the supply of those goods and services in the sum of [contract price in words and figures
+in specified currency] (hereinafter called “the Contract Price”).
+
+NOW THIS AGREEMENT WITNESSETH AS FOLLOWS:
+
+              1.    In this Agreement words and expressions shall have the same meanings as
+                   are respectively assigned to them in the Conditions of Contract referred to.
+
+              2.    The following documents as required by the 2016 revised Implementing
+                 Rules and Regulations of Republic Act No. 9184 shall be deemed to form
+                and be read and construed as integral part of this Agreement, viz.:
+
+                         i.  Philippine Bidding Documents (PBDs);
+
+                                       i.    Schedule of Requirements;
+                                      ii.    Technical Specifications;
+                                      iii.   General and Special Conditions of Contract; and
+                              iv.   Supplemental or Bid Bulletins, if any
+
+
+                         ii. Winning bidder’s bid, including the Eligibility requirements, Technical and
+                   Financial Proposals, and all other documents or statements submitted;
+
+              Bid form, including all the documents/statements contained in the Bidder’s
+               bidding envelopes, as annexes, and all other documents submitted (e.g.,
+               Bidder’s  response  to  request  for  clarifications on  the  bid),  including
+                corrections to the bid,  if any, resulting from the Procuring Entity’s bid
+                evaluation;
+
+                        iii. Performance Security;
+
+                   iv. Notice of Award of Contract; and the Bidder’s conforme thereto; and
+
+                  v. Other contract documents that may be required by existing laws and/or the
+                  Procuring Entity concerned in the PBDs. Winning bidder agrees that
+                  additional contract documents or information prescribed by the GPPB
+                  that are subsequently required for submission after the contract
+                  execution, such as the Notice to Proceed, Variation Orders, and
+               Warranty Security, shall likewise form part of the Contract.
+
+
+
+                                            48
+
+              3.     In consideration for the sum of [CONTRACT PRICE IN WORDS AND
+             FIGURES] or such other sums as may be ascertained, [Named of the
+                  Supplier] agrees to [state the object of the contract] in accordance with
+                     his/her/its Bid.
+
+              4.   The Entity agrees to pay the above-mentioned sum in accordance with the
+                 terms of the Bidding.
+
+              5.   Liquidated Damages. The Supplier shall pay liquidated damages if it fails
+                   to satisfactorily deliver any or all of the goods and/or to perform the
+                   services to the Entity within the period specified in the bidding documents
+                   inclusive of duly granted time extension, and for reasons or causes
+                    attributable to the Supplier. The applicable liquidated damage is equivalent
+                   to one-tenth (1/10) of one percent (1%) of the cost of the unperformed
+                  portion for every day of delay until such goods and services are finally
+                  delivered to and accepted by the Entity. In case the total sum of liquidated
+               damages reaches ten percent (10%) of the total contract price, the Entity
+             may rescind the contract and impose appropriate sanctions over and above
+                   the liquidated damages to be paid.
+
+              6.   Execution in Counterparts. This Contract Agreement may be executed by
+                   the Parties on separate counterparts, each of which when so executed and
+                  delivered shall be an original, but all of which shall together constitute one
+                and the same instrument.
+
+      IN WITNESS whereof the parties hereto have caused this Agreement to be executed
+in accordance with the laws of the Republic of the Philippines on the day and year first above
+written.
+
+            [Insert Name and Signature]                 [Insert Name and Signature]
+
+         [Insert Signatory’s Legal Capacity]             [Insert   Signatory’s   Legal
+                                                   Capacity]
+
+                 for:                                                      for:
+
+              [Insert Procuring Entity]                    [Insert Name of Supplier]
+
+
+
+
+                            Acknowledgment
+            [Format shall be based on the latest Rules on Notarial Practice]
+
+
+
+
+                    Omnibus Sworn Statement (Revised)
+                               [shall be submitted with the Bid]
+
+
+
+
+                                            49
+
+REPUBLIC OF THE PHILIPPINES)
+CITY/MUNICIPALITY OF ______) S.S.
+
+
+                            AFFIDAVIT
+
+I, [Name of Affiant], of legal age, [Civil Status], [Nationality], and residing at [Address of Affiant],
+after having been duly sworn in accordance with law, do hereby depose and state that:
+
+                      1. [Select one, delete the other:]
+
+     [If a sole proprietorship:] I am the sole proprietor or authorized representative of [Name of Bidder]
+    with office address at [address of Bidder];
+
+     [If a partnership, corporation, cooperative, or joint venture:] I am the duly authorized and
+    designated representative of [Name of Bidder] with office address at [address of Bidder];
+
+                      2. [Select one, delete the other:]
+
+     [If a sole proprietorship:] As the owner and sole proprietor, or authorized representative of [Name
+    of Bidder], I have full power and authority to do, execute and perform any and all acts necessary
+    to participate, submit the bid, and to sign and execute the ensuing contract for [Name of the Project]
+    of the [Name of the Procuring Entity], as shown in the attached duly notarized Special Power of
+    Attorney;
+
+     [If a partnership, corporation, cooperative, or joint venture:] I am granted full power and authority
+    to do, execute and perform any and all acts necessary to participate, submit the bid, and to sign and
+    execute the ensuing contract for [Name of the Project] of the [Name of the Procuring Entity], as
+   shown in the attached [state title of attached document showing proof of authorization (e.g., duly
+    notarized Secretary’s Certificate, Board/Partnership Resolution, or Special Power of Attorney,
+    whichever is applicable;)];
+
+3. [Name of Bidder] is not “blacklisted” or barred from bidding by the Government of the Philippines
+    or  any  of   its  agencies,  offices,  corporations,  or  Local  Government  Units,  foreign
+    government/foreign or international financing institution whose blacklisting rules have been
+    recognized by the Government Procurement Policy Board, by itself or by relation, membership,
+    association, affiliation, or controlling interest with another blacklisted person or entity as
+    defined and provided for in the Uniform Guidelines on Blacklisting;
+
+4.  Each of the documents submitted in satisfaction of the bidding requirements is an authentic copy
+    of the original, complete, and all statements and information provided therein are true and correct;
+
+5. [Name of Bidder] is authorizing the Head of the Procuring Entity or its duly authorized
+representative(s) to verify all the documents submitted;
+
+6. [Select one, delete the rest:]
+
+     [If a sole proprietorship:] The owner or sole proprietor is not related to the Head of the
+    Procuring Entity, members of the Bids and Awards Committee (BAC), the Technical Working
+   Group, and the BAC Secretariat, the head of the Project Management Office or the end-user unit,
+   and the project consultants by consanguinity or affinity up to the third civil degree;
+
+     [If a partnership or cooperative:] None of the officers and members of [Name of Bidder] is related
+    to the Head of the Procuring Entity, members of the Bids and Awards Committee (BAC), the
+
+
+                                            50
+
+    Technical Working Group, and the BAC Secretariat, the head of the Project Management Office
+    or the end-user unit, and the project consultants by consanguinity or affinity up to the third civil
+    degree;
+
+     [If a corporation or joint venture:] None of the officers, directors, and controlling stockholders of
+   [Name of Bidder] is related to the Head of the Procuring Entity, members of the Bids and Awards
+   Committee (BAC), the Technical Working Group, and the BAC Secretariat, the head of the Project
+   Management Office or the end-user unit, and the project consultants by consanguinity or affinity
+   up to the third civil degree;
+
+7. [Name of Bidder] complies with existing labor laws and standards; and
+
+8. [Name of Bidder] is aware of and has undertaken the responsibilities as a Bidder in compliance
+   with the Philippine Bidding Documents, which includes:
+           a.   Carefully examining all of the Bidding Documents;
+          b.   Acknowledging all conditions, local or otherwise, affecting the implementation of the
+         Contract;
+           c.   Making an estimate of the facilities available and needed for the contract to be bid, if
+              any; and
+          d.   Inquiring or securing Supplemental/Bid Bulletin(s) issued for the [Name of the Project].
+
+9. [Name of Bidder] did not give or pay directly or indirectly, any commission, amount, fee, or any
+   form of consideration, pecuniary or otherwise, to any person or official, personnel or representative
+    of the government in relation to any procurement project or activity.
+
+10. In case advance payment was made or given, failure to perform or deliver any of the
+     obligations and undertakings in the contract shall be sufficient grounds to constitute
+    criminal liability for Swindling (Estafa) or the commission of fraud with unfaithfulness or
+    abuse of confidence through misappropriating or converting any payment received by a
+    person or entity under an obligation involving the duty to deliver certain goods or services,
+     to the prejudice of the public and the government of the Philippines pursuant to Article 315
+     of Act No. 3815 s. 1930, as amended, or the Revised Penal Code.
+
+
+IN WITNESS WHEREOF, I have hereunto set my hand this __ day of ___, 20__ at ____________,
+Philippines.
+
+                                            [Insert NAME OF BIDDER OR ITS AUTHORIZED
+                                         REPRESENTATIVE]
+                                                        [Insert signatory’s legal capacity]
+
+                                                                  Affiant
+
+                                              [Jurat]
+               [Format shall be based on the latest Rules on Notarial Practice]
+
+
+
+
+
+                                            51
+
+ Section VIII. Checklist of Technical and
+         Financial Documents
+
+
+
+
+
+Checklist of Technical and Financial Documents
+
+      I. TECHNICAL COMPONENT ENVELOPE
+
+                            Class “A” Documents
+
+    Legal Documents
+
+
+
+                                        52
+
+           (a) Valid PhilGEPS Registration Certificate (Platinum Membership)  (all
+⬜           pages);
+
+         NOTE: Pursuant to Section 8.5.2 of the 2016 Revised IRR of RA No. 9184 and
+        GPPB Resolution No. 15-2021, all Class "A" eligibility documents indicated in
+          Annex “A” of the PhilGEPS Registration Certificate (Platinum Membership) must
+           be current, valid, and updated at the time of bid submission. The failure by the
+            prospective bidder to update its Certificate with the current and updated Class “A”
+               eligibility documents shall result in the automatic suspension of the validity of its
+             Certificate until such time that all of the expired Class “A” eligibility documents
+            has been updated. Thus, prospective bidders are required to update their PhilGEPS
+             Registration Certificates prior to the submission of their bids.
+
+    Technical Documents
+
+⬜       (b)  Statement of the prospective bidder of all its ongoing government and
+               private contracts, including contracts awarded but not yet started, if any,
+             whether similar or not similar in nature and complexity to the contract to
+             be bid; and
+
+
+⬜       (c)  Statement of the bidder’s Single Largest Completed Contract (SLCC)
+               similar to the contract to be bid, except under conditions provided for in
+              Sections 23.4.1.3 and 23.4.2.4 of the 2016 revised IRR of RA No. 9184,
+              within the relevant period as provided in the Bidding Documents (Any of
+              the following documents must be submitted together with the Statement
+              of Single Largest Completed Contract: a. End user’s Acceptance, b.
+               Official Receipt, c. Sales Invoice for the contract) ; and
+
+
+⬜       (d)  Original copy of Bid Security. If in the form of a Surety Bond, submit
+               also a certification issued by the Insurance Commission; or Original copy
+              of Notarized Bid Securing Declaration; and
+
+       NOTE: Bidders are required to use the Bid Security Form in the attached
+             bidding documents.
+
+
+⬜       (e) Schedule of Requirements; and
+
+
+⬜        (f) Conformity with  the Technical  Specifications, which may  include
+              production/delivery schedule, manpower requirements, and/or  after-
+                sales/parts, if applicable; and
+
+
+⬜       (g) Original duly signed Omnibus Sworn Statement (OSS); and if applicable,
+              Original Notarized Secretary’s Certificate in case of a corporation,
+               partnership, or cooperative; or Original Special Power of Attorney of all
+
+
+
+
+                                        53
+
+           members of the joint venture giving full power and authority to its officer
+               to sign the OSS and do acts to represent the Bidder.
+
+
+
+
+
+ Financial Documents
+
+⬜       (h) The prospective bidder’s computation of Net Financial Contracting
+             Capacity (NFCC); or A committed Line of Credit from a Universal or
+            Commercial Bank in lieu of its NFCC computation.
+
+
+                            Class “B” Documents
+
+⬜         (i) If applicable, a duly signed joint venture agreement (JVA) in case the joint
+              venture is already in existence; or duly notarized statements from all the
+               potential joint venture partners stating that they will enter into and abide
+            by the provisions of the JVA in the instance that the bid is successful.
+
+     II. FINANCIAL COMPONENT ENVELOPE
+
+⬜         (j)  Original of duly signed and accomplished Financial Bid Form; and
+
+
+⬜       (k)  Original of duly signed and accomplished Price Schedule(s).
+
+
+    Other documentary requirements under RA No. 9184 (as applicable)
+
+             (l) [For foreign bidders claiming by reason of their country’s extension of
+               reciprocal rights to Filipinos] Certification from the relevant government
+               office of their country stating that Filipinos are allowed to participate in
+            government procurement activities for the same item or product.
+
+
+       (m) Certification from the DTI if the Bidder claims preference as a Domestic
+            Bidder or Domestic Entity.
+
+
+
+
+
+                                        54
+
+    COMMON CAUSES OF INELIGIBILITY AND DISQUALIFICATION
+
+ ●   Invalid PhilGEPS Certification and underlying supporting documents. Pursuant to Section
+     8.5.2 of the 2016 Revised IRR of RA No. 9184 and GPPB Resolution No. 15-2021, all Class
+    "A" eligibility documents indicated in Annex “A” of the PhilGEPS Registration Certificate
+    (Platinum Membership) must be current, valid, and updated at the time of bid submission.
+    The failure by the prospective bidder to update its Certificate with the current and updated
+    Class “A” eligibility documents shall result in the automatic suspension of the validity of its
+     Certificate until such time that all of the expired Class “A” eligibility documents has been
+    updated. Thus, prospective bidders are required to update their PhilGEPS Registration
+     Certificates prior to the submission of their bids
+ ●   Failure to attach the required supporting documents for the Statement of Single Largest
+    Completed Contract Similar to the project to be Bid and failure to include all the mandatory
+     provisions pursuant to GPPB Circular No. 04-2020.
+
+
+i. Statement of the         i. Name of the completed contract with contract date, period and
+Bidder’s SLCC       amount, which should correspond to the required percentage of the
+similar to the contract ABC to be bid. The value is adjusted to the current prices using the
+to be bid               Philippine Statistics Authority consumer price indices, when necessary;
+
+                                    ii. For Goods, the relevant period or delivery date when the said SLCC
+                   was completed; end user’s acceptance or official receipt(s) or sales
+                       invoice issued for the contract, if completed; and
+
+                                    iii. Definition or description of the similar project or major categories
+                       of work.
+
+
+ ●  Submission of unsigned documents.
+ ●  Submission of Audited Financial Statement without stamp “Received” of the BIR.
+ ●   Failure to submit the Bid Securing Declaration in the prescribed format attached in the
+    bidding  documents.  Take  note  that  the  Bid  Securing  Declaration  has  additional
+    mandatory provisions pursuant to GPPB Circular No. 04-2020.
+ ●   Failure to submit Bid Securing Declaration and Omnibus Sworn Statement without a jurat
+     as required in the form provided in the bidding documents pursuant to the latest Rules on
+     Notarial Practice.
+ ●   Failure to indicate compliance in the Technical Specifications and to attach proof of
+    compliance, if applicable.
+ ●   Failure to submit the forms which do not contain all the mandatory provisions pursuant to
+   GPPB Circular No. 04-2020.
+ ●  For submission of bids through courier service, bidders are reminded that the courier service
+    personnel must submit the bid proposal to a personnel of the BAC Secretariat Division at the
+     office address provided below. Bid submission/proposal left by the courier service personnel
+     at the lobby guard or any other personnel or staff aside from the authorized BAC Secretariat
+    personnel will not be considered “submitted” for purposes of bid opening. The responsibility
+     to ensure that the courier service personnel submits the bid proposal to the authorized BAC
+     Secretariat personnel is the sole responsibility of the prospective bidder.
+
+
+
+                                           55
