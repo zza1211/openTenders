@@ -1,0 +1,1859 @@
+Title: Application Delivery Controller Solution
+Source: https://www.bharatpetroleum.in/pdf/rfqforadcs-126386.pdf
+Pages: 38
+
+--- Extracted text by page ---
+
+[Page 1]
+1 
+ 
+ 
+ 
+IS (Procurement & Contracts) 
+Bharat Petroleum Corporation Limited 
+CPO Building, 1st floor, 
+“A “ Installation , Post Box No.6382 
+Sewree (E),  
+Mumbai 400 015 
+ 
+       Limited Tender Through E‐procurement 
+For 
+Procurement of Application Delivery 
+Controller (ADC) solution in BPCL 
+ 
+Pre Bid Meeting Date: 07.06.2017 at 10.30 A.M. 
+Address:  Eraksha, 2nd Floor, ERP CC Building,  
+Bharat Petroleum Corporation Ltd,  
+“A” Installation Gate, Fort Road 
+Sewree (E) Mumbai ‐ 400015 
+ 
+CRFQ NO. 1000281105   
+DUE ON: 20.06.2017 
+            AT 3:00 p.m.
+
+[Page 2]
+2 
+ 
+Subject: Invitation of tender for Supply and Implementaion of Application Delivery Controller (ADC) 
+solution  in  BPCL  at  Corporate  Data  Center  (CDC),  Mumbai  and  Integrated  Data  Center  (IDC), 
+G.NOIDA (CRFQ no. 1000281105 due on 20.06.2017 at 3.00 p.m.)  
+ 
+1.  You  are  invited  to  submit  your  offer  in  a  two‐part  bid  for  the  subject  job  as  per  the  technical 
+specifications and on the terms & conditions contained in this tender document.  
+ 
+2. The bidder should submit a valid Manufactures Authorization Form (MAF) on OEM’s letterhead duly 
+signed and stamped by OEM’s authorized signatory as well as acknowledged by the concerned SI towards 
+their  acceptance  of  the  same.  It  will  be  responsibility  of  the  System  Integrator  (SI)  to  keep  the 
+authorization of OEM valid till execution of the supply, Installation and support period of the Application 
+Delivery controller in BPCL. 
+ 
+3. Please visit the website https://bpcleproc.in for participating in the tender and submitting your bid 
+online.  
+ 
+4. Bidders are required to submit their bids in two part bids consisting of the following, through this E‐
+Tender.  
+ 
+a) Techno‐Commercial Bid &  
+b) Price Bids.  
+ 
+i) 
+Techno‐Commercial  Bid:  This  should  contain  all  technical  details,  Literature,  Leaflets  etc, 
+confirmation  of  acceptance  of  commercial  terms  and  conditions  of  the  tender,  a  letter  from 
+Bidder on his letter head confirming NIL deviation. 
+ 
+ii) 
+Price bids: This should contain Prices/Taxes against the Bill of materials.  
+ 
+5. On opening Bids in the system on the Tender due Date and Time, First   Techno‐commercial bids will be 
+opened and evaluated.  
+ 
+6. Commercial bids of only those bidders, who qualify the techno‐commercial criteria, will be opened and 
+evaluated further.  
+ 
+7. The tenderers shall submit an interest free Earnest Money Deposit of Rs. 1.00 lakh (Rupees One Lakh 
+only) by crossed account payee Demand draft drawn on any nationalized/scheduled bank in favour of 
+"Bharat Petroleum Corporation Ltd." payable at Mumbai. (Applicable to unregistered Vendors with BPCL). 
+EMD  is  exempted  for  MSE  vendors  and  NSIC  vendors  subject  to  submission  of  the  details  of  MSE 
+Registration with Directorate of Industries or any other competent authorities and NSIC registration as 
+applicable along with the technical bid. 
+ 
+The said EMD of Rs. 1.00 lakh (Rupees one lakh only) to be submitted in our office at the following address 
+before due date and time the technical bid opening. 
+ 
+ 
+ 
+Chief Manager IS (P & C) 
+ 
+ 
+1st Floor, IS Dept, CPO (M) Building, 
+ 
+ 
+"A" Installation, Fort Road, 
+ 
+ 
+Sewree East, Mumbai ‐ 400015 
+ 
+EMD of the unsuccessful bidder will be returned in due course after the evaluation of the price bid.
+
+[Page 3]
+3 
+ 
+EMD of the successful bidder will be returned only after successful execution of job against the Outline 
+Agreement/Purchase Order and submission of PBG (if applicable). 
+ 
+8. You should submit your Techno‐commercial & price bid through online mode to the BPCL e‐tendering 
+site. However, the instrument i.e. EMD in the form of Demand Draft and the Integrity Pact duly signed 
+and stamped by authorized personnel of your company to be submitted in physical form on or before the 
+due date and time of this tender.  
+ 
+9. BPCL does not take any responsibility for any delay in submission of online bid due to connectivity 
+problem or non‐availability of site and/or receipt of instrument i.e. DD and Integrity Pact and NDA to be 
+submitted in physical form due to postal delay. No claims on this account shall be entertained.  
+ 
+10. Incomplete tenders shall be liable for rejection without seeking any further clarification. We also 
+reserve the right to reject any or all tenders without assigning any reasons whatsoever.  
+ 
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+ 
+For Bharat Petroleum Corporation Limited 
+ 
+ 
+ 
+Chief. Manager, IS (Procurement & Contracts)
+
+[Page 4]
+4 
+ 
+Contents 
+ 
+Procurement of Application Delivery Controller(ADC) solution in BPCL ...................................................... 1 
+General Instructions to Tenderers for E‐Tendering ...................................................................................... 5 
+Integrity Pact (IP) .......................................................................................................................................... 7 
+1. Important Notes to Bidders .................................................................................................................. 8 
+2. Bidder Types .......................................................................................................................................... 8 
+3. Techno‐Commercial Evaluation ............................................................................................................ 9 
+4. Commercial Bid Evaluation/Order Award Criteria ................................................................................ 9 
+Scope of Work ............................................................................................................................................. 10 
+Commercial Terms & Conditions ................................................................................................................ 10 
+Technical Bid Format .................................................................................................................................. 17 
+Annexure‐I: Technical Specification for ADC solution ............................................................................ 18 
+Annexure‐II:  Project Services for ADC implementation……………………………………………………………………..22 
+Annexure‐III: Commercial Bid Format .................................................................................................... 23 
+Annexure – IV: Remote OEM support and Onsite SI support ................................................................. 25 
+Annexure – V:  Manufacturer’s Authorization Form .............................................................................. 26 
+Annexure – VI:  Bill of Material with Part Code ...................................................................................... 27 
+Annexure – VII: Integrity Pact  .............................................................................................................. 278 
+Annexure – VIII :   Non Disclosure Agreement (NDA) ............................................................................. 33
+
+[Page 5]
+5 
+ 
+ 
+General Instructions to Tenderers for E‐Tendering 
+1. Interested parties may download the tender from BPCL website (http://www.bharatpetroleum.in) or 
+the CPP portal (http://eprocure.gov.in) or from the e‐tendering website (https://bpcleproc.in) and 
+participate in the tender as per the instructions given therein, on or before the due date of the tender. 
+The tender available on the BPCL website and the CPP portal can be downloaded for reading purpose 
+only. For participation in the tender, please fill up the tender online on the e‐tender system.  You can 
+submit the bid only on https://bpcleproc.in.  Prior to submission of bid, you need to register on the 
+portal. 
+ 
+2. For registration on the e‐tender site https://bpcleproc.in, you can be guided by the “Instructions to 
+Vendors” available under the download section of the homepage of the website. As the first step, 
+bidder  shall  have  to  click  the  “Register”  link  and  fill  in  the  requisite  information  in  the  “Bidder 
+Registration Form”.  Kindly remember your e‐mail id  (which will also act as  the login ID) and  the 
+password entered therein. Once you complete this process correctly, you shall get a system generated 
+mail. Login in to the portal using your credentials. When you log in for the first time, system will ask 
+you to add your Digital Signature. Once you have added the Digital Signature, please inform by mail 
+to the vendor administrator vendoradmin@bpcleproc.in with a copy to support@bpcleproc.in for 
+approval. Once approved, bidders can login in to the system as and when required. 
+ 
+3. As  a  pre‐requisite  for  participation  in  the  tender,  vendors  are  required  to  obtain  a  valid  Digital 
+Certificate of Class IIB and above (having both signing and encryption certificates) as per Indian IT Act 
+from the licensed Certifying Authorities operating under the Root Certifying Authority of India (RCIA), 
+Controller of Certifying Authorities (CCA).  The cost of obtaining the digital certificate shall be borne 
+by the vendor. 
+ 
+In  case  any  vendor  so  desires,  he  may  contact  our  e‐procurement  service  provider  M/s.  E‐
+Procurement Technologies Ltd., Ahmedabad (Contact no.  Tel: +91 79 4001 6816 | 6848 | 6844 | 6868 
+& Tel: +91 22 65354113 | 65595111) for obtaining the digital signature certificate. 
+ 
+4. Corrigendum/amendment,  if  any,  shall  be  notified  on  the  site  https://bpcleproc.in.  In  case  any 
+corrigendum/amendment is issued after the submission of the bid, then such vendors, who have 
+submitted their bids, shall be intimated about the corrigendum/amendment by a system‐generated 
+email.  It shall be assumed that the information contained therein has been taken into account by the 
+vendor. They have the choice of making changes if needed in their bid before the due date and time. 
+ 
+Bidders are required to complete the following process online on or before the due date/time of 
+closing of the tender: 
+ 
+ 
+Techno‐commercial  Bid (Part‐I) 
+ 
+Priced Bid (Part‐II) 
+ 
+5. Directions for submitting online offers, electronically, against e‐procurement tenders directly through 
+internet: 
+ 
+ 
+Vendors  are  advised  to  log  on  to  the  website  (https://bpcleproc.in)  and  arrange  to  register 
+themselves at the earliest, if not done earlier.
+
+[Page 6]
+6 
+ 
+ 
+The  system  time  (IST)  that  will  be  displayed  on  e‐Procurement  web  page  shall  be  the  time 
+considered for determining the expiry of due date and time of the tender and no other time shall 
+be taken into cognizance.  
+ 
+Vendors  are  advised  in  their  own  interest  to  ensure  that  their  bids  are  submitted  in  e‐
+Procurement system well before the closing date and time of bid. If the vendor intends to 
+change/revise  the  bid  already  submitted,  they  shall  have  to  withdraw  their  bid  already 
+submitted, change / revise the bid and submit once again. In case vendor is not able to complete 
+the submission of the changed/revised bid within due date & time, the system would consider 
+it as no bid has been received from the vendor against the tender and consequently the vendor 
+will be out from tendering process. The process of change / revise could be done any number 
+of times till the due date and time of submission deadline. However, no bid can be modified after 
+the bids submission deadline. 
+ 
+Once the entire process of submission of online bid is complete, they will get an auto mail from 
+the system stating you have successfully submitted your bid in the following tender with tender 
+details. 
+ 
+Bids / Offers shall not be permitted in e‐procurement system after the due date / time of tender. 
+Hence, no bid can be submitted after the due date and time of submission has elapsed.  
+ 
+No manual bids/offers along with electronic bids/offers shall be permitted. 
+ 
+6. For tenders whose estimated procurement value is more than Rs. 10 Lac, vendors can see the rates 
+quoted by all the participating bidders once the price bids are opened. For this purpose, vendors shall 
+have to log in to the portal under their user ID and password, click on the “dash board” link against 
+that tender and choose the “Results” tab. 
+ 
+7. No responsibility will be taken by BPCL and/or the e‐procurement service provider for any delay due 
+to  connectivity  and  availability  of  website.  They  shall  not  have  any  liability  to  vendors  for  any 
+interruption or delay in access to the site irrespective of the cause. It is advisable that vendors who 
+are not well conversant with e‐tendering procedures, start filling up  the tenders much before the due 
+date /time so that there is sufficient time available with him/her to acquaint with all the steps and 
+seek help if they so require. Even for those who are conversant with this type of e‐tendering, it is 
+suggested to complete all the activities ahead of time. It should be noted that the individual bid 
+becomes  viewable  only  after  the  opening  of  the  bid  on/after  the  due  date  and  time.  Please  be 
+reassured that your bid will be viewable only to you and nobody else till the due date/ time of the 
+tender opening. The non‐availability of viewing before due date and time is true for e‐tendering 
+service provider as well as BPCL officials. 
+ 
+8. BPCL and/or the e‐procurement service provider shall not be responsible for any direct or indirect 
+loss or damages and or consequential damages, arising out of the bidding process including but not 
+limited to systems problems, inability to use the system, loss of electronic information etc. 
+ 
+In case of any clarification pertaining to e‐procurement process, the vendor may contact the following 
+agencies / personnel: 
+ 
+For system related issues:   
+M/s. E‐Procurement Technologies Ltd at contact no. Tel: +91 22 24176419 & Tel: +91 79 4001 
+6816 | 6848 | 6844 | 6868) followed with an e‐mail to id support@bpcleproc.in.
+
+[Page 7]
+7 
+ 
+For tender related queries: 
+Mr. Shyam Sawant of BPCL at contact no. 022‐24176396 followed by an email to ID 
+sawantshyam@bharatpetroleum.in 
+ 
+For Technical related queries: 
+Mr. Shyam Kumar Shinde of BPCL at contact No. 022‐24176256 followed by an email to ID 
+shindes@bharatpetroleum.in  
+Integrity Pact (IP) 
+ 
+Proforma of Integrity Pact as per attached Annexure ‐ VII shall be uploaded by the Bidder/s 
+along with the technical bid documents, duly signed and stamped by the authorized signatory. 
+All the pages of the Integrity Pact shall be duly signed and witnessed. Bidder's failure to upload 
+the IP duly signed along with the bid documents shall result in the bid not being considered 
+for further evaluation. 
+ 
+If the Bidder has been disqualified from the tender process prior to the award of the contract 
+in accordance with the provisions of the Integrity Pact, BPCL shall be entitled to demand and 
+recover from Bidder Liquidated Damages amount by forfeiting the EMD/Bid Security as per 
+provisions of the Integrity Pact. 
+ 
+If the contract has been terminated according to the provisions of the Integrity Pact, or if BPCL 
+is entitled to terminate the contract according to the provisions of the Integrity Pact, BPCL 
+shall be entitled to demand and recover from Contractor Liquidated Damages amount by 
+forfeiting the Security Deposit/ Performance Bank Guarantee as per provisions of the Integrity 
+Pact. 
+ 
+Bidders  may  raise  disputes/complaints  if  any,  with  the  nominated  Independent  External 
+Monitor. 
+Names/addresses/contact numbers of Independent External Monitors appointed to oversee 
+implementation is as follows: 
+Shri. Shri. Brahm Dutt 
+A‐1/8 Safdarjung Enclave, New Delhi ‐ 110 029 
+dutt.brahm@gmail.com 
+Mob. 09871920282
+
+[Page 8]
+8 
+ 
+Prologue  
+ 
+1. Important Notes to Bidders  
+ 
+ 
+While preparing this document, BPCL tried to cover all relevant information. However, vendor 
+should examine this document for technical feasibility and bring out any omissions in a separate 
+chapter under “Deviation Statement”, in their “Techno‐Commercial Bid” with relevant write‐up 
+and any such inclusions must be factored‐in in their commercial bids. Once the bid is technically 
+acceptable  &  commercially  evaluated,  it  is  the  responsibility  of  the  vendor  to  complete  the 
+Project, as per the Scope, without any further commercial impact to BPCL.  
+ 
+ 
+It is the Vendor’s responsibility to carefully review this document and understand the scope of 
+work while quoting for the bid. This Project is to be completed on Turn‐Key Basis as defined in the 
+Scope of work. Any hardware, software required for executing the project & not listed in this RFP, 
+will be on vendor’s account and bidder must take into account all such costing while submitting 
+bids.  
+ 
+ 
+Jobs awarded under this contract cannot be sub‐contracted without the consent of BPCL. 
+ 
+ 
+A Pre‐bid meeting would be scheduled on 07.06.2017 at 10.30 A.M.  
+ 
+ 
+All queries regarding pre bid meeting of this tender need to be submitted by 05.06.2017 to below 
+mentioned. Further queries/clarifications on this tender may not be entertained after pre‐bid 
+meeting.  
+ 
+Contact Person for Technical Clarification  
+Shyam Kumar Shinde  
+Bharat Petroleum Corporation Limited,  
+A – Installation, ERP Competency Center,  
+Sewree Fort Road, Sewree East,Mumbai ‐ 400015.  
+ 
+Phone : 022‐24176256  
+email : shindes@bharatpetroleum.in 
+2. Bidder Types 
+ 
+Sr. 
+No.  
+Quote & Supply of H/W 
+& S/W  
+Remarks  
+1 
+System Integrator  
+• SI should submit an undertaking from respective OEM on 
+their letterhead that the OEM will enter into back to back 
+agreement  with  SI  for  supply  of  Hardware,  Software, 
+Subscription and Support of both Software & hardware. The 
+undertaking should also mention that the support for 6 years 
+shall be provided at the quoted rate in the bid. This should be 
+submitted along with the Technical bid.
+
+[Page 9]
+9 
+ 
+3. Techno‐Commercial Evaluation  
+ 
+ 
+Techno‐commercial bid will be accepted only if they are in the prescribed format in e‐tender, with 
+complete information and technical conditions have been complied with.  
+4. Commercial Bid Evaluation/Order Award Criteria  
+ 
+ 
+The entire Bill of Material against this tender would be evaluated as a ‘single lot’ on Lowest Total 
+Cost of Ownership (TCO) on L1 basis.  
+ 
+ 
+Price bids of Techno‐Commercially Qualified bidders will be evaluated using criteria of ‘Lowest 
+Quote’ of Total Cost of Ownership (TCO). The ‘Lowest Quote’ will be established based on the 
+following:  
+ 
+a)  For supplies required within Maharashtra: In case party shall be making supplies from within 
+Maharashtra and billing from within Maharashtra with TIN Registration (in Maharashtra), VAT   
+CREDIT will be taken in to account while commercially evaluating the offers.  
+ 
+b) Techno‐Commercially Qualified Bids under this tender would be evaluated based on Total Cost 
+of Ownership (TCO) [i.e. Considering the Basic price of Hardware, Software & Support (H/W & 
+S/W) during warranty, Implementation, AMC etc., applicable Taxes and Duties, VAT and Service 
+tax set‐off, Octroi as applicable less buyback on IT equipments.  
+ 
+c) Any Taxes, Duties, Levies etc. borne by BPCL shall be loaded as applicable during commercial 
+evaluation.
+
+[Page 10]
+10 
+ 
+Scope of Work  
+ 
+This RFP is meant for following Product & Services: 
+Sr. 
+No 
+Product/Services
+Details 
+A 
+Supply of Hardware & Software with 
+1 year comprehensive warranty  
+ 
+ 
+4 Nos of ADC appliance (CDC ‐02nos., IDC – 
+02nos.)  including  all  necessary  software  & 
+licenses  as  per  technical  specification 
+mentioned in Annexure – I. 
+B 
+Project Services – Implementation  
+ 
+ 
+Preparation 
+of 
+architecture 
+design, 
+documentation, 
+project 
+plan 
+for 
+implementation and migration from existing 
+ADC 
+ 
+Installation & Configuration of the supplied 
+Hardware  associated  Software  and  System 
+Integration.  
+ 
+ Instructor led Training to BPCL teams 
+ 
+ Handing 
+over 
+of 
+final 
+configuration 
+document. 
+ 
+ Refer Annexure II for details.  
+C 
+Services – Support during warranty  
+ 
+ 
+24/7 remote OEM support, 24/7 on‐demand 
+SI  support  during  warranty  on  offered 
+solution for 1st Year. 
+ 
+Software,  Updates  &  Upgrades  during 
+warranty on offered solution for 1st Year.  
+ 
+Refer Annexure IV for details.  
+D 
+Services  –  Support  during  Post 
+Warranty (AMC) 
+ 
+ 
+ 
+ 
+ 
+24/7 remote OEM support, 24/7 on‐demand 
+SI support during AMC on offered solution for 
+2nd, 3rd, 4th, 5th  and 6th  Year.  
+ 
+Software, Updates & Upgrades during AMC 
+period on offered solution for 2nd, 3rd, 4th, 5th 
+and 6th Year. 
+ 
+Refer Annexure IV for details. 
+ 
+Commercial Terms & Conditions  
+ 
+1.  Pricing Type  
+ 
+a. The quoted rates shall be valid for acceptance for the period of 90 days from the date of opening 
+technical bid.  
+b. The Vendor should quote separately for Basic price, Excise duty and VAT / CST as applicable in the Price 
+Bid.  Rate  of  Excise  duty,  VAT  /  CST  and  service  tax  as  applicable  on  the  material  should  be  quoted 
+separately in the un‐priced bid.  
+c. Variation in the rates for Statutory levies/ taxes / duties during the tenure of the contract for supplies 
+within delivery schedule will be allowed only on the submission of documentary evidence from Govt. / 
+Statutory Authorities and its acceptance by BPCL.
+
+[Page 11]
+11 
+ 
+d. It is mandatory for the vendor to quote overall AMC cost during AMC period in terms of percentage (%) 
+of the basic hardware & software cost. The overall AMC rate (Subscription, OEM & SI support) quoted 
+under this tender should be equal to OR more than 12% per annum of the basic hardware cost (excluding 
+taxes). 
+ 
+e. In case there is a deviation with respect to clause/s mentioned above i.e. not meeting the threshold 
+limits  (both  during  warranty  and  AMC  period),  the  commercial  bids  will  be  evaluated  based  on  the 
+threshold limit quoted by the bidder or minimum threshold limits specified by BPCL whichever is higher 
+for each of such items. 
+ 
+f. Vendor to quote separately for Supplies i) Within Maharashtra and ii) out of Maharashtra.  
+ 
+• In case, vendor supplies goods to locations within Maharashtra, from Maharashtra, BPCL shall avail VAT 
+Credit subject to the vendor has TIN Certificate for the same and billing also being made from within 
+Maharashtra.  
+•  Vendor  should  submit  Maharashtra  VAT  Reg.  No  (TIN  No)  along  with  a  copy  of  the  registration 
+certificate. All the invoices raised should be #TAX INVOICES# and should be in the manner set out under 
+section 86 of the ACT, so as to ensure that Input Tax Credit could be availed by BPCL on purchases from 
+you within Maharashtra.  
+ 
+2. TAX Clause  
+Rate of VAT applicable on the material supplied should be separately mentioned in the Tender Form. For 
+deriving at the material component of the works contract please mention the method followed which can 
+be either of the following:‐  
+a) Actual material used‐ giving the details of the actual material used and the applying the rate of VAT 
+on each as per Schedule on each of them.  
+b) Standard deduction method‐ Applying the standard deduction percentage (as specified in ACT 
+#depending on type of contract) on the contract value to derive the material cost.  
+c) Composition scheme‐ Whether opted for composition scheme under MVAT act.  
+ 
+“If any new tax is introduced on sale of goods/services by VENDOR to OWNER in lieu of one or more of 
+the then existing taxes or as a new tax altogether and the rate and impact of the new taxes is less than 
+the rate and impact of existing tax or taxes which it replaces, VENDOR shall pass on to OWNER the benefit 
+thereof by way of commensurate reduction  in the amount payable by the OWNER to VENDOR. If on the 
+other hand, the rate of the new taxes is in excess than the rate of the new taxes it replaces, the OWNER 
+on satisfactory proof shall reimburse the VENDOR the additional tax paid by the VENDOR as the result of 
+the imposition of the new taxes provided they are within the contractual completion date.  
+  
+Explanation: For the purpose of above clause, impact means and includes the addition/reduction of taxes 
+suffered on inputs, input services & capital goods. Further, impact of stranded taxes like CST on Interstate 
+purchases, entry tax/octroi, etc (if applicable) also needs to be considered.” 
+  
+“The vendor shall take  steps viz uploading invoice in GSTR1 , payment of the tax liability on the said 
+invoices  and  filing of Returns etc. and comply with all the requirements of applicable laws including GST 
+laws for the time being in force to enable the OWNER to avail tax credit/s including input tax credit.  Any 
+loss or non‐availability of input tax credit by the OWNER due to non‐compliance of applicable tax laws 
+including but not limited to GST laws in force or otherwise, on the part of VENDOR, an amount equivalent 
+to any  tax liability accruing to the OWNER and/or to the extent of any loss accrued to the OWNER due to  
+the non‐availability of input tax credit or any liability accrued to the OWNER shall either stand cancelled 
+or deducted from the payment due to the VENDOR or shall be reimbursed by the VENDOR as the case
+
+[Page 12]
+12 
+ 
+may be till such default is either rectified or made good by the VENDOR and the OWNER is satisfied that 
+it is in a position to claim valid input tax credit within the time‐lines as per applicable laws. 
+  
+Any cost, liability, dues, penalty, fees, interest as the case may be which accrues to the OWNER at any 
+point of time on account of non‐compliance of applicable tax laws or rules or regulations thereof or 
+otherwise due to default on the part of VENDOR shall be borne by the VENDOR. An amount equivalent to 
+such cost, liability, dues, penalty, fees, interest as the case may be shall be reimbursed by the VENDOR 
+within 30 days. Any GST as may be applicable on such recovery of amount shall also be borne by VENDOR 
+and same shall be collected by the OWNER.” 
+ 
+3. Delivery Schedule  
+ 
+• All Schedules will be calculated from the Zero Date i.e. Date of issue of Purchase Order.  
+• Delivery of the Hardware shall be made within 8 weeks from the date of PO.  
+• Part delivery will not be considered. Even if it is delivered partly, the last shipment as per the 
+purchase order will be considered as delivered date.  
+• Road permits / Entry permits shall be made available to the vendor by the respective location. 
+However, the same should be communicated to BPCL within 7 days in advance.  
+• Vendor should indicate the Nodal point for deliveries/logistics and to whom Road permits are to be 
+sent.  
+• Delivery as per the purchase order has to be made before submitting the invoice for payment. Part 
+payment of the equipment will not be made other than payment terms.  
+• Vendor to provide complete bill of materials with part numbers which will be required to identify 
+proper delivery.  
+ 
+Delayed Delivery:  
+ 
+Penalty @0.5% of total cost of hardware & software per week or part thereof, maximum up to 5% of 
+the total hardware & software value shall be deducted for delayed delivery at the time of making first 
+payment.
+
+[Page 13]
+13 
+ 
+Vendor shall supply and install the Hardware as per the address given below: 
+ 
+Sr. No 
+Description
+Delivery Address 
+1 
+Delivery of 2 ADC appliances 
+Mr. Shyam Kumar Shinde  
+Corporate Data Centre,  
+Bharat Petroleum Corporation Ltd 
+“A” Installation, Sewree Fort Road, Sewree (East),  
+Mumbai, Maharashtra ‐ 400015.  
+2 
+Delivery of 2 ADC appliances 
+Mr.  Vakul khullar 
+Integrated Data Center (IDC), 
+BPCL Corporate R&D Center 
+Plot No.2A, Udyog Kendra, P.O Surajpur,  
+Greater NOIDA , Uttar Pradesh – 201308 
+ 
+4. Project Execution  
+ 
+• Testing, commissioning & integration of the total system / solution as defined in the Annexure ‐ II 
+and final acceptance by BPCL should be completed within 6 weeks from the date of delivery.  
+• The vendor will provide Project Services as specified in Annexure ‐ II.  
+• The vendor is required to execute the order as a turn‐key project and BPCL shall not be responsible 
+for any omission/deletion of any component and no additional cost shall be paid to vendor by 
+BPCL towards the same. Such component / accessories shall be provided by Vendor at its own 
+cost.  
+ 
+ Delay in project execution 
+  Delay in project execution shall attract penalty calculated @1.0% of Project Implementation Cost 
+(Refer Line Item 30 of Annexure‐ III) per day of delay (Maximum delay of 30 calendar days), beyond 
+which BPCL reserves the right to get project completed by third party at the cost & expenses of the 
+successful bidder.  
+ 
+5. Payment Term 
+Sr. No.  
+Product / Services  
+Terms  
+A. 
+Supply of Hardware & Software 
+with 1 year on‐site comprehensive 
+warranty  
+• 50% value of supplied items (Hardware, Software) on receipt 
+in good condition, physical verification and power on testing 
+of the supplied items. 
+•  50%  value  of  supplied  items  (Hardware,  Software)  after 
+successful installation and implementation (i.e. project signoff) 
+and on submission of Performance Bank Guarantee (PBG) for 
+10% of total PO value, valid for a 1 year period from date of 
+installation of items at BPCL premise. 
+•  100%  Implementation  &  training  cost  will  be  paid  after 
+successful implementation & training.  
+B.  
+Annual support  
+(during the 1 year warranty period) 
+• Quarterly Payment after the completion of quarter within 
+30 days from the date of submission of invoice duly 
+authorized by BPCL officer.
+
+[Page 14]
+14 
+ 
+C.  
+Annual support 
+ (during the 5 years AMC period)  
+• Creation of AMC PO by BPCL and to be accepted and signed 
+by Vendor.  
+• Quarterly AMC Payment after the completion of quarter 
+within 30 days from the date of submission of invoice duly 
+authorized by BPCL officer. 
+ 
+ 
+ 
+• Octroi, if applicable shall be paid against original receipt only.  
+• Successful bidder will have to ensure that all the equipment carries in‐transit insurance  
+• Payment would be made through Electronic Fund Transfer (EFT). Hence, please ensure that the bank 
+detail submitted by you is correct or submit the latest bank details in the format available with us.  
+ 
+ 
+6.  Warranty, AMC & SLA  
+ 
+a)  All Hardware & Software  
+ 
+1. 1st year warranty shall start from the date of installation, configuration and acceptance by BPCL. 
+Subsequent to the 1st year Warranty, BPCL shall issue PO for AMC to SI for further period of 5 
+years on satisfactory performance on yearly basis as per tender.  
+2. Upgrades, Updates, Patches & Support on hardware and associated software from SI/OEM for the 
+contract period of six years shall not attract any additional cost to BPCL.  
+ 
+b)  Service Level Agreement (SLA):  Mandatory & Non‐negotiable  
+ 
+1. Successful bidder must ensure 24 x7 remote support by OEM for all hardware & software issue 
+and it will be the responsibility of the bidder to ensure that BPCL gets all necessary support from 
+the OEM TAC team to address technical issues for timely resolution.  
+2. Successful bidder shall ensure onsite availability of its support engineer whenever such presence 
+is warranted in the event of a hardware & software issue. 
+3. Successful bidder shall ensure response time within 4 hours from the time ticket is logged on OEM 
+support portal.  
+4. The successful bidder must provide RMA support for replacing the faulty hardware within next 
+business day of any hardware failure once reported.
+
+[Page 15]
+15 
+ 
+ 
+ 
+7. Penalty  
+ 
+a) During Warranty and AMC ‐ Violation of Issue Resolution clause  
+ 
+• For every additional hour or part thereof of resolution time beyond specified hours of CTR penalty will 
+be calculated based on following table 
+  
+Sr. 
+No 
+Type of Penalty 
+Measuring Point 
+CTR 
+Penalty Terms beyond CTR 
+1 
+In case single 
+appliance failure at 
+site 
+Time of logging the call 
+RMA Next business day 
+Rs. 5,000/‐ per hour 
+2 
+In case both 
+appliance failure at 
+site 
+Time of logging the call 
+RMA Next business day 
+Rs. 10,000/‐ per hour 
+2 
+Delay in response 
+on TAC case 
+Time of logging the call 
+4 hrs 
+Rs.  1000/‐ per instance 
+ 
+ 
+c)  Maximum Penalty  
+• Maximum penalty is capped at 5% of the total contract value valid for 6 years. However, the penalty 
+clause is to ensure that SI is putting best efforts to honor SLAs committed to BPCL. 
+ 
+d)  Other Conditions  
+• During warranty period, the penalty would be calculated on year to year basis and Bidder has to pay 
+the penalty on demand raised from BPCL failing which PBG of bidder would be encashed & penalty 
+amount would be adjusted.  
+•    During AMC period, it will be adjusted against AMC payment done at the end of quarter(s).  
+•   If the equipment is shifted to any other location in India by BPCL during the Warranty / AMC period, 
+the vendor has to provide support under warranty/AMC at the new location.  
+ 
+Successful SI should submit the above back to back agreement & direct OEM support agreement, 
+within 15 days of issue of purchase order. 
+ 
+8. Non‐Compliance of SLAs 
+ 
+• Bidders must take a note that the Max limits of penalties are upper tolerance and BPCL reserves right 
+to terminate the contract at any point of time for breach of SLAs without reaching the Max limit of 
+penalties and initiate legal action to claim business losses from the bidder.  
+ 
+9.  Exit Clause 
+ 
+• BPCL intend to use Application Delivery Controller (ADC) Solution for 6 years and bidder shall enter      
+into a six years contract with BPCL, however in case of change in technology of ADC, change in associated 
+software or launch of more advanced solutions making the offerings of this product less effective BPCL 
+reserve the right to terminate the contract at any point of time after completion of 3 years without any 
+explanation given to bidder, serving three months’ notice.
+
+[Page 16]
+16 
+ 
+10. Other Contractual Stipulations  
+a) Risk Purchase: If the vendor fails to supply the required quantity or if the quality of items supplied 
+is found to be unsatisfactory or bad, BPCL will have the right to procure from elsewhere and extra 
+cost incurred would be recovered from the vendor.  
+ 
+b) We reserve the right to reject the tender without assigning any reason whatsoever.  
+ 
+c) Right to Audit: BPCL reserves the right to audit or inspect work performed by the vendor. BPCL 
+may  participate  directly  or  through  an  appointed  representative,  e.g.,  Mutually  Agreeable 
+external auditor, in order to verify that the tasks related to this project have been performed in 
+accordance to the procedures indicated.  
+ 
+d) NDA Clause: The successful bidder has to sign the 'Non‐Disclosure Agreement(NDA)' on Rs. 100/‐ 
+stamp  paper  (Non  Judicial)  from  their  competent  authority  as  a  compliance  for  the  'Non‐
+Disclosure  Agreement'  in  line  with  BPCL's  IS  Security  Policy  (please    refer  Annexure‐VII    for 
+details). Purchase orders will not be placed without entering into above NDA.  
+ 
+e) IP (Intellectual Property)  
+• 
+Organization retains all rights to its pre‐existing intellectual property and any intellectual 
+property it creates in connection with the agreement; and  
+• 
+The vendor assigns to organization all rights in any work product developed pursuant to 
+the agreement and acknowledges that all materials created by the vendor pursuant to 
+the agreement shall be deemed to be owned by the organization. If the vendor does not 
+agree to an assignment, then the vendor should, at a minimum, grant organization a 
+perpetual,  irrevocable,  worldwide,  royalty‐free  license  to  use  the  work  product 
+developed pursuant to the agreement.  
+ 
+f) Force Majeure Clause:  
+The parties to this agreement cannot be responsible for any failure of performance or delay in 
+performance of their obligations there under if such failure or delay shall be the result of any 
+Government Directive relevant to this agreement or due to war, hostilities, act of public enemy, 
+riots or civil commotion’s, strikes, lock out, fire, floods, epidemics or act of God, arrests and 
+restraints  or  rulers  and  people,  political  or  administrative  acts  of  recognized  or  defacto 
+Government Import or Export restrictions, compliance with any Government or local authority or 
+any other cause or cause beyond the control of the parties herein.  
+ 
+g) Arbitration clause:  
+ 
+In case of any dispute or differences arising under and out of, or in connection with the contract, 
+shall be referred to the sole arbitration by an arbitrator appointed under the provision of Indian 
+arbitration Act and conciliation Act 1996 and subject to jurisdiction of courts in Mumbai only.  
+ 
+In case of any dispute in the interpretation of the terms and conditions of the tender, the decision 
+of the Corporation shall be final and binding  
+ 
+Limitation of liability will be restricted to Total Contract Value.  
+ 
+ 
+ALL ABOVE TERMS & CONDITIONS ARE ACCEPTABLE TO US.  
+ 
+SIGNATURE & NAME OF THE PERSON  
+COMPANY SEAL
+
+[Page 17]
+17 
+ 
+Technical Bid Format  
+ 
+Please provide the following information as part of your RFP bid. All information required herein must be 
+provided. If the information provided is found to be incomplete, incorrect or unsatisfactory, the bid is 
+liable to be rejected. Please provide following:  
+ 
+a)  List of Deviations, if any, else submit NIL deviation statement.  
+b)  Technical write‐up on the proposed solution. 
+c)  Detailed project execution plan with major milestones & deliverables at each milestone.  
+d)  Technical Specification & Projects services as per Annexure ‐ I and Annexure – II respectively 
+e) Undertaking that the vendor is quoting for all the line items mentioned in technical bid and will be 
+supplying the same. Provide the full Bill of Material (BOM) as per Annexure VII with part number of the 
+vendor and the quantity needs to be mentioned in the Technical bid. The individual items need to be 
+clearly mentioned as Hardware, Software, and Support & Services. 
+f) Blank Commercial Bid with declaration on it that “The Commercial bid is as per the format requested & 
+prices submitted are in the units specified in the tender without any condition attached” under the 
+signature of the authorized signatories. In case there is any condition mentioned in commercial bid or is 
+not in the required format, which is not mentioned in Technical bid under “Deviation Statement”, the 
+bid is likely to be rejected.  
+h)  Duly signed by ‘Authorized signatory’ an Integrity Pact (IP)
+
+[Page 18]
+18 
+ 
+Annexure‐I:  Technical Specification for ADC solution 
+ 
+S. 
+No. 
+Technical Specifications 
+Compliance   
+(Yes/No) 
+Comments 
+A. 
+GENERAL SPECIFICATIONS 
+ 
+ 
+1 
+The application delivery controller solution shall comprise of 
+a purpose built dedicated appliance for application load 
+balancing, web performance optimization on the hardware 
+for CDC, Mumbai and IDC, G.NOIDA. 
+  
+  
+2 
+The ADC solution shall be deployable in High Availability 
+with Failover at each site ‐ CDC, Mumbai and IDC, G.NOIDA. 
+  
+  
+3 
+The ADC shall support creation of virtual instances based on 
+custom requirement of throughput, SSL Compression,  
+Concurrent Connections, SSL Connections etc. 
+  
+  
+4 
+The ADC solution shall be manageable directly and via a 
+dedicated VM (Virtual Machine) based Management 
+solution. 
+  
+  
+5 
+The ADC solution should  support IPV6 from day one 
+  
+  
+6 
+The required solution must not be End of Life or End of 
+Support for at least 6 years from the due date of submission 
+of bid by the bidder.  
+  
+  
+7 
+The proposed solution must be positioned in leaders’ 
+quadrant as per Gartner’s latest report “Magic Quadrant for 
+Application Delivery controller ‐2016”. 
+ 
+ 
+B. 
+ADC APPLIANCE SPECIFICATION 
+  
+  
+1 
+The required ADC Appliances must be rack mountable and 
+rack mount kit and other required accessories must be 
+supplied along. 
+  
+  
+2 
+The solution and all the components thereof must have 
+provision for redundant/dual power supply.
+
+[Page 19]
+19 
+ 
+3 
+The required ADC appliance should have a throughput of at 
+least 80 Gbps from day one and scalable up to 160 Gbps on 
+the same appliance 
+  
+  
+4 
+The solution must have at least 40 no of usable virtual 
+instance's from the first day and scalable  up to 80 virtual 
+instance's in future on the same hardware. 
+  
+  
+5 
+The solution shall support from day one at least 34,000  SSL 
+connections (2k bit keys) per second 
+  
+  
+6 
+The required ADC solution shall support from day one at 
+least  12 Gbps of Compression  
+  
+  
+7 
+Appliance should have at least 20 nos. of 10 Giga ports and 2 
+nos.  of 40 Giga ports with required transceiver.  
+  
+  
+C 
+APPLICATION DELIVERY  SPECIFICATION 
+  
+  
+1 
+The appliance should perform comprehensive Layer 4 to 
+Layer 7 (TCP and HTTP based applications) load balancing of 
+request received from internet clients between the defined 
+numbers of servers for multiple websites/application based 
+on various methods like Round Robin, Weighted Round 
+Robin, Least Connection etc.  
+  
+  
+2 
+The offered solution should provide facility for Caching for 
+static and dynamic application content. 
+  
+  
+3 
+The offered solution should provide TCP multiplexing i.e. it 
+should initiate fewer connections to servers in order to serve 
+relatively large no. of connection from client. 
+  
+  
+4 
+The offered solution should perform ‘TCP Optimization’ as 
+well as ‘TCP buffering’ functions for overall improvement of 
+response. 
+  
+  
+5 
+The offered solution should support SSL offloading 
+i.e.  Should have ability to maintain SSL Session between the 
+device and the browser while maintaining HTTP session 
+between device and server. Solution should also support SSL 
+re‐encryption to maintain SSL session between device and 
+browser and also between device and server. 
+  
+  
+6 
+The solution should support URL rewriting and provide 
+Content and Header based load balancing. 
+  
+  
+7 
+Solution should be capable of limiting number of 
+connections and rate of connection (CPS) on backend 
+server (SAP).
+
+[Page 20]
+20 
+ 
+8 
+Administrator should be able to configure throughput, SSL 
+CPS, compression throughput for each virtual instance and it 
+should not be decided by the system. 
+ 
+ 
+9 
+The appliance should support Separate configuration file per 
+virtual load balancer. 
+ 
+ 
+D 
+HIGH AVAILABILITY  
+  
+  
+1 
+The ADC Appliance must support High Availability 
+deployment in Active‐Active and Active‐Passive modes.   
+  
+  
+2 
+The solution shall support Physical Appliance level 
+HA/failover such that failure of an Active ADC appliance shall 
+trigger other appliance to handle all the existing and new 
+traffic without any manual intervention and without loss of 
+any ongoing sessions.  
+  
+  
+3 
+The solution must support vADC level HA/failover in such a 
+way that failure of a vADC on one appliance must trigger 
+corresponding standby vADC on other appliance to become 
+Active without any manual intervention and without loss of 
+any ongoing session.  
+  
+  
+4 
+The required ADC appliance must support complete fault 
+isolation, Resource reservation between each virtual 
+instance's. (Virtual ADC/Instance). 
+ 
+ 
+5 
+Upgrade of OS on any virtual load balancer should not affect 
+other virtual load balancer. 
+ 
+ 
+E 
+ADC MANAGEMENT AND ADMINISTRATION SPECS 
+  
+  
+1 
+The ADC appliance must provide for a dedicated 
+management and console port for administration. 
+  
+  
+2 
+The ADC appliance must provide for   remote management 
+of the appliance as well as vADC over secure channels like 
+HTTPS, SSH etc 
+  
+  
+3 
+The Solution must provide for regular configurable health 
+check of the device/vADC and sending of e‐mail alerts. 
+  
+  
+4 
+The ADC solution must provide for multiple administrative 
+roles for configurable administrative functions both at the 
+ADC as well as vADCs.
+
+[Page 21]
+21 
+ 
+5 
+The Solution must provide for full Backup and vADC level 
+backup and restoration thereof in case of Disaster. 
+  
+  
+6 
+The solution should have hardened Operating System. The 
+Operating system should be secure from vulnerabilities. 
+  
+  
+7 
+The offered Solution should support SNMP all version, MIB‐I, 
+MIB‐II. 
+  
+  
+F 
+ADC  MANAGEMENT SOLUTION SPECS 
+  
+  
+1 
+The ADC Management server should be deployable as a 
+Virtual Machine on the VM provided by BPCL 
+  
+  
+2 
+ADC Management solution must support role based access 
+to administrators. The appliance should support Separate 
+user login and database per virtual load balancer. 
+  
+  
+3 
+ADC Management solution must support integration with 
+LDAP/Radius based authentication against User bases such 
+as but not limited to MS Active Directory. 
+  
+  
+4 
+The Management servers at the two locations should be 
+able to receive logs from the respective ADC devices, 
+present them for analysis and use them for reporting 
+purposes. 
+  
+  
+5 
+The Management solution must be capable of generating 
+out‐of‐the‐box reports for Resource Utilization, Health 
+Monitoring and vADC performance, uptime etc
+
+[Page 22]
+22 
+ 
+Annexure‐II:  Project Services for ADC implementation 
+ 
+Sr No#   Services  during  Project 
+Implementation 
+Specifications in Brief  
+1 
+End 
+to 
+end 
+Project 
+Management  
+ 
+  
+1) Study  of  existing  ADC  architecture  &  propose  enhanced 
+architecture as per best practice 
+2) Offline Study of existing configuration of ADC. 
+3) Prepare  migration  plan  for  existing  ADC  along  with  new 
+features mentioned in technical specification 
+4)  All latest stable version should be applied on ADC 
+5)  Should  take approval for each new configuration/ feature to 
+be enabled  before implementation 
+6)  Post approval from BPCL ,Implementation of ADC 
+7)  All  Design  &  configurations  should  be  as  per  industry  best 
+practice of ADC. 
+8)  Get signoff for all User Acceptance Tests from BPCL 
+9) Submission  of    complete  documentation  on  (Operational  & 
+Maintenance document ,troubleshooting guide) 
+10)  Post OEM certification, 
+11)  Get final sign off from BPCL security team.  
+2 
+Instructor led Training  
+ 
+2  Days  certified  Instructor  led  training  on  ADC  technology  at  BPCL 
+Sewree Mumbai.
+
+[Page 23]
+23 
+ 
+Annexure‐III: Commercial Bid Format 
+ 
+Sr. 
+No. 
+Item 
+Unit 
+QTY 
+Type 
+(HW/SW/SER) 
+10 
+Application Delivery Controller appliance  with one year warranty 
+( Delivery at  CDC Mumbai) 
+A  purpose  built  dedicated  appliance  for  application  load  balancing,  web 
+performance optimization on the hardware.  
+With management console license  
+The Application Delivery Controller (ADC) solution shall comprise of a purpose 
+built dedicated Appliance. Solution should support virtual ADC creation. 
+1) Appliance should have dual power supply. 
+2) Virtual  Application  Delivery  Controller  Appliance  should  have 
+minimum 40 instances and scalable upto 80 virtual instances . 
+3)  Appliance should have 20 nos of 10 Giga ports (with fiber module 
+and 2 nos of 40 Giga ports (with fiber module).  
+4) Device should have (at Layer ‐7) minimum 80 Gbps throughput  
+and scalable upto 160 Gbps  throughput.  
+5) Appliance  should  support  34000  SSL  handshake  per  second  
+@2048 Bits without SSL session reuse.   
+6) Appliance should be able to work in High Availability (HA) mode. 
+7) ADC should have minimum 12 Gbps compression on hardware. 
+ 
+EA 
+2 
+HW 
+20 
+Application Delivery Controller appliance  with one year warranty 
+( Delivery at  IDC Greater NOIDA ) 
+A  purpose  built  dedicated  appliance  for  application  load  balancing,  web 
+performance optimization on the hardware.  
+With management console license  
+The Application Delivery Controller (ADC) solution shall comprise of a purpose 
+built dedicated Appliance. Solution should support virtual ADC creation. 
+1) Appliance should have dual power supply. 
+2) Virtual  Application  Delivery  Controller  Appliance  should  have 
+minimum 40 instances and scalable upto 80 virtual instances. 
+3)  Appliance should have 20 nos of 10 Giga ports and 2 nos of 40 
+Giga ports. (with fiber module)  
+4) Device should have (at Layer ‐7) minimum 80 Gbps throughput 
+and scalable upto 160 Gbps throughput.  
+5) Appliance  should  support  34000  SSL  handshake  per  second 
+@2048 Bits without SSL session reuse.   
+6) Appliance should be able to work in High Availability (HA) mode. 
+7)  ADC should have minimum 12 Gbps compression on hardware. 
+ 
+EA 
+2 
+HW 
+30 
+Project Implementation ‐  Implementation and training 
+LS 
+1 
+SER
+
+[Page 24]
+24 
+ 
+Sr. 
+No. 
+Item 
+Unit 
+QTY 
+Type 
+(HW/SW/SER) 
+40 
+Annual support cost during warranty period  
+YR 
+1 
+SER 
+50 
+2nd year  support cost incl. OEM and SI   for 4 nos of ADC appliance  
+YR 
+1 
+SER 
+60 
+3rd  year support cost incl. OEM and SI   for 4 nos of ADC appliance 
+YR 
+1 
+SER 
+70 
+4th support cost incl. OEM and SI   for 4 nos of ADC appliance  
+YR 
+1 
+SER 
+80 
+5th  support cost incl. OEM and SI   for 4 nos of ADC appliance  
+YR 
+1 
+SER 
+90 
+6th support cost incl. OEM and SI   for 4 nos of ADC appliance  
+YR 
+1 
+SER
+
+[Page 25]
+25 
+ 
+Annexure – IV: Remote OEM support and Onsite SI support   
+ 
+SI Support during warranty & AMC period at BPCL  
+ 
+ 
+SI shall provide support and services as detailed below during the contract period  –  
+ 
+ 
+Account Manager: Successful Bidder shall appoint an Account Manager who will be single point of 
+contact for BPCL in relation to any   technical, commercial, contractual or service related issues 
+during the contract period. 
+ 
+Project Manager: Successful Bidder shall appoint a Project Manager who will coordinate project 
+related activities and will be responsible for the successful implementation of HWS for BPCL. 
+ 
+Successful Bidder shall provide on‐site and remote support as required by BPCL in case of issues 
+related to hardware, software, configuration, integration, operations, bugs etc during the warranty 
+and AMC period. 
+ 
+Call logging with back‐end support and issue resolution as per SLA timelines.  
+ 
+Remote OEM support during Warranty & AMC Period at BPCL  
+ 
+OEM should provide remote support for following  
+ 
+ 
+The OEM should have a facility to log a call using web interface wherein all the support contract 
+details should be linked. This interface should provide the incident number for monitoring the 
+progress of the call/support ticket. The OEM should have flexibility to log the calls using either 
+emails / telephone.  
+ 
+Resolution of any software configuration issue 
+ 
+Resolution of any Hardware/software issues 
+ 
+RCA of software & hardware related issues  
+ 
+The OEM should have a comprehensive known error database or knowledge database in the form 
+a web access which is accessible to BPCL team for resolving first level issues. This is not a local 
+database maintained to track incidents. This repository is the knowledge base of all the incidents 
+resolved worldwide by the vendor support teams.  
+ 
+The OEM should proactively notify BPCL about any new releases of patches and firmware for the 
+products covered in the contract at least on a quarterly basis 
+ 
+In the event of major equipment failure which may lead to business loss for BPCL, OEM should 
+facilitate highest level of expert availability (24x7x365).
+
+[Page 26]
+26 
+ 
+Annexure – V:  Manufacturer’s Authorization Form 
+ 
+Ref: 
+Date: 
+To, 
+Sr. Manager IS (P & C) 
+M/s Bharat Petroleum Corporation Limited 
+IS Department, CPO Sewree, 1st Floor, 
+A – Installation, Sewree East, 
+Mumbai – 400015 
+ 
+Subject: Manufacturer Authorization for Tender No CRFQ: 1000281105 
+Sir, 
+We, <OEM/ Manufacturer name> having our registered office at <OEM/ Manufacturer address>, are an 
+established and reputed manufacturer of Application Delivery Controller Appliance. 
+We confirm that <Bidder Name> having its registered office at <Bidder Address> is our authorized partner 
+for ________________________. We hereby authorize <Bidder Name> to quote and execute the order 
+for the subject tender on behalf of <OEM/ Manufacturer name>. 
+Our  full  support  is  extended  to  them  in  all  respects  for  supply  and  installation.  Further,  we  <OEM/ 
+Manufacturer name> shall provide L1, L2 & L3 remote support services during entire warranty and AMC 
+period directly by us for the offered Hardware & Software as per the terms and conditions of the tender. 
+We  also  undertake  that  in  case  of  default  in  execution  of  this  tender  by  the  <Bidder  Name>,  the 
+<OEM/Company Name> will take all necessary steps for successful execution of this project as per tender 
+requirements. 
+We also confirm that BPCL will be able to log the related calls (L1, L2 and L3) for the supplied appliance 
+directly with us. 
+Thanking You 
+For <OEM/ Manufacturer name> 
+<(Authorized Signatory)> 
+Name: 
+Designation: 
+ 
+Note: This letter of authority should be on the letterhead of the manufacturer and should be signed & 
+stamped by Legal Officer/HR Head/Company Secretary of OEM Company/Power of Attorney
+
+[Page 27]
+27 
+ 
+Annexure‐VI:  Bill of Material with Part code 
+ 
+Sr. 
+No 
+Item 
+Unit 
+Part 
+Code 
+Quoted/Not 
+Quoted 
+10 
+Application Delivery Controller appliance  with one year warranty 
+( Delivery at  CDC Mumbai) 
+A  purpose  built  dedicated  appliance  for  application  load  balancing,  web 
+performance optimization on the hardware.  
+With management console license  
+The Application Delivery Controller (ADC) solution shall comprise of a purpose 
+built dedicated Appliance. Solution should support virtual ADC creation. 
+1) Appliance should have dual power supply 
+2) Virtual  Application  Delivery  Controller  Appliance  should  have 
+minimum 40 instances and scalable upto 80 virtual instances. 
+3)  Appliance should have 20 nos of 10 Giga ports and 2 nos  of 40 
+Giga ports. (with fiber module)  
+4) Device should have (at Layer ‐7) minimum 80 Gbps throughput 
+and scalable upto 160 Gbps throughput.  
+5) Appliance  should  support  34000  SSL  handshake  per  second 
+@2048 Bits without SSL session reuse.   
+6) Appliance should be able to work in High Availability (HA) mode. 
+7) ADC should have minimum 12 Gbps compression on hardware. 
+2 
+ 
+ 
+20 
+Application Delivery Controller appliance  with one year warranty 
+( Delivery at  IDC Greater NOIDA ) 
+A  purpose  built  dedicated  appliance  for  application  load  balancing,  web 
+performance optimization on the hardware.  
+With management console license  
+The Application Delivery Controller (ADC) solution shall comprise of a purpose 
+built dedicated Appliance. Solution should support virtual ADC creation. 
+1) Appliance should have dual power supply. 
+2) Virtual  Application  Delivery  Controller  Appliance  should  have 
+minimum 40 instances and scalable upto 80 virtual instances. 
+3)  Appliance should have 20 nos of 10 Giga ports and 2 nos of 40 
+Giga ports. (with fiber module)  
+4) Device should have (at Layer ‐7) minimum 80 Gbps throughput 
+and scalable upto 160 Gbps throughput.  
+5) Appliance  should  support  34000  SSL  handshake  per  second 
+@2048 Bits without SSL session reuse.   
+6) Appliance should be able to work in High Availability (HA) mode. 
+7)  ADC should have minimum 12 Gbps compression on hardware. 
+ 
+2
+
+[Page 28]
+28 
+ 
+ 
+Annexure – VII:  Integrity Pact 
+ 
+(To be executed on plain paper and applicable for all tenders of value above Rs. 1 crore)  
+INTEGRITY PACT  
+  
+Between  
+Bharat Petroleum Corporation Limited (BPCL) hereinafter referred to as "The Principal",  
+ 
+And  
+………………………..hereinafter referred to as "The Bidder/Contractor/Supplier"  
+ 
+  
+Preamble  
+The Principal intends to award, under laid down organization procedures, contract/s for ………………..The 
+Principal values full compliance with all relevant laws and regulations, and the principles of economic use 
+of  resources,  and  of  fairness  and  transparency  in  its  relations  with  its  Bidder/s,  Contractor/s  and 
+Supplier/s.  
+In  order  to  achieve  these  goals,  the  Principal  cooperates  with  the  renowned  international  Non‐
+Governmental Organisation "Transparency International" (TI). Following TI's national and international 
+experience,  the  Principal  will  appoint an  Independent  External  Monitor  who  will  monitor  the  tender 
+process and the execution of the contract for compliance with the principles mentioned above.  
+  
+Section 1 ‐Commitments of the Principal  
+1. 
+The Principal commits itself to take  
+all  measures  necessary  to  prevent  corruption  and  to 
+observe the following principles:  
+a)   No employee of the Principal, personally or through family members, will in connection with 
+the  tender,  or  the  execution  of  the  contract,  demand,  take  a  promise  for  or  accept,  for 
+himself/herself or third person, any material or immaterial benefit which he/she is not legally 
+entitled to.  
+b)   The Principal will, during the tender process, treat all Bidders with equity and reason. The 
+Principal will, in particular, before and during the tender process, provide to all Bidders the 
+same information and will not provide to any Bidder confidential / additional information 
+through which the Bidder could obtain an advantage in relation to the tender process or the 
+contract execution.  
+ 
+2. 
+If the Principal obtains information on the conduct of any of its employees which is a criminal 
+offence under the relevant Anti‐Corruption Laws of India, or if there be a substantive suspicion in
+
+[Page 29]
+29 
+ 
+this regard, the Principal will inform its Vigilance Office and in addition can initiate disciplinary 
+actions.  
+ 
+Section 2 ‐Commitments of the Bidder / Contractor/Supplier  
+1. 
+The  Bidder  /  Contractor/Supplier  commits  itself  to  take  all  measures  necessary  to  prevent 
+corruption. He commits himself to observe the following principles during his participation in the 
+tender process and during the contract execution.  
+a)   The Bidder / Contractor/Supplier will not, directly or through any other person or firm, offer, 
+promise or give to any of the Principal's employees involved in the tender process or the 
+execution of the contract or to any third person, any material or immaterial benefit which 
+he/she is not legally entitled to, in order to obtain in exchange, any advantage of any kind 
+whatsoever during the tender process or during the execution of the contract.  
+b)   The  Bidder  /  Contractor/Supplier  will  not  enter  with  other  Bidders  into  any  undisclosed 
+agreement or understanding, whether formal or informal. This applies in particular to prices, 
+specifications, certifications, subsidiary contracts, submission or non‐submission of bids or any 
+other actions to restrict competitiveness or to introduce cartelisation in the bidding process.  
+c)   The  Bidder  /  Contractor/Supplier  will  not  commit  any  offence  under  the  relevant  Anti‐
+Corruption Laws of India; further the Bidder / Contractor/Supplier will not use improperly, for 
+purposes of competition or personal gain, or pass on to others, any information or document 
+provided  by  the  Principal  as  part  of  the  business  relationship,  regarding  plans,  technical 
+proposals and business details, including information contained or transmitted electronically.  
+d)   The Bidder / Contractor/Supplier will, when presenting his bid, disclose any and all payments 
+he  has  made,  is  committed  to,  or  intends  to  make  to  agents,  brokers  or  any  other 
+intermediaries in connection with the award of the contract.  
+2. 
+The Bidder / Contractor/Supplier will not instigate third persons to commit offences outlined 
+above or be an accessory to such offences.  
+ 
+ 
+Section 3 ‐ Disqualification from tender process and exclusion from 
+future contracts 
+ 
+If the Bidder, before contract award, has committed a transgression through a violation of Section 2 or in 
+any other form such as to put his reliability or credibility as Bidder into question, the Principal is entitled 
+to disqualify the Bidder from the tender process or to terminate the contract, if already signed, for such 
+reason.  
+ 
+1. 
+If the Bidder/Contractor/Supplier has committed a transgression through a violation of Section 2 
+such as to put his reliability or credibility into question, the Principal is also entitled to exclude the 
+Bidder / Contractor/Supplier from future contract award processes. The imposition and duration of 
+the exclusion will be determined by the severity of the transgression. The severity will be determined 
+by the circumstances of the case, in particular the number of transgressions, the position of the 
+transgressors  within  the  company  hierarchy  of  the  Bidder  and  the  amount  of  the  damage.  The 
+exclusion will be imposed for a minimum of 6 months and maximum of 3 years.
+
+[Page 30]
+30 
+ 
+2. 
+A transgression is considered to have occurred if the Principal after due consideration of the available 
+evidences, concludes that no reasonable doubt is possible.  
+3. 
+The Bidder accepts and undertakes to respect and uphold the Principal's absolute right to resort to 
+and impose such exclusion and further accepts and undertakes not to challenge or question such 
+exclusion on any ground, including the lack of any hearing before the decision to resort to such 
+exclusion is taken. This undertaking is given freely and after obtaining independent legal advice.  
+4. 
+If the Bidder / Contractor/Supplier can prove that he has restored / recouped the damage caused by 
+him and has installed a suitable corruption prevention system, the Principal may revoke the exclusion 
+prematurely.  
+ 
+Section 4 ‐Compensation for Damages  
+1. 
+If the Principal has disqualified the Bidder from the tender process prior to the award according to 
+Section  3,  the  Principal  is  entitled  to  demand  and  recover  from  the  Bidder  liquidated  damages 
+equivalent to Earnest Money Deposit/Bid Security.  
+2. 
+If the Principal has terminated the contract according to Section 3, or if the Principal is entitled to 
+terminate the contract according to Section 3, the Principal shall be entitled to demand and recover 
+from the Contractor/Supplier liquidated damages equivalent to Security Deposit / Performance Bank 
+Guarantee.  
+3. 
+The Bidder agrees and undertakes to pay the said amounts without protest or demur subject only to 
+condition that if the Bidder / Contractor/Supplier can prove and establish that the exclusion of the 
+Bidder from the tender process or the termination of the contract after the contract award has 
+caused  no  damage  or  less  damage  than  the  amount  of  the  liquidated  damages,  the  Bidder  / 
+Contractor/Supplier shall compensate the Principal only to the extent of the damage in the amount 
+proved.
+
+[Page 31]
+31 
+ 
+Section 5 ‐Previous Transgression 
+1. 
+The  Bidder  declares  that  no  previous  transgression  occurred  in  the  last  3  years  with  any  other 
+Company in any country conforming to the TI approach or with any other Public Sector Enterprise in 
+India that could justify his exclusion from the tender process.  
+2. 
+If the Bidder makes incorrect statement on this subject, he can be disqualified from the tender 
+process or the contract, if already awarded, can be terminated for such reason.  
+Section 6 ‐Equal treatment of all Bidders / Contractors /Suppliers/ 
+ Subcontractors  
+ 
+1. 
+The Bidder/Contractor/Supplier undertakes to demand from all subcontractors a commitment in 
+conformity with this Integrity Pact, and to submit it to the Principal before contract signing.  
+2. 
+The  Principal  will  enter  into  agreements  with  identical  conditions  as  this  one  with  all  Bidders, 
+Contractors/Suppliers and Subcontractors.  
+3. 
+The Principal will disqualify from the tender process all Bidders who do not sign this Pact or violate 
+its provisions.  
+Section 7 – Punitive Action against violating Bidders / Contractors / Suppliers/Subcontractors  
+If the Principal obtains knowledge of conduct of a Bidder, Contractor, Supplier or Subcontractor, or of an 
+employee or a representative or an associate of a Bidder, Contractor, Supplier or Subcontractor which 
+constitutes corruption, or if the Principal has substantive suspicion in this regard, the Principal will inform 
+the Vigilance Office.  
+Section 8 ‐ Independent External Monitors 
+ 
+1. 
+The Principal has appointed competent and credible Independent External Monitors for this Pact. 
+The task of the Monitor is to review independently and objectively, whether and to what extent the 
+parties comply with the obligations under this agreement.  
+2. 
+The Monitor is not subject to instructions by the representatives of the parties and performs his 
+functions neutrally and independently. He reports to the Chairperson of the Board of the Principal.  
+3. 
+The Bidder/Contractor/Supplier accepts that the Monitor has the right to access without restriction 
+to 
+all 
+Project 
+documentation 
+of 
+the 
+Principal 
+including 
+that 
+provided 
+by 
+the 
+Bidder/Contractor/Supplier. The Bidder/Contractor/Supplier will also grant the Monitor, upon his 
+request and demonstration of a valid interest, unrestricted and unconditional access to this project 
+documentation.  The  same  is  applicable  to  Subcontractors.  The  Monitor  is  under  contractual 
+obligation to treat the information and documents of the Bidder/Contractor/Supplier/ Subcontractor 
+with confidentially.  
+4. 
+The Principal will provide to the Monitor sufficient information about all meetings among the parties 
+related to the Project provided such meetings could have an impact on the contractual relations 
+between the Principal and the Bidder/Contractor/Supplier.  The parties offer to the Monitor the 
+option to participate in such meetings.  
+5. 
+As soon as the Monitor notices, or believes to notice, a violation of this agreement, he will so inform 
+the Management of the Principal and request the Management to discontinue or heal the violation, 
+or to take other relevant action. The Monitor can in this regard submit non‐binding recommendation. 
+Beyond this, the Monitor has no right to demand from the parties that they act in a specific manner,
+
+[Page 32]
+32 
+ 
+refrain from action or tolerate action. However, the Independent External Monitor shall give an 
+opportunity  to  the  Bidder/Contractor/Supplier  to  present  its  case  before  making  its 
+recommendations to the Principal.  
+6. 
+The Monitor will submit a written report to the Chairperson of the Board of the Principal within 8 to 
+10 weeks from the date of reference or intimation to him by the 'Principal' and, should the occasion 
+arise, submit proposals for correcting problematic situations.  
+7. 
+If the Monitor has reported to the Chairperson of the Board a substantiated suspicion of an offence 
+under relevant Anti‐Corruption Laws of India, and the Chairperson has not, within reasonable time, 
+taken visible action to proceed against such offence or reported it to the Vigilance Office, the Monitor 
+may also transmit this information directly to the Central Vigilance Commissioner, Government of 
+India.  
+8. 
+The word 'Monitor' would include both singular and plural.  
+Section 9 ‐ Pact Duration 
+ 
+This Pact begins when both parties have legally signed it. It expires for the Contractor/Supplier 12 months 
+after the last payment under the respective contract, and for all other Bidders 6 months after 
+the contract has been awarded. 
+  
+If any claim is made / lodged during this time, the same shall be binding and continue to be valid 
+despite  the  lapse  of  this  pact  as  specified  above,  unless  it  is  discharged  /  determined  by 
+Chairperson of the Principal.  
+Section 10 ‐Other provisions 
+1. 
+This  agreement  is  subject  to  Indian  Law.  Place  of  performance  and  jurisdiction  is  the 
+Registered Office of the Principal, i.e. Mumbai. The Arbitration clause provided in the main 
+tender document / contract shall not be applicable for any issue / dispute arising under 
+Integrity Pact.  
+2. 
+Changes and supplements as well as termination notices need to be made in writing. Side 
+agreements have not been made.  
+3. 
+If the Bidder/Contractor/Supplier is a partnership or a consortium, this agreement must be 
+signed by all partners or consortium members.  
+4. 
+Should one or several provisions of this agreement turn out to be invalid, the remainder of 
+this agreement remains valid. In this case, the parties will strive to come to an agreement 
+to their original intentions.  
+ 
+………………………  
+ 
+ 
+ 
+ 
+…………………………… 
+For the Principal  
+ 
+ 
+ 
+ 
+For the Bidder/Contractor/Supplier 
+ 
+Place ………………  
+ 
+Witness 1 : ………………  
+(Signature/Name/Address)  
+Date ……………….  
+  Witness 2 : ……………… 
+  
+  (Signature/Name/Address)
+
+[Page 33]
+33 
+ 
+ Annexure – VIII :   Non Disclosure Agreement (NDA) 
+ 
+Non Disclosure Agreement 
+This Agreement is made as of the ‐‐‐‐‐‐‐‐‐‐‐‐‐ 2008 between BHARAT PETROLEUM CORPORATION LTD.  
+(BPCL)  a  Government  of  India  Enterprise,  having  its  registered  office  and  Corporate  office  at  Bharat 
+Bhavan , 4&6 , Currimbhoy Road , Ballard Estate , Mumbai ‐400001 hereinafter referred as First Part  
+which expression shall unless repugnant to the subject or the context mean and included its successors, 
+nominees or assigns and M/s ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ ‐‐‐‐‐‐‐‐ ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ a company 
+incorporated under the Indian Companies Act, 1956, and having its registered office at ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+‐‐‐‐‐‐‐‐‐‐‐‐‐ ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ herein after called “‐Second Part ” which expression 
+shall unless repugnant to the subject or the context mean and include its successors, nominees or assigns. 
+Whereas in order to pursue the business purpose of this particular project as specified in Annexure  A 
+(the  “Business  Purpose”),    M/s‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ 
+recognize that there is a need to disclose certain information, as defined in para 1 below,  to be used only 
+for  the  Business  Purpose  and  to  protect  such  confidential  information  from  unauthorized  use  and 
+disclosure. 
+In consideration of First Part’s   disclosure of such information, Second Part agrees as follows: 
+1. This Agreement will apply to all confidential and proprietary information disclosed by First part to 
+Second part , including information which the disclosing party identifies in writing or otherwise as 
+Confidential before or within thirty days after disclosure to the receiving party (“Confidential 
+Information”).  
+ 
+Confidential Information consists of certain specifications, designs, plans, drawings, software, 
+prototypes  and/or  technical  information,  and  all  copies  and  derivatives  containing  such 
+Information, that may be disclosed to other part by first part  for and during the Purpose, which 
+disclosing party considers  proprietary or confidential (“Information”). Confidential  Information 
+may be in any form or medium, tangible or intangible, and may be communicated/disclosed in 
+writing, orally, or through visual observation or  by any other means  by other part  (hereinafter 
+referred to as the receiving party) by the First Part  (hereinafter referred to as one disclosing 
+party). Information shall be subject to this Agreement, if it is in tangible form, only if clearly 
+marked as proprietary or confidential as the case may be, when disclosed to the receiving party 
+or, if not in tangible form, its proprietary nature must first be announced, and it must be reduced 
+to writing and furnished to the receiving party within thirty (30) days of the initial disclosure. 
+2. M/s ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ i.e. Second Part ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐hereby agreed that during the 
+Confidentiality Period: 
+ 
+a)  The  receiving  party  shall  use  Information  only  for  the  Purpose,  shall  hold  Information  in 
+confidence using the same degree of care as it normally  exercises to protect its own proprietary
+
+[Page 34]
+34 
+ 
+information, but not less than reasonable care, taking into account the nature of the Information, 
+and shall grant access to Information only to its employees who have a need to know, but only to 
+the extent necessary to carry out the business purpose of this project as defined in exhibit A, shall 
+cause its employees to comply with the provisions of this Agreement applicable to the receiving 
+party, shall reproduce Information only to the extent essential to fulfilling the Purpose, and shall 
+prevent disclosure of Information to third parties. The receiving party may, however, disclose the 
+Information to its consultants and contractors with a need to know; provided that by doing so, 
+the receiving party agrees to bind those consultants and contractors to terms at least as restrictive 
+as those stated herein, advise them of their obligations, and indemnify the disclosing party for 
+any breach of those obligations. 
+b) Upon the disclosing party's request, the receiving party shall either return to the disclosing 
+party all Information or shall certify to the disclosing party that all media containing Information 
+have been destroyed.  
+3. The foregoing restrictions on each party's use or disclosure of Information shall not apply to 
+Information that the receiving party can demonstrate: 
+ 
+a)  Was  independently  developed  by  or  for  the  receiving  party  without  reference  to  the 
+Information, or was received without restrictions; or 
+b) Has become generally available to the public without breach of confidentiality obligations of 
+the receiving party. The information shall not be deemed to be available to the general public 
+merely because it is embraced by more general information in the prior possession of Recipient 
+or of others, or  merely because it is expressed in public literature in general terms not specifically 
+in accordance with the Confidential Information; or 
+c) Was in the receiving party's possession without restriction or was known by the receiving party 
+without restriction at the time of disclosure and  receiving party  declare of possession of such 
+confidential  information within a day upon such disclosure by disclosing party ; or  
+d) Pursuant to  a  court order  or  is otherwise  required  by  law  to  be  disclosed',  provided that 
+Recipient has notified the disclosing party immediately upon learning of the possibility of any such 
+court order or legal requirement and has given the disclosing party a reasonable opportunity and 
+co‐operate with disclosing party to contest or limit the scope of such required disclosure including 
+application for a protective order. 
+e) Is disclosed with the prior consent of the disclosing party; or 
+f)  The  receiving  party  obtains  or  has  available  from  a  source  other  than  the  disclosing  party 
+without breach by the receiving party or such source of any obligation of confidentiality or non‐
+use towards the disclosing party. 
+4. Receiving party agrees not to remove any of the other party’s Confidential Information from the 
+premises of the disclosing party without the disclosing party’s prior written approval and exercise 
+extreme care in protecting the confidentiality of any Confidential Information which is removed,
+
+[Page 35]
+35 
+ 
+only  with  the  disclosing  party’s  prior  written  approval,  from  the  disclosing  party’s  premises. 
+Receiving party agrees to comply with any and all terms and conditions the disclosing party may 
+impose  upon  any  such  approved  removal,  such  as  conditions  that  the  removed  Confidential 
+Information and all copies must be returned by a certain date, and that no copies are to be made 
+off of the premises. 
+ 
+5. Upon the disclosing party’s request, the receiving party will promptly return to the disclosing party 
+all tangible items containing or consisting of the disclosing party’s Confidential Information all 
+copies thereof. 
+ 
+6. Receiving party recognizes and agrees that all of the disclosing party’s Confidential Information is 
+owned solely by the disclosing party (or its licensors) and that the unauthorized disclosure or use 
+of such Confidential Information would cause irreparable harm and significant injury, the degree 
+of which may be difficult to ascertain. Accordingly, receiving party agrees that the disclosing party 
+will have the right to obtain an immediate injunction enjoining any breach of this Agreement, as 
+well as the right to pursue any and all other rights and remedies available at law or in equity for 
+such a breach. 
+ 
+7. As  between  the  parties,  all  Information  shall  remain  the  property  of  the  disclosing  party.  By 
+disclosing  Information  or  executing  this  Agreement,  the  disclosing  party  does  not  grant  any 
+license, explicitly or implicitly, under any trademark, patent, copyright, mask   work protection 
+right,  trade  secret  or  any  other  intellectual  property  right.  The  disclosing  party  disclaims  all 
+warranties regarding the information, including all warranties with respect to infringement of 
+intellectual property rights and all warranties as to the accuracy or utility of such information. 
+Execution of this Agreement and the disclosure of Information pursuant to this Agreement does 
+not constitute or imply any commitment, promise, or inducement by disclosing party to make any 
+purchase or sale, or to enter into any additional agreement of any kind. 
+ 
+8. Disclosing party’s failure to enforce any provision, right or remedy under this agreement shall not 
+constitute a waiver of such provision, right or remedy. 
+ 
+ 
+9. This Agreement will be construed in, interpreted and applied in accordance with the laws of India. 
+ 
+10. This Agreement and Exhibit A attached hereto constitutes the entire agreement of the parties 
+with  respect  to  the  parties'  respective  obligations  in  connection  with  Information  disclosed 
+hereunder and supersedes all prior oral and written agreements and discussions with respect 
+thereto. The parties can amend or modify this Agreement only by a writing duly executed by their 
+respective authorized representatives. Neither party shall assign this Agreement without first 
+securing the other party's written consent. 
+ 
+11. This  Agreement  will  remain  in  effect  for  six  years  from  the  date  of  the  last  disclosure  of 
+Confidential Information, at which time it will terminate, unless extended by the disclosing party 
+in writing.
+
+[Page 36]
+36 
+ 
+12. With regard to the confidential information of M/s           disclosed to BPCL, BPCL agrees to comply 
+with all the obligations of receiving party mentioned in this Agreement. 
+ 
+ 
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement by their duly authorized officers 
+or representatives. 
+ 
+ 
+M/S ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐                    BHARAT PETROLEUM  
+                                                                  CORPORATION LIMITED 
+Signature: _____________                       Signature: ____________ 
+Printed Name: _________  
+ 
+      Printed Name: ___________ 
+Designation: ________________  
+      Designation: ________________________
+
+[Page 37]
+37 
+ 
+Exhibit A 
+ 
+1. Business Purpose: …………………………………………………………… 
+……………………………………………………………………………………. 
+ 
+2. Confidential Information of M/s ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ 
+a.  All  communication/  information  submitted  to  the  BPCL  relating  to  the  proposal  of    M/s 
+_______________  for  the  purpose  of  procurement  and  subsequent  integration  with  existing 
+infrastructure of BPCL, marked as confidential. 
+3. Confidential Information of BPCL: 
+a. All details relating to architecture and other Network infrastructure details of BPCL etc. 
+b. All information shared in oral or in written form by BPCL with M/s‐‐‐‐‐‐‐‐‐‐‐‐‐ 
+‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐. 
+c. Any information desired by M/s ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ shall be justified for. 
+d. Information downloaded or taken in physical form shall be returned/ destroyed after use and not 
+copied. 
+e. Draft Technical specifications for the various projects and Tender documents for the same. 
+ 
+ 
+BPCL: ___________________                  M/s‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ 
+ 
+Signed                                                          Signed
+
+[Page 38]
+38 
+ 
+ 
+ 
+ To,  
+Sr. Manager IS (P & C)  
+M/s Bharat Petroleum Corporation Limited  
+IS Department, CPO Sewree, 1st Floor,  
+A – Installation, Sewree East,  
+Mumbai – 400015  
+Subject: Manufacturer Authorization for Tender No CRFQ 1000270857  
+Sir,  
+ 
+We, <OEM/ Manufacturer name> having our registered office at <OEM/ Manufacturer address>, are an 
+established and reputed manufacturer of Purpose Built Backup Appliance/ Tape Library.  
+We confirm that <Bidder Name> having its registered office at <Bidder Address> is our authorized 
+partner for ________________________. We hereby authorize <Bidder Name> to quote and execute 
+the order for the subject tender on behalf of <OEM/ Manufacturer name>.  
+Our full support is extended to them in all respects for supply and installation. Further, we <OEM/ 
+Manufacturer name> shall provide L1, L2 & L3 support services during entire warranty and AMC period 
+directly by us for the offered Hardware & Software as per the terms and conditions of the tender.  
+We also undertake that in case of default in execution of this tender by the <Bidder Name>, the 
+<OEM/Company Name> will take all necessary steps for successful execution of this project as per 
+tender requirements.  
+ 
+Thanking You  
+For <OEM/ Manufacturer name>  
+<(Authorized Signatory)>  
+Name:  
+Designation:  
+Note: This letter of authority should be on the letterhead of the OEM and should be signed & stamped by 
+Legal  Officer/Company Secretary of OEM Company as  well as acknowledged  by the concerned SI/BP 
+towards their acceptance of the same.

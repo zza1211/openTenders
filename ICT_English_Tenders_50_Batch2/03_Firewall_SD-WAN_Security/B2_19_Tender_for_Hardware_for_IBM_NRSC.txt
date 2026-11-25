@@ -1,0 +1,2409 @@
+Title: Tender for Hardware for IBM NRSC
+Source: https://ibm.gov.in/writereaddata/tenders/02222018102446TenderforHardwareIBMNRSC_2102.pdf
+Pages: 27
+
+--- Extracted text by page ---
+
+[Page 1]
+1 
+ 
+ 
+GOVERNMENT OF INDIA 
+MINISTRY OF MINES 
+INDIAN BUREAU OF MINES 
+INDIRA BHAVAN, CIVIL LINES 
+ NAGPUR- 440 001 
+E-MAIL: cmg@ibm.gov.in,                Website   : www.ibm.gov.in 
+No . 430(31)/2017-18/STO 
+Dated :  21/02/2018 
+E-PROCUREMENT 
+NOTICE INVITING E-TENDER (NIT) 
+                 Online e-tenders are invited for and on behalf of President of India from reputed Manufacturers (OEM’s) 
+/ their Authorised - Suppliers / Distributers/ Agents/ Partners etc. in TWO BID System under   e-procurement  
+through Central Public Procurement Portal (CPPP) i.e. http://www.eprocure.gov.in for Indian Bureau of Mines 
+(IBM): 
+Sub: SUPPLY, INSTALLATION & COMMISSIONING OF HARDWARES FOR SETTING UP OF REMOTE SENSING 
+LABORATORIES AT INDIAN BUREAU OF MINES,  NAGPUR AND HYDERABAD 
+Tender Enquiry No & date 
+430(31)/2017-18/STO  dated : 21/02/2018 
+Start date & Time of e-publishing of Online Bids 
+21/02/2018 &  18:00 Hrs 
+Last date for submission of written questions   
+by bidders for Clarifications 
+26/02/2018 &  12:00 Hrs 
+Date of Issue of Clarifications 
+01/03/2018  & 15:00 Hrs 
+Start date & Time of Submission of Online Bids 
+01/03/2018 &  16:30 Hrs 
+Last date & Time of Submission of Online Bids  
+15/03/2018 &  15:00 Hrs 
+Date & Time of Opening of e-Tender online  
+16/03/2018 &  15:00 Hrs 
+BID SECURITY (EMD)-               
+(by way of Demand Draft/ BG/Fixed deposit) 
+Please  ref Section-6 for Sl No 1 to 6  
+ 
+For Sl No. 1: Rs 40,000/- (Forty thousand) 
+Sl No. 2: Rs 2,60,000/- (Two Lakhs sixty thousand) 
+       Sl No. 3: Rs: 17,000/- (Seventeen Thousand) 
+       Sl No. 4: Rs: Nil  
+       Sl No. 5: Rs: 18,000/- (Eighteen Thousand) 
+       Sl No. 6: Rs: 18,000/- (Eighteen Thousand) 
+( If due to any exigency, the due date of opening of bids is declared as a closed holiday, the bids will be opened on 
+the next working day at the same time or any other day/time, as intimated by the buyer) 
+Note: For any Corrigendum /addendum please be in touch with IBM portal as well as CPP Portal. 
+The invitation of e-tender is subject to fulfilment of instructions and conditions as per schedules below: 
+Section – 1 
+Instruction to Bidders for e-submission of bids online 
+Section – 2 
+Norms for Submission of Earnest Money Deposit (EMD) 
+Section – 3 
+Performance Security 
+Section – 4 
+Terms &Conditions, Eligibility criteria etc. 
+Section – 5 
+Other Terms & Conditions 
+Section – 6 
+Schedule of Requirements   
+Section-  7 
+Technical Specifications 
+ Annexure – I 
+Format of Bank Guarantee for Bid Security (EMD) 
+ Annexure – II 
+Undertaking by the Tenderer  
+Annexure – III 
+Information about the Tenderer 
+Annexure – IV 
+Mandate form 
+Annexure – V 
+ Price Bid (BoQ) in Excel sheet 
+Annexure – VI 
+Request for Clarification Format 
+Annexure – VII 
+Compliance Sheet format as per Specification 
+The interested bidders are requested to enroll on the e-procurement module of the Central Public Procurement (CPP) 
+portal (URL:http://eprocure.gov.in/eprocure/) by clicking on the link “Click here to Enroll”. Enrolment on the CPP portal 
+is free of charge. The entire tender document is also available at our website (www.ibm.gov.in). 
+  
+Encl: As above  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ Controller General 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indian Bureau of Mines 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+for and on behalf of President of India
+
+[Page 2]
+2 
+ 
+GOVERNMENT OF INDIA 
+MINISTRY OF MINES 
+INDIAN BUREAU OF MINES 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+SECTION–1  
+Instruction to Bidders for the e-submission of the bids online through e-tender site  
+(www.eprocure.gov.in)  UNDER TWO BID SYSTEM 
+ 
+1. It is preferred that bidder should submit the Bids only through e-procurement portal (www.eprocure.gov.in). The 
+e-tender will be opened at the following office address:  
+Assistant Stores Officer 
+Indian Bureau of Mines  
+Indira Bhavan, Civil Lines, 
+Nagpur-440001 
+ 
+2. The complete tender document in PDF format can be downloaded from the website http://eprocure.gov.in or 
+www.ibm.gov.in. The bidders who are desirous of participating in e-procurement shall submit their EMD, 
+Technical bid, commercial bid (BOQ) and other relevant documents in the standard formats as prescribed in the 
+CPP portal at www.eprocure.gov.in. The bidders should upload the scanned copies of all relevant certificates; 
+documents etc. on www.eprocure.gov.in in support of their Technical bids  for technical qualification and the 
+BOQ document in the website for Finance bid/ Price bid. The Tender is to be submitted through e-procurement 
+portal (www.eprocure.gov.in) only.   
+ 
+3. Bidder should enroll their firms in the tender site http://eprocure.gov.in/eprocure/app by using the option 
+available (online bidder enrolment).  After the enrollment, the bidder should enroll for obtaining Digital 
+Signature Certificate (DSC) from any authorized Certifying Authorities. 
+ 
+4. Bidder should login to the site through their user ID / password.  
+ 
+5. The e-token (DSC) should be used by the bidder only and will be responsible for safety of the same.  
+ 
+6. If there is any clarification related to DSC, the same may be obtained from CPP Portal. Bidders should taken into 
+account all the Corrigendum/Addendum published at CPP Portal and IBM’s website before submitting the bid.  
+ 
+7. The bidder has to submit  tender document online well in advance before the prescribed time to avoid any delay 
+or problem during the submission process.  
+ 
+Signing of Tender: The bidder should download the Notice Inviting Tender (NIT) and upload the same duly 
+signed in all pages during the time of submission of e-tender. After uploading the documents must be verified by 
+the bidder with his digital signature (DSC). The bidder should sign the undertaking letter as per Annexure-II 
+enclosed and upload the scanned copy of the same along with NIT. 
+ 
+8. The Tender Inviting Authority (TIA) will not be held responsible for any sort of delay or the difficulties to be 
+faced during the submission of bid online by the bidder.  
+ 
+9. The bidder will receive a massage from the CPP portal after uploading all the bid documents submitted by him. A 
+bid summary will be displayed with the bid number, date and time of submission of the bid with all other relevant 
+details at the home page of CPP portal.    
+ 
+10. Bidder should log into the site well in advance for bid submission, so that he could submit the bid in time, i.e., on 
+or before the bid submission end time.   
+ 
+11. The time displayed at the top of the tender site, will be valid for all actions i.e. bid submission, bid opening etc., 
+in the e-tender system. The bidder should follow this time during bid submission.  
+ 
+12.  Bidder should ensure that prices should not be indicated anywhere in the un-priced part. The prices should only 
+be indicated   in the price bid (BOQ).  
+ 
+13. Bidders to note that downloading the bids and uploading their offers at CPP Portal shall be deemed to be a 
+confirmation that they have read all sections of the pages of the bid document including General Conditions
+
+[Page 3]
+3 
+ 
+without any exception and have understood the entire tender document and are clear about the requirements of 
+the tender.  
+ 
+14. The PRICE BID (BOQ) has to be submitted as per the prescribed format only. The bidders are invariably 
+required to quote in INR for all the items of the tender. Incomplete offer shall be summarily rejected.  
+ 
+15. Validity of Tender - The offer shall remain valid for 180 Days (Six months) from the date of opening of           
+e-tender and if the bidder not complied the same, the bid will be rejected. The validity of the tender may be 
+extended by the bidder, if any request made by IBM. 
+ 
+16. On the day of Tender opening only Techno-commercial Bid (Technical Bid) will be opened and the Price/ 
+Commercial bid will be opened on later date in respect of technically qualified bidders only. 
+ 
+17. The bid security will be returned to the unsuccessful bidders after finalization of the tender. 
+ 
+18. The Controller General, IBM reserves the right to accept or reject any tender/ bid in part or parts only with such 
+conditions as it may be prescribed. 
+ 
+19. Canvassing in any form by the bidder or by any other agency acting on behalf of the bidder after submission of 
+the bid, shall be disqualified. The Controller General, IBM’s decision in this regard shall be final and binding on 
+the bidders. 
+ 
+SECTION - 2  :EARNEST MONEY/BID SECURITY   
+The bidder should upload the scanned copy of earnest money deposit as mentioned in NIT for each item along with 
+the offer in the form of Account Payee Demand Draft or Bank guarantee from a Commercial/scheduled Bank of India in 
+an acceptable form in favor of “Pay and Account Officer, Indian Bureau of Mines, Nagpur “ payable at Nagpur. The 
+EMD should be accompanied with technical bid otherwise the offer may be treated as “invalid”.  Earnest money deposit 
+by way of Fixed Deposit receipt, Banker’s Cheque is also acceptable.  
+ 
+a. The original copy of EMD should reach to IBM office, address as mentioned in Section I clause 1 through by 
+post / courier / by hand on or before the time of opening of bid  to the concerned authority of IBM otherwise 
+uploaded bid will be rejected. 
+ 
+b. EMD in any other form will not be accepted. 
+ 
+c. EMD shall be valid for a period of Forty-five (45) days beyond the final bid validity period. 
+ 
+d. EMD payment is exempted for Micro and Small Enterprises (MSE) with NSIC registered organizations in case of 
+Single Point Registration covering all components of the said tender. Copy of valid NSIC Certificate for MSEs 
+along with DIC’s (District Industries Centre) Certificate has to be submitted along with the bid. Relevant 
+documentation needs to be submitted along with the bid to substantiate the claim for exemption of EMD failing 
+which, bidder’s bid will be liable for rejection. 
+ 
+e. EMD of all unsuccessful bidders will be refunded by IBM within 30 days of the award of Tender. EMD of the 
+successful bidder will be returned upon submission of Performance Bank Guarantee (PBG). 
+ 
+f. No interest shall be payable by IBM to the Bidder(s) on the EMD amount for the period of its currency.  
+ 
+g. The bid without adequate EMD, as mentioned above, will be liable for rejection without providing any further 
+opportunity to the bidder concerned.  
+ 
+h. If Bidder quotes more than one item given in section-6, bidder should submit EMD separately for each item.   
+ 
+i. The bidder may extend the validity of the EMD,  if requested by the IBM. 
+ 
+j. EMD may be forfeited: 
+i. If a bidder withdraws its bid during the period of bid validity or any extension thereof agreed to by the bidder. 
+ii. 
+In case of a successful bidder, if the bidder fails to submit the PBG in accordance with terms and conditions. 
+iii. 
+If any of the bidders modify their bid during the validity period.
+
+[Page 4]
+4 
+ 
+iv. 
+If the Proposal is varied or modified in a manner not acceptable to IBM after opening of Proposal during the 
+validity period or any extension thereof. 
+v. 
+If the Bidder tries to influence/jeopardize the bidding/evaluation process or submits any forged documents. 
+ 
+ 
+ SECTION- 3: PERFORMANCE SECURITY /PBG: 
+ 
+The successful bidder should submit Performance Bank Guarantee (PBG)/ performance security in the form of 
+Account Payee Demand Draft, Fixed Deposit Receipt from a Commercial/scheduled Bank of repute in India, Bank 
+guarantee from a Commercial/scheduled Bank of repute in India in the acceptance form for 5% of the value of the 
+contract. The PBG/Performance Security should remain valid for a period of sixty days beyond the date of completion of 
+all obligations of the supplier including warranty obligations from the date of receipt of the goods.  
+ 
+SECTION – 4: TERMS AND CONDITIONS: 
+ 
+1. 
+The offer shall be addressed to The Controller General, Indian Bureau of Mines and shall be submitted Online 
+through CPP portal.  The offer should be submitted separately for each item in two parts i.e. Technical Bid and 
+Commercial Bid.  
+ 
+(A)  
+PRICE BID  :  The price bid should indicate the item wise prices along with applicable taxes   
+packing/forwarding charges,  freight paid and door delivery including handling/un-loading charges at Purchaser’s 
+site separately.   In case of discrepancy between the amounts mentioned in figures and in words, the amount in 
+words shall prevail.  
+  
+(B)   
+TECHNICAL BID  :  Technical Bid should consist of : 
+ 
+i. All relevant information asked in the general conditions and the specifications proposed to be supplied. 
+ii. The infrastructure available at Nagpur & Hyderabad or nearby for upkeep of the system during the contract 
+/Warranty period, may be given, if any. 
+iii. Compliance statement in respect of Technical Specifications should be attached, stating that whether the bidder is 
+complied the specification or not.( Annexure – VII) 
+iv. A list of minimum 3 clients, to whom the similar products supplied in India. 
+v. Catalogue, Technical literature should be enclosed along with Technical Bid for each item. 
+vi. EMD to be placed with the technical bid. 
+ 
+(C)    
+ELIGIBILITY CRITERIA FOR BIDDERS   
+ 
+The bidders should meet the following eligibility criteria for supplying Hardware components to IBM:  
+i. The bidder must be a legally registered Proprietorship concern or Registered Partnership or a Limited Company 
+or legally registered company in India as per the Companies Act of 1956 with office and operations in India 
+for at least the last five financial years. The bidder will be a single legal entity and shall not be a joint venture 
+or a consortium of firms. 
+ii. The bidder must be reputed and local authorized partners of OEM and must submit OEM authorization certificate 
+for this enquiry. 
+  
+(D)  
+BID EVALUATION CRITERIA :  
+ 
+The technical bid will be opened online by a committee of the officers duly constituted for the purpose at 
+the time and date as specified in the tender document. All Technical Specifications, Brochures, statements, 
+documents, certificates, and proof of EMD etc. uploaded by the bidders will be verified and downloaded for 
+technical evaluation. The clarifications, particulars, if any, required from the bidders will be obtained either 
+online or in the conventional method by addressing the bidders. The result of Technical bid evaluation will be 
+displayed on the www.eprocure.gov.in which can be seen by all bidders who participated in the tender. The 
+commercial bids i.e. Bill of Quantity (BOQ) of only technically qualified bidders will be opened online by the 
+authorized officers and the result will be displayed on the www.eprocure.gov.in which can be seen by all bidders 
+who participated in the tender. Till the technical bid is opened, the identity of the bidders who participated in the 
+tender will be kept confidential. Similarly, till the commercial bids are opened, the bid offers will be kept 
+confidential The lowest total financial offer (inclusive of all financial/cost aspects) as the ultimate landing cost up 
+to the consignee’s place, among the only technically acceptable bid will be selected.
+
+[Page 5]
+5 
+ 
+For Item Sl No 1 of Section-6, the total cost of Sl No 1.1 to 1.3 will be considered as lowest offer, 
+similarly for Item Sl No 2 of Section-6, the total cost of Sl No 2.1 to 2.5 will be considered as lowest offer quoted 
+in the price bid at the time of Financial Evaluation. 
+The rates for items 1,2,3,4, 5 and 6 will be considered separately at the time of Financial Evaluation for 
+considering lowest offer as per BOQ1. Whereas BOQ2 (AMC charges) will not be considered for evaluating 
+lowest offer for items 1,2,3,4, 5 and 6. 
+ 
+ 
+(E)      TRANSIT INSURANCE:  The transit insurance for the goods shall be arranged by the Supplier.   
+  
+(F) 
+DISQUALIFICATION: 
+The proposal is liable to be disqualified in the following cases: 
+a. Bid submitted without EMD; 
+b. Bid not submitted in accordance with the procedure and formats prescribed in this NIT document; 
+c. During validity of the bid, or its extended period, if any, the bidder increases his quoted prices; 
+d. Bidder qualifies the bid with its own conditions or assumptions; 
+e. Bid is received in incomplete form and if any modification being carried out by the bidder in the BoQ; 
+f. Bid is received after due date and time for submission of bid; 
+g. Bid is not accompanied by all the requisite documents; 
+h. A commercial bid submitted with assumptions or conditions.  
+i. 
+Bidder tries to influence the Bid evaluation process by unlawful/corrupt/fraudulent means at any point of 
+time during the bid process; 
+j. 
+In case any one bidder submits multiple proposals or if common interests are found in two or more bidders. 
+k. Bidder fails to deposit the Performance Bank Guarantee (PBG) or fails to enter into a contract within 15 days  
+of the date of notice of award or within such extended period, as may be specified by IBM; 
+l. 
+Bidder may specifically note that while evaluating the bids, if it comes to IBM’s  knowledge expressly or 
+implied, that some bidders may have colluded in any manner whatsoever or otherwise joined to form an 
+alliance resulting in delaying the processing of bids then the bidders so involved are liable to be disqualified 
+for this contract as well as for a further period of three years from participation in any of the tenders floated 
+by IBM; 
+m.  If, any of the bid documents (including but not limited to the hard and soft/electronic copies of the same, 
+presentations during evaluation, clarifications provided by the bidder),  excluding the commercial bid, 
+submitted by the bidder is found to contain any information on price, pricing policy, pricing mechanism or 
+any information indicative of the commercial aspects of the bid; 
+n. Bidders or any person acting on its behalf indulges in corrupt and fraudulent practices; and 
+o. In case bidder fails to meet any of the bidding requirements as indicated in this NIT. 
+ 
+(G) 
+LATE OFFERS    :  Late/delayed offers, Telegraphic offers and incomplete offers are liable to be 
+rejected.  
+ 
+2.  
+TERMS OF PAYMENT:  100% payment within 30 days against the pre-receipted bill in triplicate, after receipt 
+of items in full and good condition, and after their installation/commissioning. E-Payment shall be made to the Supplier 
+through (ECS) Electronic Clearing System. Please note that the payment will be released only after confirmation from the 
+consignee that the items have been received in safe and sound condition.   
+ 
+3. 
+INSPECTION   :  After the material is received at Indian Bureau of Mines, it shall be inspected by the authority 
+of IBM.  The purchaser shall have full power to reject all or any portion that he considered defective or inferior in quality 
+of material.   Any portion of the supply so rejected shall be immediately replaced by the vendor at his own expenses.  If in 
+the opinion of purchaser, the said materials can be rectified, the vendor shall rectify at his own expenses and resubmit the 
+rectified materials for inspection. 
+ 
+4.  
+DESPATCH INSTRUCTION    :  The consignment should be despatched on door delivery and on freight paid 
+basis to following addresses as per supply order.: 
+ 
+(A) 
+Chief Mining Geologist 
+Indian Bureau of Mines, 
+1st Floor, Block 'D', Indira Bhavan, Civil Lines, Nagpur-440001   
+(B) 
+Regional Controller of Mines 
+Indian Bureau of Mines, 
+Room No. 603, 6th Floor, CGO Towers, Kavadiguda, Secunderabad - 500 080
+
+[Page 6]
+6 
+ 
+ 
+Un-loading/Handling and transferring consignment in storage shed of the purchaser will be arranged by 
+the supplier and not by the purchaser. 
+ 
+ 
+5. 
+DELIVERY:- 
+i) The delivery date is the essence of the contract and supplier shall therefore complete the delivery, installation 
+and commissioning within 30days from the date of award of contract. Indian Bureau of Mines does not accept 
+partial delivery. 
+ 
+ii) 
+The supply of hardwares, if delayed due to any reasons which are beyond the control of the supplier; the 
+supplier should obtain well in advance the concurrence of the purchaser in writing for extension of delivery date.  
+However, this solely depends upon the purchaser who has full authority to accept or reject the request for 
+extension of date. 
+ 
+6. 
+LIQUIDATED DAMAGES:  In case the supplier defaults in delivery, he should obtain the approval well in 
+advance in writing from the purchaser, if the purchaser has not accepted the extension of delivery period the purchaser 
+may forfeit the Performance Security.  Purchaser also reserves the right to claim liquidated damages of 2% of the contract 
+value for each month or part of month for delay in supply or defective or substandard goods supplied by the supplier, 
+provided that the total damages so claimed shall not exceed 10% of the total contract price. 
+ 
+SECTION- 5:  OTHER GENERAL TERMS AND CONDITIONS:   
+ 
+1. i) If the bidder is the authorized distributor of any Manufacturer, they should enclose  copy of the  Certificate of 
+authorized distributor issued by them for marketing and supplying their products. 
+ 
+ii) The bidder should clearly state in their offer that they/their principals possess valid license required under the 
+Industrial Development and Regulation Act, 1961 wherever applicable and necessary, for materials offered by them. 
+ 
+iii) Packing list must contain item wise list of contents of each package, case, crate etc. quantity despatched. Each 
+package shall be numbered consecutively to indicate individual and total packing i.e. 1 of 2, 2 of 2, etc. 
+ 
+iv) The registration of the firm viz. GST  No etc. may be mentioned in their offer. Prices shall be quoted entirely in 
+Indian Rupees and must be arrived at after including all expenses, rates, and taxes. 
+ 
+v)  Bidder Inquiries and IBM’s responses 
+ 
+a. All enquiries from the prospective bidders relating to this tender must be submitted in writing exclusively to the 
+contact person notified by IBM as above in the format specified in Annexure – VI Request for Clarification 
+Format. A copy of the bidder enquiries should also be emailed to the bid issuer’s email address provided in the 
+NIT. The mode of delivering written questions would be through post or email. It can also be submitted in 
+writing by the authorized representative of the prospective bidders during pre-bid conference. In no event,  IBM 
+will be responsible for ensuring that bidders’ inquiries have been received by them. Telephone calls or any other 
+mode of communication other than mentioned herein will not be accepted for the queries. 
+b. After uploading the tender in CPP Portal, IBM will accept written questions/inquiries from the bidders. IBM will 
+endeavour to provide a complete, accurate, and timely response to all questions of the bidders. However, IBM 
+makes no representation or warranty as to the completeness or accuracy of any response, nor does IBM 
+undertake to answer all the queries that have been posed by the bidders. All responses given by IBM will be 
+published on the website given in NIT. Any email communications sent by bidders to IBM must be sent to the 
+email address mentioned in NIT. 
+c. IBM will not bound to clarify any query after the pre-bid meeting. 
+ 
+vi)  
+Supplementary Information / Corrigendum / Amendment to the NIT 
+a.  If IBM deems it appropriate to revise any part of this NIT or to issue additional data to clarify an interpretation 
+of the provisions of this NIT, it may issue supplements to this NIT. Such supplementary information, including 
+but not limited to, any additional conditions, clarifications, minutes of meeting, and official communication 
+received over email/post will be communicated to all the bidders by publishing on the website given in NIT. 
+Any such supplement shall be deemed to be part of this NIT.
+
+[Page 7]
+7 
+ 
+b. The letters seeking clarifications sent either to all the bidders or to specific bidder as the case may be pertaining 
+to pre-bid conference shall also be deemed to be a part of this NIT, as the case may be. 
+c.  At any time prior to the deadline (or as extended by IBM) for submission of bids, IBM, for any reason, whether 
+at its own initiative or in response to clarifications requested by prospective bidder, may modify the NIT 
+document by issuing amendment(s). All such amendments will be published on the website given in NIT. which 
+will be binding on all the bidders. 
+d. In order to allow bidders a reasonable time to take the amendment(s) into account in preparing their bids, IBM, 
+at its discretion, may extend the deadline for the submission of bids. 
+ 
+2. 
+ Each page of the offer is to be signed and stamped by the bidder and prices should be indicated in figures and 
+words. 
+a.       Interlineations in Bids: 
+The bid shall contain no interlineations, erasures or overwriting except as necessary to correct errors made by the 
+Bidder, in such case corrections shall be initialed by the authorized person or persons who are authorized to sign 
+the bid. 
+ 
+b.     Consortium Bids:  
+No Consortium is allowed. 
+ 
+3. 
+In case of conflict in interpreting the conditions of the documents forming part of this tender enquiry, the decision 
+of the purchaser shall be final and binding and accepted by the bidder. 
+ 
+4. 
+All question, disputes or differences arising in connection with contract shall be subject to the exclusive 
+jurisdiction of the courts at Nagpur. 
+ 
+5. 
+ARBITRATION JURISDICTION :- In case of any dispute between IBM and any bidder regarding 
+interpretation of any terms of these NIT, the opinion of IBM shall prevail. However, if any bidder is aggrieved by 
+such decision, the dispute may be referred to any arbitrator jointly, appointed by IBM and such applicant and the 
+proceedings will be conducted in accordance with the Provisions of Indian Arbitration and Conciliation Act, 
+1996. The award given in that proceeding shall be final and abiding on both the parties. 
+ 
+6. 
+VENUE OF ARBITRATION :- Nagpur 
+ 
+ 
+7. 
+FORCE MAJEURE :-  Force majeure shall mean and be limited to the following – 
+A. Any war or possibilities 
+B. Any riot or civil commotion, natural physical disaster, impossibility of the use of any Railway, Airport, Shipping 
+services or any other means of transport, Power failure etc.  
+C. Any strike or lock out (only those exceeding 10 days in duration) affecting the performance of IBM/Bidder 
+obligations. 
+ 
+8.  
+The Purchaser reserves the right to increase/ decrease the quantity, procure items in part or reject any or all 
+tenders or to extend the date of opening and closing etc, without assigning any reasons. 
+ 
+9.  
+CANCELLATION   :  To determine the contract upon fault of the vendor, the purchaser reserve the right to 
+cancel the contract any time in whole or in part without assigning any reason and the purchaser also reserves the right 
+either to pay or not to the vendor for part of the items or whole of the items supplied, if they are not according to 
+purchaser’s satisfaction. 
+ 
+10.  
+The Vendor should indicate warranty period from the date of installation.  Replacement of defective items will be 
+borne by the vendor at his own cost in case of any manufacturing defects.  The vendor should also indicate post 
+Warranty annual maintenance contract service charges. 
+ 
+11.  
+The prices, once offered, must remain fixed and must not be subject to escalation for any reason whatsoever 
+within the period of the validity of the bid. A bid submitted with an adjustable price quotation or conditional bid may 
+be rejected as non-responsive. 
+ 
+12. 
+Technical specifications of the items required are given in Section-7.
+
+[Page 8]
+8 
+ 
+ 
+13. 
+ Hardware Installation, warranty etc.: 
+(i) 
+Only reputed and standard brands to be supplied. The brand make and model No. should be specified. 
+(ii) 
+Onsite supply, installation and integration of all items.  
+(iii) Three year onsite comprehensive warranty, maintenance and technical support must be provided after 
+installation.  
+(iv) The vendor must be a reputed system integrator & authorized partner of the OEM and provide OEM 
+authorization letter specific to this enquiry 
+(v) 
+The technical support/ maintenance includes Operating System/ software reinstallation(based on need), 
+hardware/ software problem diagnosis & resolution, site visits as required to be provided by the vendor.  
+(vi) The vendor must take the responsibility of attending to the reported problems, conduct problem diagnosis 
+onsite as required and if necessary source the required replacements from principals and resolve the issues.  
+(vii) All disks and batteries in the server must be covered under the comprehensive warranty & support. 
+(viii) During the warranty period, the faulty parts including disks must be replaced with new ones carrying 
+warranty up to the total system's warranty end-date. 
+(ix) Disks found defective and replaced during warranty will not be returned to the vendor. No disk retention 
+charges will be paid.  
+(x) 
+All required cables, connectors, drivers, etc. to be supplied. Power cables must be compatible with standard 
+Indian type sockets and power supply. 
+(xi) The quote must be completed in all respects. Incomplete quotes are liable to be rejected;  
+(xii) Item-wise compliance to be provided for all the points. 
+14. 
+ADDITIONAL REQUIREMENTS   :   
+ 
+a) 
+Demonstration of hardwares, 3D viewing of stereo-monitors along with NVDIA kit should be 
+arranged at the suppliers own expenses and training to IBM personnel on free of cost. 
+b) 
+Detailed specifications should be furnished for each item. 
+c) 
+Spares and Accessories for smooth operation for two years after warranty should be quoted 
+separately.  
+d) 
+Installation and Commissioning of the hardwares will be the responsibility of the Supplier.    
+e) 
+The free services, warranty, Up-gradation maintenance and other facilities provided should be 
+specified along with the offer. 
+f) 
+The vendor may indicate post warranty annual maintenance service charges for the three years after 
+expiry of the warranty period.
+
+[Page 9]
+9 
+ 
+     SECTION-6 : SCHEDULE OF REQUIREMENT 
+ 
+Item 
+Sl. 
+No. 
+Description of Item 
+(Hardware) 
+No. of units   
+at IBM HQ, 
+Nagpur 
+No. of units   
+at Regional 
+office of IBM, 
+Hyderabad 
+Total Qty 
+Remarks 
+ 
+SUPPLY, INSTALLATION & COMMISSIONING OF HARDWARES FOR 
+SETTING UP OF REMOTE SENSING LABORATORIES AT INDIAN 
+BUREAU OF MINES,  NAGPUR AND HYDERABAD  
+(Specify Make & Model for  following items) as per specification 
+mentioned at Section-7: 
+ 
+ 
+1 
+Network Switch, Network Router, Firewall appliance 
+ 
+1.1 Network Switch 
+01 
+- 
+01 
+ 
+1.2 Network Router 
+01 
+- 
+01 
+ 
+1.3 Network Firewall Appliance 
+01 
+- 
+01 
+ 
+2 
+Server, Unified Storage System, Workstations, External HDD , High End PC’s 
+ 
+2.1 Server 
+01 
+- 
+01 
+ 
+2.2 Unified Storage System 
+(20TB) 
+02 
+- 
+02 
+ 
+2.3 Workstation 
+03 
+02 
+05 
+ 
+2.4 External HDD of 10 TB 
+02 
+02 
+04 
+ 
+2.5 High End PC’s 
+03 
+02 
+05 
+ 
+3 
+3D mouse with 16 buttons or 
+more  
+01 
+01 
+02 
+ 
+4 
+NVIDIA 3D Vision kit 
+01 
+01 
+02 
+ 
+5 
+Scanner – A0 Size 
+01 
+01 
+02 
+ 
+6 
+Plotter – A0+ size 
+01 
+01 
+02 
+ 
+ 
+ 
+Note :  
+1.  Quantities mentioned above are tentative and subject to vary as per actual requirement of the purchaser. 
+2. For Item Sl. No. 1, the total cost of Sl. No. 1.01 to 1.03 & For Sl. No. 2, the total cost of Sl. No. 2.01 to 
+2.05 will be considered for evaluating the lowest offer quoted in the price bid at the time of Financial 
+Evaluation. The bidder must quote for all the items of Item Sl. No. 1, if not quoted, the bid will not be 
+considered, similarly the bidder must quote for all the items of Item Sl. No. 2, if not quoted, the bid will 
+not be considered. 
+3. The rates for Sl. No. 1, 2, 3, 4, 5 & 6 may be quoted separately. (for details refer Section-4, 1 (D)) 
+4. For item Sl. No.1, all items of Sl. No. 1.1 to 1.3 should be of same make and should support the Server as 
+specified in Sl. No. 2.1.
+
+[Page 10]
+10 
+ 
+ 
+Section - 7 
+ 
+TECHNICAL SPECIFICATION OF HARDWARE i.e. Network Switch, Network Router, 
+Firewall appliance, Server, Unified Storage System, Workstations, External Hard Disks, 
+High End PC’s, 3D Mouse, NVIDIA 3D Vision kit, Scanner and Plotter. 
+ 
+ 
+1. Network Switch 
+ 
+1.1 It should be populated and enabled with, 24 numbers of 10/100/1000 Ports and should have 2X10 Gbps uplink ports 
+populated with Multimode SFP modules. 
+1.2 Shall have minimum of 88 Gbps or more forwarding bandwidth and shall have minimum forwarding rate of 68Mpps or 
+more. 
+1.3 Shall support up to 32,000 MAC addresses and up to 24,000 unicast routes. 
+1.4 The Switch should be 1RU and provided with rack mountable kit. 
+1.5 The switch should have support for Stacking. Stacking should enable in each switches to function as a single unit. 
+1.6 Shall support STP and Per-VLAN STP features. 
+1.7 Shall support remote port mirroring to remotely monitor ports in a layer-2 switch network from any other switch in the 
+same network. 
+1.8 Shall support SNMPv1. SNMPv2c, and SNMPv3. 
+1.9 Shall support both IPv4 and IPv6. 
+1.10 
+Three years comprehensive onsite warranty. 
+ 
+ 
+2. Network Router 
+ 
+2.1 
+The router should support for the Internet link of minimum 100Mbps or above. 
+2.2 
+It should have minimum forwarding performance of 300Kpps.  
+2.3 
+The Router should support min 3 onboard WAN/LAN ports with 10/100/1000 Mbps Speed. 
+2.4 
+It should support 200 VPN for site to site encrypted communication. 
+2.5 
+It should have RJ-45-based ports and integrated Serial port, External USB slots, serial console port etc. 
+2.6 
+The Router should have 256MB flash memory and 512MB of RAM. 
+2.7 
+The Router should support internal: AC, PoE, and DC supply options and redundant power supply. 
+2.8 
+The Router should support 100 to 240 VAC auto ranging AC input Voltage 
+2.9 
+The Router should support include Rack-mount 19in. (48.3 cm) EIA 
+2.10 
+The Router should support access control lists (ACLs) and Time-Based Access Lists Using Time Ranges(ACL) 
+2.11 
+The Router should support Message Digest Algorithm 5 (MD5) hashing algorithms for data integrity. 
+2.12 
+The Router should support secure large Layer 2 or MPLS networks requiring partial or full-mesh connectivity by 
+providing tunnel-less VPN connectivity using group shared keys. 
+2.13 
+The Router should support site-to-site VPNs, GRE-based IPsec VPN and digital certificates. 
+2.14 
+The Router should support Reverse Route Injection (RRI), EIGRP, IPSLA. 
+2.15 
+The Router should support IPv4, IPv6 and Static routes. 
+2.16 
+It should support Open Shortest Path First (OSPF), BGP, BGP Router Reflector. 
+2.17 
+The Router should support Multicast Internet Group Management Protocol (IGMPv2, IGMPv3) 
+2.18 
+The Router should support Class-Based Weighted Fair Queuing (CBWFQ) for Traffic Management and Weighted 
+Random Early Detection (WRED) for Traffic Management.
+
+[Page 11]
+11 
+ 
+2.19 
+The Router should support Class Based Traffic Policing with CLP Tagging, Class Based Weighted Fair Queuing 
+(CBWFQ). 
+2.20 
+The Router should support Class-Based Frame-Relay DE-Bit Matching and Marking, Class-Based Policing and 
+shaping. 
+2.21 
+The Router should support HSRPNRRP for IPv6, HSRP MD5 Authentication, HSRP over ISL, HSRP support for 
+ICMP Redirects, HSRP support for MPLS VPNs. 
+2.22 
+The Router should support SNMPv2C, SNMPv3, SNMP over IPv6, TACACS+, RADIUS. 
+2.23 
+Equipment should be provided with hardware replacement warranty and ongoing software upgrades for all major 
+and minor releases for a period of 3 years. 
+ 
+3. Network Firewall Appliance 
+ 
+3.1 The Firewall should be Hardware based single device, purpose-built security appliance with hardened operating 
+system and should be an application-aware device. 
+3.2 The Firewall should support IP Security VPN technologies, Secure Sockets Layer (IPSec/SSL) VPN 
+technologies. 
+3.3 The Firewall should support minimum 1Gbps of Firewall Throughput (Multi protocoUIMIX), Particularly TCP 
+throughput. 
+3.4 The Firewall should support a DES/AES VPN Throughput of Up to 400Mbps. 
+3.5 The Firewall should support 1000 IPsec VPN Peer and should have 2 SSL VPN Peers. 
+3.6 The Firewall should support VPN clustering, VPN load-balancing. 
+3.7 The Firewall should support 500000 Concurrent Connections and should support 30000 New Connections/ 
+Second 
+3.8 The Firewall should support 8 Gigabit Ethernet data ports 
+3.9 The Firewall should support 802.1q VLAN interfaces, 1024 Virtual Interfaces (VLANs) 
+3.10 The Firewall should support Active/Active, Active/ Standby High Availability feature 
+3.11 The fire wall support USB 2.0 Ports. RJ-45 (console and auxiliary) Serial ports should be provided with OEM 
+supplied Rack Mount Kit for mounting in 19" Rack 
+3.12 The Firewall should support minimum 8GB of Memory 
+3.13 The Firewall should support L2 and L3 (Routed) mode. 
+3.14 The Firewall should support dynamic, static and policy-based NAT and PAT services. Should support HTTP,  
+HTTPS, or FTP Filtering. 
+3.15 The Firewall should support deep inspection services for Web traffic for improved protection from a wide range 
+of Web-based attacks 
+3.16 Firewall should support IPS module and SSL VPN. 
+3.17 The Firewall should support IPv6-enabled inspection services for HTTP, FTP, SMTP, ICMP,TCP,UDP 
+3.18 The Firewall should support DES and AES-128 encryption standards and should support DoS detection - 
+Protection against SYN flood, IP, ICMP, and application attacks. 
+3.19 The Firewall should support real time monitoring through external syslog servers and should support Simple 
+Network Management Protocol (SNMP). 
+3.20 The Firewall should be accessible through console port, Telnet, SSSHv1, SSHv2. 
+3.21 The Firewall should support management over IPv6. 
+3.22  Equipment should be provided with hardware replacement warranty and ongoing software upgrades for all 
+major and minor releases for a period of 3 years.
+
+[Page 12]
+12 
+ 
+4. Server Specifications 
+ 
+4.1 
+Form Factor 2U Rack Server 
+4.2 
+Processor: 2 x Intel® Xeon® E5-2650V4 (12 core, 2.2 GHz, 30MB L3, 105W) or higher 
+4.3 
+Memory: 64 GB DDR4 RAM using 4 x 16GB DDR4 modules. 
+4.4 
+Internal hot pluggable SAS Hard disk drives 4 Nos X 600 GB 10K RPM or higher 
+4.5 
+Integrated SAS RAID Controller with RAID 0, 1 and 5 
+4.6 
+Integrated Graphic controller 
+4.7 
+2 X 10/100/1000 Mbps Gigabit Ethernet Ports 
+4.8 
+Dual port 8 /16 Gbps FC HBA adapter populated with SFP modules along with two -10m optical fiber patch (MM) 
+cables 
+4.9 
+Dual port 10 GbE SFP+ network cards(NIC) - 2 nos(10G Base SR) populated modules and ports with four 
+compatible -10m optical fiber patch cables Internal DVD writer 
+4.10 
+All power supplies and cooling fans should be fully populated for redundancy 
+4.11 
+It should support major operating systems like RHEL, SUSE Linux, Windows Server 2016 or higher version, etc. 
+4.12 
+Rack mount/ rail kit should be provided along with cable arms to mount the server on rack 
+4.13 
+Input Power 230V/ 50Hz with power cord suitable to Indian system. 
+4.14 
+Three years comprehensive onsite warranty (Hardware, software and accessories).  
+4.15 
+ OS: Server must be provided and configured with the latest version of Windows Server 2016 Standard Edition 
+OS with 5 device CAL, the required no. of licenses/no. of core packs to accommodate all the above specified cores 
+(24 cores in total) 
+ 
+5. Unified Storage System (20TB) 
+5.1 
+Unified storage system with standards based FC SAN and NAS functionality. 
+5.2 
+It must have minimum dual redundant controllers in with automatic fail over to each other in case of failure. The 
+same controller pair should provide all the required functionality of NAS and SAN. 
+5.3 
+High available internal configuration with no single point of failure (NSPoF) architecture and redundancy features at 
+all levels, controllers, hot swap power supplies, PDUs, cache, links between subsystems etc. 
+5.4 
+The Storage System must have dedicated optimized non general purpose, non-Windows appliance OS 
+5.5 
+Should have cache memory minimum 64GB or above across dual controllers. 
+5.6 
+In case of power failure, the arrays must be provided with cache protection mechanism to ensure no data loss. 
+Data should be safely written to disks and perform graceful shutdown. 
+5.7 
+The storage must be configured with FCP, NFS and CIFS protocols for use with different applications. The backend 
+must be based on SAS 12Gbps connectivity. 
+5.8 
+Should have support for all major operating systems & platforms like Windows Server variants, Linux variants, 
+UNIX etc. 
+5.9 
+Storage Capacity: The storage system must be capable of scalable up to 200 drives or above, without changing the 
+proposed controller for this requirement. 
+5.10 It should support SSD, SAS and SATA /NL-SAS. The storage array must support auto tiering among the disk types. 
+5.11 It should be configurable for hardware RAIDs 1/10, 4/5 and 6. 
+5.12 Storage Capacity SAS: The storage should be supplied with 20TB of net usable capacity, considering RAID5 
+(3D+1P), using 900 GB SAS-2 12Gbps SAS 2.5 inch SFF disks, after excluding overheads due to formatting, RAID 
+configurations, hot spares etc. 
+5.13 The base unit, expansion disk enclosures and disks must be interconnected with multiple SAS-2 backend links with 
+failover. All disks must be enterprise-class and dual-ported disks built for 24x7 operations
+
+[Page 13]
+13 
+ 
+5.14 The base unit and disk expansion units must be seamlessly connected in hardware based RAID configurations, not 
+as JBODs. RAID groups and LUNs must be able to span across the enclosures 
+5.15 Sufficient disk expansion units/enclosures as required for the number of supplied disks to be supplied. The bidder 
+must furnish details of the same with full disclosures on calculations of number of disks. 
+5.16 FC Ports: The Storage shall be supplied with at least 02 Nos. of 8Gbps/16Gbps FC Ports per controller or more. 
+5.17 Ethernet ports: The Storage shall be supplied with at least 02 Nos. of 10Gbps Ports per controller or more. 
+5.18 The file systems should have capability to grow online. Configurable snapshots for block level data with both create 
+& restore functionality. No space / capacity should be reserved for creating Snapshot. 
+5.19 The NAS must have active directory and LDAP integration. File system quotas for users, groups and Access 
+controls on files and folders for users & groups. Ethernet trunking and link aggregation. 
+5.20 
+Equipment should be provided with hardware replacement warranty and ongoing software upgrades for all major 
+and minor releases for a period of 3 years. 
+ 
+ 
+6. Workstation Specification 
+ 
+6.1 
+Processor: 2 x Intel® Xeon® E5-2650V4 (12 core, 2.2 GHz, 30MB L3, 105W) or higher 
+6.2 
+Memory 64 GB 2133 DDR4 RAM using 4 x 16GB  DDR4 modules. 
+6.3 
+HARD DRIVE: 4X 1TB SATA (7200 rpm) HDD or higher. 
+6.4 
+RAID Controller: SATA Controller with RAID supports 0 and 1. 
+6.5 
+OPERATING SYSTEM: Preloaded Windows-10 Pro or higher. 
+6.6 
+Graphics: NVIDIA Quadro M5000 or better compatible to 3D stereo viewing 
+6.7 
+GPU: NVIDIA Tesla K40 Workstation 
+6.8 
+PCI Slots: lx PCIe Gen3 x4, 2 X PCIe Gen3 X 8, 2x PCIe Gen3 x16, 
+6.9 
+MONITOR: 24-inch IPS LED Backlit 3D Monitor, Native Resolution of 1920 x 1200 or above, Monitor Refresh Rate 
+compatible for 3D Vision. 
+6.10 LAN: 1 X Gigabit Ethernet 10/100/1000, 1X 10GbE SFP+ Interface along with SFP+ Module 
+6.11 DVD DRIVE: R/RW 
+6.12 USB: USB 2.0 3.0 4 or more ports 
+6.13 KEY BOARD: USB Keyboard 
+6.14 MOUSE: USB Optical Mouse 
+6.15 3D Monitor and CPU must be preferably from the same OEM or the 3D Monitor should be compatible with the OEM 
+CPU. 
+6.16 DVI Dual link cable to connect the graphics card of Work Station with the 3D Monitor to have the 3D effect. 
+6.17 All required cables, connectors, drivers/ softwares for motherboard & add-on cards. etc. must be supplied 
+6.18 WARRANTY & SERVICE: Equipment should be provided with hardware replacement warranty and ongoing 
+software upgrades for all major and minor releases for a period of 3 years onsite warranty. 
+ 
+7. External HDD of 10 TB storage capacity 
+7.1 
+Interface SATA 6Gb/s; 
+7.2 
+Form Factor : 3.5 Inch , RPM Class : 7200 
+7.3 
+Compatibility: Windows, Windows Server, Linux, and Mac OS. 
+7.4 
+256MB Cache 
+7.5 
+Warranty & Service : 3 Years warranty
+
+[Page 14]
+14 
+ 
+ 
+ 
+8. High End PC’s 
+ 
+8.1 
+7th Gen. lntel Core i5-7500 6 MB Cache 3.4-3.8 GHz Freq. 65 W Processor Memory 1x8 GB DDR4-2133/2400 
+SDRAM with max Memory Channels-2 Graphics-Intel HD Graphics 630 
+8.2 
+Processor:7th Gen. Intel® Core T^^ i5-7500 Processor (6 M Cache, upto 3.80 GHz) 
+8.3 
+OS: Factor pre-loaded Windows 10 pro 64 bit 
+8.4 
+Monitor: 23.8" LED-Backlit Display with Wide Viewing Angle (IPS). 
+8.5 
+Memory: I x8GB Dual Channel DDR4-2133/2400 SDRAM 
+8.6 
+HDD: 1 TB 7200 rpm Hard Drive 
+8.7 
+Optical Drive: Tray load DVD Drive (Reads and Writes to DVD/CD) 
+8.8 
+Ports: 4xUSB 3.0, 4:1 MCR, (1) Microphone/ Headset jack; 
+8.9 
+2xUSB 2.0, RJ-45, Audio Line Out, DC Power 
+8.10 Wired integrated 10/100/1000 Gigabit Ethernet LAN 
+8.11 Cabinet: Mini-Tower/Tower - Tools less Chassis Cabinet 
+8.12 Sound Card: Integrated Audio Feature 
+8.13 Keyboard: 104-key USB Keyboard - US International (QWERTY)-Black 
+8.14 Mouse: USB Interface mouse 
+8.15 Power: Suitable power supply 
+8.16 Warranty: 36 months comprehensive onsite warranty 
+ 
+9. 3D mouse with 16 buttons or more for Photogrammetric usage in stereo mode 
+ 
+9.1 Button Allocation - Completely flexible through software 
+9.2 Power - Powered by your USB connection. No separate power supply required. 
+9.3 High-precision X, Y optical/laser navigation with a user selectable resolution for smooth and accurate position control 
+9.4 High resolution Z control • Resolution: - X, Y movement - adjustable from 400 to 1800 counts per inch - Z control 
+thumbwheel for Z-axis positioning - upto 1200 counts per revolution 
+9.5 Connection - USB / 2 - 3 m USB cable 
+9.6 Electronics - optical mouse 
+9.7 Z control - Large wheel, accessible front and back of mouse; high precision encoder 
+9.8 XY motion - High-precision encoders standard; 4 rocker switches, each with two positions. 
+9.9 Warranty & Service: As per OEM 
+ 
+10.NVIDIA 3D Vision kit including Emitter and Glasses 
+10.1 It should be compatible with 3 D Stereo Monitor.  
+10.2 All required cables, connectors, drivers/ softwares etc. must be supplied 
+10.3 WARRANTY& SERVICE: As per OEM 
+ 
+11. Colour Scanner  
+11.1 Scan Speed should be minimum 1 in/sec for color and 3 in/sec for grey-scale
+
+[Page 15]
+15 
+ 
+11.2 Optical Resolution should be minimum 600 dpi 
+11.3 Extended Resolution Linear interpolation from 100 to 9600dpi in dpi steps 
+11.4 Scan Width should be minimum 42”  
+11.5 Scan length should support minimum 100”  
+11.6 Should support for the media thickness Up to 15 mm (0.6 inch) 
+11.7 Scan Accuracy should be +/-0.1% +/-1 pixel 
+11.8 Interface : USB 3.0 data transfer rates up to 85 MB/sec. Optimised USB2 transfer rates up to 35MB/sec. Gigabit 
+Ethernet network ready. 2m long USB2/USB3 and Gigabit Ethernet cables supplied. 
+11.9 Host Platform : Windows 10, Windows 8, Windows 7, Windows Vista - 32 bit and 64 bit architectures 
+11.10 Power: suitable power supply 
+11.11 All required cables, connectors, drivers/ softwares etc. must be supplied 
+11.12 WARRANTY & SERVICE: As per OEM 
+ 
+12. Plotter (A0+ size) 
+12.1 
+Printer Type: 5 color Dye/pigment reactive ink printer (Cyan, New Magenta, Yellow, Black, Matt Black-2) 
+12.2 
+Print Resolution should be 2400 x 1200 dpi 
+12.3 
+Should compatible to OS (i) Windows 32 bit – XP, Vista, 7, 8 , 8.1, 10  Server 2003/2003R2, Server 2008; (ii) 
+Windows 64 bit – Vista, 7, 8, 8.1, 10 Server 2003/2003R2, Server 2008/2008R2, Server 2012/2012R2; (iii) Mac: 
+OSX 10.6.8 – 10.10.x 
+12.4 
+Printer Language: GARO (Graphic Arts language with Raster Operations), HP-GL/2, HP RTL 
+12.5 
+Standard build-in interfaces : Hi-Speed USB and Ethernet 10 / 100 / 1000 Base-T/TX 
+12.6 
+Printing speed : (i) for A0 size - plain paper (CAD DRAWINGS) should be 42 sec (Fast economy mode), 45 sec 
+(Fast mode), 1 min 12 sec in standard mode; (ii) for A0 size -  Coated Paper (Poster) Fast Mode1min 12secs, 
+Standard Mode 2min 19secs, High Quality Mode, 3min 37secs. 
+12.7 
+Memory: Standard memory – 32GB, Hard Disc memory 320 GB 
+12.8 
+(i) Media Handling: plain paper, coated paper, glossy paper 
+12.9 
+(ii) Media width : minimum  42 inch 
+12.10 
+(iii) Media thickness : should support 0.07mm to 0.8mm thickness paper 
+12.11 
+(iv) Minimum Media Role outer diameter : 150mm 
+12.12 
+(v) Paper feed method :should support to the Roll paper and cut sheet 
+12.13 
+Should print detailed accuracy with minimum 0.02mm line width and ±0.1% accuracy 
+12.14 
+Printer should include printer stand. 
+12.15 
+Power: suitable power supply. 
+12.16 
+All required cables, connectors, drivers/ softwares etc. must be supplied. 
+12.17 
+WARRANTY & SERVICE: As per OEM
+
+[Page 16]
+16 
+ 
+ 
+ 
+Annexure- I 
+ 
+BANK GUARANTEE FORMAT FOR FURNISHING BID SECURITY 
+ 
+Whereas 
+................................................................................................................... 
+(hereinafter 
+called 
+the 
+"tenderer") 
+has 
+submitted 
+their 
+offer 
+dated....................for 
+the 
+supply 
+of.................................................................................................................................. 
+(hereinafter 
+called 
+the 
+"tender")against the Purchaser’s tender enquiry No. ……………………………………………KNOW ALL 
+MEN 
+by 
+these 
+presents 
+that 
+WE................................................................................................................................. (hereinafter called the 
+"Bank")of.............................................having  our registered office at   .................................are bound 
+unto................................................in the sum of...................for which payment will and (hereinafter called the 
+"Purchaser)truly to be made  to  the  said Purchaser,  the  Bank  binds  itself,  its  successors and         assigns by 
+these presents.  Sealed with the Common Seal of the said Bank this...........day of.............20.....   
+ 
+THE CONDITIONS OF THIS OBLIGATION ARE : 
+ 
+        (1) If the  tenderer  withdraws  or  amends,  impairs  or derogates  from  the  tender  in  any  respect within 
+the period of validity of this tender.  
+ 
+        (2)  If  the  tenderer  having  been  notified   of   the acceptance  of  his  tender  by  the Purchaser during 
+the period of its validity.  
+ 
+        a. 
+If the  tenderer  fails  to  furnish  the  Performance  Security for the due performance of the contract.  
+ 
+b. Fails or refuses to execute the contract.  
+ 
+        WE  undertake to pay the Purchaser up to the above amount upon receipt of its first  written  demand,  
+without  the Purchaser  having  to  substantiate  its demand, provided        that in its demand  the  Purchaser  
+will  note  that  the amount claimed by it is due to it owing to the occurrence of  one  or  both  the  two  
+conditions,  specifying  the occurred condition or conditions.  
+ 
+        This guarantee will remain in force up to and  including 45  days  after  the  period  of  tender validity and 
+any demand in respect thereof should reach the Bank not later than the above date.  
+ 
+ 
+                                         ................  
+             (Signature of the authorized officer of the Bank)  
+Seal, Name and address of the bank and address of the branch
+
+[Page 17]
+17 
+ 
+ 
+ 
+ 
+ANNEXURE – II 
+ 
+(A) 
+PRICE BID UNDERTRTAKING LETTER 
+(TO BE GIVEN On Company letter head) 
+ 
+To 
+------------------------------- 
+--------------------------------- 
+---------------------------------- 
+ 
+ 
+Sub:- Acceptance of Terms & Conditions of Price bid/ Tender 
+ 
+Ref:- Tender No_____________________ 
+ 
+Dear Sir, 
+ 
+1. I/We submit the price bid for __________________________ and related activities as 
+envisaged in the bid document. 
+ 
+2. I have thoroughly examined and understood all the terms and conditions as contained in 
+the Bid document, and agree to abide by them. 
+ 
+3. I offer to Supply, Installation & Commissioning of  Hardware for Setting Up of  Remote Sensing Laboratories 
+at  Indian Bureau Of Mines,   Nagpur and Hyderabad  as per the rates indicated in the price bid(BOQ). 
+ 
+(B) 
+UNDERTAKING : ACCEPTANCE OF TERMS AND CONDITIONS OF TENDER 
+ 
+I/We undertake that all the terms and conditions as laid in the attached pages and anywhere in the tender 
+and its subsequent corrigendum if any, are accepted by the company and will abide by them. 
+ 
+I/we further undertake that the information given in this tender are true and correct in all respects and we hold 
+responsibility for the same. 
+ 
+I/We shall be responsible for any rejection /cancellation of contract by the IBM if the goods supplied are not 
+found up to the mark and sub-standard/not accordance with the specification mentioned in the tender document. 
+ 
+ 
+ 
+Yours faithfully 
+ 
+ 
+ 
+ 
+Date: __________________   
+ 
+ 
+ 
+(Authorized signatory of the company) 
+(Company seal) 
+Place: _________________
+
+[Page 18]
+18 
+ 
+ 
+ANNEXURE – III 
+ 
+INFORMATION ABOUT THE TENDERER 
+ 
+Sl No 
+Information Required 
+To be Filled in by Tenderer 
+1 
+Name of the Tenderer 
+ 
+ 
+ 
+2 
+Address of Registered Office and Branches 
+ 
+ 
+ 
+ 
+3 
+Telegraphic Address and Phone Number, Fax 
+Number, Email ID etc 
+ 
+ 
+4 
+Composition of Tenderer (here state whether it is 
+Hindu Joint Family Business, Proprietorship concern 
+or Registered Partnership or a Limited Company)- 
+attach relevant certificate. 
+ 
+5 
+Nature of normal business of the Tenderer 
+ 
+ 
+6 
+Experience of similar working (Certificate to support 
+statement must be enclosed) 
+ 
+7 
+Any other experience and reference of the Companies 
+(Attach separate sheet, (if necessary). Copies of 
+certificates (Award of contract and experience) to 
+support statement must be attached. 
+ 
+8 
+GST Registration no. 
+ 
+ 
+9 
+Details of Turnover of last three years (attach audited 
+balance sheet of every year) 
+ 
+ 
+10 
+Copy of PAN Card and 3 years IT Assessment order 
+to be attached 
+ 
+ 
+Note: Copies of documents are required to be attached for SI.No.4  and 6 to l0.  
+ 
+Incomplete information and non-submission of copies of supporting document will lead to rejection of tender.  
+ 
+I/we declare that the above information is true to the best of my / our Knowledge.  
+ 
+ 
+Place:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Signature of the Authorized person  
+ 
+Date:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Name & Office Seal) 
+DECLARATION 
+ 
+I/We hereby declare that I/We have not been banned and de-listed by any Government Department / Financial 
+Institution / Court. 
+ 
+ 
+Place:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Signature of the Authorized person 
+ 
+Date:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Name & Office seal)
+
+[Page 19]
+19 
+ 
+ 
+ANNEXURE – IV 
+ 
+  
+MANDATE FORM 
+Details of Vendor 
+Type 
+ 
+Personal 
+ 
+Name 
+ 
+ 
+Detail Address with Pin Code 
+ 
+ 
+ 
+ 
+ 
+ 
+PAN Number 
+ 
+ 
+GST number 
+ 
+ 
+Mobile No. 
+ 
+ 
+Email Address 
+ 
+ 
+Bank Details 
+ 
+Bank Name 
+ 
+ 
+Branch Name with address and Pin- 
+code 
+ 
+ 
+ 
+ 
+Bank Account No. 
+ 
+ 
+IFSC Code 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Signature of the Authorized  
+Signatory of Bank with Seal & Stamp:_________________________________________ 
+ 
+Name of Authorized Signatory:________________________________________ 
+ 
+Designation of Authorized Signatory:___________________________________
+
+[Page 20]
+20 
+ 
+ 
+ 
+ANNEXURE – V 
+ 
+ 
+Price bid (Please refer BoQ1 & BoQ2 in Excel sheet) 
+ 
+ 
+ 
+ 
+Indicative BoQ Format in Excel
+
+[Page 21]
+21 
+ 
+ 
+ 
+ANNEXURE – VI 
+ 
+ Form : Request for Clarification Format 
+ 
+<<Date>> 
+ 
+To 
+Indian Bureau of Mines,  
+Civil Lines, Nagpur 
+ 
+Dear Sir 
+ 
+Sub: Request for Clarification on NIT – reg. 
+ 
+Bidder’s Request for Clarification on Tender 
+Name of the Bidder 
+submitting the request 
+Name and position 
+of person submitting 
+request 
+Full formal address of the 
+bidder including phone, fax 
+and email points of contact 
+ 
+ 
+ 
+ 
+ 
+S. 
+No 
+Tender Document 
+Reference(s) 
+(section number/ 
+page) 
+Content of Tender 
+requiring 
+Clarification 
+Points on which clarification 
+required 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Place:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Signature of the Authorized person 
+ 
+Date:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Name & Office seal)
+
+[Page 22]
+22 
+ 
+ANNEXURE – VII 
+ 
+(A) Form : Compliance Sheet format as per Technical Specification (Section-7) 
+Sl. No. 
+Specification 
+Compliance 
+(Yes/No) 
+Remarks 
+1.1 
+Network Switch  (Specify Make & Model: __________________________) 
+  
+  
+1.1.1 
+It should be populated and enabled with, 24 numbers of 10/100/1000 Ports and 
+should have 2X10 Gbps uplink ports populated with Multimode SFP modules. 
+  
+  
+1.1.2 
+ Shall have minimum of 88 Gbps or more forwarding bandwidth and shall have 
+minimum forwarding rate of 68Mpps or more. 
+  
+  
+1.1.3 
+Shall support up to 32,000 MAC addresses and up to 24,000 unicast routes. 
+  
+  
+1.1.4 
+The Switch should be 1RU and provided with rack mountable kit. 
+  
+  
+1.1.5 
+ The switch should have support for Stacking. Stacking should enable in each 
+switches to function as a single unit. 
+  
+  
+1.1.6 
+Shall support STP and Per-VLAN STP features. 
+  
+  
+1.1.7 
+ Shall support remote port mirroring to remotely monitor ports in a layer-2 switch 
+network from any other switch in the same network. 
+  
+  
+1.1.8 
+ Shall support SNMPv1. SNMPv2c, and SNMPv3. 
+  
+  
+1.1.9 
+ Shall support both IPv4 and IPv6. 
+  
+  
+1.1.10 
+ Three years comprehensive onsite warranty 
+  
+  
+  
+  
+  
+  
+1.2 
+Network Router (Specify Make & Model: ______________________) 
+  
+  
+1.2.1 
+The router should support for the Internet link of minimum 100Mbps or above. 
+  
+  
+1.2.2 
+ It should have minimum forwarding performance of 300Kpps.  
+  
+  
+1.2.3 
+The Router should support min 3 onboard WAN/LAN ports with 10/100/1000 
+Mbps Speed. 
+  
+  
+1.2.4 
+ It should support 200 VPN for site to site encrypted communication. 
+  
+  
+1.2.5 
+ It should have RJ-45-based ports and integrated Serial port, External USB 
+slots, serial console port etc. 
+  
+  
+1.2.6 
+ The Router should have 256MB flash memory and 512MB of RAM. 
+  
+  
+1.2.7 
+ The Router should support internal: AC, PoE, and DC supply options and 
+redundant power supply. 
+  
+  
+1.2.8 
+ The Router should support 100 to 240 VAC auto ranging AC input Voltage 
+  
+  
+1.2.9 
+  The Router should support include Rack-mount 19in. (48.3 cm) EIA 
+  
+  
+1.2.10 
+ The Router should support access control lists (ACLs) and Time-Based Access 
+Lists Using Time Ranges(ACL) 
+  
+  
+1.2.11 
+The Router should support Message Digest Algorithm 5 (MD5) hashing 
+algorithms for data integrity. 
+  
+  
+1.2.12 
+ The Router should support secure large Layer 2 or MPLS networks requiring 
+partial or full-mesh connectivity by providing tunnel-less VPN connectivity using 
+group shared keys. 
+  
+  
+1.2.13 
+The Router should support site-to-site VPNs, GRE-based IPsec VPN and digital 
+certificates. 
+  
+  
+1.2.14 
+The Router should support Reverse Route Injection (RRI), EIGRP, IPSLA 
+  
+  
+1.2.15 
+ The Router should support IPv4, IPv6 and Static routes. 
+  
+  
+1.2.16 
+ It should support Open Shortest Path First (OSPF), BGP, BGP Router 
+Reflector. 
+  
+  
+1.2.17 
+The Router should support Multicast Internet Group Management Protocol 
+(IGMPv2, IGMPv3) 
+  
+  
+1.2.18 
+The Router should support Class-Based Weighted Fair Queuing (CBWFQ) for 
+Traffic Management and Weighted Random Early Detection (WRED) for Traffic 
+Management. 
+  
+  
+1.2.19 
+The Router should support Class Based Traffic Policing with CLP Tagging, 
+Class Based Weighted Fair Queuing (CBWFQ). 
+  
+  
+1.2.20 
+The Router should support Class-Based Frame-Relay DE-Bit Matching and 
+Marking, Class-Based Policing and shaping. 
+  
+  
+1.2.21 
+ The Router should support HSRPNRRP for IPv6, HSRP MD5 Authentication, 
+HSRP over ISL, HSRP support for ICMP Redirects, HSRP support for MPLS 
+VPNs.
+
+[Page 23]
+23 
+ 
+1.2.22 
+The Router should support SNMPv2C, SNMPv3, SNMP over IPv6, TACACS+, 
+RADIUS. 
+  
+  
+1.2.23 
+ Equipment should be provided with hardware replacement warranty and 
+ongoing software upgrades for all major and minor releases for a period of 3 
+years. 
+  
+  
+  
+  
+  
+  
+1.3 
+Network Firewall Appliance (Specify Make & Model: __________________ ) 
+  
+  
+1.3.1 
+The Firewall should be Hardware based single device, purpose-built security 
+appliance with hardened operating system and should be an application-aware 
+device. 
+  
+  
+1.3.2 
+The Firewall should support IP Security VPN technologies, Secure Sockets 
+Layer (IPSec/SSL) VPN technologies. 
+  
+  
+1.3.3 
+ The Firewall should support minimum 1Gbps of Firewall Throughput (Multi 
+protocoUIMIX), Particularly TCP throughput. 
+  
+  
+1.3.4 
+  The Firewall should support a DES/AES VPN Throughput of Up to 400Mbps. 
+  
+  
+1.3.5 
+ The Firewall should support 1000 IPsec VPN Peer and should have 2 SSL VPN 
+Peers. 
+  
+  
+1.3.6 
+  The Firewall should support VPN clustering, VPN load-balancing. 
+  
+  
+1.3.7 
+The Firewall should support 500000 Concurrent Connections and should 
+support 30000 New Connections/ Second 
+  
+  
+1.3.8 
+  The Firewall should support 8 Gigabit Ethernet data ports 
+  
+  
+1.3.9 
+ The Firewall should support 802.1q VLAN interfaces, 1024 Virtual Interfaces 
+(VLANs) 
+  
+  
+1.3.10 
+ The Firewall should support Active/Active, Active/ Standby High Availability 
+feature 
+  
+  
+1.3.11 
+  The fire wall support USB 2.0 Ports. RJ-45 (console and auxiliary) Serial ports 
+should be provided with OEM supplied Rack Mount Kit for mounting in 19" Rack 
+  
+  
+1.3.12 
+ The Firewall should support minimum 8GB of Memory 
+  
+  
+1.3.13 
+The Firewall should support L2 and L3 (Routed) mode. 
+  
+  
+1.3.14 
+ The Firewall should support dynamic, static and policy-based NAT and PAT 
+services. Should support HTTP,  HTTPS, or FTP Filtering. 
+  
+  
+1.3.15 
+  The Firewall should support deep inspection services for Web traffic for 
+improved protection from a wide range of Web-based attacks 
+  
+  
+1.3.16 
+ Firewall should support IPS module and SSL VPN. 
+  
+  
+1.3.17 
+  The Firewall should support IPv6-enabled inspection services for HTTP, FTP, 
+SMTP, ICMP,TCP,UDP 
+  
+  
+1.3.18 
+The Firewall should support DES and AES-128 encryption standards and 
+should support DoS detection - Protection against SYN flood, IP, ICMP, and 
+application attacks. 
+  
+  
+1.3.19 
+  The Firewall should support real time monitoring through external syslog 
+servers and should support Simple Network Management Protocol (SNMP) 
+  
+  
+1.3.20 
+ The Firewall should be accessible through console port, Telnet, SSSHv1, 
+SSHv2. 
+  
+  
+1.3.21 
+ The Firewall should support management over IPv6. 
+  
+  
+1.3.22 
+ Equipment should be provided with hardware replacement warranty and 
+ongoing software upgrades for all major and minor releases for a period of 3 
+years. 
+  
+  
+  
+  
+  
+  
+2.1 
+Server Specifications (Specify Make & Model: _______________________ ) 
+  
+  
+2.1.1 
+  Form Factor 2U Rack Server 
+  
+  
+2.1.2 
+ Processor: 2 x Intel® Xeon® E5-2650V4 (12 core, 2.2 GHz, 30MB L3, 105W) 
+or higher 
+  
+  
+2.1.3 
+Memory: 64 GB DDR4 RAM using 4 x 16GB DDR4 modules. 
+  
+  
+2.1.4 
+Internal hot pluggable SAS Hard disk drives 4 Nos X 600 GB 10K RPM or 
+higher 
+  
+  
+2.1.5 
+Integrated SAS RAID Controller with RAID 0, 1 and 5 
+  
+  
+2.1.6 
+ Integrated Graphic controller 
+  
+  
+2.1.7 
+2 X 10/100/1000 Mbps Gigabit Ethernet Ports 
+  
+  
+2.1.8 
+Dual port 8 /16 Gbps FC HBA adapter populated with SFP modules along with 
+two -10m optical fiber patch (MM) cables 
+  
+  
+2.1.9 
+  Dual port 10 GbE SFP+ network cards(NIC) - 2 nos(10G Base SR) populated 
+modules and ports with four compatible -10m optical fiber patch cables Internal 
+DVD writer
+
+[Page 24]
+24 
+ 
+2.1.10 
+  All power supplies and cooling fans should be fully populated for redundancy 
+  
+  
+2.1.11 
+ It should support major operating systems like RHEL, SUSE Linux, Windows 
+Server 2016 or higher version, etc. 
+  
+  
+2.1.12 
+  Rack mount/ rail kit should be provided along with cable arms to mount the 
+server on rack 
+  
+  
+2.1.13 
+ Input Power 230V/ 50Hz with power cord suitable to Indian system. 
+  
+  
+2.1.14 
+ Three years comprehensive onsite warranty (Hardware, software and 
+accessories).  
+  
+  
+2.1.15 
+ OS: Server must be provided and configured with the latest version of Windows 
+Server 2016 Standard Edition OS with 5 device CAL, the required no. of 
+licenses/no. of core packs to accommodate all the above specified cores (24 
+cores in total) 
+  
+  
+  
+  
+  
+  
+2.2 
+Unified Storage System (20TB) (Specify Make & Model: _____________) 
+  
+  
+2.2.1 
+ Unified storage system with standards based FC SAN and NAS functionality. 
+  
+  
+2.2.2 
+ It must have minimum dual redundant controllers in with automatic fail over to 
+each other in case of failure. The same controller pair should provide all the 
+required functionality of NAS and SAN. 
+  
+  
+2.2.3 
+  High available internal configuration with no single point of failure (NSPoF) 
+architecture and redundancy features at all levels, controllers, hot swap power 
+supplies, PDUs, cache, links between subsystems etc. 
+  
+  
+2.2.4 
+ The Storage System must have dedicated optimized non general purpose, non-
+Windows appliance OS 
+  
+  
+2.2.5 
+Should have cache memory minimum 64GB or above across dual controllers. 
+  
+  
+2.2.6 
+In case of power failure, the arrays must be provided with cache protection 
+mechanism to ensure no data loss. Data should be safely written to disks and 
+perform graceful shutdown. 
+  
+  
+2.2.7 
+ The storage must be configured with FCP, NFS and CIFS protocols for use with 
+different applications. The backend must be based on SAS 12Gbps 
+connectivity. 
+  
+  
+2.2.8 
+ Should have support for all major operating systems & platforms like Windows 
+Server variants, Linux variants, UNIX etc. 
+  
+  
+2.2.9 
+Storage Capacity: The storage system must be capable of scalable up to 200 
+drives or above, without changing the proposed controller for this requirement. 
+  
+  
+2.2.10 
+ It should support SSD, SAS and SATA /NL-SAS. The storage array must 
+support auto tiering among the disk types. 
+  
+  
+2.2.11 
+ It should be configurable for hardware RAIDs 1/10, 4/5 and 6. 
+  
+  
+2.2.12 
+ Storage Capacity SAS: The storage should be supplied with 20TB of net usable 
+capacity, considering RAID5 (3D+1P), using 900 GB SAS-2 12Gbps SAS 2.5 
+inch SFF disks, after excluding overheads due to formatting, RAID 
+configurations, hot spares etc. 
+  
+  
+2.2.13 
+The base unit, expansion disk enclosures and disks must be interconnected 
+with multiple SAS-2 backend links with failover. All disks must be enterprise-
+class and dual-ported disks built for 24x7 operations 
+  
+  
+2.2.14 
+The base unit and disk expansion units must be seamlessly connected in 
+hardware based RAID configurations, not as JBODs. RAID groups and LUNs 
+must be able to span across the enclosures 
+  
+  
+2.2.15 
+ Sufficient disk expansion units/enclosures as required for the number of 
+supplied disks to be supplied. The bidder must furnish details of the same with 
+full disclosures on calculations of number of disks. 
+  
+  
+2.2.16 
+ FC Ports: The Storage shall be supplied with at least 02 Nos. of 8Gbps/16Gbps 
+FC Ports per controller or more. 
+  
+  
+2.2.17 
+ Ethernet ports: The Storage shall be supplied with at least 02 Nos. of 10Gbps 
+Ports per controller or more. 
+  
+  
+2.2.18 
+ The file systems should have capability to grow online. Configurable snapshots 
+for block level data with both create & restore functionality. No space / capacity 
+should be reserved for creating Snapshot. 
+  
+  
+2.2.19 
+The NAS must have active directory and LDAP integration. File system quotas 
+for users, groups and Access controls on files and folders for users & groups. 
+Ethernet trunking and link aggregation. 
+  
+  
+2.2.20 
+  Equipment should be provided with hardware replacement warranty and 
+ongoing software upgrades for all major and minor releases for a period of 3 
+years.
+
+[Page 25]
+25 
+ 
+  
+  
+  
+  
+2.3 
+Workstation Specification (Specify Make & Model: _________________) 
+  
+  
+2.3.1 
+ Processor: 2 x Intel® Xeon® E5-2650V4 (12 core, 2.2 GHz, 30MB L3, 105W) 
+or higher 
+  
+  
+2.3.2 
+ Memory 64 GB 2133 DDR4 RAM using 4 x 16GB  DDR4 modules. 
+  
+  
+2.3.3 
+HARD DRIVE: 4X 1TB SATA (7200 rpm) HDD or higher. 
+  
+  
+2.3.4 
+RAID Controller: SATA Controller with RAID supports 0 and 1. 
+  
+  
+2.3.5 
+OPERATING SYSTEM: Preloaded Windows-10 Pro or higher. 
+  
+  
+2.3.6 
+ Graphics: NVIDIA Quadro M5000 or better compatible to 3D stereo viewing 
+  
+  
+2.3.7 
+ GPU: NVIDIA Tesla K40 Workstation 
+  
+  
+2.3.8 
+  PCI Slots: lx PCIe Gen3 x4, 2 X PCIe Gen3 X 8, 2x PCIe Gen3 x16, 
+  
+  
+2.3.9 
+ MONITOR: 24-inch IPS LED Backlit 3D Monitor, Native Resolution of 1920 x 
+1200 or above, Monitor Refresh Rate compatible for 3D Vision. 
+  
+  
+2.3.10 
+ LAN: 1 X Gigabit Ethernet 10/100/1000, 1X 10GbE SFP+ Interface along with 
+SFP+ Module 
+  
+  
+2.3.11 
+ DVD DRIVE: R/RW 
+  
+  
+2.3.12 
+USB: USB 2.0 3.0 4 or more ports 
+  
+  
+2.3.13 
+KEY BOARD: USB Keyboard 
+  
+  
+2.3.14 
+ MOUSE: USB Optical Mouse 
+  
+  
+2.3.15 
+ 3D Monitor and CPU must be preferably from the same OEM or the 3D Monitor 
+should be compatible with the OEM CPU. 
+  
+  
+2.3.16 
+DVI Dual link cable to connect the graphics card of Work Station with the 3D 
+Monitor to have the 3D effect. 
+  
+  
+2.3.17 
+All required cables, connectors, drivers/ softwares for motherboard & add-on 
+cards. etc. must be supplied 
+  
+  
+2.3.18 
+WARRANTY & SERVICE: Equipment should be provided with hardware 
+replacement warranty and ongoing software upgrades for all major and minor 
+releases for a period of 3 years onsite warranty. 
+  
+  
+  
+  
+  
+  
+2.4 
+External HDD of 10 TB storage capacity (Specify Make & Model: _______) 
+  
+  
+2.4.1 
+  Interface SATA 6Gb/s; 
+  
+  
+2.4.2 
+ Form Factor : 3.5 Inch , RPM Class : 7200 
+  
+  
+2.4.3 
+ Compatibility: Windows, Windows Server, Linux, and Mac OS. 
+  
+  
+2.4.4 
+ 256MB Cache 
+  
+  
+2.4.5 
+Warranty & Service : 3 Years warranty 
+  
+  
+  
+  
+  
+  
+2.5 
+High End PC’s (Specify Make & Model:_______________________) 
+  
+  
+2.5.1 
+ 7th Gen. lntel Core i5-7500 6 MB Cache 3.4-3.8 GHz Freq. 65 W Processor 
+Memory 1x8 GB DDR4-2133/2400 SDRAM with max Memory Channels-2 
+Graphics-Intel HD Graphics 630 
+  
+  
+2.5.2 
+Processor:7th Gen. Intel® Core T^^ i5-7500 Processor (6 M Cache, upto 3.80 
+GHz) 
+  
+  
+2.5.3 
+OS: Factor pre-loaded Windows 10 pro 64 bit 
+  
+  
+2.5.4 
+Monitor: 23.8" LED-Backlit Display with Wide Viewing Angle (IPS). 
+  
+  
+2.5.5 
+Memory: I x8GB Dual Channel DDR4-2133/2400 SDRAM 
+  
+  
+2.5.6 
+ HDD: 1 TB 7200 rpm Hard Drive 
+  
+  
+2.5.7 
+ Optical Drive: Tray load DVD Drive (Reads and Writes to DVD/CD) 
+  
+  
+2.5.8 
+  Ports: 4xUSB 3.0, 4:1 MCR, (1) Microphone/ Headset jack; 
+  
+  
+2.5.9 
+2xUSB 2.0, RJ-45, Audio Line Out, DC Power 
+  
+  
+2.5.10 
+Wired integrated 10/100/1000 Gigabit Ethernet LAN 
+  
+  
+2.5.11 
+Cabinet: Mini-Tower/Tower - Tools less Chassis Cabinet 
+  
+  
+2.5.12 
+ Sound Card: Integrated Audio Feature 
+  
+  
+2.5.13 
+Keyboard: 104-key USB Keyboard - US International (QWERTY)-Black 
+  
+  
+2.5.14 
+ Mouse: USB Interface mouse 
+  
+  
+2.5.15 
+Power: Suitable power supply 
+  
+  
+2.5.16 
+Warranty: 36 months comprehensive onsite warranty 
+  
+  
+  
+  
+  
+  
+3 
+3D mouse with 16 buttons or more for Photogrammetric usage in stereo 
+mode  (Specify Make & Model _________________________) 
+  
+  
+3.1 
+ Button Allocation - Completely flexible through software 
+  
+  
+3.2 
+Power - Powered by your USB connection. No separate power supply required. 
+  
+  
+3.3 
+High-precision X, Y optical/laser navigation with a user selectable resolution for 
+smooth and accurate position control
+
+[Page 26]
+26 
+ 
+3.4 
+ High resolution Z control • Resolution: - X, Y movement - adjustable from 400 to 
+1800 counts per inch - Z control thumbwheel for Z-axis positioning - upto 1200 
+counts per revolution 
+  
+  
+3.5 
+ Connection - USB / 2 - 3 m USB cable 
+  
+  
+3.6 
+Electronics - optical mouse 
+  
+  
+3.7 
+ Z control - Large wheel, accessible front and back of mouse; high precision 
+encoder 
+  
+  
+3.8 
+XY motion - High-precision encoders standard; 4 rocker switches, each with two 
+positions. 
+  
+  
+3.9 
+Warranty & Service: As per OEM 
+  
+  
+  
+  
+  
+  
+4 
+NVIDIA 3D Vision kit including Emitter and Glasses (Specify Make & Model 
+________________________) 
+  
+  
+4.1 
+It should be compatible with 3 D Stereo Monitor.  
+  
+  
+4.2 
+All required cables, connectors, drivers/ softwares etc. must be supplied 
+  
+  
+4.3 
+WARRANTY& SERVICE: As per OEM 
+  
+  
+  
+  
+  
+  
+5 
+Colour Scanner  (Specify Make & Model: _________________) 
+  
+  
+5.1 
+Scan Speed should be minimum 1 in/sec for color and 3 in/sec for grey-scale  
+  
+  
+5.2 
+ Optical Resolution should be minimum 600 dpi 
+  
+  
+5.3 
+Extended Resolution Linear interpolation from 100 to 9600dpi in dpi steps 
+  
+  
+5.4 
+ Scan Width should be minimum 42”  
+  
+  
+5.5 
+Scan length should support minimum 100”  
+  
+  
+5.6 
+   Should support for the media thickness Up to 15 mm (0.6 inch) 
+  
+  
+5.7 
+Scan Accuracy should be +/-0.1% +/-1 pixel 
+  
+  
+5.8 
+Iinterface: USB 3.0 data transfer rates up to 85 MB/sec. Optimised USB2 
+transfer rates up to 35MB/sec. Gigabit Ethernet network ready. 2m long 
+USB2/USB3 and Gigabit Ethernet cables supplied. 
+  
+  
+5.9 
+Host Platform : Windows 10, Windows 8, Windows 7, Windows Vista - 32 bit 
+and 64 bit architectures 
+  
+  
+5. 10 
+ Power: suitable power supply 
+  
+  
+5.11 
+ All required cables, connectors, drivers/ softwares etc. must be supplied 
+  
+  
+5.12 
+WARRANTY & SERVICE: As per OEM 
+  
+  
+  
+  
+  
+  
+6 
+Plotter (A0+ size) (Specify Make & Model : _____________________) 
+  
+  
+6.1 
+Printer Type: 5 color Dye/pigment reactive ink printer (Cyan, New Magenta, 
+Yellow, Black, Matt Black-2) 
+  
+  
+6.12 
+ Print Resolution should be 2400 x 1200 dpi 
+  
+  
+6.14 
+ Should compatible to OS (i) Windows 32 bit – XP, Vista, 7, 8 , 8.1, 10  Server 
+2003/2003R2, Server 2008; (ii) Windows 64 bit – Vista, 7, 8, 8.1, 10 Server 
+2003/2003R2, Server 2008/2008R2, Server 2012/2012R2; (iii) Mac: OSX 10.6.8 
+– 10.10.x 
+  
+  
+6.16 
+Printer Language: GARO (Graphic Arts language with Raster Operations), HP-
+GL/2, HP RTL 
+  
+  
+6.18 
+ Standard build-in interfaces : Hi-Speed USB and Ethernet 10 / 100 / 1000 
+Base-T/TX 
+  
+  
+6.2 
+Printing speed : (i) for A0 size - plain paper (CAD DRAWINGS) should be 42 
+sec (Fast economy mode), 45 sec (Fast mode), 1 min 12 sec in standard mode; 
+(ii) for A0 size -  Coated Paper (Poster) Fast Mode1min 12secs, Standard Mode 
+  
+  
+6.22 
+  Memory: Standard memory – 32GB, Hard Disc memory 320 GB 
+  
+  
+6.24 
+ (i) Media Handling: plain paper, coated paper, glossy paper 
+  
+  
+6.26 
+  (ii) Media width : minimum  42 inch 
+  
+  
+6.28 
+(iii) Media thickness : should support 0.07mm to 0.8mm thickness paper 
+  
+  
+6.3 
+ (iv) Minimum Media Role outer diameter : 150mm 
+  
+  
+6.32 
+  (v) Paper feed method :should support to the Roll paper and cut sheet 
+  
+  
+6.34 
+Should print detailed accuracy with minimum 0.02mm line width and ±0.1% 
+accuracy 
+  
+  
+6.36 
+Printer should include printer stand  
+  
+  
+6.38 
+Power: suitable power supply 
+  
+  
+6.4 
+ All required cables, connectors, drivers/ softwares etc. must be supplied 
+  
+  
+6.42 
+WARRANTY & SERVICE: As per OEM 
+  
+  
+Note: (i) The supplier must send the above filled technical compliance sheet along with the offer.
+
+[Page 27]
+27 
+ 
+(ii) In Compliance column, if ‘No’ mentioned and providing specification higher than the requirement, it 
+may be specified in the Remarks column 
+ 
+(B) 
+Form : Check list/Compliance Sheet as per NIT  for submission of tender: 
+ Sl No 
+Description 
+Compliance 
+(Yes or No) 
+Remarks 
+ 
+1 
+Techno Commercial Bid 
+ 
+ 
+2 
+Bid Security (EMD)/Valid Certificate 
+for exemption of EMD(Annex-I) 
+ 
+ 
+3 
+Annexure-II 
+ 
+ 
+4 
+Annexure-III 
+ 
+ 
+5 
+Annexure-IV 
+ 
+ 
+6 
+Annexure-V (BoQ) 
+ 
+ 
+7 
+Annexure-VII 
+ 
+ 
+8 
+Any other relevant documents like 
+experience etc as asked in NIT

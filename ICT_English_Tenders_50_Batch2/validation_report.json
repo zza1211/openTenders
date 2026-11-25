@@ -1,0 +1,19 @@
+{
+  "batch": "Batch 2",
+  "count": 50,
+  "unique_sha256": 50,
+  "duplicate_first_batch": [],
+  "categories": {
+    "04_Switch_Router_LAN_WAN": 6,
+    "01_OLT_ONU_GPON_XGSPON": 4,
+    "03_Firewall_SD-WAN_Security": 21,
+    "06_Technical_Annexes_Compliance": 9,
+    "05_ADC_NAC_NMS_Wireless": 6,
+    "02_Optical_Transceivers_Fiber_DWDM": 4
+  },
+  "total_pages": 4150,
+  "source_urls": 50,
+  "technical_pages_assigned": 50,
+  "verified_technical_clauses": 36,
+  "generated_on": "2026-11-25"
+}

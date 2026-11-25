@@ -1,0 +1,3131 @@
+Title: SD-WAN Solution Tender Document
+Source: https://www.etenders.gov.za/home/Download?blobName=d2036a2a-0144-4476-b214-6eed4fc7c46b.pdf&downloadedFileName=SD-WAN+Solution+Tender+document.pdf
+Pages: 51
+
+--- Extracted text by page ---
+
+[Page 1]
+IDT/IT/SD-WAN/2025 
+1 | P a g e  
+ 
+ 
+ 
+INDEPENDENT DEVELOPMENT TRUST 
+ 
+REQUEST FOR PROPOSALS 
+ 
+REQUEST FOR PROPOSALS (RFP) FOR THE APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY, INSTALL, CONFIGURE, 
+AND INTEGRATE A WIDE AREA NETWORK, PROVISION OF INTERNET CONNECTVITY SERVICES (ISP), VIRTUAL HOSTING 
+SOLUTION, FIREWALL SOLUTION, HOSTED PBX FOR A PERIOD OF FIVE (5) YEARS 
+RFP NO: IDT/IT/SD-WAN/2025 
+BIDDERS INFORMATION  
+Company Name 
+ 
+Contact Person 
+ 
+Cell / Tel Number 
+ 
+Email Address 
+ 
+CSD Number 
+MAAA 
+ 
+PREPARED FOR: 
+INDEPENDENT DEVELOPMENT TRUST 
+Glenwood Office Park 
+Cnr Oberon & Sprite Streets 
+Faerie Glen  
+0043 
+ 
+CLOSING DATE AND TIME: 29 May 2025 @ 12:00 PM 
+Queries Email Address: ictbids@idt.org.za   
+Tender document to procure Professional Services. This documents contains the Terms of Reference, the Bid Data, Returnable 
+Documents and IDT’s Special Conditions.
+
+[Page 2]
+IDT/IT/SD-WAN/2025 
+2 | P a g e  
+ 
+ 
+SBD 1 
+ 
+ 
+PART A 
+INVITATION TO BID 
+ 
+YOU ARE HEREBY INVITED TO BID FOR REQUIREMENTS OF THE (NAME OF DEPARTMENT/ PUBLIC ENTITY) 
+BID NUMBER: 
+IDT/IT/SD-WAN/2025 
+CLOSING DATE 
+29 May 2025 
+CLOSING TIME: 
+12:00 PM 
+DESCRIPTION 
+REQUEST FOR PROPOSALS (RFP) FOR THE APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY, INSTALL, 
+CONFIGURE, AND INTEGRATE A WIDE AREA NETWORK, PROVISION OF INTERNET CONNECTVITY SERVICES 
+(ISP), VIRTUAL HOSTING SOLUTION, FIREWALL SOLUTION, HOSTED PBX FOR A PERIOD OF FIVE (5) YEARS 
+BID RESPONSE DOCUMENTS MAY BE DEPOSITED IN THE BID BOX SITUATED AT (STREET ADDRESS) 
+GLENWOOD OFFICE PARK 
+CNR OBERON & SPRITE STREETS 
+FAERIE GLEN  
+0043 
+BIDDING PROCEDURE ENQUIRIES MAY BE DIRECTED TO 
+TECHNICAL ENQUIRIES MAY BE DIRECTED TO: 
+CONTACT PERSON 
+PORTIA CAMPBELL-CHAUKE OR 
+LETLHOGONOLO KUTU 
+CONTACT PERSON 
+MOLATELO MAKGATHO 
+TELEPHONE NUMBER 
+N/A 
+TELEPHONE NUMBER 
+N/A 
+FACSIMILE NUMBER 
+N/A 
+FACSIMILE NUMBER 
+N/A 
+E-MAIL ADDRESS 
+ictbids@idt.org.za  
+E-MAIL ADDRESS 
+ictbids@idt.org.za 
+SUPPLIER INFORMATION 
+NAME OF BIDDER 
+ 
+POSTAL ADDRESS 
+ 
+STREET ADDRESS 
+ 
+TELEPHONE NUMBER 
+CODE 
+ 
+NUMBER 
+ 
+CELLPHONE NUMBER 
+ 
+FACSIMILE NUMBER 
+CODE 
+ 
+NUMBER 
+ 
+E-MAIL ADDRESS 
+ 
+VAT REGISTRATION NUMBER 
+ 
+SUPPLIER COMPLIANCE STATUS 
+TAX 
+COMPLIANCE 
+SYSTEM PIN: 
+ 
+OR 
+CENTRAL 
+SUPPLIER 
+DATABASE 
+No:  
+MAAA 
+ARE YOU THE ACCREDITED 
+REPRESENTATIVE IN SOUTH 
+AFRICA FOR THE GOODS 
+/SERVICES OFFERED? 
+Yes                         
+No  
+ 
+[IF YES ENCLOSE PROOF] 
+ 
+ARE YOU A FOREIGN BASED 
+SUPPLIER FOR THE GOODS 
+/SERVICES OFFERED? 
+ 
+Yes 
+No 
+ 
+[IF YES, ANSWER THE 
+QUESTIONNAIRE BELOW] 
+ 
+QUESTIONNAIRE TO BIDDING FOREIGN SUPPLIERS 
+IS THE ENTITY A RESIDENT OF THE REPUBLIC OF SOUTH AFRICA (RSA)?  
+                                                     
+  YES  
+ NO 
+DOES THE ENTITY HAVE A BRANCH IN THE RSA? 
+ 
+ 
+ 
+                                                     
+  YES  
+ NO
+
+[Page 3]
+IDT/IT/SD-WAN/2025 
+3 | P a g e  
+ 
+DOES THE ENTITY HAVE A PERMANENT ESTABLISHMENT IN THE RSA? 
+                                                                     
+  YES  
+ NO 
+DOES THE ENTITY HAVE ANY SOURCE OF INCOME IN THE RSA?  
+                                                                     
+  YES  
+ NO 
+IS THE ENTITY LIABLE IN THE RSA FOR ANY FORM OF TAXATION? 
+ 
+                                                     
+  YES  
+ NO  
+IF THE ANSWER IS “NO” TO ALL OF THE ABOVE, THEN IT IS NOT A REQUIREMENT TO REGISTER FOR A TAX COMPLIANCE STATUS 
+SYSTEM PIN CODE FROM THE SOUTH AFRICAN REVENUE SERVICE (SARS) AND IF NOT REGISTER AS PER 2.3 BELOW.
+
+[Page 4]
+IDT/IT/SD-WAN/2025 
+4 | P a g e  
+ 
+ 
+ 
+PART B 
+TERMS AND CONDITIONS FOR BIDDING 
+ 
+ 
+1. 
+BID SUBMISSION: 
+1.1. BIDS MUST BE DELIVERED BY THE STIPULATED TIME TO THE CORRECT ADDRESS. LATE BIDS WILL NOT BE ACCEPTED FOR 
+CONSIDERATION. 
+1.2. ALL BIDS MUST BE SUBMITTED ON THE OFFICIAL FORMS PROVIDED (NOT TO BE RE-TYPED) OR IN THE MANNER PRESCRIBED 
+IN THE BID DOCUMENT. 
+1.3. THIS BID IS SUBJECT TO THE PREFERENTIAL PROCUREMENT POLICY FRAMEWORK ACT, 2000 AND THE PREFERENTIAL 
+PROCUREMENT REGULATIONS, THE GENERAL CONDITIONS OF CONTRACT (GCC) AND, IF APPLICABLE, ANY OTHER SPECIAL 
+CONDITIONS OF CONTRACT. 
+1.4. THE SUCCESSFUL BIDDER WILL BE REQUIRED TO FILL IN AND SIGN A WRITTEN CONTRACT FORM (SBD7). 
+ 
+2. 
+TAX COMPLIANCE REQUIREMENTS 
+2.1 
+BIDDERS MUST ENSURE COMPLIANCE WITH THEIR TAX OBLIGATIONS.  
+2.2 
+BIDDERS ARE REQUIRED TO SUBMIT THEIR UNIQUE PERSONAL IDENTIFICATION NUMBER (PIN) ISSUED BY SARS TO ENABLE   
+THE ORGAN OF STATE TO VERIFY THE TAXPAYER’S PROFILE AND TAX STATUS. 
+2.3 
+APPLICATION FOR TAX COMPLIANCE STATUS (TCS) PIN MAY BE MADE VIA E-FILING THROUGH THE SARS WEBSITE 
+WWW.SARS.GOV.ZA. 
+2.4 
+BIDDERS MAY ALSO SUBMIT A PRINTED TCS CERTIFICATE TOGETHER WITH THE BID.  
+2.5 
+IN BIDS WHERE CONSORTIA / JOINT VENTURES / SUB-CONTRACTORS ARE INVOLVED; EACH PARTY MUST SUBMIT A 
+SEPARATE   TCS CERTIFICATE / PIN / CSD NUMBER. 
+2.6 
+WHERE NO TCS PIN IS AVAILABLE BUT THE BIDDER IS REGISTERED ON THE CENTRAL SUPPLIER DATABASE (CSD), A CSD 
+NUMBER MUST BE PROVIDED.  
+2.7 
+NO BIDS WILL BE CONSIDERED FROM PERSONS IN THE SERVICE OF THE STATE, COMPANIES WITH DIRECTORS WHO ARE 
+PERSONS IN THE SERVICE OF THE STATE, OR CLOSE CORPORATIONS WITH MEMBERS PERSONS IN THE SERVICE OF THE 
+STATE.” 
+ 
+NB: FAILURE TO PROVIDE / OR COMPLY WITH ANY OF THE ABOVE PARTICULARS MAY RENDER THE BID INVALID. 
+ 
+SIGNATURE OF BIDDER: 
+ 
+ 
+ 
+ 
+…………………………………………… 
+ 
+CAPACITY UNDER WHICH THIS BID IS SIGNED: 
+ 
+…………………………………………… 
+(Proof of authority must be submitted e.g. company resolution) 
+ 
+DATE: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+……………………………
+
+[Page 5]
+IDT/IT/SD-WAN/2025 
+5 | P a g e  
+ 
+ 
+1. 
+TERMS OF REFERENCE 
+ITEM  
+DESCRIPTION  
+1.1 Tender Issue Date  
+07 May 2025 
+1.2 Compulsory Briefing 
+15 May 2025 
+1.3 RFP Number 
+IDT/IT/SD-WAN/2025 
+1.4 Enquiries 
+Any queries shall be directed in writing to the IDT through the email.  
+Email: ictbids@idt.org.za 
+1.5 
+Mandatory Requirements 
+1.5.1. 
+Authority to Sign the Bid Document (If more than one Director) 
+1.5.2. 
+Proof of Company Registration (CIPC) or affidavit and trade name if a Sole Proprietor 
+1.5.3. 
+Proof of Registration for Central Supplier Database system (Bidders must be registered 
+before the Closing date of the RFP) 
+1.5.4. 
+Proof of the following Certification must be provided: 
+               The service provider must be certified in the following standards: 
+ 
+ISO 27001 
+: Information Security Management System. 
+ 
+ISO 9001                 : Quality Management System. 
+ 
+ISO 22301 
+: Business Continuity Management System. 
+ 
+Certified                  : Veeam Cloud Service Provider  
+ 
+ICASA CECS          : Electronic Communications Service (ECS) License 
+ 
+ICASA CECNS       : Electronic Communications Network Service (ECNS) License 
+ 
+VPN OEM  Partnership  
+ 
+The Data Centre must be certified in the following standards: 
+ 
+ 
+Datacentre hosting SIEM must be Tier 4 rated 
+ 
+ISO 9001                 : Quality Management System 
+ 
+ISO 22301 
+: Business continuity management systems 
+ 
+ISO 27001 
+: Information Security Management 
+ 
+ISO 45001 
+: Occupational Health and Safety Management Systems 
+ 
+ISO 50001 
+: Energy Management Systems 
+ 
+1.5.5 
+Price Schedule must be fully completed and signed 
+1.5.6 
+Form of Offer must be fully competed, signed and witnessed  
+1.4.7        Confirmation of Receipt of Addenda to Bid Documents (If Applicable) 
+1.4.8        Attendance to the compulsory briefing meeting by the company’s representative (s) 
+IN ADDITION TO THE ABOVE MANDATORY REQUIREMENTS, THE 
+BELOW ARE APPLICABLE TO JOINT VENTURES AND 
+CONSORTIUMS: 
+1 
+CIPC must be submitted for all companies forming JV or Consortium 
+2 
+Proof of Registration on CSD system must be provided for all companies 
+forming JV or Consortium 
+3 
+Joint Venture or Consortium Agreement certified by the Commissioner of 
+Oath must be submitted and signed by all parties involved in the JV or 
+Consortium. 
+ 
+FAILURE TO COMPLY WITH ANY OF THE ABOVE MANDATORY REQUIREMENTS WILL 
+LEAD TO DISQUALIFICATION 
+1.6.1 
+Submission of fully completed and signed Invitation to Bid (SBD 1)
+
+[Page 6]
+IDT/IT/SD-WAN/2025 
+6 | P a g e  
+ 
+1.6 Mandatory Administrative 
+Requirement  
+1.6.2 
+Submission of fully completed and signed Bidder’s Disclosure (SBD 4)  
+1.6.3 
+Submission of fully completed and signed Preference Points Claim Form in terms of the 
+Preferential Procurement Regulations 2022 (SBD 6.1). 
+1.7. Returnable documents   
+The following returnable documents shall be submitted together with the RFP. The validity of this 
+documentation will be verified at the time of award.        
+1.7.1 
+Full Report of Central Supplier Database  
+1.7.2 
+Valid Tax Compliance Letter with a unique pin  
+ 1.8. Evaluation Criteria  
+This bid will be evaluated in  three stages  
+1.8.1 
+Mandatory Requirements  
+1.8.2 
+Functionality Criteria  / Technical Evaluation 
+1.8.3 
+80/20 Preferential Point System (Price and Specific Goals) 
+Only Bidders who have passed functionality will be evaluated further. A minimum 
+threshold for functionality is 80 Points. 
+1.9. Submission of Bid documents  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.9.1. 
+Bids must be delivered on or before the closing date and time as per   the   advert.   
+1.9.2. 
+Bidders must sign the bid Submission Register upon delivery of the bid at the Head 
+Office. This applies to bids, which are submitted through Courier companies. Bidders 
+MUST inform their Courier Companies to sign the Bid Submission Register in the name 
+of the bidder.   
+1.9.3. 
+Bids submitted after the closing date and time will not be considered.  
+1.9.4. 
+Bid documents shall be hand-delivered in 1 compiled pack (i.e. Bid document and its 
+accompanying Annexures) to the Implementing Agent (IDT), and shall be marked as 
+follows:  
+ 
+Marked confidential Bid and Indicate the following:  
+ 
+ 
+RFP NO: IDT/IT/SD-WAN/2025 
+ 
+ 
+DESCRIPTION: REQUEST FOR PROPOSALS (RFP) FOR THE APPOINTMENT OF 
+A SERVICE PROVIDER TO SUPPLY, INSTALL, CONFIGURE, AND INTEGRATE A 
+WIDE AREA NETWORK, PROVISION OF INTERNET CONNECTIVITY SERVICES 
+(ISP), VIRTUAL HOSTING SOLUTION, FIREWALL SOLUTION, HOSTED PBX FOR 
+A PERIOD OF FIVE (5) YEARS 
+ 
+NAME OF THE COMPANY 
+ 
+THE BID BOX WILL BE LOCATED AT THE IDT HEAD OFFICE MAIN RECEPTION AREA AS 
+PER THE ADDRESS INDICATED ON THE RFP DOCUMENT.  
+NB: Emailed or Faxed RFP documents will be disqualified.  
+1.10. Notes to bidders  
+1.10.1. 
+The bid shall be valid for 90 calendar days.  
+1.10.2. 
+Bidders’ queries will be attended to only up to 5 calendar days before the closing date.  
+1.10.3. 
+Should bidders not receive any correspondence after 90 days of tender validity period 
+then bidders should consider their application unsuccessful.  
+1.10.4. 
+Bids must be submitted on the official forms, which are provided as part of the bid 
+document.
+
+[Page 7]
+IDT/IT/SD-WAN/2025 
+7 | P a g e  
+ 
+1.10.5. 
+All Bids submitted to the IDT will become the property of the IDT and will as such not be 
+returned to the Bidder unless if received after the closing date and time. The IDT will 
+make all reasonable efforts to maintain bids in confidence. Proprietary information 
+should be identified as such in each bid. 
+1.10.6. 
+This document is released for the sole purpose of responding to this TOR and must be 
+considered confidential. In addition, the use, reproduction or disclosure of the 
+requirements, specifications or other material in this RFP is strictly prohibited. 
+ 
+1.10.7. 
+All bids must be formulated and submitted in accordance with the requirements of this 
+TOR. 
+1.10.8. 
+Please note that the Bid Offer is synonymous to Request for Proposals in this 
+documents. 
+1.10.9. 
+IDT will not make upfront payments 
+1.11. Cancellation Costs  
+1.11.1. 
+Should the Project be cancelled by the IDT, due to financial constraints and/or other 
+reasons, the IDT shall not be liable to remunerate the service provider for any potential 
+loss of business and/or profit.  
+1.12. IDT’s Reservation of Rights and 
+Special Conditions 
+1.12.1. 
+IDT reserves the right to negotiate with the bidder for the price.   
+1.12.2. 
+IDT reserves the right to cancel or withdraw this request for bid without prior notice and 
+without furnishing any reasons whatsoever.  
+1.12.3. 
+IDT reserves the right to subject Bidders and their facilities to assessment as part of the 
+evaluation process or as a condition to be appointed.  
+1.12.4. 
+The IDT reserves the right to amend, modify, withdraw this Bid, or terminate any of the 
+procedures or requirements set out herein at any time and from time to time, without 
+prior notice and without liability to compensate or reimburse any person.  
+1.12.5. 
+The IDT reserves the right to further confirm reference letters or similar projects 
+experience of the preferred bidder to be appointed. 
+1.12.6. 
+In terms where the preferred bidder tax matters are not in order 7 (seven) days will be 
+given to the bidder to rectify their tax matters. Failure to do so will lead to disqualification 
+of the bidder from the bid process as indicated in the National Treasury Prescript No 9 
+of 2027/2018. 
+1.12.7. 
+The IDT reserves the right to impose penalties in cases where the service provider fails 
+to perform the services in line with the specifications 
+1.12.8. 
+A schedule of all related parties must be disclosed in the bid document if any. 
+1.12.9. 
+The IDT may disqualify a Bidder whose proposal contains a misrepresentation which is 
+materially incorrect or misrepresented. 
+1.12.10. The Tender will be awarded in line with National Treasury Prescripts and all applicable 
+Legislation. 
+1.13. Bid Document and Contract  
+1.13.1. 
+Bidders are advised to ensure that they familiarize themselves with all the contents of 
+the Bid documents, as those will form the basis of the contract to be entered into. Any 
+contents of this document that the bidder requires clarity on shall be brought forward 
+before the Bid submission date stipulated in this Bid document.  
+1.13.2. 
+Note: The Bid Document must be completed using permanent black ink.
+
+[Page 8]
+IDT/IT/SD-WAN/2025 
+8 | P a g e  
+ 
+ 
+BACKGROUND 
+The IDT is a Schedule 2 state-owned entity, which manages the implementation and delivery of critically needed social infrastructure 
+programmes on behalf of the government. The organisation reports to the Minister of Public Works and Infrastructure who is the Shareholder 
+representative. 
+ 
+The IDT operates in nine provinces with the head office located at Faerie Glen, Pretoria in the Gauteng province. Currently, a private Multi-
+Protocol Label Switching (MPLS) WAN network interconnects four of the nine IDT provincial offices to the head office in Faerie Glen, 
+Pretoria, Gauteng Province. A central server room is situated at the Faerie Glen office and houses core ICT network infrastructure. The 
+central server room also houses some of the on-premise ICT infrastructure required for all other IDT business operations. This MPLS 
+network caters for both Session Initiation Protocol (SIP) telephony services as well as data network services. We also have fifteen production 
+virtual machines hosted on a private cloud by a service provider. 
+ 
+Moreover, IDT has a cisco wireless solution with 16 Access Points that plugs into the internal network Local Area Network (LAN). The 
+current wireless solution (Cisco Wireless Controller- Cisco 2500 and Cisco Access Points Cisco AIR-CAP2702I-E-K9 / 802.11bg:-E802. 
+11a:-E) has reached end of life. The IDT would like to appoint a service provider to plan, supply, and install including removal of old Wi-Fi 
+solution, and maintenance and support for the new proposed Wi-Fi solution.  
+ 
+PURPOSE OF THE TERMS OF REFERENCE  
+The purpose of the terms of reference (TOR) is to appoint a qualified and experienced service provider to supply, install, configure and 
+integrate a WAN network, internet connectivity services, virtual hosting solution, hosted firewall solution and hosted PBX solution for the 
+IDT for a period of five (5) years 
+ 
+OBJECTIVES  
+Deliver, install and configure a WAN solution, the associated services and requisite infrastructure at each of the nine (9) provincial offices.  
+T.1 EVALUATION CRITERIA  
+The RFP will be evaluated on three phases: 
+ 
+Mandatory Requirements 
+ 
+Functionality / Technical Evaluation 
+ 
+Price and Specific Goals 
+ 
+T1.1 MANDATORY ADMINISTRATIVE REQUIREMENTS/DOCUMENTATION   
+ 
+Submission of fully completed and signed Invitation to Bid (SBD 1) 
+ 
+Submission of fully completed and signed Bidder’s Disclosure (SBD 4) 
+ 
+Submission of fully completed and signed Preference Points Claim Form in terms of the Preferential Procurement Regulations 
+2022 (SBD 6.1). 
+T1.2 MANDATORY REQUIREMENTS/DOCUMENTATION   
+ 
+Authority to Sign the Bid Document (If more than one Director) 
+1.13.3. 
+The Bid document must be bound and be in a sealed envelope.   
+1.13.4. 
+If the IDT amends this bid document, the IDT will issue an erratum.   
+1.13.5. 
+This document must be used solely for the purpose it is intended to achieve.   
+1.13.6. 
+The IDT will not be liable to reimburse any costs incurred by bidders in preparing their 
+quotation. 
+1.13.7. 
+Bidders who are blacklisted with the National Treasury will be eliminated, therefore, not 
+considered any further evaluation.  
+1.13.8. 
+A contract will only be deemed to be concluded when reduced to writing and signed by 
+the designated responsible person of both parties (duly authorised).
+
+[Page 9]
+IDT/IT/SD-WAN/2025 
+9 | P a g e  
+ 
+ 
+Proof of Company Registration (CIPC) or affidavit and trade name of the Sole Proprietor 
+ 
+Proof of Registration for Central Supplier Database system (Bidders must be registered before the Closing date of the RFP)       
+ 
+Proof of the following Certification must be provided: 
+               The service provider must be certified in the following standards: 
+ 
+ISO 27001 
+: Information Security Management System. 
+ 
+ISO 9001                 : Quality Management System. 
+ 
+ISO 22301 
+: Business Continuity Management System. 
+ 
+Certified                  : Veeam Cloud Service Provider  
+ 
+ICASA CECS          : Electronic Communications Service (ECS) License 
+ 
+ICASA CECNS        : Electronic Communications Network Service (ECNS) License 
+ 
+VPN OEM  Partnership  
+ 
+The Data Centre must be certified in the following standards: 
+ 
+Datacentre hosting SIEM must be Tier 4 rated 
+ 
+ISO 9001                 : Quality Management System 
+ 
+ISO 22301 
+: Business continuity management systems 
+ 
+ISO 27001 
+: Information Security Management 
+ 
+ISO 45001 
+: Occupational Health and Safety Management Systems 
+ 
+ISO 50001 
+: Energy Management Systems 
+ 
+Price Schedule must be fully completed and signed 
+ 
+Form of Offer must be fully competed, signed and witnessed 
+ 
+Confirmation of Receipt of Addenda to Bid Documents (If Applicable) 
+ 
+Attendance to the compulsory briefing meeting by the company’s representative (s) 
+ 
+IN ADDITION TO THE ABOVE MANDATORY REQUIREMENTS, THE BELOW ARE APPLICABLE TO JOINT 
+VENTURES AND CONSORTIUMS: 
+ 
+CIPC must be submitted for all companies forming JV or Consortium 
+ 
+Proof of Registration on CSD system must be provided for all companies forming JV or Consortium 
+ 
+Joint Venture or Consortium Agreement certified by the Commissioner of Oath must be submitted and 
+signed by all parties involved in the JV or Consortium. 
+ 
+Note:    
+I. 
+Failure to submit the above-required mandatory documents shall result in disqualification of the bidder. 
+II. 
+If any of the Directors are in the Employment of the State this shall result in disqualification of the bidder.   
+III. 
+If any of its Directors is listed on the Register of Defaulters, this shall result in disqualification of the bidder.   
+IV. 
+In the case of a Bidder, who during the last ten (10) years has been terminated on Previous Contracts with the IDT this shall 
+result in disqualification of the bidder. 
+V. 
+If the Company is listed on the National Treasury’s Restricted Supplier Database, this shall result in disqualification of the bidder. 
+  
+The IDT will assess all bids received based on its procurement policy, National Treasury Prescripts and all applicable Legislations. Only 
+bidders who are competent in the advertised work and who have achieved the minimum functionality threshold will be eligible for evaluation 
+on price and specific goals.    
+Note: Failure to comply with the above requirements will result in automatic disqualification of your bid.
+
+[Page 10]
+IDT/IT/SD-WAN/2025 
+10 | P a g e  
+ 
+T2. FUNCTIONALITY EVALUATION  
+ 
+T2.1 Functionality Criteria 
+Only bidders who are competent in the advertised work and who have achieved the minimum functionality threshold will be eligible for 
+evaluation on price and specific goals. 
+ 
+ 
+FUNCTIONALITY AREAS  
+WEIGHT (%)   
+Network Infrastructure Engineer 
+ 
+20 
+Disaster Recovery Consultant 
+ 
+ 
+20 
+Information Security Officer  
+ 
+15 
+Project Manager  
+15 
+Reference Letters  
+ 
+ 
+10 
+Methodology/Proposal 
+15 
+Project Plan  
+5 
+ 
+Only bidders who obtain 80 points or higher on the functionality threshold will be eligible to proceed to the next level to be evaluated on 
+price and specific goals. 
+ 
+ 
+T2.2. Functionality Evaluation Scorecard   
+ 
+The IDT will assess all the submitted RFPs for procurement of SD-WAN based on its procurement policy and National Treasury prescripts 
+and all relevant legislations.  
+RFP will be evaluated on the below: 
+VARIABLES    
+TOTAL 
+POINTS    
+CRITERIA    
+POINTS  
+FUNCTIONALITY 
+POINTS  
+100 
+  
+ 100 
+Network Infrastructure 
+Engineer 
+ 
+Academic Qualification : NQF Level 7 (Bachelor’s Degree in information 
+Technology or equivalent qualification at NQF Level 7)  and Certified with 
+the following certifications  
+ 
+IT NQF Level 7 (Bachelor’s Degree in Information Technology 
+or equivalent), CCIE, VMware Certified Professional - Data 
+Centre Virtualization and NSE 7 = 20 Points 
+ 
+CCIE, VMware or NSE 7 only =10 Points 
+ 
+NQF Level 7 (Bachelors Degree in Information Technology or 
+equivalent ) only = 10 points 
+ 
+No IT NQF Level 7 (Bachelor’s Degree in Information 
+Technology or equivalent), CCIE, VMware Certified 
+Professional - Data Centre Virtualization and NSE 7 = 0 points 
+ 
+20 
+Disaster Recovery 
+Consultant 
+ 
+Academic Qualification: NQF Level 7 (bachelor’s degree in information 
+technology or equivalent qualification at NQF Level 7) and VMCA 
+Certification. 
+ 
+NQF Level 7 (bachelor’s degree in information technology or 
+equivalent) and VMCA Certification – 20 points 
+ 
+NQF Level 7 (bachelor’s degree in information technology or 
+equivalent) only – 12 points 
+ 
+VMCA Certification only – 8 points 
+20
+
+[Page 11]
+IDT/IT/SD-WAN/2025 
+11 | P a g e  
+ 
+ 
+No NQF Level 7 (bachelor’s degree in information technology 
+or equivalent) and VMCA Certification – 0 points 
+Information Security 
+Officer  
+ 
+Academic Qualification: NQF Level 7 (bachelor’s degree in information 
+technology or equivalent qualification at NQF Level 7) and 
+CISA/CISSP/CRISC Certifications 
+ 
+NQF Level 7 (bachelor’s degree in information technology or 
+equivalent) and CISA/CISSP/CRISC Certifications – 15 points 
+ 
+NQF Level 7 (bachelor’s degree in information technology or 
+equivalent) only – 9 points 
+ 
+CISA/CISSP/CRISC Certifications only – 6 points 
+ 
+No NQF Level 7 (bachelor’s degree in information technology 
+or equivalent) and CISA/CISSP/CRISC Certifications – 0 
+points 
+15 
+Project Manager  
+ 
+PMP/Prince 2 certification 
+ 
+PMP / Prince 2 Certification – 15 points 
+ 
+No PMP / Prince 2 Certification – 0 points 
+ 
+15 
+Reference Letters  
+ 
+Bidders to provided Verifiable Reference Letters of similar projects 
+completed. The Reference Letters must entail Email address, Cell / Tell 
+Number and Physical address of the Departments, Entities or Companies 
+they serviced. (Failure to adhere to the requirement will lead to 0 point 
+allocation) 
+ 
+Five (5) or more Reference Letters – 10 points 
+ 
+Three (3) or Four (4) Reference Letters – 5 points 
+ 
+Zero (0) to Two (2) Reference Letters – 0 points 
+10 
+Methodology/Proposal 
+ 
+Describe, in detail, exactly how you propose to carry out the activities to 
+achieve the outcomes identified in the Terms of Reference with clear time 
+frames. 
+ 
+Methodology / Proposal and time frames are clear – 15 points 
+ 
+Methodology / Proposal is clear, time frame not clear – 7 
+points 
+ 
+Time frame clear and Methodology / Proposal not clear – 7 
+points 
+ 
+No Methodology / Proposal submitted – 0 points 
+ 
+15 
+Project Plan  
+ 
+Detailed project plan indicating all phases and timelines. 
+ 
+Project plan entails all phases and timelines – 5 points 
+ 
+Project plan entails all phases but timelines are not clear – 3 
+points 
+ 
+Project plan timelines are clear but does not entails all phases 
+– 2 points 
+ 
+No Project Plan – 0 points 
+ 
+5
+
+[Page 12]
+IDT/IT/SD-WAN/2025 
+12 | P a g e  
+ 
+T3. PHASE THREE: PREFERENTIAL POINT SYSTEM  
+Only competent tenders who have reached or exceeded the minimum functionality threshold of 80 points will be evaluated on an 80/20 
+(Price / Specific Goals) points basis in terms of the Preferential Procurement Policy Framework Act of 2000, Preferential Procurement 
+Regulation 2022.  
+ 
+     3.1 Specific Goals  
+ 
+In order to claim and be awarded points the following source documents must be submitted with the Bid:  
+ 
+ 
+CIPC Document                     (Company Registration Document will be required for Verification) 
+ 
+Woman                                   (Original Certified ID Document) 
+ 
+Youth                                      (Original Certified ID Document) 
+ 
+People with Disability             (Letter from the Dr. Confirming Disability) 
+ 
+Black Ownership                    (Original Certified ID Document) 
+ 
+The point related to the IDT Specific Goals will be allocated proportionally as per table below: 
+ 
+ 
+ 
+ 
+ 
+ 
+POINTS 
+ 
+PRICE 
+90 
+80 
+SPECIFIC GOALS 
+10 
+20 
+TARGETED GROUP 
+Women  
+3 
+6 
+Youth 
+3 
+6 
+People with Disabilities 
+2 
+4 
+Black People 
+2 
+4 
+Total points for Price and SPECIFIC GOALS  
+100 
+100 
+ 
+ 
+STAGE OF AWARD 
+ 
+The following returnable document shall be submitted together with the tender documents. Validity of this documentation will be verified at 
+the time of award.  
+ 
+ 
+1. 
+Proof of Central Supplier Database registration. 
+2. 
+Valid Tax Compliance Letter with a unique pin. 
+ 
+ 
+AVAILABILITY OF DOCUMENTS  
+ 
+Documents will be available free of charge online from the 07th of May 2025 on the following websites:  
+ 
+E-tender – www.etenders.gov.za  
+ 
+IDT website - www.idt.org.za
+
+[Page 13]
+IDT/IT/SD-WAN/2025 
+13 | P a g e  
+ 
+T4. SCOPE OF WORK  
+ 
+4.1 IDT Solution Requirements 
+The IDT seeks to implement a new WAN network infrastructure based on the SD-WAN architecture. The envisaged SD-WAN seeks to 
+achieve a combination of the following functionality and services on a secure basis in terms cybersecurity:  
+i. 
+Interconnect all its branch offices across the country.  
+ii. 
+Connect the IDT offices to the world of internet in terms of overall data connectivity.  
+iii. 
+Facilitate safe and secure transmission of data in all various forms to support the IDT business: SIP telephony, email 
+messaging, internet browsing, multimedia rendering, remote VPN connectivity and all other modern applications.  
+The envisaged SD-WAN solution is required to operate on optic Fibre medium as a last mile connection to each of the nine IDT offices.   
+1.2  The schematic below represent a high-level SD-WAN network topology of the envisaged solution  
+ 
+ 
+4.3 
+Firewall Device 
+Qty 
+Appliance 
+Description 
+2 
+(NGFW) 
+A Next-Generation Firewall (NGFW) that provides enterprise-
+grade threat protection, SD-WAN capabilities, and integrate 
+security management. 
+Supply and configure firewall for Head Office with 6060 
+Months 24/7 support.
+
+[Page 14]
+IDT/IT/SD-WAN/2025 
+14 | P a g e  
+ 
+7 
+(NGFW) 
+Supply and deployment configuration of firewall for 
+regional offices with 60 
+Months 24/7 support. 
+1 
+Host VDOM Enterprise & 
+Architectural Structure 
+Configured multi-tenant domain management. 
+1 
+Host Log Analyzer – 500GB  
+Configured centralised logging, analysis, and storage with 
+IOC/SOS/ODS 
+1 
+Monthly Remote Support 
+24/7 remote support enabled on all devices. 
+Present a SOP’s with tiered support and maintenance schedules.  
+ 
+4.4 Virtual Private Network (VPN) 
+Secure VPN access for 300 remote users via the Proposed Hosted Firewall. The service provider must supply, install, and support the 
+Proposed VPN appliance. All licenses must be priced according to the proposal. 
+4.4.1. Scope 
+Supply, install, configure, license, and support a  VPN solution to enable secure, scalable remote access for up to 300 concurrent users 
+using Firewall appliances. 
+4.4.2. Objective(s):  
+ 
+Provide end-to-end encrypted VPN access for remote users 
+ 
+Ensure high availability and performance for up to 300 concurrent sessions 
+ 
+Enforce MFA (Multi-Factor Authentication) and device posture checks 
+ 
+Enable centralized monitoring and logging via Log Analyzer 
+ 
+Ensure vendor support and maintenance for all components 
+4.4.3. Deliverables: Hardware & Licensing 
+Firewall Device Appliance 
+Description 
+(NGFW) 
+For VPN gateway termination 
+(HA/Backup) 
+Optional Failover 
+Licenses 
+300x user-based licenses for two-factor authentication 
+VPN User Licenses 
+Support for 300 concurrent SSL VPN/IPsec users 
+FirewallSupport 
+24/7 support and firmware updates 
+Log Analyzer Integration 
+Log forwarding and VPN session audit 
+Please provide details for:  
+ 
+Installation & Configurations 
+ 
+Support and Maintenance 
+ 
+Security Features and Benefits 
+ 
+Performance and Scalability 
+ 
+Licensing Costs & SLA 
+ 
+4.5 IaaS Cloud Server Environment
+
+[Page 15]
+IDT/IT/SD-WAN/2025 
+15 | P a g e  
+ 
+Below are defined IDT’s cloud services requirements for the acquisition, configuring, hosting and maintaining its cloud-based production 
+server environment and infrastructure services under the IaaS architectural model. This must be a scalable design to support all IDT’s 
+enterprise applications, firewall management, security logging and remote operations.   
+Business Requirements Details: 
+ 
+Cloud Servers 
+Requirement Details 
+Qty 
+2 x 2Ghz 8vCPU,64GB RAM,  
+500GB Storage 
+Servers must support heavy workloads such as: SQLServer, 
+Virtualised Firewalls, Web Applications, and Log Analyzer with log 
+processing and log retentions. Standard SSD/ High-IOPS SSD 
+15 
+Backups+DaaS 
+(Provision of Disaster Recover As 
+Service) 
+Automated copies of server’s data, configurations, and system state, stored in a secure 
+cloud location essential for disaster recovery, ransomware protection, and operational 
+continuity.  
+Present a visual diagram detailing type, structure of backups + DaaS integration diagram 
+required. 
+Cloud backup Solution per VM 
+Hosted DaaS Cloud-based solution, use case, features and benefits. 
+Supply and deployment configuration with 6060 Months 24/7 support. 
+15 
+Backup Policy Features & Security 
+Policy Features:  
+Scheduling. Geo-Redundant. Encryption. Self-service Restores. 30-
+90Days retention perVM. 
+Security Features: 
+Centralised updates. Centralised Patching & AV. Scalability. Secure 
+Access. MFA & SSO. Logs and monitoring. Daily-Weekly Reports. 
+15 
+Please provide pricing estimation based on number of desktops/users
+
+[Page 16]
+IDT/IT/SD-WAN/2025 
+16 | P a g e  
+ 
+4.5 Telephone System 
+Provide a cloud-based PBX solution that will have the following features: 
+Solution Feature 
+Yes/No 
+Solution Feature 
+Yes/No 
+1. 
+Provide a VoIP telephone system for a period of five (5) years.  
+ 
+2. 
+Solution must be robust and capable of a true fixed-to-mobile 
+convergence  
+ 
+3. 
+Allow for teleconferencing and provide a bridge for external users.  
+ 
+4. 
+Ability to integrate with the latest technology for Videoconferencing, 
+where content might need to be shared, and sessions recorded. 
+ 
+5. 
+Provide support and maintenance for a period of five years.  
+ 
+6. 
+Provide pro-active 24/7/365 days support.  
+ 
+7. 
+Provide a telephone system that will reduce telephone costs. 
+ 
+8. 
+Provide a system that prevents the use of IDT Telephones by 
+unauthorized persons.  
+ 
+9. 
+The system must assign a Personal identification number (PIN) to users.  
+ 
+10. Provide printouts of calls made per extension/ PIN Code as required. 
+ 
+11. Provide a system which will print out monthly statements for each PIN code. 
+ 
+ 
+12. Provide training to users and system administrators.  
+ 
+13. Provide a clear fault reporting, escalation plan, and turnaround time to resolve 
+logged calls.  
+ 
+14. Ability to provide remote support to the system.  
+ 
+15. Provide a hosted switchboard solution. 
+ 
+ 
+16. Provide IP phones. 
+ 
+ 
+17. Provide quality of service and an explanation of how the quality of service 
+(QoS) standards that will be addressed by your solution. 
+ 
+18. Provide SLA for all the equipment for the next business day. 
+ 
+19. Provide a solution that has proactive monitoring.  
+ 
+20. Provide your VoIP rates table to different Networks.  
+ 
+21. Provide direct line dialing, if there are costs state the costs to provide the 
+service.  
+ 
+22. Provide support costing- Remote Support, Online Support & onsite when 
+necessary.  
+ 
+23. Retain existing geographic phone and fax numbers of IDT, Bidder’s solution 
+should address how this can be achieved. 
+ 
+24. Ability to work with Microsoft Teams with a voice breakout.  
+ 
+25. Solution should be able to work on mobile devices, laptops and be capable of 
+having a physical device  
+ 
+26. The solution should allow for mobility. Resolution, graphical grayscale 
+display makes viewing easier 
+ 
+27. Provide Telephone Management Services to help IDT to take control and 
+monitor internal telecoms expenditure.  
+ 
+28. Provide a detailed clear project plan on the implementation of the project.
+
+[Page 17]
+IDT/IT/SD-WAN/2025 
+17 | P a g e  
+ 
+4.5.1. Deployment & Configurations 
+Supply, install and configure a complete cloud-based telephone solution with Microsoft Teams 
+Integration, (firewalls, switches, Wi-Fi routers), external calling (PSTN), voicemail, call queues, and 
+Advanced call routing – all within a unified Teams interface. Taking into account the modern hybrid  
+Remote work environments that can integrate with the proposed OEM network infrastructure 
+ 
+4.5.1. Indoor Wi-Fi Coverage planning to ensure that all working areas are covered with Wi-Fi Signal: 
+4.5.1.1. Identify locations for Access Points.   
+4.5.1.2. Minimize WLAN Interference   
+4.5.2. Wi-Fi/Wireless Controller with redundancy (Active and Standby).  
+4.5.3. Five-years maintenance and warranty.  
+4.5.4. The proposed solution must meet the following requirements 
+4.5.4.1. Access Points (APs) should be wall/ceiling mounted and powered by Power over Ethernet (POE).   
+4.5.4.2 Seamless Roaming between APs must be available.   
+4.5.4.3 APs end points and traffic monitoring should be implemented in a centralized  
+Managing interface and IDT technical team must be always given access for monitoring.  
+4.5.4.4 Supply, Configuration, installation of the Proposed Solution and removal of the old equipment 
+4.5.4.5 Able to Integrate with the IDT Local Area Network Infrastructure 
+4.5.5 The service provider must provide IDT technical team with training to monitor the solution and perform basic troubleshooting 
+4.5.6 The service provider must provide the installation documentation details (As built document) at the completion of the project 
+4.5.7 The proposed solution must be able to segregate the internal traffic and external (BYOD/Guest) traffic.
+
+[Page 18]
+IDT/IT/SD-WAN/2025 
+18 | P a g e  
+ 
+4.6 Detailed Technical Specifications 
+Supply and installation of Wi-Fi equipment  
+Ref. 
+Functional Criteria.  
+Wi-Fi6 APs minimum requirements: 
+Technical 
+Comply 
+Yes/No 
+Provide Details 
+YES  
+NO  
+4.8.1.  
+Wi-Fi standards:   
+- 
+802.11a/b/g/ac   
+ 
+ 
+ 
+4.8.2.  
+Frequency bands:  
+- 
+2.4 GHZ MIMO 4x4   
+- 
+5 GHZ MIMO 4x4  
+ 
+ 
+ 
+4.8.3.  
+Wireless security:   
+- 
+WPA-PSK,WPA-Enterprise  
+- 
+(WPA/WPA2/WPA3)  
+- 
+Intrusion detection   
+ 
+ 
+ 
+4.8.4.   
+Features:  
+4.8.4.1.  
+BSSID minimum 4 per radio  
+ 
+ 
+ 
+2.8.4.2.  
+Simultaneous Dual-Band  
+ 
+ 
+ 
+2.8.4.3. 
+Wireless speed 450 Mbps 2.4 GHz   
+ 
+ 
+ 
+2.8.4.4.  
+Wireless speed 1300 Mbps 5 GHZ   
+ 
+ 
+ 
+2.8.4.5.  
+Ethernet network interface 10/100/1000  
+- 
+Ethernet   
+ 
+ 
+ 
+2.8.4.6.  
+Ethernet ports VLAN 802.1Q
+
+[Page 19]
+IDT/IT/SD-WAN/2025 
+19 | P a g e  
+ 
+2.8.4.7.  
+Advanced QoS - Per-User Rate Limiting   
+ 
+ 
+ 
+2.8.4.8.  
+Guest Traffic Isolation  
+ 
+ 
+ 
+2.8.4.9.  
+Wi-Fi Multimedia (WMM) - Voice, Video,  
+- 
+Best Effort, and Background   
+ 
+ 
+ 
+2.8.4.10.  
+Concurrent Clients – 100 devices per Access Point  
+ 
+ 
+ 
+2.8.4.11.  
+Mounting: Wall/ceiling (included)   
+ 
+ 
+ 
+2.8.4.12.  
+Centralized Management Application   
+ 
+ 
+ 
+2.8.4.13.  
+Interference management  
+ 
+ 
+ 
+2.9.   
+PoE Injector  
+2.9.1  
+Shielded Cat 6 Cables Approximate 3000m  
+ 
+ 
+ 
+2.9.2  
+Wireless Controller Functionality  
+2.9.2.1  
+Wireless Controller must have In Service Software Upgrade (ISSU) enabled. [ISSU is 
+a complete image upgrade and update while the network is still running] 
+ 
+ 
+ 
+2.9.2.2  
+Wireless Controller must have hot-patching capabilities   
+ 
+ 
+ 
+2.9.2.3  
+Wireless Controllers must be performance-license capabilities and those licenses 
+must be included in the offered solution and quotation  
+ 
+ 
+ 
+2.9.2.4  
+Automatic Failover between Wireless  
+Controller must be configured and tested  
+ 
+ 
+ 
+2.9.2.5  
+Wireless controllers must have 4x 10Gb SFP (Small Form-factor Pluggable) + fibre 
+ports to connect controllers to 2 different Internet links
+
+[Page 20]
+IDT/IT/SD-WAN/2025 
+20 | P a g e  
+ 
+5. SCOPE OF WORK  
+  
+The solution entails the provision of the following:   
+1. Supply, install, configure and integrate the proposed WAN solution:  
+1.1. 
+Optic Fibre links as last mile to each IDT office  
+2. Supply and configure branch level SIP trunks for voice connectivity for telephony services.  
+3. Porting and retention of current IDT SIP assigned numbers.  
+4. Provide reliable sustained internet connectivity:  
+4.1 Centralised internet breakout network topology based on a 3GB/s optic Fibre link at the Data centre.  
+5. Service provider hosted firewall solution.  
+6. Propose the most appropriate VPN solutions taking into account best practice cybersecurity considerations for 
+mobile devices to access the IDT network remotely.  
+7. Avail a WAN dashboard platform to ICT personnel to monitor each of the core WAN components:  
+7.1. 
+Network uptime. 
+7.2. 
+Network performance.  
+7.3. 
+Cybersecurity performance  
+7.4. 
+Reporting capabilities  
+7.5. 
+Network alerts to authorised recipients at IDT via SMS and email.  
+8. Recommend an information and cybersecurity framework to ensure secure practice of maintaining network 
+devices:  
+8.1. 
+All routers including the internet breakout router should have the ability to be remotely managed. 
+Firmware and/or operating systems must be patched regularly to the latest versions as per recommended 
+software releases.  
+8.2. 
+Router information and configurations must be made available for audit purposes to the IDT, or any 
+3rd Party appointed by the IDT.   
+8.3. 
+Read-only access to network portals accessible by authorized IDT personnel for purposes of trouble 
+shooting and auditing.  
+9. Render 24-hour helpdesk support.  
+As and when required where applicable. Obtain all necessary permissions from a property owner’s and relevant regulatory bodies 
+for the installation of Fibre optic cabling and related equipment at each of the IDT office buildings. The WAN nodes are to be 
+installed at the following office locations:  
+ 
+Office 1: Faerie Glen, Pretoria, Gauteng 
+Physical address: 294 Sprite Avenue, Faerie Glen, Pretoria, 0043 Block B, Glenwood Office Park. 
+ID 
+Description 
+Details 
+1. 
+ 
+Primary network connectivity mode to office Building  
+Optic Fibre  
+2. 
+ 
+Secondary network connectivity mode to office Building  
+Optic Fibre 
+3. 
+ 
+WAN router Network interface to IDT LAN network switch  
+Ethernet  
+4. 
+ 
+Internet bandwidth for both primary and secondary  
+3 GB/s
+
+[Page 21]
+IDT/IT/SD-WAN/2025 
+21 | P a g e  
+ 
+5. 
+ 
+Voice channels/protocol  
+100/SIP  
+6. 
+ 
+Telephone number range  
+Port from existing service 
+provider  
+7. 
+ 
+Routable external fixed IP addresses  
+Minimum 10  
+ 
+a) 
+Office 2: Cape Town, Western Cape  
+Current Physical Address: Customs House, Heerengracht St, Foreshore, Cape Town, 8001  
+  
+The IDT Cape Town office is currently housed at the DPWi offices on a temporary basis until a permanent office space is secured. 
+The date of the relocation and the new address cannot be confirmed at this point. NOTE:  
+The IDT will enter into an agreement to setup the SD-WAN services to a new IDT Cape Town office building with the successful 
+bidder at the required time. Alternatively, an erratum will be issued to Bidders should the relocation be concluded before the closure 
+of the Bid. 
+  
+ID  
+Description  
+Details  
+1. 
+ 
+Primary network connectivity mode to office building  
+Optic Fibre  
+2. 
+ 
+WAN router Network interface to IDT LAN network switch  
+Ethernet  
+3. 
+ 
+Internet bandwidth  
+1GB/s  
+4. 
+ 
+Voice channels/protocol  
+Minimum 10/SIP  
+5. 
+ 
+Telephone number range  
+N/A  
+ 
+b) 
+Office 3: Durban, Kwa Zulu Natal Province  
+Physical Address: 4th Floor, The Marine Building, 22 Dorothy Nyembe Street. 
+. ID  
+Description  
+Details  
+1. 
+Primary network connectivity mode to office building  
+Optic Fibre  
+2. 
+WAN router Network interface to IDT LAN network switch  
+Ethernet  
+3. 
+Internet bandwidth  
+1GB/s  
+4. 
+Voice channels/protocol  
+40/SIP  
+5. 
+Telephone number range  
+Port from existing 
+service provider  
+ 
+c) 
+Office 4: East London – Eastern Cape Province   
+Physical Address: Palm Square Business Park, Bonza Bay Road, Silverwood, Beacon Bay, East London 
+ID 
+Description 
+Details 
+1. 
+Primary network connectivity mode to office building 
+Optic Fibre 
+2. 
+WAN router Network interface to IDT LAN network switch 
+Ethernet 
+3. 
+Internet bandwidth 
+1GB/s 
+4. 
+Voice channels/protocol 
+Minimum 40/SIP
+
+[Page 22]
+IDT/IT/SD-WAN/2025 
+22 | P a g e  
+ 
+5. 
+Telephone number range 
+Port from existing 
+service provider 
+ 
+d) 
+Office 5: Kimberly – Northern Cape Province   
+Physical Address: Block D, Sanlam Office Park, 13 Bishops Avenue. Labram, Kimberly 
+ID  
+Description  
+Details  
+1. 
+Primary network connectivity mode to office building  
+Optic Fibre  
+2. 
+WAN router Network interface to IDT LAN network switch  
+Ethernet  
+3. 
+Internet bandwidth  
+1GB/s  
+4. 
+Voice channels/protocol  
+Minimum 10/SIP  
+5. 
+Telephone number range  
+N/A  
+ 
+ 
+e) 
+Office 6: Mahikeng, North-West Province   
+Physical Address: 4071 Joule Street, Industrial Site, Mafikeng 
+ID  
+Description  
+Details  
+1. 
+Primary network connectivity mode to office building  
+Optic Fibre  
+2. 
+WAN router Network interface to IDT LAN network switch  
+Ethernet  
+3. 
+Internet bandwidth  
+1GB/s  
+4. 
+Voice channels/protocol  
+Minimum 10/SIP  
+5.  
+Telephone number range  
+N/A  
+ 
+f) 
+Office 7: Nelspruit, Mpumalanga Province  
+Physical Address: 24 Paul Kruger Street, ABSA Square, Nelspruit.  
+ID  
+Description  
+Details  
+1.  
+Primary network connectivity mode to office building  
+Optic Fibre  
+2.  
+WAN router Network interface to IDT LAN network switch  
+Ethernet  
+3.  
+Internet bandwidth  
+1GB/s  
+4.  
+Voice channels/protocol  
+Minimum 10/SIP  
+5.  
+Telephone number range  
+N/A  
+ 
+g) 
+Office 8: Polokwane, Limpopo Province   
+Physical Address: 76 Schoeman Street, 1st Floor ABSA Building, Polokwane. 
+ 
+ID  
+Description  
+Details
+
+[Page 23]
+IDT/IT/SD-WAN/2025 
+23 | P a g e  
+ 
+1.  
+Primary network connectivity mode to office building  
+Optic Fibre  
+2.  
+WAN router Network interface to IDT LAN network switch  
+Ethernet  
+3.  
+Internet bandwidth  
+1GB/s  
+4.  
+Voice channels/protocol  
+Minimum 30/SIP  
+5.  
+Telephone number range  
+Port from existing service 
+provider  
+ 
+h) 
+Office 9: Bloemfontein, Free State Province   
+Physical Address: 46 2nd Avenue, Westdene, Bloemfontein, 9301  
+ 
+ID  
+Description  
+Details  
+1.  
+Primary network connectivity mode to office building  
+Optic Fibre  
+2.  
+WAN router Network interface to IDT LAN network switch  
+Ethernet  
+3.  
+Internet bandwidth  
+1GB/s  
+4.  
+Voice channels/protocol  
+Minimum 10/SIP  
+5.  
+Telephone number range  
+N/A  
+ 
+ 
+j. The Primary WAN infrastructure is to be deployed at the office location stipulated below 
+Province  
+Town/City  
+Physical Address  
+Gauteng  
+Faerie Glen, Pretoria  
+294 Sprite Avenue, Block B, Glenwood Office Park, Faerie Glen, Pretoria  
+ 
+ 
+6. DELIVERABLES  
+  
+The following deliverables identified as project outputs:  
+6.1  
+A functional SD-WAN solution.   
+6.2  
+Project plan for the rollout of the envisaged solution.  
+6.3  
+Maintenance and Support Service Level Agreement that:  
+6.3.1 Clearly stipulates the roles and responsibilities between the IDT and the service provider in terms of the administration and 
+management of key WAN network components.  
+6.3.1.1 SD-WAN router and switches.  
+6.3.1.2 Hosted firewall.  
+6.3.1.3 First level support performed by IDT network administrators.  
+6.4  
+VoiP Telephone System (SIP Trunk) 
+6.5 
+Cloud Server Hosting
+
+[Page 24]
+IDT/IT/SD-WAN/2025 
+24 | P a g e  
+ 
+6.6 
+Hosted VPN Solution 
+6.7  
+Signed-off project close out reports
+
+[Page 25]
+IDT/IT/SD-WAN/2025 
+25 | P a g e  
+ 
+ 
+ 
+7. FUNCTIONAL REQUIREMENTS  
+  
+The bidder is to establish and provide a WAN solution with the following minimum capabilities and/or features:  
+# 
+ 
+ITEM DESCRIPTION  
+ 
+SPECIFICATION  
+QTY  
+COMPLY/ NOT 
+COMPLY  
+1.  
+WAN Network Primary Gateway Link 
+(Faerie Glen, office)  
+Internet connectivity:  
+ 
+Medium: optic Fibre  
+ 
+Speed: 3 GB/s  
+1 
+ 
+3.  
+WAN Firewall  
+A hosted fire wall solution  
+1 
+ 
+4.  
+WAN Provincial Link to  
+Head Office  
+Province to head office:  
+ 
+100 Mb/s  
+8 
+ 
+6.  
+VPN Connectivity  
+A VPN solution for remote connectivity:  
+ 
+Clients x  300 
+1 
+ 
+7.  
+Reporting Dashboard  
+At minimum, the platform must be able to provide:  
+ 
+a) Dashboard cybersecurity monitoring:  
+ 
+Ability to draw reports for daily, weekly, 
+monthly and custom date ranges.  
+1 
+ 
+Cybersecurity report:  
+ 
+By detected high security events and threats  
+ 
+By application type  
+ 
+By protocol type  
+ 
+By site visited  
+ 
+By Microsoft Active Directory login name  
+ 
+Firewall rule set configuration.  
+ 
+b) Extract uptime rate reports for predefined 
+custom date ranges on:  
+ 
+Per provincial link  
+ 
+All links  
+ 
+c) Extract utilisation rate reports for custom date 
+range on:
+
+[Page 26]
+IDT/IT/SD-WAN/2025 
+26 | P a g e  
+ 
+ 
+ 
+ 
+Per provincial link  
+ 
+All links  
+d) Extract operational data reports for pre-defined 
+and custom date ranges on:  
+ 
+Per provincial link  
+ 
+All links  
+ 
+e) Manual and Scheduled (automated) generation 
+of reports on the above categories:  
+ 
+By email (pdf and csv versions)  
+ 
+Manual: by login to the dashboard/reporting 
+platform
+
+[Page 27]
+IDT/IT/SD-WAN/2025 
+27 | P a g e  
+ 
+ 
+ 
+ 
+ 
+T5. PRICE SCHEDULE  
+Price Schedule will be compared on the basis of their total amount inclusive of VAT. Bidders are required to fully complete 
+financial proposals as per the table below. 
+ 
+NB: Below Table needs to be fully completed. 
+Annexure: 2: PRICING SCHEDULE 
+ 
+INTERNET SERVICES TO ALL IDT OFFICES NATIONALLY FOR A PERIOD OF 60 MONTHS. 
+ITEM 
+QTY 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+ 
+Year 5 
+Implementation 
+ 
+ 
+ 
+ 
+ 
+ 
+Implementation costs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Private Cloud Production 
+ 
+ 
+ 
+ 
+ 
+ 
+Private Cloud Production - Cloud Resources - Setup 
+fees (Per VM) 
+ 
+ 
+ 
+ 
+ 
+ 
+Private Cloud Production - Private Cloud Resources 
+- Per 2Ghz vCPU 
+ 
+ 
+ 
+ 
+ 
+ 
+Private Cloud Production - Cloud Resources - Per 
+1GB Memory 
+ 
+ 
+ 
+ 
+ 
+ 
+Private Cloud Production - Cloud Resources - Per 
+1GB SAN Storage - Tier 1 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub Total: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Backup 
+ 
+ 
+ 
+ 
+ 
+ 
+Backup - Cloud Resources - Premium Base Backup 
+License per VM 
+ 
+ 
+ 
+ 
+ 
+ 
+Backup - Cloud Resources - 1GB Backup - 30 Day 
+Retention 
+ 
+ 
+ 
+ 
+ 
+ 
+Storage - Cloud Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+Sub Total 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Firewall Services & Analytics 
+ 
+ 
+ 
+ 
+ 
+ 
+NGFW 100F with 5 Year UTP Bundle and Once-off 
+Setup 
+ 
+ 
+ 
+ 
+ 
+ 
+Branches -NGFW 80F with 5 Year UTP Bundle and 
+Once-off Setup 
+Hosted VDOM Enterprise -  
+Hosted Log Analyzer - 500GB Storage with 
+IOC/SOC/ODS 
+Monthly Remote Support
+
+[Page 28]
+IDT/IT/SD-WAN/2025 
+28 | P a g e  
+ 
+ 
+ 
+Sub Total: 
+Connectivity Broadband 
+IDT Head Office - Primary Fibre - 200Mbps 
+IDT Head Office - Secondary Microwave - 100Mbps 
+IDT Cape Town - Primary Fibre - 50Mbps 
+  
+IDT East London - Primary Fibre - 100Mbps 
+  
+IDT Bloemfontein - Primary Fibre - 50Mbps 
+IDT Limpopo - Primary Fibre - 100Mbps 
+IDT Durban - Primary Fibre - 100Mbps 
+IDT Kimberly - Primary Fibre - 50Mbps 
+IDT Nelspruit - Primary Fibre - 50Mbps 
+IDT Site  
+Sub Total 
+Vat 
+Grand Total (Vat Incl) 
+ 
+Note that the Grand Total (Vat Inclusive) of this Price Schedule must be transferred to Form of Offer. 
+ 
+SIGNED ON BEHALF OF (COMPANY NAME): ………………………………………… 
+ 
+NAME ……………………………. 
+ 
+SIGNATURE: …………………………….. DATE: ………………………… 
+ 
+IN HIS/HER CAPACITY AS: ………………………………………………………………
+
+[Page 29]
+IDT/IT/SD-WAN/2025 
+29 | P a g e  
+ 
+ 
+ 
+SBD 4 
+BIDDER’S DISCLOSURE 
+ 
+1. 
+PURPOSE OF THE FORM 
+ 
+Any person (natural or juristic) may make an offer or offers in terms of this invitation to bid. In line with the principles of 
+transparency, accountability, impartiality, and ethics as enshrined in the Constitution of the Republic of South Africa 
+and further expressed in various pieces of legislation, it is required for the bidder to make this declaration in respect of 
+the details required hereunder. 
+ 
+Where a person/s are listed in the Register for Tender Defaulters and / or the List of Restricted Suppliers, that person 
+will automatically be disqualified from the bid process.  
+ 
+ 
+2. 
+Bidder’s declaration 
+2.1  
+Is the bidder, or any of its directors / trustees / shareholders / members / partners or any person having a controlling 
+interest1 in the enterprise,  
+ 
+employed by the state? 
+ 
+ 
+ 
+ 
+ 
+YES/NO  
+2.1.1 
+If so, furnish particulars of the names, individual identity numbers, and, if applicable, state employee numbers of sole 
+proprietor/ directors / trustees / shareholders / members/ partners or any person having a controlling interest in the 
+enterprise, in table below. 
+ 
+2.2 
+Do you, or any person connected with the bidder, have a relationship with any person who is employed by the procuring 
+institution? YES/NO  
+ 
+ 
+ 
+                                           
+2.2.1     If so, furnish particulars: 
+…………………………………………………………………………………… 
+…………………………………………………………………………………… 
+ 
+2.3  
+Does the bidder or any of its directors / trustees / shareholders / members / partners or any person having a controlling 
+interest in the enterprise have any interest in any other related enterprise whether or not they are bidding for this 
+contract?  
+ 
+ 
+YES/NO 
+ 
+2.3.1 
+If so, furnish particulars: 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+ 
+ 
+3 
+DECLARATION 
+ 
+I, the undersigned, (name)……………………………………………………………………. in submitting the accompanying 
+bid, do hereby make the following statements that I certify to be true and complete in every respect: 
+ 
+3.1  
+I have read and I understand the contents of this disclosure; 
+                                                          
+ 
+ 
+Full Name 
+Identity Number 
+Name of State institution
+
+[Page 30]
+IDT/IT/SD-WAN/2025 
+30 | P a g e  
+ 
+ 
+ 
+3.2 
+I understand that the accompanying bid will be disqualified if this disclosure is found not to be true and complete in 
+every respect; 
+3.3  
+The bidder has arrived at the accompanying bid independently from, and without consultation, communication, 
+agreement or arrangement with any competitor. However, communication between partners in a joint venture or 
+consortium2 will not be construed as collusive bidding. 
+3.4  
+In addition, there have been no consultations, communications, agreements or arrangements with any competitor 
+regarding the quality, quantity, specifications, prices, including methods, factors or formulas used to calculate prices, 
+market allocation, the intention or decision to submit or not to submit the bid, bidding with the intention not to win the 
+bid and conditions or delivery particulars of the products or services to which this bid invitation relates. 
+3.4 
+The terms of the accompanying bid have not been, and will not be, disclosed by the bidder, directly or indirectly, to any 
+competitor, prior to the date and time of the official bid opening or of the awarding of the contract. 
+ 
+3.5  
+There have been no consultations, communications, agreements or arrangements made by the bidder with any official 
+of the procuring institution in relation to this procurement process prior to and during the bidding process except to 
+provide clarification on the bid submitted where so required by the institution; and the bidder was not involved in the 
+drafting of the specifications or terms of reference for this bid. 
+ 
+3.6 
+I am aware that, in addition and without prejudice to any other remedy provided to combat any restrictive practices 
+related to bids and contracts, bids that are suspicious will be reported to the Competition Commission for investigation 
+and possible imposition of administrative penalties in terms of section 59 of the Competition Act No 89 of 1998 and or 
+may be reported to the National Prosecuting Authority (NPA) for criminal investigation and or may be restricted from 
+conducting business with the public sector for a period not exceeding ten (10) years in terms of the Prevention and 
+Combating of Corrupt Activities Act No 12 of 2004 or any other applicable legislation. 
+ 
+I CERTIFY THAT THE INFORMATION FURNISHED IN PARAGRAPHS 1, 2 and 3 ABOVE IS CORRECT.  
+I ACCEPT THAT THE STATE MAY REJECT THE BID OR ACT AGAINST ME IN TERMS OF PARAGRAPH 6 OF 
+PFMA SCM INSTRUCTION 03 OF 2021/22 ON PREVENTING AND COMBATING ABUSE IN THE SUPPLY CHAIN 
+MANAGEMENT SYSTEM SHOULD THIS DECLARATION PROVE TO BE FALSE.   
+ 
+ 
+………………………………… 
+ ..…………………………………………..  
+ 
+ 
+Signature 
+                          Date 
+ 
+……………………………… 
+……………………………………………… 
+ 
+Position  
+Name of bidder
+
+[Page 31]
+IDT/IT/SD-WAN/2025 
+31 | P a g e  
+ 
+ 
+ 
+ 
+ 
+ 
+SBD 6.1 
+PREFERENCE POINTS CLAIM FORM IN TERMS OF THE PREFERENTIAL PROCUREMENT REGULATIONS 2022 
+ 
+ 
+This preference form must form part of all tenders invited.  It contains general information and serves as a claim form for 
+preference points for specific goals.  
+ 
+NB: 
+BEFORE COMPLETING THIS FORM, TENDERERS MUST STUDY THE GENERAL CONDITIONS, DEFINITIONS 
+AND DIRECTIVES APPLICABLE IN RESPECT OF THE TENDER AND PREFERENTIAL PROCUREMENT 
+REGULATIONS, 2022 
+ 
+ 
+GENERAL CONDITIONS 
+1.1 
+The following preference point systems are applicable to invitations to tender: 
+- 
+the 80/20 system for requirements with a Rand value of up to R50 000 000 (all applicable taxes included); and  
+ 
+1.2 
+To be completed by the organ of state 
+ 
+(delete whichever is not applicable for this tender). 
+ 
+a) 
+The applicable preference point system for this tender is the 80/20 preference point system. 
+ 
+b) 
+80/20 preference point system will be applicable in this tender. The lowest/ highest acceptable tender will be used 
+to determine the accurate system once tenders are received. 
+ 
+1.3 
+Points for this tender (even in the case of a tender for income-generating contracts) shall be awarded for:  
+(a) 
+Price; and 
+(b) 
+Specific Goals. 
+ 
+ 
+1.4 
+To be completed by the organ of state: 
+The maximum points for this tender are allocated as follows: 
+ 
+POINTS 
+ 
+PRICE 
+90 
+80 
+SPECIFIC GOALS 
+10 
+20 
+TARGETED GROUP 
+Women 
+3 
+6 
+Youth 
+3 
+6 
+People with Disabilities 
+2 
+4 
+Black People 
+2 
+4 
+Total points for Price and SPECIFIC GOALS  
+100 
+100
+
+[Page 32]
+IDT/IT/SD-WAN/2025 
+32 | P a g e  
+ 
+ 
+ 
+ 
+1.5 
+Failure on the part of a tenderer to submit proof or documentation required in terms of this tender to claim points for 
+specific goals with the tender, will be interpreted to mean that preference points for specific goals are not claimed. 
+1.6 
+The organ of state reserves the right to require of a tenderer, either before a tender is adjudicated or at any time 
+subsequently, to substantiate any claim in regard to preferences, in any manner required by the organ of state. 
+ 
+2. 
+DEFINITIONS 
+(a)  “tender” means a written offer in the form determined by an organ of state in response to an invitation to provide 
+goods or services through price quotations, competitive tendering process or any other method envisaged in legislation;  
+(b) “price” means an amount of money tendered for goods or services, and includes all applicable taxes less all 
+unconditional discounts;  
+(c) “rand value” means the total estimated value of a contract in Rand, calculated at the time of bid invitation, and includes 
+all applicable taxes;  
+(d) “tender for income-generating contracts” means a written offer in the form determined by an organ of state in 
+response to an invitation for the origination of income-generating contracts through any method envisaged in legislation 
+that will result in a legal agreement between the organ of state and a third party that produces revenue for the organ 
+of state, and includes, but is not limited to, leasing and disposal of assets and concession contracts, excluding direct 
+sales and disposal of assets through public auctions; and  
+(e) “the Act” means the Preferential Procurement Policy Framework Act, 2000 (Act No. 5 of 2000).   
+ 
+3. 
+FORMULAE FOR PROCUREMENT OF GOODS AND SERVICES 
+ 
+3.1. 
+POINTS AWARDED FOR PRICE 
+ 
+3.1.1   THE 80/20 OR 90/10 PREFERENCE POINT SYSTEMS  
+A maximum of 80 or 90 points is allocated for price on the following basis: 
+ 
+ 
+ 
+80/20 
+or 
+90/10 
+ 
+ 
+ 
+𝑷𝒔= 𝟖𝟎(𝟏−
+𝑷𝒕−𝑷𝒎𝒊𝒏
+𝑷𝒎𝒊𝒏
+) 
+or 
+𝑷𝒔= 𝟗𝟎(𝟏−
+𝑷𝒕−𝑷𝒎𝒊𝒏
+𝑷𝒎𝒊𝒏
+) 
+ 
+Where 
+ 
+Ps 
+= 
+Points scored for price of tender under consideration 
+ 
+Pt 
+= 
+Price of tender under consideration 
+ 
+Pmin 
+= 
+Price of lowest acceptable tender 
+ 
+3.2. 
+FORMULAE FOR DISPOSAL OR LEASING OF STATE ASSETS AND INCOME-GENERATING PROCUREMENT 
+ 
+3.2.1. 
+POINTS AWARDED FOR PRICE
+
+[Page 33]
+IDT/IT/SD-WAN/2025 
+33 | P a g e  
+ 
+ 
+ 
+   A maximum of 80 or 90 points is allocated for price on the following basis: 
+ 
+ 
+ 
+ 
+            80/20 
+               or 
+            90/10 
+ 
+ 
+ 
+𝑷𝒔= 𝟖𝟎(𝟏+
+𝑷𝒕−𝑷𝒎𝒂𝒙
+𝑷𝒎𝒂𝒙
+) 
+or 
+𝑷𝒔= 𝟗𝟎(𝟏+
+𝑷𝒕−𝑷𝒎𝒂𝒙
+𝑷𝒎𝒂𝒙
+) 
+ 
+ 
+Where 
+ 
+Ps 
+= 
+Points scored for price of tender under consideration 
+ 
+Pt 
+= 
+Price of tender under consideration 
+ 
+Pmax 
+= 
+Price of highest acceptable tender 
+ 
+4. 
+POINTS AWARDED FOR SPECIFIC GOALS  
+ 
+4.1. 
+In terms of Regulation 4(2); 5(2); 6(2) and 7(2) of the Preferential Procurement Regulations, preference points must be 
+awarded for specific goals stated in the tender. For the purposes of this tender the tenderer will be allocated points 
+based on the goals stated in table 1 below as may be supported by proof/ documentation stated in the conditions of 
+this tender:  
+4.2. 
+In cases where organs of state intend to use Regulation 3(2) of the Regulations, which states that, if it is unclear 
+whether the 80/20 or 90/10 preference point system applies, an organ of state must, in the tender documents, stipulate 
+in the case of—  
+(a) an invitation for tender for income-generating contracts, that either the 80/20 or 90/10 preference point 
+system will apply and that the highest acceptable tender will be used to determine the applicable 
+preference point system; or 
+  
+(b) any other invitation for tender, that either the 80/20 or 90/10 preference point system will apply and that 
+the lowest acceptable tender will be used to determine the applicable preference point system, then the 
+organ of state must indicate the points allocated for specific goals for both the 90/10 and 80/20 preference 
+point system.  
+ 
+Table 1: Specific goals for the tender and points claimed are indicated per the table below.  
+(Note to organs of state: Where either the 90/10 or 80/20 preference point system is applicable, corresponding points 
+must also be indicated as such.  
+Note to tenderers: The tenderer must indicate how they claim points for each preference point system.)
+
+[Page 34]
+IDT/IT/SD-WAN/2025 
+34 | P a g e  
+ 
+ 
+ 
+The specific goals allocated 
+points in terms of this tender 
+Number of points 
+allocated 
+(90/10 system) 
+(To be completed by the 
+organ of state) 
+ 
+Number of points 
+allocated 
+(80/20 system) 
+(To be completed by 
+the organ of state) 
+Number of points 
+claimed 
+(90/10 system) 
+(To be completed 
+by the tenderer) 
+Number of points 
+claimed 
+(80/20 
+system) 
+(To be completed 
+by the tenderer) 
+Women 
+3 
+6 
+ 
+ 
+Youth 
+3 
+6 
+ 
+ 
+People with Disabilities 
+2 
+4 
+ 
+ 
+Black People 
+2 
+4 
+ 
+ 
+ 
+Source Documents to be submitted with the Bid or RFQ 
+*CIPC Document                     (Company Registration Document will be required for verification (CIPC DOC)) 
+*Woman  
+ 
+(Originally Certified ID Document) 
+*Youth 
+ 
+ 
+(Originally Certified ID Document) 
+*People with Disability 
+(Letter from the Dr. Confirming the Disability) 
+*Black Ownership 
+ 
+(Originally Certified ID Document) 
+ 
+ 
+DECLARATION WITH REGARD TO COMPANY/FIRM 
+ 
+4.3. 
+Name of company/firm…………………………………………………………… 
+4.4. 
+Company registration number: …………………….…………………………… 
+4.5. 
+TYPE OF COMPANY/ FIRM 
+ 
+Partnership/Joint Venture / Consortium 
+ 
+One-person business/sole propriety 
+ 
+Close corporation 
+ 
+Public Company 
+ 
+Personal Liability Company 
+ 
+(Pty) Limited  
+ 
+Non-Profit Company 
+ 
+State Owned Company 
+[TICK APPLICABLE BOX] 
+ 
+4.6. 
+I, the undersigned, who is duly authorised to do so on behalf of the company/firm, certify that the points claimed, 
+based on the specific goals as advised in the tender, qualifies the company/ firm for the preference(s) shown and I 
+acknowledge that: 
+i) 
+The information furnished is true and correct; 
+ii) 
+The preference points claimed are in accordance with the General Conditions as indicated in paragraph 1 of
+
+[Page 35]
+IDT/IT/SD-WAN/2025 
+35 | P a g e  
+ 
+ 
+ 
+this form; 
+iii) 
+In the event of a contract being awarded as a result of points claimed as shown in paragraphs 1.4 and 4.2, the 
+contractor may be required to furnish documentary proof to the satisfaction of the organ of state that the claims 
+are correct;  
+iv) If the specific goals have been claimed or obtained on a fraudulent basis or any of the conditions of contract 
+have not been fulfilled, the organ of state may, in addition to any other remedy it may have – 
+ 
+(a) 
+disqualify the person from the tendering process; 
+(b) 
+recover costs, losses or damages it has incurred or suffered as a result of that person’s conduct; 
+(c) 
+cancel the contract and claim any damages which it has suffered as a result of having to make less 
+favourable arrangements due to such cancellation; 
+(d) 
+recommend that the tenderer or contractor, its shareholders and directors, or only the shareholders 
+and directors who acted on a fraudulent basis, be restricted from obtaining business from any organ 
+of state for a period not exceeding 10 years, after the audi alteram partem (hear the other side) rule 
+has been applied; and 
+(e) 
+forward the matter for criminal prosecution, if deemed necessary. 
+ 
+ 
+………………………………………. 
+SIGNATURE(S) OF TENDERER(S) 
+SURNAME AND NAME:  
+…………………………….…………………………………………. 
+DATE:  
+ 
+……………………………………………………………………… 
+ADDRESS: 
+ 
+…………………………….........……………………………………
+
+[Page 36]
+IDT/IT/SD-WAN/2025 
+36 | P a g e  
+ 
+ 
+ 
+T6. BRIEFING SESSION  
+A compulsory briefing session will take place online/Virtual via MS Teams link (refer to the link below) on the 15TH of May 2025 at 
+10:00AM – 12 PM. 
+Join the meeting now 
+Meeting ID: 372 634 583 134  
+Passcode: fb7V5wy7  
+Bidders must join using the above link and register their bidder names, email address and contacts in the chats.   
+ 
+All bids must be submitted at the IDT Head Office at the following physical address:  
+IDT Head Office (Pretoria) 
+Glenwood Office Park 
+Cnr Oberon & Sprite Streets 
+Faerie Glen  
+0043 
+ 
+GENERAL BID INFORMATION 
+ 
+Type:  Request for Proposals   
+RFP Closing Date and time: 29 May 2025 @12:00 PM 
+Validity Period: 90 days  
+Bidders’ queries will be attended to only up to 5 Calendar days before the closing date. 
+Unsuccessful Bidders will not be notified. 
+If you do not receive any response from the IDT regarding this bid after 90 days from the closing date, please consider your bid 
+unsuccessful.  
+ 
+T7. LIST OF RETURNABLE DOCUMENTS 
+ 
+List of returnable documents are for ensuring that everything the employer requires a tenderer to submit with his/her tender is included 
+in, or returned with, his/her tender submission.  
+ 
+Note: All returnable documents should be submitted in the sequence as requested below 
+ 
+Tick below if returnable document is attached or completed properly. 
+ 
+ITEM 
+LIST OF COMPULSORY RETURNABLE DOCUMENTS 
+TICK IF 
+ATTACHED 
+ 
+MANDATORY ADMINISTRATIVE REQUIREMENTS/DOCUMENTATION   
+ 
+1 
+Submission of fully completed and signed Invitation to Bid (SBD 1) 
+ 
+2 
+Submission of fully completed and signed Bidder’s Disclosure (SBD 4) 
+ 
+3 
+Submission of fully completed and signed Preference Points Claim Form in terms of the 
+Preferential Procurement Regulations 2022 (SBD 6.1). 
+ 
+ 
+MANDATORY REQUIREMENTS/DOCUMENTATION
+
+[Page 37]
+IDT/IT/SD-WAN/2025 
+37 | P a g e  
+ 
+ 
+ 
+1 
+Authority to Sign the Bid Document (If more than one Director) 
+ 
+2 
+Proof of Company Registration (CIPC) or affidavit and trade name If Sole Proprietor 
+ 
+3 
+Proof of Registration for Central Supplier Database system (Bidders must be registered before 
+the Closing date of the RFP) 
+ 
+4 
+ 
+ISO 27001 
+: Information Security Management System. 
+ 
+ 
+ 
+ISO 9001                 : Quality Management System 
+ 
+ 
+ 
+ISO 22301 
+: Business Continuity Management System. 
+ 
+ 
+ 
+ 
+Certified                  : Veeam Cloud Service Provider  
+ 
+ 
+ 
+ 
+ICASA CECS          : Electronic Communications Service (ECS) License 
+ 
+ 
+ 
+ 
+ICASA CECNS       : Electronic Communications Network Service (ECNS) License 
+ 
+ 
+ 
+ 
+VPN OEM  Partnership 
+ 
+ 
+ 
+ 
+ 
+ 
+Datacentre hosting SIEM must be Tier 4 rated 
+ 
+ 
+ 
+ 
+ISO 9001                 : Quality Management System 
+ 
+ 
+ 
+ 
+ISO 22301 
+: Business continuity management systems 
+ 
+ 
+ 
+ 
+ISO 27001 
+: Information Security Management 
+ 
+ 
+ 
+ 
+ISO 45001 
+: Occupational Health and Safety Management Systems 
+ 
+ 
+ 
+ 
+ISO 50001 
+: Energy Management Systems 
+ 
+ 
+ 
+ 
+ 
+5 
+Price Schedule must be fully completed and signed 
+ 
+6 
+Form of Offer must be fully competed, signed and witnessed 
+ 
+7 
+Confirmation of Receipt of Addenda to Bid Documents (If Applicable) 
+ 
+8 
+Attendance to the compulsory briefing meeting by the company’s representative (s) 
+ 
+ 
+IN ADDITION TO THE ABOVE MANDATORY REQUIREMENTS, THE 
+BELOW ARE APPLICABLE TO JOINT VENTURES AND 
+CONSORTIUMS: 
+ 
+ 
+ 
+CIPC must be submitted for all companies forming JV or 
+Consortium 
+ 
+ 
+ 
+Proof of Registration on CSD system must be provided for all 
+companies forming JV or Consortium 
+ 
+ 
+ 
+Joint Venture or Consortium Agreement certified by the 
+Commissioner of Oath must be submitted.
+
+[Page 38]
+IDT/IT/SD-WAN/2025 
+38 | P a g e  
+ 
+ 
+ 
+ 
+ 
+T7.1 AUTHORITY TO SIGN A BID 
+ 
+A. COMPANIES 
+If a Bidder is a company, a certified copy of the resolution by the board of directors, personally signed by the chairperson of the 
+board, authorising the person who signs this bid to do so, as well as to sign any contract resulting from this bid and any other 
+documents and correspondence in connection with this bid and/or contract on behalf of the company must be submitted with this 
+bid, that is before the closing time and date of the bid 
+ 
+AUTHORITY BY BOARD OF DIRECTORS 
+ 
+By resolution passed by the Board of Directors on …........................20.......... 
+Mr/Mrs/Ms……………………………………………………………………………………… 
+(whose signature appears below) has been duly authorised to sign all documents in connection with this bid on behalf of 
+ 
+(Name of Company) ………….......................................................................................... 
+ 
+IN HIS/HER CAPACITY AS: ............................................................................................ 
+ 
+SIGNED ON BEHALF OF COMPANY: ……………………………………………..… 
+ 
+............................................................................................................................................... 
+(PRINT NAME) 
+ 
+SIGNATURE OF SIGNATORY: ...................................................DATE: ........................ 
+ 
+WITNESSES:  1................................................... 
+ 
+2.................................................. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B. SOLE PROPRIETOR (ONE - PERSON BUSINESS) 
+ 
+I, the undersigned.............................................................................. hereby confirm that I am the sole owner of the business trading 
+as.................................................................................. 
+      ............................................................................................................................................... 
+ 
+SIGNATURE…………………………………………………… 
+  DATE……………………………
+
+[Page 39]
+IDT/IT/SD-WAN/2025 
+39 | P a g e  
+ 
+ 
+ 
+C. PARTNERSHIP 
+ 
+The following particulars in respect of every partner must be furnished and signed by every 
+Partner : 
+ 
+Full name of partner  
+ 
+Residential address  
+ 
+Signature 
+ 
+...........................................  
+...........................................  
+.................................... 
+ 
+........................................... 
+............................................  ................................... 
+ 
+...........................................  
+...........................................  
+.................................... 
+ 
+We, 
+the 
+undersigned 
+partners 
+in 
+the 
+business 
+trading 
+as 
+................................................. 
+hereby 
+authorise 
+......................................................................to sign this bid as well as any contract resulting from the bid and any other documents 
+and correspondence in connection with this bid and /or contract on behalf of 
+ 
+ 
+.................................... 
+.......................................... 
+           ......................................... 
+SIGNATURE   
+ 
+SIGNATURE  
+ 
+ 
+ 
+SIGNATURE 
+ 
+ 
+ 
+....................................  ........................................... 
+          ........................................... 
+DATE  
+ 
+ 
+ 
+DATE  
+ 
+ 
+ 
+ 
+DATE
+
+[Page 40]
+IDT/IT/SD-WAN/2025 
+40 | P a g e  
+ 
+ 
+ 
+D. CLOSE CORPORATION 
+ 
+In the case of a close corporation submitting a bid, a certified copy of the Founding Statement of such corporation shall be included 
+with the bid, together with the resolution by its members authorising a member or other official of the corporation to sign the 
+documents on their behalf. 
+ 
+By resolution of members at a meeting on .................................  20.................... 
+at……………………………. 
+Mr/Mrs/Ms....................................................,whose signature appears below, has been authorised to sign all documents in 
+connection with this bid on behalf of  
+ 
+(Name of Close Corporation) ……………………………………........................................ 
+ 
+........................................................................................................................................... 
+ 
+ 
+SIGNED ON BEHALF OF CLOSE CORPORATION : ………………………………… 
+ 
+ 
+…………………………………………………………………….. 
+(PRINT NAME) 
+ 
+ 
+ 
+IN HIS/HER CAPACITY AS .....................................................DATE: ..................................... 
+ 
+ 
+ 
+SIGNATURE OF SIGNATORY: ......................................................... 
+ 
+ 
+ 
+WITNESSES:  1......................................................... 
+ 
+ 
+ 
+2.........................................................
+
+[Page 41]
+IDT/IT/SD-WAN/2025 
+41 | P a g e  
+ 
+ 
+ 
+E. CO-OPERATIVE 
+ 
+A certified copy of the Constitution of the co-operative must be included with the bid, together with the resolution by its members 
+authoring a member or other official of the co-operative to sign the bid documents on their behalf. 
+ 
+By 
+resolution 
+of 
+members 
+at 
+a 
+meeting 
+on 
+.................……... 
+20............... 
+at.............................................................................................................. 
+Mr/Mrs/Ms..................................................................................., whose signature appears below, has been authorised to sign all 
+documents 
+in 
+connection 
+with 
+this 
+bid 
+on 
+behalf 
+of 
+(Name 
+of 
+cooperative) 
+......................................................…………………………………………………… 
+ 
+SIGNATURE OF AUTHORISED REPRESENTATIVE/SIGNATORY: …................................... 
+ 
+IN HIS/HER CAPACITY AS: .......................................................………………………………… 
+ 
+DATE: .................................……… 
+ 
+SIGNED ON BEHALF OF CO-OPERATIVE: .................................................... 
+ 
+NAME IN BLOCK LETTERS: ………………………………………………………. 
+ 
+WITNESSES:  1......................................................... 
+ 
+2.........................................................
+
+[Page 42]
+IDT/IT/SD-WAN/2025 
+42 | P a g e  
+ 
+ 
+ 
+F. JOINT VENTURE 
+ 
+ 
+If a bidder is a joint venture, a certified copy of the resolution/agreement passed/reached signed by the duly authorised 
+representatives of the enterprises, authorising the representatives who sign this bid to do so, as well as to sign any contract resulting 
+from this bid and any other documents and correspondence in connection with this bid and/or contract on behalf of the joint venture 
+must be submitted with this bid, before the closing time and date of the bid. 
+ 
+AUTHORITY TO SIGN ON BEHALF OF THE JOINT VENTURE 
+ 
+By resolution/agreement passed/reached by the joint venture partners on………………20……… 
+Mr/Mrs/Ms……………………………………………….,Mr/Mrs/Ms…………………………………… 
+Mr/Mrs/Ms……………………………………………and Mr/Mrs/Ms……………………… 
+(whose signatures appear below) have been duly authorised to sign all documents in connection with this bid on behalf of:(Name of 
+Joint Venture) ………………………………….. 
+ 
+IN HIS/HER CAPACITY AS: ……………………………………………………………..….. 
+ 
+SIGNED ON BEHALF OF (COMPANY NAME): …………………………………………….. 
+(PRINT NAME) ………………………….. 
+ 
+SIGNATURE: …………………………….. DATE: ………………………… 
+ 
+IN HIS/HER CAPACITY AS: ……………………………………SIGNED ON BEHALF OF  
+ 
+(COMPANY NAME): ……………………………………………… 
+ 
+(PRINT NAME)…………………………….. 
+ 
+SIGNATURE: …………………………….. DATE: ………………………… 
+ 
+IN HIS/HER CAPACITY AS: ………………………………………………………………… 
+ 
+SIGNED ON BEHALF OF (COMPANY NAME): …………………………………………… 
+ 
+(PRINT NAME) ……………………………. 
+ 
+SIGNATURE: …………………………….. DATE: ………………………… 
+ 
+IN HIS/HER CAPACITY AS: …………………………………………………………………...
+
+[Page 43]
+IDT/IT/SD-WAN/2025 
+43 | P a g e  
+ 
+ 
+ 
+G. CONSORTIUM 
+ 
+If a bidder is a consortium, a certified copy of the resolution/agreement passed/reached signed by the duly authorised 
+representatives of concerned enterprises, authorising the representatives who sign this bid to do so, as well as to sign any 
+contract resulting from this bid and any other documents and correspondence in connection with this bid and/or contract on 
+behalf of the consortium must be submitted with this bid, before the closing time and date of the bid. 
+ 
+AUTHORITY TO SIGN 0N BEHALF OF THE CONSORTIUM 
+ 
+By 
+resolution/agreement 
+passed/reached 
+by 
+the 
+consortium 
+on………………………20………Mr/Mrs/Ms……………………………………. 
+(whose signature appear below) have been duly authorised to sign all documents in connection with this bid on behalf of: 
+ 
+ 
+(Name of Consortium) ………………………………………………………………………………….. 
+ 
+ 
+IN HIS/HER CAPACITY AS: ………………………………………………………………………… 
+ 
+ 
+SIGNATURE: …………………………….. DATE: ……………………
+
+[Page 44]
+IDT/IT/SD-WAN/2025 
+44 | P a g e  
+ 
+ 
+ 
+ 
+ 
+T7.2 PROOF OF COMPANY REGISTRATION (CIPC) OR AFFIDAVIT AND TRADE NAME IF SOLE PROPRIETOR 
+ 
+Attached hereto is Proof of Company registration (CIPC) or Affidavit and trade name if Sole Proprietor. My failure to submit the 
+copy with my / our bid document will lead to a conclusion that I am / we are not registered as claimed and our bid will be 
+disqualified. 
+ 
+(Attach a copy of Company Registration or Affidavit if Sole Proprietor Here)
+
+[Page 45]
+IDT/IT/SD-WAN/2025 
+45 | P a g e  
+ 
+ 
+ 
+T7.3 Proof of Registration for Central Supplier Database system (Bidders must be registered before the Closing date of the   RFP) 
+ 
+Attached hereto is Proof of Registration for Central Supplier Database system. My failure to submit the proof with my / our bid document 
+will lead to a conclusion that I am / we are not registered as claimed and our bid will be disqualified. 
+ 
+(Attach a copy of Proof of Registration for Central Supplier Database system)
+
+[Page 46]
+IDT/IT/SD-WAN/2025 
+46 | P a g e  
+ 
+ 
+ 
+ 
+T7.4 Proof of Technical Certifications mentioned in T.1.2. must be provided 
+ 
+Attached hereto is Proof of Technical Certifications mentioned in T.1.2. My failure to submit the any proof certifications with my / our 
+bid document will lead to a conclusion that I am / we are not certified as claimed and our bid will be disqualified. 
+ 
+(Attach all copies of Proof of Technical Certification)
+
+[Page 47]
+IDT/IT/SD-WAN/2025 
+47 | P a g e  
+ 
+ 
+ 
+ 
+T7.5 Confirmation of Receipt of Addenda to Bid Documents (If Applicable) 
+ 
+Attached hereto is Confirmation of Receipt of Addenda to Bid Documents (If Applicable).  
+ 
+(Attach a Confirmation of Receipt of Addenda to Bid Documents (If Applicable).)
+
+[Page 48]
+IDT/IT/SD-WAN/2025 
+48 | P a g e  
+ 
+ 
+ 
+T7.8 JOINT VENTURE / CONSORTIUM AGREEMENT (IF APPLICABLE) 
+ 
+ 
+Attached hereto is a Copy of our Joint Venture / Consortium Agreement certified by the Commissioner of Oath and signed by all parties 
+involved in the JV or Consortium. Our failure to submit the Copy of Joint Venture / Consortium will lead to the conclusion that there is no 
+JV / Consortium Contract, and as such, our bid will be disqualified. 
+ 
+(Attach the Joint Venture / Consortium Agreement here)
+
+[Page 49]
+IDT/IT/SD-WAN/2025 
+49 | P a g e  
+ 
+ 
+ 
+ 
+ 
+ 
+T7.9 FORM OF OFFER 
+ 
+RFP NO: IDT/IT/SD-WAN/2025 
+ 
+REQUEST FOR PROPOSAL FOR THE APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY, INSTALL, CONFIGURE, AND INTEGRATE 
+A WIDE AREA NETWORK, PROVISION OF INTERNET CONNECTVITY SERVICES (ISP), VIRTUAL HOSTING SOLUTION, FIREWALL 
+SOLUTION, HOSTED PBX FOR A PERIOD OF FIVE (5) YEARS 
+Form of Offer and Acceptance 
+Offer 
+ 
+The Employer, identified in the Acceptance signature block, has solicited offers to enter into a contract for the procurement of a procurement of 
+a service provider to carry out; - 
+ 
+ 
+ THE APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY, INSTALL, CONFIGURE, AND INTEGRATE A WIDE AREA NETWORK, 
+PROVISION OF INTERNET CONNECTVITY SERVICES (ISP), VIRTUAL HOSTING SOLUTION, FIREWALL SOLUTION, HOSTED PBX FOR 
+A PERIOD OF FIVE (5) YEARS 
+The bidder, identified in the Offer signature block, has examined the documents listed in the Bid Data and addenda thereto as listed in the 
+Returnable Schedules, and by submitting this Offer has accepted the Conditions of Bid. 
+By the representative of the bidder, deemed to be duly authorized, signing this part of this Form of Offer the bidder offers to perform all of the 
+obligations and liabilities of the supplier under the contract including compliance with all its terms and conditions according to their true intent and 
+meaning for an amount to be determined in accordance with the conditions of contract identified in the Contract Data. 
+ 
+THE TOTAL OFFER IS INCLUSIVE OF VAT  
+ 
+R……………………………………………. (Professional fees + Disbursement fees) + (Discount if Applicable) 
+ 
+…………………………………………………………………………………………………………… 
+ 
+……………………………………………………………………………………………… (In words) 
+This Offer, with or without additional conditions, may be accepted by the Employer, through the employer’s offer of appointment letter, which offer 
+shall only become the appointment upon your acceptance thereof and your compliances with the conditions therein.   
+Signature(s) 
+………………………………………………………………………………….….. 
+Name(s) 
+………………………………………………………………………………….….. 
+Capacity 
+……………………………………………………………………………………... 
+For the bidder: 
+…………………………………………………………………………….……….. 
+ 
+(Insert name and address of organization) 
+Name & signature of 
+witness 
+……………………………………. 
+Date …………………..……
+
+[Page 50]
+IDT/IT/SD-WAN/2025 
+50 | P a g e  
+ 
+ 
+ 
+. Schedule of Deviations 
+ 
+By the duly authorized representatives signing this offer, the bidder agrees to and accepts the foregoing schedule of deviations as 
+the only deviations from and amendments to the documents listed in the bid data and addenda thereto as listed in the bid schedules, 
+as well as any confirmation, clarification or changes to the terms of the offer agreed by the bidders and the employer during the 
+bidding process. 
+ 
+ 
+1. 
+Subject . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+    Details  . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+2. 
+Subject . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+    Details  . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+3. 
+Subject . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+    Details  . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+4. 
+Subject . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+    Details  . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+5. 
+Subject . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+    Details  . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[Page 51]
+IDT/IT/SD-WAN/2025 
+51 | P a g e  
+ 
+ 
+ 
+FORM OF OFFER AND ACCEPTANCE 
+ 
+Acceptance 
+ 
+By signing this part of this form of offer and acceptance, the employer identified below accepts the tenderer’s offer. In 
+consideration thereof, the employer shall pay the contractor the amount due in accordance with the conditions of contract 
+identified in the contract data. Acceptance of the tenderer’s offer shall form an agreement between the employer and the 
+tenderer upon the terms and conditions contained in this agreement and in the contract that is the subject of this agreement. 
+ 
+The terms of the contract: 
+ 
+Deviations from and amendments to the documents listed in the tender data and any addenda thereto as listed in the tender 
+schedules as well as any changes to the terms of the offer agreed by the tenderer and the employer during this process of 
+offer and acceptance, are contained in the schedule of deviations attached to and forming part of this agreement. No 
+amendments to or deviations from said documents are valid unless contained in this schedule. 
+ 
+The tenderer shall within two weeks after receiving a completed copy of this agreement, including the schedule of deviations 
+(if any), contact the Employer or the employer’s agent (whose details are given in the contract data) to arrange the delivery 
+of any bonds, guarantees, proof of insurance and any other documentation to be provided in terms of the conditions of 
+contract identified in the contract data. Failure to fulfill any of these obligations in accordance with those terms shall constitute 
+a repudiation of this agreement. 
+ 
+Notwithstanding anything contained herein, this agreement comes into effect on the date when the tenderer receives one 
+fully completed original copy of this document, including the schedule of deviations (if any). Unless the tenderer (now 
+contractor) within five working days of the date of such receipt notifies the employer in writing of any reason why he cannot 
+accept the contents of this agreement, this agreement shall constitute a binding contract between the parties. 
+ 
+ 
+Signature: _____________________ 
+Date: ___________________________ 
+ 
+Name: ___________________________ 
+Identity number: _______________________ 
+ 
+Capacity: ________________________ for the Employer 
+ 
+ 
+ 
+Name: ____________________________________ 
+ 
+ 
+Signature of witness: _______________________________ 
+Date: ___________

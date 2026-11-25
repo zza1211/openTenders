@@ -1,0 +1,488 @@
+Title: Procurement of Routers, Cisco Switches and Firewall
+Source: https://www.mea.gov.in/Portal/Tender/5034_2/1_Tender-for-2-Routers-3-Cisco-switches-1.pdf
+Pages: 14
+
+--- Extracted text by page ---
+
+[Page 1]
+No DAC/VISA/406/04/2020
+HIGH COMMISSION OF INDIA
+DHAKA
+*******
+NOTICE INVITING TENDER
+High Commission of India, Dhaka Invites Tenders under a two bid system from registered and
+authorized firms/agencies for supply and installation of “ Two(2) Cisco Routers and Three (03) Cisco
+Switches”, to the High Commission of India, Plot 1-3, Park Road, Baridhara, Dhaka as per the
+specifications given in the tender documents.
+2.
+The tender document can be downloaded from our website  https://www.hcidhaka.gov.in and
+https://www.eprocure.gov.in. No fee for Tender Document will be charged. 
+3.
+The interested firms/agencies have to submit two sets (in original) of tenders in two bid system
+{i.e. (i) Technical Bid and (ii) Financial Bid}. Tenders are to be submitted to the Head of Chancery,
+High Commission of India, Plot 1-3, Park Road, Baridhara, Dhaka. All the necessary documents
+including those in support of eligibility criteria etc. (except the Financial Bid) are to be submitted along
+with the Technical Bid in a sealed envelope. The Financial Bid must be submitted in a separate sealed
+envelope. No bid (s) will be accepted after the expiry of stipulated date and time for the purpose under
+any circumstances. 
+4.
+The Earnest Money Deposit (EMD) of  BDT 1.25 lakh (BDT One lakh Twenty five thousand
+only) in the form of Account Payee Demand Draft (DD)/Pay Order (PO) drawn in favour of “High
+Commission of India, Dhaka” is required to be enclosed with the Technical Bid. In case the EMD is not
+submitted, the bid shall not be considered and would summarily be rejected.
+5.
+Bids can be submitted on any working day from 04.7.2022 to 26.07.2022 up to 1400 Hrs.
+6.
+The Technical Bids will be opened on 26.07.2022 at 1600 hrs by the Committee authorized by
+the Competent Authority of this High Commission. The financial bids of only those bidders whose
+Technical Bids are accepted, shall be opened by the Committee authorized for the purpose. The date for
+opening of Financial Bids would be intimated to the respective bidders in due course.
+7.
+The High Commission of India, Dhaka reserves the right to reject any or all the bids without
+assigning any reason and the decision of the High Commission shall be final and binding.
+                                                                                                                            (T. G. Ramesh)
+                                                                                                                               Second Secretary (Visa & Management))   
+                                                                                                                               High Commission of India, Dhaka
+            Tel : +88 02 55067342
+Tender Doc No. DAC/VISA/406/04/2020                                                                                  Page 1 of  14
+
+[Page 2]
+HIGH COMMISSION OF INDIA
+DHAKA, BANGLADESH
+Plot 1-3, Park Road, Baridhara, Dhaka
+www.hcidhaka.gov.in
+Tender Document No.: DAC/VISA/406/04/2020
+Dated 4 July, 2022
+Tender Document
+For supply and installation of
+Two (02) Cisco Routers  and  Three (03) Cisco Switches
+to the High Commission of India, Dhaka
+Last date for submission of bids: 26 July, 2022 by 1400 Hrs
+Opening of Technical bids: 26 July, 2022 at 1600 Hrs
+The tender document can be downloaded from our website https://www.hcidhaka.gov.in and https://www.eprocure.gov.in.
+No fee for Tender Document will be charged. 
+Tender Doc No. DAC/VISA/406/04/2020                                                                                  Page 2 of  14
+
+[Page 3]
+SECTION I :  INVITATION FOR BIDS (IFB)
+1.
+The High Commission Of India, Dhaka invites sealed bids from eligible bidders for supply of
+two(2) Next-Generation Firewalls as per the following specifications 
+S. No
+ Item
+ Quantity
+ Warranty/
+Support
+ Mode
+ 
+ 
+1
+Cisco Router C8300-1N1S-6T with
+integrated  with  6  Gig  port  (out  of
+which 4 copper and 2 SFP) integrated
+and 2 two WAN port (combo), IPS,
+Stateful  firewall,  URL  filtering,
+Application-based  policy,  8  GB
+RAM, Dual power supply and 16 GB
+Storage, MACSEC, IPSEC, 5G ready,
+2x single-mode SFP module
+ 
+ 
+2
+ 
+ 
+Smart  Net
+support  (5
+years
+ 
+of
+hardware
+support)
+ 
+ 
+Subscription
+license  for  1
+Gbps  for  5
+years
+ 
+ 
+ 
+2
+Cisco  Switch 
+C9300L-48P-4G-A
+with 48 port 10/100/1000 Gig POE +
+and  4  x  1  Gig  uplink,  stacking
+bandwidth  of  320  Gbps,  stacking
+switches as a single virtual switch, to
+have a single management plane and
+control plane, support for MACSEC,
+IPV6  First  hop  security,  ACL  4k,
+OSPF,  BGP,  Embedded  wireless
+controller,  VRF,  VXLAN,  Netflow,
+SD-Access, Dual power supply, Field-
+Replaceable  Units  (FRU)  and
+redundant power supply, fans
+ 
+3
+ 
+(5  years  of
+hardware &
+Software
+support)
+ 
+*Vendor  should  provide:  Installation  of  hardware  &  software  related  to  firewall  configuration,
+integration with existing network, training, technical support and onsite maintenance during warranty
+period.
+Tender Doc No. DAC/VISA/406/04/2020                                                                                  Page 3 of  14
+
+[Page 4]
+2.
+Contact information:
+Mr. T.G. Ramesh
+SS(Visa & Management) 
+High Commission of India
+Dhaka, Bangladesh 
+Email: it  .d  haka@mea.g
+ 
+ ov.in
+ 
+ 
+3.
+Two bid System:
+The two bid system will be followed for this tender. In this system, bidder must submit his offer as
+explained below: ‘
+Envelope No 1: “Technical Bid” Shall contain
+a) A Demand Draft/Pay Order of BDT 1.25 lakh (BDT One lakh twenty five thousand only) towards
+Earnest Money Deposit (EMD).
+b) Duly filled Technical Bid with proper seal and signature of authorized person on each page of the
+bid submitted.
+c) Self attested copies of VAT Registration certificate and Trade License, as applicable.
+d) A copy  of  Certificate  of  Incorporation,  Partnership  Deed  /  Memorandum  and  Articles  of
+Association, as applicable.
+e) The bidder must submit plan/arrangement for installation and warranty services.
+f)
+After sale services to be provided at site.
+g) Detailed technical specifications make & model, part number and compliance to the Schedule of
+Requirement for all the equipment for which bid is submitted.
+h) The bidder should submit an undertaking to the effect that a Performance Bank Guarantee (PBG) of
+10% of the order value will be submitted in case the High Commission of India, Dhaka decides to
+place the Purchase Order with them.
+i)
+Other related documents. 
+Envelope No 2: “Financial Bid” Shall contain
+Price Schedule complete in all respects with proper seal and signature of authorized person. 
+Tender Doc No. DAC/VISA/406/04/2020                                                                                  Page 4 of  14
+
+[Page 5]
+Both the Technical bid and financial bid envelopes should be sealed separately and clearly marked as
+“Envelope no. 1 - Technical Bid" and “Envelope no. 2 - Financial Bid". Both the sealed envelopes
+should be placed in a third larger envelope clearly mentioning “Technical Bid & Financial Bid” for
+supply of “Network Devices Tender” to “Head of Chancery, High Commission of India, 1-3 Park
+Road, Dhaka, Bangladesh”.
+Note 1: Please write tender number on each envelope and seal all the envelopes.
+Note 2: Please do not put “Financial Bid" (prices quoted) in the technical bid envelope. If the
+price quoted is submitted with technical bid, the tender will be rejected.
+4.
+Crucial dates and time
+a. Starting date for submission of bids: 04.07.2022 at 1000 hrs (Tuesday) 
+b. Last date for submission of bids: 26.07.2022 up to 1400 hrs (Thursday)
+c.
+Technical bid will be opened on  26.07.2022 at 1600 hrs (Thursday)  at the following
+venue: Conference Room, High Commission of India, Plot 1-3, Park Road, Baridhara,
+Dhaka.
+5.
+Opening of Financial bids
+a. Technically  accepted  competitive  bids  ONLY will  be  considered  for  the  opening  of
+Financial Bids.
+b. The date and time for opening of Financial Bids will be intimated to the respective bidders
+in due course.
+c.
+Financial bids of the short listed bidders only will be opened, in the presence of their
+authorized representative, who chooses to attend.
+d. The authorized representative of bidders, present at the time of opening of the bids shall be
+required to sign an attendance sheet as a proof of having attended the financial bid opening.
+e.
+The bidder’s name, bid prices, discounts and such other details considered as appropriate by
+the High Commission of India, Dhaka will be announced at the time of opening of the bids.
+*****
+Tender Doc No. DAC/VISA/406/04/2020                                                                                  Page 5 of  14
+
+[Page 6]
+Section II – INSTRUCTIONS TO BIDDERS (ITB)
+1. Delivery period / Timelines
+ 
+ 
+The supply and installation must be completed within 08 weeks, after placement of purchase order.
+Location 
+ 
+ for the Supply and Installation
+ 
+ 
+The equipment covered by this document are required to be supplied and installed at the High
+Commission of India, 1-3 Park Road, Baridhara, Dhaka, Bangladesh.
+Order Placements and Release of Payment
+The Purchase Order and payment shall be processed by “Head of Chancery, High Commission of
+India, Dhaka"
+Amendment of Bidding Document;
+At any time prior to the deadline for submission of bids, The High Commission of India, Dhaka
+may, for any reason, whether on its own initiative or in response to the clarification request by a
+prospective bidder, modify the bid document.
+2. Earnest Money Deposit (EMD)
+ 
+ 
+a. The  tender  documents  must  be  accompanied  by  Earnest  Money  Deposit  (EMD)  of
+appropriate amount, in the form of a Demand Draft (DD)/Pay Order (PO) drawn on any
+Nationalized Bank, in favour of “High commission of India Dhaka”. The amount towards
+EMD is BDT 1.25 Lakh/(BDT One lakh and twenty five thousand  only) and should be
+submitted in the envelope containing Technical Bid. Bids submitted without EMD will stand
+rejected. EMD will not be accepted in the form of cash/cheque/FDR/BG or any other form
+except DD/PO. No interest shall be payable on EMD.
+b. The EMD will be returned to the bidder(s) whose offer is not accepted, within 30 days from
+the date of the placing of the final order to the selected bidder.
+c.
+The successful bidder, on award of contract/order, must send the contract/order acceptance
+in writing, within 07 days of award of contract/order, failing which the EMD will be
+forfeited and the order will be placed to the next successful bidder.
+Tender Doc No. DAC/VISA/406/04/2020                                                                                  Page 6 of  14
+
+[Page 7]
+d. The EMD shall be forfeited: 
+ 
+ 
+i.  If the bidder withdraws the bid during the period of bid validity specified in the
+tender. 
+ii. If the bidder fails to furnish the acceptance in writing, within 01 week of award of
+contract/order. 
+iii. In case a successful bidder fails to furnish the Performance Bank Guarantee within 2
+weeks of award of contract/order.
+3. Period of validity of bids
+ 
+ :
+a. Bids shall be valid for a minimum 180 days from the date of submission of bids. A bid valid
+for a shorter period shall stand rejected.
+b. The High Commission of India, Dhaka may ask for the bidder’s consent to extend the
+period of validity. Such request and the response shall be made in writing only. The bidder
+is free not to accept such request without forfeiting the EMD. A bidder agreeing to the
+request for extension will not be permitted to modify his bid.
+4. Submission of Bids
+ 
+ :
+The Bid shall be neatly arranged, plain and intelligible. Each page of the bid should be signed. They
+should not contain any terms and conditions, printed or otherwise, which are not applicable to the
+Bid.  The  conditional  bid  will  be  summarily  rejected.  Insertions,  postscripts,  additions  and
+alterations shall not be recognized, unless confirmed by bidder’s signature.
+5. Deadline for submission of Bids
+ 
+ : 
+a.  Bids must be submitted before the due date and time at the address specified in the tender
+document. In the event of the specified date for the submission of bids being declared a
+holiday for the High Commission of India, Dhaka. The bid-closing deadline will stand
+extended to the next working day up to the same time.
+b.  The High Commission of India, Dhaka may extend this deadline for submission of bids by
+amending the bid documents and the same shall be suitably notified on the website of the
+High Commission of India, Dhaka.
+Tender Doc No. DAC/VISA/406/04/2020                                                                                  Page 7 of  14
+
+[Page 8]
+6. Late Bids
+ 
+ :
+Any bid inadvertently received after the deadline for submission of bids, will not be accepted and
+returned unopened to the bidder.
+7.  Criteria for Award of Contract/Order:
+a. The High Commission of India, Dhaka shall award the contract to the eligible bidder whose
+technical bid has been accepted and determined as the lowest evaluated financial bid.
+b. The lowest price criteria shall be applied on the total.
+c.
+If more than one bidder happens to quote the same lowest price, the High Commission of
+India, Dhaka reserves the right to split the order and award the contract to more than one
+bidder.
+8. Purchaser’s Right to amend Scope of Work
+ 
+ :
+If, for any unforeseen reasons, the High Commission of India, Dhaka is required to change the Scope of
+Supply, this change shall be acceptable to the bidder without change in the unit price quoted.
+9. Interpretation of the clauses in the Tender Document
+ 
+ 
+In case of any ambiguity/ dispute in the interpretation of any of the clauses in this Tender Document,
+High Commission of India’s interpretation of the clauses shall be final and binding on all parties.
+*****
+Tender Doc No. DAC/VISA/406/04/2020                                                                                  Page 8 of  14
+
+[Page 9]
+SECTION III: SPECIAL CONDITIONS OF CONTRACT (SCC)
+1.
+Prices:
+a.
+The price quoted shall be considered firm and no price escalation will be permitted.
+b. Bidders must quote the price in the format given in Price Schedule at Section-IV of this
+document.
+c.
+All amounts are to be quoted only in Bangladeshi Taka.
+d. The prices quoted should be inclusive of freight, insurance, packing, distribution, after sales
+service.
+2.
+Performance Bank Guarantee (PBG):
+The successful bidder will be required to furnish the Performance Bank Guarantee in form of a Bank
+Guarantee for the 10% (ten percent) amount of the Purchase Order within 02 weeks of receipt of
+Purchase Order, as per the format attached to this document (Refer Annexure I). This bank guarantee
+shall remain valid till the completion of warranty period.
+3.
+Warranty:
+All the items supplied shall carry minimum Five (05) years on-site comprehensive warranty including
+parts and labor from the date of Installation & Commissioning. The bidder must undertake to provide
+the installation and warranty service at Dhaka. The repairing/rectification/replacement/configuration
+required, if any, of the items under warranty must be done at on-site workshop.
+4.
+Payments:
+a.
+60% of the payment will be made on delivery of material and production of claim with
+supporting document.
+b. Payment of 20% against successful physical installation.
+c.
+Payment  of 10% against  successful  commissioning  as  per contract document  and to the
+satisfaction of High Commission of India Dhaka.
+Tender Doc No. DAC/VISA/406/04/2020                                                                                  Page 9 of  14
+
+[Page 10]
+d. Balance 10% payment will be made on the completion of warranty period or against submission
+of Bank Guarantee of equivalent amount from any bank valid for the entire period of warranty.
+5.
+Penalty for delayed Services:
+a.
+The High Commission of India, Dhaka reserves the right to levy penalty @ of 1 % of order
+value per week of delay beyond the scheduled deliveries/execution of the order successfully,
+subject to maximum of 5% of the order value.
+b. The High Commission of India, Dhaka reserves the right to cancel the order in case the delay is
+more than 02 weeks.
+c.
+The  penalties,  if  any  shall  be  recovered  from  the  20%  claim  due  after  installation  &
+commissioning.
+6.
+Force Majeure:
+The  High  Commission  of  India,  Dhaka  may  consider  relaxing  the  penalty  and  delivery
+requirements, as specified in this document, if and to the extent that, the delay in performance
+or other failure to perform its obligations under the contract is the result of an Force Majeure.
+Force Majeure is defined as an event of effect that cannot reasonably be anticipated such as acts
+of  nature  (like  earthquakes,  floods,  storms  etc.),  acts  of  states,  the  direct  and  indirect
+consequences  of  wars  (declared  or  undeclared),  hostilities,  national  emergencies,  civil
+commotion and strikes at successful Bidder’s premises.
+Tender Doc No. DAC/VISA/406/04/2020                                                                                  Page 10 of  14
+
+[Page 11]
+SECTION – IV
+Format for submitting the Price Schedule for supply of “ Two(2) Cisco Routers and Three (03)
+Cisco Switches” :
+Bid No DAC/VISA/406/04/2020                                                                                   Date: 
+……………
+To,
+Head of Chancery
+High Commission of India
+1-3 Park Road, Baridhara
+Dhaka -1212, Bangladesh
+Price Schedule
+Sl
+No
+Item
+Total Bid
+Quantity
+Unit Price (in
+Taka)
+Total Price (in
+Taka)
+1
+2
+3
+4
+5
+Note: Above quoted price for supply of “ Two(2) Cisco Routers and Three (03) Cisco Switches” is
+complete in all respect as per technical specifications and T&C mentioned in the bid document.
+Yours faithfully,
+(Signature of Authorized Signatory)
+Name:
+Designation:
+Company seal:
+Tender Doc No. DAC/VISA/406/04/2020                                                                                  Page 11 of  14
+
+[Page 12]
+ANNEXURE 1- PROFORMA OF BANK GUARANTEE
+(On non‐judicial paper of appropriate value)
+To
+Head of Chancery
+High Commission of India
+Plot 1-3, Park Road
+Baridhara, Dhaka
+BANK GUARANTEE NO:
+DATE:
+Dear Sir/Madam
+This has reference to the purchase order No. DAC/IVISA/406/04/2020 Dated …………. placed
+by the High Commission of India, Dhaka to M/S  ……….(Name and Address of the vendor)……. for
+the supply, installation and  “ Two(2) Cisco Routers and Three (03) Cisco Switches”  to the High
+Commission of India, Dhaka.
+The conditions of this order provide that the vendor shall,
+1. Arrange to deliver the items listed in the said order to the consignee, as per details given in said
+order, and
+ 
+2. Arrange to install the items listed in said order at the High Commission of India, 1-3 Park Road,
+Baridhara, Dhaka-1212 Bangladesh to the entire satisfaction of the High Commission of India,
+Dhaka and 
+3. Arrange for the comprehensive warranty service support towards the items supplied by vendor
+on site across Bangladesh, as per the warranty clause in said purchase order. 
+M/s (Name of Vendor) has accepted the said purchase order with the terms and conditions stipulated
+therein and have agreed to issue the performance bank guarantee on their part, towards promises and
+assurance of their contractual obligations vide the purchase order No. DAC/IVISA/406/04/2020 dated
+_________.
+M/s ..(name of vendor).. holds a current account with us and has approached us and at their request and
+in consideration of the promises, we hereby furnish such guarantees as mentioned hereinafter.
+Tender Doc No. DAC/VISA/406/04/2020                                                                                  Page 12 of  14
+
+[Page 13]
+The High Commission of India, Dhaka shall be at liberty without reference to the Bank and without
+affecting the full liability of the Bank hereunder to take any other undertaking of security in respect of
+the supplier’s obligations and /or liabilities under or in connection with the said contract or to vary the
+terms vis‐a‐vis the supplier or the said contract or to grant time and or indulgence to the supplier or to
+reduce or to increase or otherwise vary the prices or the total contract value or to forebear from
+enforcement of all or any of the obligations of the supplier under the said contract and/or the remedies
+of the High Commission of India, Dhaka under any security(ies) now, or hereafter held by the High
+Commission of India, Dhaka and no such dealing(s) with the supplier or release or forbearance
+whatsoever shall have the effect of releasing the bank from its full liability of the High Commission of
+India, Dhaka hereunder or of prejudicing right of the High Commission of India, Dhaka against the
+bank.
+This undertaking guarantee shall be a continuing undertaking guarantee and shall remain valid and
+irrevocable for all claims of the High Commission of India, Dhaka and liabilities of the supplier arising
+upto and until date______.
+Your right to recover the said sum of Tk. ___________/‐ (Taka___________ Only) from us in manner
+aforesaid will not be affected or suspended by reason of the fact that any dispute or disputes have been
+raised by the said M/s________ and/or that any dispute or disputes are pending before any officer,
+tribunal or court or Arbitrator.
+Our liability under this guarantee is restricted
+to
+ 
+Tk________________
+ 
+(Taka
+_____________________Only). Our guarantee shall remain in force until unless a suit action to
+enforce a claim under guarantee is filed against us within six months from (which is date of expiry of
+guarantee) all your rights under the said guarantee shall be forfeited and we shall be relieved and
+discharged from all liabilities there under.
+We have power to issue this guarantee in your favour under Memorandum and Articles of Association
+of our Bank and the undersigned has full power to do under the power of Attorney dated.
+Notwithstanding anything contained herein:
+Tender Doc No. DAC/VISA/406/04/2020                                                                                  Page 13 of  14
+
+[Page 14]
+A. Our liability under this guarantee shall not exceed Tk……………….(in words) 
+B. This bank guarantee shall be valid up to………..& unless a suit for action to enforce a claim
+under guarantee is filed against us within six months from the date of expiry of guarantee. All
+your rights under the said guarantee shall be forfeited and we shall be relieved and discharged
+from all liabilities there after i.e. after six months from the date of expiry of this Bank guarantee
+C. We are liable to pay the guaranteed amount or any parts thereof under this bank guarantee only
+and only if you serve upon us a written claim or demand or before …………. 
+D. The Bank guarantee will expire on ……… 
+Granted by the Bank
+Yours faithfully,
+For (Name of Bank)
+SEAL OF THE BANK
+Authorized Signatory
+Tender Doc No. DAC/VISA/406/04/2020                                                                                  Page 14 of  14

@@ -1,0 +1,555 @@
+Title: Statement of Compliance for Supply, Delivery and Configuration of Network Equipment
+Source: https://tpb.gov.ph/wp-content/uploads/2026/11/Annex-A_Statement-of-Compliance_TPB-RFQ-No.-2026-11-318-Network-Equipment.pdf
+Pages: 8
+
+--- Extracted text by page ---
+
+[Page 1]
+RFQ No. TPB-RFQ 2026.11.318 
+PR No. 2026.11.020 
+STATEMENT OF COMPLIANCE TO THE TECHNICAL SPECIFICATIONS 
+SUPPLY, DELIVERY, AND CONFIGURATION OF THE NETWORK EQUIPMENT 
+Bidders must state here either “Comply” or “Not Comply” against each of the individual parameters of each Specification, stating 
+the corresponding performance parameter of the equipment offered. Statements of “Comply” or “Not Comply” must be 
+supported by evidence in a Bidder Bid and cross-referenced to that evidence. A statement that is not supported by evidence 
+or is subsequently found to be contradicted by the evidence presented will render the Bid under evaluation liable for 
+rejection.  A statement, either in the Bidder's statement of compliance or the supporting evidence, that is found to be false 
+either during Bid evaluation may be regarded as fraudulent and render the Bidder or supplier liable for prosecution, subject 
+to the applicable laws and issuances. 
+ITEM 
+NO. 
+SPECIFICATIONS 
+STATEMENT 
+OF 
+COMPLIANCE 
+(COMPLY/NOT 
+COMPLY 
+*TO BE FILLED UP
+BY THE BIDDER
+1 
+48 Port Non-POE Network Switch 
+Hardware Specifications 
+Technical Item 
+Specifications Requirements 
+Default ports 
+48*10/100/1000Base-T port. 
+4* SFP+ ports 
+Management port 
+1*Console 
+MAC Address 
+Table  
+16K 
+Working Layer 
+L2 & L3 
+Reset 
+Support 
+Power 
+100-240VAC
+Dimensions 
+Between 440mm×280mm×44mm – 
+440mmx330mmx44.5mm 
+Switch capacity 
+672Gbps/672Tbps 
+Packet forwarding 
+rate  
+207Mpps/363Mpps 
+LED 
+System indicator and power indicator  
+All network interfaces have working status 
+light indicators 
+Work mode 
+Support fat (standalone) and thin mode 
+(controller-based mode) 
+Switch discovery 
+Layer 2 broadcast automatically discovers 
+wireless AC 
+Configure Static IP Address Layer 3 to 
+discover wireless ACs 
+DHCP Option 43 Discovers Wireless AC 
+DNS Domain Name Discovery Wireless AC 
+SDP Discovery 
+One Click 
+Replacement 
+Support to replace the defective Switch via 
+clicking the replace button in the controller 
+MAC 
+Support MAC Address leaning and aging 
+automatically 
+Support static, dynamic MAC entries 
+Support source MAC address filtering 
+Support MAC address aging 
+VLAN 
+Support 4K VLAN  
+Voice VLAN support 
+Support default VLAN, Guest VLAN
+
+[Page 2]
+RFQ No. TPB-RFQ 2026.11.318 
+PR No. 2026.11.020 
+Support Access, Trunk, Hybrid Switch port 
+mode 
+STP  
+ 
+Support 
+802.1D(STP),802.1W(RSTP),802.1s(MSTP) 
+Support BPDU Guard, root protection and 
+loopback protection 
+ACL  
+ 
+Support Standard IP ACL (IP Address 
+Based Hardware ACL)  
+Support extended IP ACL (hardware ACL 
+based on IP address, TCP/UDP port 
+number)  
+Support MAC extended ACL (hardware 
+ACL based on source MAC address, 
+destination MAC address, and optional 
+Ethernet type)  
+Support based on time ACL  
+Support expert ACL (a hardware ACL that 
+can be flexibly combined based on the 
+VLAN number, Ethernet type, MAC 
+address, IP address, TCP/UDP port 
+number, protocol type, and time)  
+QOS  
+ 
+Support port traffic identification  
+Supports port traffic rate limit  
+Support 802.1p / DSCP / TOS traffic 
+classification  
+8 priority queues per port  
+Support SP, WRR, SP + WRR, RED / 
+WRED queue scheduling  
+Multicast  
+ 
+Supports Querier 
+Support IGMP v1/v2/v3 Snooping 
+VLAN-Based Multicast Forwarding 
+Port Aggregation  
+Support manual and static LACP  
+Port Mirroring 
+Support Port Mirroring  
+Routing  
+Support IPv4 and IPv6 static routing  
+Security features  
+ 
+Support DHCP Relay, DHCP Snooping  
+Support blacklist and whitelist  
+Administrator hierarchical management 
+Support SSH V2.0 
+Support HTTPS access 
+NMS  
+Support NAC unified management 
+Support across WAN, NAT remote 
+management 
+Support SNMPv1/v2C/v3, CLI 
+(Telnet/Console), SSH, Web  
+Support send Log File data in Syslog format 
+to Syslog server 
+Switch Profiling 
+Support monitors the Switch’s status such 
+as traffic, user, port status, also user can 
+change the configuration of VLAN, port, 
+DHCP, POE power supply via Controller’s 
+Web UI. 
+1 Year Warranty Hardware Parts and Labor
+
+[Page 3]
+RFQ No. TPB-RFQ 2026.11.318 
+PR No. 2026.11.020 
+Service 
+Requirement 
+The vendor should provide the lifetime 
+remote technical support for free. 
+2 
+24 Port POE Network Switch  
+Hardware Specifications 
+Technical Item 
+Specifications Requirements 
+Default ports  
+24*10/100/1000Base-T POE port.  
+4*10G SFP+  
+Management port  
+ 
+1*Console  
+1*MANAGE  
+MAC Address Table  16K  
+Working Layer  
+L2 & L3  
+Reset  
+Support  
+Power  
+100-240VAC, 50/60Hz  
+Output Power  
+Single port maximum 30W, totally 
+maximum 370W  
+Dimensions  
+440mm×330mm×44.5mm  
+ARP  
+ARP table >= 512  
+LED  
+Port indicator, system indicator and 
+power indicator  
+Switch capacity  
+366Gbps/3.36Tbps  
+Packet forwarding 
+rate  
+108Mpps/126Mpps  
+Access  
+Support the integration of fat and thin, 
+support intelligent switch and common 
+switch two working modes, according 
+to different networking needs, flexible 
+at any time to switch  
+Switch zero 
+configuration online  
+Layer 2 broadcast automatically 
+discovers wireless AC  
+Configure Static IP Address Layer 3 to 
+discover wireless ACs  
+DHCP Option 43 Discovers Wireless 
+AC  
+DNS Domain Name Discovery 
+Wireless AC  
+Remote 
+management  
+ 
+Support across WAN, NAT remote 
+management intelligent switch  
+STP  
+ 
+Support RRPP Ring Topology and 
+RRPP Multiple Instances  
+Support MSTP, MRPP, ERPS and so 
+on  
+Support ERPS Ethernet Ring 
+Protection Protocol (G.8032)  
+Support MSTP (IEEE 802.1s) protocol  
+Support BPDU protection, root 
+protection and loopback protection  
+Support BPDU Tunnel  
+ACL  
+ 
+Support Standard IP ACL (IP Address 
+Based Hardware ACL)
+
+[Page 4]
+RFQ No. TPB-RFQ 2026.11.318 
+PR No. 2026.11.020 
+Support extended IP ACL (hardware 
+ACL based on IP address, TCP/UDP 
+port number)  
+Support MAC extended ACL 
+(hardware ACL based on source MAC 
+address, destination MAC address, 
+and optional Ethernet type)  
+Support based on time ACL  
+Support expert ACL (a hardware ACL 
+that can be flexibly combined based on 
+the VLAN number, Ethernet type, MAC 
+address, IP address, TCP/UDP port 
+number, protocol type, and time)  
+802.1x  
+ 
+Support 802.1X authentication  
+Supports port-based authentication 
+and MAC-based authentication  
+Support Guest VLAN  
+Support TRUNK port authentication  
+Supports dynamic delivery of VLANs 
+based on 802.1x  
+QOS  
+ 
+Support port traffic identification  
+Supports port traffic rate limit  
+Support 802.1p / DSCP / TOS traffic 
+classification  
+8 priority queues per port  
+Support SP, WRR, SP + WRR, RED / 
+WRED queue scheduling  
+Multicast  
+ 
+Supports IGMP v1/v2/v3 Snooping and 
+fast leave  
+Support multicast forwarding and 
+multicast multi-VLAN replication in a 
+VLAN  
+Multicast load balancing on bundled 
+ports  
+Support controllable multicast  
+Support port-based multicast traffic 
+statistics  
+VLAN  
+ 
+Support 4K VLAN  
+Voice VLAN support  
+Support GVRP agreement  
+Support Private VLAN function  
+Support MAC / protocol / IP subnet / 
+policy / port based VLAN  
+Supports 1: 1 and N: 1 VLAN Mapping 
+features  
+EEE  
+ 
+EEE energy-saving technology that 
+supports the IEEE 802.3az standard: 
+When the EEE is enabled, the power 
+consumption of the port at this stage is 
+drastically reduced, thereby saving 
+energy.  
+MAC  
+ 
+Support MAC address auto-learning 
+and aging
+
+[Page 5]
+RFQ No. TPB-RFQ 2026.11.318 
+PR No. 2026.11.020 
+Support static, dynamic, blackhole 
+MAC entries  
+Supports source MAC address filtering  
+Limit the number of MAC address 
+learning interfaces  
+M-LAG  
+Supports M-LAG  
+Port aggregation  
+ 
+Supports 128 groups of aggregation 
+groups with a maximum of 8 ports per 
+group  
+Support manual and static LACP  
+Binding  
+Support IP-MAC-PORT-VLAN, support 
+2K item  
+IPv4 routing  
+Support static IPv4 routing  
+Support RIPv1/2 OSPF  
+Support Policy-based Routing  
+IPv6 routing  
+Support IPv6 static routing  
+IP route  
+Static route; Routing table >=64  
+Security features  
+ 
+Filtering illegal MAC addresses  
+Support ARP-Check  
+Support ARP packet rate limiting  
+Support anti-gateway ARP spoofing  
+Support for broadcast storm 
+suppression  
+Administrator level management and 
+password protection  
+Support IP SOURCE GUARD  
+Support port protection  
+Support to prevent DOS, ARP attack 
+function  
+Support port isolation  
+Support CPU protection  
+Support blacklist and whitelist  
+Flow control  
+ 
+Support ACL  
+Support QoS  
+Visuality  
+Visualize traffic and terminal status, 
+portray for security and devices  
+NMS  
+Wireless AC unified management  
+SNMPv1/v2C/v3, CLI 
+(Telnet/Console), SSH, Web  
+Safety & EMC  
+FCC、CE: EN55022, EN61000-3-2, 
+EN61000-3-3, EN55024, EN60950-1、
+RoHS  
+Service Requirement 1 Year Warranty Hardware Parts and 
+Labor 
+The vendor should provide the lifetime 
+remote technical support for free.
+
+[Page 6]
+RFQ No. TPB-RFQ 2026.11.318 
+PR No. 2026.11.020 
+3 
+Transceiver Module 
+Technical Specs 
+Data Rate 
+10 Gbps (10 Gigabit) 
+Form Factor 
+SFP + (Small Form-Factor Pluggable 
+Plus  
+Wavelength / Laser Type 
+850 nm multi-mode 
+Maximum Transmission 
+Distance 
+Up to 300 meters 
+Connector Type 
+Duplex LC connector 
+Fiber Type 
+Multi-Mode Fiber (MMF) 
+ 
+ 
+4 
+Fiber Optic Patch Cord 
+Technical Specs 
+Cable Length 
+2 meters 
+Connector Type 
+LC/UPC to LC/UPC (Duplex) 
+Fiber Type 
+Multimode OM3 
+Core / Cladding Diameter 
+50/125 μm 
+Jacket Material 
+LSOH / LSZH 
+Bandwidth / Data Rate 
+Support 
+10G, 40G, and 100G Ethernet 
+applications 
+ 
+ 
+SCHEDULE OF REQUIREMENTS 
+ 
+ITEM 
+NO. 
+DESCRIPTION QUANTITY TOTAL 
+DELIVERED, 
+WEEKS/MONTHS 
+1 
+48 Port Non-
+POE Network 
+Switch 
+4 pcs 
+1 lot 
+Sixty (60) 
+Calendar days 
+upon receipt of 
+Notice to Proceed 
+(NTP) 
+2 
+24 Port POE 
+Network Switch 
+1 pc 
+3 
+Transceiver 
+Module 10G 
+22 pcs 
+4 
+Fiber Optic 
+Patch Cord 
+12 pcs 
+ 
+ 
+DELIVERABLES OF THE TOURISM PROMOTIONS BOARD 
+PHILIPPINES 
+ 
+The Tourism Promotions Board (TPB) shall: 
+ 
+1. 
+Assign an end-user representative to oversee the delivery, 
+inspection, and acceptance of the Network Equipments. 
+ 
+2. 
+Process payment to the supplier in accordance with the contract 
+terms upon acceptance of the deliverables. 
+ 
+3. 
+Coordinate with the supplier about warranty claims, defects, or 
+technical issues that may occur during the warranty period. 
+ 
+ 
+TERMS AND CONDITIONS 
+ 
+1. 
+The winning bidder must fully adhere to all intellectual property 
+laws, rules, and regulations.
+
+[Page 7]
+RFQ No. TPB-RFQ 2026.11.318 
+PR No. 2026.11.020 
+2. 
+The Winning Bidder shall not infringe on any existing patents, 
+copyrights, trademarks, or other intellectual property rights of any third 
+party, nor sell any product or use trademarks or copyrights that would 
+infringe on those third-party rights.  
+ 
+3. 
+Failure to comply with this shall constitute a material breach of 
+the contract and entitle TPB to damages and legal fees. 
+ 
+BIDDER’S ELIGIBILITY REQUIREMENTS 
+ 
+1. 
+Must be an IT or ICT-related company that has been operating for 
+at least three (3) years and must submit a company profile. 
+ 
+2. 
+Must be a Filipino-owned, operated, and legally registered 
+company under Philippine laws, with a minimum of three (3) years in 
+operation. 
+ 
+3. 
+Must provide authorized reseller certificate of the proposed 
+product. 
+ 
+4. 
+Must provide services through a qualified engineer or installer 
+certified for the specific product. The bidder shall submit the relevant 
+certification of the installer or engineer. 
+ 
+ 
+CONTRACT DURATION 
+ 
+Must be delivered within sixty (60) calendar days upon receipt of Notice 
+to Proceed (NTP). 
+ 
+ 
+APPROVED BUDGET FOR THE CONTRACT 
+ 
+The Approved Budget for the Contract (ABC) is SIX HUNDRED EIGTHY 
+THOUSAND PESOS ONLY (PHP 680,000.00), inclusive of all applicable 
+fees and taxes, chargeable against the 2026 Approved Corporate 
+Operating Budget. 
+ 
+ 
+TERMS OF PAYMENT 
+ 
+Payment shall be made through a send-bill arrangement with the Tourism 
+Promotions Board (TPB) Philippines within thirty (30) days of submitting 
+the Statement of Account (SOA) and supporting documents, in 
+accordance with existing accounting and auditing rules and regulations. 
+ 
+The winning bidder is encouraged to keep an account with the Land Bank 
+of the Philippines (LBP) to make payments via bank deposit. If the winning 
+bidder does not have an LBP account, any related bank charges will be 
+the responsibility of the winning bidder.
+
+[Page 8]
+RFQ No. TPB-RFQ 2026.11.318 
+PR No. 2026.11.020 
+PAYMENT 
+TRANCHE 
+DELIVERABLES/MILESTONES 
+PERCENTAGE 
+OF PAYMENT 
+1st 
+• Supply, 
+Delivery, 
+and 
+Configuration of the Network 
+Equipments 
+• Certificate of completion and 
+acceptance signed by the MIS 
+Acting 
+Head/Department 
+Manager 
+• Certificate of Warranty 
+100% 
+TOTAL 
+100% 
+ 
+I hereby certify to comply with and deliver all of the above requirements. 
+ 
+ 
+_______________________                      ________________________                             ______________ 
+Name of Company                                        Signature over Printed Name                                         Date  
+                                                                      of the Authorized Representative

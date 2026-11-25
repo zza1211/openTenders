@@ -1,0 +1,554 @@
+Title: Extension of Warranty and Upgrade of Fortigate Firewall, FortiManager and FortiAnalyzer
+Source: https://www.isro.gov.in/media_isro/pdf/Tenders/2025/217PT_19072025.pdf
+Pages: 11
+
+--- Extracted text by page ---
+
+[Page 1]
+भारतसरकार/Government of India
+अंतररक्षविभाग/Department of Space
+द्रिनोदनप्रणालीकंद्र
+LIQUID PROPULSION SYSTEMS CENTRE
+एचएएलII स्टेज, 80 फीटरोड
+HAL II STAGE, 80 FEET ROAD,
+बेंगलूरु/BANGALORE-560 008.
+फोनसं./Phone No.080 25037171
+ई-मेल/Email: purchase@lpscb.gov.in
+वदनंक/Date: 10.07.2024
+लोकवनविदासूचनासं. एलबेी2025000217-01 वदनंक10.07.2025
+PUBLIC TENDER NOTICE NO. LB2025000217-01 DATED 10.07.2025
+3 िर्षकीअिविकेवलएफोरटषगेटफायरिॉल, फोरटषगेटमैनेजरऔरएनालाइजरकीिारंटीकेविस्तारऔर
+उन्नयनकेवलएवनविदा।/
+Tender for Extension of Warranty and Upgrade of Fortigate Firewall, Fortigate Manager &
+Analyser for a period of 3 years.
+वनविदािगीकरण/Tender Classification : लोकवनविदा/ PUBLIC TENDER
+वनविदाकीवनिाररतवतवियँ/TENDER SCHEDULE
+बेोलीप्रस्तुवतकीआरंवभकवतवि/Bid
+Submission Start Date
+:
+10.07.2025 18:45
+बेोलीस्पष्टीकरणकीवनयतवतवि/Bid
+Clarification Due Date
+:
+24.07.2025 17:00
+बेोलीप्रस्तुतीकरणकीवनयतवतवि/Bid
+Submission Due Date
+:
+31.07.2025 14:00
+बेोलीखुलनेकीवतवि/Bid Opening Date
+:
+31.07.2025 14:30
+मूल्यबेोलीखुलनेकीवतवि/ Price Bid
+Opening Date
+:
+19.08.2025 14:00
+मूलवनविदाकीअन्यसभीवनबेंिनएिंशतंअपररिवतषतरहेंगी।
+All other terms and conditions of the original tender notice shall remain unchanged.
+वनविदादस्तािेज़https://www.isro.gov.in/ OR https://eproc.vssc.gov.in याइसरोई-प्रापण
+पोटषलसेडाउनलोडवकएजासकतेहें।Tender documents can be downloaded from
+https://www.isro.gov.in/ OR https://eproc.vssc.gov.in or ISRO E-Procurement Portal.
+हेस्ताक्षररत/Signed
+क्रयिभंडारअविकारी/Purchase & Stores Officer
+
+[Page 2]
+GOVERNMENT OF INDIA
+DEPARTMENT OF SPACE
+LIQUID PROPULSION SYSTEMS CENTRE (LPSC-B)
+BANGALORE
+ Tender for  Extension of  Warranty and Upgrade of Fortigate Firewall
+,Forti Manager & Analyser for 3 years
+Bids to be submitted online
+Tender No.: LPSC-B/Liquid Propulsion Systems Centre,
+Bengaluru/LB202500021701 dated 10-07-2025
+Tender No : LPSC-B/Liquid Propulsion Systems Centre, Bengaluru/LB202500021701
+Page 1 of 10
+Signer: ANANT TIRKEY
+Wed Jul 09 22:09:18 IST 2025
+
+[Page 3]
+A. Tender Details
+ 
+ 
+ Extension of  Warranty and Upgrade of Fortigate Firewall ,Forti Manager &
+Analyser for 3 years
+ 
+Extension of  Warranty and Upgrade of Fortigate Firewall ,Forti Manager & Analyser for 3 years
+ 
+A.1  Tender Schedule
+ 
+Tender No :
+LPSC-B/Liquid Propulsion Systems Centre,
+Bengaluru/LB202500021701
+Tender Date :
+10-07-2025
+Tender Classification:
+GOODS
+Purchase Entity :
+Liquid Propulsion Systems Centre, Bengaluru
+Centre :
+LIQUID PROPULSION SYSTEMS CENTRE  (LPSC-B)
+Bid Submission Start Date :
+10-07-2025 18:45
+Bid Clarification Due Date :
+24-07-2025 17:00
+Bid Submission Due Date :
+31-07-2025 14:00
+Bid Opening Date :
+31-07-2025 14:30
+Price Bid Opening Date :
+19-08-2025 14:00
+Tender No : LPSC-B/Liquid Propulsion Systems Centre, Bengaluru/LB202500021701
+Page 2 of 10
+
+[Page 4]
+B. Tender Attachments
+ 
+Technical Write-up/Drawings
+ 
+Document : Annexure C- Document Templates
+ 
+Document : Annexure B- List of Documents 
+ 
+Document : Annexure A - Terms and Conditions
+ 
+Instructions To Vendors
+ 
+4. Instructions to Vendors
+ 
+1. LPSC(B) invites offers through eprocurement portal (https://eproc.isro.gov.in) for the supply / service
+of items as listed in the Tender document.
+ 
+2. Prospective vendors interested in participating in the tendering process need to get registered in the
+e-procurement portal by using Digital Signature Certificate. Offers submitted through our online portal
+only shall be considered and offers received through fax or email or in person shall not be considered.
+ 
+3. The Tenderers are requested to update their address and contact details, if necessary and submit
+the Bids online at least two days prior to closing date to avoid last minute system / network related
+problems. In case of any technical issues, tenderers may write to  helpdesk team
+(eprocure@vssc.gov.in, egps@lpscb.gov.in) for resolution. Request for the extension of the due date
+for such instances shall not be considered.
+ 
+4. GST @ 5% is applicable for following goods mentioned under Sl. No. 243B as per Department of
+Revenue Notification No. 25/2018 - Integrated Tax (Rate) dated 31/12/2018 (Amendment to
+Notification Nos. 07/2018 dated 25/01/2018 and 01/2017 dated 28/06/2017) and Department of
+Revenue Notification No. 24/2018 - Central Tax (Rate) dated 31/12/2018 (Amendment to Notification
+Nos. 06/2018 dated 25/01/2018 and 01/2017 dated 28/06/2017) and Government of Karnataka
+Notification No. 24/2018 dated 31/12/2018 (Amendment to Notification Nos. 06/2018 dated 25/01/2018
+and 01/2017 dated 29/06/2017).
+"Scientific and technical instruments, apparatus, equipment, accessories, parts, components, spares,
+tools, mock ups and modules, raw material and consumables required for Launch Vehicles and
+Satellites and Payloads"
+ 
+5. LPSC(B), ISRO is eligible for Customs Duty Concession vide Notification No. 50/2017-Customs
+dated 30/06/2017 (Sl. No. 539), Notification No. 5/2018-Customs dated 25/01/2018 (Sl. No. 539A) and
+Tender No : LPSC-B/Liquid Propulsion Systems Centre, Bengaluru/LB202500021701
+Page 3 of 10
+
+[Page 5]
+Notification No. 05/2025-Customs dated 01/02/2025 (Sl. No. 539A). Necessary Customs Duty
+Concession Certificate shall be provided if applicable.
+ 
+6. Offer Validity: The offer shall be valid for a period of 90 days (for Single Part Tender) and 120 days
+(for Two Part Tender) from the date of opening of the tender or any other period as specified in the
+Tender document. Offers with lesser validity period than that specified are liable for exclusion from the
+procurement process.
+ 
+7. In case of Two Part Tender, Tenderers shall not mention any kind of price element in Techno-
+Commercial Bid. If any Price element is mentioned in the Techno-Commercial bid, their offer shall be
+liable for rejection.
+ 
+8. LPSC(B) reserves the right to accept or reject any quotation in part or in full or part without assigning
+any reason thereof. LPSC(B) shall be under no obligation to accept the lowest tender and reserves the
+right to accept whole or any part of the tender or part of the quantity offered and the Tenderers shall
+supply the same at the rates quoted.
+ 
+9. Bank Details: Tenderer shall provide their bank details such as IFSC code, IBAN No. , SWIFT etc.
+along with their offer which shall be not be changed till completion of supply/service.
+ 
+10. Applicable Law: The Contract shall be governed by Indian Law for the time being in force and
+jurisdiction shall lie in the Courts of India.
+ 
+11. Only Class-I and Class-II Local suppliers as per Public Procurement Policy (Preference to Make in
+India) Order, 2017 are eligible to participate in the bid unless otherwise specified in the Tender
+document.
+ 
+12. As far as implementation of Public Procurement Policy (Preference to Make in India) Order, 2017 is
+concerned, the Office Orders vide No. P-45021/2/2017-B.E-II dated 15/06/2017, which is partially
+modified by Order No. P-45021/2/2017-PP(BE-II) dated 28/05/2018, Order No. P-45021/2/2017-
+PP(BE-II) dated 29/05/2019, Order No. P-45021/2/2017-PP (BE-II) dated 04/06/2020 and Order No. P-
+45021/2/2017-PP (BE-II) dated 16/09/2020 and subsequent Amendments issued by the Department
+for Promotion of Industries and Internal Trade (DPIIT), Ministry of Commerce and Industry  regarding
+Class-I / Class-II local suppliers, Purchase preference, verification of local contents etc. shall be
+applicable to this tender unless otherwise specified in the Tender document.
+Therefore, bidders may ensure compliance of the same while submitting tenders.
+ 
+13. Price Preference shall be extended to the MSEs under the Public Procurement Policy for MSEs
+formulated under the Micro, Small and Medium Enterprises Development Act, 2006 unless otherwise
+specified in the Tender document. Such MSEs shall produce documentary proof of registration as per
+provisions of the Policy i.e. registration with District Industries Centre (DIC) or Khadi and Village
+Tender No : LPSC-B/Liquid Propulsion Systems Centre, Bengaluru/LB202500021701
+Page 4 of 10
+
+[Page 6]
+Industries Commission (KVIC) or Khadi and Industries Board (KVIB) or Coir Board or National Small
+Industries Commission (NSIC) or Directorate of Handicrafts and Handlooms or Udyog Aadhar
+Memorandum or any other body specified by Ministry of MSME.
+ 
+14. As per the Rule 144 (xi) of General Financial Rules,2017, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender, only if the bidder is registered with the
+Competent Authority. Competent Authority for the purpose of registration shall be the Registration
+Committee constituted by the Department for Promotion of Industry and Internal Trade (DPIIT).
+ 
+15. Resolution of Disputes: Any dispute, disagreement or question arising out of or relating to or in
+consequence of the contract or to its fulfillment, or the validity of enforcement thereof which cannot be
+settled mutually, or the settlement of which is not herein specifically provided for, shall within 30 (thirty)
+days from the date either party informs the other in writing that such dispute or disagreement exists be
+referred to arbitration by the sole arbitrator. The Arbitrator shall be appointed as per the Indian
+Arbitration and Conciliation Act 1996 and proceedings will be conducted in Bangalore. The Arbitration
+proceedings shall be conducted in accordance with and subject to the Arbitration and Conciliation Act
+1996 (Act 26 of 1996) as amended from time to time and the decision of the Arbitrator shall be final
+and binding on the parties thereto. Each party shall bear its own cost of preparing and presenting its
+case. The cost of Arbitration including the fees and expenses of the Arbitrator shall be shared equally
+by the parties unless the award provides otherwise. Subject to provisions of this clause, the courts at
+Bangalore shall have exclusive jurisdiction. Performance under this Contract shall, however continue
+during Arbitration proceeding and no payment due or payable by the parties hereto shall be withheld
+unless any such payment is/or forms a part of the subject matter of the Arbitration proceedings.
+ 
+16. Force Majeure: Neither party shall bear responsibility for the complete or partial non-performance
+of any of his obligations if the non-performance results from such force majeure circumstances such
+as, but not restricted to, flood, fire, earthquake, civil commotion, sabotage, explosion, epidemic,
+quarantine restriction, strike, lock-out, freight embargo, acts of the Government, acts of public enemy
+and other acts of God as well as war or revolution, military operation, blockade, acts or actions of State
+authorities or any other circumstance beyond the control of the parties provided the other party is
+notified in writing within 21 days from the date of commencement of the unforeseeable event.
+ 
+5. Local Content Declaration 
+ 
+1. DECLARATION OF LOCAL CONTENT
+(To be given on company letter head with self certification - For tender value below Rs. 10 Crores
+(To be given by Statutory Auditor or Cost Auditor or Cost Accountant or CA - For tender value above
+Rs. 10 Crores)
+Date:
+To,
+Sub: Declaration of Local content
+Tender No : LPSC-B/Liquid Propulsion Systems Centre, Bengaluru/LB202500021701
+Page 5 of 10
+
+[Page 7]
+Tender Ref No:
+Name of Tender:
+1. Country of Origin of Goods being offered:
+2. We hereby declare that items offered has -----% local content:
+3. Details of Local Value additions:
+4. Address At which Local value addition is being made:
+"Local Content" means the amount of value added in India which shall, be the total value of the item
+being offered minus the value of the imported content in the item (including all customs duties) as a
+proportion of the total value, in percent.
+It is certified that the above mentioned Local content is excluding the following (a) (b) & (c):
+a. Imported items sourced locally from resellers/distributors are excluded from calculation of the above
+local content.
+b. The license fees/royalties paid/ technical charges paid out of India shall be excluded from local
+content calculation.
+c. Procurement/Supply of repackaged/refurbished/rebranded imported products as understood
+commonly shall be treated as reselling of imported products and shall be excluded from calculation of
+local content. The definition of repackaged /refurbished/rebranded imported products is as follows;
+Refurbishing means repair or reconditioning of an imported product does not amount to manufacture
+because no new goods come into existence. Repackaging means repacking of imported goods from
+bulk pack to smaller packs would not ordinarily amount to manufacture of a new item. Rebranding
+means relabeling or renaming or change in symbol or logo/makes or corporate image of a
+company/organization/ firm for an imported product would amount to rebranding.
+ 
+It is certified that as per DPIITs OM Ref P-45021/102/2019-BE-II-Paart(1)(E-50310) Dtd. 04/03/2021
+the local content mentioned above, by which we are Class-I local suppliers / Class-ll local suppliers,
+does not contain services such as transportation, insurance, installation, commissioning, training and
+after sales service support like AMC / value addition.
+"False declaration will be in breach of Code of Integrity under Rule175(1)(i)(h)of the General Financial
+Rules for which a bidder or its successors can be debarred for up to two years as per Rule 151 (iii) of
+the General Financial Rules along with such other actions as may be permissible under law."
+ 
+ 
+Yours faithfully,
+(Signature of the Bidder/OEM with Official seal)
+ 
+Tender No : LPSC-B/Liquid Propulsion Systems Centre, Bengaluru/LB202500021701
+Page 6 of 10
+
+[Page 8]
+C. Bid Templates
+ 
+C.1 Technical Bid -  Extension of  Warranty and Upgrade of Fortigate Firewall ,Forti
+Manager & Analyser for 3 years
+ 
+ 
+1. UTM Appliance (Unified Threat Management) - Proposal for Upgrade and Warranty extension
+of Fortigate Firewall ,Forti Manager & Analyser for 3 years as per terms and conditions in
+Annexure A 
+ 
+Item specifications for UTM Appliance (Unified Threat Management) - Proposal for Upgrade and
+Warranty extension of Fortigate Firewall ,Forti Manager & Analyser for 3 years as per terms and
+conditions in Annexure A
+ 
+Document : Technical Specification
+ 
+Common Specifications (Applicable for all items)
+ 
+ 
+Supporting Documents required from Vendor
+ 
+1. Annexure D - Documents from Vendor
+ 
+5 additional documents can be uploaded by the vendor
+ 
+Sl No
+Specification
+Value
+Compliance
+Offered
+Specification
+Remark
+1
+Technical
+Specification
+As per Annexure C
+Yes / No / Explain
+Sl No
+Specification
+Value
+Compliance
+Offered Specification
+Remark
+1
+Terms and
+conditions
+As per Annexure A
+Yes / No /
+Explain
+2
+Mandatory
+documents for
+TEC
+List as given in
+Annexure B and
+templates given in
+Annexure D
+Yes / No /
+Explain
+3
+Technical
+specification
+for the
+upgraded
+solution
+As per Annexure C
+Yes / No /
+Explain
+Tender No : LPSC-B/Liquid Propulsion Systems Centre, Bengaluru/LB202500021701
+Page 7 of 10
+
+[Page 9]
+C.2 Commercial Terms / Bid
+ 
+Sl. No.
+Description
+Compliance
+Vendor Terms
+1
+As per the terms and conditions
+specified in Annexure A
+Yes / No / Explain
+2
+Detailed Scope of work: As per
+Annexures attached.
+Yes / No / Explain
+3
+Goods and Services Tax (GST):
+Kindly mention percentage of GST
+considered in your offer along with
+HSN Code.
+Yes / No / Explain
+4
+Delivery Terms: FOR LPSC,
+Bangalore
+Yes / No / Explain
+5
+Contract Period: The contract period
+is for three years and after the initial
+three year warranty period , the
+warranty shall be further extended
+with mutual agreement
+consent of the Vendor and LPSC.
+Yes / No / Explain
+6
+Payment Terms: 100% payment
+shall be made within 30 days of
+receipt and acceptance of the items
+at our site.
+Yes / No / Explain
+7
+Liquidated Damages (LD): If the
+ordered items are not supplied
+within the delivery schedule, LD
+shall be levied from your bill @ 0.5%
+of the order value per week or 0.5%
+of the value of the stores for which
+the delivery is delayed for each
+week of delay subject to a maximum
+of 5% of the order value. However,
+in case of inordinate delay in
+completion period, LD @ 10% shall
+be recovered.
+Yes / No / Explain
+8
+Warranty: The items shall be
+warranted for a minimum period of 3
+years from the date of supply or
+acceptance of items at our site
+which ever is later. Necessary
+warranty certificate shall be
+furnished along with the supply.
+Yes / No / Explain
+Tender No : LPSC-B/Liquid Propulsion Systems Centre, Bengaluru/LB202500021701
+Page 8 of 10
+
+[Page 10]
+9
+Performance Bank Guarantee
+(PBG): You have to submit PBG
+towards fulfilment of warranty
+obligations and performance of the
+system for 3% of the Order Value
+from a Nationalized / Scheduled
+Bank on non-judicial stamp paper of
+appropriate value valid till the
+completion of warranty period plus
+60 days as per the format provided
+by Department. (OR) 3% of the
+Order Value shall be withheld till the
+completion of Warranty period plus
+60 days.
+Yes / No / Explain
+10
+Security Deposit (SD): You have to
+furnish a Bank Guarantee from a
+Nationalized / Scheduled Bank on
+non-judicial stamp paper of
+appropriate value for 3% of the
+order value within 10 days of receipt
+of order towards the faithful
+execution of the order valid till the
+completion of the scope of work as
+per order plus sixty days (as claim
+period).
+SD shall only be applicable for order
+value above INR 50.00 Lakhs. SD
+shall be returned to you immediately
+on execution of the order
+satisfactorily as per order terms. In
+case of non-performance / poor
+performance, the amount shall be
+withheld.
+Yes / No / Explain
+11
+SD cum PBG: In case, if parties are
+unable to provide two separate BGs,
+i.e. one for SD and one for PBG,
+they can submit a combined BG for
+SD & PBG within 10 days of receipt
+of order for 3% of order value valid
+till the completion of total contractual
+obligation (i.e. supply period plus
+warranty period plus 60 days) as per
+the format provided by the
+Department.
+Yes / No / Explain
+12
+Insurance: Being a Government of
+India Department, Insurance is not
+required at our cost. Please ensure
+the safe delivery of the ordered item
+with proper AIR / SEA / ROAD
+worthy packing.
+Yes / No / Explain
+13
+Address, contact details like
+Telephone Number, e-mail, etc. on
+which order to be placed.
+Yes / No / Explain
+14
+Details of Principal: Address,
+contact details like Telephone
+Number, e-mail, etc. (if applicable)
+Yes / No / Explain
+15
+Bank Details: Bank name, Branch
+address, Account No., IFSC Code,
+IBAN Number, SWIFT, etc.
+Yes / No / Explain
+Tender No : LPSC-B/Liquid Propulsion Systems Centre, Bengaluru/LB202500021701
+Page 9 of 10
+
+[Page 11]
+C.3 Price Bid 
+ 
+ 
+Common charges (Applicable for all items)
+ 
+16
+Local Content (%): Please mention
+the percentage of Local Content and
+the location where local value
+addition takes place (Kindly enclose
+self-certification document in the
+prescribed format)
+Yes / No / Explain
+17
+MSE Status: Kindly mention the
+classification under MSE and submit
+supporting documentation (if
+applicable)
+Yes / No / Explain
+18
+Validity of offer: 120 days (for Two
+Part Tender) from the date of
+opening of tender or as specified in
+the Tender Document.
+Yes / No / Explain
+19
+Any other terms
+Yes / No / Explain
+Sl. No.
+Item
+Quantity
+Unit Price
+Currency
+Total Price
+Remark
+1
+UTM
+Appliance
+(Unified
+Threat
+Management)
+- Proposal for
+Upgrade and
+Warranty
+extension of
+Fortigate
+Firewall ,Forti
+Manager &
+Analyser for 3
+years as per
+terms and
+conditions in
+Annexure A
+1.00 Lot
+-
+P & F Charges
+Freight if any (Value)
+Installation & Configuration
+Other Costs, if any (Value)
+Taxes, if any (Percentage)
+Tender No : LPSC-B/Liquid Propulsion Systems Centre, Bengaluru/LB202500021701
+Page 10
+of
+10

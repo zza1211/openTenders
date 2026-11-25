@@ -1,0 +1,3636 @@
+Title: Supply, Installation, Testing, Commissioning and Training of Network Devices
+Source: https://bengaluru.stpi.in/sites/default/files/tender-documents/STPI-RFP-Network-Devices-20250819.pdf
+Pages: 54
+
+--- Extracted text by page ---
+
+[Page 1]
+Supply, Installation, Testing, Commissioning  
+and Training of Network Devices  
+(Routers, Layer-3 Switches and Layer-2 Switches)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SOFTWARE TECHNOLOGY PARKS OF INDIA  
+(Ministry of Electronics and Information Technology)  
+Government of India 
+1st Floor, Plate B, Office Block-1,  
+East Kidwai Nagar, New Delhi – 110023 
+ 
+Tel: + +91-11-24628081
+
+[Page 2]
+TABLE OF CONTENTS 
+1. 
+INTRODUCTION ...................................................................................................... 1 
+2. 
+BID SUBMISSION .................................................................................................... 2 
+3. 
+PART I-A: GENERAL TERMS AND CONDITIONS OF TENDER ............................ 5 
+4. 
+PART I-B: SCOPE OF WORK ................................................................................ 12 
+5. 
+PART I-C: TECHNICAL SPECIFICATION .............................................................. 15 
+6. 
+PART I-D: ANNEXURES AND FORMATS ............................................................. 22 
+Annexure-A: Bill of Material - Network Devices across STPI ......................................... 22 
+Annexure-B: Technical Compliance Sheet ..................................................................... 28 
+Annexure-C: Components and Products ........................................................................ 37 
+Annexure-D: Training Requirements .............................................................................. 38 
+Annexure-E: Check List .................................................................................................. 39 
+Annexure-F: Tender Acceptance Letter ......................................................................... 41 
+Annexure-G: DECLARATION FOR NON-DEBARMENT & NON-BLACKLISTING ........ 42 
+Annexure-H: NON-DISCLOSURE AGREEMENT .......................................................... 43 
+Annexure-I: CERTIFICATE OF CONFORMITY/ NO DEVIATION ................................... 47 
+Annexure-J: BIDDE R’S A UTHO RI ZA T IO N CE RT I FI CA TE .......................................... 48 
+Annexure-K: BID SECURITY DECLARATION ............................................................... 49 
+Annexure-L: Format for performance Bank Guarantee (PBG) ....................................... 50 
+Part-II: Annexure-BOQ ................................................................................................... 52
+
+[Page 3]
+Page 1 of 54 
+ 
+1. INTRODUCTION 
+ 
+STPI invites Tender under Two Bid Systems (Technical Bid & Commercial Bid) for Supply, 
+Installation, Testing, Commissioning and Training of Network Devices - Routers, LAYER-3 
+Switches and LAYER-2 Switches at various STPI Locations as mentioned in the Annexure- 
+A , as per the scope of works in part -1 b and Technical specifications in part -1c. The 
+summary of Networking Devices proposed for procurement across STPI center is as per 
+Table A below: 
+ 
+ 
+Table A 
+ 
+Router 
+Layer-3 
+Switch 48 
+Port 
+Layer-2 Switch 
+24 Port 
+Total 
+21 
+35 
+34 
+90
+
+[Page 4]
+Page 2 of 54 
+ 
+2. BID SUBMISSION 
+ 
+STPI invites Two Bid Systems (Technical Bid & Commercial Bid) for Supply, Installation, Testing,  
+Commissioning and training of Network Devices - Routers, LAYER-3 Switches and LAYER-2 
+Switches at various STPI Locations as mentioned in the Annexure-A. 
+  
+Part I shall comprise the following documents: 
+ 
+Part I-A – General Terms and Conditions of the tender 
+Part I-B – Scope of Works  
+Part I-C – Technical Specification 
+Part I-D – Annexures and formats 
+ 
+Part II shall be the price offer to be submitted separately as per the format in 
+Annexure-BOQ.  The price offer will be considered only of those parties who submitted all 
+documents indicated in the checklist at Part I of the tender document and are found 
+competent on the basis of information submitted in Part I. 
+ 
+Bidders are requested to submit their most competitive rates.  It may please be noted that 
+incomplete bids will NOT be accepted. 
+ 
+I. Contents of Technical Bid: The bidder shall upload the scanned copy of all the following 
+documents as part of the Technical Bid in the stipulated format. 
+ 
+ 
+a) 
+Copy of Registration / Incorporation of the firm/ company as applicable. 
+b) 
+Copy of the PAN Card, GST, MSME/UAM Registration (if applicable)  
+c) 
+Earnest Money Deposit/Bid Security Declaration 
+d) 
+OEM(s) Authorization Certificate and OEM(s)/ Manufacturers Authorization 
+Form(s)/Certificate (MAF) authorizing the bidder to participate in the referred 
+tender. 
+e) 
+Financial status: CA certificate for the Annual turnover of the bidder in the last 
+three years, Copy of the Audited Financial Statement for the past 3 financial years. 
+(2021-22, 2022-23, 2023-24)  
+f) 
+Experience Proof: Customer’s Purchase Order (PO) & copy of Invoice and 
+completion certificate indicating the proof of having successfully completed 
+/supplied and installed similar products to its customers during the last three 
+financial years (2021-22,2022-23 and 2023-24).   
+g) 
+Documentary proof w.r.t registration of OEM and the OEM products for the 
+proposed products in the Trusted Telecom Portal as per DoT Guidelines. 
+h) 
+Documentary evidence for having a support center in at least 4 major cities across 
+India, along with a trouble call escalation matrix to be submitted. 
+i) 
+Product Datasheets, Brochures of the proposed products, etc. 
+j) 
+Compliance to Technical Specifications as in Part-1c 
+k) 
+Declaration from OEM w.r.t product warranty, End of Life, End of Support, etc as 
+per RFP terms. 
+l) 
+Duly filled and signed Technical Compliance Sheet as per Annexure-B in part I-
+D (“Tech-Compliance”) 
+m) Duly filled (and signed) details of proposed product as per Annexure-C in part I-
+D (Components and Products).
+
+[Page 5]
+Page 3 of 54 
+ 
+n) 
+Acceptance to training terms as per Annexure-D in part I-D (Training 
+Requirement). 
+o) 
+Duly filled and signed checklist as per Annexure-E in part I-D 
+p) 
+Duly filled and signed Tender acceptance Letter as per Annexure-F in part I-D 
+q) 
+Bidders shall not be under a declaration of ineligibility for corrupt and fraudulent 
+practices. The declaration for non-debarment & non-blacklisting has to be 
+submitted as per format specified in Annexure-G 
+r) 
+NDA as per Annexure –H in part I-D. 
+s) 
+No subcontracting is allowed. Declaration attested by the authorized signatory on 
+the company letterhead. 
+t) 
+Acceptance of the Scope of work as per the bid document at Part I-B. Self-
+attested and signed scope of works document to be submitted. 
+u) 
+Acceptance of the payment terms, penalty and liquidated damages (LD) as 
+per the bid document at Part I-B. 
+v) 
+Certificate of Conformity/ No Deviation. Compliance needs to be provided on 
+letterhead as per the format at Annexure -I to be submitted. 
+w) 
+Board Resolution or Power of Attorney for the Authorised Signatory shall be 
+submitted as per as per format at Annexure -J. 
+x) 
+EMD / Bid security Declaration as per format at Annexure -K. 
+y) 
+Declaration from MSME vendor for declaration of UAM numbers with GeM portal. 
+z) 
+Vulnerability Assessment and Penetration Testing (VAPT) Report of the quoted 
+products 
+aa) Any other related supporting documents. 
+ 
+II. Contents of Price Bid: 
+ 
+The price bid is as per the Annexure-BOQ format, filled BOQ shall be uploaded by the 
+bidders in the GEM portal.  
+ 
+III. Bidders shall not be under a declaration of ineligibility for corrupt and fraudulent practices. 
+The declaration is to be submitted by the bidders as per format specified in Annexure-G. 
+ 
+IV. STPI reserves the right to cancel/withdraw the bid without assigning any reasons for such 
+a decision. Such a decision will not incur any liability whatsoever on the part of STPI. 
+ 
+V. Bidders shall adhere to the procedure and processes laid down in this document and shall 
+follow fair and ethical practices of trade.   
+ 
+VI. Deadline for Submission of Bids 
+ 
+a. Bids must be submitted online within the due time, date specified in the tender.   
+b. STPI may extend this deadline for submission of bids by amending the bid documents.  
+This will be suitably notified on the websites www.stpi.in and https://gem.gov.in/ 
+ 
+VII. STPI reserves the right to accept the offer in full or in parts or reject it summarily. 
+ 
+VIII. Comparison of Bids: STPI will compare the bids from the short-listed bidders.
+
+[Page 6]
+Page 4 of 54 
+ 
+IX. The bidding process is stipulated in the tender document clearly. In case of any 
+clarifications about the bidding process/eligibility criteria the bidders may seek 
+clarification during the pre-bid meeting or through GeM Portal in  prior to the pre-bid 
+meeting. The clarifications sought after the pre-bid meeting will not be entertained. 
+ 
+X. The award of contract shall be hosted on the website www.stpi.in/ &  https://gem.gov.in/ .  
+The reason for non-selection shall be disclosed on bidder written requests for the same. 
+ 
+XI. STPI reserves the right to increase/decrease the quantity of said Networking devices 
+buby 25%, as per GeM terms, during the execution & the successful bidder shall supply 
+the additional quantity at the quoted unit prices.
+
+[Page 7]
+Page 5 of 54 
+ 
+3. PART I-A: GENERAL TERMS AND CONDITIONS OF TENDER  
+ 
+I. The tender should be submitted online only on https://gem.gov.in/  
+ 
+II. Quotations shall be submitted for Supply, Installation, Testing, Commissioning and 
+Training of Routers, Layer-3 Switches and Layer-2 Switches with Product Warranty for 
+a minimum period of 5 years. 
+ 
+a. 
+Bid validity: The tender submitted should be valid for 180 days from the date of 
+opening of the bid. 
+ 
+b. 
+STPI may ask for the bidder’s consent to extend the period of validity.  Such a 
+request and the response shall be made in writing only.  The bidder is free not to 
+accept such a request without forfeiting the EMD. A bidder agreeing to the request 
+for extension will not be permitted to modify their bid. 
+ 
+III. Only net rates with break-up shall be quoted for the period of the arrangement.  
+Tenderers/bidders are advised to exercise the greatest care in offering the rates. 
+ 
+IV. Earnest Money Deposit (EMD) 
+ 
+a. EMD / Bid security for an amount of Rs. 10,00,000/- (Rupees Ten Lakhs only) in the 
+form of RTGS/NEFT, in favour of STPI, payable at New Delhi has to be submitted 
+along with the bid. Bank details mentioned below: - 
+ 
+Bank Name-Bank of India 
+Account No.- 604810100000661 
+IFS Code- BKID0006048 
+ 
+ 
+ 
+b. The Copy of EMD/Bid Security Declaration should be submitted along with the bid 
+document, within the bid submission date and time of the tender, failing which the 
+offer will be liable for rejection. 
+c. EMD will not be accepted in the form of cash/cheque. No interest is payable on EMD.  
+d. The EMD will be returned to the bidder whose offer is not accepted by STPI.  
+e. The bidder whose offer is accepted, the EMD will be returned on submission of the 
+PBG of 10% of the total PO value.  
+f. The PBG will be valid till the warranty period, i.e. 5 years plus 60 days. 
+g. However, if the return of EMD is delayed for any reason, no interest/penalty shall be 
+payable to the bidder. 
+h. The successful bidder, on award of contract/order, must send the contract/order 
+acceptance in writing, within 7 working days of award of contract/order, failing which 
+the EMD will be forfeited. 
+i. The EMD shall be forfeited if the bidder withdraws the bid during the period of bid 
+validity specified in the tender.  
+j. The following categories of bidders shall, however, be exempted from furnishing 
+EMD/Bid Security:
+
+[Page 8]
+Page 6 of 54 
+ 
+i) 
+Micro and Small Enterprises (MSEs) who are holding valid Udyam Registration 
+and are manufacturers of the offered Product or Service (Primary Product / 
+Service - in case of bunch bid with total valuewise evaluation) and give specific 
+confirmation to this effect at the time of bid submission and claim EMD exemption 
+and whose credentials are validated online through Udyam Registration website 
+of Ministry of MSME and also through supporting document uploaded during 
+bidding process and validated by the purchaser.  
+ii) Start-ups as recognized by the Department for Promotion of Industry and Internal 
+Trade (DPIIT), holding a valid Startup Recognition Certificate, which is to be 
+uploaded while bidding and claiming EMD exemption and to be validated by the 
+Buyer. Bidder to ensure that turnover for any of the financial years has not 
+exceeded the limits prescribed in the certificate / Start-Up scheme of DPIIT.  
+iii) Sellers / Service Provider having an annual turnover of ₹ 500 Crore or more, at 
+least in one of the past three completed financial year (s). 
+iv) Central / State PSUs. 
+ 
+k. Bidders who are exempted from furnishing bid security as per the above clause are 
+required to furnish a bid security declaration as per the format given at Annexure -K. 
+ 
+V. PERFORMANCE SECURITY:  
+ 
+a) The successful bidder shall furnish performance security to the purchaser for an 
+amount equal to 10% of the Purchase Order value within 14 days from the date of 
+issue of the Purchase Order by the Purchaser. 
+b) The security performance shall be in the form of a Bank Guarantee issued by a 
+Nationalised/Scheduled Bank and in the form provided in Annexure-L of this Bid 
+document. 
+c) The performance security bond shall be valid for a total period of 5 years + 60 days.  
+d) The performance security Bond will be released by the Purchaser after completion of 
+the successful bidder’s performance obligations. 
+ 
+VI. The contracts concluded by STPI are subject to the final approval of the Competent 
+Authority, STPI. 
+ 
+VII. Company/Firm blacklisted by Govt./Autonomous Body/PSU/Corporate organisation are 
+not eligible to Bid. If at any stage of the bidding process or during the currency of the 
+contract, such information comes to the knowledge of STPI, the STPI shall have the 
+right to reject the bid and forfeit the bid security or terminate the contract, as the case 
+may be, without any compensation to the bidder. 
+ 
+VIII. Interpretation of the clauses in the Tender Document / Contract Document: In case of 
+any ambiguity/dispute in the interpretation of any of the clauses in this Tender Document, 
+the interpretation of the clauses by the Competent Authority, STPI, shall be final and 
+binding on all parties. 
+ 
+IX. RESOLUTION OF DISPUTES  
+Any dispute or difference arising out of or in connection with this RFP shall be settled 
+amicably through mutual consultation and negotiation between the Parties in good faith, 
+and by all reasonable and appropriate means. Failing which, the unresolved
+
+[Page 9]
+Page 7 of 54 
+ 
+disputes/issues, as the case may be, between the Parties shall be finally settled by 
+arbitration by a sole arbitrator, appointed by the Parties jointly, and in accordance with 
+the provisions of the Indian Arbitration and Conciliation Act, 1996, and any statutory 
+modification or amendment thereof, as made from time to time. The language of 
+arbitration shall be English. The seat and venue of arbitration proceedings shall be New 
+Delhi, India, and the arbitral award made in pursuance thereof shall be binding on the 
+Parties. 
+All documents and communications between the parties shall be in English.  However, 
+the expenses incurred by each party in connection with the preparation, presentation 
+shall be borne by the party itself.   
+ 
+X. ELIGIBILITY CRITERIA 
+ 
+# 
+Eligibility Criteria 
+Supporting document to be 
+submitted 
+1. 
+The Bidder should be legal entity 
+registered in India as a firm/ company 
+/sole proprietorship/ partnership and must 
+be 
+registered 
+with 
+the 
+appropriate 
+authority in India for at least the past 5 
+years 
+Copy of Certificate of Registration / 
+Incorporation of the firm/ company. 
+ 
+ 
+2 
+Bidder must have valid PAN, GST, 
+MSME/UAM 
+Registration 
+/statutory 
+compliances as applicable to this tender. 
+Need to provide a Self-attested 
+photocopy of valid Certificates such as 
+PAN, GST, MSME/UAM Registration 
+3 
+The Bidder shall be either an Original 
+Equipment Manufacturer (OEM) or an 
+authorized certified partner of an OEM. 
+Copy of certificate authorized by 
+OEMs 
+/ 
+OEMs 
+certificate 
+and 
+Manufacturer’s Authorization Forms 
+(MAFs) from OEM authorizing bidder 
+to participate in the referred tender to 
+be submitted. 
+4 
+The bidder should have support centres 
+in a minimum of 4 major cities across 
+India. 
+ 
+ 
+Documentary evidence for having 
+support centers in a minimum of 4 
+major cities across India, along with a 
+trouble call escalation matrix to be 
+submitted. 
+6 
+Financial Turnover: The average annual 
+turnover of the bidder for the last three 
+years should be at least Rs. 2.5 Crore (i.e. 
+2021-22, 2022-23, 2023-24). 
+Copy of the Audited balance sheet and 
+IT returns for the past 3 financial years. 
+(2021-22, 20220-23, 2023-24). 
+ 
+7 
+Project Experience: The bidder should 
+have executed similar projects (such as 
+supply, 
+installation, 
+testing 
+and 
+commissioning of Routers and Switches) 
+to the customers in India in the last three 
+financial years (i.e. FY 2021-22, 2022-23 
+and 2023-24.  
+Documentary evidence of experience, 
+such as a copy of the Purchase Order, 
+Invoice and completion certificate. 
+• 1 similar completed work order 
+costing not less than Rs.  4 Cr. 
+or 
+• 2 similar completed work orders 
+costing not less than Rs. 2.5 Cr.
+
+[Page 10]
+Page 8 of 54 
+ 
+or 
+• 3 similar completed works orders 
+costing not less than Rs. 2 Cr. 
+ 
+AND 
+ 
+Bidder should have supplied similar 
+products to a minimum of 80% of the 
+proposed quantity as per this RFP. 
+ 
+Note: The work order should be issued 
+after 1st April, 2021 
+8 
+The proposed products shall be listed in 
+the Trusted Telecom Portal as per DoT 
+Guidelines. 
+Documentary proof w.r.t registration of 
+OEM and the OEM products for the 
+proposed products in the Trusted 
+Telecom Portal as per DoT Guidelines 
+9 
+The bidder shall submit the relevant 
+Documents (i.e. Brochures, Warranty 
+Certificate, 
+Certificate 
+of 
+conformity, 
+Power of Attorney, Copy of EMD/ Bid 
+security Declaration, etc.) w.r.t the 
+proposed products / as per RFP terms. 
+• Product 
+Datasheets 
+of 
+the 
+proposed product. 
+• Declaration from OEM w.r.t product 
+warranty, End of Life, End of 
+Support, etc, as per RFP terms 
+• Certificate 
+of 
+Conformity/ 
+No 
+Deviation. Compliance needs to be 
+provided on bidder’s letterhead (as 
+per format at Annexure -I) 
+• Board Resolution or Power of 
+Attorney 
+for 
+the 
+Authorised 
+Signatory shall be submitted as per 
+the format at Annexure –J 
+• EMD/ Bid security Declaration as 
+per format at Annexure –K 
+• Declaration from MSME vendor for 
+declaration of UAM numbers with 
+the GeM portal 
+• Any 
+other 
+related 
+supporting 
+documents 
+10 Bidder shall submit the compliance sheet 
+and tender Acceptance form as per the 
+RFP terms 
+• Compliance 
+to 
+Technical 
+Specifications as in Part-1c 
+• Duly Filled and signed Technical 
+Compliance 
+Sheet 
+as 
+per 
+Annexure-B in part I-D (“Tech-
+Compliance”) 
+• Duly filled (and signed) details of 
+proposed 
+product 
+as 
+per 
+Annexure-C 
+in 
+part 
+I-D 
+(Components and Products). 
+• Duly filled and signed checklist as 
+per Annexure-E in part I-D
+
+[Page 11]
+Page 9 of 54 
+ 
+• Duly filled and signed Tender 
+acceptance 
+Letter 
+as 
+per 
+Annexure-F in part I-D 
+• NDA as per Annexure –H in part I-
+D. 
+11 Bidders should not be under a declaration 
+of ineligibility for corrupt and fraudulent 
+practices. 
+The declaration for non-debarment & 
+non-blacklisting to be submitted as per 
+format specified in Annexure –G. 
+12 Acceptance of the Scope of Work and 
+payment terms, penalty and liquidated 
+damages (LD) as per the RFP Terms 
+(i.e. PartI-B)  
+ 
+Self-attested and signed Scope of 
+Works document to be submitted as 
+per Part I-B and 
+acceptance of the 
+payment terms, penalty and liquidated 
+damages 
+(LD) 
+as 
+per 
+the 
+bid 
+document. 
+13 At the time of bid submission, the 
+proposed product must be audited by 
+CERT-In empanelled security auditing 
+agency for vulnerability assessment and 
+penetration testing 
+Certificate 
+from 
+the 
+CERT-In 
+empanelled security auditing agency. 
+ 
+Documentary proof of the above shall be submitted. The scanned copy of the document 
+should be uploaded at the time of online submission. 
+ 
+XI. Technical & Financial Evaluation 
+ 
+The bidders who fulfil the minimum eligibility criteria will be considered for Technical 
+Evaluation. The Technical Evaluation process will be based on the Least Cost Based 
+Selection (LCBS) Option. As part of the Technical Evaluation process, the bidders will be 
+assigned the Technical Score against various attributes as per the Table below. The bidders 
+will be called for the technical presentation. The bidders are also required to carry out the 
+Proof of Concept (PoC) / Demonstration of the Technical specifications of all the quoted 
+products as per the RFP.   
+ 
+The bidder is required to score a minimum of 75 marks to qualify for the Technical 
+Evaluation stage. The financial bids of only the technically qualified bidders will be 
+considered for financial bid evaluation.  
+ 
+The Financial evaluation is based on the lowest evaluated commercial bid (L1). The 
+technically qualified bidder whose bid has been determined as the lowest evaluated 
+commercial bid (L1) will be considered as the Successful bidder. 
+ 
+Table: Technical Scoring 
+Sl.No Technical 
+Qualification 
+Criteria 
+Max 
+Marks 
+Scoring Method 
+1.  Relevant 
+Quality 
+Certifications for all quoted 
+products: Common Criteria 
+certification 
+of 
+EAL2/NDPP/MEF 3.0 or its 
+ 
+5 
+ 
+ 
+Common 
+criteria 
+certification 
+of 
+EAL2/NDPP/MEF 3.0 or its equivalent 
+or above for the proposed Products -5 
+Marks
+
+[Page 12]
+Page 10 of 54 
+ 
+equivalent or above for the 
+proposed Products 
+2.  Financial Turnover: Annual 
+Average turnover of the bidder 
+for the last three years should 
+be at least Rs. 2.5 Crore. Copy 
+of Audited balance sheet and IT 
+returns for the past 3 financial 
+years. (i.e. 2021-22, 2022-23, 
+2023-24) 
+ 
+20 
+Average of Annual turnover for 
+prescribed 3 years will be considered 
+and marks will be given as follows: 
+ 
+• Rs 2.5 Crore – 10 Crore -10 marks 
+• Rs 10 Crore – 25 Crore -15 marks 
+• Above Rs 25 Crore - 20 marks 
+3.  Project 
+Experience: 
+The 
+bidder should have executed 
+similar project (such as supply, 
+installation, 
+testing 
+and 
+commissioning of Routers and 
+Switches) to any central / State 
+Govt. offices/PSU/ private units 
+in India in last three financial 
+years (i.e. FY 2021-22, 2022-23 
+and 2023-24  
+25 
+Marks shall be provided for the 
+multiple similar work having deployed 
+IT resources listed in the Resource 
+category: 
+• Total Work / Purchase order value 
+of Rs 4 Cr – Rs 10 Cr: 10 Marks 
+• Total Work / Purchase order value 
+of above Rs 10 Cr – Rs 25 Cr: 15 
+Marks 
+• Total Work / Purchase order value 
+of above 25 Cr: 20 Marks 
+• From the above Purchase / Work 
+Orders, if any order belongs to 
+central / State Govt. offices / PSU 
+with the value of Rs 10 Cr or above 
+additional Marks shall be awarded: 
+5 Marks 
+4.  No. of years in operation 
+10 
+• 3 years to 5 years - 5 Marks 
+• 5 years to 10 years -8 Marks 
+• Above 10 years -10 Marks 
+5.  Presentation by bidder 
+ 
+10 
+• Bidders’ Capabilities: 5 Marks 
+• Overall Project Execution Plan:2.5 
+Marks  
+• Implementation Schedule/Plan:2.5 
+Marks 
+6.  Proof of Concept (PoC) and 
+VAPT 
+30 
+POC of the proposed product against 
+the 
+Technical 
+Specifications 
+mentioned in the RFP- 30 Marks 
+ 
+ 
+XII. AWARD OF CONTRACT 
+ 
+a. STPI shall award the contract to the eligible bidder whose bid has been 
+determined as the lowest evaluated commercial bid (L1). 
+ 
+b. Purchase order shall be placed on the successful bidder by STPI as listed at 
+Annexure–A for supply of Network devices as listed. However, the invoices will 
+be generated by the bidder as per the place of supply.
+
+[Page 13]
+Page 11 of 54
+
+[Page 14]
+Page 12 of 54 
+ 
+4. PART I-B: SCOPE OF WORK 
+ 
+I. 
+The Bidder must supply Network Devices, i.e., Routers, LAYER-3 Switches and 
+LAYER-2 Switches in accordance with the specifications mentioned in part I-C. The 
+bidder shall ensure the successful installation, configuration, testing, commissioning 
+and training of Routers, LAYER-3 Switches and LAYER-2 Switches in the STPI 
+Directorates and its sub-centers network.  
+ 
+II. 
+The summary of Network Devices proposed for procurement as per the referred RFP 
+is as per Table A below: 
+                                                                         Table A 
+ 
+Router 
+Layer-3 Switch 48-Port Layer-2 Switch 24-Port 
+Total 
+21 
+35 
+34 
+90 
+ 
+III. 
+Proposed   Product   should   be   seamlessly   integrated with   existing STPI 
+Directorate and its sub-centers Heterogeneous Network (i.e. ISP Link Termination, 
+BGP, OSPF, VLAN, STP configurations etc.) which consists of Cisco, Juniper, D-link, 
+Extreme, Huawei Make equipment, failing which STPI have all rights to reject the 
+product and the bid. 
+ 
+IV. 
+The proposed product should have not been announced for “End of Sale”, “End of 
+Support “and “End of Life” by the respective OEM till the end date of bid submission. 
+Declaration from OEM must be submitted. 
+ 
+V. 
+Partial bidding is not allowed. The bidder is required to quote for all the Networking 
+Devices listed for the STPI locations. 
+ 
+VI. 
+Documentation: The supplier shall provide the following documents: 
+i. Installation Report 
+ii. Product / user manuals 
+iii. Test Reports 
+ 
+VII. 
+Training: Successful bidder shall provide the training along with the training materials 
+on the proposed product for a minimum of 30 members for a minimum duration of 2 
+days. The participation certificate is to be issued to the participants. The tentative 
+contents of the training are attached as Annexure-D which covers the training 
+requirement of STPI. The exact number of members for training, venue and mode of 
+training will be intimated later. 
+ 
+VIII. 
+Warranty Period support: The successful bidder shall provide Warranty Period 
+Support, including hardware support for a minimum period of 5 years from the date 
+of successful installation and acceptance by respective STPI center.  This warranty 
+should cover both parts and onsite support. 
+a) OEM must authenticate the above-mentioned warranty period and the certificate 
+of the same should be produced.  
+b) OEM shall support the proposed product (both hardware and software) for at 
+least 6 years from the date of installation at the respective STPI centre. 
+Declaration from OEM to be submitted.
+
+[Page 15]
+Page 13 of 54 
+ 
+c) In case OEM declares End of Support (EoS) before the warranty/Support period, 
+the bidder has to replace the device with product which is compatible, equivalent 
+or better specification without any cost to STPI. 
+ 
+IX. 
+Service Norms: The Bidder must follow the Service norms during the warranty 
+period as below: 
+a) 
+Response Time: Immediate after call logging (Not more than 30 Minutes). 
+b) 
+Resolution Time (for Non-Hardware Related Issues): 4 Hours or Less. 
+c) 
+Resolution Time (For Hardware Related Issues): 8 Hours or less 
+d) 
+Service Hours: 24/7 Service Support should be provided. 
+e) 
+Faulty Hardware Replacement: Next Business Day (NBD) for all STPI Centers.  
+f) 
+Support includes hardware, software/firmware and configurations support of 
+the product from OEM. 
+g) 
+In case of replacement for faulty spare parts, it should be compatible and of 
+the same make and same model or better specification is with mutual consent 
+without any cost to STPI. 
+h) 
+In case delay is beyond the response / resolution time indicated above in 
+repair/replacement of faulty hardware, penalty of 1% of Purchase Order (PO) 
+value of the respective line-item per day up to maximum of 10%.  
+i) 
+In case the device is not repairable during the warranty, compatible device of 
+same or equivalent specification of the faulty device is to be provided by the 
+bidder with no cost to STPI. 
+j) 
+Based on STPI’s requirement, configuration support should be provided w.r.t 
+the proposed products. 
+k) 
+In case of Upgradation of firmware is needed, the upgradation should be 
+carried out timely with latest stable version. 
+ 
+X. 
+Delivery/Execution of order: Successful bidder shall supply the products/equipment 
+to the referred delivery address within ten (10) weeks from the date of issue of 
+Purchase Order to the mentioned delivery address. The installation, configuration, 
+testing and commissioning should be completed by the bidder within four (4) weeks 
+upon the supply of products /equipment at site as per the POA provided by STPI. The 
+end-to-end supply, Installation & Commissioning, needs to be completed within 14 
+weeks of receipt of the Purchase Order. In case of delay, the penalty clause shall be 
+applicable as per prevailing norms. (1 % of PO cost per week with a maximum of 
+8 weeks delay). Delaying beyond 8 weeks may lead to cancellation of PO, forfeiture 
+of PBG and disallowing of participation in future STPI tenders for a minimum of 1 
+year. In case the product/Equipment is not complying to the technical specifications 
+as per Part 1-C, the product / Equipment shall be rejected with forfeiture of 
+Performance Security and the necessary information will be circulated to the 
+concerned authorities including NSIC authorities (for the bidders registered with 
+NSIC), disallowing participation of the bidder in future tenders of STPI and others. 
+The items are to be delivered to the STPI locations as per Annexure-A. 
+ 
+XI. 
+Support Centre: The bidder/OEM shall have support centers at least 4 major cities 
+across India. The bidder should furnish the Escalation matrix including names, 
+locations, complete postal address and telephone numbers of all technical support 
+centers and also alternate contact persons including bidder. Any change in the above 
+details shall have to be intimated in writing by the bidder to STPI at the earliest.
+
+[Page 16]
+Page 14 of 54 
+ 
+ 
+XII. 
+Payment: No advance payment will be made. 100% payment will be released after 
+completion of testing, installation, training & submission of warranty certificate.  
+ 
+XIII. 
+Liquidity Damages: Purchases/Contracts are subject to Liquidity Damages. 
+Deviation in any of the terms of the PO with due acceptance from STPI will not attract 
+any liquidity damages. The following liquidity damages are levied if there is a delay 
+in the delivery schedule defined in the Purchase Order: 
+a) Within one week from scheduled delivery and Installation (i.e. 14 weeks) terms - 
+1% of order value. 
+b) Every successive week - 1% of order value. 
+c) Maximum – 8 % of order value for 8 weeks, beyond 8 weeks may lead to 
+cancellation of PO and forfeiture of PBG amount.  
+d) In case the bidder fails to extend support during the warranty period as per RFP 
+terms, it will lead to forfeiture of balance amount which is due for payment and PBG. 
+Further, the bidder will be debarred from participating in all the ongoing and future 
+procurement tenders across STPI-Centers for a minimum of 1 year period. 
+ 
+XIV. 
+Non-Disclosure Agreement (NDA)   
+ 
+The successful bidder has to enter into NDA as per the Annexure-H. The NDA shall be 
+submitted along with the acceptance of the Purchase Order.
+
+[Page 17]
+Page 15 of 54 
+ 
+5. PART I-C: TECHNICAL SPECIFICATION 
+ 
+The models of Routers, LAYER-3 switches and LAYER-2 Switches proposed by the bidders 
+shall meet all the specifications mentioned in the table below:  
+ 
+Sl.No 
+SPECIFICATION 
+I. 
+Router 
+1 
+Hardware Architecture / General Description 
+ 
+a) The Router should have at least an 8-Port Gigabit Ethernet Routed 
+Interface (10/100/1000 TX RJ 45 Type).  
+b) The Router should have at least a 4-port 10 Gigabit Ethernet Routed 
+Interface of SFP+, LC connector, LX Type (to support Single Mode Fiber). 
+The SFP+ transceiver should be supplied along with the router. 
+c) Should have a minimum of 4 GB RAM and should be capable of handling 
+multiple BGP sessions with full internet Routes (i.e. 10 Lakh IPv4/5 Lakh 
+IPv6) from day one. (Scalable to support up to 8 GB RAM). 
+d) Should have the latest stable version of the Operating System. 
+e) Should be scalable to support an additional 4-Port Gigabit Ethernet Routed 
+Interface. 
+f) Throughput should support a minimum of 50 Gbps full duplex. 
+g) Should support a minimum of 10 Lakhs IPv4 routes/5 Lakhs IPv6 Internet 
+routes (FIB) from day one. 
+h) Should support MPLS (CE) 
+i) Should have an inbuilt Redundant Power supply. Failure of one power 
+supply should not cause the Router failure or performance degradation 
+j) Should support both IPv4 and IPv6 feature set simultaneously (Including 
+dual stack). 
+k) Should be Rack mountable 
+l) Power Supply 220 ~ 240 Volt AC, 50 Hz 
+m) OEM should not have announced the “End of Sale”/ “End of Support “/ “End 
+of Life” for the proposed product. 
+n) OEM should support the proposed product for at least 6 years from the 
+date of Installation. 
+o) Warranty of the proposed product should be for 5 years from the date of 
+Installation of the respective STPI Centre. 
+p) Proposed product should be registered in the “Trusted Telecom Portal” of 
+DOT, documentary evidence/Declaration letter for the same shall be 
+submitted. 
+q) The proposed hardware or its operating system shall meet the relevant 
+International 
+Telecommunication 
+Union 
+or 
+Telecommunication 
+Engineering Centre (“TEC”) standards as per MTCTE or as specified by 
+DoT dated 31.03.2015. The proposed hardware or its operating system 
+shall also meet common criteria certification of EAL2/NDPP/MEF 3.0 or its 
+equivalent or above for the proposed Products. Copy of the supporting 
+documents shall be furnished.
+
+[Page 18]
+Page 16 of 54 
+ 
+r) The proposed product should be capable of handling all the required 
+features without performance degradation from day one. 
+   2 
+Interfaces 
+ 
+a) The Router should have at least 8-port Gigabit Ethernet Routed Interface 
+(10/100/1000 TX RJ45 Type) 
+b) The Router should have at least a 4-Port 10 Gigabit Ethernet Routed 
+Interface of SFP, LC connector LX Type (to support Single Mode Fiber). 
+3 
+Performance 
+ 
+a) Should have a minimum of 50 Gbps throughput or above. 
+b) Should support a minimum of 10 Lakhs IPv4 routes/5 Lakhs IPv6 Internet 
+routes (FIB) from day one. 
+c) Should support a minimum of 2 eBGP sessions with full IPv4 and IPv6 
+internet routes simultaneously from day one. 
+d) Should support Sub interface creation with IEEE 802.1Q VLAN 
+Encapsulation, IP addresses assignment (IPv4 & IPv6) and bandwidth 
+restriction based on interfaces. 
+4 
+Features 
+ 
+a)  IPv4 and IPv6 
+b) Static Routing 
+c) OSPF v2 and OSPF v3 (IPv6) 
+d) LAYER-3 VPN, 500 VRF from day-1 
+e) Full functionality of BGPv4 (Both IPv4 and IPv6) 
+f) VRRP or equivalent 
+g) Dual stack supporting both IPv4 and IPv6 feature set simultaneously. 
+h) Hardware and Software configuration of the router should support IPv6 
+from day one. 
+i) The proposed product should have a permanent IPv6 license to support 
+IPv6 features from day one.  
+j) Should support multicast protocols like PIM-SSM/SM, mVPN, P2MP-TE, 
+IGMP, minimum 50 mVRF 
+k) Policy-based routing  
+l) Port Channel/Ether Channel from day 
+5 
+Security features 
+ 
+a) AAA and RADIUS Authentication. 
+b) Access-list support for both IPv4 & IPv6, and it should be able to log the 
+access-list traffic for monitoring. 
+c) SSH protocol version 2 and above. 
+6 
+Quality of Service (QoS) & Control 
+ 
+a) Sub-interface Based Rate limiting / Traffic shaping for Bandwidth 
+allocation. 
+b) Port-based rate limiting / Traffic shaping for Bandwidth allocation. 
+c) Per Sub interface bandwidth utilization monitoring through CLI and SNMP. 
+d) Standard 802.1p CoS and DSCP. 
+7 
+Management
+
+[Page 19]
+Page 17 of 54 
+ 
+ 
+a) Shall support SNMP v1/v2c/v3. 
+b) Should support Link layer discovery protocol. 
+c) Shall support management using CLI / GUI. 
+d) Should support NTP. 
+e) Should support packet capture mechanisms like sFlow/NetFlow. 
+f) Manageability on Per Port Basis. 
+g) Shall support FTP/TFTP.  
+h) Shall support Netconf/Yang model 
+8 
+Standards to be supported 
+ 
+a) IEEE 802.1 x (User Authentication) 
+b) IEEE 802.3 ad/ IEEE 802.1AX (Link Aggregation) 
+c) IEEE  802.3 x (Flow Control) 
+d) IEEE 802.1 p  class-of-service (CoS) prioritization 
+e) IEEE 802.1Q ( VLAN Encapsulation) 
+ 
+ 
+II. 
+Layer-3 Switch 
+1 
+   Hardware Architecture / General Description 
+  
+a) The Switch should have at least a 48-Port Gigabit Ethernet Interface 
+(10/100/1000 TX RJ45 Type)  
+b) The Switch should have at least a 4-Port 1/10 (dual rate) Gigabit Ethernet 
+Interface of SFP+, LC connector, LX Type (to support Single Mode Fiber). 
+The SFP+ transceiver should be supplied along with the switch. 
+c) Should have a minimum of 2 GB RAM and 4 GB Flash.  
+d) Should have the latest stable version of the Operating System. 
+e) Throughput should support a minimum of 176 Gbps of non-blocking 
+switching capacity and 130 Mpps of wire-speed forwarding rate 
+architecture. 
+f)  Should support layer 3 (IPv4 and IPv6) functionality. 
+g) Should support full BGP with default Routes from day one 
+h) Should support both IPv4 and IPv6 feature set simultaneously (Including 
+dual stack). 
+i)  Should be Rack mountable. 
+j)  Power Supply 220 ~ 240 Volt AC, 50 Hz input  
+k) OEM should not have announced the “End of Sale”/ “End of Support” / “End 
+of Life” for the proposed product. 
+l) OEM should support the proposed product for at least 6 years from the 
+date of Installation. 
+m) Warranty of the proposed product should be for the period of 5 years from 
+the date of Installation of the respective STPI Centre. 
+n) Proposed product should be registered in “Trusted Telecom Portal” of DOT, 
+documentary evidence/Declaration letter for the same shall be submitted. 
+o) The proposed hardware or its operating system shall meet the relevant 
+International 
+Telecommunication 
+Union 
+or 
+Telecommunication 
+Engineering Centre (“TEC”) standards as per MTCTE or as specified by 
+DoT dated 31.03.2015. The proposed hardware or its operating system
+
+[Page 20]
+Page 18 of 54 
+ 
+shall also meet common criteria certification of EAL2/NDPP/Protection 
+Profile or its equivalent or above for the proposed Products. A copy of the 
+supporting documents shall be furnished. 
+p) The proposed product should be capable of handling all the required 
+features without performance degradation from day one. 
+q) Should be populated with Redundant power supplies from day 1. 
+2 
+Interfaces 
+ 
+a) The Switch should have at least a 48-Port Gigabit Ethernet Interface 
+(10/100/1000 TX RJ45 Type)  
+b) The Switch should have at least 4-Port 1/10 (dual rate) Gigabit Ethernet 
+Interface of SFP+, LC connector, LX Type (to support Single Mode Fiber). 
+3 
+Performance 
+ 
+a) Should have a minimum of 176 Gbps of non-blocking switching fabric or 
+above. 
+b) Should have a minimum of 130 Mpps wire-speed forwarding rate or above. 
+c) Should support full BGP With Default Routes from day one 
+d) The switch should support stacking from day 1 with stacking /MLAG 
+throughput of a minimum 80 Gbps.  
+4 
+Layer-3 Features 
+ 
+a) IPv4 and IPv6 
+b) Static Routing 
+c) OSPF v2 and OSPF v3 (IPv6) 
+d) Should support full BGP with Default Routes 
+e) Dual stack supporting both IPv4 and IPv6 feature set simultaneously. 
+f) Hardware and Software configuration of the Switch should support IPv6 
+from day one. 
+g) The proposed product should have a permanent IPv6 license to support 
+IPv6 features from day one.  
+h) Port Channel/Ether Channel from day one 
+5 
+Layer-2 Features 
+ 
+a) Should support IEEE 802.1Q VLAN Encapsulation 
+b) Should support a minimum of 500 VLANs and 4,000 VLAN IDs. 
+c) Should support Internet Group Management Protocol (IGMP) & Multicast 
+Listener Discovery (MLD) Snooping.  
+d) Should support Spanning-tree protocol. 
+e)  Should support Layer 2 ACLs 
+f) Should support Link Aggregation Control Protocol (LACP) 
+g) Should support Port trunking capability. 
+h) Should support Port mirroring capability. 
+i) The switch should be populated with Redundant power supplies from day-
+1 
+6 
+Security features
+
+[Page 21]
+Page 19 of 54 
+ 
+ 
+a) AAA and RADIUS Authentication. 
+b) Access-list support for both IPv4 & IPv6 and it should be able to log the 
+access-list traffic for monitoring. 
+c) SSH protocol version 2 and above. 
+7 
+Quality of Service (QoS) & Control 
+ 
+a) Port-based and VLAN Based Rate limiting / Traffic shaping for Bandwidth 
+allocation. 
+b) Per port and VLAN bandwidth utilization monitoring through CLI and SNMP 
+8 
+Management 
+ 
+a) Shall support SNMP v1/v2c/v3. 
+b)  Should support Link layer discovery protocol. 
+c) Shall support management using CLI / GUI. 
+d) Should support NTP. 
+e) Should support packet capture mechanisms like sFlow/NetFlow. 
+f) Manageability on Per Port Basis. 
+g) Shall support FTP/TFTP. 
+h) Should support NETCONF/YANG model. 
+9 
+Standards to be supported 
+ 
+a) IEEE 802.1 D  Spanning-Tree Protocol 
+b) IEEE 802.1 w (Rapid Spanning Tree  Protocol ) 
+c) IEEE 802.1 x (User Authentication) 
+d) IEEE 802.3 ad/ IEEE 802.1AX (Link Aggregation)  
+e) IEEE  802.3 x (Flow Control) 
+f) IEEE 802.1Q ( VLAN Encapsulation)
+
+[Page 22]
+Page 20 of 54 
+ 
+III. 
+Layer-2 Switch 
+1 
+   Hardware Architecture / General Description 
+  
+a) The Switch should have at least a 24-Port Gigabit Ethernet Interface 
+(10/100/1000 TX RJ45 Type)  
+b) The Switch should have at least a 4-Port 1/10 (dual rate) Gigabit Ethernet 
+Interface of SFP+, LC connector, LX Type (to support Single Mode Fiber). 
+The SFP+ transceiver should be supplied along with the switch. 
+c) Should have a minimum of 1 GB RAM and 4 GB Flash.  
+d) Should have the latest stable version of the Operating System. 
+e) Throughput should support (non-blocking) minimum of 128 Gbps switching 
+capacity and 95Mpps of wire speed forwarding rate. 
+f) Should support both IPv4 and IPv6 feature set simultaneously (Including 
+dual stack). 
+g)  Should be Rack mountable. 
+h)  Power Supply 220 ~ 240 Volt AC, 50 Hz input  
+i) OEM should not have announced the “End of Sale”/ “End of Support”, / 
+“End of Life” for the proposed product. 
+j) OEM should support the proposed product for at least 6 years from the 
+date of Installation. 
+k) Warranty of the proposed product should be for the period of 5 years from 
+the date of Installation of the respective STPI Centre 
+l) Proposed product should be registered in the “Trusted Telecom Portal” of 
+DOT, documentary evidence/Declaration letter for the same shall be 
+submitted. 
+m) The proposed hardware or its operating system shall meet the relevant 
+International 
+Telecommunication 
+Union 
+or 
+Telecommunication 
+Engineering Centre (“TEC”) standards as per MTCTE or as specified by 
+DoT dated 31.03.2015. The proposed hardware or its operating system 
+shall also meet common criteria certification of EAL2/NDPP/MEF 3.0 or its 
+equivalent or above for the proposed Products. A copy of the supporting 
+documents shall be furnished. 
+n) The proposed product should be capable of handling all the required 
+features without performance degradation from day one. 
+2 
+Interfaces 
+ 
+a) The Switch should have at least a 24-port Gigabit Ethernet Interface 
+(10/100/1000 TX RJ45 Type)  
+b) The Switch should have at least a 4-Port 1/10 (dual rate) Gigabit Ethernet 
+Interface of SFP+, LC connector, LX Type (to support Single Mode Fiber). 
+3 
+Performance 
+ 
+a) Should have a minimum of 128 Gbps of non-blocking switching fabric or 
+above. 
+b) Should have a minimum of 95 Mpps forwarding rate or above. 
+c) The switch should support stacking from day 1 for stacking/MLAG  
+throughput of a minimum of 60 Gbps. 
+4 
+Layer-2 Features
+
+[Page 23]
+Page 21 of 54 
+ 
+ 
+a) Should support IEEE 802.1Q VLAN Encapsulation 
+b) Should support a minimum of 500 VLANs and 4,000 VLAN IDs. 
+c) Should support Internet Group Management Protocol (IGMP) & Multicast 
+Listener Discovery (MLD) Snooping. 
+d) Should support Spanning-tree protocol. 
+e)  Should support Layer 2 ACL’s 
+f) Should support Link Aggregation Control Protocol (LACP) 
+g) Should support Port trunking capability. 
+h) Should support Port mirroring capability. 
+5 
+Security features 
+ 
+a) AAA and RADIUS Authentication. 
+b) Access-list support for both IPv4 & IPv6   
+c) SSH protocol version 2 and above. 
+6 
+Quality of Service (QoS) & Control 
+ 
+a) Per port and VLAN bandwidth utilization monitoring through CLI and 
+SNMP. 
+7 
+Management 
+ 
+a) Shall support SNMP v1/v2c/v3. 
+b)  Should support Link Layer Discovery Protocol. 
+c) Shall support management using CLI / GUI. 
+d) Should support NTP. 
+e) Should support packet capture mechanisms like sFlow/NetFlow. 
+f) Manageability on Per Port Basis. 
+g) Shall support FTP/TFTP. 
+h) Should support NETCONF/YANG model. 
+8 
+Standards to be supported 
+ 
+a) IEEE 802.1 D  Spanning-Tree Protocol 
+b) IEEE 802.1 w (Rapid Spanning Tree Protocol) 
+c) IEEE 802.1 x (User Authentication) 
+d) IEEE 802.3ad/ IEEE 802.1AX (Link Aggregation)  
+e) IEEE  802.3 x (Flow Control) 
+f) IEEE 802.1Q (VLAN Encapsulation)
+
+[Page 24]
+Page 22 of 54 
+ 
+6. PART I-D: ANNEXURES AND FORMATS 
+ 
+Annexure-A: Bill of Material - Network Devices across STPI 
+ 
+ 
+Sl.No 
+Particulars  
+(As per the Technical Specification mentioned in the 
+RFP document section Part I-C) 
+Qty 
+1.  
+Routers with all accessories  
+21 
+2.  
+48 Port Layer3 Switch with all accessories 
+35 
+3.  
+24 Port Layer2 Switch with all accessories 
+34 
+4.  
+Installation, Commissioning & Training 
+Lump sum 
+5.  
+Any additional Hardware / software required to meet 
+the specification mentioned in Technical Specification 
+in Part I-C 
+Lump sum 
+6.  
+Applicable taxes 
+ 
+ 
+ 
+Directorate-wise Network Device requirement  
+S. 
+No 
+STPI Directorate 
+& 
+Contact details 
+Delivery Address of 
+STPI Centre & 
+Contact Details 
+Router 
+Layer-3 
+Switch - 
+48 Ports 
+Layer-2 
+Switch - 
+24 Ports 
+1 
+STPI – Pune 
+ 
+Shri Prafulla D. 
+Patinge  
+Email: 
+praful.patinge@st
+pi.in 
+Mob: 
+9822028312  
+  
+STPI, Pune 
+Plot No.P-1, Rajiv Gandhi 
+Infotech Park, MIDC, 
+Phase-1, Hinjawadi, Pune-
+411 057 
+ 
+Mr. Avinash Kumar 
+Email: avinash.k@stpi.in  
+Mobile: 8655400998  /  
+8655400998 
+1 
+3 
+2 
+STPI,Mumbai 
+4th floor, Unit No. 4, 
+Samruddhi Venture Park, 
+MIDC 
+Central 
+Road, 
+Andheri (East), Mumbai-
+400093 
+ 
+Mr. Ashok Kumar Yadav 
+Email: 
+ashok.yadav@stpi.in  
+1 
+1 
+2
+
+[Page 25]
+Page 23 of 54 
+ 
+S. 
+No 
+STPI Directorate 
+& 
+Contact details 
+Delivery Address of 
+STPI Centre & 
+Contact Details 
+Router 
+Layer-3 
+Switch - 
+48 Ports 
+Layer-2 
+Switch - 
+24 Ports 
+Mobile: 
+8637256040 
+/ 
+7738984789 
+STPI,Nagpur 
+Plot No-3, IT Park, 
+Parsodi,Near VRCE 
+Telephone Exchange, 
+Nagpur-440022 
+ 
+Mr. Sanjay Darne 
+Email: 
+sanjay.darne@stpi.in 
+Ph: 7745823994 
+1 
+1 
+0 
+2 
+STPI, Hyderabad 
+ 
+Mr. JG.Manohar 
+Email:manohar.gir
+ija@stpi.in 
+Mob: 9666681530 
+  
+STPI- Network Operations 
+Center                 
+Dr. MCR HRD Institute of 
+Telanagana 
+Road No:- 25, Jubilee 
+Hills, Hyderabad-500033 
+ 
+Mr. JG.Manohar 
+Email:manohar.girija@stpi
+.in 
+Mob: 9666681530 
+2 
+5 
+8 
+STPI,Visakhapatnam 
+VEPZ, Unit No. 9, SDF 
+Building, Near. Duvvada 
+Rly. Station, 
+Vishakapatnam - 530046 
+Andhra Pradesh 
+ 
+Shri P Srinivas  
+Email: srinivas.p@stpi.in 
+Mob: 9032691202 
+1 
+1 
+2 
+STPI,Vijayawada 
+Govt. Polytechnic College 
+, R. S. No. 7 Patamata 
+Village, Vijayawada City - 
+Andhra Pradesh- 520008 
+ 
+Mr. P. Ashoka Kumar, 
+MTS E-II,  
+Email: 
+ashokkumar.p@stpi.in 
+M: 9866308016 
+0 
+2 
+2 
+3 
+STPI, Bhubaneswar 
+2 
+2 
+4
+
+[Page 26]
+Page 24 of 54 
+ 
+S. 
+No 
+STPI Directorate 
+& 
+Contact details 
+Delivery Address of 
+STPI Centre & 
+Contact Details 
+Router 
+Layer-3 
+Switch - 
+48 Ports 
+Layer-2 
+Switch - 
+24 Ports 
+STPI -
+Bhubaneswar 
+ 
+Mr. S R Mohanty 
+Email: 
+s.mohanty@stpi.i
+n 
+Mob: 9418053489 
+STPI-ELITE Tower, Plot 
+No. 2/A, IDCO Industrial 
+Area,  Gothapatna, PO-
+Malipada, Bhubaneswar-
+751003 
+ 
+Mr. Shri. Soumya Ranjan 
+Mohanty 
+Email: s.mohanty@stpi.in 
+M: - 9418053489 
+STPI,Rourkela 
+STPI, Near Pantha Niwas, 
+Sector-5 Rourkela – 
+769002, Odisha 
+ 
+ 
+Shri Jagannath Oraon  
+Email: 
+jagannath.oraon@stpi.in 
+Mob: 9937358079  
+1 
+0 
+1 
+4 
+STPI - Noida 
+ 
+Dr. Sunil Sharma  
+Email: sunil. 
+sharma@stpi.in 
+Mob: 
+9971005237   
+ 
+STPI-Dehradun, 
+IT-01 STPI incubation 
+center 
+Sahastradhara Rd, IT 
+Park 
+Dehradun.Uttarakhand 
+248013 
+ 
+Mr. Neeraj Vashishtha 
+Email: 
+neeraj.vashishtha@stpi.in 
+Mob: 9997833344 
+1 
+3 
+2 
+5 
+STPI - Gurugram 
+ 
+Mr. Amar Singh 
+Meena 
+Email: 
+amar.meena@stp
+i.in 
+Mob: 9811586596 
+STPI-Jaipur 
+Plot No. IT – 21,IT Park 
+EPIP Sitapura,Jaipur 
+Rajasthan 302022 
+ 
+Mr. Om Prakash Mathur 
+Email: op.mathur@stpi.in 
+Mob: 9811762738 
+1 
+1 
+0 
+6 
+STPI - 
+Thiruvananthapu
+ram 
+ 
+Shri Mahesh M.   
+STPI Building, 
+Technopark Campus, 
+Karyavttom, 
+Thiruvananthapuram - 
+695581, Kerala 
+1 
+1 
+ 2
+
+[Page 27]
+Page 25 of 54 
+ 
+S. 
+No 
+STPI Directorate 
+& 
+Contact details 
+Delivery Address of 
+STPI Centre & 
+Contact Details 
+Router 
+Layer-3 
+Switch - 
+48 Ports 
+Layer-2 
+Switch - 
+24 Ports 
+Email: 
+mahesh.m@stpi.i
+n  
+Mob: 9446080992 
+ 
+Shri Mahesh M.   
+Email: mahesh.m@stpi.in  
+Mob: 9446080992 
+7 
+STPI - Kolkata 
+ 
+Mr. 
+Dr. 
+Manas 
+Ray. 
+Email: 
+manas.ray@stpi.i
+n 
+Mob: 9869462660 
+STPI-Kolkata 
+2nd Floor,Webel STP II 
+Building 
+DN – 53,Sector- V,Salt 
+Lake 
+Kolkata -700091,West 
+Bengal 
+ 
+Mr. Dr. Manas Ray. 
+Email: manas.ray@stpi.in 
+Mob: 9869462660 
+1 
+1 
+0 
+8 
+STPI - Bengaluru 
+ 
+Mr. Manoj Kumar 
+Singh 
+Email: 
+manojkumar.sing
+h@stpi.in 
+Mob: 9449078440 
+ STPI-Bengaluru 
+No.76 & 77,6th Floor 
+Cyber Park,Electronics 
+City Phase 1 
+Hosur Road,Bengaluru - 
+560100 
+Karnataka  
+ 
+Mr. Manoj Kumar Singh 
+Email: 
+manojkumar.singh@stpi.in 
+Mob: 9449078440 
+1 
+2 
+0 
+STPI-Mysuru 
+SJCE-STEP Campus, 
+Manasagangothri 
+Mysuru,Karnataka-570 
+006 
+ 
+Mr.Jayaprakash 
+Email: 
+jayaprakash@stpi.in 
+Mob: 9945957840 
+1 
+2 
+0 
+STPI-Mangaluru 
+Blueberry 
+Hill,Haripadadavu Road 
+Derebail,Mangaluru 
+Karnataka 575008 
+ 
+Mr. Ravindra Aroor 
+1 
+1 
+2
+
+[Page 28]
+Page 26 of 54 
+ 
+S. 
+No 
+STPI Directorate 
+& 
+Contact details 
+Delivery Address of 
+STPI Centre & 
+Contact Details 
+Router 
+Layer-3 
+Switch - 
+48 Ports 
+Layer-2 
+Switch - 
+24 Ports 
+Email: 
+ravindra.aroor@stpi.in 
+Mob: 9448428516 
+STPI-Hubbali 
+Block-A,4th Floor opposite 
+of Indira Glass House,IT 
+Park 
+Hubballi,Karnataka 
+580029 
+ 
+Mr. V. Sasikumar 
+Email: 
+v.sasikumar@stpi.in 
+Mob: 8762103035 
+1 
+1 
+0 
+9 
+STPI- Chennai 
+ 
+Mr. M.Madhan 
+Email: 
+m.madhan@stpi.i
+n 
+Mob: 9382823803 
+STPI-Chennai 
+3rd Floor No. 5, Rajiv 
+Gandhi Salai 
+Taramani,Chennai 
+Tamil Nadu-600113 
+ 
+Mr. M.Madhan 
+Email: m.madhan@stpi.in 
+Mob: 9382823803 
+2 
+2 
+4 
+10 
+Bhopal 
+ 
+Shri Mayank 
+Shrivastava 
+Email: 
+mayank.shrivasta
+va@stpi.in 
+Mob: 
+7757052220   
+STPI-Indore 
+MPSEDC STP Building, 
+Electronic 
+Complex,Atmaram 
+Choudhary Marg,Near 
+Readymade Complex 
+Opp.Sukhliya, Electronic 
+Complex,Pardesipura 
+Indore,Madhya Pradesh 
+452010 
+ 
+Shri Sanjay Kumar Verma  
+Email: 
+sanjaykumar.verma@stpi.i
+n 
+Mob: 8860611672  
+0 
+1 
+1
+
+[Page 29]
+Page 27 of 54 
+ 
+S. 
+No 
+STPI Directorate 
+& 
+Contact details 
+Delivery Address of 
+STPI Centre & 
+Contact Details 
+Router 
+Layer-3 
+Switch - 
+48 Ports 
+Layer-2 
+Switch - 
+24 Ports 
+11 
+Mohali 
+ 
+Shri Virender 
+Singh  
+Email: 
+virender.singh@st
+pi.in 
+Mob: 
+9814146104  
+ 
+ 
+STPI-Mohali  
+C-184,Phase 8A 
+Industrial Area, 
+Sahibzada Ajit Singh 
+Nagar 
+Mohali, Punjab - 160071  
+ 
+Shri Virender Singh  
+Email: 
+virender.singh@stpi.in 
+Mob: 9814146104  
+1 
+1 
+2 
+12 
+Patna 
+ 
+Shri Samrat 
+Chakraborty  
+Email: 
+samrat.chakrabort
+y@stpi.in 
+Mob: 
+9972941211  
+STPI,Ranchi 
+STPI, Plot No. 8 Part, 
+Namkum Industrial Area, 
+Namkum, Ranchi-834010, 
+Jharkhand  
+ 
+ Dr. Ramesh Chand 
+Meena  
+Email: 
+ramesh.meena@stpi.in 
+Mob:- 9928041114   
+1 
+4 
+0 
+Total 
+21 
+35 
+34
+
+[Page 30]
+Page 28 of 54 
+ 
+Annexure-B: Technical Compliance Sheet 
+ 
+The bidder must complete the Compliance Sheet below mentioning complied or not 
+complied against every specification. 
+ 
+I. 
+Router Compliance sheet 
+ 
+Sl. 
+No 
+Description 
+(Complied/Not 
+Complied) 
+Remarks 
+ 
+ 
+ 
+ 
+I.     Router 
+  
+  
+1 
+Hardware Architecture / General Description 
+  
+  
+a) The Router should have at least an 8-Port Gigabit 
+Ethernet Routed Interface (10/100/1000 TX RJ45 
+Type).  
+  
+  
+b) The Router should have at least a 4-port 10 
+Gigabit Ethernet Routed Interface of SFP+, LC 
+connector, LX Type (to support Single Mode Fiber). 
+The SFP+ transceiver should be supplied along with 
+the router. 
+  
+  
+c)    Should have a minimum of 4 GB RAM and 
+should be capable of handling multiple BGP 
+sessions with full internet Routes (i.e. 10 Lakh 
+IPv4/5 Lakh IPv6) from day one. (Scalable to 
+support up to 8 GB RAM). 
+  
+  
+d)     Should have the latest stable version of the 
+Operating System. 
+  
+  
+e)    Should be scalable to support an additional 4-
+Port Gigabit Ethernet Routed Interface. 
+  
+  
+f)     Throughput should support a minimum of 50 
+Gbps full duplex. 
+  
+  
+g)      Should support a minimum of 10 Lakhs IPv4 
+routes/5 Lakhs IPv6 Internet routes (FIB) from day 
+one. 
+  
+  
+h)    Should support MPLS (CE) 
+  
+  
+i)    Should have an inbuilt Redundant Power supply. 
+Failure of one power supply should not cause 
+Router failure or performance degradation 
+  
+  
+j)      Should support both IPv4 and IPv6 feature set 
+simultaneously (Including dual stack). 
+  
+  
+k)       Should be Rack mountable 
+  
+  
+l)    Power Supply 220 ~ 240 Volt AC, 50 Hz 
+  
+  
+m)      OEM should not have announced the “End of 
+Sale”/ “End of Support “/ “End of Life” for the 
+proposed product. 
+  
+  
+n)  OEM should support the proposed product for at 
+least 6 years from the date of Installation.
+
+[Page 31]
+Page 29 of 54 
+ 
+Sl. 
+No 
+Description 
+(Complied/Not 
+Complied) 
+Remarks 
+o)    Warranty of the proposed product should be for 
+5 years from the date of Installation of the respective 
+STPI Centre. 
+  
+  
+p)    Proposed product should be registered in the 
+“Trusted Telecom Portal” of DOT, documentary 
+evidence/Declaration letter for the same shall be 
+submitted. 
+  
+  
+q)    The proposed hardware or its operating system 
+shall meet the relevant International 
+Telecommunication Union or Telecommunication 
+Engineering Centre (“TEC”) standards as per 
+MTCTE or as specified by DoT dated 31.03.2015. 
+The proposed hardware or its operating system shall 
+also meet common criteria certification of 
+EAL2/NDPP/MEF 3.0 or its equivalent or above for 
+the proposed Products. Copy of the supporting 
+documents shall be furnished. 
+  
+  
+r)    The proposed product should be capable of 
+handling all the required features without 
+performance degradation from day one. 
+  
+  
+2 
+Interfaces 
+  
+  
+  
+a)     The Router should have at least 8-port Gigabit 
+Ethernet Routed Interface (10/100/1000 TX RJ45 
+Type) 
+  
+  
+b)    The Router should have at least a 4-Port 10 
+Gigabit Ethernet Routed Interface of SFP, LC 
+connector LX Type (to support Single Mode Fiber). 
+  
+  
+3 
+Performance 
+  
+  
+  
+a)     Should have a minimum of 40 Gbps throughput 
+or above. 
+  
+  
+b)    Should support a minimum of 10 Lakhs IPv4 
+routes/5 Lakhs IPv6 Internet routes (FIB) from day 
+one. 
+  
+  
+c)     Should support a minimum of 2 eBGP sessions 
+with full IPv4 and IPv6 internet routes 
+simultaneously from day one. 
+  
+  
+d)    Should support Sub interface creation with 
+IEEE 802.1Q VLAN Encapsulation, IP addresses 
+assignment (IPv4 & IPv6) and bandwidth restriction 
+based on interfaces. 
+  
+  
+4 
+Features 
+  
+  
+  
+a)  IPv4 and IPv6 
+  
+  
+b)  Static Routing 
+  
+  
+c)  OSPF v2 and OSPF v3 (IPv6) 
+  
+  
+d)  LAYER-3 VPN, 500 VRF from day-1 
+  
+  
+e)  Full functionality of BGPv4 (Both IPv4 and IPv6) 
+  
+  
+f) VRRP or equivalent
+
+[Page 32]
+Page 30 of 54 
+ 
+Sl. 
+No 
+Description 
+(Complied/Not 
+Complied) 
+Remarks 
+g) Dual stack supporting both IPv4 and IPv6 feature 
+set simultaneously. 
+  
+  
+h)  Hardware and Software configuration of the 
+router should support IPv6 from day one. 
+  
+  
+i)  The proposed product should have a permanent 
+IPv6 license to support IPv6 features from day one.  
+  
+  
+j) Should support multicast protocols like PIM-
+SSM/SM, mVPN, P2MP-TE, IGMP, minimum 50 
+mVRF 
+  
+  
+k)  Policy-based routing  
+  
+  
+l) Port Channel/Ether Channel from day 
+  
+  
+5 
+Security features 
+  
+  
+  
+a)     AAA and RADIUS Authentication. 
+  
+  
+b)    Access-list support for both IPv4 & IPv6, and it 
+should be able to log the access-list traffic for 
+monitoring. 
+  
+  
+c)     SSH protocol version 2 and above. 
+  
+  
+6 
+Quality of Service (QoS) & Control 
+  
+  
+  
+a)     Sub-interface Based Rate limiting / Traffic 
+shaping for Bandwidth allocation. 
+  
+  
+b)    Port-based rate limiting / Traffic shaping for 
+Bandwidth allocation. 
+  
+  
+c)     Per Sub interface bandwidth utilization 
+monitoring through CLI and SNMP. 
+  
+  
+d)    Standard 802.1p CoS and DSCP. 
+  
+  
+7 
+Management 
+  
+  
+  
+a)     Shall support SNMP v1/v2c/v3. 
+  
+  
+b)    Should support Link layer discovery protocol. 
+  
+  
+c)     Shall support management using CLI / GUI. 
+  
+  
+d)    Should support NTP. 
+  
+  
+e)     Should support packet capture mechanisms 
+like sFlow/NetFlow. 
+  
+  
+f)      Manageability on Per Port Basis. 
+  
+  
+g)    Shall support FTP/TFTP.  
+  
+  
+h)    Shall support Netconf/Yang model 
+  
+  
+8 
+Standards to be supported 
+  
+  
+  
+a)     IEEE 802.1 x (User Authentication) 
+  
+  
+b)    IEEE 802.3 ad/IEEE 802.1AX (Link 
+Aggregation)  
+  
+  
+c)     IEEE  802.3 x (Flow Control) 
+  
+  
+d)    IEEE 802.1 p  class-of-service (CoS) 
+prioritization 
+  
+  
+e)     IEEE 802.1Q ( VLAN Encapsulation)
+
+[Page 33]
+Page 31 of 54 
+ 
+II. 
+layer3 Switch Compliance sheet 
+ 
+Sl. 
+No 
+Description 
+(Complied/Not 
+Complied) 
+Remarks 
+1 
+Hardware Architecture / General Description 
+  
+  
+  
+a)     The Switch should have at least a 48-
+Port Gigabit Ethernet Interface (10/100/1000 
+TX RJ45 Type)  
+  
+  
+ 
+b)    The Switch should have at least a 4-Port 
+1/10 (Dual rate) Gigabit Ethernet Interface of 
+SFP+, LC connector, LX Type (to support 
+Single Mode Fiber). The SFP+ transceiver 
+should be supplied along with the switch. 
+  
+  
+ 
+c)     Should have a minimum of 2 GB RAM 
+and 4 GB Flash.  
+  
+  
+ 
+d)    Should have the latest stable version of 
+the Operating System. 
+  
+  
+ 
+e)     Throughput should support a minimum 
+of 176 Gbps of non-blocking switching 
+capacity and 130 Mpps of wire-speed 
+forwarding rate architecture. 
+  
+  
+ 
+f)       Should support layer 3 (IPv4 and IPv6) 
+functionality. 
+  
+  
+ 
+g)    Should support full BGP with default 
+Routes from day one 
+  
+  
+ 
+h)    Should support both IPv4 and IPv6 
+feature set simultaneously (Including dual 
+stack). 
+  
+  
+ 
+i)       Should be Rack mountable. 
+  
+  
+ 
+j)       Power Supply 220 ~ 240 Volt AC, 50 Hz 
+input  
+  
+  
+ 
+k)    OEM should not have announced the 
+“End of Sale”/ “End of Support” / “End of Life” 
+for the proposed product. 
+  
+  
+ 
+l)      OEM should support the proposed 
+product for at least 6 years from the date of 
+Installation. 
+  
+  
+ 
+m)  Warranty of the proposed product should 
+be for the period of 5 years from the date of 
+Installation of the respective STPI Centre. 
+  
+  
+ 
+n)    Proposed product should be registered in 
+“Trusted Telecom Portal” of DOT, 
+documentary evidence/Declaration letter for 
+the same shall be submitted. 
+  
+  
+ 
+o)    The proposed hardware or its operating 
+system shall meet the relevant International 
+Telecommunication Union or 
+Telecommunication Engineering Centre
+
+[Page 34]
+Page 32 of 54 
+ 
+(“TEC”) standards as per MTCTE or as 
+specified by DoT dated 31.03.2015. The 
+proposed hardware or its operating system 
+shall also meet common criteria certification 
+of EAL2/NDPP/Protection Profile or its 
+equivalent or above for the proposed 
+Products. A copy of the supporting 
+documents shall be furnished. 
+ 
+p)    The proposed product should be capable 
+of handling all the required features without 
+performance degradation from day one. 
+  
+  
+ 
+q)    Should be populated with Redundant 
+power supplies from day 1. 
+  
+  
+2 
+Interfaces 
+  
+  
+  
+a)     The Switch should have at least a 48-
+Port Gigabit Ethernet Interface (10/100/1000 
+TX RJ45 Type)  
+  
+  
+ 
+b)    The Switch should have at least 4-Port 
+1/10 (Dual rate) Gigabit Ethernet Interface of 
+SFP+, LC connector, LX Type (to support 
+Single Mode Fiber). 
+  
+  
+3 
+Performance 
+  
+  
+  
+a)     Should have a minimum of 176 Gbps of 
+non-blocking switching fabric or above. 
+  
+  
+ 
+b)    Should have a minimum of 130 Mpps 
+wire-speed forwarding rate or above. 
+  
+  
+ 
+c)     Should support full BGP With Default 
+Routes from day one 
+  
+  
+ 
+d)    The switch should support stacking from 
+day 1 with stacking /MLAG throughput of a 
+minimum 80 Gbps. 
+  
+  
+4 
+Layer-3 Features 
+  
+  
+  
+a)     IPv4 and IPv6 
+  
+  
+ 
+b)    Static Routing 
+  
+  
+ 
+c)     OSPF v2 and OSPF v3 (IPv6) 
+  
+  
+ 
+d)    Should support full BGP with Default 
+Routes 
+  
+  
+ 
+e)     Dual stack supporting both IPv4 and 
+IPv6 feature set simultaneously. 
+  
+  
+ 
+f)      Hardware and Software configuration of 
+the Switch should support for IPv6 from day 
+one. 
+  
+  
+ 
+g)    The proposed product should have a 
+permanent IPv6 license to support IPv6 
+features from day one. 
+  
+  
+ 
+h)      Port Channel/Ether Channel from day 
+one
+
+[Page 35]
+Page 33 of 54 
+ 
+ 
+  
+  
+  
+5 
+Layer-2 Features 
+  
+  
+  
+a)     Should support IEEE 802.1Q VLAN 
+Encapsulation 
+  
+  
+ 
+b)    Should support a minimum of 500 VLANs 
+and 4,000 VLAN IDs. 
+  
+  
+ 
+c)     Should support Internet Group 
+Management Protocol (IGMP) & Multicast 
+Listener Discovery (MLD) Snooping. 
+  
+  
+ 
+d)    Should support Spanning-tree protocol. 
+  
+  
+ 
+e)      Should support Layer 2 ACLs 
+  
+  
+ 
+f)      Should support Link Aggregation Control 
+Protocol (LACP) 
+  
+  
+ 
+g)    Should support Port trunking capability. 
+  
+  
+ 
+h)    Should support Port mirroring capability. 
+  
+  
+ 
+i)      The switch should be populated with 
+Redundant power supplies from day 1. 
+  
+  
+6 
+Security features 
+  
+  
+  
+a)     AAA and RADIUS Authentication. 
+  
+  
+ 
+b)    Access-list support for both IPv4 & IPv6 
+and it should be able to log the access-list 
+traffic for monitoring. 
+  
+  
+ 
+c)     SSH protocol version 2 and above. 
+  
+  
+7 
+Quality of Service (QoS) & Control 
+  
+  
+  
+a)     Port-based and VLAN Based Rate 
+limiting / Traffic shaping for Bandwidth 
+allocation. 
+  
+  
+ 
+b)    Per port and VLAN bandwidth utilization 
+monitoring through CLI and SNMP 
+  
+  
+8 
+Management 
+  
+  
+  
+a)     Shall support SNMP v1/v2c/v3. 
+  
+  
+ 
+b)     Should support Link layer discovery 
+protocol. 
+  
+  
+ 
+c)     Shall support management using CLI / 
+GUI. 
+  
+  
+ 
+d)    Should support NTP. 
+  
+  
+ 
+e)     Should support packet capture 
+mechanisms like sFlow/NetFlow. 
+  
+  
+ 
+f)      Manageability on Per Port Basis. 
+  
+  
+ 
+g)    Shall support FTP/TFTP. 
+  
+  
+ 
+h)    Should support NETCONF/YANG model. 
+  
+  
+9 
+Standards to be supported 
+  
+  
+  
+a)     IEEE 802.1 D  Spanning-Tree Protocol
+
+[Page 36]
+Page 34 of 54 
+ 
+ 
+b)    IEEE 802.1 w (Rapid Spanning Tree  
+Protocol ) 
+  
+  
+ 
+c)     IEEE 802.1 x (User Authentication) 
+  
+  
+ 
+d)    IEEE 802.3 ad/ IEEE 802.1AX (Link 
+Aggregation)  
+  
+  
+ 
+e)     IEEE  802.3 x (Flow Control) 
+  
+  
+ 
+f)      IEEE 802.1Q ( VLAN Encapsulation) 
+  
+  
+ 
+III. 
+Layer2 Switch Compliance sheet 
+ 
+Sl. 
+No 
+Description 
+(Complied/Not 
+Complied) 
+Remarks 
+1 
+   Hardware Architecture / General Description 
+  
+  
+  
+a)     The Switch should have at least a 24-Port 
+Gigabit Ethernet Interface (10/100/1000 TX 
+RJ45 Type)  
+  
+  
+ 
+b)     The Switch should have at least a 4-Port 
+1/10 (Dual rate) Gigabit Ethernet Interface of 
+SFP+, LC connector, LX Type (to support 
+Single Mode Fiber). The SFP+ transceiver 
+should be supplied along with the switch. 
+  
+  
+ 
+c)    Should have a minimum of 1 GB RAM and 
+4 GB Flash.  
+  
+  
+ 
+d)     Should have the latest stable version of 
+the Operating System. 
+  
+  
+ 
+e)    Throughput should support (non-blocking) 
+minimum of 128 Gbps switching capacity and 
+95Mpps of wire speed forwarding rate. 
+  
+  
+ 
+f)     Should support both IPv4 and IPv6 feature 
+set simultaneously (Including dual stack). 
+  
+  
+ 
+g)       Should be Rack mountable. 
+  
+  
+ 
+h)     Power Supply 220 ~ 240 Volt AC, 50 Hz 
+input  
+  
+  
+ 
+i)    OEM should not have announced the “End 
+of Sale”/ “End of Support”, / “End of Life” for the 
+proposed product. 
+  
+  
+ 
+j)      OEM should support the proposed 
+product for at least 6 years from the date of 
+Installation. 
+  
+  
+ 
+k)      Warranty of the proposed product should 
+be for the period of 5 years from the date of 
+Installation of the respective STPI Centre 
+  
+  
+ 
+l)    Proposed product should be registered in 
+the “Trusted Telecom Portal” of DOT, 
+documentary evidence/Declaration letter for the 
+same shall be submitted.
+
+[Page 37]
+Page 35 of 54 
+ 
+ 
+m)      The proposed hardware or its operating 
+system shall meet the relevant International 
+Telecommunication Union or 
+Telecommunication Engineering Centre 
+(“TEC”) standards as per MTCTE or as 
+specified by DoT dated 31.03.2015. The 
+proposed hardware or its operating system 
+shall also meet common criteria certification of 
+EAL2/NDPP/MEF 3.0 or its equivalent or above 
+for the proposed Products. A copy of the 
+supporting documents shall be furnished. 
+  
+  
+ 
+n) The proposed product should be capable of 
+handling all the required features without 
+performance degradation from day one. 
+  
+  
+2 
+Interfaces 
+  
+  
+  
+a)     The Switch should have at least a 24-port 
+Gigabit Ethernet Interface (10/100/1000 TX 
+RJ45 Type)  
+  
+  
+ 
+b)    The Switch should have at least a 4-Port 
+1/10 (Dual rate) Gigabit Ethernet Interface of 
+SFP+, LC connector, LX Type (to support 
+Single Mode Fiber). 
+  
+  
+3 
+Performance 
+  
+  
+  
+a)     Should have a minimum of 128 Gbps of 
+non-blocking switching fabric or above. 
+  
+  
+ 
+b)    Should have a minimum of 95 Mpps 
+forwarding rate or above. 
+  
+  
+ 
+c)     The switch should support stacking from 
+day 1 for stacking/MLAG  throughput of a 
+minimum of 60 Gbps. 
+  
+  
+4 
+Layer-2 Features 
+  
+  
+  
+a)     Should support IEEE 802.1Q VLAN 
+Encapsulation 
+  
+  
+ 
+b)    Should support a minimum of 500 VLANs 
+and 4,000 VLAN IDs. 
+  
+  
+ 
+c)     Should support Internet Group 
+Management Protocol (IGMP) & Multicast 
+Listener Discovery (MLD) Snooping. 
+  
+  
+ 
+d)    Should support Spanning-tree protocol. 
+  
+  
+ 
+e)      Should support Layer 2 ACL’s 
+  
+  
+ 
+f)      Should support Link Aggregation Control 
+Protocol (LACP) 
+  
+  
+ 
+g)    Should support Port trunking capability. 
+  
+  
+ 
+h)    Should support Port mirroring capability. 
+  
+  
+5 
+Security features 
+  
+  
+  
+a)     AAA and RADIUS Authentication.
+
+[Page 38]
+Page 36 of 54 
+ 
+ 
+b)    Access-list support for both IPv4 & IPv6 
+  
+  
+ 
+c)     SSH protocol version 2 and above. 
+  
+  
+6 
+Quality of Service (QoS) & Control 
+  
+  
+ 
+a)    Per port and VLAN bandwidth utilization 
+monitoring through CLI and SNMP. 
+  
+  
+7 
+Management 
+  
+  
+  
+a)     Shall support SNMP v1/v2c/v3. 
+  
+  
+ 
+b)     Should support Link Layer Discovery 
+Protocol. 
+  
+  
+ 
+c)     Shall support management using CLI / 
+GUI. 
+  
+  
+ 
+d)    Should support NTP. 
+  
+  
+ 
+e)     Should support packet capture 
+mechanisms like sFlow/NetFlow. 
+  
+  
+ 
+f)      Manageability on Per Port Basis. 
+  
+  
+ 
+g)    Shall support FTP/TFTP. 
+  
+  
+ 
+h)    Should support NETCONF/YANG model. 
+  
+  
+8 
+Standards to be supported 
+  
+  
+  
+a)     IEEE 802.1 D Spanning-Tree Protocol 
+  
+  
+ 
+b)    IEEE 802.1 w (Rapid Spanning Tree 
+Protocol) 
+  
+  
+ 
+c)     IEEE 802.1 x (User Authentication) 
+  
+  
+ 
+d)    IEEE 802.3ad/ 802.1ax (Link Aggregation) 
+  
+  
+ 
+e)     IEEE  802.3 x (Flow Control) 
+  
+  
+ 
+f)      IEEE 802.1Q (VLAN Encapsulation) 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+(Signature of authorized signatory with seal & date)
+
+[Page 39]
+Page 37 of 54 
+ 
+Annexure-C: Components and Products 
+ 
+ 
+In Response to technical requirements bidders to required to fill-up the details of 
+Component & Products in the following format: 
+ 
+SL. 
+No. 
+Product 
+Proposed 
+(Model No) 
+Details 
+(Individual 
+Modules/ features/ 
+Tech 
+Capabilities 
+etc) 
+Quantity 
+Brand 
+name and 
+Name 
+of 
+the OEM 
+List of Datasheet 
+and 
+brochures 
+attached relevant 
+to the proposed 
+product 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: Should be submitted along with Technical Bid. 
+ 
+ 
+ 
+(Signature of authorized signatory with seal & date)
+
+[Page 40]
+Page 38 of 54 
+ 
+Annexure-D: Training Requirements 
+ 
+Sl. 
+No. 
+Topics to be Covered 
+Remarks 
+1 
+Proposed Product Knowledge  
+-  Architecture of Product 
+-  Operating System Details  
+-  Others 
+Theory 
+2 
+Basic Management: 
+- Equipment Handling procedures 
+- Mode of Access (SSH, Console, GUI) 
+- Basic Commands  
+- Trouble Shooting 
+Theory & Lab 
+3 
+Configuration Management: 
+- BGP, OSPF, MPLS, VOIP both IPv4 and IPv6. 
+- Link Aggregation, VLAN, ACL’s both IPv4 and IPv6 
+- Port Based & VLAN Based Bandwidth allocation 
+- Traffic Classification & Prioritization 
+Theory & Lab 
+4 
+System Management: 
+- Backup & Restore of Operating System 
+- Backup & Restore of Configuration 
+- AAA  
+- NTP, SNMP. 
+Theory & Lab 
+ 
+Note: Should be submitted along with Technical Bid. 
+ 
+ 
+ 
+ 
+ 
+ 
+(Signature of authorized signatory with seal & date)
+
+[Page 41]
+Page 39 of 54 
+ 
+Annexure-E: Check List 
+ 
+Sl 
+No. 
+Description 
+Compliance 
+1 
+EMD details 
+Submitted / Not Submitted 
+2 
+Copy of certificate authorized by OEM and MAF 
+Submitted / Not Submitted 
+3 
+Copy of Certificate issued by TEC / DOT/ common 
+criteria certification of EAL2/NDPP/MEF 3.0 or its 
+equivalent or above for the proposed Products  
+Submitted / Not Submitted 
+4 
+Audited financial Statement for past 3 financial years 
+Submitted / Not Submitted 
+5 
+IT returns for past 3 financial years 
+Submitted / Not Submitted 
+6 
+Purchase Order copies, invoices and completion 
+certificate for the past 3 years 
+Submitted / Not Submitted 
+7 
+Copy of the PAN Card 
+Submitted / Not Submitted 
+8 
+Copy of GST 
+Submitted / Not Submitted 
+9 
+Copy of Registration (RoC),/ Incorporation of the 
+firm/company, MSME Registration Certificate (if 
+applicable) 
+Submitted / Not Submitted 
+10 
+Technical Compliance Sheet as per Annexure–B 
+Submitted / Not Submitted 
+11 
+Components & Products details as per Annexure–C 
+Submitted / Not Submitted 
+12 
+Acceptance to training terms as per Annexure–D 
+Submitted / Not Submitted 
+13 
+Submission of Checklist as per Annexure-E 
+Submitted / Not Submitted 
+14 
+Tender Acceptance letter as per Annexure-F 
+Submitted / Not Submitted 
+15 
+Declaration for non-debarment & non-blacklisting as 
+per format Annexure-G 
+Submitted / Not Submitted 
+16 
+Acceptance to submit NDA as per Annexure –H in part 
+I-D 
+Submitted / Not Submitted 
+17 
+Certificate of Conformity/ No Deviation. Compliance 
+needs to be provided on letter head as per format at 
+Annexure -I 
+Submitted / Not Submitted 
+18 
+Board Resolution or Power of Attorney for the 
+Authorized Signatory shall be submitted as per as per 
+format at Annexure -J. 
+Submitted / Not Submitted 
+19 
+Copy of EMD Transaction (NEFT/RTGS) details /EMD 
+Exemption certificates with Bid security Declaration as 
+per format at Annexure -K. 
+Submitted / Not Submitted 
+20 
+Acceptance to the Scope of works as per bid 
+document at Part I-B. Self-attested and signed scope 
+of works document to be submitted. 
+Submitted / Not Submitted 
+21 
+Acceptance to the payment terms, penalty and 
+liquidated damages (LD) as per the bid document at 
+Part I-B. 
+Submitted / Not Submitted 
+22 
+Bid validity for 180 days after the date of opening of 
+bid 
+Submitted / Not Submitted
+
+[Page 42]
+Page 40 of 54 
+ 
+23 
+Documentary evidence for having support center at 
+least 4 major cities across India along with trouble call 
+escalation matrix. 
+Submitted / Not Submitted 
+24 
+Acceptance to warranty terms (5 years) and service 
+norms as per RFP 
+Complied / Not Complied 
+25 
+Declaration from OEM w.r.t product warranty, End of 
+Life, End of Support etc as per RFP terms. 
+Submitted / Not Submitted 
+26 
+Product datasheets and brochures 
+Submitted / Not Submitted 
+27 
+Uploaded BoQ as per format in XLS 
+Submitted / Not Submitted 
+28 
+Acceptance to Support Norms - OEM should support 
+the proposed product for at least 6 years from the 
+date of delivery 
+Submitted / Not Submitted 
+29 
+Proposed product should be registered in “Trusted 
+Telecom 
+Portal” 
+of 
+DOT, 
+documentary 
+evidence/Declaration letter for the same shall be 
+submitted. 
+Submitted / Not Submitted 
+ 
+Note: Should be submitted along with Technical Bid. 
+ 
+ 
+ 
+ 
+ 
+(Signature of authorized signatory with seal & date)
+
+[Page 43]
+Page 41 of 54 
+ 
+Annexure-F: Tender Acceptance Letter 
+ 
+(To be submitted duly signed format (Scanned Copy) by the authorized signatory on 
+Company Letter Head) 
+Date:……………. 
+To, 
+Software Technology Parks of India 
+1st Floor, Plate B, Office Block-1,  
+East Kidwai Nagar, New Delhi - 110023 
+ 
+Sub: Acceptance in respect of Terms & Conditions of Tender document for Supply, 
+Installation, Testing, Commissioning and training of Network Devices - Routers, 
+LAYER-3 Switches and Layer-2 Switches at various STPI Directorates as mentioned 
+in the Annexure-A.  
+ 
+ 
+Sir, 
+1. I/We have downloaded/ obtained the tender document(s) for the above mentioned 
+‘Tender/Work’ from the web site https://gem.gov.in.  
+2. I/We hereby certify that I/we have read all the terms and conditions of tender document 
+from Page No. _______ to ______ (including all Annexure(s)/Para’s, etc., which shall 
+form part of the contract agreement, and I/we shall abide hereby by all the terms & 
+conditions contained therein. 
+3. The corrigendum(s) issued from time to time by your department/organization too has 
+also been taken into consideration, while submitting this acceptance letter. 
+4.  I/ We hereby unconditionally accept all the terms and conditions of above-mentioned 
+tender document and corrigendum(s) as applicable. 
+5. 
+In 
+case 
+any 
+provisions 
+of 
+this 
+tender 
+are 
+found 
+violated, 
+then 
+your 
+department/organization shall without prejudice to any other right or remedy be at liberty 
+to reject my bid including the forfeiture of earnest money deposit. 
+6. I/ We confirm that our bid shall be valid up to 180 days from the date of opening of Bid. 
+7. I/ We hereby certify that all the statements made, and information supplied in the enclosed 
+Annexures/Para’s etc. furnished herewith are true and correct. 
+8. I/ We have furnished all the information and details necessary for demonstrating our 
+qualification and have no further prominent information to supply. 
+9. I/ We understand that you are not bound to accept the lowest or any bid you may receive. 
+10. I/ We certify / confirm that we comply with the eligibility requirements as per Bid 
+documents. 
+ 
+ 
+Seal and Sign of Bidder 
+Name: 
+Address:
+
+[Page 44]
+Page 42 of 54 
+ 
+Annexure-G: DECLARATION FOR NON-DEBARMENT & NON-
+BLACKLISTING 
+ 
+ 
+This is to certify that << COMPANY NAME >> has not been blacklisted by any Central /State 
+Government (incl. its department/agency) or was declared ineligible by the Government of 
+India/State/UT Government for corrupt and fraudulent practices as on 31st March 2022. 
+ 
+I hereby certify that the information furnished in the RFP Ref No…………………………… 
+dated..………. 2025 is full and correct to the best of my/our knowledge. I understand that in 
+case any deviation is found in the statement at any stage, the bid will summarily be rejected 
+and the bidder will be liable to be blacklisted and will not be permitted to have any dealing 
+with the STPI in future. 
+ 
+ 
+ 
+ 
+Seal and Sign of Bidder 
+Name & Address:
+
+[Page 45]
+Page 43 of 54 
+ 
+Annexure-H: NON-DISCLOSURE AGREEMENT 
+Date……………… 
+ 
+THIS AGREEMENT is valid till six years from the date of  work order, and is made by and 
+between SOFTWARE TECHNOLOGY PARKS OF INDIA, an Society under Ministry of 
+Electronics and Information Technology,  Govt. of India herein referred to as ‘DISCLOSING 
+PARTY’ whose address is 1st Floor, Plate B, Office Block-1, East Kidwai Nagar, New 
+Delhi – 110023  and  M/s. …………………………………. 
+ 
+Both the parties shall mean and include their successors at Office from time to time, legal 
+representatives, administrators, executors and assigns, etc. 
+ 
+This agreement shall govern the conditions of disclosure by disclosing party to Recipient of 
+certain confidential and proprietary information that is oral, written, or in computer file format.  
+Examples of Confidential Information include the identities of companies, consultants and 
+other service providers used by disclosing party, both foreign and domestic, in connection 
+with disclosing party’s business, supplier lists, supplier information, computer databases 
+containing customer, product and vendor information, designs, drawings, specifications, 
+techniques, models, documentation, diagrams, flow charts, research and development 
+process and procedures, ‘know-how’, new product or new technology information, financial, 
+marketing and sales information and projections, product pricing, profitability, marketing 
+techniques and materials, marketing timetables, strategies and development plans, trade 
+names and trademarks not yet disclosed to the public, business methods and trade secrets, 
+and personnel information. 
+ 
+1. Purpose of Disclosure.  Disclosing party is disclosing the Confidential Information to 
+Recipient in order for Recipient to evaluate the possibility of using disclosing party’s 
+services like Call Centers/Contact Centers Projects, Business Process Outsourcing 
+covering all different kind of Verticals, Information Technology Services, Back and 
+Transaction Processing Services, Business Analysis, Business Process Re-
+engineering, Data Analysis, Quality Analysis and the Statutory & Datacom services 
+etc. 
+ 
+2. Confidentiality Obligations of Recipient.  Recipient hereby agrees: 
+(a) Recipient will hold the Confidential Information in complete confidence and not to 
+disclose the Confidential Information to any other person or entity, or otherwise 
+transfer, publish, reveal, or permit access to the Confidential Information without 
+the express prior written consent of Disclosing Party. 
+(b) Recipient will not copy, photograph, modify, disassemble, reverse engineer, 
+decompile, or in any other manner reproduce the Confidential Information without 
+the express prior written consent of disclosing party. 
+ 
+If any Confidential Information is delivered to Recipient in physical form, such as data 
+files or hard copies, recipient will return the Confidential Information, together with 
+any copies thereof, promptly after the purpose for which they were furnished has 
+been accomplished, or upon the request of disclosing party.  In addition upon request 
+off disclosing party in writing/email Recipient will destroy materials prepared by 
+Recipient that contain Confidential Information.
+
+[Page 46]
+Page 44 of 54 
+ 
+(c)    Recipient shall use Confidential Information only for the purpose of evaluating 
+Recipient’s interest in using disclosing party’s services, and for no other purpose.  
+Without limiting the generality of the previous sentence, Recipient specifically agrees 
+not to sell, rent, or otherwise disclose any of disclosing party’s Confidential 
+Information either in full or part to any competitor of disclosing party, nor will Recipient 
+use the Confidential Information to directly or indirectly contact or contract with any 
+of disclosing party’s employees, vendors, contractors and agents who carry out or 
+otherwise fulfill the services on behalf of disclosing party (its ‘Affiliates’).  Recipient 
+shall promptly notify disclosing party of any disclosure or use of Confidential 
+Information in violation of this Agreement for which disclosing party shall indemnify 
+the Recipient for that part. 
+ 
+3. Exclusions.  None of the following shall be considered to be ‘Confidential Information’: 
+(a) Information which was in the lawful and unrestricted possession of Recipient 
+prior to its disclosure by disclosing party; 
+(b) Information which is readily ascertainable from sources of information 
+freely/easily available in the general public; 
+(c) Information which is obtained by Recipient from a third party who did not derive 
+such information from disclosing party. 
+4. Remedies.  Recipient acknowledges that disclosing party’s Confidential Information 
+has been developed or obtained by the investment of significant time,  effort and 
+expense and provides disclosing party with a significant competitive advantage in its 
+business, and that if Recipient breaches its obligations hereunder, disclosing party 
+will suffer immediate, irreparable harm for which monetary damages will provide 
+inadequate compensation.  Accordingly, the disclosing party will be entitled, in 
+addition to any other remedies available at law in equity, to injunctive relief to 
+specifically enforce the terms of this Agreement.  Recipient agrees to indemnify 
+disclosing party against any losses sustained by disclosing party, including 
+reasonable attorney’s fees, by reason of the breach of any provision of this 
+Agreement by Recipient.  Recipient further acknowledges that disclosing party’s 
+business would be severely hurt if Recipient were to directly contract with its Affiliates 
+without the participation of disclosing party.  Therefore, if Recipient directly or 
+indirectly contracts with any of disclosing party’s Affiliates whose identity and/or 
+particulars are disclosed to Recipient pursuant to this Agreement  
+ 
+(Except Affiliates with whom Recipient had a demonstrable prior existing business 
+relationship).  In the event of circumvention, by the Recipient whether directly or 
+indirectly, the disclosing party shall be entitled to a legal monetary penalty award, 
+equal to the maximum consulting service/consulting fee, commission/profit originally 
+expected or contemplated to be realized from such transaction(s).  This payment 
+levied against and paid immediately by the party engaged in circumvention and also 
+in addition includes all legal expenses in the recovery of these funds if collected 
+through legal action by either party.  This penalty shall not apply when the alleged 
+Circumventure does not result in a transaction being concluded.  The parties 
+acknowledge it would be extremely difficult or impossible to accurately it would be 
+extremely difficult or impossible to accurately fix the actual damages that disclosing 
+party would suffer in the event of a breach of the aforementioned obligations, and 
+that the liquidated damages provided for herein are a reasonable estimate of
+
+[Page 47]
+Page 45 of 54 
+ 
+disclosing party’s actual damages, which shall be fixed by the arbitrator who shall 
+also be in the same business. 
+ 
+5. No Rights Granted to Recipient.  Recipient further acknowledges and agrees that the 
+furnishing of Confidential Information to Recipient by disclosing party shall not 
+constitute any grant or license to Recipient under any legal rights now or hereinafter 
+held by disclosing party. 
+ 
+6. Miscellaneous Provisions: 
+(a) This Agreement sets forth the entire understanding and Agreement between the 
+parties with respect to the subject matter hereof and supersedes all other oral or 
+written representations and understanding.  This Agreement may only be 
+amended or modified by a writing signed by both parties. 
+(b) If any provision of the Agreement is held to be illegal, invalid or unenforceable, 
+the legality, validity and enforceability of the remaining provisions will not be 
+affected or impaired. 
+(c) 
+This Agreement is binding upon the successors, assigns and legal 
+representatives the parties hereto, and is intended to protect Confidential 
+Information of any successors or assign of disclosing party. 
+(d) Each Provision of this Agreement is intended to be valid and enforceable to the 
+fullest extent permitted by law.  If any provision of this Agreement is determined 
+by any court of competent jurisdiction or arbitrator to be invalid, illegal, or 
+enforceable to any extent, that provision shall, if possible, be construed as though 
+more narrowly drawn, if a narrower construction would avoid such invalidity, 
+illegality, or unenforceability, be served, and the remaining provisions of this 
+Agreement shall remain in effect/force. 
+(e) The terms and conditions governing the provision of the agreement shall be 
+governed by and construed in accordance with laws of the union of India and shall 
+be subject to the exclusive Jurisdiction of the courts of New Delhi. 
+1. 
+Any or all disputes arising out or in connection with this agreement shall so far as 
+may be possible to settled amicably between the parties within a period of thirty 
+days from such dispute(s) arising. 
+2. 
+However failing such amicable settlement all disputes and differences out of the 
+construction of or concerning anything contained in or arising out of or in 
+connection with this agreement as to the rights, duties or liabilities arising it, to the 
+parties shall be referred to a panel of three arbitrators, for conducting Arbitration 
+in accordance with the provisions of Arbitrations and Conciliation Act 1996 and its 
+all amendment. 
+3. 
+It is agreed that each party shall appoint one arbitrator and the third arbitrator from 
+the same business. 
+4. 
+The appointment of arbitrators shall be done within a period of three months from 
+the date of receipt of notice from the aggrieved party requesting to refer the matter 
+to arbitration in case amicable settlement fails. 
+5. 
+The parties shall mutually ensure and co-operate with each other in the arbitral 
+proceedings, so that the same can be concluded and awarded within a period of 
+six months from the date of commencement of the arbitral proceedings. 
+6. 
+The arbitral proceedings shall be conducted in English, both parties shall be 
+bound by the award passed and delivered by the arbitral tribunal and shall not
+
+[Page 48]
+Page 46 of 54 
+ 
+attempt to challenge the authenticity of the award, before any authority or courts 
+or any other statutory body. 
+7. 
+The venue of arbitration shall be Delhi. 
+ 
+(f) 
+If any litigation is brought by either party regarding the interpretation or enforcement 
+of this Agreement, the prevailing party will recover from the other all costs, 
+attorney’s fees and other expenses incurred by the prevailing party from the other 
+party. 
+ 
+  
+ 
+ 
+   Signed on behalf of   
+ 
+ 
+                   Signed on behalf of 
+M/s Software Technology Parks of India                    M/s. ………………. 
+ 
+ 
+  
+Signature:                                                                            Signature: 
+Name:                     
+ 
+ 
+ 
+ 
+        Name: 
+Designation with seal:        
+ 
+ 
+        Designation with seal: 
+ 
+ 
+Date: 
+ 
+                                                                   Date:
+
+[Page 49]
+Page 47 of 54 
+ 
+Annexure-I: CERTIFICATE OF CONFORMITY/ NO DEVIATION 
+{to be filled by the bidder} 
+ 
+ 
+To, 
+The Director 
+STPI  
+ 
+ 
+This is to certify that, our Technical bid is in conformity to the entire scope of work/ services 
+and Terms & Conditions mentioned in RFP, and which I/ We shall supply if I/ We am/ are 
+awarded with the work, are in conformity with the scope of work of the bidding document 
+and that there are no deviations of any kind from the scope of work/services. 
+ 
+Also, I/ we have thoroughly read the tender/ bidding document and by signing this certificate, 
+we hereby submit our token of acceptance to all the tender terms & conditions of the bidding 
+document without any deviations. 
+ 
+I/ We also certify that the price I/ we have quoted is inclusive of all the cost factors involved 
+in the execution of the scope of services as mentioned in the RFP, to meet the desired 
+Standards set out in the Tender/ bidding Document. 
+ 
+Thanking you, 
+ 
+ 
+Name of the Bidder: -  
+Authorised Signatory: -  
+Seal of the Organization: -  
+Date:   
+ Place:
+
+[Page 50]
+Page 48 of 54 
+ 
+Annexure-J: BIDDE R’S A UTHO RI ZA T IO N CE RT I FI CA TE 
+{to be filled by the bidder} 
+ 
+ 
+To, 
+The Director 
+STPI  
+ 
+ 
+I/ We {Name/ Designation} hereby declare/ certify that {Name/ Designation} is hereby 
+authorized to sign relevant   documents   on   behalf   of   the   company/   firm   in   dealing   
+with   Tender   reference   No. STPI/               
+dated _. He/ She is also authorized to 
+attend meetings & submit technical & commercial information/ clarifications as may be 
+required by you in the course of processing the Bid. For the purpose of validation, his/ her 
+verified signatures are as under. 
+ 
+ 
+Thanking you, 
+ 
+ 
+Name of the Bidder: - 
+ 
+ 
+ 
+ 
+ 
+ 
+Verified Signature: 
+Authorised Signatory: -  
+Seal of the Organization: - 
+Date:  _____________ 
+  
+Place: ____________  
+ 
+ 
+Please attach the board resolution / valid power of attorney in favour of person 
+signing this authorizing letter.
+
+[Page 51]
+Page 49 of 54 
+ 
+Annexure-K: BID SECURITY DECLARATION 
+(To be filled by the bidder On Bidders Letter head) 
+ 
+Date:___________________ Tender No. _________________  
+ 
+To, 
+The Director 
+STPI  
+ 
+I/We. The undersigned, declare that:  
+ 
+I/We understand that, according to your conditions, bids must be supported by a Bid 
+Securing Declaration.  
+ 
+I/We accept that I/We may be disqualified from bidding for any contract with you for a period 
+of Two Year as per GFR 151 (iii) from the date of notification if I am /We are in a breach of 
+any obligation under the bid conditions, because I/We  
+ 
+a) have withdrawn/modified/amended, impairs or derogates from the tender, my/our Bid 
+during the period of bid validity specified in the form of Bid; or  
+ 
+b) having been notified of the acceptance of our Bid by the purchaser during the period of 
+bid validity (i) fail or reuse to execute the contract, if required, or (ii) fail or refuse to furnish 
+the Performance Security/ PBG, in accordance with the Instructions to Bidders.  
+ 
+I/We understand this Bid Securing Declaration shall cease to be valid if I am/we are not the 
+successful Bidder, upon the earlier of (i) the receipt of your notification of the name of the 
+successful Bidder; or (ii) thirty days after the expiration of the validity of my/our Bid. 
+  
+Signed:  
+ 
+(insert signature of person whose name and capacity are shown)  
+in the capacity of  
+(insert legal capacity of person signing the Bid Securing Declaration)  
+ 
+Name: (insert complete name of person signing he Bid Securing Declaration)  
+ 
+Duly authorized to sign the bid for an on behalf of (insert complete name of Bidder)  
+ 
+Dated on _____________ day of ___________________ (insert date of signing)  
+ 
+Corporate Seal (where appropriate)  
+ 
+ 
+**********
+
+[Page 52]
+Page 50 of 54 
+ 
+Annexure-L: Format for performance Bank Guarantee (PBG)  
+ 
+1. 
+In consideration of the Software Technology Parks of India (hereinafter called “STPI”) 
+having agreed to allow M/s …………………. (Hereinafter called “the said Vendor/Successful 
+bidder”) 
+from 
+the 
+demand 
+under 
+the 
+terms 
+and 
+conditions 
+of 
+RFP 
+Ref 
+No: 
+………………………………….. 
+dated 
+………………… 
+along 
+with 
+its 
+all 
+corrigendum/addendums for the ……………………………………….. hereinafter called “the 
+said Agreement” for furnishing Performance Bond for the due fulfilment by the said Vendor 
+of the terms and conditions in the said Agreement, by production of a BANK GUARANTEE 
+for 
+Indian 
+Rs. 
+……………………………….. 
+(Indian 
+Rs 
+…………..only). 
+We 
+the …………………….. (Name of the Bank) having our Head Office at ……………………. 
+and having branch at …………………………………………..referred to as “the Bank” at the 
+request of M/s. …………………….. Successful Bidder(s) do hereby undertake to pay to 
+STPI an amount not exceeding Indian Rs.……… (Indian Rs.…………………….. only). 
+2. 
+We . . . . . . . . . . . . . . . . . . . . (Name of the Bank) . . . . . . . . branch do hereby 
+undertake to pay the amounts due and payable under this guarantee without and demure, 
+merely on a demand from STPI stating that the amount claimed is required to meet the 
+recoveries due or likely to be due from the said Successful Bidder(s). Any such demand 
+made on the Bank shall be conclusive as regards the amount due and payable by the Bank 
+under this guarantee. However, our liability under this guarantee shall be restricted to an 
+amount not exceeding Rs . . .. . . . (Rs . . . . . . . . . . only).  
+3. 
+We undertake to pay to the STPI, the amount due under this Guarantee so demanded 
+notwithstanding any dispute to disputes raised by the Successful Bidder(s) in any suit or 
+proceeding pending before any Court or Tribunal relating thereto, our liability under this 
+present being absolute and unequivocal. 
+4. 
+The payment so made by us under this bond shall be a valid discharge of our liability 
+for payment thereunder. 
+5. 
+We . . . . . . . . . . . . (Name of the Bank) . . . . . . . . .. branch further agree that the 
+guarantee herein contained shall remain in full force and effect during the period that would 
+be taken for the performance of the said agreement and that it shall continue to be 
+enforceable till the dues of STPI under or by virtue of the said agreement have been fully 
+paid and its claims satisfied or discharged or till the Project Coordinator on behalf of STPI 
+certifies that the terms and conditions of the said Agreement have been fully and properly 
+carried out by the said Successful Bidder(s) accordingly discharges this guarantee. 
+6. 
+We . . . . . . . . . . (Name of the Bank) . . . . . . . . branch further agree with STPI, that 
+STPI shall have the fullest liberty without our consent and without affecting in any manner 
+our obligations hereunder to vary any of the terms and conditions of the said Agreement or 
+to extend time of performance by the said Successful Bidder(s) from time to time or to 
+postpone for any time or from time to time any of the powers exercisable by STPI against 
+the said Successful Bidder(s) and to forbear or enforce any of terms and conditions relating 
+to the said agreement and we shall not be relieved from our liability by reason of any such 
+variation or extension being granted to the said Successful Bidder(s) or for any forbearance 
+act or omission on the part of the STPI or any indulgence by the STPI to the said Successful 
+Bidder(s) or by any such matter or thing whatsoever which under the law relating to sureties 
+would but for this provision have effect of so relieving us. 
+7. 
+This guarantee will not be discharged due to the change in the constitution of the 
+Bank or the Successful Bidder(s). 
+8. 
+We hereby waive the necessity of your demanding the Successful Bidder before 
+presenting us with the demand.
+
+[Page 53]
+Page 51 of 54 
+ 
+9. 
+We ……………………. (Name of the Bank) ……………….. Branch lastly undertake 
+not to revoke this guarantee except with the previous consent of the STPI in writing. 
+10. 
+This guarantee shall be valid upto …………………. unless extended on demand by 
+STPI. Notwithstanding anything contained herein before our liability against this guarantee 
+is restricted to Indian Rs. ………………….. (Indian Rs.……………….. only) and it will remain 
+in force till ……………… unless a claim or demand in writing is made against us under this 
+guarantee before the expiry of six months from the aforesaid date that is 
+before ………………….of ……………………………(…………….) all your rights under the 
+said guarantee shall be forfeited and we shall be relieved and discharged from all liability 
+hereunder. 
+Dated 
+the 
+………………….. 
+day 
+of 
+……………….. 
+for 
+(Name 
+of 
+the 
+Bank) ………………….Branch. 
+ 
+WITNESS 1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+WITNESS 2 
+ 
+(Signature)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Signature) 
+Attorney as per Power of Attorney :  
+Attorney Number & Date :
+
+[Page 54]
+Page 52 of 54 
+ 
+Part-II: Annexure-BOQ 
+ 
+Sl. 
+No. 
+Item Description 
+Item Code / 
+Make 
+Quantity 
+Units 
+BASIC 
+RATE 
+in INR 
+Total 
+Amount 
+in INR 
+1. 
+Router 
+with 
+all 
+accessories 
+including 
+Installation, 
+Commissioning, Training 
+& 
+Any 
+additional 
+Hardware 
+/ 
+software 
+required to meet the 
+specification mentioned 
+in 
+Technical 
+Specification in Part I-C 
+item1 
+21 
+Nos 
+ 
+ 
+2. 
+LAYER-3 Switches with 
+all accessories including 
+Installation, 
+Commissioning, training 
+& 
+Any 
+additional 
+Hardware 
+/ 
+software 
+required to meet the 
+specification mentioned 
+in 
+Technical 
+Specification in Part I-C 
+Item2 
+35 
+Nos 
+ 
+ 
+3. 
+LAYER-2 Switches with 
+all accessories including 
+Installation, 
+Commissioning, training 
+& 
+Any 
+additional 
+Hardware 
+/ 
+software 
+required to meet the 
+specification mentioned 
+in 
+Technical 
+Specification in Part I-C 
+Item3 
+34 
+Nos 
+ 
+ 
+Total  
+Applicable Taxes  
+Grand Total

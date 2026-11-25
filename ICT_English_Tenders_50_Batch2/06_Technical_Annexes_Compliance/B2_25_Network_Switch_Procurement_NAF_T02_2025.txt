@@ -1,0 +1,1533 @@
+Title: Network Switch Procurement NAF.T02.2025
+Source: https://nafmalta.org/wp-content/uploads/2025/10/NAF.T02.2025.pdf
+Pages: 25
+
+--- Extracted text by page ---
+
+[Page 1]
+NAF.T02.2025 
+Tender for the  
+Procurement and Installation of an AI Development System at 
+the Notarial Registers Archive associated with the 
+Notarypedia Project 
+ 
+ 
+ 
+ 
+Date Published 
+27 October 2025 
+8am CEST 
+Deadline for Submission 
+17 November 2025 
+1pm CEST 
+Tender Opening 
+17 November 2025 
+1:30pm CEST
+
+[Page 2]
+Section 1 – Instructions for Tenderers 
+ 
+SECTION 1 – INSTRUCTIONS FOR TENDERERS 
+ 
+1.1​
+General Instructions 
+1.1.1​
+In submitting a tender, the Tenderer accepts in full and in its entirety, the content 
+of this Tender Document, including subsequent clarifications issued by the 
+Notarial Archives Foundation, whatever his own corresponding conditions may be, 
+which he hereby waives. Tenderers are expected to examine carefully and comply 
+with all instructions, forms, contract provisions, and specifications contained in this 
+Tender Document. 
+ 
+No account can be taken of any reservation in the tender as regards the Tender 
+Document; any disagreement, contradiction, alteration, or deviation shall lead to 
+the tender offer not being considered any further. 
+ 
+Prospective Tenderers must submit their response to this tender as indicated in 
+Section 1.10. 
+ 
+1.1.2​
+The subject of this tender is the supply, delivery, and installation of an AI 
+Development System  
+at the Notarial Registers Archive. This project is 
+implemented by the Notarial Archives Foundation as the operator of the Notarial 
+Registers Archive, within the National Archives of Malta and the Ministry for the 
+Culture, Lands, and Local Government.  
+ 
+1.1.3​
+The execution period shall be 24 weeks after the signing of the Letter of 
+Acceptance, which is inclusive of the period required for the purchase of materials.  
+ 
+1.1.4​
+This is a lump-sum contract. 
+ 
+1.1.5​
+This call for tenders is being issued under an open procedure. 
+ 
+1.1.6​
+The Tenderer will bear all costs associated with the preparation and submission of 
+the tender. The Notarial Archives Foundation will in no case be responsible or 
+liable for such costs, whatever the conduct or outcome of the procedure. 
+ 
+1.2​
+Time-table 
+ 
+ 
+DATE 
+TIME 
+Deadline for request for additional information 
+from the Notarial Archives Foundation 
+6 November 2025 
+1300hrs  
+On-site clarification meeting 
+ 7 November 2025 
+1000hrs 
+Deadline for submission of tenders 
+17 November 2025 
+1300hrs 
+Tender opening session 
+17 November 2025 
+1330hrs 
+All times Central European Summer Time (CEST) 
+ 
+2
+
+[Page 3]
+Section 1 – Instructions for Tenderers 
+ 
+1.3      Lots 
+1.3.1​
+This tender is not divided into lots, and tenders must be for the whole of quantities 
+indicated.  
+ 
+1.4​
+Variant Solutions  
+1.4.1​
+The design must be approved by the client before proceeding with the rest of the 
+system. Any design modifications required during execution are to be brought to 
+the attention of the Client in writing - full documentation, inclusive of cost and 
+time implications, is to be submitted to the Client for approval. 
+ 
+1.5​
+Financing  
+1.5.1​
+The beneficiary of the financing is the Notarial Archives Foundation, and all fiscal 
+receipts shall be addressed to the same organisation.  
+ 
+1.5.2​
+The budget allocated for this procurement must not exceed a maximum cost of 
+sixty five thousand Euro (€65,000), inclusive of all applicable taxes and VAT. 
+ 
+1.6​
+Clarification Meeting 
+1.6.1​
+An on-site clarification meeting will be held on 7th November 2025 at 10am CEST 
+at the Notarial Registers Archive, 217, St Paul Street, Valletta, to answer any queries 
+of the prospective Tenderers. It is strongly recommended that prospective bidders 
+attend this meeting.  
+ 
+1.7​
+Selection Criteria 
+1.7.1​
+In order to be considered eligible for the award of the contract, Tenderers must 
+provide evidence that they meet or exceed certain minimum criteria described 
+hereunder. 
+ 
+1.7.2​
+No evidence of financial and economic standing is required. 
+ 
+1.7.3​
+The bidder must possess the requisite experience, strength, capabilities, and 
+technical know-how as a certified system integrator capable of meeting all the 
+requirements, as described in the tender document. 
+ 
+The following are the minimum bidder requirements for the bid to be successful: 
+●​ Material Authorisation Form/Letter (MAF) from the manufacturer, duly 
+signed.  
+●​ The contractor must be a certified Service Delivery Partner for all the 
+proposed system component manufacturers, covering the Malta region. 
+●​ The bidder must provide full design, delivery, installation, configuration, 
+commissioning and testing of the system and all its related components.  
+ 
+ 
+ 
+ 
+ 
+3
+
+[Page 4]
+Section 1 – Instructions for Tenderers 
+ 
+1.8​
+Explanations/Clarification Notes Concerning the Tender 
+1.8.1​
+Tenderers may submit questions in writing to the Notarial Archives Foundation by 
+sending an email to tenders@nafmalta.org until 6th November 2025 at 1pm CEST. 
+The Notarial Archives Foundation shall reply to all Tenderers’ questions and 
+publish clarification notes accordingly on the website, up to at least 3 calendar days 
+before the deadline for submission of tenders.  
+ 
+1.8.2​
+Prospective Tenderers are required to register their respective contact details at 
+tenders@nafmalta.org so that any clarifications/communications pertaining to this 
+tender procedure will be communicated to them in due time as per Tender 
+Document. The Notarial Archives Foundation shall not be held responsible for any 
+misdemeanour if this condition is not adhered to. 
+ 
+1.8.3​
+The Notarial Archives Foundation may, at its own discretion, as necessary, extend 
+the deadline for submission of tenders to give Tenderers sufficient time to take 
+clarification notes into account when preparing their tenders.  
+ 
+1.9​
+Currencies of Tender and Payments 
+1.9.1 ​ The currency of the tender is the Euro (€). The bids must be expressed in Euro (€). 
+ 
+1.9.2​
+Payments will be made in instalments, subject to the following milestones: 
+ 
+●​ Procurement and delivery: Interim payments for each hardware consignment to 
+the NRA, including a receipt (proof of payment). 
+ 
+●​ Installation and acceptance: Upon completion of installation, configuration, and 
+successful testing of the system to the satisfaction of the NRA. 
+ 
+1.10​ Presentation & Submission of Tenders 
+1.10.1 ​ The tender must comprise the following duly completed documents, inserted in a 
+single, sealed envelope, marked as NAF.T02.2025. 
+(i)​ Proof of technical capacity (refer to 1.7.3). 
+(ii)​ Tender Form (refer to Section 3). 
+(iii)​ Tenderer’s technical offer in response to specifications outlined in Section 2. 
+Include all relevant literature. 
+(iv)​ A financial bid calculated on a basis of Delivery Duty Paid (DPP) for the 
+works/supplies tendered (refer to Section 4). 
+ 
+ 
+1.10.2​ The Tenderers’ submission must be typed in or handwritten in indelible ink. Any 
+pages on which entries or corrections to this submission have been made must be 
+initialled by the person or persons signing the tender. All pages must be numbered 
+consecutively by hand, machine or in any other way acceptable to the Notarial 
+Archives Foundation. 
+ 
+ 
+ 
+ 
+4
+
+[Page 5]
+Section 1 – Instructions for Tenderers 
+ 
+1.10.3​ All tenders must be received by not later than 17th November 2025 at 1pm CEST 
+and delivered at: 
+Notarial Registers Archive 
+217, St Paul Street 
+Valletta VLT 1217 
+Malta 
+ 
+The tenders should be delivered by hand or by courier service. Tenders submitted 
+by any other means (e.g. email) will not be considered.  
+ 
+1.10.4​ No liability can be accepted for late delivery of tenders. Late tenders will be 
+rejected and will not be evaluated.  
+ 
+1.11​ Alterations and Withdrawal of Tenders 
+1.11.1​ Tenderers may alter or withdraw their tenders by written notification to the 
+Notarial Archives Foundation prior to the closing of the deadline. No tender may 
+be altered after the deadline for submission. 
+ 
+1.11.2 ​ Any notification of alteration or withdrawal must be prepared, sealed, marked and 
+submitted in accordance with Clause 1.10, and the envelope must also be marked 
+with “alteration” or “withdrawal”. 
+ 
+1.12​ Opening of Tenders 
+1.12.1​ Tenders will be opened by the Notarial Archives Foundation during a public 
+session on 17th November 2025 at 1:30pm CEST at the Notarial Registers 
+Archives, 217, St Paul Street, Valletta. A ‘Summary of Tenders Received’ will be 
+published on the Notarial Archives Foundation website 
+https://nafmalta.org/discover/opportunities/tenders/. 
+ 
+1.12.2​ During the opening of the tenders, the Tenderers’ names, the tender prices, and 
+any other information the Notarial Archives Foundation may consider appropriate, 
+will be made available. 
+ 
+1.12.3​ Envelopes marked “withdrawal” will be read out first and returned to the Tenderer. 
+ 
+1.12.4​ Reductions or alterations to tender prices made by Tenderers after submission will 
+not be taken into consideration during the analysis and evaluation of tenders. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5
+
+[Page 6]
+Section 1 – Instructions for Tenderers 
+ 
+1.13​ Secrecy of the Procedure  
+1.13.1​ After the opening of the tenders, no information about the examination, 
+clarification, evaluation, or comparison of tenders or decisions about the contract 
+award may be disclosed before the notification of award. 
+ 
+1.13.2​ Information concerning checking, explanation, opinions, and comparison of 
+tenders and recommendations concerning the award of contract, may not be 
+disclosed to Tenderers or any other person not officially involved in the process 
+unless otherwise permitted or required by law. 
+ 
+1.13.3​ Any attempt by a Tenderer to approach any member of the Evaluation Committee 
+or the Notarial Archives Foundation directly during the evaluation period will be 
+considered legitimate grounds for disqualifying his tender. 
+ 
+1.14​ Tender Evaluation Process  
+1.14.1​ The Evaluation Committee will check the administrative and technical compliance 
+of each tender. Tenders which are administratively and technically compliant will be 
+evaluated financially. 
+ 
+1.15​ Criteria for Award 
+1.15.1​ The sole award criterion will be the price. The contract will be awarded to the 
+cheapest priced tender satisfying the administrative and technical criteria. 
+ 
+1.16​ Right of the Notarial Archives Foundation to Accept or Reject any Tender  
+1.16.1​ The Notarial Archives Foundation reserves the right to accept or reject any tender 
+and/or to cancel the whole tender procedure and reject all tenders. The Notarial 
+Archives Foundation reserves the right to initiate a new invitation to tender. 
+ 
+1.16.2 ​ The Notarial Archives Foundation reserves the right to conclude the contract with 
+the successful Tenderer within the limits of the funds available. It can decide to ask 
+for a discount from the cheapest compliant Tenderer. 
+ 
+1.16.3​ Cancellation may occur where: 
+a)​ the tender procedure has been unsuccessful, namely where no qualitatively or 
+financially worthwhile tender has been received or there has been no response 
+at all; 
+b)​ the economic or technical parameters of the project have been fundamentally 
+altered; 
+c)​ exceptional circumstances or force majeure render normal performance of the 
+project impossible; 
+d)​ all technically compliant tenders exceed the financial resources available; 
+e)​ there have been irregularities in the procedure, in particular where these have 
+prevented fair competition. 
+ 
+ 
+ 
+6
+
+[Page 7]
+Section 1 – Instructions for Tenderers 
+ 
+In no circumstances will the Notarial Archives Foundation be liable for 
+damages, whatever their nature (in particular damages for loss of profits) or 
+relationship to the cancellation of a tender, even if the Notarial Archives 
+Foundation has been advised of the possibility of damages. The publication 
+of a contract notice does not commit the Notarial Archives Foundation to 
+implement the programme or project announced.  
+ 
+1.17​ Appeals 
+1.17.1​ The Notarial Archives Foundation shall publish a notification on its website 
+https://nafmalta.org/discover/opportunities/tenders/ indicating the awarded 
+contract, the financial aspect of the award and the name of the successful Tenderer. 
+The Notarial Archives Foundation shall, by electronic means, inform the Tenderers 
+concerned of the publication of the award. The Notarial Archives Foundation will 
+be precluded from concluding the contract during the period allowed for the 
+submission of appeals.  
+ 
+The award process shall be completely suspended if an appeal is eventually 
+submitted. 
+ 
+1.17.2​ Any Tenderer who is aggrieved by the award indicated by the Notarial Archives 
+Foundation may, within five working days from the publication of the notice, file a 
+letter of objection, together with a deposit, with the Notarial Archives Foundation, 
+clearly setting forth any reason for his complaint. A deposit of four hundred euro 
+(€400) must be made. 
+ 
+1.17.3 ​ After the expiry of the period allowed for the submission of a complaint, the 
+Notarial Archives Foundation shall deliver the letter of complaint, the deposit 
+receipt and all documents relating to the contract in question to a Review Board 
+who shall examine the matter in a fair and equitable manner. In its deliberation the 
+Review Board shall have the authority to obtain, in any manner it deems 
+appropriate any other information not already provided by the Notarial Archives 
+Foundation. The Review Board shall determine the complaint by upholding or 
+rejecting it. The written decision of the Review Board shall be published on the 
+Notarial Archives Foundation website 
+https://nafmalta.org/discover/opportunities/tenders/. 
+ 
+1.18 The Letter of Acceptance 
+1.18.1​ After the lapse of the appeals period and pending that no objections have been 
+received and/or upheld, the successful Tenderer may be invited to clarify certain 
+contractual questions raised therein. Such clarification will be confined to issues 
+that had no direct bearing on the choice of the successful tender. The outcome of 
+any such clarifications will be set out in a Memorandum of Understanding, to be 
+signed by both parties and incorporated into the letter of acceptance. 
+ 
+1.18.2​ The Notarial Archives Foundation will send the successful tenderer a Letter of 
+Acceptance, which the tenderer is to acknowledge receipt of within 7 calendar days. 
+The Letter of Acceptance is to inform the tenderer of the final decision and to 
+advise the next steps forward, which will include the drafting and signing of a 
+Contract Agreement.  
+ 
+7
+
+[Page 8]
+Section 1 – Instructions for Tenderers 
+ 
+1.18.3​ Within a week from the successful tenderer’s acknowledgement of the Letter of 
+Acceptance, the Notarial Archives Foundation shall send the same tenderer a 
+Contract Agreement with instructions on its completion. If the selected tenderer 
+fails to sign and return the Contract Agreement and other required documentation 
+within the prescribed 10 working days, the Notarial Archives Foundation may 
+consider the acceptance of the tender to be cancelled.  
+ 
+The Tenderer whose tender has been evaluated as second cheapest/second most 
+economically advantageous may be recommended for award, and so on and so 
+forth. 
+ 
+1.18.4​ Only the signed Contract Agreement will constitute an official commitment on the 
+part of the Notarial Archives Foundation, and activities may not begin until the 
+Contract has been signed both by the Notarial Archives Foundation and the 
+successful Tenderer. 
+ 
+1.19 Period of Delivery 
+1.19.1​ The period of delivery indicated in Clause 1.1.3 of the Instructions to Tenderers 
+commences from the Contract Agreement date or as instructed in the Contract 
+Agreement 
+ 
+1.20 Modifications 
+ 
+1.20.1​ Not applicable  
+ 
+1.20.2​ The percentage allowed for additional supplies and services other than those referred to 
+in the Bill of Quantities (BOexQ) is capped at 30% of contract amount.  
+ 
+1.21 Performance Guarantee 
+A Performance Guarantee of 4% shall be held against payment to the Notarial Archives 
+Foundation for any loss resulting from the Tenderer’s failure to perform their contractual 
+obligations fully and properly to the Foundation. The Foundation will not endorse the contract 
+agreement until the performance guarantee is submitted by the successful Tenderer. 
+ 
+1.22 Penalties 
+For the late execution of works for which the Contractor shall be responsible, the Foundation 
+shall charge a rate of Euro 50 per day of the delay, with the maximum aggregate amount of such 
+compensation not exceeding 20% of the total contract value.  
+8
+
+[Page 9]
+Section 2 – Technical Specifications 
+SECTION 2 – TECHNICAL SPECIFICATIONS 
+​
+Note: Where in this tender document a standard, brand or label is quoted, it is to be 
+understood that the Contracting Authority will accept equivalent standards, brands, or 
+labels. However, it will be the responsibility of the respective bidders to prove at 
+tendering stage that the standards, brands or labels they quoted are equivalent to the 
+standards requested by the Contracting Authority.​
+ 
+ 
+2.1  Objective 
+The NotaryPedia Project is an ambitious and far-reaching project using Artificial Intelligence 
+(AI) to make our past more accessible. It is intended to revolutionise the way we experience 
+Maltese history and culture, by building a complete knowledge representation from the 
+thousands of manuscripts found in the Notarial Registers Archive. This platform is designed to 
+make centuries of handwritten notarial deeds digitally accessible and semantically searchable. 
+The foundation of NotaryPedia shall be the NotaryPedia Knowledge Graph (NKG), which is a 
+structured, dynamic representation of extracted data from historic notarial registers. Through the 
+use of AI, large language models, and ontologies, the platform aims to: 
+●​ Automate the transcription and interpretation of handwritten Latin texts; 
+●​ Extract entities and relationships (e.g., persons, deeds, locations, dates); 
+●​ Provide a searchable interface for researchers, archivists, and the general public; 
+●​ Contribute to projects in heritage, legal history, and digital humanities. 
+​
+More information about the NotaryPedia project can be found at: http://notarypedia.mt/ 
+The objective of this tender is to equip the NotaryPedia development team with a first core and 
+state-of-art AI development system, consisting of an AI server for advanced AI computational 
+tasks, plus a network switch and a network firewall for a reliable, efficient, and secured multi-user 
+operativity. The whole system should be future-proof and expandable. 
+ 
+2.2 Summary of the required AI Development System components 
+The proposal for an AI development system must include three (3) main system components: 
+1.​ One (1) AI server; 
+2.​ One (1) Network Switch; 
+3.​ One (1) Network Firewall. 
+All the components have to be fully compatible with each other and expandable, therefore a full 
+design is also required from the bidder, as per Selection Criteria 1.7 section above.  
+Detailed specifications of each system component are found within the specifications section 2.4, 
+further below. 
+ 
+ 
+ 
+ 
+ 
+9
+
+[Page 10]
+Section 2 – Technical Specifications 
+2.3 Technical requirements 
+ 
+AI DEVELOPMENT SYSTEM 
+Spec. Category 
+Description 
+Contracting 
+Authority 
+Requirement 
+GENERAL REQUIREMENTS 
+1 
+Type of items 
+1.1 All the equipment must be brand new, inclusive of original 
+packaging and documentation. Refurbished or used items are not 
+accepted.  
+ 
+1.2 The items shall be delivered assembled, and must include all the 
+necessary cables, raisers, supports, and other accessories needed to 
+install them within a server rack cabinet, and to operate them in an 
+efficient and tidy way. 
+Mandatory 
+2 
+System 
+components’ 
+requirements 
+The AI Development System must include three (3) main system 
+components: 
+2.1​One (1) AI server; 
+2.2​One (1) Network Switch; 
+2.3​One (1) Network Firewall. 
+All the components have to be expandable and fully compatible with 
+each other, therefore a full design is also required from the bidder, as 
+per Selection Criteria 1.7 section above. 
+The bidder must provide full design, delivery, installation, 
+configuration, commissioning and testing of the system and all its 
+related components. The design must be approved by the client 
+before proceeding with the rest of the system. Any design 
+modifications required during execution are to be brought to the 
+attention of the Client in writing - full documentation, inclusive of 
+cost and time implications, is to be submitted to the Client for 
+approval. 
+ 
+Detailed technical specifications of each system component are found 
+further below. 
+Mandatory 
+3 
+Warranty 
+Hardware and software components forming part of the system 
+should include at least three (3) years warranty, covering parts and 
+labour, providing 24x7 on-site support coverage with advanced 
+replacement and next business day hardware warranty, and including 
+firmware and feature updates and upgrades. 
+ 
+The tenderer shall provide a written declaration that the products 
+supplied will be warrantied in conformity with the contract 
+specifications and service requirements. 
+Mandatory 
+10
+
+[Page 11]
+Section 2 – Technical Specifications 
+AI Server​
+Quantity: one (1) 
+Spec. Category 
+Description 
+Contracting 
+Authority 
+Requirement 
+DETAILED SPECIFICATIONS 
+4 
+Form factor 
+2U or 3U chassis, rack mountable, including rack rails and cable 
+management accessories. 
+Mandatory 
+5 
+CPUs 
+The server must include at least two (2) CPUs, satisfying the 
+following minimum specifications: 
+ 
+5.1​AMD Epyc 9115 or better; 
+5.2​Frequency: 2.6GHz or higher; 
+5.3​Cores: 16-core or more. 
+Mandatory 
+6 
+GPUs 
+The server shall have GPU support options for at least: 
+ 
+6.1​Four (4) double-wide GPUs (NVIDIA L40/L40S/H100 
+NVL/RTX PRO 6000 Blackwell), or more; 
+6.2​Eight (8) single-wide GPUs (NVIDIA L4), or more. 
+ 
+The server must include at least one (1) GPU having the following 
+specifications or better: 
+ 
+6.3​NVIDIA RTX PRO 6000 Blackwell Server Edition 96GB 
+PCIe Accelerator, or better; 
+6.4​Memory capacity: 96GB GDDR7 or better; 
+6.5​Memory bandwidth: 1.6TB/s or higher; 
+6.6​Performance: 117 TF FP32 or better; 
+6.7​Interface: PCIe Gen5 or better. 
+ 
+All necessary cables, riser cards, accelerators, and accessories required 
+for the installation and operation, must be included. 
+Mandatory 
+7.1 
+RAM 
+The server must satisfy the following minimum memory 
+specifications: 
+ 
+7.1​Support Twenti-four (24) DIMM slots or more; 
+7.2​Scalable up to 6.0 TB using DDR5 RDIMM operating at 6400 
+MT/s and 12 channels per CPU up to 4800MT/s, or better. 
+ 
+The server must include at least four (4) RAM memories, satisfying 
+the following minimum specifications: 
+ 
+7.3​Type: DDR5 Registered RDIMM or better; 
+7.4​Capacity single memory: 64GB or higher; 
+7.5​Total aggregated capacity: 256GB or higher; 
+7.6​DIMM rank & speed: Dual rank 6400 MT/s or better. 
+Mandatory 
+11
+
+[Page 12]
+Section 2 – Technical Specifications 
+8 
+Bus slots 
+The server must support a minimum of eight (8) PCI express 5.0 x16 
+slots, or better. 
+Mandatory 
+9 
+Storage 
+The server shall have drive cages supporting at least: 
+ 
+9.1​Twelve (12) LFF SAS/SATA bays + four (4) LFF SAS/SATA 
+bays + four (4) LFF SAS/SATA bays, or more; 
+9.2​Total aggregated bays: 20 or more.​
+ 
+The server must include at least two (2) drives satisfying the 
+following minimum specifications: 
+ 
+9.3​Capacity single drive: 1.6TB or higher; 
+9.4​Total aggregated capacity: 3.2TB or higher; 
+9.5​Type: NVMe; 
+9.6​Requirement: Mixed Use SFF Self-encrypting SSD. 
+Mandatory 
+10 
+Boot Storage 
+The server must also include at least two (2) drives as a boot 
+optimised storage, satisfying the following minimum specifications: 
+ 
+10.1​
+Capacity single drive: 480GB or higher; 
+10.2​
+Total aggregated capacity 960GB or higher; 
+10.3​
+Type: M.2 NVMe; 
+10.4​
+Requirement: Hot Plug Boot Optimized Storage in ​
+RAID 1. 
+Mandatory 
+11 
+Storage 
+controller 
+The server should have a controller which supports Mixed Mode 
+combining RAID and HBA mode operation simultaneously. ​
+The Embedded / PCIe based x16 RAID controller must satisfy the 
+following minimum requirements: 
+ 
+11.1​
+8GB Flash backed write cache, or better; 
+11.2​
+supporting RAID 0, 1, 5, 6, 10, 50, 60; 
+11.3​
+supporting mix-and-match SAS, SATA, and NVMe drives 
+to the same controller; 
+11.4​
+supporting 6G SATA, 12G SAS, 16G NVMe. 
+ 
+The above mentioned controller must support the following 
+minimum requirements: 
+ 
+11.5​
+Expand Logical Drive; 
+11.6​
+Instant Secure Erase; 
+11.7​
+Migrate RAID/Stripe Size; 
+11.8​
+Modifying Cache Write Policy; 
+11.9​
+Move Logical Drive; 
+11.10​ Re-enable Failed Logical Drive; 
+11.11​ Load balancing; 
+11.12​ Configurable stripe size up to 1 MB; 
+11.13​ Check consistency for background data integrity; 
+11.14​ Patrol read for media scanning and repairing; 
+11.15​ Rebuild. 
+Mandatory 
+12
+
+[Page 13]
+Section 2 – Technical Specifications 
+12.1 
+Network 
+adaptors 
+The server must support as a minimum the following networking 
+cards: 
+ 
+12.1.1​ 1Gb 4-port network adaptors; 
+12.1.2​ 10Gb 2-port Ethernet adaptor; 
+12.1.3​ 10GBaseT 2-port Ethernet adaptor; 
+12.1.4​ 10/25Gb 2-port SFP28 Ethernet adaptor; 
+12.1.5​ 10/25Gb 4-port SFP28 Ethernet adaptor; 
+12.1.6​ 100Gb 2-port SFP112 Adapter; 
+12.1.7​ 100Gb 2-port QSFP28 Ethernet; 
+12.1.8​ 100Gb 2-port QSFP56 Ethernet; 
+12.1.9​ 200Gb QSFP56 Ethernet; 
+12.1.10​Infiniband Options: 200Gb Single or Dual port Adapter 
+or or 400Gb Single port Adapter; 
+12.1.11​DPU Options : 200Gb Dual port or 400Gb Single port. 
+ 
+The server must include at least one (1) network adaptor, 
+compatible with the other adapters required in Spec n. 10.1, and 
+satisfying the following minimum specifications: 
+ 
+12.1.12​BCM57416 Ethernet 10Gb 2-port BASE-T OCP3 
+Adapter, or better. 
+ 
+The server must also include at least two (2) network adaptors, 
+compatible with the other adapters required in Spec n. 10.1, and 
+satisfying the following minimum specifications: 
+ 
+12.1.13​10Gb SFP+SR Transceiver, or better. 
+Mandatory 
+13 
+Interfaces 
+The server must feature as a minimum the following interfaces: 
+ 
+13.1​
+Five (5) USB 3.2 Gen1 ports; 
+13.2​
+Front: 1 display port and management port; 
+13.3​
+Rear: VGA and optional serial port, 1GbE Dedicated 
+management port. 
+Mandatory 
+14 
+Power supply 
+and cooling 
+The server must support hot plug redundant (N+1) low halogen 
+power supplies with minimum 96% efficiency. 
+ 
+The server must include at least: 
+ 
+14.1​ Two (2) power supplies 1000W Titanium Hot Plug or 
+better; 
+14.2​ Two (2) jumper cords C14 – C13 WW 250V 16Amp 
+2.5m; 
+14.3​ Efficient Hot-plug fans. 
+ 
+ 
+ 
+ 
+ 
+Mandatory 
+13
+
+[Page 14]
+Section 2 – Technical Specifications 
+15 
+Industry 
+standard 
+compliance 
+The server should satisfy the following minimum compliance 
+standards: 
+ 
+15.1​
+ACPI 6.5 Compliant; 
+15.2​
+Advanced Encryption Standard (AES); 
+15.3​
+Triple Data Encryption Standard (3DES); 
+15.4​
+Active Directory v1.0; 
+15.5​
+ASHRAE A3/A4; 
+15.6​
+DMTF Systems Management Architecture for Server; 
+15.7​
+Hardware Command Line Protocol (SMASH CLP); 
+15.8​
+Energy Star; 
+15.9​
+IPMI 2.0; 
+15.10​ Microsoft® Logo certifications; 
+15.11​ PCIe 5.0 Compliant; 
+15.12​ PXE Support; 
+15.13​ Redfish API; 
+15.14​ Secure Digital 4.0; 
+15.15​ SMBIOS 3.7; 
+15.16​ SNMP v3; 
+15.17​ TLS 1.3; 
+15.18​ TPM 2.0 Support; 
+15.19​ UEFI Class 3; 
+15.20​ USB 3.0 Compliant. 
+Mandatory 
+16.1 
+Operating 
+Systems and 
+Virtualization 
+support 
+The server must support as a minimum the following operating 
+systems and virtualization softwares: 
+ 
+16.11​ Microsoft® Windows Server® 2019, 2022; 
+16.12​ Red Hat® Enterprise Linux, 64-bit Includes KVM 8.6, 8.7 
+Beta, 9.0, and 9.1 Beta; 
+16.13​ SUSE® Linux Enterprise Server, 64-bit, includes KVM 
+and Xen 15 SP4; 
+16.14​ VMware 8.0 and 7.0 U3. 
+ 
+The supplied system shall be delivered with Ubuntu Server 24.04 
+LTS (64-bit) installed, or with another operating system of 
+equivalent capability if agreed in writing with the Client. The installed 
+system must be initially configured and remain fully compatible with 
+the operating systems and virtualization softwares listed above. 
+Mandatory 
+17 
+System 
+security 
+The server should satisfy the following minimum security 
+requirements: 
+ 
+17.1​ Enhanced Server Data Security: Encryption and key 
+management, UEFI-managed encryption, and self-encrypting 
+drives (SED) for enhanced data-at-rest protection; 
+17.2​ Sanitize Data with One-Button Erase: Must be NIST SP 
+800-88 compliant; 
+17.3​ Must be FIPS 140-3, NIST SP 800-53, NIST SP 800-171, and 
+NIST SP 800-88 Compliant; 
+17.4​ Must provide an intuitive cloud operating experience, 
+Mandatory 
+14
+
+[Page 15]
+Section 2 – Technical Specifications 
+ensuring streamlined and highly secure operations from the 
+edge to the cloud; 
+17.5​ Physical Security Options: System maintenance switch, USB 
+security, bezel lock, and chassis intrusion detection switch; 
+17.6​ Servers must be built using a trusted supply chain to undergo 
+rigorous inspections and checkpoints, to detect and mitigate 
+malicious microcode and counterfeit parts throughout the 
+server build and lifecycle; 
+17.7​ Server must be offered with Trusted Platform Module (TPM) 
+2.0, Embedded TPM 2; 
+17.8​ UEFI Secure Boot and Secure Start support; 
+17.9​ Tamper-free updates - components digitally signed and 
+verified; 
+17.10​Immutable Silicon Root of Trust; 
+17.11​Ability to rollback firmware; 
+17.12​Secure Recovery - recover critical firmware to known good 
+state on detection of compromised firmware; 
+17.13​IPMI 2.0 digitally signed firmware; 
+17.14​Secure Digital 2.0 or more recent version; 
+17.15​UEFI Secure Boot and UEFI Secure Start; 
+17.16​FIPS 140-2 validation; 
+17.17​Commercial National Security Algorithms (CNSA) support; 
+17.18​Advanced Encryption Standard (AES) and Triple Data 
+Encryption Standard (3DES); 
+17.19​SNMP v3; 
+17.20​TLS 1.2 or more recent; 
+17.21​Secure erase of NAND/User data 
+18 
+Embedded 
+Remote 
+Management 
+The server should satisfy the following minimum remote 
+management requirements: 
+ 
+18.1​ System remote management should support browser based 
+graphical remote console along with Virtual Power button, 
+remote boot using USB/CD/DVD Drive. It should be 
+capable of offering upgrade of software and patches from a 
+remote client using Media/image/folder; It should support 
+server power capping and historical reporting and should 
+have support for multifactor authentication; 
+18.2​ Server should have dedicated 1Gbps remote management 
+port; 
+18.3​ Server should support agentless management using the 
+out-of-band remote management port; 
+18.4​ The server should support monitoring and recording changes 
+in the server hardware and system configuration. It assists in 
+diagnosing problems and delivering rapid resolution when 
+system failures occur; 
+18.5​ Two factor Authentication; 
+18.6​ Local or Directory-based user accounts with Role based 
+access control; 
+18.7​ Remote console sharing up to 6 users simultaneously during 
+pre-OS and OS runtime operation, Console replay - Console 
+Mandatory 
+15
+
+[Page 16]
+Section 2 – Technical Specifications 
+Replay captures and stores for replay the console video during 
+a server’s last major fault or boot sequence. Microsoft 
+Terminal Services Integration, 128 bit SSL encryption and 
+Secure Shell Version 2 support.Should provide support for 
+AES on browser.Should provide remote firmware update 
+functionality; 
+18.8​ Should support RESTful API integration 
+19 
+Server 
+Management 
+The server management software should satisfy the following 
+minimum requirements: 
+ 
+19.1​ Software should support dashboard view to quickly scan the 
+managed resources to assess the overall health of the data 
+center. It should provide an at-a-glance visual health summary 
+of the resources the user is authorized to view; 
+19.2​ The Dashboard minimum should display a health summary of 
+the following: Server Profiles, Server Hardware, Appliance 
+alerts; 
+19.3​ The Systems Management software should provide 
+Role-based access control; 
+19.4​ Management software should support integration with 
+popular virtualization platform management software like 
+Vmware vCenter & vRealize Operations, and Microsoft 
+System Center & Admin Center; 
+19.5​ Should help provide proactive notification of actual or 
+impending component failure alerts on critical components 
+like CPU, Memory and HDD; 
+19.6​ Should have dashboard for firmware baselines while 
+performing minimum required firmware checks and 
+highlighting out-of-compliance devices for updates with the 
+selected firmware baseline; 
+19.7​ The Server Management Software should be of the same 
+brand as the server supplier; 
+19.8​ To include 3-year Server Management software subscription 
+and support. 
+Mandatory 
+20 
+Cloud 
+monitoring 
+and 
+management 
+The server should satisfy the following cloud operating requirements: 
+ 
+20.1​ Delivers cloud operational agility by unifying compute 
+operations as a service across the compute lifecycle from 
+edge-to-cloud; 
+20.2​ Manages and controls servers regardless of physical location; 
+20.3​ Subscription-based entitlement. 
+ 
+The server should include a Server Lifecycle Management solution, 
+satisfying the following requirements: 
+ 
+20.4​ Seamless firmware upgrades with Intelligent delta-only based 
+updates; 
+20.5​ Group-based firmware management that can be scheduled or 
+on-demand; 
+Mandatory 
+16
+
+[Page 17]
+Section 2 – Technical Specifications 
+20.6​ Serial and parallel firmware updates with “Stop on failure” 
+option; 
+20.7​ Group based policy for configurations, OS installs, BIOS 
+settings; 
+20.8​ OS Image deployment; 
+20.9​ Rest API Support. 
+ 
+The server should also satisfy the following requirements: 
+ 
+20.10​Supportability:  
+a.​ Automatic creation of support cases for critical 
+serviceable events;   
+b.​ Notification of critical hardware alerts via in-app and 
+email notifications;  
+c.​ On-demand firmware compliance reporting;  
+d.​ Remote console using a web browser with HTML5 
+support;​
+ 
+20.11​Identity & Access Management:  
+a.​ Unified Identity & Access Management;  
+b.​ Role-based Access Control (RBAC);  
+c.​ Single Sign-on (SSO);  
+d.​ Resource-level restriction policies (RRP).​
+ 
+20.12​Predictive AI insights to forecast future energy costs and 
+carbon emissions. Threshold-based alerting; 
+20.13​AI-driven insights with workflow policy approvals; 
+20.14​Software must support multi-tenancy; 
+20.15​Software must offer map-based visibility with an intuitive 
+view of server health via global map; 
+20.16​Multi-vendor server monitoring; 
+20.17​To include a 3-year subscription for SaaS Cloud enabled 
+management. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17
+
+[Page 18]
+Section 2 – Technical Specifications 
+ 
+ 
+Network Switch​
+Quantity: one (1) 
+ 
+Spec.  Category 
+Description 
+Contracting 
+Authority 
+Requirement 
+DETAILED SPECIFICATIONS 
+21 
+Physical and 
+generic 
+requirements 
+The switch must satisfy the following minimum requirements: 
+21.1​ 1U chassis, rack mountable, including rack rails and cable 
+management accessories; 
+21.2​ Operating temperature range: 0°C to 45°C or larger; 
+21.3​ Input voltage ranges: 100-127V 7.1A for 100-127 VAC, 
+200-240V 3.4A for 200-240 VAC; 
+21.4​ Power consumption ranges: 100-130W (Idle), 350-400W 
+(Max); 
+21.5​ Heat dissipation: 1250 BTU/hr or higher. 
+Mandatory 
+22 
+Ports and 
+connectivity 
+The switch must feature as a minimum: 
+22.1​ Twenty-four (24) ports of 1 GbE/10 GbE (SFP/SFP+); 
+22.2​ Four (4) ports of 40 GbE / 100 GbE (QSFP/QSFP28); 
+22.3​ Eight (8) 10Gb SR Transceivers; 
+22.4​ RJ-45 Ethernet port (incl RJ-45 serial); 
+22.5​ USB-Type A (incl. USB-C console). 
+Mandatory 
+23 
+Switching 
+capacity 
+The switch must satisfy the following minimum switching 
+requirements: 
+23.1​ Switching Capacity: 1.26 Tbps or higher; 
+23.2​ Forwarding rate: 1,305 Mpps or higher. 
+Mandatory 
+24 
+Memory - 
+switch 
+processor 
+The switch must satisfy the following minimum switch processor 
+specifications: 
+24.1​Quad Core ARM Cortex™ A72 @ 1.8 GHz, or better. 
+Mandatory 
+25 
+Layer 2 
+switching 
+The switch must satisfy at least the following Layer 2 specifications: 
+25.1​VLAN - Supports up to 1,024 port-based or IEEE 
+802.1Q-based VLANs; 
+25.2​VLAN Translation - Remaps VLANs during transit across a 
+core network; 
+25.3​Bridge Protocol Data Unit (BPDU) tunneling - Transmits STP 
+BPDUs transparently, allowing correct tree calculations across 
+service providers, WANs, or MANs; 
+25.4​Port mirroring - Duplicates port traffic (ingress and egress) to 
+a local or remote monitoring port; supports 4 mirroring 
+groups, with an unlimited number of ports per group; 
+25.5​STP - Supports standard IEEE 802.1D STP, IEEE 802.1w 
+Rapid Spanning Tree Protocol (RSTP) for faster convergence, 
+and IEEE 802.1s Multiple Spanning Tree Protocol (MSTP); 
+25.6​Rapid Per-VLAN spanning tree plus (RPVST+) - Allows each 
+VLAN to build a separate spanning tree to improve link 
+bandwidth usage in network environments with multiple 
+Mandatory 
+18
+
+[Page 19]
+Section 2 – Technical Specifications 
+VLANs; 
+25.7​Internet Group Management Protocol (IGMP) - Controls and 
+manages the flooding of multicast packets in a Layer 2 
+network; 
+25.8​Static VXLAN - Supports static VXLAN. Allows operators to 
+manually connect two or more VXLAN tunnel endpoints 
+(VTEP); 
+25.9​Dynamic VXLAN with BGP-EVPN - Deep segmentation for 
+Spine/Leaf data center networks or Layer 3 campus designs 
+with centralized gateway and symmetric Integrated Routing 
+and Bridging (IRB) based distributed gateways VXLAN 
+tunnels. 
+a.​ Port PBR VXLAN support; 
+b.​ VSX Active Forwarding support for VXLAN 
+underlay; 
+c.​ Route-map support BGP EVPN AF. 
+26 
+Layer 3 
+switching 
+The switch must satisfy at least the following Layer 2 specifications: 
+26.1​Static IPv4 routing - Provides simple manually configured IPv4 
+routing; 
+26.2​Sub-Interface: 
+a.​
+Allows multiple IP addresses on a single routed 
+interface; 
+b.​
+Supports unicast and multicast routing for both IPv4 
+and IPv6; 
+c.​
+Supports OSPF, BGP and PIM for both IPv4 and 
+IPV6; 
+d.​
+Supported on RoP, L3 lags and Hydra interfaces; 
+e.​
+Network Load Balancing (NLB); 
+f.​
+PBR and Ingress Policy support. 
+26.3​Open shortest path first (OSPF) - Delivers faster convergence; 
+uses link-state routing Interior Gateway Protocol (IGP), which 
+supports ECMP, NSSA, and MD5 authentication for increased 
+security and graceful restart for faster failure recovery. 
+a.​
+Configurable OSPF distance for type-5 LSA; 
+b.​
+Configurable default-metric for OSPF 
+default-information; 
+c.​
+Loopback IP redistribution in OSPF -Allows 
+redistribution of IPv4 and IPv6 addresses of loopback 
+interface in OSFPv2/v3. 
+26.4​Border Gateway Protocol 4 (BGP-4); 
+26.5​Dynamic BGP Peering; 
+26.6​Routing Information Protocol version 2 (RIPv2); 
+26.7​Routing Information Protocol Next Generation (RIPng) 
+networking; 
+26.8​Multiprotocol BGP (MP-BGP) with IPv6 Address Family; 
+26.9​Policy Based Routing (PBR); 
+26.10​ 6 in 4 Tunnels; 
+26.11​ IP Performance Optimization; 
+26.12​ Static IPv6 routing; 
+Mandatory 
+19
+
+[Page 20]
+Section 2 – Technical Specifications 
+26.13​ Dual IP stack; 
+26.14​ OSPFv3; 
+26.15​ Equal-Cost Multipath (ECMP); 
+26.16​ Generic Routing Encapsulation (GRE). 
+ 
+27 
+Other features The switch must satisfy at least the following feature specifications: 
+27.1​ Support virtual Switching Technology for High availability 
+and Resiliency; 
+27.2​ Advanced Layer 2/3 feature set that includes BGP, OSPF, 
+VRF, and IPv6; 
+27.3​ Dynamic segmentation; 
+27.4​ IP Multicast; 
+27.5​ Jumbo Frames support up to frame size of 9K bytes; 
+27.6​ Packet Storm Protection; 
+27.7​ Quality of Service (QoS) - Strict priority (SP) queuing and 
+Deficit Weighted Round Robin (DWRR); 
+27.8​ Data Center Bridging (DCB); 
+27.9​ Supports lossless Ethernet networking standards to eliminate 
+packet loss due to queue overflow; 
+27.10​ Priority Flow Control (PFC) 2 priorities per port; 
+27.11​ Enhanced Transmission Service (ETS); 
+27.12​ DCB Exchange Protocol (Pre-standard LLDP DCBX IEEE 
+1.01 version); 
+27.13​ Flow-Control Guard - Prevents accumulation of excessive 
+congestion with periodic flushing. Avoids packets buffering 
+for an extended time period; 
+27.14​ Global Buffering Statistics -Storage Solution Support : iSCSI, 
+Lossless iSCSI, RDMA over Converged Ethernet version 2 
+(RoCE v1 and v2) and Non-Volatile Memory Express (NVMe 
+over Fabrics); 
+27.15​ REST API interface - Built-in programmable and easy to use; 
+27.16​ Management interface control - Enables or disables each of 
+the following interfaces depending on security preferences: 
+console port, or reset button; 
+27.17​ Industry-standard CLI - Reduces training time and expenses, 
+and increases productivity in multivendor installations; 
+27.18​ Management security - Restricts access to critical 
+configuration commands; offers multiple privilege levels with 
+password protection; ACLs provide SNMP access; local and 
+remote Syslog capabilities allow logging of all access; 
+27.19​ IP SLA - Monitor the network for degradation of various 
+services, including monitoring voice; 
+27.20​ SNMP v2c/v3 - Provides SNMP read and trap support of 
+industry standard Management Information Base (MIB), and 
+private extensions; 
+27.21​ sFlow® (RFC 3176) - Provides scalable ASIC-based wire 
+speed network monitoring and accounting with no impact on 
+network performance. 
+ 
+ 
+Mandatory 
+20
+
+[Page 21]
+Section 2 – Technical Specifications 
+Network Firewall​
+Quantity: one (1) 
+Spec. Category 
+Description 
+Contracting 
+Authority 
+Requirement 
+DETAILED SPECIFICATIONS 
+28 
+Physical and 
+generic 
+requirements 
+The firewall must satisfy the following minimum requirements: 
+ 
+28.1​ 1U chassis, rack mountable, including rack rails and cable 
+management accessories; 
+28.2​ Redundant power supplies. 
+Mandatory 
+29 
+Firewall 
+performance 
+The firewall must satisfy the following minimum requirements: 
+ 
+29.1​
+Firewall Throughput: 30 Gbps or higher; 
+29.2​
+Firewall (IMIX) : 16 Gbps or higher; 
+29.3​
+IPS throughput: 6 Gbps or higher; 
+29.4​
+IPSec VPN : 17 Gbps or higher; 
+29.5​
+Threat Protection : 5 Gbps or higher; 
+29.6​
+SSL/TLS : 1.1 Gbps or higher; 
+29.7​
+Concurrent connections: 6,500,00 or higher; 
+29.8​
+Connections per second : 134,000 or higher. 
+Mandatory 
+30 
+Firewall 
+Storage 
+The firewall must feature an integrated SSD with at least 120GB 
+capacity. 
+Mandatory 
+31 
+Interfaces 
+The switch must feature as a minimum: 
+ 
+31.1​
+Ethernet connections:  
+a.​ Eight (8) x 1Gbps Copper; 
+b.​ One (1) SFP Fibre; 
+c.​ Three (3) 10G Fibre. 
+31.2​
+Management ports:  
+a.​ One (1) RJ45; 
+b.​ One (1) COM RJ45 (OOB);  
+c.​ One (1) COM Micro USB. 
+Mandatory 
+32 
+Security 
+features 
+The firewall must include a minimum 3 years network security 
+subscription covering at least the following features: 
+ 
+32.1​
+TLS Inspection (TLS 1.3 included); 
+32.2​
+Streaming deep packet inspection; 
+32.3​
+IPS: Next-gen intrusion prevention; 
+32.4​
+Active Threat Response – threat feeds; 
+32.5​
+SDWAN / Traffic Shaping; 
+32.6​
+IPSEC/SSL Site-to-site and remote access VPN; 
+32.7​
+Reporting: Extensive network and threat reporting; 
+32.8​
+Cloud Management. 
+Mandatory 
+ 
+21
+
+[Page 22]
+Section 3 – Tender Form 
+ 
+SECTION 3 – TENDER FORM 
+ 
+NAF.T02.2025 
+ 
+Tender for the Supply and Installation of an AI Development System at the 
+Notarial Registers Archive associated with the Notarypedia Project. 
+ 
+ 
+A. TENDER SUBMITTED BY: 
+ 
+Company Name (if applicable): 
+ 
+ 
+Name: 
+ 
+Surname:  
+Email: 
+ 
+Phone: 
+ 
+Address:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B. CONTACT PERSON FOR THIS TENDER: 
+ 
+Name: 
+ 
+Surname:  
+Email: 
+ 
+Phone: 
+ 
+Address:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C. TENDERER’S DECLARATION(S)  
+This section is to be completed and signed by the Tenderer (including each partner in a 
+consortium).  
+ 
+In response to your letter of invitation to tender for the above contract, we, the undersigned, 
+hereby declare that: 
+ 
+1.​ We have examined, and accept in full and in its entirety, the content of this Tender 
+Document (including subsequent Clarifications Notes issued by the Notarial Archives 
+Foundation) for invitation to tender for the supply and installation of an AI 
+Development System at the Notarial Registers Archive associated with the Notarypedia 
+22
+
+[Page 23]
+Section 3 – Tender Form 
+ 
+project (NAF.T02.2025) published on 27th October 2025. We hereby accept the contents 
+thereto in their entirety, without reservation or restriction. We also understand that any 
+disagreement, contradiction, alteration, or deviation shall lead to our tender offer not 
+being considered any further. 
+ 
+2.​ We confirm that the Grand Total Price of our tender (inclusive of duties, other 
+taxes/charges, Eco-Contribution (if any) and any discounts) is according to the Grand 
+Total on page 24 of this document. 
+ 
+3.​ This tender is valid for a period of 3 weeks from the final date for submission of tenders. 
+ 
+4.​ We are not bankrupt or under an administration appointed by the Court, or under 
+proceedings leading to a declaration of bankruptcy. We also declare that we have not 
+been convicted criminally or found guilty of professional misconduct. Furthermore, we 
+are up to date in the payment of social security contributions and other taxes. 
+ 
+5.​ We accept that we shall be excluded from participation in the award of this tender if 
+compliance certificates in respect of declarations made under Clause 4 of this declaration 
+are not submitted by the indicated dates. 
+ 
+6.​ We will inform the Notarial Archives Foundation immediately if there is any change in 
+the above circumstances at any stage during the implementation of the contract. We also 
+fully recognise and accept that any false, inaccurate, or incomplete information 
+deliberately provided in this application may result in our exclusion from this and other 
+contracts funded by the Government of Malta and the European Communities. 
+ 
+7.​ Our tender submission has been made in conformity with the Instructions to Tenderers, 
+and in this respect, we confirm that the following documentation has been included: 
+●​ Proof of technical capacity 
+●​ Tender Form (Section 3) 
+●​ Technical Offer (in response to specifications outlined in Section 2). 
+●​ Financial Bid (Section 4) 
+ 
+8.​ We note that the Notarial Archives Foundation is not bound to proceed with this 
+invitation to tender and that it reserves the right to cancel the contract. It will incur no 
+liability towards us should it do so. 
+Name and Surname: ..................................................................................................................................... 
+I.D. / Passport Number: ............................................................................................................................. 
+Signature of Tenderer: .................................................................................................................................. 
+Duly authorised to sign this tender on behalf of: .................................................................................... 
+Company/Lead Partner VAT No: (if applicable)..................................................................................... 
+Stamp of the firm/company: ...................................................................................................................... 
+Place and date: ...............................................................................................................................................​ 
+23
+
+[Page 24]
+Section 4 – Financial Bid 
+ 
+ 
+SECTION 4 – Financial Bid 
+NAF.T02.2025 
+ 
+Tender for the Procurement and Installation of an AI Development System at the Notarial 
+Registers Archive associated with the Notarypedia Project. 
+ 
+Item 
+Description 
+Amount 
+including Taxes, 
+other Duties & 
+Discounts but 
+Exclusive of VAT 
+(€) 
+1 
+The full design, delivery, installation, configuration, commissioning and testing of the 
+system and of all its related components including: 
+1.​ One (1) AI server; 
+2.​ One (1) Network Switch; 
+3.​ One (1) Network Firewall. 
+Any design modifications required during execution shall be documented and submitted for 
+approval. 
+Sheet 1 
+Bills of Quantities (page 25) 
+  
+ 
+VAT charges 
+ 
+Total including VAT  
+  
+  
+  
+  
+  
+  
+The successful bidder shall be bound to conform in all respects with VAT legislation and 
+regulations. 
+ 
+  
+  
+  
+  
+  
+  
+ 
+Name: 
+.................................................................... 
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+Signature:  
+.................................................................... 
+  
+  
+  
+ 
+(the person or persons authorised to sign on behalf of the Tenderer) 
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+Date:  
+.................................................................... 
+  
+  
+  
+ 
+ 
+24
+
+[Page 25]
+Section 4 – Financial Bid 
+ 
+Sheet 1 - Bill of Quantities 
+AI development system 
+Component 
+Description  
+  
+  
+Quantity 
+Unit 
+Rate (€)​
+Excl. VAT, 
+Eco 
+Contributi
+on (if any) 
+and all 
+other 
+charges as 
+may be 
+applicable 
+Amount 
+(€)​
+Excl. VAT, 
+Eco 
+Contributi
+on (if any) 
+and all 
+other 
+charges as 
+may be 
+applicable 
+1 
+AI Server as per specifications in Section 2 
+ 1 
+  
+  
+ 
+2 
+Network Switch as per specifications in Section 2 
+ 1 
+  
+  
+ 
+3 
+Network Firewall as per specifications in Section 2 
+1 
+ 
+ 
+ 
+Total Carried Forward to General Summary  
+ 
+ 
+  
+  
+  
+  
+  
+  
+Notes to Tenderer  
+The full design, delivery, installation, configuration, commissioning and testing of the system and of all its related components must be included as part of the final 
+sum. The design must be approved by the client before proceeding with the rest of the system. Any design modifications required during execution are to be 
+brought to the attention of the Client in writing - full documentation, inclusive of cost and time implications, is to be submitted to the Client for approval. 
+ 
+25

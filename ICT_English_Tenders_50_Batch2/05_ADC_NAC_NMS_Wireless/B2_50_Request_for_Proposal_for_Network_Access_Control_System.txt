@@ -1,0 +1,128 @@
+Title: Request for Proposal for Network Access Control System
+Source: https://publicdata.usac.org/CBR/Prd/Form470/125258/CBR420250206/19312948-WHSD%20cyber%20pilot%20NAC%20RFP.pdf
+Pages: 3
+
+--- Extracted text by page ---
+
+[Page 1]
+Request for Proposal (RFP) for Network Access Control (NAC) System 
+ 
+ 
+1. Introduction 
+ 
+The Woodland Hills School District is seeking proposals from qualified vendors to provide a 
+Network Access Control (NAC) system. The proposed solution should deliver enterprise-grade 
+network security and access management capabilities similar to ExtremeControl from Extreme 
+Networks. The NAC system must be fully compatible with Extreme switches, ExtremeCloud IQ, 
+and Aruba Access Points. 
+ 
+2. Background 
+ 
+We are a K-12 school district looking to enhance our cybersecurity posture by leveraging federal 
+funds through the USAC Cybersecurity Pilot Program. As part of this initiative, we aim to 
+establish a multi-year agreement with a qualified vendor to implement a Network Access Control 
+(NAC) system that strengthens our existing security framework. Our current infrastructure 
+includes Extreme switches, ExtremeCloud IQ, Aruba Access Points, firewalls, Endpoint 
+Detection and Response (EDR) solutions, and various network security tools. Our goal is to 
+improve network visibility, enforce access policies, and enhance overall security compliance in 
+alignment with federal and state cybersecurity mandates. We seek a vendor that can provide 
+seamless integration with our existing infrastructure while delivering proactive security 
+measures, role-based access control, and comprehensive threat response to safeguard 
+students, staff, and district assets. 
+ 
+3. Scope of Services 
+ 
+The selected NAC solution should provide the following key functionalities: 
+ 
+●​ Device Authentication & Access Control: Implement robust authentication 
+mechanisms (802.1X, MAC authentication, and captive web portal-based authentication) 
+for all wired and wireless devices. 
+●​ Role-Based Policy Enforcement: Enable granular access control policies based on 
+user roles, device types, application, and security posture. 
+●​ Real-Time Network Visibility: Provide a centralized dashboard for monitoring all 
+connected devices and users. 
+●​ Guest & BYOD Management: Offer secure onboarding for guests and BYOD users with 
+self-service or IT-managed options. 
+●​ Integration with Existing Infrastructure: Seamlessly integrate with Extreme switches, 
+ExtremeCloud IQ, Aruba Access Points, and existing authentication services (e.g., 
+Active Directory, RADIUS, LDAP). 
+●​ Compliance & Reporting: Generate detailed security compliance reports aligned with 
+industry standards.
+
+[Page 2]
+●​ Scalability & High Availability: Support future growth and ensure minimal downtime 
+with a resilient architecture. 
+ 
+4. Vendor Requirements 
+ 
+Qualified vendors must demonstrate the following: 
+ 
+●​ Experience in deploying NAC solutions in K-12 school districts or similar environments. 
+●​ Proven compatibility with Extreme Networks and Aruba wireless infrastructure. 
+●​ Available 24/7 customer support and technical assistance. 
+●​ References from educational institutions or similar organizations. 
+●​ Vendors must be familiar with the USAC E-Rate bid submission and funding processes, 
+including FCC Form 470 and Form 471 filings, the Service Provider Invoice (SPI) 
+method, and the Billed Entity Applicant Reimbursement (BEAR) process. Vendors 
+should demonstrate experience in successfully managing E-Rate-funded projects, 
+ensuring compliance with program rules, and providing necessary documentation for 
+audits and funding disbursement. 
+5. Proposal Submission Requirements 
+Interested vendors should include the following in their proposals: 
+●​ Company Profile: Overview of the company, including history, mission, and 
+organizational structure. 
+●​ Solution Overview: Detailed description of the proposed NAC system and its features. 
+●​ Implementation Plan: Timeline, deployment methodology, and resource requirements. 
+●​ Support & Maintenance: Technical support details, SLAs, and software update policies. 
+●​ Experience and References: Case studies or references from previous clients, 
+particularly from similar educational institutions. 
+●​ Pricing Agreement: Itemized cost breakdown, including licensing, implementation, 
+training, and ongoing support. Furthermore, proposals for either a one-year or a 
+three-year contract term will be considered. While a three-year price guarantee is 
+preferred to ensure budgetary stability, bidders may propose a one-year contract. In 
+either case, bidders should provide a clear breakdown of their annual pricing. For 
+proposals offering a three-year price guarantee, the total cost should be presented as 
+three equal yearly installments. Payment will be made on an annual basis. 
+ 
+6. Evaluation Criteria 
+Proposals will be evaluated based on the following factors: 
+●​ Alignment with Scope of Services: Ability to meet or exceed the outlined service 
+requirements. 
+●​ Vendor Qualifications: Depth of experience, expertise, and resources.
+
+[Page 3]
+●​ Cost of Eligible Goods and Services: Overall pricing, including competitiveness and 
+alignment with the Cybersecurity Pilot Program's eligible expenses. 
+●​ Followed Bid Directions: Adherence to the proposal submission requirements, 
+including completeness, clarity, and responsiveness to requested details. 
+●​ Customer Service: Quality of vendor support, responsiveness, and ability to provide 
+timely assistance throughout the contract period.​
+Prior Experience with Product: Demonstrated success in deploying and managing the 
+proposed security solutions in similar environments. 
+●​ Prior Experience with Vendor: References and past performance in delivering SOC 
+services to organizations of comparable size and complexity. 
+●​ References: Feedback from previous clients regarding performance and service quality. 
+ 
+7. Submission Instructions 
+ 
+All proposals must be submitted by 4/30/2025 to Greg Roth (CITO), cyberbids@whsd.us. All 
+proposals should be in PDF format, cost breakdown may be in XLS, and include "NAC 
+Proposal" in the subject line. 
+ 
+For any questions regarding this RFP, please contact Greg Roth, cyberbids@whsd.us. 
+ 
+The Woodland Hills School District reserves the right to accept or reject any or all proposals and 
+to negotiate terms with the selected vendor. We look forward to your response. 
+ 
+Late submissions will not be considered. 
+8. Timeline 
+●​ RFP Issuance Date: 4/1/2025 
+●​ Proposal Submission Deadline: 4/30/2025 
+●​ Vendor Selection and Notification: 5/1/2025 
+●​ Service Commencement: Subject to USAC Funding Approval 
+9. Contact Information 
+For any questions or further information, please contact: 
+Greg Roth 
+CITO 
+Woodland Hills School District 
+cyberbids@whsd.us

@@ -1,0 +1,3123 @@
+Title: Provision of Network Perimeter Firewall Security Hardware
+Source: https://www.etenders.gov.za/home/Download?blobName=9575f31d-cc19-4657-9968-2c0616bb9f31.pdf&downloadedFileName=TOR+FSCA202627-T014+PROVISION+OF+NETWORK+PERIMETER+FIREWALL+SECURITY+HARDWARE+%5BPUBLISHED%5D.pdf
+Pages: 41
+
+--- Extracted text by page ---
+
+[Page 1]
+Executive Committee: 
+Commissioner: U. Kamlana      I     Deputy Commissioners: K. Gibson     I     F. Badat 
+NAME OF BID 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+BID NO. 
+FSCA2026/27-T014 
+ADVERT DATE 
+09 OCTOBER 2026 
+CLOSING DATE 
+05 NOVEMBER 2026 
+CLOSING TIME 
+11h00 (South African Standard Time, obtained from Telkom 
+SA SOC Limited by dialling 1026) 
+ 
+BIDDER NAME 
+ 
+ID/REGISTRATION 
+NUMBER 
+ 
+CSD NUMBER 
+ 
+CONTACT PERSON 
+ 
+EMAIL ADDRESS 
+ 
+TELEPHONE NUMBER 
+ 
+ 
+Riverwalk Office Park, Block B; 41 Matroosberg Road 
+(Corner Garsfontein and Matroosberg Roads) 
+Ashlea Gardens, Extension 6 
+Menlo Park; Pretoria; South Africa; 0081 
+ 
+P.O. Box 35655; Menlo Park; 0102 
+ 
+Switchboard: +27 12 428 8000 
+ 
+Website: www.fsca.co.za
+
+[Page 2]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 2 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+Contents 
+ 
+A. 
+INTRODUCTION TO BID ............................................................................................ 4 
+1. 
+Introduction ................................................................................................................... 4 
+2. 
+Briefing session ............................................................................................................ 4 
+3. 
+Bid enquiries and questions ..................................................................................... 5 
+4. 
+Bid submission ............................................................................................................. 5 
+5. 
+Pricing schedule ........................................................................................................... 6 
+B. 
+DEFINITIONS .............................................................................................................. 7 
+6. 
+Definitions ...................................................................................................................... 7 
+C. 
+BID RULES ................................................................................................................. 8 
+7. 
+Capabilities and experience of bidders.................................................................. 8 
+8. 
+Form of bid ..................................................................................................................... 8 
+9. 
+Signing of bid ................................................................................................................ 8 
+10. Bid all inclusive ............................................................................................................ 8 
+11. Alterations to bid documents ................................................................................... 8 
+12. Qualifications on bid ................................................................................................... 8 
+13. FSCA’S rights ................................................................................................................ 9 
+14. Undertaking by bidder ................................................................................................ 9 
+15. Central supplier database ........................................................................................ 10 
+16. Supplier performance management ...................................................................... 10 
+17. Cancellation of contract ........................................................................................... 11 
+18. Applicable laws ........................................................................................................... 11 
+19. Reasons for disqualification of bid ....................................................................... 12 
+20. Delegation of authority ............................................................................................. 12 
+21. Bid rules are binding ................................................................................................. 12 
+22. Language of contract ................................................................................................ 12 
+D. 
+TERMS OF REFERENCE ......................................................................................... 13 
+23. Objectives .................................................................................................................... 13 
+24. Background ................................................................................................................. 13 
+25. Purpose of the request for bid ................................................................................ 14 
+27. Scope of work ............................................................................................................. 15 
+28. Timelines ...................................................................................................................... 17 
+29. Contract Conditions .................................................................................................. 17 
+30. Bid evaluation ............................................................................................................. 20
+
+[Page 3]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 3 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+31. Functional evaluation (Desktop) ............................................................................ 19 
+32. Preference points system ........................................................................................ 21 
+33. Formulae for Procurement of Goods and Services .......................................... 22 
+34. Points Awarded for Specific Goals ....................................................................... 22 
+35. Standard bidding documents ................................................................................. 24 
+36. Timeline of the bid process ..................................................................................... 24 
+E. 
+ANNEXURE A ........................................................................................................... 26 
+F. 
+STANDARD BIDDING DOCUMENTS ...................................................................... 28 
+Standard Bidding Document (SBD 1) ............................................................................. 28 
+Standard Bidding Document (SBD 3.1) ......................................................................... 31 
+Standard Bidding Document (SBD 4) ............................................................................. 32 
+Standard Bidding Document 6.1 ..................................................................................... 35 
+G. 
+ADMINISTRATIVE CHECKLIST .............................................................................. 39
+
+[Page 4]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 4 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+A. 
+INTRODUCTION TO BID 
+ 
+1. 
+Introduction 
+ 
+1.1 
+The Financial Sector Conduct Authority (FSCA) was established in terms of the 
+Financial Sector Regulation Act No. 9 of 2017. It is responsible for market 
+conduct regulation and supervision of the financial services industry. The 
+objectives of the FSCA are to enhance and support the efficiency and integrity 
+of financial markets, to protect financial customers by promoting their fair 
+treatment by financial institutions, as well as providing financial customers with 
+financial education. The FSCA is a Schedule 3A Public Entity, in terms of the 
+Public Finance Management Act (PFMA). 
+ 
+1.2 
+The vision of the FSCA is to ensure an efficient financial sector where customers 
+are informed and treated fairly and its mission is to ensure a fair and stable 
+financial market, where consumers are informed and protected, and where 
+those that jeopardize the financial well-being of consumers are held 
+accountable. Visit the FSCA website, www.fsca.co.za for further information 
+about the FSCA. 
+ 
+1.3 
+The FSCA operates from offices in Pretoria at Riverwalk Office Park; 
+41 Matroosberg Road; Ashlea Gardens Extension 6; Menlo Park; Pretoria. 
+ 
+1.4 
+All information, including personal information collected during this process will 
+be treated as confidential, and processed in line with the FSCA Privacy Policy. 
+For more information on how your personal information is processed and how 
+you can exercise your rights in term of applicable information privacy laws, 
+please visit the Privacy Policy on www.fsca.co.za. 
+ 
+1.5 
+Bidders are hereby invited for the appointment of a service provider to provide 
+ICT security perimeter security firewall network security services. The contract 
+will commence on 28 February 2027 or earlier. 
+ 
+1.6 
+This bid is subject to the Preferential Procurement Policy Framework Act No. 5 
+of 2000 and the Preferential Procurement Regulations, 2022, Broad-Based 
+Black Economic Empowerment Act, the General Conditions of Contract (GCC) 
+and, if applicable, any other special conditions of contract. Where, however, the 
+special conditions of contract conflict with the general conditions of contract, the 
+special conditions of contract prevail. 
+ 
+2. 
+Briefing session  
+ 
+2.1 
+A non-compulsory briefing session will be held on 14 October 2026 at 11H00 
+for a maximum of 1 hour. The Microsoft Teams link will be provided on the 
+FSCA’s website
+
+[Page 5]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 5 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+ 
+3. 
+Bid enquiries and questions 
+ 
+3.1 
+Enquiries relating to minor administrative issues with reference to the bid may 
+be directed to: 
+ 
+Nobusi Mazwai 
+Supply Chain Management Department 
+Tel no.: (012) 422 2855/ (012) 367 7847 
+E-mail: tenders@fsca.co.za 
+ 
+3.2 
+All questions relating to the contents of the bid (conditions, rules, terms of 
+reference etc.) must be forwarded in writing via email to tenders@fsca.co.za by 
+not later than 16 October 2026. Questions received after this date will not be 
+entertained. 
+ 
+3.3 
+All questions must reference specific paragraph numbers, where applicable. 
+ 
+3.4 
+All enquiries (received on or before the closing date for enquiries) will be 
+consolidated and the FSCA will publish one response document on the FSCA 
+website (www.fsca.co.za) within three (3) working days after the date in 
+indicated in paragraph 3.2. 
+ 
+3.5 
+No requests for information shall be made to any other person or place and in 
+particular not to the existing provider of this service. 
+ 
+4. 
+Bid submission 
+ 
+4.1 
+Bid documents may either be placed in the bid box or couriered to the physical 
+address. Bids submitted by means of e-mail, telex facsimile, electronic or similar 
+means shall not be considered. 
+ 
+4.2 
+Complete documents with supporting annexures shall be packaged, sealed, 
+clearly marked and submitted strictly as follows: 
+ 
+Bid No  
+FSCA2026/27-T014 
+Bid Name 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+4.3 
+The FSCA requires two (2) printed copies, one (1) original and one (1) copy and 
+one electronic copy (in electronic storage media, preferably a flash 
+drive/memory stick) in PDF format all bound in a sealed envelope marked as 
+stated in paragraph 4.2. 
+ 
+4.4 
+Bids must be properly packaged and deposited on or before the closing date 
+and before the closing time in the bid box situated at the reception area of the 
+FSCA. The physical address of the FSCA is as follows:
+
+[Page 6]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 6 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+ 
+Financial Sector Conduct Authority  
+Riverwalk Office Park, Block B 
+41 Matroosberg Road (Corner Garsfontein and Matroosberg Roads) 
+Ashlea Gardens, Extension 6 
+Menlo Park 
+Pretoria, 0081 
+ 
+GPS Coordinates 
+Latitude 
+-25.7843344 
+Longitude 
+28.268365 
+ 
+4.5 
+Bid documents will only be considered if received by the FSCA on or before the 
+closing date and time, regardless of the method used to send or deliver such 
+documents to the FSCA. 
+ 
+4.6 
+Late submissions will not be accepted. 
+ 
+4.7 
+Bidders must initial each page of the bid document on the bottom right-hand 
+corner. 
+ 
+5. 
+Pricing schedule 
+ 
+5.1 
+Only fixed prices will be accepted. 
+ 
+5.2 
+A pricing schedule must be submitted on a separate sheet from the technical 
+proposal for ease of evaluation. The pricing schedule must be submitted 
+adjacent to the SBD3.1 form in the bid proposal.
+
+[Page 7]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 7 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+B. 
+DEFINITIONS 
+ 
+6. 
+Definitions 
+ 
+6.1 
+Unless inconsistent with or expressly indicated otherwise by the context. 
+ 
+6.1.1 
+FSCA shall mean the Financial Sector Conduct Authority or any 
+successor in title. 
+ 
+6.1.2 
+Contractor shall mean the successful bidder whose bid has been 
+accepted by the FSCA and shall include the bidders’s personal 
+representatives. 
+ 
+6.1.3 
+Contract shall include the General Conditions of Contract and Special 
+Conditions of Contract, the specifications including any schedules 
+attached to the specifications, and any agreement entered in terms of 
+these Special Conditions of Contract. 
+ 
+6.1.4 
+Service shall mean provision of ICT perimeter firewall network security 
+for a period of five (5) years. 
+ 
+6.1.5 
+Person includes any company incorporated or registered as such under 
+any law, any body of persons corporate or unincorporated, any trust. 
+Person, firm or company shall include an authorised employee or agent 
+of such person. 
+ 
+6.2 
+Except where the context indicates otherwise, in this document the singular 
+includes the plural, and with reference to gender, the one includes the other.
+
+[Page 8]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 8 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+C. 
+BID RULES 
+ 
+7. 
+Capabilities and experience of bidders 
+ 
+7.1 
+Bidders are required to provide all the information necessary to demonstrate 
+their capabilities and experience with regard to the requested services. 
+ 
+8. 
+Form of bid 
+ 
+8.1 
+The bid shall be signed and witnessed on the form of bid incorporated herein. 
+The schedule of services shall be fully priced in South African Rand to show the 
+total amount of the bid and shall be signed. The certificates, schedules and 
+forms contained in this document shall be completed and signed by the bidder 
+in blue or black ink.  
+ 
+8.2 
+Please note: No correction fluid such as Tippex or similar product is allowed. 
+All changes must be scratched out and a signature next to each change  
+ 
+8.3 
+Where the space provided in the bound document is insufficient, separate 
+schedules may be drawn up in accordance with the prescribed formats. These 
+schedules shall be bound with a suitable contents page and submitted with the 
+bid documents. 
+ 
+9. 
+Signing of bid 
+ 
+9.1 
+The bid must be signed by a person who is duly authorised to do so. 
+ 
+10. 
+Bid all inclusive 
+ 
+10.1 The bidder must provide an all-inclusive fee statement in the bid. 
+ 
+11. 
+Alterations to bid documents 
+ 
+11.1 No unauthorised alteration or addition shall be made to the form of bid, to the 
+schedule of quantities of services to be rendered or to any other part of the bid 
+documents. If any such alteration or addition is made or if the schedule of 
+quantities of services to be rendered, or other schedules or certificates are not 
+properly completed, such submission may be disqualified. 
+ 
+12. 
+Qualifications on bid 
+ 
+12.1 Bids submitted in accordance with this bid document shall be without any 
+qualifications.
+
+[Page 9]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 9 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+ 
+13. 
+FSCA’S rights 
+ 
+13.1 The FSCA is entitled to amend any bid conditions, bid validity period, bid 
+specifications, or extend the bid’s closing date, all before the bid closing date. 
+The FSCA reserves the right to extend the bid validity period before its expiry 
+period. All bidders, to whom the bid documents have been issued and where 
+the FSCA have record of such bidders, may be advised in writing of such 
+amendments in good time and any such changes will also be posted on the 
+FSCA’s website under the relevant bid information. All prospective bidders 
+should, therefore, ensure that they visit the website regularly and before they 
+submit their bid response to ensure that they are kept updated on any 
+amendments in this regard. 
+ 
+13.2 The FSCA reserves the right not to accept the lowest priced bid or any bid in 
+part or in whole. 
+ 
+13.3 The FSCA reserves the right to award this bid as a whole or in part. 
+ 
+13.4 The FSCA reserves the right to conduct site visits at bidder’s corporate offices 
+and/or at client sites if so required. 
+ 
+13.5 The FSCA reserves the right to consider the guidelines and prescribed hourly 
+remuneration rates for consultants as provided in the National Treasury 
+Instruction Note 03 of 2017/2018: Cost Containment Measures, where relevant. 
+ 
+13.6 The FSCA reserves the right to request all relevant information, agreements and 
+other documents to verify information supplied in the bid response. The bidder 
+hereby gives consent to the FSCA to conduct background checks on the bidding 
+entity and any of its directors/trustees/shareholders/members. 
+ 
+14. 
+Undertaking by bidder 
+ 
+14.1 By submitting a bid in response to this bid, the bidder will be taken to have 
+offered to render all or any of the services described in the bid response 
+submitted by it to the FSCA on the terms and conditions and in accordance with 
+the specifications stipulated in this bid document. 
+ 
+14.2 The bidder shall prepare for a possible presentation should the FSCA require 
+such and the bidder shall be notified thereof in good time before the actual 
+presentation date. Such a presentation may include a practical demonstration 
+of products or services as called for in this bid. 
+ 
+14.3 The bidder agrees that the offer contained in its bid shall remain binding upon 
+him and receptive for acceptance by the FSCA during the bid validity period 
+indicated in this document and calculated from the bid closing date. Its
+
+[Page 10]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 10 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+acceptance shall be subject to the terms and conditions contained in this bid 
+document read with the bid. 
+ 
+14.4 The bidder furthermore confirms that they have satisfied themselves as to the 
+correctness and validity of their bid response; that the price(s) and rate(s) 
+quoted cover all the work/item(s) specified in the bid response documents; and 
+that the price(s) and rate(s) cover all their obligations under a resulting contract 
+for the services contemplated in this bid; and that they accepts that any mistakes 
+regarding price(s) and calculations will be at their risk. 
+ 
+14.5 The successful bidder accepts full responsibility for the proper execution and 
+fulfilment of all obligations and conditions devolving on them under the supply 
+agreement and Service Level Agreement (SLA) to be concluded with the FSCA, 
+as the principal(s) liable for the due fulfilment of such contract. 
+ 
+14.6 The bidder accepts that all costs incurred in the preparation, presentation and 
+demonstration of the solution offered by it shall be for the account of the bidder. 
+All supporting documentation and manuals submitted with this bid will become 
+FSCA property unless otherwise stated by the bidder/s at the time of 
+submission. 
+ 
+15. 
+Central supplier database 
+ 
+15.1 The FSCA will not award any bid to a supplier who is not registered as a 
+prospective supplier on the Central Supplier Database (CSD) as required in 
+terms of National Treasury Circular No. 3 of 2015/2016 and National Treasury 
+SCM Instruction Note 4A of 2016/2017. 
+ 
+15.2 The supplier is responsible for continuously updating their information, including 
+personal information on the CSD to ensure that it is complete, accurate and not 
+misleading. 
+ 
+16. 
+Supplier performance management 
+ 
+16.1 Supplier Performance Management is viewed by the FSCA as a critical 
+component in ensuring it acquires value for money and maintains good supplier 
+relations between the FSCA and all its suppliers. 
+ 
+16.2 The successful bidder shall upon receipt of written notification of an award, be 
+required to conclude an SLA with the FSCA (where applicable), which will form 
+an integral part of the supply agreement. The SLA will serve as a tool to 
+measure, monitor and assess the supplier’s performance and ensure effective 
+delivery of service, quality and value-add to the FSCA’s business. 
+ 
+16.3 The successful bidder will be required to comply with the above conditions and 
+also provide a scorecard on how their product/service offering is being 
+measured to achieve the objectives of this condition.
+
+[Page 11]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 11 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+ 
+17. 
+Cancellation of contract 
+ 
+17.1 If the FSCA becomes aware or is satisfied that any person (including an 
+employee, partner, director or shareholder of the bidder or a person acting on 
+behalf of or with the knowledge of the bidder), firm or company; amongst others: 
+ 
+17.1.1 is executing a contract with the FSCA unsatisfactorily, 
+ 
+17.1.2 has in any manner been involved in a corrupt act or provided a gift or 
+remuneration in relation to any officer or employee of the FSCA, in 
+connection with obtaining or executing a contract, 
+ 
+17.1.3 has acted in bad faith, in a fraudulent manner or committed an offence 
+in obtaining or executing a contract, 
+ 
+17.1.4 has in any manner influenced or attempted to influence the awarding of 
+an FSCA’s bid, 
+ 
+17.1.5 has when advised that his bid has been accepted, given notice of his 
+inability to execute or sign the contract or to furnish any security 
+required, 
+ 
+17.1.6 has engaged in any anti-competitive behaviour, including having 
+entered into any agreement or arrangement, whether legally binding or 
+not, with any other person, firm or company to refrain from bidding for 
+this contract, or relating to the bid price to be submitted by either party, 
+ 
+17.1.7 has disclosed to any other person, any information relating to this bid, 
+except where disclosure, in confidence, was necessary to obtain 
+quotations required for the preparation of the bid,  
+ 
+the FSCA may, in addition to any other legal recourse, which it may have, cancel 
+the contract between the FSCA and such a person, firm or company and/or 
+resolve that no bid from such a person will be favorably considered for a period, 
+as prescribed by the National Treasury. 
+ 
+17.2 Any restriction imposed upon any person shall apply to any other person with 
+which such a person is actively associated. 
+ 
+18. 
+Applicable laws 
+ 
+18.1 The laws of the Republic of South Africa shall be applicable to each contract 
+created by the acceptance of a bid and each bidder shall indicate an address in 
+the Republic and specify it in the bid as his domicilium citandi et executandi 
+where any legal process may be served on him.
+
+[Page 12]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 12 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+18.2 Each bidder shall accept the jurisdiction of the courts of the Republic of South 
+Africa. 
+ 
+19. 
+Reasons for disqualification of bid 
+ 
+19.1 The FSCA reserves the right to disqualify any unacceptable bid as defined in 
+the PPPFA Act and such disqualification may take place without prior notice to 
+the offending bidder. The grounds for disqualification amongst others could 
+include the following:  
+ 
+19.1.1 bidders who submit incomplete information and documentation as 
+specified in the requirements of this bid document; 
+ 
+19.1.2 bidders who submit information that is fraudulent, factually untrue or 
+inaccurate; 
+ 
+19.1.3 bidders who receive information not available to other potential bidders 
+through any means; 
+ 
+19.1.4 bidders who do not comply with mandatory requirements, if stipulated 
+in the bid document; 
+ 
+19.1.5 bidders who fail to attend a compulsory briefing session and sign bid 
+register, if stipulated in the bid advert and/ or in this bid document; 
+and/or 
+ 
+19.1.6 bidders who fail to comply with FICA (Financial Intelligence Centre Act) 
+requirements (where applicable). 
+ 
+20. 
+Delegation of authority 
+ 
+20.1 The FSCA may delegate any power vested in it by virtue of these Terms of 
+Reference to an officer or employee of the FSCA. 
+ 
+21. 
+Bid rules are binding 
+ 
+21.1 The bid rules as well as the instructions given in the official bid notice shall be 
+binding on all bidders submitting bid applications for the service or services set 
+out in the bid document. 
+ 
+22. 
+Language of contract 
+ 
+22.1 The bid documents are drafted in English and any contract, which originates 
+from the acceptance of the bid, will be interpreted and construed in English.
+
+[Page 13]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 13 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+D. 
+TERMS OF REFERENCE 
+ 
+23. 
+Objectives 
+ 
+23.1 The broad objectives of this bid include: 
+ 
+23.1.1 To provide bidders with adequate information to understand and 
+respond to the FSCA’s requirements for the provision of network 
+perimeter firewall security hardware for a period of (5) years. 
+ 
+23.1.2 To ensure uniformity in the responses received from each prospective 
+service provider. 
+ 
+23.1.3 To provide a structured framework for the evaluation of proposals. 
+ 
+24. 
+Background 
+ 
+24.1 As part of the FSCA’s Cyber Security Strategy, the ICT Division aims to promote 
+a business-aligned cyber risk management and cyber-resilient organisation. 
+This is achieved by proactively identifying improvements and innovations for 
+enabling modern and robust cyber security capabilities to protect the 
+organisation’s ICT infrastructure, prevent data breaches and incidents. 
+ 
+24.2 The ICT Division has identified the need to provision the Fortinet based 
+perimeter firewall network solution due to the ease of management for local area 
+and wireless network security, zero-trust segmentation, built-in multi-factor 
+authentication, modern next-generation threat intelligence capabilities and to 
+leverage internal ICT skills. 
+ 
+24.3 The FSCA perimeter network environment is made up of the Check Point 
+Firewall hardware appliances at the Head Quarters and Disaster Recovery 
+sites. 
+ 
+24.4 The FSCA perimeter network environment is also made up of the BIG5 F5 
+hardware appliances at the Head Quarters, located in front (external) to the 
+Check Point solution. 
+ 
+24.5 The existing Fortinet FortiGate firewall solution will be integrated and re-
+purposed for the alternate Business Continuity and Disaster Recovery site, to 
+replace the aged Check Point equipment and to ensure continued investment 
+value. 
+ 
+24.6 The existing Fortinet wireless network solution must be replaced as part of the 
+Fortinet trade-up offer, through the accredited Partner.
+
+[Page 14]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 14 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+ 
+25. 
+Purpose of the request for bid 
+ 
+25.1 The purpose of this bid is to appoint a service provide to provide network 
+perimeter firewall security hardware for a period of five (5) years. 
+ 
+26. Pre-qualification Criteria 
+ 
+26.1 The following pre-qualification criteria will be applicable to this bid: 
+ 
+26.1.1 The bidder must be an accredited Fortinet Engage Preferred Services 
+and Engage Tech Support Partner that is located, operating and trading 
+in South Africa. The FSCA reserves the right to verify accreditation with 
+the original equipment manufacturer (OEM), Fortinet. 
+ 
+26.1.2 Bidders who do not meet the set pre-qualification criteria stipulated 
+above, will be eliminated from further evaluation.
+
+[Page 15]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 15 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+ 
+27. 
+Scope of work 
+ 
+27.1 The accredited Fortinet bidder is expected to supply, install and configure the 
+Fortinet network security solution as follows: 
+ 
+27.1.1 Supply the Fortinet network security solution as per TABLE 1, items 1 
+to 6. 
+ 
+27.1.2 Install and configure the Fortinet network security solution as per 
+TABLE 1, item 7. 
+ 
+27.1.3 Provide the business and managed support services for the as-built 
+Fortinet network security solution for a period of five (5) years as per 
+TABLE 1, item 8. 
+TABLE 1 
+No. Product 
+Code 
+Description 
+Term 
+Qty 
+1 
+FG-401F-
+BDL-950-60 
+FortiGate-401F Hardware plus 
+Forti Care Premium and 
+FortiGate-401F Hardware plus 5 
+Year Forti Care Premium and 
+FortiGuard Unified Threat 
+Protection (UTP) - PROD x2 (HA 
+Pair) 
+5 Years 
+2 
+2 
+FG-101F-
+BDL-950-60 
+FortiGate-101F Hardware plus 
+Forti Care Premium and 
+FortiGate-101F Hardware plus 5 
+Year Forti Care Premium and 
+FortiGuard Unified Threat 
+Protection (UTP) - DR x1 
+5 Years 
+1 
+3 
+FC2-10-
+AZVMS-
+465-01-60 
+Forti Analyzer-VM Subscription 
+License with Support Forti 
+Analyzer-VM Subscription 
+License with Support 5 Year 
+Subscription license for 50 
+GB/Day Central Logging & 
+Analytics. Include Forti Care 
+Premium support, IOC, Security 
+Automation Service and 
+FortiGuard Outbreak Detection 
+Service. 
+5 Years 
+1 
+4 
+FAP-
+U231F-E 
+FortiAP-U231F Indoor Wireless 
+Universal AP - Tri radio (802.11 
+b/g/n/ax 2x2 MU-MIMO, 802.11 
+a/n/ac/ax 2x2 MU-MIMO and 1x 
+802.11 a/b/g/n/ac Wave 2, 2x2 ), 
+5 Years 
+35
+
+[Page 16]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 16 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+internal antennas, 2x 10/100/1000 
+RJ45 port, BT/BLE, 1x Type A 
+USB, 1x RS-232 RJ45 Serial Port. 
+Ceiling/wall mount kit included. 
+For power order: 802.3at PoE 
+injector GPI-130 or AC Indoor 
+Wireless Universal AP - Tri radio 
+(802.11 adapter SP-FAP250-PA-
+10. Region Code E Indoor 
+Wireless Universal AP - Tri radio 
+5 
+FC-10-
+P231F-247-
+02-60 
+FortiAP-U231F 5 Year 24x7 Forti 
+Care Contract 
+5 Years 
+35 
+6 
+FN-TRAN-
+SFP+GC 
+10GE SFP+ transceiver module, 
+short range for systems with 
+SFP+ and SFP/SFP+ slots 
+(PROD/DR) 
+N/A 
+12 
+7 
+N/A 
+Professional Services 
+(Architecture documentation, 
+Assessment, network and fiber 
+cabling, Solution Implementation 
+Services and removal of aged 
+equipment - Fortinet local Partner) 
+6 Weeks 
+1 
+8 
+N/A 
+Business and Managed Support 
+Services (back-back via Fortinet 
+Premium Support, local Partner) 
+5 Years 
+1 
+ 
+27.1.4 Review and document the current Check Point and Fortinet Perimeter 
+Firewall Network solution, including the network segmentation and 
+remote access touchpoints, including but not limited to VPN, IPSec 
+tunnels, Wireless network infrastructure and NAT rulesets for web 
+applications, to inform the new perimeter network design and migration 
+approach. 
+ 
+27.1.5 Prepare and document the high-level perimeter network security 
+infrastructure and dataflow design prior to the solution implementation, 
+including sign-off. 
+ 
+27.1.6 Prepare and document a low-level solution design prior to the solution 
+implementation, including sign-off. 
+ 
+27.1.7 Prepare, document and sign-off the as-built solution design after the 
+perimeter network security solution has been implemented. 
+ 
+27.2 The service provider will be required to deliver and install the Fortinet perimeter 
+network security infrastructure solution at the primary site location:
+
+[Page 17]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 17 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+Financial Sector Conduct Authority Riverwalk 
+Office Park, Block B 
+41 Matroosberg Road (Corner Garsfontein and Matroosberg Roads) 
+Ashlea Gardens, Extension 6 
+Menlo Park 
+Pretoria, 0081 
+ 
+GPS Coordinates 
+Latitude 
+-25.7843344 
+Longitude 
+28.268365 
+ 
+27.3 The service provider will be required to deliver, install and configure the new 
+hardware appliance and the existing Fortinet FG-100F perimeter network 
+security infrastructure equipment at the secondary (disaster recovery) site 
+location: 
+ 
+The FSCA Disaster Recovery site, 
+Building 5, Waterfall Corporate Campus,  
+74 Waterfall Drive,  
+Waterfall City 
+ 
+ 
+ 
+28. 
+Timelines 
+ 
+28.1 The contractor must deliver the equipment within thirty (30) calendar days after 
+the purchase order has been issued. Refer to TABLE 1 for the equipment 
+specification. 
+ 
+28.2 From the date of equipment delivery, the bidder must install and configure the 
+solution within six (6) weeks. 
+ 
+29. 
+Contract Conditions 
+ 
+29.1 The contractor must facilitate the Fortinet Trade-up End-of-Order (EOO) for 
+further purchase discounts for the aged Check Point firewall and Fortinet 
+wireless equipment, as specified in ANNEXURE A (equipment to trade-up) of 
+this bid document. 
+ 
+29.2 The contractor is required to provide the installation and configuration services 
+during and after normal working hours from Monday to Friday and must 
+implement the solution as per timelines specified in paragraphs 28 and 29.6. 
+ 
+GPS Coordinates 
+Latitude 
+-26.0873406 
+Longitude 
+28.0142137
+
+[Page 18]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 18 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+29.3 The contractor must meet the following Performance Service Level 
+requirements: 
+ 
+29.3.1 Any additions, adjustments, modifications etc. with associated costs 
+required to deliver the service must be clearly indicated at the time of 
+the bid based on the information obtained during the compulsory 
+briefing session and site inspection; 
+ 
+29.3.2 Monthly performance and Service Level Agreement (SLA) reviews are 
+compulsory. In the initial stages of the contract, bi-weekly (twice a 
+month) reviews will be necessary and will be expected at no additional 
+cost; 
+ 
+29.4 The contractor must supply, installation and configuration of Fortinet firewall 
+solution including maintenance and support services for a period of five (5) 
+years. The services must include the below-mentioned requirements: 
+ 
+29.4.1 Provisioning and testing of the firewall and wireless solution equipment 
+after installation in the FSCA environment; 
+ 
+29.4.2 Ensure current firmware patch levels of the network environment as 
+per the FSCA’s patch management principles; 
+ 
+29.4.3 Management and facilitation of all solution-related support calls and 
+escalations with the OEM (Fortinet) until resolution; 
+ 
+29.5 The contractor must facilitate the deinstallation of the aged Check Point firewall 
+and Fortinet wireless equipment, once the new solution has been installed 
+successfully into the production and non-production ICT environments. 
+ 
+29.6 The contractor must provide the services as per the service measurement and 
+principles and is obliged to the target response and resolution times as set in 
+TABLE 2 below. 
+ 
+TABLE 2 
+Priority Code Severity 
+Target response 
+time 
+Target resolution time 
+P1 
+Critical 
+Immediate 
+1 Hour 
+P2 
+High 
+Immediate 
+4 Hours 
+P3 
+Medium 
+Within 2 Hours 
+1 working day 
+P4 
+Low 
+Within 4 Hours 
+Next business day 
+ 
+29.7 Bidders must comply with the terms of TABLE 2 service measurement and 
+principles. 
+ 
+29.8 The successful contractor is obliged to the target response and resolution times 
+as set in TABLE 2.
+
+[Page 19]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 19 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+ 
+29.9 The FSCA reserves the right to eliminate the bidder at any stage of this 
+assignment should the bidder be unable to meet the set service level 
+measurements requirements detailed in table 2 above.
+
+[Page 20]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 20 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+30. 
+Bid evaluation 
+ 
+30.1 The proposals will be evaluated as follows. 
+ 
+30.1.1 Evaluation Stage One: Compliance 
+ 
+Compliance with administrative requirements stated in the Standard 
+Bidding Documents and the mandatory requirements as listed in 
+paragraph 35 below. In this evaluation stage, all bidders that fail to 
+provide the required information and documentation, will be disqualified 
+from further evaluation. 
+ 
+30.1.2 Evaluation Stage Two: Functional evaluation (Desktop evaluation) 
+ 
+In this evaluation stage, bidders are expected to obtain a minimum of 
+80 out of 100 points to proceed to the next evaluation stage. Failure to 
+obtain the prescribed minimum points will automatically disqualify the 
+bid offer from proceeding to the next evaluation stage. 
+ 
+30.1.3 Evaluation Stage Three: Preference Point System 
+ 
+The 80/20 preference point system shall be applicable to this phase, 
+where 80 points represent maximum obtainable points for the lowest 
+acceptable price, and 20 points represents specific goals. Points will be 
+awarded to a bidder for attaining the specific goal points in accordance 
+with the table as listed in the bid documentation. 
+ 
+30.1.4 Evaluation Stage Four: Site Inspection 
+ 
+At the FSCA’s discretion, a site inspection may be conducted at this 
+stage. The FSCA will visit the selected bidders’ premises with the 
+objective of verifying information as contained in their respective bid 
+documents. Should it be discovered during a site inspection or 
+presentation that the information submitted by the bidder is inconsistent 
+with what is on their current premises of business, such bidders will be 
+disqualified.
+
+[Page 21]
+FSCA2026/27-T014 
+PROVISION OF ICT PERIMETER FIREWALL NETWORK SECURITY 
+ 
+ 
+ISSUE DATE 
+Thursday, 20 February 2025 
+PAGE 19 OF 38 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+31. 
+Functional evaluation (Desktop) 
+ 
+31.1 The bid/proposal will be evaluated for functionality and be rated as follows: 
+TABLE 3 
+No 
+ITEM 
+DESCRIPTION 
+DETAILED DESCRIPTION 
+RATING 
+WEIGHT 
+A. 
+Detailed Proposal 
+A.1. The bidder must submit a detailed 
+proposal detailing how the 
+solution will be deployed as per 
+the scope of work. 
+A.1.1. The bidder did not 
+submit a proposal 
+0 
+40 
+A.1.2. The bidder submitted a 
+proposal which does 
+not meet all the 
+requirements specified 
+1-3 
+A.1.3. The bidder submitted a 
+proposal that meets or 
+exceeds all the 
+requirements specified 
+4-5 
+B. 
+Track Record 
+B.1. The bidder must submit 
+contactable reference letters 
+obtained from clients where 
+FortiGate end-to-end solution was 
+successfully implemented by the 
+bidder. 
+ 
+Information provided must include 
+the following: 
+B.1.1. The bidder did not 
+submit reference 
+letters 
+0 
+30
+
+[Page 22]
+FSCA2025/26-T014 
+ 
+PROVISION OF ICT PERIMETER FIREWALL NETWORK SECURITY 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 20 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+TABLE 4 
+No 
+ITEM 
+DESCRIPTION 
+DETAILED DESCRIPTION 
+RATING 
+WEIGHT 
+a. Client company name 
+b. Client contact person, 
+c. Client contact person’s 
+telephone numbers and e- 
+mail address, 
+d. Nature of contract and 
+contract duration, and 
+e. Fortinet solution project 
+implementation details. 
+B.1.2. The bidder submitted 
+less than three 
+contactable 
+references 
+letters which meet all 
+the requirements 
+1-3 
+B.1.3. The bidder submitted 
+three or more 
+contactable reference 
+letters that meet all the 
+requirements 
+4-5 
+C. 
+Deployment plan 
+C.1. The bidder must submit the 
+detailed deployment plan with 
+turnaround timelines detailing how 
+the solution would be 
+implemented as per requirements 
+in the scope of work. 
+C.1.1. The bidder did not 
+submit the deployment 
+plan. 
+0 
+30 
+C.1.2. The bidder submitted a 
+deployment plan which 
+does not meet all the 
+requirements 
+1-3 
+C.1.3. The bidder submitted a 
+detailed deployment 
+plan which meets or 
+exceeds all the 
+requirements. 
+4-5 
+TOTAL 
+100
+
+[Page 23]
+FSCA2025/26-T014 
+ 
+PROVISION 
+OF 
+ICT 
+PERIMETER 
+FIREWALL 
+NETWORK SECURITY 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 21 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+32. 
+Preference points system 
+ 
+32.1 General conditions 
+ 
+32.1.1 The following preference point systems are applicable to invitations to 
+tender: 
+ 
+32.1.1.1 the 80/20 system for requirements with a Rand value of up to 
+R50 000 000 (all applicable taxes included); and  
+ 
+32.1.1.2 the 90/10 system for requirements with a Rand value above 
+R50 000 000 (all applicable taxes included). 
+ 
+32.1.2 The applicable preference point system for this tender is the 80/20 
+preference point system. 
+ 
+32.2 Points for this tender (even in the case of a tender for income-generating 
+contracts) shall be awarded for:  
+ 
+(a) Price; and 
+(b) Specific Goals. 
+ 
+32.3 The maximum points for this tender are allocated as follows: 
+ 
+ 
+POINTS 
+PRICE 
+80 
+SPECIFIC GOALS 
+20 
+Total points for Price and SPECIFIC GOALS  
+100 
+ 
+32.4 Failure on the part of a tenderer to submit proof or documentation required in 
+terms of this tender to claim points for specific goals with the tender, will be 
+interpreted to mean that preference points for specific goals are not claimed. 
+ 
+32.5 The organ of state reserves the right to require of a tenderer, either before a 
+tender is adjudicated or at any time subsequently, to substantiate any claim in 
+regard to preferences, in any manner required by the organ of state.
+
+[Page 24]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 22 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+33. 
+Formulae for Procurement of Goods and Services 
+ 
+33.1 Points Awarded for Price 
+ 
+33.1.1 THE 80/20 PREFERENCE POINT SYSTEMS  
+ 
+ A maximum of 80 points is allocated for price on the following basis: 
+ 
+80/20 
+ 
+ 
+𝑷𝒔= 𝟖𝟎(𝟏−
+𝑷𝒕−𝑷𝒎𝒊𝒏
+𝑷𝒎𝒊𝒏
+) 
+ 
+ 
+ 
+Where 
+ 
+ Ps 
+= 
+Points scored for price of tender under consideration 
+ Pt 
+= 
+Price of tender under consideration 
+ Pmin 
+= 
+Price of lowest acceptable tender 
+ 
+34. 
+Points Awarded for Specific Goals  
+ 
+34.1 In terms of Regulation 4(2); 5(2); 6(2) and 7(2) of the Preferential Procurement 
+Regulations, preference points must be awarded for specific goals stated in the 
+tender. For the purposes of this tender the tenderer will be allocated points 
+based on the goals stated in table 1 below as may be supported by proof/ 
+documentation stated in the conditions of this tender. 
+ 
+34.2 In cases where organs of state intend to use Regulation 3(2) of the Regulations, 
+which states that, if it is unclear whether the 80/20 or 90/10 preference point 
+system applies, an organ of state must, in the tender documents, stipulate in 
+the case of—: 
+ 
+(a) 
+an invitation for tender for income-generating contracts, that either the 
+80/20 or 90/10 preference point system will apply and that the highest 
+acceptable tender will be used to determine the applicable preference 
+point system; or 
+ 
+(b) 
+any other invitation for tender, that either the 80/20 or 90/10 preference 
+point system will apply and that the lowest acceptable tender will be 
+used to determine the applicable preference point system,   
+ 
+then the organ of state must indicate the points allocated for specific goals 
+for both the 90/10 and 80/20 preference point system.
+
+[Page 25]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 23 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+Specific goals for the tender and points claimed are indicated per the table below.  
+The specific goals allocated points in 
+terms of this tender 
+Number of points 
+allocated 
+ (80/20 system) 
+Number of points 
+claimed 
+ (80/20 system) 
+(To be completed by 
+the tenderer) 
+Youth has/have ownership of 51% or more 
+of the enterprise shareholding  
+10 
+ 
+Enterprises owned by 51% or more black 
+people  
+10 
+ 
+Note: In the event that the bidder is claiming specific goals, the FSCA will allocate points 
+claimed, provided that proof of evidence such as valid BBBEE Certificates/sworn affidavits, 
+CIPC etc. is attached. Failure to submit the acceptable verifiable proof will result in an 
+allocation of 0 points. 
+ 
+Note to tenderers: The tenderer must indicate how they claim points for each preference point 
+system.)
+
+[Page 26]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 24 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+35. 
+Standard bidding documents 
+ 
+35.1 The following compulsory additional information are required. Failure to 
+complete, and supply any of these documents might lead to disqualification from 
+this bid: 
+Table 4 
+Invitation to bid 
+SBD 1 
+Pricing Schedule 
+SBD 3.1 
+Bidder’s Disclosure 
+SBD 4 
+Preference 
+Points 
+Claim 
+Form 
+for 
+Preferential 
+Procurement Regulations 2022  
+Should a bidder not complete and sign the SBD6.1, 
+the bidder will be allocated 0.00 points for specific 
+goals 
+SBD 6.1 
+ 
+36. 
+Timeline of the bid process 
+ 
+36.1 The period of validity of the bid and the withdrawal of offers, after the closing 
+date and time are 120 days, expiring on 05 March 2027. The project timeframes 
+of this bid are set out below: 
+ 
+Table 5 
+STAGE 
+DESCRIPTION OF STAGE 
+ESTIMATED 
+COMPLETION 
+DATE (OR WORK 
+WEEK ENDING) 
+1.  
+Advertisement of bid on Government e-
+tender portal / print media / Tender Bulletin 
+09 October 2026 
+2.  
+Non-compulsory briefing session 
+14 October 2026 
+3.  
+Questions relating to bid from bidder(s) 
+16 October 2026 
+4.  
+Bid closing date 
+05 November 2026 
+5.  
+Compliance: Bid Evaluation Committee 
+10 November 2026 
+6.  
+Functional Evaluation: (Desktop evaluation) 
+13 November 2026 
+7.  
+Preference Point System: Bid Evaluation 
+Committee 
+16 November 2026 
+8.  
+Bid Award: Bid Adjudication Committee 
+26 November 2026 
+9.  
+Notification of the outcome to the bidders 
+04 December 2026 
+ 
+36.2 All dates and times in this bid are South African Standard Time. 
+ 
+36.3 Any time or date in this bid is subject to change at the FSCA’s discretion. The 
+establishment of a time or date in this bid does not create an obligation on the 
+part of the FSCA to take any action or create any right in any way for any bidder 
+to demand that any action be taken on the date established. The bidder accepts 
+that, if the FSCA extends the deadline for bid submission (the Closing Date) for
+
+[Page 27]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 25 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+any reason, the requirements of this bid otherwise apply equally to the extended 
+deadline.
+
+[Page 28]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 26 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+E. ANNEXURE A 
+ 
+Below is the asset inventory to be incorporated as part of the Fortinet Trade-up End-of-
+Order (EOO).  
+ 
+No. 
+Product Name 
+SKU 
+Expiry Date 
+(M/D/Y) 
+EOS 
+1 
+SandBlast TE Appliance TE100X 
+CPAP-
+SBTE100X-4VM 
+10/31/2025 
+09/30/2
+5 
+2 
+5800 Next Generation Threat 
+Prevention and SandBlast (NGTX) 
+Appliance  
+CPAP-SG5800-
+NGTX-HPP-VS10 
+10/31/2025 
+09/30/2
+5 
+3 
+5800 Next Generation Threat 
+Prevention and SandBlast (NGTX) 
+Appliance  
+CPAP-SG5800-
+NGTX-HPP-
+VS10-HA 
+10/31/2025 
+09/30/2
+5 
+4 
+3200 Next Generation Threat 
+Prevention Appliance for High 
+Availability 
+CPAP-SG3200-
+NGTP-HA 
+10/31/2025 
+12/31/2
+5 
+5 
+3200 Next Generation Threat 
+Prevention Appliance 
+CPAP-SG3200-
+NGTP 
+10/31/2025 
+12/31/2
+5 
+ 
+No. 
+Serial Number 
+Product Name 
+Expiry Date 
+(M/D/Y) 
+EOS 
+6 
+PM82IV16171F**** 
+AP822I 
+2/13/25 
+4/20/26 
+7 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+8 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+9 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+10 
+PM82IV16171F**** 
+AP822I 
+2/13/25 
+4/20/26 
+11 
+PM82IV16171F**** 
+AP822I 
+2/13/25 
+4/20/26 
+12 
+PM82IV16171F**** 
+AP822I 
+2/13/25 
+4/20/26 
+13 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+14 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+15 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+16 
+PM82IV16171F**** 
+AP822I 
+2/13/25 
+4/20/26 
+17 
+PM82IV164832**** 
+AP822I 
+2/13/25 
+4/20/26 
+18 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+19 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+20 
+PM82IV16171F**** 
+AP822I 
+2/13/25 
+4/20/26 
+21 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+22 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+23 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+24 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+25 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26
+
+[Page 29]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 27 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+26 
+PM82IV164832**** 
+AP822I 
+2/13/25 
+4/20/26 
+27 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+28 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+29 
+PM82IV16171F**** 
+AP822I 
+2/13/25 
+4/20/26 
+30 
+PM82IV16171F**** 
+AP822I 
+2/13/25 
+4/20/26 
+31 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+32 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+33 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+34 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+35 
+PM82IV182865**** 
+AP822I 
+2/13/25 
+4/20/26 
+36 
+PM82IV16171F**** 
+AP822I 
+2/13/25 
+4/20/26 
+37 
+PM82IV16171F**** 
+AP822I 
+2/13/25 
+4/20/26 
+38 
+PM82IV182865**** 
+AP822I 
+11/17/24 
+4/20/26 
+39 
+PM82IV182865**** 
+AP822I 
+11/17/24 
+4/20/26 
+40 
+PM82IV182865**** 
+AP822I 
+11/17/24 
+4/20/26 
+41 
+MLA050000050**** 
+EZRF-NM-50-A 
+2/8/22 
+8/28/22 
+42 
+FWC32M141700**** 
+Meru MC3200 controller 
+hardware 
+6/22/21 
+11/15/2
+3 
+43 
+MLD050001000**** 
+MC3200/MC4200/MC6000
+-50AP 
+5/27/21 
+10/3/31 
+44 
+FWM25M162600**** 
+SA250 Hardware 
+2/8/22 
+5/18/22 
+45 
+FWC2HDTA1900**** 
+FortiWLC 200D 
+11/18/23 
+11/1/25
+
+[Page 30]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 28 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+F. 
+STANDARD BIDDING DOCUMENTS 
+ 
+Standard Bidding Document (SBD 1) 
+ 
+PART A 
+INVITATION TO BID 
+ 
+YOU ARE HEREBY INVITED TO BID FOR REQUIREMENTS OF THE FINANCIAL SECTOR 
+CONDUCT AUTHORITY 
+BID NUMBER: 
+FSCA2026/27-T014 
+CLOSING 
+DATE: 
+05 NOVEMBER 2026 CLOSING 
+TIME: 
+11H00 
+DESCRIPTION 
+PROVISION OF NETWORK PERIMETER FIREWALL SECURITY HARDWARE 
+BID RESPONSE DOCUMENTS MAY BE DEPOSITED IN THE BID BOX SITUATED AT (STREET 
+ADDRESS) 
+Riverwalk Office Park, Block B 
+41 Matroosberg Road (Corner Garsfontein and Matroosberg Roads) 
+Ashlea Gardens, Extension 6, Menlo Park 
+Pretoria, South Africa, 0081 
+BIDDING PROCEDURE AND TECHNICAL ENQUIRIES MAY BE DIRECTED TO 
+DEPARTMENT 
+Supply Chain Management Department 
+FACSIMILE 
+NUMBER 
+Not applicable 
+E-MAIL ADDRESS 
+tenders@fsca.co.za 
+TELEPHONE 
+NUMBER  
+012 367 7847 
+SUPPLIER INFORMATION 
+NAME OF BIDDER 
+ 
+POSTAL 
+ADDRESS 
+ 
+ 
+ 
+ 
+STREET 
+ADDRESS 
+ 
+ 
+ 
+ 
+TELEPHONE 
+NUMBER 
+CODE 
+ 
+NUMBER 
+ 
+CELLPHONE 
+NUMBER
+
+[Page 31]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 29 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+FACSIMILE 
+NUMBER 
+CODE 
+ 
+NUMBER 
+ 
+E-MAIL ADDRESS 
+ 
+VAT 
+REGISTRATION 
+NUMBER 
+ 
+SUPPLIER 
+COMPLIANCE 
+STATUS 
+TAX 
+COMPLIANCE 
+SYSTEM PIN: 
+ 
+OR 
+CENTRAL SUPPLIER 
+DATABASE No:  
+MAAA 
+B-BBEE STATUS 
+LEVEL 
+VERIFICATION 
+CERTIFICATE 
+TICK APPLICABLE 
+BOX] 
+ 
+ Yes               
+ No 
+B-BBEE STATUS 
+LEVEL SWORN 
+AFFIDAVIT   
+ 
+[TICK APPLICABLE BOX] 
+ 
+ Yes           
+ No 
+[A B-BBEE STATUS LEVEL VERIFICATION CERTIFICATE/ SWORN AFFIDAVIT (FOR EMES & 
+QSEs) MUST BE SUBMITTED IN ORDER TO QUALIFY FOR PREFERENCE POINTS FOR B-BBEE] 
+ARE YOU THE 
+ACCREDITED 
+REPRESENTATIVE 
+IN SOUTH AFRICA 
+FOR THE GOODS 
+/SERVICES 
+/WORKS 
+OFFERED? 
+Yes                     
+No  
+ 
+[IF YES ENCLOSE 
+PROOF] 
+ 
+ARE YOU A 
+FOREIGN BASED 
+SUPPLIER FOR 
+THE GOODS 
+/SERVICES 
+/WORKS 
+OFFERED? 
+ 
+Yes 
+No 
+ 
+[IF YES, ANSWER THE 
+QUESTIONNAIRE BELOW ] 
+ 
+QUESTIONNAIRE TO BIDDING FOREIGN SUPPLIERS 
+IS THE ENTITY A RESIDENT OF THE REPUBLIC OF SOUTH AFRICA (RSA)? 
+  YES  
+ NO 
+DOES THE ENTITY HAVE A BRANCH IN THE RSA? 
+ 
+ 
+ 
+  YES  
+ NO 
+DOES THE ENTITY HAVE A PERMANENT ESTABLISHMENT IN THE RSA? 
+  YES  
+ NO 
+DOES THE ENTITY HAVE ANY SOURCE OF INCOME IN THE RSA? 
+ 
+  YES  
+ NO 
+IS THE ENTITY LIABLE IN THE RSA FOR ANY FORM OF TAXATION?  
+  YES  
+ NO  
+IF THE ANSWER IS “NO” TO ALL OF THE ABOVE, THEN IT IS NOT A REQUIREMENT TO 
+REGISTER FOR A TAX COMPLIANCE STATUS SYSTEM PIN CODE FROM THE SOUTH AFRICAN 
+REVENUE SERVICE (SARS) AND IF NOT REGISTER AS PER 2.3 BELOW.
+
+[Page 32]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 30 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+PART B 
+TERMS AND CONDITIONS FOR BIDDING 
+ 
+ 
+1. BID SUBMISSION: 
+1.1. BIDS MUST BE DELIVERED BY THE STIPULATED TIME TO THE CORRECT 
+ADDRESS. LATE BIDS WILL NOT BE ACCEPTED FOR CONSIDERATION. 
+1.2. ALL BIDS MUST BE SUBMITTED ON THE OFFICIAL FORMS PROVIDED– (NOT 
+TO BE RE-TYPED) OR IN THE MANNER PRESCRIBED IN THE BID DOCUMENT. 
+1.3. THIS BID IS SUBJECT TO THE PREFERENTIAL PROCUREMENT POLICY 
+FRAMEWORK 
+ACT, 
+2000 
+AND 
+THE 
+PREFERENTIAL 
+PROCUREMENT 
+REGULATIONS, 2017, THE GENERAL CONDITIONS OF CONTRACT (GCC) AND, 
+IF APPLICABLE, ANY OTHER SPECIAL CONDITIONS OF CONTRACT. 
+1.4. THE SUCCESSFUL BIDDER WILL BE REQUIRED TO FILL IN AND SIGN A 
+WRITTEN CONTRACT FORM (SBD7). 
+2. TAX COMPLIANCE REQUIREMENTS 
+2.1 BIDDERS MUST ENSURE COMPLIANCE WITH THEIR TAX OBLIGATIONS.  
+2.2 BIDDERS 
+ARE 
+REQUIRED 
+TO 
+SUBMIT 
+THEIR 
+UNIQUE 
+PERSONAL 
+IDENTIFICATION NUMBER (PIN) ISSUED BY SARS TO ENABLE THE ORGAN OF 
+STATE TO VERIFY THE TAXPAYER’S PROFILE AND TAX STATUS. 
+2.3 APPLICATION FOR TAX COMPLIANCE STATUS (TCS) PIN MAY BE MADE VIA E-
+FILING THROUGH THE SARS WEBSITE WWW.SARS.GOV.ZA. 
+2.4 BIDDERS MAY ALSO SUBMIT A PRINTED TCS CERTIFICATE TOGETHER WITH 
+THE BID.  
+2.5 IN BIDS WHERE CONSORTIA / JOINT VENTURES / SUB-CONTRACTORS ARE 
+INVOLVED, EACH PARTY MUST SUBMIT A SEPARATE TCS CERTIFICATE / PIN 
+/ CSD NUMBER. 
+2.6 WHERE NO TCS PIN IS AVAILABLE BUT THE BIDDER IS REGISTERED ON THE 
+CENTRAL SUPPLIER DATABASE (CSD), A CSD NUMBER MUST BE PROVIDED.  
+2.7 NO BIDS WILL BE CONSIDERED FROM PERSONS IN THE SERVICE OF THE 
+STATE, COMPANIES WITH DIRECTORS WHO ARE PERSONS IN THE SERVICE 
+OF THE STATE, OR CLOSE CORPORATIONS WITH MEMBERS PERSONS IN THE 
+SERVICE OF THE STATE.” 
+ 
+NB: FAILURE TO PROVIDE / OR COMPLY WITH ANY OF THE ABOVE PARTICULARS MAY RENDER THE 
+BID INVALID. 
+ 
+SIGNATURE OF BIDDER:  
+…………………………………………… 
+ 
+CAPACITY UNDER WHICH THIS BID IS SIGNED:…………………………………………… 
+(Proof of authority must be submitted e.g. company resolution) 
+ 
+DATE: 
+ 
+…………………………………………..
+
+[Page 33]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 31 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+Standard Bidding Document (SBD 3.1) 
+ 
+PRICING SCHEDULE – FIRM PRICES 
+(Purchases) 
+ 
+NOTE: ONLY FIRM PRICES WILL BE ACCEPTED. NON-FIRM PRICES (INCLUDING PRICES 
+SUBJECT TO RATES OF EXCHANGE VARIATIONS) WILL NOT BE CONSIDERED 
+ 
+IN CASES WHERE DIFFERENT DELIVERY POINTS INFLUENCE THE PRICING, A SEPARATE 
+PRICING SCHEDULE MUST BE SUBMITTED FOR EACH DELIVERY POINT  
+ 
+ 
+NAME OF BIDDER:………………………………………BID NO.: FSCA2026/27-T014 
+ 
+CLOSING TIME 11:00                                                  CLOSING DATE: 05 November 2026 
+ 
+ 
+OFFER TO BE VALID FOR 90 DAYS FROM THE CLOSING DATE OF BID. 
+ 
+ITEM NO 
+ 
+DESCRIPTION 
+BID PRICE IN RSA CURRENCY 
+                                                                                                      **(ALL APPLICABLE TAXES INCLUDED) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R…………………………………… 
+ 
+ 
+- 
+Required by: 
+ 
+ 
+ 
+ 
+…………………………………. 
+ 
+- 
+At: 
+ 
+ 
+ 
+ 
+ 
+…………………………………. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+………………………………… 
+ 
+ 
+- 
+Brand and model 
+ 
+ 
+ 
+…………………………………. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+Country of origin 
+ 
+ 
+ 
+…………………………………. 
+ 
+ 
+ 
+- 
+Does the offer comply with the specification(s)?  
+ 
+*YES/NO 
+ 
+- 
+If not to specification, indicate deviation(s) 
+…………………………………. 
+ 
+ 
+ 
+- 
+Period required for delivery 
+ 
+ 
+…………………………………. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*Delivery: Firm/not firm 
+ 
+ 
+- 
+Delivery basis   
+ 
+ 
+ 
+…………………………………… 
+ 
+Note: 
+All delivery costs must be included in the bid price, for delivery at the prescribed destination. 
+ 
+** “all applicable taxes” includes  value- added tax, pay as you earn, income tax, unemployment  
+insurance fund contributions and skills development levies. 
+*Delete if not applicable
+
+[Page 34]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 32 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+Standard Bidding Document (SBD 4) 
+ 
+BIDDER’S DISCLOSURE 
+ 
+1. PURPOSE OF THE FORM 
+ 
+Any person (natural or juristic) may make an offer or offers in terms of this invitation to bid. In 
+line with the principles of transparency, accountability, impartiality, and ethics as enshrined in 
+the Constitution of the Republic of South Africa and further expressed in various pieces of 
+legislation, it is required for the bidder to make this declaration in respect of the details required 
+hereunder. 
+ 
+Where a person/s are listed in the Register for Tender Defaulters and / or the List of Restricted 
+Suppliers, that person will automatically be disqualified from the bid process.  
+ 
+ 
+2. Bidder’s declaration 
+ 
+2.1  
+Is the bidder, or any of its directors / trustees / shareholders / members / partners or any person 
+having a controlling interest1 in the enterprise, employed by the state?  
+ 
+ 
+YES/NO……………………………………... 
+ 
+2.1.1 If so, furnish particulars of the names, individual identity numbers, and, if applicable, state 
+employee numbers of sole proprietor/ directors / trustees / shareholders / members/ partners 
+or any person having a controlling interest in the enterprise, in table below. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 the power, by one person or a group of persons holding the majority of the equity of an enterprise, alternatively, the 
+person/s having the deciding vote or power to influence or to direct the course and decisions of the enterprise. 
+ 
+ 
+Full Name 
+Identity Number 
+Name 
+of 
+State 
+institution
+
+[Page 35]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 33 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+2.2 
+Do you, or any person connected with the bidder, have a relationship with any person who is 
+employed by the procuring institution? 
+ 
+ 
+ 
+ 
+ 
+YES/NO 
+ 
+1     If so, furnish particulars: 
+…………………………………………………………………………………… 
+…………………………………………………………………………………… 
+ 
+ 
+2.3  
+Does the bidder or any of its directors / trustees / shareholders / members / partners or any 
+person having a controlling interest in the enterprise have any interest in any other related 
+enterprise whether or not they are bidding for this contract? 
+ 
+ 
+YES/NO 
+ 
+2.3.1 If so, furnish particulars: 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+ 
+3 
+DECLARATION 
+ 
+I, the undersigned, (name)……………………………………………………………………. in 
+submitting the accompanying bid, do hereby make the following statements that I certify to be 
+true and complete in every respect: 
+ 
+3.1  
+I have read and I understand the contents of this disclosure; 
+ 
+3.2 
+I understand that the accompanying bid will be disqualified if this disclosure is found not to be 
+true and complete in every respect; 
+ 
+3.3 The bidder has arrived at the accompanying bid independently from, and without 
+consultation, communication, agreement or arrangement with any competitor. However, 
+communication between partners in a joint venture or consortium2 will not be construed 
+as collusive bidding. 
+ 
+3.4 In addition, there have been no consultations, communications, agreements or 
+arrangements with any competitor regarding the quality, quantity, specifications, prices, 
+including methods, factors or formulas used to calculate prices, market allocation, the 
+intention or decision to submit or not to submit the bid, bidding with the intention not to 
+win the bid and conditions or delivery particulars of the products or services to which this 
+bid invitation relates. 
+ 
+3.4 
+The terms of the accompanying bid have not been, and will not be, disclosed by the bidder, 
+directly or indirectly, to any competitor, prior to the date and time of the official bid opening or 
+of the awarding of the contract. 
+ 
+3.5  
+There have been no consultations, communications, agreements or arrangements made by 
+the bidder with any official of the procuring institution in relation to this procurement process 
+prior to and during the bidding process except to provide clarification on the bid submitted 
+where so required by the institution; and the bidder was not involved in the drafting of the 
+specifications or terms of reference for this bid. 
+3.6 
+I am aware that, in addition and without prejudice to any other remedy provided to combat any 
+ 
+2 Joint venture or Consortium means an association of persons for the purpose of combining their expertise, property, 
+capital, efforts, skill and knowledge in an activity for the execution of a contract.
+
+[Page 36]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 34 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+restrictive practices related to bids and contracts, bids that are suspicious will be reported to 
+the Competition Commission for investigation and possible imposition of administrative 
+penalties in terms of section 59 of the Competition Act No 89 of 1998 and or may be reported 
+to the National Prosecuting Authority (NPA) for criminal investigation and or may be restricted 
+from conducting business with the public sector for a period not exceeding ten (10) years in 
+terms of the Prevention and Combating of Corrupt Activities Act No 12 of 2004 or any other 
+applicable legislation. 
+ 
+I CERTIFY THAT THE INFORMATION FURNISHED IN PARAGRAPHS 1, 2 and 3 ABOVE IS 
+CORRECT.  
+I ACCEPT THAT THE STATE MAY REJECT THE BID OR ACT AGAINST ME IN TERMS 
+OF PARAGRAPH 6 OF PFMA SCM INSTRUCTION 03 OF 2021/22 ON PREVENTING AND 
+COMBATING ABUSE IN THE SUPPLY CHAIN MANAGEMENT SYSTEM SHOULD THIS 
+DECLARATION PROVE TO BE FALSE.   
+ 
+ 
+……………………………… 
+ ..……………………………………………  
+ 
+ 
+Signature 
+                          Date 
+ 
+……………………………… 
+……………………………………………… 
+ 
+Position  
+Name of bidder
+
+[Page 37]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 35 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+Standard Bidding Document 6.1 
+ 
+PREFERENCE POINTS CLAIM FORM IN TERMS OF THE PREFERENTIAL PROCUREMENT 
+REGULATIONS 2022 
+ 
+This preference form must form part of all tenders invited.  It contains general information and 
+serves as a claim form for preference points for specific goals.  
+ 
+NB: 
+BEFORE COMPLETING THIS FORM, TENDERERS MUST STUDY THE GENERAL 
+CONDITIONS, DEFINITIONS AND DIRECTIVES APPLICABLE IN RESPECT OF THE 
+TENDER AND PREFERENTIAL PROCUREMENT REGULATIONS, 2022 
+ 
+ 
+1. 
+GENERAL CONDITIONS 
+1.1 
+The following preference point systems is applicable to invitations of this tender: 
+- 
+the 80/20 system for requirements with a Rand value of up to R50 000 000 (all 
+applicable taxes included); and the applicable preference point system for this tender is 
+the 80/20 preference point system. 
+ 
+1.2 
+Points for this tender (even in the case of a tender for income-generating contracts) shall be 
+awarded for price and specific Goals. 
+ 
+1.3 
+The maximum points for this tender are allocated as follows: 
+ 
+ 
+POINTS 
+PRICE 
+80 
+SPECIFIC GOALS 
+20 
+Total points for Price and SPECIFIC GOALS  
+100 
+ 
+1.4 
+Failure on the part of a tenderer to submit proof or documentation required in terms of this 
+tender to claim points for specific goals with the tender, will be interpreted to mean that 
+preference points for specific goals are not claimed. 
+ 
+1.5 
+The organ of state reserves the right to require of a tenderer, either before a tender is 
+adjudicated or at any time subsequently, to substantiate any claim in regard to preferences, in 
+any manner required by the organ of state. 
+ 
+2. 
+DEFINITIONS 
+(a)  “tender” means a written offer in the form determined by an organ of state in response to an 
+invitation to provide goods or services through price quotations, competitive tendering process 
+or any other method envisaged in legislation;  
+(b) “price” means an amount of money tendered for goods or services, and includes all 
+applicable taxes less all unconditional discounts;
+
+[Page 38]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 36 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+(c) “rand value” means the total estimated value of a contract in Rand, calculated at the time of 
+bid invitation, and includes all applicable taxes;  
+(d) “tender for income-generating contracts” means a written offer in the form determined by 
+an organ of state in response to an invitation for the origination of income-generating contracts 
+through any method envisaged in legislation that will result in a legal agreement between the 
+organ of state and a third party that produces revenue for the organ of state, and includes, but 
+is not limited to, leasing and disposal of assets and concession contracts, excluding direct 
+sales and disposal of assets through public auctions; and  
+(e) “the Act” means the Preferential Procurement Policy Framework Act, 2000 (Act No. 5 of 
+2000).   
+ 
+3. 
+FORMULAE FOR PROCUREMENT OF GOODS AND SERVICES 
+ 
+3.1. 
+POINTS AWARDED FOR PRICE 
+ 
+3.1.1   THE 80/20 PREFERENCE POINT SYSTEMS  
+ 
+A maximum of 80 points is allocated for price on the following basis: 
+ 
+ 
+ 
+𝑷𝒔= 𝟖𝟎(𝟏−
+𝑷𝒕−𝑷𝒎𝒊𝒏
+𝑷𝒎𝒊𝒏
+)  
+ 
+Where 
+ 
+Ps 
+= 
+Points scored for price of tender under consideration 
+ 
+Pt 
+= 
+Price of tender under consideration 
+ 
+Pmin = 
+Price of lowest acceptable tender 
+ 
+4. 
+POINTS AWARDED FOR SPECIFIC GOALS  
+ 
+4.1. 
+In terms of Regulation 4(2); 5(2); 6(2) and 7(2) of the Preferential Procurement Regulations, 
+preference points must be awarded for specific goals stated in the tender. For the purposes of 
+this tender the tenderer will be allocated points based on the goals stated in table 1 below as 
+may be supported by proof/ documentation stated in the conditions of this tender:  
+4.2. 
+In cases where organs of state intend to use Regulation 3(2) of the Regulations, which states 
+that, if it is unclear whether the 80/20 or 90/10 preference point system applies, an organ of 
+state must, in the tender documents, stipulate in the case of—  
+(c) an invitation for tender for income-generating contracts, that either the 80/20 or 90/10 
+preference point system will apply and that the highest acceptable tender will be used 
+to determine the applicable preference point system; or 
+  
+(d) any other invitation for tender, that either the 80/20 or 90/10 preference point system 
+will apply and that the lowest acceptable tender will be used to determine the 
+applicable preference point system,   
+then the organ of state must indicate the points allocated for specific goals for both the 90/10 
+and 80/20 preference point system.
+
+[Page 39]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 37 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+ 
+Table 1: Specific goals for the tender and points claimed are indicated per the table below.  
+Note to tenderers: The tenderer must indicate how they claim points for each preference point 
+system.)   
+The specific goals allocated 
+points in terms of this tender 
+Number of points 
+allocated 
+(80/20 system) 
+Number of points 
+claimed 
+(80/20 system) 
+(To be completed by 
+the tenderer) 
+Youth has/have ownership of 51% or 
+more of the enterprise shareholding  
+10 
+ 
+Enterprises owned by 51% or more 
+black people  
+10 
+ 
+Note: In the event that the bidder is claiming specific goals, the FSCA will allocate 
+points claimed, 
+provided that proof of evidence such as valid BBBEE 
+Certificates/sworn affidavits, CIPC etc. is attached. Failure to submit the acceptable 
+verifiable proof will result in an allocation of 0 points. 
+ 
+ 
+DECLARATION WITH REGARD TO COMPANY/FIRM 
+ 
+4.3. 
+Name of company/firm……………………………………………………………………. 
+4.4. 
+Company registration number: …………………………………………………………... 
+4.5. 
+TYPE OF COMPANY/ FIRM 
+ 
+Partnership/Joint Venture / Consortium 
+ 
+One-person business/sole propriety 
+ 
+Close corporation 
+ 
+Public Company 
+ 
+Personal Liability Company 
+ 
+(Pty) Limited  
+ 
+Non-Profit Company 
+ 
+State Owned Company 
+[TICK APPLICABLE BOX] 
+ 
+4.6. 
+I, the undersigned, who is duly authorised to do so on behalf of the company/firm, certify that 
+the points claimed, based on the specific goals as advised in the tender, qualifies the 
+company/ firm for the preference(s) shown and I acknowledge that: 
+i) The information furnished is true and correct; 
+ii) The preference points claimed are in accordance with the General Conditions as 
+indicated in paragraph 1 of this form; 
+iii) In the event of a contract being awarded as a result of points claimed as shown in 
+paragraphs 1.4 and 4.2, the contractor may be required to furnish documentary proof to 
+the satisfaction of the organ of state that the claims are correct;
+
+[Page 40]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 38 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+iv) If the specific goals have been claimed or obtained on a fraudulent basis or any of the 
+conditions of contract have not been fulfilled, the organ of state may, in addition to any 
+other remedy it may have – 
+ 
+(a) 
+disqualify the person from the tendering process; 
+(b) 
+recover costs, losses or damages it has incurred or suffered as a result 
+of that person’s conduct; 
+(c) 
+cancel the contract and claim any damages which it has suffered as a 
+result of having to make less favourable arrangements due to such 
+cancellation; 
+(d) 
+recommend that the tenderer or contractor, its shareholders and 
+directors, or only the shareholders and directors who acted on a 
+fraudulent basis, be restricted from obtaining business from any organ of 
+state for a period not exceeding 10 years, after the audi alteram partem 
+(hear the other side) rule has been applied; and 
+(e) 
+forward the matter for criminal prosecution, if deemed necessary. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+………………………………………. 
+SIGNATURE(S) OF TENDERER(S) 
+ 
+SURNAME AND NAME:  ………………………………………………………. 
+DATE:  
+ 
+……………………………………………………… 
+ADDRESS: 
+ 
+……………………………………………………… 
+ 
+ 
+ 
+……………………………………………………… 
+ 
+ 
+……………………………………………………… 
+ 
+ 
+………………………………………………………
+
+[Page 41]
+FSCA2026/27-T014 
+ 
+PROVISION OF NETWORK PERIMETER FIREWALL 
+SECURITY HARDWARE 
+ 
+ 
+ 
+ISSUE DATE 
+Friday, 09 October 2026 
+PAGE 39 OF 41 
+TITLE 
+TOR FSCA202627-T014 PROVISION OF NETWORK PERIMETER 
+FIREWALL SECURITY HARDWARE [PUBLISHED] 
+INITIAL 
+HERE ➔ 
+BIDDER’S 
+INITIALS 
+ 
+ 
+G. ADMINISTRATIVE CHECKLIST 
+ 
+Hereunder is a checklist to ensure that the bid document is complete in terms of 
+administrative compliance. Please ensure that the following forms have been 
+completed and signed and that all documents, as requested, are attached to the 
+tender document. 
+ 
+ITEM 
+DOCUMENT REFERENCE 
+ACTION TO BE TAKEN 
+YES/
+NO 
+1.  SBD 1 
+Invitation to bid 
+Is 
+the 
+form 
+duly 
+competed and signed? 
+ 
+2.  SBD 3.1  Pricing Schedule 
+Is 
+the 
+form 
+duly 
+competed and signed? 
+ 
+3.  SBD 4  
+Declaration of Interest 
+Is 
+the 
+form 
+duly 
+competed and signed? 
+ 
+4.  SBD 6.1 
+Preference 
+Points 
+Claim 
+Form 
+for 
+Preferential 
+Procurement 
+Regulations 
+2022 
+Is 
+the 
+form 
+duly 
+competed, Specific goals 
+points claimed, and form 
+signed? 
+ 
+5.  Tender submission  
+Two (2) printed copies.  
+(One (1) original and One 
+(1) 
+copy 
+of 
+original) 
+submitted?  
+ 
+One (1) electronic copy 
+submitted? 
+ 
+ 
+I, the undersigned (name) …………………………………………………… …………… 
+ 
+certify that the information furnished on this checklist is true and correct.  
+ 
+ 
+…………………………………………………                                     ……………………………… 
+Signature                                                                                          Date 
+ 
+………………………………………………….                                 ………………………………… 
+Position                                                                                             Name of Bidder

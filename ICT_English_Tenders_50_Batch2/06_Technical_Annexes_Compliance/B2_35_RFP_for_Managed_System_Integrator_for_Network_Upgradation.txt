@@ -1,0 +1,2872 @@
+Title: RFP for Managed System Integrator for Network Upgradation
+Source: https://gbpiet.ac.in/wp-content/uploads/2026/03/RFP-for-Managed-System-Integrator-for-Network-Upgradation-Video-Conferencing-Setup-Desktop-Computers-1.pdf
+Pages: 43
+
+--- Extracted text by page ---
+
+[Page 1]
+Request for Proposal (RFP) for 
+Selection of Managed System Integrator for Network Upgradation, 
+Video Conferencing Setup & Desktop Computers  
+for GBPIET Ghurdauri, Pauri-Garhwal 
+ 
+ 
+Tender No:      473/Reg. Office/ GBPIET/Tender/2026 
+Date: 12/02/2026
+
+[Page 2]
+Page 2 of 43 
+ 
+ 
+ 
+ 
+Section 1: Invitation to Bids 
+ 
+ 
+The Director  
+G.B. Pant Institute of Engineering & Technology 
+Ghurdauri, Pauri Garhwal. 
+ 
+ 
+GBPIET, Pauri invites online bids (Technical & Financial) from eligible bidders which are valid for a 
+minimum period of 180 days from the date of opening for “Selection of Managed System Integrator for 
+Network Upgradation, Video Conferencing Setup & Desktop Computers for GBPIET Ghurdauri, Pauri 
+Garhwal ,Uttarakhand” 
+ 
+Document Control Sheet 
+ 
+Tender reference No 
+473/Reg. Office/ GBPIET/Tender/2026 
+Name of Organization 
+G.B. Pant Institute of Engineering & 
+Technology, 
+Ghurdauri, 
+Pauri 
+Garhwal, Uttrakhand - 246194 
+Scope of Work 
+“Selection 
+of 
+Managed 
+System 
+Integrator for Network Upgradation, 
+Video Conferencing Setup & Desktop 
+Computers for the Institute i.e GBPIET 
+Campus , Ghurdauri, Pauri -Garhwal. 
+Tender Type (Open/ Limited/ EOI/ Auction/ 
+Single) 
+OPEN 
+Tender Category (Services/ Goods/ works) 
+Services/ Goods 
+Re-bid submission allowed (Yes/ No) 
+No 
+Is Offline Submission Allowed (Yes/ No) 
+No 
+Is Multi Currency Allowed 
+No (Only INR) 
+Payment Mode (Online/Offline) 
+Offline 
+Address for Communication 
+GBPIET, Pauri Garhwal 
+Bid Validity days (180/120/90/60/30) 
+180 Days
+
+[Page 3]
+Page 3 of 43 
+ 
+ 
+ 
+Important Dates & Details: 
+ 
+S. 
+No. 
+Details 
+Date/ Time 
+1.  
+Tender Uploading Date 
+02/03/2026 
+2.  
+Tender Download start date 
+03/02/2026 
+3.  
+Last date of receipt of any queries 
+11/03/2026 
+4.  
+Start Date of Bid Submission 
+04/03/2026 
+5.  
+Last Date & Time for Submission of 
+Bids 
+electronically 
+on 
+https://www.uktenders.gov.in/ 
+24/03/2026 
+6.  
+Date & Time of Opening of Bids 
+(Technical Bids) 
+25/03/2026 
+7.  
+Date 
+& 
+Time 
+of 
+Opening 
+of 
+Commercial Bids 
+Will be intimated to the qualified bidders 
+at a later date.   
+8.  
+Venue of Opening of Bids   
+Director 
+Office 
+Conference 
+Room, 
+Administrative Block of the institute. 
+9.  
+Tender Fees (Non-refundable) 
+INR 5900/-  
+10.  
+Earnest Money Deposit (E.M.D.) 
+(Refundable) 
+INR 8.00 Lakhs/-, should be in the form 
+of 
+Bank 
+guarantee 
+issued 
+by 
+a 
+Nationalized / Scheduled Bank/Banker 
+Cheque/ FDR/DD, in favor of Director 
+GBPIET. Payable at Pauri Garhwal or 
+Ghurdauri, Uttarakhand 
+ 
+11.  
+GBPIET Contact Person- 
+For Technical Queries:- 
+Dr. Bhumika Gupta. Head CSED 
+Dr. S.K Verma, A.P CSED 
+Dr. Jitendra Rauthan, A.P CSED 
+ 
+For Others Queries  
+1. Registrar 
+2. Director  
+ 
+ 
+For Technical Queries:-
+bhumikagupta@gbpiet.ac.in 
+ 
+ 
+ 
+For Others Queries  
+registrar@gbpiet.ac.in 
+director@gbpiet.ac.in 
+ 
+Note: Please specify RFP Number in all your correspondence. Interested parties may view and 
+download the tender document containing the detailed terms & conditions, free of cost from the website 
+https://www.uktender.gov.in
+
+[Page 4]
+Page 4 of 43 
+ 
+ 
+Section II – Instructions to the Bidders 
+ 
+1. Invitation for Online Bid Submission: 
+ 
+1.1. 
+ GBPIET Pauri, invites (as per guidelines issued by Uttarakhand State Government available on 
+the website https://ukenders.gov.in under the link “Bidders Manual Kit”) offer through E-tendering 
+for Selection of Managed System Integrator for Network Upgradation of GBPIET Ghurdauri 
+Campus Uttarakhand ”  
+1.2. 
+Proposals are hereby called from the Bidders having capability for above Project on behalf of  
+director GBPIET Ghurdauri, Pauri Garhwal Uttarakhand as per terms and conditions of the work 
+order as per uploaded specifications electronically. 
+ 
+2. Searching for RFP Document 
+ 
+2.1. 
+There are various search options built in the e-procurement Portal, to facilitate bidders to search 
+active RFPs by several parameters. These parameters could include RFP ID, Organization 
+Name, Location, Date, Value, etc. There is also an option of advanced search for RFPs, wherein 
+the bidders may combine a number of search parameters such as Organization Name, Form of 
+Contract, Location, Date, Other keywords etc. to search for an RFP published on the above 
+Portal.  
+2.2. 
+Once the bidders have selected the RFPs they are interested in, they may download the required 
+documents / RFP schedules. These RFPs can be moved to the respective My RFPs folder. This 
+would enable the Portal to intimate the bidders through SMS / e-mail in case there is any 
+corrigendum issued to the RFP document.  
+2.3. 
+The bidder should make a note of the unique RFP ID assigned to each RFP; in case they want 
+to obtain any clarification / help from the Helpdesk.  
+ 
+3. Preparation of Bids 
+3.1. 
+Bidder should take into account any corrigendum published on the RFP document before 
+submitting their bids.  
+3.2. 
+Please go through the RFP advertisement and the RFP document carefully to understand the 
+documents required to be submitted as part of the bid. Please note the number of covers in 
+which the bid documents have to be submitted, the number of documents - including the names 
+and content of each of the document that needs to be submitted. Any deviations from these may 
+lead to rejection of the bid.  
+3.3. 
+Bidder, in advance, should get ready the bid documents to be submitted as indicated in the RFP 
+document / schedule and generally.  
+3.4. 
+To avoid the time and effort required in uploading the same set of standard documents which 
+are required to be submitted as a part of every bid, a provision of uploading such standard 
+documents (e.g. PAN card copy, annual reports, auditor certificates etc.) has been provided to 
+the bidders. Bidders can use “My Space” or „ ‟Other Important. 
+3.5. 
+Documents area available to them to upload such documents. These documents may be directly 
+submitted from the “My Space” area while submitting a bid, and need not be uploaded again and 
+again. This will lead to a reduction in the time required for bid submission process.
+
+[Page 5]
+Page 5 of 43 
+ 
+ 
+4. Submission of Bids 
+ 
+4.1. 
+Bidder should log into the site well in advance for bid submission so that he/ she uploads the bid 
+in time i.e. on or before the bid submission time. Bidder will be responsible for any delay due to 
+other issues. 
+4.2. 
+The bidder has to digitally sign and upload the required bid documents one by one as indicated 
+in the tender document. 
+4.3. 
+Bidder has to select the payment option as “offline” to pay the tender fee / EMD as applicable 
+and enter details of the instrument. 
+4.4. 
+The bidder shall seal the original Bank Draft/ Bankers Cheque / Bank Guarantee /FDR in an 
+envelope. The Bidder shall mark name and tender reference number on the back of the Bank 
+Draft/ FDR/Bankers Cheque before sealing the same.  The address In favor of Director, GBPIET, 
+Ghurdauri, Pauri Garhwal, Uttarakhand, name and address of the bidder and the Tender 
+Reference Number shall be marked on the envelope. If the envelope is not marked as specified 
+above, XXXX will not assume any responsibility for its misplacement, pre-mature opening etc. 
+4.5. 
+The bidder shall deposit the envelope at the designated time and place, on bid submission date. 
+In case EMD is sent through Speed Post and it must reach as per date and time mentioned 
+above. 
+4.6. 
+EMD not meeting above deadlines will not be accepted and their uploaded bid will be rejected. 
+4.7. 
+A standard BoQ format has been provided with the tender document to be filled by all the 
+bidders. Bidders are requested to note that they should necessarily submit their financial bids in 
+the format provided and no other format is acceptable. Bidders are required to download the 
+BoQ file, open it and complete the requisite cells with their respective financial quotes and other 
+details (such as name of the bidder etc.). No other cells should be changed. Once the details 
+have been completed, the bidder should save it and submit it online, without changing the 
+filename. If the BoQ file is found to be modified by the bidder, the bid will be rejected. 
+4.8. 
+The server time (which is displayed on the bidders’ dashboard) will be considered as the 
+standard time for referencing the deadlines for submission of the bids by the bidders, opening 
+of bids etc. The bidders should follow this time during bid submission. 
+4.9. 
+All the documents being submitted by the bidders would be encrypted using PKI or any other 
+encryption techniques to ensure the secrecy of the data. The data entered cannot be viewed by 
+unauthorized persons until the time of bid opening. The confidentiality of the bids is maintained 
+using the secured encryption technology. Data storage encryption of sensitive fields is done. 
+Any bid document that is uploaded to the server is subjected to symmetric encryption using a 
+system generated symmetric key. Further this key is subjected to asymmetric encryption using 
+buyers/bid openers’ public keys. Overall, The uploaded tender documents become readable only 
+after the tender opening by the authorized bid openers. 
+4.10. Upon the successful and timely submission of bids, the portal will give a successful bid 
+submission message & a bid summary will be displayed with the bid no. and the date & time of 
+submission of the bid with all other relevant details. 
+4.11. The bid summary has to be printed and kept as an acknowledgement of the submission of the 
+bid. This acknowledgement may be used as an entry pass for any bid opening meetings. 
+ 
+5. Assistance to Bidders
+
+[Page 6]
+Page 6 of 43 
+ 
+ 
+5.1. 
+Any queries relating to the tender document and the terms and conditions contained therein 
+should be addressed to the Tender Inviting Authority for a tender or the relevant contact person 
+indicated in the tender. 
+5.2. 
+Any queries relating to the process of online bid submission or queries relating to State e-tender 
+portal in general may be directed to the 24x7 State e-tender portal Helpdesk. The contact 
+numbers for the helpdesk are  
+ 
+ 
+6. Cost to Bid 
+ 
+The Bidder shall bear all costs associated with the preparation and submission of its bid, including cost 
+of presentation for the purposes of clarification of the bid, if so desired by the Purchaser. The Purchaser, 
+will in no case be responsible or liable for those costs, regardless of the conduct or outcome of the 
+Tendering process. 
+ 
+7. Contents of the Tender Document 
+ 
+7.1. 
+This tender document includes  
+a) 
+Section I - Invitation for Bids, the Tender Document includes: 
+b) 
+Section II - Instructions to Bidders; 
+c) 
+Section III - General Conditions of the Contract and Service Levels 
+d) 
+Section IV – Scope of Work 
+e) 
+Section V – Eligibility Criteria Forms 
+f) 
+Annexure 1 : Technical Bid Format 
+g) 
+Annexure 2: Financial Bid Format 
+h) 
+Annexure 3 : Technical Specification   
+7.2. 
+The Bidder is expected to examine all instructions, forms, terms & conditions, and scope of work 
+in the Tender Document and furnish all information as stipulated therein. 
+ 
+8. Clarification on Tender Document 
+ 
+8.1. 
+A prospective Bidder requiring any clarification on the Tender Document may submit his queries, 
+in 
+writing, 
+at 
+the 
+Purchaser's 
+mailing 
+address 
+bhumikagupta@gbpiet.ac.in, 
+registrar@gbpiet.ac.in  as per schedule indicated in Section I – Invitation for Bids. The queries 
+must be submitted in the following format (in Excel file,*.xls or .xlsx) only to be considered for 
+clarification: 
+ 
+Sr. No.
+Section No. 
+Clause No. Reference/ Subject 
+Clarification Sought 
+ 
+ 
+ 
+ 
+ 
+ 
+8.2. 
+All queries on the Tender Document should be received on or before as prescribed by the 
+Purchaser in Section 1 of this tender document. The GBPIET Authority will resolve/ clarify/  under 
+Section 8.1. Queries not submitted within this deadline or not in the given format may not be
+
+[Page 7]
+Page 7 of 43 
+ 
+ 
+taken up by the Institute. The Institute may decide to have a conversation/ interaction with the 
+prospective bidder virtually / Physically.  
+8.3. 
+Purchaser's response (including the query but without identifying the source of inquiry) would be 
+uploaded in the State e-tender portal (URL: https://www.uktenders.gov.in). Bidders are 
+responsible for duly checking the above website for any clarifications. 
+8.4. 
+Client reserves the right not to respond to any/all queries raised or clarifications sought if, in their 
+opinion and at their sole discretion, they consider that it shall be in appropriate to do so or do 
+not find any merit in it.  
+ 
+ 
+Note: Inputs/ suggestions/ queries submitted by bidders as per clause 8.1 will be given due 
+consideration by the RFP committee, however GBPIET is not mandated to accept any submission 
+made by the bidder and nor the bidder will be given any written response to their submissions. If an 
+input is considered valid by the committee the same will be accepted and incorporated as part of the 
+corrigendum. 
+ 
+9. Amendment of Tender Document 
+ 
+At any time prior to the last date for receipt of bids, the purchaser, may, for any reason, whether at its 
+own initiative or in response to a clarification requested by a prospective Bidder, modify the Tender 
+Document by an amendment. The amendment will be notified on e-procurement portal 
+https://www.uktenders.gov.in and should be taken into consideration by the prospective agencies while 
+preparing their bids. 
+ 
+10. 
+Language of Bids 
+ 
+The Bids prepared by the Bidder and all correspondence and documents relating to the bids exchanged 
+by the Bidder and the Purchaser, shall be written in English language.  
+ 
+11. 
+Documents Comprising the Bids 
+ 
+The bid prepared by the Bidder shall comprise of the following components: 
+ 
+11.1. Earnest Money Deposit (EMD) in the form of a Demand Draft/Bankers Cheque/Bank 
+Guarantee/Fixed Deposit Receipt of a Scheduled/Nationalized Bank 
+11.2. Eligibility Criteria Forms mentioned in the Eligibility Criteria Table 
+11.3. Technical Bid  
+11.4. Financial Bid 
+11.5. Power of Attorney executed by the Bidder in favor of the tender calling authority or the duly 
+Authorized Representative, certifying him as an authorized signatory for the purpose of this 
+Tender (As per RFP) 
+11.6. Self-Declarations as requested 
+11.7. Document of proof as requested in the all the Schedules & the Annexure.
+
+[Page 8]
+Page 8 of 43 
+ 
+ 
+12. 
+Bid Prices 
+ 
+12.1. The Bidder shall indicate in the Performa prescribed, the unit rates and total Bid Prices of the 
+Equipment / Services, proposes to provide under the Contract. Prices should be shown 
+separately for each item as detailed in Tender Documents. 
+12.2. In absence of above information as requested in, a bid may be considered incomplete and be 
+summarily rejected. 
+12.3. Prices quoted in the bid must be firm and final and shall not be subject to any upward 
+modifications, on any account whatsoever. The Bid Prices shall be indicated in Indian Rupees 
+(INR) only. 
+12.4. The rate quoted by the bidder should be valid for 3 months from the contract award date, in case 
+the purchaser decides to procure/place an order for additional quantity of IT infrastructure within 
+3 months from the contract award date.    
+12.5. The Bidder shall prepare the bid based on details provided in the tender documents. It must be 
+clearly understood that the Scope of Work & the BOQ is intended to give the Bidder an idea 
+about the order and magnitude of the work and is not in any way exhaustive and guaranteed by 
+the Purchaser. The Bidder shall carry out all the tasks in accordance with the requirement of the 
+tender documents and it shall be the responsibility of the Bidder to fully meet all the requirements 
+of the tender documents. If during the course of execution of the project any revisions to the 
+work requirements i.e. Technical specifications, Equipment sizing, Technical Architecture etc. 
+are to be made to meet the goals of the Purchaser, all such changes shall be carried out within 
+the current price without any impact to the Purchaser. 
+ 
+13. 
+Firm Prices 
+ 
+Prices quoted in the bid must be firm and final and shall not be subject to any upward modifications, on 
+any account whatsoever. The Bid Prices shall be indicated in Indian Rupees (INR) only. 
+ 
+14. 
+Earnest Money Deposit (EMD) 
+ 
+14.1. The Bidder shall furnish, as part of its bid, an Earnest Money Deposit (EMD) of the amount 8.00 
+Lakh( Eight Lakh Only) 
+14.2. The EMD is required to protect the Purchaser against the risk of Bidder’s conduct which would 
+warrant the security's forfeiture. 
+14.3. The EMD must be submitted, by Bank Guarantee/Demand Draft/Bankers Cheque/FDR valid for 
+period of one Year, of any Commercial Bank/Scheduled Bank/Nationalized Bank drawn in favor 
+of Director, GBPIET Payable at Ghurdauri or Pauri Garhwal. Uttrakhand.  
+14.4. Unsuccessful Bidder’s EMD will be discharged/ returned after award of contract to the successful 
+Bidder. No interest will be paid by the Purchaser on the EMD. 
+14.5. The successful Bidder’s EMD will be discharged upon the bidder executing the Contract and 
+furnishing the Bank Guarantee/security deposit. No interest will be paid by the Purchaser on the 
+EMD. 
+14.6. The EMD may be forfeited: 
+a) 
+If a Bidder withdraws its bid during the period of bid validity specified by the Bidder in the 
+Bid; or
+
+[Page 9]
+Page 9 of 43 
+ 
+ 
+b) 
+In the case of a successful Bidder, if the Bidder fails; 
+i. 
+To sign the Contract in accordance with RFP Prerequisite. 
+ii. 
+To furnish Bank Guarantee for contract performance as mentioned in this RFP. 
+ 
+15. 
+Period of Validity of Bids 
+ 
+15.1. Bids shall remain valid for 180 days after the date of opening of Technical Bids prescribed by 
+the Purchaser. A bid valid for a shorter period may be rejected by the Purchaser as 
+nonresponsive. 
+15.2. In exceptional circumstances, the Purchaser may request the Bidder for an extension of the 
+period of validity up to 180 days more. The request and the responses thereto shall be made in 
+writing (or through e-mail).  
+ 
+16. 
+Format and Signing of Bid 
+ 
+16.1. The original and all copies of the bid shall be typed or written in indelible ink. The Bidder shall 
+sign the original and all copies or persons duly authorized to bind the Bidder to the Contract in 
+accordance with conditions in the RFP. All pages of the bid, except for un-amended printed 
+literature, shall be initialed and stamped by the person or persons signing the bid. 
+16.2. The bid shall contain no interlineations, erasures or overwriting except as necessary to correct 
+errors made by the Bidder, in which case such corrections shall be initialed by the person or 
+persons signing the bid. 
+16.3. The Bidder shall duly sign and seal its bid with the exact name of the firm/ company to whom 
+the contract is to be issued. 
+ 
+17. 
+Revelation of Prices 
+ 
+Prices in any form or by any reason before opening the Commercial Bid should not be revealed, failing 
+which the offer shall be liable to be rejected. 
+ 
+18. 
+Terms and Conditions of Bidders 
+ 
+Printed terms and conditions of the Bidders will not be considered as forming part of their Bids. 
+ 
+19. 
+Local Conditions 
+ 
+19.1. It will be incumbent upon each Bidder to fully acquaint himself with the local conditions and other 
+relevant factors at the site which would have any effect on the performance of the contract and 
+/ or the cost. 
+19.2. The Bidder is expected to make a site visit to obtain for himself on his own responsibility all 
+information that may be necessary for preparing the bid and entering into contract. Obtaining 
+such information shall be at Bidder’s own cost. 
+19.3. Failure to obtain the information necessary for preparing the bid and/or failure to perform 
+activities that may be necessary for the providing services before entering into contract will in no
+
+[Page 10]
+Page 10 of 43 
+ 
+ 
+way relieve the successful Bidder from performing any work in accordance with the Tender 
+documents. 
+19.4. The bidder and any of its personnel or authorized agents will be granted permission by GBPIET, 
+Pauri  to enter its facilities at various locations in the state for the purpose of such visits, but only 
+upon the condition that the bidder, its personnel, and authorized agents, will indemnify the 
+GBPIET, Pauri  from and against all liability in respect thereof, and will be responsible for death 
+or personal injury, loss of or damage to property, and any other loss, damage, costs, and 
+expenses incurred as a result of such inspection, undertaken by the bidder. The Bidder shall at 
+its own risk, peril, cost and liability undertake site visits to designated facilities in the state. 
+ 
+20. 
+Consortium 
+ 
+Consortium is not allowed. 
+ 
+21. 
+Last Date for Receipt of Bids 
+ 
+Bids will be received by the Purchaser at the address specified under Section I – Invitation for Bids no 
+later than the time and date specified in Section I -Invitation for Bids. In the event of the specified date 
+for the receipt of Bids being declared a holiday for the Purchaser, only hard copy of EMD will be received 
+up to the appointed time on the next working day. 
+ 
+22. 
+Late Bids 
+ 
+Any bid received by the Purchaser after the last date and time for receipt of bids prescribed by the 
+Purchaser, pursuant to Section I - Invitation for Bids, will be rejected. 
+ 
+23. 
+Modification and Withdrawal of Bids 
+ 
+23.1. No bid may be altered / modified subsequent to the closing time and date for receipt of bids. 
+Unsolicited correspondences from Bidders will not be considered. 
+23.2. No bid may be withdrawn in the interval between the last date for receipt of bids and the expiry 
+of the bid validity period specified by the Bidder in the Bid. Withdrawal of a bid during this interval 
+may result in the Bidder’s forfeiture of its EMD. 
+ 
+24. 
+Address for Correspondence 
+ 
+The Bidder shall share the official mailing address, place and fax number to which all correspondence 
+shall be sent by the Purchaser. 
+ 
+25. 
+Contacting the Purchaser 
+ 
+25.1. No Bidder shall contact the Purchaser on any matter relating to its bid, from the time of the bid 
+opening to the time the Contract is awarded.
+
+[Page 11]
+Page 11 of 43 
+ 
+ 
+25.2. Any effort by a Bidder to influence the Purchaser’s bid evaluation, bid comparison or contract 
+award decisions may result in the rejection of the Bidder’s bid. 
+ 
+26. 
+Evaluation of Bids 
+26.1. Technical and Financial evaluation committee will be formed for evaluation of the bids. Decision 
+of the committee would be final and binding upon all the Bidders. 
+26.2. The Bidder should confirm unconditional acceptance of full responsibility of completion of job 
+and for executing the ‘Scope of Work’ of this tender. This confirmation should be submitted as 
+part of the Technical Bid. The Bidder shall also be the sole point of contact for all purposes of 
+the Contract. 
+26.3. The Bidder should not be involved in any major litigation that may have an impact of affecting or 
+compromising the delivery of services as required under this contract. If at any stage of 
+Tendering process or during the currency of the Contract, any suppression / falsification of such 
+information is brought to the knowledge of the Purchaser, the Purchaser shall have the right to 
+reject the bid or terminate the contract, as the case may be, without any compensation to the 
+Bidder. 
+26.4. Bidder must possess the requisite experience, strength and capabilities in providing the services 
+necessary to meet the Purchaser’s requirements, as described in the Tender Documents. Bidder 
+must possess the technical know-how and the financial wherewithal that would be required to 
+successfully Supply, Install, Configure, Maintain and Manage all the components of the RFP as 
+part of the solution and also to provide the maintenance and management support services 
+sought by the Purchaser, for the entire period of the contract. The Bidder’s bid must be complete 
+in all respect and covering the entire scope of work as stipulated in the Tender document. 
+26.5. The Purchaser will examine the bids to determine whether they are complete, whether the bid 
+format confirms to the Tender requirements, whether any computational errors have been made, 
+whether required EMD have been furnished, whether the documents have been properly signed, 
+and whether the bids are generally in order. 
+26.6. A bid determined as not substantially responsive will be rejected by the Purchaser and may not 
+subsequently be made responsive by the Bidder by correction of the nonconformity. 
+26.7. When deemed necessary, during the tendering process, the Purchaser may seek clarifications 
+or may ask shortfall/clarification documents or ask the Bidders to make Technical presentations 
+on any aspect from any or all the Bidders. However, that would not entitle the Bidder to change 
+or cause any change in the substance of the tender submitted or price quoted. 
+ 
+27. 
+Evaluation of Eligibility Criteria 
+ 
+27.1. In this part, the bid will be reviewed for determining the Compliance of the general conditions of 
+the contract and Eligibility Criteria as mentioned in the Tender. Any deviation for general 
+conditions of the contract and eligibility criteria will lead to rejection of the bid. 
+27.2. Before opening and evaluation of their technical proposals, bidders are expected to meet all the 
+general conditions of the contract and the eligibility criteria as mentioned below: - Bidders failing 
+to meet these criteria or not submitting requisite supporting documents / documentary evidence 
+for supporting pre-qualification criteria are liable to be rejected summarily.
+
+[Page 12]
+Page 12 of 43 
+ 
+ 
+27.3. The bids must be complete in all respects and should cover the entire scope of work as stipulated 
+in the tender document. The invitation to the bids is open to all bidders who qualify the eligibility 
+criteria as follows: 
+ 
+Sr. No. 
+Clause 
+Documents Required 
+1.  
+The bidder must be a company registered in 
+India under Indian Companies Act 1956/ 
+Indian Companies Act 2013  
+  
+OR 
+ 
+A partnership firm registered under Indian 
+Partnership Act, 1932. 
+ 
+OR 
+ 
+A Limited Liability Partnership (LLP) firm 
+registered under Limited Liability Partnership 
+Act 2008. 
+ 
+and in operation for at least 5 years as on 
+31.03.2025 and should have their registered 
+offices in India. 
+ 
+It must be registered with appropriate 
+authorities 
+for 
+all 
+applicable 
+statutory 
+registration and Taxes 
+Valid documentary proof of: Certificate of 
+incorporation/ Registration, Certificate of 
+Commencement of business, Certificate 
+consequent to change of name if 
+applicable Copy of Memorandum and 
+Articles of Association or Partnership 
+deed. 
+Valid documentary proof of:  GST. 
+Income Tax registration/ PAN number 
+Income Tax returns for the last three 
+years 
+2.  
+Bidder should have executed at least one 
+single work of establishing and configuring 
+LAN of minimum 500 network nodes with 
+Network Switches, WiFi and Firewall in last 3 
+Years of the value of minimum 2 Crore in 
+Government / PSUs
+Copy 
+of 
+the 
+relevant 
+completion 
+certificate along with PO to be submitted 
+by the Bidder.  
+ 
+3.  
+The Bidder should have a minimum average 
+annual turnover of 2.5 Crore for last three 
+financial years. 
+ 
+ 
+ 
+Copy of the Audited Profit and Loss 
+statement and statutory auditor / CA 
+certificate from a regarding turnover. The 
+certificate should be originally signed or 
+notarized.  
+4.  
+The bidder should have positive net worth as 
+on date. 
+CA Certificate 
+5.  
+The Bidder should not have been blacklisted 
+by the Government of India or any state 
+government or any of its agencies for any 
+reasons whatsoever and the bidder should not 
+Undertaking 
+from 
+the 
+Authorized 
+Signatory as per the format in Section
+
+[Page 13]
+Page 13 of 43 
+ 
+ 
+have been blacklisted by Central / any other 
+State/UT Government or its agencies for 
+indulging in corrupt or fraudulent practices or 
+for indulging in unfair trade practices as on the 
+date of Publication of this RFP. 
+6.  
+The bidder should have an office in 
+Uttarakhand. However, if the presence is not 
+there in the state, the System Integrator 
+should give an undertaking for establishment 
+of a project office, within two months from the 
+day the contract is awarded. 
+Self-certification 
+duly 
+signed 
+by 
+authorized signatory on company letter 
+head. 
+7.  
+The bidder shall be the single point of Contact 
+for GBPIET, Pauri  for Design, Supply, Install, 
+Connect, 
+Configure, 
+Implement, 
+Design, 
+Construct to Go Live all the networking 
+Infrastructure per the scope defined in this 
+RFP and shall be solely responsible for all 
+warranties and upgrades etc.  
+Self-certification 
+duly 
+signed 
+by 
+authorized signatory on company letter 
+head. 
+8.  
+The bidder should submit valid letter from 
+network equipment OEM confirming the 
+following: 
+• Authorization for bidder Confirm that the 
+products quoted are not “end of life or end 
+of sale products”. If in case the support for 
+the product quoted has been stopped/ 
+withdrawn till the time of delivery of 
+equipment, the same will be changed with 
+the same configuration or superior product 
+at no extra cost.  
+• Undertaking that the warranty, AMC 
+support including spares, patches, and 
+upgrades for the quoted products shall be 
+available for the entire period of the project 
+at the quoted rates in the bid. 
+ 
+ Documentary evidences such as 
+Authorization 
+letters 
+MAF 
+(Manufacturers 
+Authorization 
+Form) from all OEM/ Vendors 
+whose products are being quoted 
+by the Bidder need to be attached 
+in the proposal). 
+ Bidder to share name of proposed 
+OEMs for shared BoQ as a 
+separate sheet along with the 
+technical proposal. 
+ 
+ 
+Note: 
+(a) If the details furnished by the bidder found to be wrong at any point time during the bidding 
+or contract, GBPIET, pauri reserves the right to terminate the contract and forfeit the 
+EMD/PBG in XXXX favor. 
+ 
+28. 
+Evaluation of Technical Bids 
+ 
+28.1. Only those bidders who qualify all Pre-qualification / Eligibility Criteria requirements will be 
+qualified for technical bid evaluation.
+
+[Page 14]
+Page 14 of 43 
+ 
+ 
+28.2. The technical bid will first be reviewed for determining the Compliance of the Technical bids with 
+the Tender terms and conditions, Minimum/ Mandatory Technical requirements shared in 
+Annexure 3 for the scope defined in the RFP and the scope of work as defined in this tender. 
+28.3. Any bid found to be non-compliant to the mandatory Technical Requirements, Tender terms and 
+conditions and the scope of work shall be rejected and will not be considered for further 
+evaluation. Bids that are technically compliant would only be taken up for commercial evaluation. 
+28.4. Bidders should submit the Technical Specification compliance sheet as a part of technical bid 
+as mentioned in RFP. All technical specification given in Scope of Work. 
+28.5. If the bidder is found to be non-compliant with any of the mandatory technical specifications, 
+then the respective bid may be rejected. 
+28.6. Bidder is required to submit all the supporting documents as per the criteria mentioned in the 
+RFP. XXXX reserves right to summarily reject any bid which does not contain all the mandatory 
+supporting document or may ask bidder for any clarification, the decision of XXXX will be final 
+and binding in this regard. 
+28.7. XXXX reserves the right to disqualify any bidder based on any criteria considered relevant and 
+its decision is binding. Representations, if any from disqualified bidders will not be entertained 
+and will be summarily rejected. XXXX will not respond to any query raised by bidders seeking 
+reasons for rejection of the bid. 
+ 
+29. 
+Evaluation of Financial Bids 
+ 
+29.1. The 
+Bidder 
+has 
+to 
+submit 
+the 
+commercial 
+bid 
+through 
+e-procurement 
+website 
+(https://www.uktenders.gov.in/) in the format shared in Annexure – 2. 
+29.2. In order to be considered for financial evaluation, the bidder has to quote in terms of rupee. Any 
+conditional bid would be rejected. 
+29.3. The Quote price shall be considered as inclusive of all Taxes/Duties/Service Tax etc. 
+29.4. The Bidder offering lowest evaluated responsive price, as above, would be selected as 
+successful Vendor.  
+29.5. GBPIET, Pauri shall notify successful Bidder. It will not entertain any query or clarification from 
+Applicant(s) who are not selected in the RFP process.  
+29.6. The total price quoted by the bidder in BOQ will be considered as inclusive of all Taxes / GST 
+/Any applicable levies. It will be liability of the bidder to meet scope of work as mentioned in the 
+RFP. 
+ 
+Note:  
+Errors & Rectification: Arithmetical errors will be rectified on the following basis: “If there is a 
+discrepancy between the unit price and the total price that is obtained by multiplying the unit 
+price and quantity, the unit price shall prevail and the total price shall be corrected. If there is a 
+discrepancy between words and figures, the amount in words will prevail”. 
+ 
+30. 
+Purchaser's Right to Vary Scope of Contract at the time of Award 
+ 
+The Purchaser may at any time, by a written order given to the Bidder, make changes to the scope of 
+the Contract as specified.
+
+[Page 15]
+Page 15 of 43 
+ 
+ 
+31. 
+Purchaser's Right to Accept Any Bid and to Reject Any or All Bids 
+ 
+The Purchaser reserves the right to accept any bid, and to annul the Tender process and reject all bids 
+at any time prior to award of Contract, without thereby incurring any liability to the affected Bidder or 
+Bidders or any obligation to inform the affected Bidder or Bidders of the grounds for the Purchaser's 
+action. 
+ 
+32. 
+Notification of Award 
+ 
+32.1. Prior to the expiration of the period of bid validity, pursuant as mentioned in RFP, the Purchaser 
+will notify the successful Bidder in writing by mail, followed by registered letter to be confirmed 
+in writing by registered letter, that its bid has been accepted. 
+32.2. The notification of award will constitute the formation of the Contract. 
+32.3. Upon the successful Bidder's furnishing of Bank Guarantee of 3% of the Work/Purchase Order 
+Value for contract performance pursuant as mentioned in RFP, the Purchaser may notify each 
+unsuccessful Bidder and will discharge its EMD, 
+ 
+33. 
+Award of Contract 
+ 
+33.1. There will be only one vendor for the entire Scope Of Work. 
+33.2. At the same time as the Purchaser notifies the successful Bidder that its bid has been accepted, 
+the Purchaser will issue the LoA (Letter of Award) and Performa for Contract incorporating all 
+agreements between the parties. 
+33.3. Within 30 days of receipt of the LoA, the successful Bidder shall sign and date the Contract and 
+return it to the Purchaser. 
+33.4. In the case of Bidder whose tender bids are accepted, bidder shall be required to give Security 
+Deposit as mentioned in tender along with acceptance of LOA, within 30 days. Security Deposit 
+will be in the form of Bank Guarantee (BG) of any nationalized bank.  
+33.5. GBPIET may, at any time, terminate the contact by giving written notice in 30 days advance to 
+the vendor without any compensation, if the vendor becomes bankrupt or otherwise insolvent, 
+provided that such termination will not prejudice or affect any right of action or remedy which has 
+accrued or will accrue thereafter to GBPIET, Pauri. 
+33.6. If at any point during the contract, if the vendor fails to, deliver as per the tender terms and 
+conditions or any other reason amounting to disruption in service, the Termination and Exit 
+Management clause will be invoked. 
+33.7. Quantities mentioned are indicative and GBPIET, Pauri reserves the right at the time of award 
+of purchase order to increase or decrease the quantity of goods and / or services from what was 
+originally specified while floating the RFP without any change in unit price or any other terms 
+and conditions. 
+33.8. Objection, if any, to the Purchase Order must be reported to the tender processing section by 
+the vendor within Seven (7) working days counted from the Date of Purchase Order for 
+modifications, otherwise it is assumed that the vendor has accepted the Purchase Order in toto. 
+33.9. If the vendor is not able to supply/ deploy/ operationalize the ordered Hardware/ software 
+system/ service/ process completely within the specified period, the penalty clause will be 
+invoked.
+
+[Page 16]
+Page 16 of 43 
+ 
+ 
+33.10. The decision of GBPIET, Pauri shall be final and binding on all the vendors to this document. 
+GBPIET reserves the right to accept or reject an offer without assigning any reason whatsoever. 
+ 
+ 
+34. 
+Bank Guarantee for Contract Performance 
+ 
+34.1. Within 30 days of the receipt of notification of award from the Purchaser, the successful Bidder 
+shall furnish the performance security in the form of Bank guarantee of nationalized bank valid 
+for a period of contract, which is one year, plus Three additional months as claim period in 
+accordance with the Conditions of Contract, in the Contract Performance Guarantee Bond. 
+34.2. Failure of the successful Bidder to comply with the requirement shall constitute sufficient grounds 
+for the annulment of the award and forfeiture of the Performance Security. In case of exigency, 
+if the Purchaser gets the work done from elsewhere, the difference in the cost of getting the work 
+done will be borne by the successful Bidder. 
+ 
+35. 
+Confidentiality of the Document 
+ 
+This Tender Document is confidential and the Bidder shall ensure that anything contained in this Tender 
+Document shall not be disclosed in any manner, whatsoever. 
+ 
+36. 
+Rejection Criteria 
+ 
+Besides other conditions and terms highlighted in the tender document, bids may be rejected under 
+following circumstances: 
+ 
+36.1. General Rejection Criteria 
+ 
+36.1.1. Bids submitted without Tender Fees. 
+36.1.2. Bids submitted without or improper EMD 
+36.1.3. Bids received through Telex /Telegraphic / Fax/ E-Mail/ Hard copies except, wherever 
+required, will not be considered for evaluation. 
+36.1.4. Bids which do not confirm unconditional validity of the bid as prescribed in the Tender 
+36.1.5. If the information provided by the Bidder is found to be incorrect / misleading at any 
+stage / time during the Tendering Process 
+36.1.6. Any effort on the part of a Bidder to influence the Purchaser’s bid evaluation, bid 
+comparison or contract award decisions 
+36.1.7. Bids received by the Purchaser after the last date and closing time for receipt of bids 
+prescribed by the Purchaser, pursuant to Section I - Invitation for Bids 
+36.1.8. Bids without tender Specific OEM Authorization,  power of authorization and any other 
+document consisting of adequate proof of the ability of the signatory to bind the Bidder 
+ 
+36.2. Technical Rejection Criteria 
+ 
+36.2.1. Non-compliance of every specification as mentioned n the tender document.
+
+[Page 17]
+Page 17 of 43 
+ 
+ 
+36.2.2. Technical Bid containing commercial details. 
+36.2.3. Revelation of Prices in any form or by any reason before opening the Commercial Bid 
+36.2.4. Failure to furnish all information required by the Tender Document or submission of a 
+bid not substantially responsive to the Tender Document in every respect.  
+36.2.5. Bidders not quoting for the complete scope of Work as indicated in the Tender 
+documents, addendum (if any) and any subsequent information given to the Bidder. 
+36.2.6. The Bidder not confirming unconditional acceptance of full responsibility of providing 
+services in accordance with this tender. 
+36.2.7. If the bid does not confirm to the timelines indicated in the bid. 
+ 
+36.3. Commercial Rejection Criteria 
+ 
+36.3.1. Incomplete Financial Bid 
+36.3.2. Financial Bids that do not conform to the Tender’s Financial bid format 
+36.3.3. If there is an arithmetic discrepancy in the commercial bid calculations the Purchaser 
+shall rectify the same. If the Bidder does not accept the correction of the errors, its bid 
+may be rejected.
+
+[Page 18]
+Page 18 of 43 
+ 
+ 
+36.4. Payment Schedule 
+ 
+36.4.1. Payments will be released only on satisfactory acceptance of the deliverables for each 
+Task as per the following schedule: 
+ 
+Sr. 
+No. 
+Item 
+Fee Payment 
+Deliverables 
+1.  
+Delivery 
+of 
+equipment  
+60% payment of 
+contract value  
+ The Bidder will deliver the items at designated 
+location as per the purchase order and obtain 
+signature with date and stamp on Delivery Proof 
+(s) of the concerned user. 
+ The Bidder will submit a copy of Proof of Delivery 
+duly signed, date of delivery, designation and 
+office seal, legibly recorded, should reach 
+GBPIET, Pauri. 
+ 
+2.  
+Installation, 
+configuration, 
+testing, 
+commissioning 
+30 % payment 
+of contract value 
+shall be made 
+after 
+Installation, 
+configuration, 
+testing, 
+commissioning 
+of 
+passive 
+components 
+ Bidder has to install the ordered items and will 
+prepare installation, commissioning and testing 
+reports. 
+ The Bidder will submit all original installation 
+reports, to Authority of GBPIET, Pauri. 
+ 
+3.  
+Acceptance  
+ 
+Remaining 10% 
+payment 
+of 
+contract 
+value 
+shall be made 
+after successful 
+acceptance 
+ On successful final acceptance and project signoff 
+by GBPIET officials . 
+ 
+ 
+Note: 
+ All Payments shall be made in Indian Rupees Only 
+ Payments should be subject to deductions of any amount for which the Bidder is liable under 
+the tender conditions. Further, all payments shall be made subject to deduction of TDS (Tax 
+deduction at Source) as per the current Income-Tax Act.
+
+[Page 19]
+Page 19 of 43 
+ 
+ 
+Section III: Scope of Work 
+ 
+A. Broad Scope 
+ 
+ The proposed solution will be based on configuring LAN with network switched, WiFi with 
+controllers and security firewall.  
+ Individual building will be connected to central location by using existing OFC Cable. If a need 
+arise GBPIET may separately create provisions for laying passive components like 
+cables/OFC/Patch panel etc..at additional cost 
+ 
+ 
+B. Tentative Project Plan 
+ 
+ 
+ 
+ 
+ 
+ 
+S.NO.
+ 
+Activity 
+ 
+Action required by System 
+Integrator (SI)
+Action required 
+by XXXX 
+1
+Placement of PO
+SI will coordinate with Departments 
+as per instruction from Head, CSED 
+or  In-charge of the Project. 
+ 
+2 
+Material dispatch for site 
+SI Will inform GBPIET, Pauri  
+designate 
+Officer 
+material 
+delivery date 
+Require secure 
+storage space and 
+name & 
+designation of 
+person authorized 
+to receive 
+material
+3 
+Receipt of material at site 
+SI’s representative will hand over the 
+material at site to designated person.
+Provide name and 
+contact detail of 
+person authorized 
+to receive material 
+and sign the 
+delivery 
+challan
+4 
+Start Installation work 
+SI's representative will provide the 
+installation detail to the concerned 
+person at site 
+Depute & 
+designate a 
+person who will 
+approve 
+installation plan 
+5 
+Work completion Certificate 
+Will submit request 
+Provide name and 
+contact detail 
+of person who 
+will approve work 
+and sign 
+installation report
+
+[Page 20]
+Page 20 of 43 
+ 
+ 
+Section IV-Eligibility Criteria Forms 
+ 
+1. Form No. E1: Certificate of Registration/Incorporation 
+ 
+Sr. 
+No.
+Name 
+of 
+Organization 
+Address 
+Certification 
+Date 
+Copy of Certificate of 
+Registration 
+/Incorporation uploaded? 
+1 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+Note: Please fill this form and upload the copy of Certificate of Registration/Incorporation. 
+ 
+ 
+ 
+ 
+2. Form No. E2: Financial strength of the bidder 
+ 
+Financial Year 
+Turnover 
+(Rs. 
+In 
+Crores) 
+Audited 
+Accounts 
+uploaded? 
+(Yes/No) 
+2021-22 
+ 
+ 
+2022-23 
+ 
+ 
+2024-25 
+ 
+ 
+Grand Total 
+ 
+ 
+ 
+Note: Please fill this form and upload the Audited Annual Accounts / Balance Sheet along with Profit & 
+Loss Account for the last three financial years. 
+ 
+ 
+3. Form No. E3: Bidder’s Experience (Customer References) 
+ 
+Sr. 
+No.
+Name 
+of 
+Organization
+Contact 
+Person 
+Contact 
+Details 
+Date 
+and 
+Period 
+of 
+Contract 
+Project 
+Cost 
+Type of Supporting 
+Document Attached 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: Please fill this form and upload the supporting documents (Work Order(s)/Customer Reference 
+and Completion Certificate) in scanned format for the details of such projects under taken along with 
+clients’ on-going/completion certification/ letter should been closed. Failing the same may lead to the 
+rejection of the bid. You may add the customer references by adding multiple rows which may be added 
+by “NUMBER OF ROWS TO ADD”.
+
+[Page 21]
+Page 21 of 43 
+ 
+ 
+ 
+ 
+ 
+4. Form No. E4: Manufacturer's Authorization Form ( MAF) for each Category of items OEM Separate 
+MAF is required.  
+ 
+Dated: 
+ 
+To,  
+ 
+ Director, GBPIET, Ghurdauri Pauri- Garhwal 
+ 
+ 
+Sub: Manufacturer’s Authorization Form ( MAF) for ………………….  
+ 
+Ref: Submission of proposal in response to RFP for “Selection of Managed System Integrator for 
+Network Upgradation, Setup Video Conferencing Studio & Personal Computers (PC) for GBPIET 
+Ghurdauri, Pauri Garhwal”  
+ 
+ 
+Tender Enquiry No.-                                           Dated  
+ 
+Dear Sir,  
+We [insert:  name of OEM] who are established and reputable manufacturers of [insert:  name and/or 
+description of the equipment or other goods / services] having production facilities at [insert:  address 
+of factory] do hereby authorize BIDDER NAME & ADDRESS  to submit a bid, and subsequently sign 
+the Contract with you for Tender No                                     dated                including the above equipment 
+quoted to PRIME BIDDER against this NIT. 
+ 
+We hereby extend our full Technical Support, Guarantee and Warranty on a back to back basis as per 
+the original Tender Specification for the above specified equipment/ materials offered supporting the 
+supply, installation and achieving of Operational Acceptance of the System by the Bidder against these 
+Bidding Documents, and duly authorize said Bidder to act on our behalf in fulfilling the contractual 
+obligations. 
+For and on behalf of the Manufacturer 
+ 
+ 
+       (Signature)........................................….........……….. 
+ 
+(Place): .......................................….........…............... 
+                                     (Printed Name)...........................................…………. 
+ 
+ (Designation)................…………................................
+
+[Page 22]
+Page 22 of 43 
+ 
+ 
+(Common Seal)………………………………………..... 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. Form No. E5: No Deviation Certificate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dated : 
+To,  
+XXX 
+SUB: NO DEVIATION CERTIFICATE 
+ 
+REF: Submission of proposal in response to RFP for “Selection of Managed System Integrator for 
+Network Upgradation for Uttarakhand ” 
+ 
+ 
+Tender Enquiry No.-  
+ 
+                                         dated  
+ 
+Dear Sir,  
+We (NAME OF OEM), for [insert:  name and/or description of the equipment or other goods / services] 
+hereby confirm that there is “NIL DEVIATION” in the Specification, hardware and services being 
+supplied 
+us 
+against 
+the 
+Tender 
+document 
+issued 
+vide 
+your 
+Tender 
+Enquiry 
+No.           
+dated. 
+ 
+For and on behalf of the Manufacturer 
+ 
+ 
+       (Signature)........................................….........……….. 
+ 
+(Place): .......................................….........…............... 
+                                     (Printed Name)...........................................…………. 
+ 
+ (Designation)................…………................................ 
+ 
+(Common Seal)……………………………………….....
+
+[Page 23]
+Page 23 of 43 
+ 
+ 
+  
+ANNEXURE 1 Cover 1 - (Technical Bid/Financial Bid) 
+ 
+ 
+Note  
+ 
+1. The bidder should take care that rate mentioned sufficiently covers the expenses that the bidder 
+shall incur on the project as mentioned in the scope of work. There should not be any separate cost 
+for each item. The indicative list of cost items in the bidder’s scope of work are Cost of equipment, 
+Installation and Commissioning Charges, Onsite Warranty Charges, Transportation & Forwarding 
+Charges to the site and Insurance to cover equipment during transit, up to installation of equipment 
+at the respective sites and handing it over to end-user. 
+2. The above quoted price shall be inclusive of all taxes, duties, service tax etc. and is consider for 
+L1. 
+ 
+Sl. No. 
+Document 
+File Type
+1 
+Name and Postal Address of the Company along with Telephone, 
+Mobile, Fax, Email 
+.pdf 
+2 
+EMD of  8.00  (Rs.  Eight  Lakh only) (scanned copy) and Bank Details
+.pdf 
+ 
+(certified copy) 
+ 
+3 
+CA certified turnover certificate, Income Tax return for last 3 financial 
+years and VAT /PAN/ Sales Tax registration certificates along with TIN 
+No. 
+.pdf 
+ 
+ 
+4 
+Proof of minimum experience of completion of similar nature of work as 
+mentioned in Eligibility Criteria in the States/ UTs Departments / 
+Ministries / Organizations of the Govt of India / State Govt during the last 
+05 years ending December 2025 
+.pdf 
+5 
+Undertaking that the bidder has not been blacklisted by any Departments 
+/ 
+.pdf 
+ 
+Ministries / Organizations of the Govt of India / State Govt. 
+ 
+6 
+Registration and incorporation particulars of firm / Company and 
+Compliance 
+.pdf 
+ 
+statement that bidder agrees to all terms and conditions of this tender 
+document 
+ 
+7 
+Authorization Certificate from OEM 
+.pdf 
+ 
+ 
+8 
+Details of Award / Certificates of merit etc. received from any organization 
+if any 
+.pdf 
+ 
+ 
+ 
+ 
+ 
+ 
+Cover 2 - (Financial Bid) 
+ 
+ 
+(to be submitted online in .xls format) 
+ 
+Sl. No. 
+Document 
+File Type
+1 
+Financial bid as per Annexure-II of this tender document 
+.xls
+
+[Page 24]
+Page 24 of 43 
+ 
+ 
+ 
+Section V- BoQ and Technical Specifications  
+ 
+         A - BOQ  
+ 
+          Part 1.    Active & Passive Components for Managed Network. 
+ 
+7
+Cat 6 U/UTP Indoor Cable, LSZH Jacket, 305m Box 
+50
+8.
+19" 1U 24 port UTP Modular Loaded Patch Panel 
+30
+9.
+Patch Cord, LSZH U/UTP Cat.6, Length, 1 Mtr
+400
+10. 
+Patch Cord, LSZH U/UTP Cat.6, Length , 2 Mtr 
+200
+11 
+Cat 6 UTP RJ 45 Keystone Jack with Faceplate and 
+SMB 
+300
+12
+OS2 10G Ready Unitube Armored Fiber Cable (In Mtr)
+3000 Mtr
+13 
+24 Core Fixed Type LC LIU / Fiber Termination Box 
+10
+14
+6 Core Fixed Type LC LIU / Fiber Termination Box
+50
+15
+LC-LC Duplex OS2 LSZH Patch cord, 3 Mtr
+60
+16. 
+12U Wall mount 550x600 Rack with accessories as per 
+specifications
+24
+17. 
+9U Wall mount 550x600 Rack with accessories as per 
+specifications
+02
+18. 
+42U Floor standing 600x1000 Rack with accessories as 
+per specifications
+01
+19. 
+32 mm HDPE pipe (Mtr) 
+3000 Mtr
+20. 
+PVC conduit (Mtr) 
+ 
+15000 Mtr
+21.
+Laying of Fibre 3 feet  Under ground  (Mtr)
+3000
+22. 
+Laying of Cat 6 UTP Cable  in conduit/ chasing etc (mtr) 
+15000
+ 
+ 
+ 
+ Part 2.    Video Conferencing Setup  
+ 
+ 
+ 
+       
+ 
+ 
+Part 3.    Desktop Computers / Personal Computers:  
+ 
+ 
+ 
+ 
+ 
+ 
+Sno
+Network Equipment
+Qty
+1 
+Core Switch in Hyper Availability (High Availability) 
+Mode (H.A Mode)
+01 
+2
+Access Switch - PoE
+30
+3
+Access Points
+175
+4
+Wireless Controller
+1
+5
+Secure Firewall
+1
+6
+10G Single Mode SFP Modules
+60
+Sno
+Equipment Details 
+Qty
+1 
+Complete Setup for VC Setup  with Mic and 
+Interactive Flat panel with OPS (CORE i7 13th 
+Generation):-  etc. (Turnkey Solution)  
+02 Sets. 
+Sno
+Equipment Details 
+Qty
+1
+Desktop Computers / Personal Computers
+50
+
+[Page 25]
+Page 25 of 43 
+ 
+ 
+ 
+ 
+ 
+Technical Specifications  
+ 
+1. 
+Core Switch – 48 Port 
+ 
+S.No
+Parameters
+1 
+General Features 
+1.1 
+Switch shall be 1U and rack mountable in standard 19" rack. 
+1.2 
+Proposed switch should be enterprise grade switch with x86 based CPU architecture 
+1.3 
+All the switches shall have same OS for ease of integration and management. 
+2 
+Port Density  
+2.1 
+The switch should have minimum of 48 nos. 1/10/25G Gigabit Ethernet Ports and in 
+addition 4 nos. of 40/100 Gig Uplink Ports. Switch & Fiber modules shall be from the 
+same OEM. 
+3 
+High Availability 
+3.1 
+Switch shall have hot swappable 1:1 redundant power supply and redundant fan from 
+day 1. 
+3.2 
+Switch shall support VSS or equivalent features allows links that are physically 
+connected to two different switch to appear as a single port channel. All the 
+cables/accessories for the this is to be provisioned from day 1. 
+3.3 
+Shall support In Service Software Upgrade (ISSU) to provide an upgrade of the entire 
+platform or an individual task/process without impacting hardware forwarding. ISSU 
+supports upgrades, downgrades, and rollbacks. 
+4 
+Switch Architecture & Performance 
+4.1 
+Switching system shall have 3.2 Tbps of switching fabric and minimum 1Bpps of 
+forwarding rate.
+4.2 
+Switch shall have minimum 16 GB RAM and 16 GB Flash.  
+4.3 
+Switching system shall support minimum 64K MAC Addresses and 1K VLANs. 
+4.4 
+Switch should support minimum 10K ACLs, 7K Multicast Routes and 64K IPv4 Routes, 
+64K IPv6 Routes
+4.5 
+Switch shall support application visibility and traffic monitoring with sflow/jflow/netFlow 
+entries.
+4.6 
+Packet buffer : 32 MB 
+5 
+Layer 2 and Layer 3 Feature 
+5.1 
+Should support IEEE Standards of Ethernet: IEEE 802.1D, 802.1s, 802.1w, 802.1x, 
+802.3ad, 802.1ae, 802.3x, 802.1p, 802.1Q, 1588v2
+5.2 
+Must support BGP, MPLS, IS-IS, VRF, VXLAN, OSPF, Policy-Based Routing (PBR), 
+PIM, and VRRP from Day 1
+6 
+Multicast Support 
+6.1 
+MLD snooping and IGMP snooping v1, v2 and v3 
+7 
+Quality of Service 
+7.1 
+Shall have 802.1p class of service, marking, classification, policing and shaping. 
+Should support strict priority queuing. 
+7.2 
+Eight egress queues per port 
+8 
+Security Feature 
+8.1 
+Should support MACSEC as per IEEE 802.1AE on hardware from day 1.
+
+[Page 26]
+Page 26 of 43 
+ 
+ 
+8.2 
+Switch should support port security, DHCP snooping, Spanning tree root guard, First 
+Hop Security. 
+8.3 
+Should support 802.1x authentication and accounting, IPv4 and IPv6 ACLs and 
+Dynamic VLAN assignment. Switch should be able to integrate with on-prem RADIUS 
+solution for 802.1X authentication
+8.4 
+During system boots, the system’s software signatures should be checked for integrity. 
+System should capable to understand that system OS are authentic and unmodified, it 
+should have cryptographically signed images to provide assurance that the firmware & 
+BIOS are authentic.
+9 
+Management 
+9.1 
+Switch needs to have console port for administration & management
+9.2 
+Switch should support Management using CLI, GUI using Web interface and should 
+support management features like SSHv2, SNMPv2c, SNMPv3.
+9.3 
+The solution should allow for network system virtualization technology that pairs two 
+switches into one from perspective of neighboring switch. This helps in simplifying L2 
+and L3 topology and representing the virtualized system represent as a single 
+spanning tree node for rest of the network and a single node for Management
+9.4 
+Switch should support comprehensive programmability features like Model-Driven 
+Programmability, NETCONF/REST interface, API or equivalent. 
+10 
+Certification 
+10.1 Switch shall conform to UL 60950, IEC 60950, CSA 60950, EN 60950 Standards 
+10.2 Switch / Switch’s Operating System should be tested for EAL2/NDPP/NDcPP or above 
+under Common Criteria Certification. 
+ 
+2. 
+Access Switch – PoE 24, Port 
+ 
+S.No
+Parameters
+1 
+General Features 
+1.1 
+Switch shall be 1U and rack mountable in standard 19" rack. 
+1.2 
+Proposed switch should be enterprise grade switch with x86 based CPU architecture 
+1.3 
+All the switches shall have same OS for ease of integration and management. 
+2 
+Port Density  
+2.1 
+The switch should have minimum of 24x10/100/1000 Base-T ports and 4x1/10G SFP+ 
+ports. Switch should be Populated with required number of SFPs as per the Solution. 
+Switch & Fiber modules shall be from the same OEM.
+2.2 
+Should support PoE (802.3af) and PoE+ (802.3at) with a PoE power budget of 370W. 
+3 
+High Availability 
+3.1 
+The switch should support a modular, hot-swappable, redundant power supply. It shall 
+be supplied with a single power supply initially, with the option to add a redundant 
+power supply as needed.
+3.2 
+Switch should support stacking via dedicated stacking port in addition to asked Uplink 
+ports. Should support for minimum 80 Gbps of stacking throughput. All the required 
+cables/accessories for stacking should be provisioned from Day 1. 
+3.3 
+Stacked units should behave as a single spanning tree node for rest of the network
+4 
+Switch Architecture & Performance 
+4.1 
+Switching system shall have minimum 128 Gbps of switching fabric and minimum 95 
+Mpps of forwarding rate. 
+4.2 
+Switch shall have 2 GB RAM and 2 GB Flash with min 5 MB of Packet Buffer
+
+[Page 27]
+Page 27 of 43 
+ 
+ 
+4.3 
+Switching system shall support minimum 16K MAC Addresses and 3K IPv4 Routes or 
+more  
+4.4 
+Switch should support minimum 512 Active VLANs. 
+5 
+Layer 2 and Layer 3 Feature 
+5.1 
+Should support IEEE Standards of Ethernet: IEEE 802.1D, 802.1s, 802.1w, 802.1x, 
+802.3ad, 802.1AE , 802.3x, 802.1p, 802.1Q 
+5.2 
+Must support Static Routing, RIP, OSPF, Policy-Based Routing (PBR), PIM, and 
+VRRP from Day 1.
+6 
+Multicast Support 
+6.1 
+MLD snooping and IGMP snooping v1, v2 and v3 
+7 
+Quality of Service 
+7.1 
+Shall have 802.1p class of service, marking, classification, policing and shaping. 
+Should support strict priority queuing.  
+7.2 
+Eight egress queues per port 
+8 
+Security Feature 
+8.1 
+Should support MACSec as per IEEE 802.1AE on all hardware ports. 
+8.2 
+Switch should support port security, DHCP snooping, Spanning tree root guard, First 
+Hop Security. 
+8.3 
+Should support 802.1x authentication and accounting, IPv4 and IPv6 ACLs and 
+Dynamic VLAN assignment. 
+8.4 
+During system boots, the system’s software signatures should be checked for integrity. 
+System should capable to understand that system OS are authentic and unmodified, it 
+should have cryptographically signed images to provide assurance that the firmware & 
+BIOS are authentic.
+9 
+Management 
+9.1 
+Switch needs to have console port for administration & management
+9.2 
+Management using CLI, GUI using Web interface should be supported
+9.3 
+Switch should support technology that makes sure to represent 2 or more switches as 
+a single switch to neighboring switches. This helps in simplifying L2 and L3 topology 
+and representing the virtualized system represent as a single spanning tree node for 
+rest of the network and a single node for Management.
+9.4 
+Switch should support Management using CLI, GUI using Web interface and should 
+support management features like SSHv2, SNMPv2c, SNMPv3. 
+9.5 
+Switch should support comprehensive programmability features like Model-Driven 
+Programmability, NETCONF/REST interface, API or equivalent.  
+10 
+Certification 
+10.1 Switch shall conform to UL 60950, IEC 60950, CSA 60950, EN 60950 Standards 
+10.2 Switch / Switch’s Operating System should be tested for EAL 2/NDPP/NDcPP or 
+above under Common Criteria Certification.  
+ 
+3. 
+Access Point 
+ 
+ 
+S.No
+Parameters
+1 
+Access Point shall support tri radio operation with 2x2 MIMO on all three radio 
+interfaces i.e 2.4ghz, 2x 5ghz and 6ghz. It should also support MU-MIMO technology.
+
+[Page 28]
+Page 28 of 43 
+ 
+ 
+2 
+Access Point should have Bluetooth5 radio to support use cases of location, asset 
+tracking and analytics.
+3 
+Access Point shall be able to powered up using 802.3at power with full radio operation. 
+It should also have option of DC power input. 
+4 
+Access Point shall have dedicated radio/chipset for spectrum monitoring capabilities, 
+WIPS and off channel RRM without compromising and using the client serving radios. 
+5 
+Access Point should support upto 4K-QAM, A-MPDU, A-MSDU, 802.11 DFS, MRC, 
+beamforming, CSD, TWT, BSS-Coloring 
+6 
+Access Point should have 1x 100M/1000M/2.5G Multigigabit Ethernet (RJ-45) 
+7 
+Access Point should have USB port for future requirement. 
+8 
+Must have atleast 4 dBi Antenna gain on each radios  
+9 
+Must Support data rate upto 6 gbps. 
+10 
+Must support minimum of  23dbm of transmit power in all 2.4Ghz, 5Ghz & 6ghz radios. 
+And should follow the local regulatory Norms. 
+11 
+Must support AP enforced load-balance between 2.4Ghz and 5Ghz band. 
+12 
+Must incorporate radio resource management for power, channel and performance 
+optimization 
+13 
+Must have -97 dB or better Receiver Sensitivity. 
+14 
+Must support Proactive Key Caching and/or other methods for Fast Secure Roaming. 
+15 
+Must support Management Frame Protection. 
+16 
+Should support locally-significant certificates on the APs using a Public Key 
+Infrastructure (PKI).
+17 
+Access Points must support Hardware-based encrypted user data and management 
+traffic between controller and Access point for better security. 
+18 
+Must be plenum-rated (UL2043).   
+19 
+Must support 16 WLANs per AP for SSID deployment flexibility. 
+20 
+Access Point Must continue serving clients when link to controller is down. It should 
+also have option to authenticate user through Radius server directly from Access Point 
+during link unavailability to controller.
+21 
+Must support telnet and/or SSH login to APs directly for troubleshooting flexibility. 
+22 
+802.11e and WMM 
+23 
+Must support QoS and Video Call Admission Control capabilities. 
+24 
+Access point should support EAP-TLS, EAP-TTLS/MSCHAPv2, PEAP and EAP-FAST 
+25 
+Access point must be able to support AAA Override for VLAN, ACL and QoS. It should 
+also be able to support Radius profiling.  
+26 
+Access point should be WIFI alliance certified for Wifi-7, Wi-Fi 6, Wi-Fi 6E, WPA3-R3, 
+WPA3-Suite B and Bluetooth SIG for  Bluetooth low energy.
+
+[Page 29]
+Page 29 of 43 
+ 
+ 
+4. 
+Wireless Controller 
+ 
+S.No 
+Feature 
+Specifications 
+1 
+Hardware 
+Wireless controller should support 500 AP and 1000 
+clients from day 1.
+The controller shall support min 10 Gbps tunneling 
+capacity
+The controller shall support 2x 10G/Multigigabit 
+copper/Fiber uplink.
+Wireless Controller shall support link aggregation and 
+load sharing between Access Point to WLC links
+The controller shall support hardware encrypted data 
+plane between Access Point and Controller
+2 
+High Availability 
+High Availability mode shall support controller inline 
+data plane mode as well as local switching mode and 
+Mesh mode
+High Availability mode shall allow geographically 
+dispersed installation between Controllers 
+The controller failover shall not trigger client de-
+authentication and re-association
+The redundant Controller shall sync Access Point and 
+Client Status, including DHCP IP lease status
+3 
+Software 
+Access Point shall be able to proactively distributes 
+Client connection before and after association and 
+tracking client condition in real time using data packet 
+RSSI 
+The controller shall support standard-based, secure 
+AP-Controller data & control protocol like CAPWAP or 
+equivalent 
+The controller shall support Inter-Controller Wireless 
+Roaming
+The controller shall maintains per-user Application 
+usage and shall be able to export it for network 
+analytic.
+The controller shall support Multi Languages options 
+from embedded GUI Management 
+The controller shall provide per-Client Connection 
+Scoring and provide reasoning of Client Connection 
+Score
+The controller shall support Cellular offload using IPv6 
+tunnelling to Mobile Core network
+4 
+RF management 
+The controller shall be able to support multiple RF 
+Management profile per group of APs, including 
+Transmit Power Control and Dynamic Channel 
+Assignment on both 2.4GHz and 5Ghz
+The controller shall be able to identify and avoid 
+interferers with network performance impact analysis 
+report
+
+[Page 30]
+Page 30 of 43 
+ 
+ 
+ 
+5 
+Application Recognition and 
+Control 
+The controller shall support per-user and per-WLAN 
+based application recognition and control that throttle 
+usage by rate-limiting 
+The controller application recognition technology shall 
+support exporting to 3rd party compatible format, such 
+as NetFlow v9
+The controller shall support new application signatures 
+without upgrading controller software
+6 
+BYOD & Security 
+The controller shall provide Device Profiling using 
+multiple profiling methods to reduce false-detection
+The system shall provide secure onboarding service for 
+both employee and guest based on standard-based 
+security protocol
+Proposed system shall not use public cloud as user 
+data repository
+The controller shall be able to embedded custom web 
+portal page (HTML) to fully customize user experience 
+without additional cost or extra box
+The controller shall provide rule-based rogue 
+classification and automatically run rogue mitigation 
+action 
+The controller shall be able to detect employee device 
+connection to Rogue Access Point and contain it 
+automictically. It should also support protection from 
+Honeypot or Evil twin.
+The controller shall support Content Security using 
+DNS integration, Web Classification shall be fully 
+customizable
+The system shall support control plane encryption on 
+both IPv4 and IPv6 
+The Controller's image upgrade shall be done through 
+secure, encrypted transport
+The controller shall be able to provide unique pre-
+shared keys to the devices that do not support the 
+802.1x security protocol
+The controller shall support Identity PSK for on 
+boarding
+The controller shall support identification & mitigation of 
+threats inside encrypted traffic
+7 
+Network 
+The controller shall support mapping of specific VLANs 
+to single SSID, depending on Access Point location 
+and user 
+8 
+Configuration 
+The controller shall support automatic VLAN 
+assignment per SSID to load-balance user connection
+The controller shall support embedded best practice 
+configuration profile and setup
+
+[Page 31]
+Page 31 of 43 
+ 
+ 
+ 
+5. 
+Firewall  
+ 
+S.No
+Parameters
+1 
+"The Firewall solution offered must be rated as ‘leaders’ or 'Challengers' in the latest 
+Magic Quadrant for Enterprise Firewall published by Gartner / Forrester from last 5 years. 
+The proposed solution should be a Next Generation Enterprise Firewall which provide 
+firewall, AVC, IPS and anti-apt functionality in a single appliance from day one.
+2 
+Solution should provides capabilities like dynamic real-time metrics based , policy-based, 
+application path selection across multiple WAN connections . The firewall solution should 
+have following capabilities  Application Aware Routing, Health Monitoring, DIA, Dual ISP, 
+Data interface Management for simplified branch capabilities. Bidder should include all 
+the licenses to achieve this capability of SDWAN functionality
+3 
+The appliance should support atleast 8x 1 GBASE-T Ethernet and 4x SFP+ 1/10Gbps 
+Ethernet ports from day 1.
+4 
+The appliance hardware should be a multicore CPU architecture and  should not be 
+proprietary ASIC based in nature & should be open architecture based on multi-core 
+cpu's to protect & scale against dynamic latest security threats. The appliance hardware 
+should have a hardened  operating system from the OEM and should support  support 
+minimum of 16 GB of RAM to make sure all the security capabilities are provided without  
+degradation form day one
+5 
+Proposed firewall should not consume more than 1RU of rack space and having Field-
+replaceable SSD, 480GB.
+6 
+Should support 15 Gbps of NGFW (FW, AVC and IPS) performance with support of min 
+60K connections per second at L7/AVC/app-ID. 
+7 
+High Availability Configurations shall support  Active/ Passive or Active/Active-Clustering 
+8 
+Firewall should support creating access-rules with IPv4 & IPv6 objects, user/groups, 
+application, geolocation, url, zones, vlan, etc.Time-based rules in access control should 
+also be supported
+9 
+Solution should support PBR based on parameter likes source port, destination address, 
+destination port, protocol, applications, or a combination of these objects. Also PBR 
+policy should rely on flexible metrics, such as round trip time, jitter, mean opinion score, 
+and packet loss of the interfaces to identify the best routing path for its traffic
+10 
+Should support capability to integrate with other security solutions to receive contextual 
+information like security group tags/names  
+11 
+Should have the capability of passively gathering information about virtual machine 
+traffic, network hosts and their activities, such as operating system, services, open ports, 
+client applications, and vulnerabilities, to assist with multiple activities, such as intrusion 
+event data correlation, elimination of false positives, and policy compliance.
+12 
+Should support more than 8000 (excluding custom application signatures) distinct 
+application signature as application detection mechanism to optimize security 
+effectiveness and should be able to create 40 or more application categories for 
+operational efficiency
+
+[Page 32]
+Page 32 of 43 
+ 
+ 
+ 
+ 
+13 
+Should  be capable of dynamically tuning IDS/IPS sensors (e.g., selecting rules, 
+configuring policies, updating policies, etc.) with minimal human intervention. 
+14 
+The firewall should be able to import/ write SNORT/ Suricata rules based on various 
+advisories from government organizations. If the same is not available natively then the 
+required tools should be included to achieve the same 
+15 
+Should support more than 20,000 (excluding custom signatures) IPS signatures or more. 
+Should support capability to configure correlation rule where multiple rules/event can be 
+combined together for better efficacy
+16 
+Should be capable of automatically providing the appropriate inspections and protections 
+for traffic sent over non-standard communications ports. 
+17 
+Should be able to link Active Directory and/or LDAP usernames to IP addresses related 
+to suspected security events.
+18 
+The solution should be able to identify, decrypt and evaluate both inbound and outbound 
+SSL traffic on-box
+19 
+The solution must provide IP reputation feed that comprised of several regularly updated 
+collections of poor reputation of IP addresses determined by the proposed security 
+vendor
+20 
+Solution must support IP reputation intelligence feeds from third party and custom lists of 
+IP addresses including a global blacklist 
+21 
+Should must support DNS threat intelligence feeds to protect against threats from day 1. 
+22 
+The Appliance OEM must have its own threat intelligence analysis center and should use 
+the global footprint of security deployments for more comprehensive network protection.  
+23 
+Should be able to identify attacks based on Geo-location and define policy to block on 
+the basis of Geo-location
+24 
+The detection engine must incorporate multiple approaches for detecting threats, 
+including at a minimum exploit-based signatures, vulnerability-based rules, protocol 
+anomaly detection, and behavioral anomaly detection techniques. 
+25 
+Must support URL threat intelligence feeds to protect against threats 
+26 
+Should support Reputation- and category-based URL filtering offering comprehensive 
+alerting and control over suspect web traffic and enforces policies on more than 280 
+million of URLs in more than 80 categories.
+27 
+Solution shall have capability to analyze and block TCP/UDP protocol to identify attacks 
+and malware communications. At minimum, the following protocols are supported for 
+real-time inspection, blocking and control of download files: HTTP, SMTP, POP3, IMAP, 
+NetBIOS-SSN and FTP
+28 
+Management solution should be onprem or on cloud.  
+29 
+The firewall platform/ OS should be EAL4/ Common Criteria, IPV6 logo ready/ USGv6  
+certified. 
+30 
+The firewall should be able to import/ write SNORT/ Suricata rules based on various 
+advisories from government organizations. If the same is not available natively then the 
+required tools should be included to achieve the same
+
+[Page 33]
+Page 33 of 43 
+ 
+ 
+ 
+S.NO. 
+Technical Specification for  Passive Networking items. 
+1 
+OEM must provide declaration on conformity of all the passive components to the 
+following standards: a) TIA/EIA 568-C.2 ; b) TIA/EIA 568-C.3 : c) ANSI/TIA 568.2-D 
+2 
+OEM must provide Lifetime Performance warranty on complete solution (Passive 
+Component). 
+3 
+All the products must have RoHS Compliance and Fluke Testing certification for 
+performance (Declaration Document required with Bid ) 
+4 
+All the Copper, Fiber solution and Rack should be from same OEM for better compatibility.
+5 
+OEM Must confirm all the compliance and conformity as per specs and it will be OEM 
+responsibility to honor the same. Technical Data Sheet as per specs should be attached 
+with Tender for all OEM Items 
+6 
+OEM should have valid ISO9001 for Quality Management ,ISO14001 for Environmental 
+Management Systems, ISO27001 for Information security Management and ISO45001 for 
+Health and safety Management for Design, Development, manufacturing of Networking 
+systems ( Valid Document required with Bid ) 
+7 
+OEM Must issue the MAF Letter in favour of this Tender to the Partner for participation 
+and OEM support further  
+8 
+Preference will be given to the OEM with Make in India and MSME certificate. 
+9 
+User may ask for the sample for the actual quoted material to verify  the specification with 
+technical team and committee. 
+10 
+OEM Should submit Non-Blacklisting  declaration Letter. 
+  
+Cat 6 U/UTP Indoor Cable, LSZH Jacket, 305m Box 
+1 
+Cat 6 UTP Cable, 23AWG (0.57) Pure solid copper Cable 
+2 
+Outer Jacket : White  / Blue LSZH Jacket 
+3 
+Cable should have cross separator with Rip cord and min Dia of 6.0mm 
+4 
+Cable should be certified by ANSI/TIA 568.2-D Category 6, ISO/IEC 11801 Class E tested 
+on 250Mhz 
+5 
+Cable should confirm to ANSI/TIA 568.2-D Category 6, ISO/IEC 11801 Class E, UL 444, 
+PoE: IEEE 802.3af, 802.3at 
+6 
+Cable should meet Fire rating of FR-PVC: UL CM, IEC 60332-1-2, LSZH: IEC-61034, IEC 
+60754 
+7 
+POE Compliance standrad IEEE 802.3af, iEEE 802.3at, IEEE 802.bt 
+8 
+Insulator : HD Polyethylene solid 
+9 
+Conductor Resistance :  <9.38Ω /100m 
+10 
+Resistance Unbalance    5% Max 
+11 
+Mutual Capacitance :  < 5.6nF/100m 
+12 
+Capacitance Unbalance:   330pF/100m. 
+13 
+Propagation Velocity :  69% 
+14 
+Cable should be Fluke tested. 
+15 
+Packing : 305 Mtr Reel in Box for easy pull.
+
+[Page 34]
+Page 34 of 43 
+ 
+ 
+ 
+ 
+  
+19" 1U 24 port UTP Modular Loaded Patch Panel  
+1 
+Patch panel should be modular design, loaded Patch Panel 4X6 TYPE, populates up to 
+24 UTP keystone-type jacks in 1U 
+2 
+Patch panel should be Enhanced with cable strain relief with retention tray 
+3 
+Material: it should be combination of high grade plastic and CRS metal 
+4 
+Standard : Conforms to IEC-60603-7 (603-7) for keystone-type 
+5 
+Termination should feature nil crossover in acc. with EIA/TIA 568-A/B, gold-plated  50-
+micron  bronze contacts for >750 mating cycles, >200 insertion cycle 
+6 
+Connector should be  50-micron  gold-plated and supplied with stain relief cap on back 
+side of Jack 
+7 
+Housing material: Polycarbonate (UL-94-V0) 
+8 
+Panel should be supplied with Retention caps provides termination strain relief for stable 
+performance 
+9 
+POE Compliance standard  Meets IEEE 802.3af/802.3at and 802.3bt type 3 and 4, UPoE 
+  
+Patch Cord, U/UTP Cat.6, length  1/ 2 / 3 M 
+1 
+Standardization: Compliant with Cat.6, Class E requirements: ISO/IEC 11801 2nd Edition 
+Compliant with Cat.6 component standards IEC 60603-7-4 and 60603-7-5  
+2 
+Number of conductors : 8 
+3 
+Stranding: 7 x 0.20 mm (24 AWG) 
+4 
+Cable jacket characteristics: cable, metal-free 
+5 
+Cable overall diameter: 6.0±0.2 mm 
+6 
+Tube / Wire type: stranded conductor 
+7 
+Plug: Feature cable retention, with enhanced pull strength. 
+8 
+Cat 6 patch cord plug to have round cable holder and strain relief snagless boot to avoid 
+bending. 
+9 
+Jacket: LSZH with different colour ( Grey,Blue,Yellow,Green ) and Size options 
+10 
+Plug should have high repeatability cross talk performance with Cat 6  50-micron  Gold 
+plating connector plug 
+11 
+Patch cord connector should be 50-micron  gold plating plug 
+12 
+Patch Cord should be available in 0.5 / 1 / 2 / 3 / 5 Mtr Length as factory manufactured. 
+  
+Cat 6 UTP RJ 45 Keystone Jack with Faceplate and SMB 
+1 
+RJ45 Jack of Category 6, for the establishing of transmission channels of class E with up 
+to 4 plugged connections, complies with Category 6A requirements of the standards 
+ISO/IEC 11801:2nd edition, EN 50173-1, DIN EN 50173-1: 2002 as well as ANSI/TIA/EIA 
+568-B.2-1, de-embedded tested in acc. with IEC 60603-7 (603-7), interoperable and 
+backwards compatible with Cat.5e and Cat.5, Cat 6 
+2 
+Compatible with RJ standard plugs (RJ11, RJ12, RJ45), PCB and with tool Less 
+connection of installation cables AWG 24 – 22 (0.5 mm – 0.65 mm) and flexible cables 
+AWG 26/7 – AWG 22/7.
+
+[Page 35]
+Page 35 of 43 
+ 
+ 
+3 
+Termination should feature nil crossover in acc. with EIA/TIA 568-A/B, gold-plated 
+50micron bronze contacts for >750 mating cycles, >200 insertion cycle 
+4 
+Connector should be 50 micron gold-plated 
+5 
+Material: RoHS complied 
+6 
+Housing material: Polycarbonate (UL-94-V0 / UL-94-V2 ) 
+7 
+Jack Should be available with dust protection feature 
+8 
+Keystone Jack should be Punch Down Type  
+9 
+Faceplate Should be UK style 86x86 , Front Access, 3 Part available in 1 & 2 
+port configurations 
+10 
+Should be featured with transparent shutter, the screws should not to be visible, it should 
+be concealed Facia Type 
+11 
+Should support Operating Temperature: 
+-10～+60; Storage Temperature: 
+-40～
++68; Humidity: 10%~90% RH 
+12 
+Material: ABS, UL 94V-0; Surface Finish: Polished 
+13 
+Faceplate should be supplied with same OEM PVC Back Box of 42mm depth for easy han
+dling of Cable. 
+14 
+PVC SMB Should be supplied with required assecories like Nuts and Gitti 
+OS2 10G Ready Unitube Armoured Fiber Cable
+1
+6 Core FO Cable, SLT-MM, ECCS Armoured, Outdoor, Unitube Type 
+2 
+SM-OS2 compatible with all fiber passive and active components 
+3 
+Outder Jacket : Black HDPE  
+4
+Peripheral Strength Member - 2 FRP Rod 
+5
+Armouring - ECCS Armouring 0.150mm 
+6
+Water / Moisture Barrier - Thixotropic Gel with Moisture Blocking Tape 
+7
+Outer Dia and Weight - Min 8mm , 75 KG
+8 
+Tensile Strength - 1000N , Crush - 2000N 
+9 
+Fiber should be 10G ready from day one 
+24 Core Fixed Type LC LIU / Fiber Termination Box
+1 
+LIU Should be Rack mount, Fixed Type with Top cover removable to ensure clear internal 
+access is available and maintained while terminating 
+2
+Rugged powder coated aluminium and steel construction ensures product durability with  
+Charcoal Grey Powder Coated 
+3
+Should support Range of adapter plate SC,LC,FX etc options to suit a broad variety of 
+fibre types and adapter styles 
+4 
+LIU should be supporting to terminate 24 Fiber Core  , 1RU,  Top cover removable for 
+easy installation. 
+5
+LIU should be supplied with 24 Core Splice Tray and Cable spool , Cable Ring Loaded 
+6
+LIU should be Loaded with Adapter Plate of 12 Duplex SM UPC LC Adapter and Blank 
+Plate 
+7 
+it should be Loaded with 24 LC LSZH 0.9mm OS2  buffered fiber Pigtails of 1 meter 
+8 
+Empty slot should be covered with Blank Plate 
+9
+Pigtails should support IEC 60793-2-50, ITU-T G.652.D/G.657.A1/G.657.A2
+
+[Page 36]
+Page 36 of 43 
+ 
+ 
+10 
+Pigtail should support support Fire standard IEC 60332-1, IEC 60754 & IEC 61034 
+  
+6 Core Fixed Type LC LIU / Fiber Termination Box
+1 
+LIU Should be Rack mount, Fixed Type with Top cover removable to ensure clear internal 
+access is available and maintained while terminating
+2
+Rugged powder coated aluminium and steel construction ensures product durability with  
+Charcoal Grey Powder Coated 
+3 
+Should support Range of adapter plate SC,LC,FX etc options to suit a broad variety of 
+fibre types and adapter styles 
+4
+LIU should be supporting to terminate 6 Fiber Core  , 1RU,  Top cover removable for easy 
+installation. 
+5
+LIU should be supplied with 12 Core Splice Tray and Cable spool , Cable Ring Loaded 
+6 
+LIU should be Loaded with Adapter Plate of 03 Duplex SM UPC LC Adapter and Blank 
+Plate 
+7
+it should be Loaded with 6 LC LSZH 0.9mm OS2  buffered fiber Pigtails of 1 meter 
+8 
+Empty slot should be covered with Blank Plate 
+9
+Pigtails should support IEC 60793-2-50, ITU-T G.652.D/G.657.A1/G.657.A2 
+10 
+Pigtail should support support Fire standard IEC 60332-1, IEC 60754 & IEC 61034 
+  
+LC-LC Duplex OS2 LSZH Patch cord
+1 
+Fiber Patch cord Should have Duplex 2.0 x 4.2mm LC-LC UPC Connector on both end
+2 
+Patch Cord should support IEC 60793-2-50, ITU-T G.652.D/G.657.A1/G.657.A2 
+3 
+Patch Cord should support support Fire standard IEC 60332-1, IEC 60754 & IEC 61034 
+4 
+Patch Cord Jacket should be LSZH Type material 
+5 
+End face geometry - IEC 61755-3-1 (UPC/PC) 
+6 
+FO system should support ANSI/TIA-568.3-D, ISO/IEC 11801, TIA-598-D 
+7 
+Length - 1 & 3 Meter 
+  
+12U Wall mount Rack with accessories as per specifications 
+1 
+Racks manufactured out of steel sheet punched, formed, welded and Powder coated 
+2 
+Standard for Racks configuration will be welded frame with Integrated side panel and 
+vented top cover 
+3 
+Rack should have Front toughened Glass door 
+4 
+Rack should have provision to mount racks on Wall 
+5 
+Rack should be 12U (1U = 44.45 mm) in Height. 
+6 
+It should be minimum 550MM Wide & 600MM Deep 
+7 
+Rack should Conforms to DIN 41494, IEC 60297 or Equivalent EIA /ISO / EN/CEA 
+Standard 
+8 
+Rack should have Adjustable mounting depth
+
+[Page 37]
+Page 37 of 43 
+ 
+ 
+9 
+Rack 4 No Adjustable, 19” verticals with Punched 10mm Square Hole and Universal 
+12.7mm-15.875mm-15.875mm alternating hole pattern offers greater mounting flexibility, 
+maximizes usable mounting space. 
+10 
+Rack should have 100% assured compatibility with all equipment conforming to DIN 
+41494 (General industrial standard for equipment) 
+11 
+Powder coated finish with seven Tanks pre-treatment process meeting IS 
+12 
+Rack should have two Cable Manager, PVC Finger Duct w/ Removable Cover, 19", 1U, 
+60mm, Black 
+13 
+Rack should have Fan module Mount Provision on top Cover with minimum 2 no. 180 
+CFM Fan 
+14 
+Rack should have one Server /IT Rack mount power distribution unit, 1Ph, 230V, 16A, 
+50/60Hz, 2U standard with 6 X Indian Round Pin 5/15A, Inlet Plug type 16A Indian Round 
+Pin, 16A MCB - PDU Rating 3.7KVA/Side feed-1.8Mt/ Black 
+15 
+Rack should have provision for cable entry Exit from Both top & Bottom. 
+16 
+Rack should have 1 Packet of mounting hardware, Pack of 10. 
+  
+9U Wall mount Rack with accessories as per specifications 
+1 
+Racks manufactured out of steel sheet punched, formed, welded and Powder coated 
+2 
+Standard for Racks configuration will be welded frame with Integrated side panel and 
+vented top cover 
+3 
+Rack should have Front toughened Glass door 
+4 
+Rack should have provision to mount racks on Wall 
+5 
+Rack should be 9U (1U = 44.45 mm) in Height. 
+6 
+It should be minimum 550MM Wide & 600MM Deep 
+7 
+Rack should Conforms to DIN 41494, IEC 60297 or Equivalent EIA /ISO / EN/CEA 
+Standard 
+8 
+Rack should have Adjustable mounting depth 
+9 
+Rack 4 No Adjustable, 19” verticals with Punched 10mm Square Hole and Universal 
+12.7mm-15.875mm-15.875mm alternating hole pattern offers greater mounting flexibility, 
+maximizes usable mounting space. 
+10 
+Rack should have 100% assured compatibility with all equipment conforming to DIN 
+41494 (General industrial standard for equipment) 
+11 
+Powder coated finish with seven Tanks pre-treatment process meeting IS 
+12 
+Rack should have two Cable Manager, PVC Finger Duct w/ Removable Cover, 19", 1U, 
+60mm, Black 
+13 
+Rack should have Fan module Mount Provision on top Cover with minimum 2 no. 180 
+CFM Fan 
+14 
+Rack should have one Server /IT Rack mount power distribution unit, 1Ph, 230V, 16A, 
+50/60Hz, 2U standard with 6 X Indian Round Pin 5/15A, Inlet Plug type 16A Indian Round 
+Pin, 16A MCB - PDU Rating 3.7KVA/Side feed-1.8Mt/ Black 
+15 
+Rack should have provision for cable entry Exit from Both top & Bottom. 
+16 
+Rack should have 1 Packet of mounting hardware, Pack of 10.
+
+[Page 38]
+Page 38 of 43 
+ 
+ 
+  
+42U Floor standing Rack with accessories as per specifications 
+1 
+Racks manufactured out of steel sheet punched, formed, Powder coated and in CKD form 
+2 
+Standard for Racks configuration will be frame, side panels and vented top cover in CKD 
+form 
+3 
+Rack should have Front Glass Door and Rear Steel door (Vented). 
+4 
+Rack should have 2 nos of removable side panel with slam latch. 
+5 
+Rack should have provision to mount racks on Floor 
+6 
+Rack should be 42U (1U = 44.45 mm) in Height. 
+7 
+It should be 600MM Wide,1000MM Deep and Overall height 2000 MM. 
+8 
+Rack should Conforms to DIN 41494 or Equivalent EIA /ISO / EN Standard 
+9 
+Rack should have Adjustable mounting depth, 
+10 
+Rack 4 No Adjustable, 19” verticals with Punched 9mm Square Hole and Universal 
+12.7mm-15.875mm-15.875mm alternating hole pattern offers greater mounting flexibility, 
+maximizes usable mounting space. 
+11 
+Rack should have 100% assured compatibility with all equipment conforming to DIN 
+41494 (General industrial standard for equipment) 
+12 
+Powder coated finish with seven Tanks pretreatment process meeting IS 
+13 
+Rack should have Proper Grounding & Bonding 
+14 
+Rack should have Fan module Mount Provision on top Cover 
+15 
+Rack should have Fan tray with 4 no’s 90 CFM Fan 
+16 
+Rack should have two Fixed shelf with 700mm depth for mounting NON-Rack mountable 
+equipment 
+17 
+Rack should have two Horizontal Cable manager - PVC Finger Duct w/ Removable 
+Cover,19", 1U, 60mm, 
+18 
+Rack should have two Server /IT Rack mount power distribution unit, 1Ph, 230V, 16A, 
+50/60Hz, 1U standard with 12 Socket x IEC C13, Inlet Plug type 16A Indian Round Pin, 
+16A MCB - PDU Rating 3.7KVA/Side feed-2.5Mt/ Black 
+19 
+Rack should have provision for cable entry Exit from both top & bottom. 
+20 
+Rack should have 1 Packet of mounting hardware, Pack of 20.
+
+[Page 39]
+Page 39 of 43 
+ 
+ 
+ 
+ 
+ 
+B :- Video Conferencing Setup. 
+ 
+ 
+The VC must be a sophisticated video bar designed to enhance video conferencing experiences, 
+particularly in large-size conference rooms. The key features and capabilities of the VC are given 
+below:-  
+ 
+Features and Capabilities: 
+ 
+ 
+Cameras: Dual 4K 20MP cameras with a 70-degree and 120-degree horizontal field of view, 
+ideal for capturing large rooms. 
+ 
+ 
+Audio: High fidelity audio powered by built-in microphones that capture sound within 7.62 meters 
+(25 feet). It includes technologies like Poly Acoustic Fence to reduce background noise. 
+ 
+ 
+Microphone Support: Supports Poly IP microphones using the link local network (LLN) port, and 
+Expansion Microphones via the RJ11 Poly Expansion microphone port. 
+ 
+ 
+Noise Block AI v2: Eliminates background noises, reverberations, and extraneous sounds. 
+ 
+Director AI: Features smart camera framing technology with perimeter, group, speaker, and 
+people framing. 
+ 
+Wireless Content Sharing: Allows sharing using Airplay or Miracast, along with wired HDMI 
+options. 
+ 
+Mounting Options: Includes a wall mount, with additional options like a VESA mount or tabletop 
+stand available. Note that inverted mounting is not supported. 
+ 
+Ports: 
+ 
+ 
+HDMI Output: Ports available for connecting primary and secondary monitors. 
+ 
+USB Ports: Includes USB-A for peripherals and a USB Type-C port designated for device mode 
+only. 
+ 
+Audio Connectivity: 3.5 mm audio line-in and line-out options for external audio devices. 
+ 
+Network Connectivity: LAN connection for internet access and LLN connections for IP-based 
+peripherals. 
+ 
+Privacy Shutter Behavior:- 
+ 
+The privacy shutter automatically opens and closes depending on the system state. It closes during 
+sleep mode and opens when the system is active or in a call. 
+For further detailed information, please refer to the provided PDF resource.
+
+[Page 40]
+Page 40 of 43 
+ 
+ 
+ 
+Interactive Flat panel with OPS (CORE i7 13th Generation):-  
+ 
+1 
+Screen Size 
+86" or Higher 
+2 
+Native Resolution 
+3840 x 2160 (UHD)  
+3 
+Brightness  
+Minimum 440cd/m2  
+4 
+Contrast Ratio  
+1,100:1 or Higher  
+5 
+Viewing Angle (H x V) 
+178 x 178 
+6 
+Surface Treatment 
+ Anti-glare treatment or similar  
+7 
+Min Input ports  
+HDMI x3(with HDCP 2.2), VGA x 1, USB 3.0 x 4, USB 
+2.0 x1, USB (Type C x1 with power delivery and DP Alt 
+Mode), OPS Slot x 1
+8 
+Min Output Ports  
+Audio-1 (Audio out to connect additional Speakers if 
+required), Optical SPDIF x1, HDMI-1, Touch Out USB x 2 
+9 
+External Control 
+RS232C, RJ45 input and output both 
+10 
+Built in Touch type 
+IR spread /P Cap/Incell/ In glass 
+11 
+Touch Accuracy 
+±1mm or less 
+12 
+Air Gap Between LCD 
+Module & Glass
+Minimum 1 mm or less 
+13 
+Protection Glass 
+Thickness
+3T (Anti-Glare) or Higher  
+14 
+Operating System 
+Support 
+Windows 7/8/10/Windows XP/Linux/Mac/Android 
+(Windows XP/Linux/Mac Support one point touch) 
+15 
+Multi touch point  
+Min 40 Points or Higher  
+16 
+Google CTS 
+Compatible/Approved to smooth interface 
+18 
+Interactive Features 
+·       White Board & Standard Interactive 
+features
+·       Writing, Pen, 
+·       Palm Eraser , 
+·       Screen Capture,  
+·       Storage,  
+·       Tool Bar,  
+·       Air Class for Online test/Quiz, 
+·      USB Block feature for safety 
+·       Dual Pen support  
+·       Bluetooth  connectivity  
+18 
+Built in Standard OS  
+Android 13.0 (EDLA) or better
+
+[Page 41]
+Page 41 of 43 
+ 
+ 
+19 
+Key Hardware 
+Features 
+Minimum Internal Memory (64GB), Quad core A55 , 
+GPU-Mali G52MP2,  RAM DDR 8GB or higher, USB 
+Block, Anti Glare Coating on glass surface, 7 Mohs and 
+9H Hardness, Haze 25%
+20 
+Key Software 
+Features 
+Screen Share/Mira cast to Connect TAB/Mobile, Web 
+Browser ,Wi-Fi, Apple Airplay inbuilt, Booting Logo Image 
+Change Option, Able to connect and show upto 9 devies 
+wirelessly on screen, DMS software option from same 
+OEM of display, PIP, PBP, Wake on LAN, Able to open 
+and work on minimum 4 applications side by side on one 
+screen at a time.
+22 
+PCB Protective 
+Coating  
+Conformal Coating on PCB to prevent from Humidity ,   
+Dust & Iron Particles  
+23 
+Power Supply  
+100-240V~,  50/60Hz 
+24 
+Power Consumption 
+(Typ.)
+225W  or less 
+24 
+Built in Audio Power 
+30W(15W x 2) or higher  
+25 
+Product Quality 
+Certifications
+BIS,ISO9001,ISO14001,ISO45001 
+26 
+Accessory 
+Remote Controller(include battery 2ea), Power Cord, 
+QSG, Regulation Book, Touch Pen(2)
+27 
+Warranty  
+3 years  
+28 
+Bracket   
+Wall mount
+
+[Page 42]
+Page 42 of 43 
+ 
+ 
+ 
+C. -  
+DESKTOP PC ;- 
+ 
+1 
+Processor 
+14th Gen or higher Intel Core Ultra 7 (4.9 GHz and 
+above)
+2 
+Chipset 
+Intel H  or higher Series 
+3 
+Motherboard 
+OEM Motherboard with logo embossed (no sticker) 
+4 
+Memory 
+16  GB DDR5-4800 UDIMM NECC upgradable Upto 
+64 GB
+5 
+Hard Disk Drive 
+512 GB SSD M.2 
+6 
+Graphics 
+Intel Integrated  770 Graphics or higher 
+7
+Audio
+High Definition Integrated Audio with Internal Speaker
+8 
+Ethernet 
+Integrated Gigabit (10/100/1000) Gbe LAN 
+9 
+Slots 
+1) PCI Express 4.0 x16  
+(1) PCI Express 3.0 x1  
+ (1) M.2 for WLAN  
+(1) M.2 2242/2280 storage
+10 
+Bays 
+2) 3.5"  
+(1) 9.5mm internal optical drive bay
+11 
+Ports 
+Front  
+Combo jack, Headphone/ Microphone  
+ ( 5 ) 3.1  USB  port. (1) Type C. 
+Rear  
+Audio Line out & Audio Line in , RJ-45 Network Port  
+HDMI Port ,  (2) USB 2.0  port or higher  
+12 
+Form Factor 
+Tower 
+13
+Power Supply
+Max 350 W  with 90 % efficiency
+14 
+Wired 
+Keyboard/Mouse
+USB 104 keys keyboard (Same make as PC) 
+USB  Scroll Mouse (Same make as PC)
+15 
+Operating 
+System
+Windows 11 Professional ( Preloaded )   
+16 
+Diagnostic Tool 
+OEM must have online system hardware diagnostics 
+facility
+17 
+Security 
+TPM 2.0 Security 
+SATA port disablement (via BIOS) 
+USB enable/disable (via BIOS) 
+Power-On password (via BIOS) 
+Administrator password (via BIOS) 
+Setup password (via BIOS) 
+Support for chassis padlocks and cable lock devices
+
+[Page 43]
+Page 43 of 43 
+ 
+ 
+ 
+18 
+Compliance 
+And 
+Certification 
+Energy Star , EPEAT , FCC,  RoHS Certificate  
+Windows certificate ( all certificate need to upload )  
+ISO 9001, 14001,20001,27001  for OEM (  certificate 
+to upload )  
+19 
+Information 
+Accessibility 
+Product details, specifications and brochure to be 
+available in public domain 
+21 
+Monitor ( 
+Datasheet 
+need to upload 
+)  
+21.5" IPS Monitor or higher with below spec of Same 
+OEM  
+Brightness should be min 250 nits   
+Port :- 1 HDMI , 1 VGA  
+TCO 7.0 or higher , Energy star Certified  (certificate 
+need to upload ) 
+22 
+Warranty 
+ 
+ 3 Years On-site comprehensive warranty (Parts, 
+Labor, and On-site repair). 
+Terms and Conditions;- 
+1) All the mentioned certificate should be upload along with Technical specification & product 
+datasheet  
+2) Technical Specification: Offered materials should be strictly in line of BOQ  
+3) OEM should be in Top 3 IDC List (Certificate should be upload)  
+4) Facility for downloading updates of pre-installed software and drivers must be available via 
+OEM website. Mention website address. 
+5) Bidder should upload OS Genuity.  
+6) Technical Compliances should be on OEM Letter head. 
+7) OEM / Bidder should have service center at consignee location. (upload Service center details)  
+8) Bidder should clearly mention the Make & model no of Desktop & Monitor  
+(Make of CPU & Monitor should be from Same OEM): -  
+Desktop Make & Model No:- 
+Monitor Make & Model No:-  
+ 
+ 
+ 
+Certify that BID Documents has total 43 ( Forty Three) PAGES  
+ 
+ 
+**************************** End of Bidding Document  ***********************

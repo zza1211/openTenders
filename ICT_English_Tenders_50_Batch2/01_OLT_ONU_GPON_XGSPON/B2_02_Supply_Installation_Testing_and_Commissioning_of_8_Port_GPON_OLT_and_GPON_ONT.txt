@@ -1,0 +1,273 @@
+Title: Supply, Installation, Testing and Commissioning of 8-Port GPON OLT and GPON ONT
+Source: https://www.tenderfiles.com/tenderdocuments/72026/30/65299b0b-63e7-42ac-8fa1-751169b29e8c?FileName=TechSpec.pdf
+Pages: 6
+
+--- Extracted text by page ---
+
+[Page 1]
+Technical Specification 
+Item No. 1:- Supply, Installation, Testing & commissioning of 8 Port GPON OLT with minimum 
+of 4x1GbE and 2x10GbE SFP+ interfaces for FTTH architecture. It shall be loaded with 8x Class 
+C+ GPON modules. It shall comply to TEC Standard Number: TEC 71040:2018 with latest 
+amendments, Versions and Additional Technical Specification requirements as below:- 
+1. The GPON OLT shall have minimum of 4 x1 Gig and 2 x 10 Gig SFP+ interfaces shall be 
+supported towards the core network to cater to the different service provider’s links. 
+Ratio of uplink access should be 1:1. SFP/SFP+ modules shall be supplied for all optical 
+interfaces.  
+2.  1+1 or 1:1 redundancy may also be provisioned for uplink connectivity.  
+3.  The GPON OLT shall have minimum One Fan Module.  
+4.  OLT shall provide with full functional OMCI (ONT Management Control Interface).  
+5.  Should support Windows/Linux/Ubuntu based EMS for provisioning and monitoring 
+which can be accessed through Windows based client utility.  
+6.  GPON OLT shall be supplied with EMS Software with lifetime license.  
+7.  OLT shall be 19” rack mountable type. The supplier shall provide the complete 
+operation, maintenance and installation manuals in English for the product under 
+procurement. 
+8. All items (OLT/ ONT / AP/ SFP) should be of same make and compatible with each other 
+and GPON Technology). 
+9. All the material required for installation and testing shall be supplied by the contractor 
+10. All actives (OLT/ ONT / AP/ SFP ) should be of same make and compatible with each 
+other and GPON Technology for better compatibility ) 
+Inspection:- RITES 
+Item No. 2 –Supply & Installation of (ONT)GPON Class B+,4xGbE LAN,2 FXS Port,1 USB 2.0,1 
+UPS port Wi-Fi 11 n2.4 Ghz 300 mbps,5 GHz 11 ac 866 mbps along with connecting accessories 
+as per below specification:- 
+ 
+GPON ONT that provides high-speed fiber access combines with residential gateway, VOIP 
+and wireless features. It is compatible for optical ITU-T G.984 and Dual band wireless IEEE 
+802.11ac environment. 
+Integrated Internet services through fiber optics 
+2.4GHz 802.11b/g/n (2x2 MIMO) and 5Ghz 802.11ac (2x2 MIMO)  support 
+802.11 ac/a/n (5 GHz, 2x2 MIMO, up to 866 Mbps) • 802.11 b/g/n (2.4 GHz, 2x2 MIMO, up 
+to 300 Mbps) 
+Advanced QoS ensures quality of triple-play services 
+Provisioning and Management through TR-069 and OMCI 
+ONT with a 4-port GbE Switch provides various integrated services through a single optical 
+fiber 
+ONT Management and Control Interface (OMCI) as well as TR069 management functions 
+Comply ITU-T G.984 GPON standard: 
+Digitally signed by
+AMIR KHAN
+Date: 2026.07.29
+15:24:10 IST
+Reason: IREPS-CRIS
+Location: New Delhi
+Signature Not
+Verified
+
+[Page 2]
+G.984.1 general characteristics 
+G.984.2 physical Media Dependent (PMD) layer specifications 
+G.984.3 transmission convergence layer specifications 
+G.984.4 ONT management and control interface specification 
+Support DS/US transmission rate to 2.488 Gbps/1.244 Gbps 
+Wavelength: 1490 nm downstream & 1310 nm upstream 
+Comply with class B+ type PMD 
+Physical distance reach to 20 km 
+Support Dynamic Bandwidth Allocation (DBA) 
+GPON Encapsulation Method (GEM) supports Ethernet packet 
+Supports GEM header removal/insertion and data extraction/segmentation (GEM SAR) 
+Configurable AES DS and FEC DS/US 
+Support up to 8 T-CONs each with priority queues (US) 
+Codecs: G.711 a/u, G.723, G.726 
+DTMF tone: detection and generation 
+Internal call, T.38 FAX relay, T30, Call waiting, Call hold/call retrieve 
+Call forwarding (No condition, Busy, No answer) 
+Call transferring (Blind, Consult OnHold, Attendant) 
+Three-way conference, Support flexible traffic classification 
+Second call/Adding an outgoing call,  Switch between 2 active calls 
+Port-based VLAN/802.1Q, DSCP/802.1P 
+IEEE 802.11n 2.4 GHz with up to 300 Mbps data rate 
+Wireless Protected Setup (WPS) 
+WEP data encryption (64/128 bit) 
+WPA/WPA2 (Wi-Fi Protected Access) 
+Multiple SSID (up to 4) 
+IGMP v1/v2/V3 
+Network Address Translation (NAT)/Network Address Port Translation (NAPT) 
+Generic packet filter 
+Gateway/Firewall/DMZ 
+USB2.0 port for file sharing 
+WAN/PON: One Giga optical interface (SC/APC) 
+Phone: Two FXS phone ports RJ-11 for voice connectivity 
+ONT should support two SIP server to be mapped with two FXS port simultaneously 
+LAN: Four 10/100/1000Mbps Ethernet ports RJ-45 
+WLAN button: Wi-Fi tact Switch, WPS button: WPS tact switch 
+Reset: A tact switch. One reset/restore factory default button 
+Power switch: Push-push type button 
+Operating temperature 0°C to 45°C (32°F to °F) 
+Storage Temperature: -30°C to 70°C (-°F to 140°F) 
+Direct UPS DC connectivity to the ONT without using any Adopter 
+Supported certificates: EMC: CE, Safety: CE LVD, Energy Saving: CE ErP 
+ONT should supply with SC/APC to SC/APC OFC Patch cord and loded SMB 
+All actives (OLT/ ONT / AP/ SFP ) should be of same make and compatible with each other 
+and GPON Technology for better compatibility )
+
+[Page 3]
+All the material required for installation and testing shall be supplied by the contractor 
+ 
+Inspection:- Consignee 
+Item no 3:- Supply of 10 G GPON OLT SFP + Fiber module preferably same make of GPON OLT 
+Contractor shall supply the item as per following specification:-  
+Type:  10GLR Simplex 
+Connector: LC 
+Wavelength: 1310 nm 
+Max Transmission Distance: 10 Km 
+Optical Mode: SM 
+Optical Receiver Sensibility: -12.6 dBm 
+Maximum Input Power: 0.5 dBm 
+ 
+Inspection:- Consignee 
+Item no 4:- Supply of 6 Fiber LIU rack mountable with simplex 6 SC-SM adapter and 6 SC-SM 
+Pigtail and splice tray for 12 fiber splice 
+Contractor shall supply the item as per following specification:-  
+Should be Suitable for 02 X 6 fibers OFC Cables 
+Consist of Top Cover and Bottom Pane 
+Should be 19" 1 U Rack Mountable 
+Easy to Assemble and Dissemble 
+Cable Entry Through Water Proof Cable Clamp 
+Should have Splice Tray for 12 Fibers Splice 
+Should be loaded with 06 X 2  SC-SM Adopter and min. 06 X 2 SC-SM Pigtail 
+ 
+Inspection:- Consignee 
+Item no 5:- Supply, Installation and configuration of DHCP Gateway System with 7 x 1000 
+base T configurable port with load balancing, fail over feature 
+Contractor shall supply the item as per following specification:-  
+Supply & Installation of Security Gateway/ UTM which is empowered by AI to level up 
+network protection and tackles unknown threats, empowered by cloud intelligence to level 
+up network protection and tackles unknown threats, and also should have capability of all 
+security services such as Web security, Application Security, Malware Blocker, Reputation 
+Filter, etc., but also sandboxing and Secure porter with info graphic dashboard.
+
+[Page 4]
+Devise should support Intelligence Machine learning ecosystem that can strengthen its 
+defense and stay immune to new unknown attacks. 
+Device should support Hybrid Scanning (stream based engine and a cloud query running 
+simultaneously) for Leveling up Malware blocking to maximize malware detection rate. 
+Device should support cloud based Reporting applications to see, analyses, and reports 
+network threats so admin can be advised what security actions to take. 
+Device should have minimum 7x 1Gigabit and 1x SFP ports which are should be 
+configurable as WAN or LAN. 
+Device should have USB3.0 ports for log storage and future support for Mobile internet 
+backup 
+Derive should be 19" Rack-mountable, Fan less, and Console port for recovery and 
+configurations. 
+SPI firewall throughput should have minimum 6000 Mbps and UTM throughput 1490 Mbps 
+or better. Maximum throughput based on RFC 2544 (1,518-byte UDP packets) and VPN 
+throughput measured based on RFC 2544 (1,424-byte UDP packets 
+Its better if device should support advance detection method for malicious capturing, 
+through which malicious activity can be detected and blocked by firewall at the point of 
+WiFi device in WiFi environment 
+Device should support bandwidth management for particular applications like Whatsapp/ 
+Face book/Skype etc….. 
+During the intrusion detection through IDP, device should detect the malicious traffic 
+which contains 'space' character. 
+Firewalls should support the feature on which basis we can apply corporate network 
+(central office) policies in home environment through VPN tunnel 
+should have minimum VPN throughput 1150 Mbps or better 
+should have minimum IDP throughput 2150 Mbps or better 
+should have minimum Antivirus throughput 1.52 Gbps or better 
+Device should support minimum TCP concurrent sessions 160000 million or better, and 
+Maximum sessions measured using the industry standard IXIA I x Load testing tool 
+990 nos. concurrent IP sec VPN tunnels and minimum 145 nos. concurrent SSL VPN 
+Device should support 128x VLAN interfaces 
+SPI firewall throughput should be 6000 Mbps or better. 
+Device also should have capability to manage maximum 260 Access Points and 8 nos AP 
+from day one without license 
+Device should have security features such as Sandboxing, Web Security, Application 
+Security, Malware Blocker, IDP(Intrusion Detection and Prevention), Reputation Filter, Geo 
+Enforcer, Secure porter  from day one. 
+Device should support 2-Factor Authentication 
+Device should have capability to create VPN tunnel with Microsoft Azure and Amazon VPC 
+Device should support 100-240 V AC Power input 
+Max. power consumption should be 50 Watt or better. 
+Heat dissipation should have minimum 115 BTU/hr or better 
+Accessories such as Power cord and Rack mounting kit should be supplied with the device 
+MTBF (hr) 947,000 or better
+
+[Page 5]
+To prevent the occurrence of EMC problems; device should have FCC Part 15 (Class B), CE 
+EMC (Class B), RCM (Class B) BSMI. Also should support LVD and BSMI for safety. 
+OEM should have ISO45001:2018 and ISO14001:2015 certificate 
+ 
+Inspection:- Consignee 
+Item no 6:- Supply & Testing of high speed LAN extender 30 mbps 2/4 wire 
+The contractor shall do the Supply & Testing of high speed LAN extender 30 mbps 2/4 wire:- 
+Specification of LAN Extender  
+Specification  
+Parameters 
+DSL Line card interface 
+Four Layer FR4 grade 1.6mm Gold plating Size 7 X 5.5 
+cms, (approx.) supporting with 2W/4W DSL uplink 
+interface 
+Compatibility 
+10BASE-T / IEEE802.3 
+Network Speed(Mbps) 
+30 
+Number of Ethernet port 
+4 
+DSL line card supported 
+2w/4w 
+Ethernet extender transmission distance 
+1000 meter (minimum) 
+Frequency(Hz) 
+250 
+Power supply 
+PCB (230 VAC to 5 VDC) along with one number Power cord 
+Housing Material 
+ABS plastic or better 
+Features 
+Front facia with sticker 
+Accessories inclusive in the scope of 
+supply 
+Suitable bottom cover 
+Warranty 
+12 months 
+Response time to attend the complaint 
+during warranty 
+48 hours 
+Line type 
+2 Wire (single pair operation)  
+Connector  
+RJ 45 and 3 Pin terminal Block  
+Auto polarity detection  
+Yes  
+DIAGNOSTIC TESTS 
+Local Loopback, Digital Loopback and 
+Remote Loopback  
+Status monitoring 
+using SNMP & TELNET 
+AC and DC built -in power supply 
+Yes 
+Configuration & Status 
+Monitoring  
+through SNMP, LCD & TELNET Ethernet 
+Port 
+LED INDICATIONS  
+PWR, MR, COT, DSL LINK, E1 SYN/DTR/ETH, 
+LINK ACT, AIS/RTS/SPD, PAT, ERR, TST, 
+NMR  
+ 
+Inspection:- Consignee
+
+[Page 6]
+Item no 7:- Supply and installation of Fiber patch panel- loaded with 1:4 and 1:8 PLC splitter 
+pre-terminated with SC/ APC connectors and adaptors, splice tray and adapter plates 
+Contractor shall supply and install the item as per following specification. 
+Should be Steel Tube Type 1/8 or 1/4 PLC Splitter 
+Connector: SC-APC 
+Should be Powder Coated Metal Housing 
+Should be Rack Mounted Housing 
+Should be supplied with Pre terminated Pigtail 
+Should be supplied with SC Type Adaptor 
+Min. Length: minimum 01.5 Mtr 
+Insertion Loss (1310.1490.1550): Max 4.1db 
+Uniformity Loss: Max 0.6db 
+Polarization Dependent Loss: Max 0.2 db 
+Wavelength Bandwidth: 1260-1650 
+Return Loss: 55.0 db 
+Directivity: 55.0 db 
+Operating Temperature: -40~85 ℃ 
+All the material required for installation shall be supplied by the contractor
+ 
+Inspection:- Consignee 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX

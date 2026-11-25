@@ -1,0 +1,3560 @@
+Title: Procurement of Network Equipment for PEF New Building
+Source: https://www.pef.edu.pk/pdf/Ad/2026-03-24-283ITB%20and%20bidding%20doc.pdf
+Pages: 62
+
+--- Extracted text by page ---
+
+[Page 1]
+INVITATION TO BID NOTICE FOR PROCUREMENT OF NETWORK EQUIPMENT (FIREWALL, 
+CORE, ACCESS SWITCHES, WLAN ACCESS CONTROLLER WITH ACCESS POINT, UPS, IP PABX 
+EXCHANGE WITH IP TELEPHONE SETS AND RACKS) FOR PEF'S NEW BUILDING 
+ITB NO. PEF/PROC/IT/2025-26/32 
+1. Punjab Education Foundation (PEF) is an autonomous organization, established under the auspices of the 
+Government of the Punjab, committed to the promotion of Quality Education through Public Private Partnership. 
+2. Sealed Bids on a lump sum basis, are invited from Bidders i.e. firms/companies/sole proprietor/ general order 
+suppliers engaged in trading, registered with relevant Registration Authorities and Tax Departments/ Authorities 
+(Income Tax, Sales Tax & Punjab Sales Tax etc) under PPR-14 Rule 38 (2) (a), “Single Stage - Two Envelope 
+Bidding Procedure” to procure the following goods/services according to details mentioned below: 
+ 
+Sr 
+No. LOT 
+Description of Item 
+Qty 
+Estimated 
+Price  
+Bid Security 
+2% of 
+Estimated Price 
+1 
+A 
+Firewall 
+1 
+Rs. 
+58,520,909 
+Rs.  
+1,170,418 
+2 
+Core Switch with SFP Ports and Modules 
+2 
+3 
+Lan Switch with SFP Ports and Modules 
+20 
+4 
+Access Point Solution with Wireless Controllers 
+30 
+5 
+Data Cabinets 42 U with PDUs Imported 
+2 
+6 
+IP Telephone Exchange 
+1 
+7 
+IP Telephone  
+240 
+8 
+IP Phone with Touch screen 
+7 
+9 
+B 
+UPS 20 KVA with Batteries 
+2 
+Rs.  
+9,619,148 
+Rs.  
+192,383 
+10 
+DB’s  
+12 
+11 
+Power Cable 
+950 
+ 
+Note:  Detailed specifications of the goods/services required and eligibility criteria are given in the relevant 
+bidding document. 
+3. Bidding Document would be immediately available on E-Pads, PPRA and PEF websites after the 
+publication of this notice. Detailed Eligibility Criteria, Bid Scope and Terms & Conditions can be found 
+in the Bid Document which will be binding on bidders. PEF will not be responsible for any cost or 
+expense incurred by Bidders in connection with the preparation or delivery of Bids. 
+4. Punjab Education Foundation reserves the right to reject all the proposals at any time prior to the 
+acceptance of a bid or proposal. 
+5. Original Bid Security in sealed envelope must be delivered to Daak Section of Punjab Education 
+Foundation located at 52-L, Gulberg – III near Kalma Chowk, Lahore till 11:00 a.m. on April 15th, 2026 
+and the Bid Security of Rs. 1,170,418/- for LOT-A and Rs. 192,383/- for LOT-B which is 02% of the 
+price of procurement estimated by PEF in the form of CDR/Bank Guarantee / Demand Draft / Pay Order 
+from a Scheduled Bank of Pakistan. Late submission shall not be accepted. 
+6. Bidder are requested to submit online bids through E-PADS. Scanned copy of Bid security will be 
+uploaded on E-PADS 
+7. Bids will be opened in the presence of representatives of bidders who choose to attend at 11:30 a.m. in 
+the office of Punjab Education Foundation at 52 – L, Gulberg – III near Kalma Chowk, Lahore, on 
+the date of tender submission. 
+8. The Bid shall have a minimum validity period of one hundred and twenty (120) days from the last date 
+for submission of the bid. 
+9. Taxes will be deducted as per applicable government rules. NTN and Sales Tax registration certificate 
+must be provided. 
+10. Punjab Procurement Rules 2014 shall be applicable during the procurement process. 
+11. The Bidding document is allowed to be downloaded from the PPRA website: https://ppra.punjab.gov.pk 
+without paying any fees. 
+12. The URL of the website of the PPRA is ( http://eproc/punjab.gov.pk/viewtender.aspx) and response time 
+shall be calculated exclusively from the date of publication of the advertisement on the website of the 
+PPRA.                                            
+Deputy Director (Procurement) 
+Punjab Education Foundation 
+52 – L, Gulberg – III near Kalma Chowk, Lahore. 
+Ph. # 042-99232791
+
+[Page 2]
+Page 1 of 61 
+ 
+Standard Bidding Document 
+ 
+TENDER NO. PEF/PROC/IT/2025-26/32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROCUREMENT OF NETWORK 
+EQUIPMENT (FIREWALL, CORE 
+SWITCHES, ACCESS SWITCHES, WLAN 
+ACCESS CONTROLLER, ACCESS 
+POINT, RACKS, IP TELEPHONE 
+EXCHANGE & IP PHONES, UPS WITH 
+BATTERIES) FOR PEF NEW BUILDING 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Deputy Director (Procurement) 
+Punjab Education Foundation (PEF) 
+52-L Gulberg – III near Kalma Chowk, Lahore, Pakistan 
+Phone: (+92) 04299232791-98 
+URL: http://www.pef.edu.pk
+
+[Page 3]
+Page 2 of 61 
+ 
+ 
+Table of Contents 
+ 
+1 
+INVITATION TO BID .................................................................................................................................. 5 
+1.1 
+PUNJAB PROCUREMENT RULES TO BE FOLLOWED ...................................................................................... 5 
+1.2 
+MODE OF ADVERTISEMENT(S) ..................................................................................................................... 5 
+1.3 
+TYPE OF OPEN COMPETITIVE BIDDING ....................................................................................................... 5 
+2 
+INSTRUCTIONS TO BIDDERS (ITB) ........................................................................................................ 7 
+2.1 
+BIDDING DETAILS ......................................................................................................................................... 7 
+2.2 
+SOURCE OF FUNDS ........................................................................................................................................ 8 
+2.3 
+ELIGIBLE BIDDERS ........................................................................................................................................ 8 
+2.4 
+ELIGIBLE GOODS AND SERVICES ................................................................................................................. 9 
+2.5 
+COST RELATED TO BID PREPARATION AND SUBMISSION ........................................................................... 9 
+2.6 
+ONE PERSON ONE BID .................................................................................................................................... 9 
+2.7 
+EXAMINATION OF THE BIDDING DOCUMENT ............................................................................................... 9 
+2.8 
+CLARIFICATION OF THE BIDDING DOCUMENT .......................................................................................... 10 
+2.9 
+AMENDMENT OF THE BIDDING DOCUMENT ............................................................................................... 10 
+2.10 
+DOCUMENTS ESTABLISHING GOODS’ ELIGIBILITY AND CONFORMITY TO BIDDING DOCUMENTS ......... 10 
+3 
+TERMS AND CONDITIONS OF THE TENDER ...................................................................................... 12 
+3.1 
+DEFINITIONS ............................................................................................................................................... 12 
+3.2 
+NOTICE ........................................................................................................................................................ 12 
+3.3 
+ELIGIBILITY CRITERIA ....................................................................................................................... 12 
+3.4 
+LATE BID ..................................................................................................................................................... 13 
+3.5 
+PREPARATION/ SUBMISSION OF BID ........................................................................................................... 13 
+3.6 
+TAXES AND DUTIES ..................................................................................................................................... 14 
+3.7 
+BID PRICE .................................................................................................................................................... 14 
+3.8 
+CONVERSION TO SINGLE CURRENCY ......................................................................................................... 15 
+3.9 
+BID SECURITY ............................................................................................................................................. 16 
+3.10 
+BID VALIDITY .............................................................................................................................................. 17 
+3.11 
+MODIFICATION/ WITHDRAWAL OF THE BID .............................................................................................. 17 
+3.12 
+OPENING OF BIDS BY THE PROCURING AGENCY ....................................................................................... 17 
+3.13 
+CONFIDENTIALITY ...................................................................................................................................... 18 
+3.14 
+CLARIFICATION OF THE BID ....................................................................................................................... 18 
+3.15 
+DETERMINATION OF RESPONSIVENESS OF THE BID .................................................................................. 19 
+3.16 
+REJECTION AND DISQUALIFICATION OF THE BID ...................................................................................... 19 
+3.17 
+TECHNICAL AND FINANCIAL EVALUATION OF PROPOSAL .................................................... 20 
+3.18 
+AWARD CRITERIA ....................................................................................................................................... 20 
+3.19 
+ACCEPTANCE LETTER AND PURCHASE ORDER ......................................................................................... 20 
+3.20 
+REDRESSAL OF GRIEVANCES BY THE PROCURING AGENCY ..................................................................... 20 
+3.21 
+LANGUAGE OF BID ...................................................................................................................................... 21 
+3.22 
+RESTARTING BIDDING PROCESS FROM ANY PRIOR STAGE ....................................................................... 21 
+3.23 
+CORRUPT OR FRAUDULENT PRACTICES .................................................................................................... 21 
+4 
+SPECIAL CONDITIONS OF THE CONTRACT ...................................................................................... 25 
+4.1 
+BID SCOPE ................................................................................................................................................... 25 
+4.2     CONTRACT DURATION .................................................................................................................................... 34 
+4.3 
+PERFORMANCE GUARANTEE ...................................................................................................................... 35
+
+[Page 4]
+Page 3 of 61 
+ 
+4.4 
+DELIVERY .................................................................................................................................................... 35 
+4.5 
+EXTENSIONS IN TIME FOR PERFORMANCE OF OBLIGATIONS UNDER THE CONTRACT ............................ 35 
+4.6 
+LIQUIDATED DAMAGES .............................................................................................................................. 36 
+4.7 
+SATISFACTORY COMPLETION CERTIFICATE FOR GOODS/SERVICES/WORKS ......................................... 36 
+4.8 
+PAYMENT..................................................................................................................................................... 36 
+4.9 
+CONTRACT AMENDMENT ........................................................................................................................... 36 
+4.10 
+WARRANTY ................................................................................................................................................. 37 
+4.11 
+PROVISION OF COMPLIANT, BRAND NEW AND DEFECT FREE GOODS/SERVICES/WORKS ...................... 37 
+5 
+GENERAL CONDITIONS OF CONTRACT............................................................................................. 37 
+5.1 
+CONTRACT .................................................................................................................................................. 37 
+5.2 
+CONTRACT COST ........................................................................................................................................ 37 
+5.3 
+CONTRACT DOCUMENTS AND INFORMATION ............................................................................................ 37 
+5.4 
+CONTRACT LANGUAGE ............................................................................................................................... 38 
+5.5 
+STANDARDS ................................................................................................................................................. 38 
+5.6 
+PATENT RIGHT ............................................................................................................................................ 38 
+5.7 
+INSPECTION AND VERIFICATION ................................................................................................................ 38 
+5.8 
+PACKING ...................................................................................................................................................... 38 
+5.9 
+LABELING .................................................................................................................................................... 38 
+5.10 
+ASSIGNMENT / SUBCONTRACT .................................................................................................................... 38 
+5.11 
+BLACKLISTING ............................................................................................................................................ 38 
+5.12 
+TERMINATION FOR DEFAULT ..................................................................................................................... 39 
+5.13 
+TERMINATION FOR INSOLVENCY ............................................................................................................... 40 
+5.14 
+FORCE MAJEURE ........................................................................................................................................ 40 
+5.15 
+DISPUTE RESOLUTION ................................................................................................................................ 41 
+5.16 
+STATUTES AND REGULATIONS.................................................................................................................... 41 
+5.17 
+AUTHORIZED REPRESENTATIVE ................................................................................................................ 41 
+6 
+SPECIAL STIPULATIONS (BID DATA SHEET) .................................................................................... 43 
+7 
+ANNEXURE ................................................................................................................................................ 44
+
+[Page 5]
+Page 4 of 61 
+ 
+Important Note 
+ 
+Bidders must ensure that they submit all the required documents indicated in the Bidding 
+Documents without any discrepancy. Bids received without undertakings, valid documentary 
+evidence, supporting documents and the manner for the various requirements mentioned in the 
+Bidding Documents are liable to be rejected at the initial stage. The valid documentary evidences 
+as detailed hereinafter should be submitted by bidders for preliminary and detailed examination. 
+ 
+ 
+Applicability of Punjab Procurement Rules, 2014 (Amended till date of advertisement of the 
+relevant ITB notice) 
+ 
+All the procurement procedures shall be conducted in accordance with Punjab Procurement 
+Authority Act-2009 and Punjab Procurement Rules-2014. In case of any conflict between the 
+provision of this document and PPRA Act-2009/ PPRA Rules-2014, the later shall prevail.
+
+[Page 6]
+Page 5 of 61 
+ 
+1 
+Invitation to Bid 
+1.1 
+Punjab Procurement Rules to be followed 
+1.1.1 Punjab Procurement Rules 2014 (Amended till date of advertisement of the relevant ITB 
+notice) will strictly be followed. These may be obtained from PPRA’s website. 
+1.1.2 In this document, unless otherwise mentioned to the contrary, "Rule" means a Rule under 
+the Punjab Procurement Rules 2014 (Amended till date of advertisement of the relevant ITB 
+notice). 
+1.2 
+Mode of Advertisement(s) 
+1.2.1 The estimated bid is more than five hundred thousand rupees. So following Rule 12 sub rule 
+(1) of Punjab Procurement Rules 2014 (Amended till date of advertisement of the relevant 
+ITB notice), the respective Invitation to Bid Notice is advertised on websites of PPRA, PEF 
+and E-PADS and in at least two daily newspapers of wide circulation, one in English and 
+one in Urdu. 
+1.2.2 Further in following Rule 14 of PPR-14, sub rule (3), the response time shall be calculated 
+from the date of publication of the advertisement on the website of the authority: Provided 
+that in case of publication of the advertisement in newspaper, Uniform Resource Locator 
+(URL) of the website of the Authority shall be expressly mentioned in such advertisement 
+specifying that the response time shall be calculated exclusively from the date of publication 
+of such advertisement on the website of the authority.  
+1.3 
+Type of Open Competitive Bidding 
+1.3.1 As per Rule 38(2)(a) of Punjab Procurement Rules 2014 (Amended till date of 
+advertisement of the relevant ITB notice), Single Stage – Two Envelope Bidding Procedure 
+shall be followed;  
+1.3.2 The procedure for single stage two envelopes shall be: 
+1.3.2.1 The bid be a single package consisting of two separate envelopes, containing separately 
+the financial and the technical proposals; 
+1.3.2.2 The envelopes shall be marked as “Financial Proposal” and “Technical Proposal”; 
+1.3.2.3 In the first instance, the “Technical Proposal” shall be opened and the envelope marked as 
+“Financial Proposal” shall be retained unopened in the custody of the procuring agency; 
+1.3.2.4 The procuring agency shall evaluate the technical proposal in the manner prescribed in 
+advance, without reference to the price and shall reject any proposal which does not 
+conform to the specified requirements; 
+1.3.2.5 During the technical evaluation no amendments in the technical proposal shall be 
+permitted; 
+1.3.2.6 After  the  evaluation  and  approval  of  the technical proposals, the procuring agency shall 
+open the financial proposals of the technically accepted bids, publically at a time, date and 
+venue announced and communicated to the bidders in advance, within the bid validity 
+period; 
+1.3.2.7 The financial proposal of the bids found technically non-responsive shall be retained 
+unopened and shall be returned on the expiry of grievance period or the decision of the 
+complaint, if any, filed by the non-responsive bidder, whichever is later. Provided that 
+procuring agency may return the sealed financial proposal earlier if the disqualified or 
+non-responsive bidder, contractor or consultant submits an affidavit, through an authorized 
+representative, to the effect that he is satisfied with the proceedings of the procuring 
+agency; 
+1.3.2.8 It is compulsory for bidders to bid for all goods /services. Bids for partial items will be 
+rejected.
+
+[Page 7]
+Page 6 of 61 
+ 
+1.3.2.9 Aggregate lowest evaluated bidder will be awarded the contract; 
+1.3.2.10 In case of equal lowest financial bids submitted by different bidders at the time of financial 
+opening, under rule 35(5) of PPR-14 such bidders will submit revised financial bids at spot 
+on either their signed official letterhead or on a signed and stamped plain paper. This 
+process will be repeated till a single bidder is declared lowest.
+
+[Page 8]
+Page 7 of 61 
+ 
+2 
+Instructions to Bidders (ITB) 
+2.1 
+Bidding Details  
+ 
+2.1.1 
+All bids must be accompanied by Bid Security, as per provisions of this Bidding document 
+clause “Bid Security” in favor of “Punjab Education Foundation”. The complete, bids as 
+required under this Bidding document, must be submitted on E-PADS and original Bid Security 
+in Sealed envelope shall be delivered to the Dak Section of Punjab Education Foundation 
+located at 52-L, Gulberg – III near Kalma Chowk, Lahore, not later than April 15th, 2026 at 
+11:00 am. Late bids shall not be accepted. 
+2.1.2 
+Technical bids shall be publicly opened in office of Punjab Education Foundation located at 
+52-L, Gulberg – III near Kalma Chowk, Lahore at (11:30 am) on the last day of bid submission.  
+2.1.3 
+Bidders shall submit bid complying with the Bidding Document. Alternative bids shall not be 
+considered. The attention of bidders is drawn to the provisions of this bidding document clauses 
+regarding “Determination of Responsiveness of Bid” and “Rejection and Disqualification 
+of the Bid” for making their bids substantially responsive to the requirements of the Bidding 
+Document. 
+2.1.4 
+It must be clearly understood that the Specifications, Terms and Conditions are intended to be 
+strictly enforced. No escalation of cost except arising from increase in quantity by the contractor 
+on the demand and approval of the Procuring Agency will be permitted throughout the period 
+of completion of the contract. 
+2.1.5 
+The contractor should be fully and completely responsible for all the deliveries and deliverables 
+to the Procuring Agency under this contract. 
+2.1.6 
+The Primary and Secondary contacts for all correspondence in relation to this bid are as follows: 
+Primary Contact 
+Name: Mr. Muzaffar Iqbal 
+Designation: Deputy Director (IT) 
+Contact No: 99232791 Ext. 41 
+ 
+Email: muzaffar.iqbal@pef.edu.pk 
+ 
+Secondary Contact 
+Name: Ahmed Iftikhar 
+Designation: Deputy Director (Procurement) 
+Contact No: 99232791 Ext. 54 
+ 
+Email: ahmed.iftikhar@pef.edu.pk   
+2.1.7 
+Bidders should note that during the period from the receipt of the bids and until further notice, 
+all queries should be communicated via Primary Contact and in writing only. In case of an 
+urgent situation where the Primary Contact cannot be contacted, bidders may alternatively 
+direct their enquiries through the Secondary Contact. 
+2.1.8 Bidders are also required to state, in their proposals, the name, title, contact number (landline, 
+mobile), fax number and e-mail address of the bidder’s authorized representative through whom 
+all communications shall be directed until the process has been completed or terminated. 
+2.1.9 Failure to supply required goods / services within the specified time period will invoke penalty 
+/ other measures as specified in this document.
+
+[Page 9]
+Page 8 of 61 
+ 
+2.2 
+Source of Funds 
+2.2.1 The Procuring Agency named in the Bid Data Sheet has received budget from the Government 
+of Punjab. The Procuring Agency intends to apply the provided funds/ a portion of this budget 
+to make eligible payments under the contract for which the Invitation to bids has been issued. 
+2.3 
+Eligible Bidders 
+2.3.1 Bidders shall not be under a declaration of blacklisting by Procuring Agency or by Punjab 
+Procurement Regulatory Authority (PPRA). During the Procurement Process / execution of the 
+Contract, if the firm/ bidder is blacklisted by Procuring Agency or by Punjab Procurement 
+Regulatory Authority (PPRA), if such blacklisted bidder wants to execute the contract awarded 
+after its blacklisting, the bidder/ firm shall provide 10% Bank Guarantee against the awarded 
+Contract value and in case the bidder regret to do so then the Procuring Agency may proceed 
+with second lowest evaluated bidder. 
+2.3.2 Bidder does not apply in the capacity of Joint Venture. 
+2.3.3 Government-owned enterprises may participate only if they are duly/legally authorized in this 
+regard by the respective/relevant competent forum/authority. 
+2.3.4 The invitation for Bids is open to all prospective Contractor, Manufacturers or Authorized 
+Agents/Dealers/Distributors 
+registered 
+on 
+E-PADS 
+subject 
+to 
+any 
+provisions 
+or 
+licensing/regulatory requirements issued by the respective National/ Provincial Professional 
+Statutory Body established for that particular trade or business. 
+2.3.5 A Bidder shall not have a conflict of interest. All Bidders found to have a conflict of interest 
+shall be Non-Responsive.  A Bidder may be considered to have a conflict of interest with one or 
+more parties in this bidding process, if they: 
+2.3.5.1 Are associated or have been associated for the procurement of the goods to be purchased under 
+this Invitation for Bids, directly or indirectly with a firm or any of its affiliates which have been 
+engaged by the Procuring Agency to provide consulting services for the preparation of the 
+design, specifications and other documents to be used. 
+2.3.5.2 Have controlling shareholders in common; or  
+2.3.5.3 Receive or have received any direct or indirect subsidy from any of them; or  
+2.3.5.4 Have the same legal representative for purposes of this Bid; or 
+2.3.5.5 Have a relationship with each other, directly or through common third parties, that puts them 
+in a position to have access to information about or influence on the Bid of another Bidder, or 
+influence the decisions of the Procuring Agency regarding this Bidding process; or 
+2.3.6 A Bidder may be ineligible if – 
+2.3.6.1 The Bidder is declared bankrupt or, in the case of company or firm, insolvent; 
+2.3.6.2 Payments in favor of the Bidder is suspended in accordance with the judgment of a court of 
+law other than a judgment declaring bankruptcy and resulting, in accordance with the national 
+laws, in the total or partial loss of the right to administer and dispose of its property; 
+2.3.6.3 Legal proceedings are established against such Bidder involving an order suspending payments 
+and which may result, in accordance with the national laws, in a declaration of bankruptcy or 
+in any other situation entailing the total or partial loss of the right to administer and dispose of 
+the property; 
+2.3.6.4 The Bidder is convicted, by a final judgment, of any offence involving professional conduct;
+
+[Page 10]
+Page 9 of 61 
+ 
+2.3.6.5 The Bidder is debarred and blacklisted by PPRA, due to involvement in corrupt and fraudulent 
+practices in accordance with the provision of section 17A of PPRA Act, 2009 and Rule-21, 
+read with Schedule appended with, Punjab Procurement Rules, 2014.  
+2.3.6.6 The Bidder is debarred and blacklisted in general (i.e. to the extent of all public procurement) 
+due to consistent performance failure in accordance with the section 17A of PPRA Act, 2009 
+and Rule-21, read with Schedule appended with, Punjab Procurement Rules, 2014. 
+2.3.7 Bidders shall provide to the Procuring Agency evidence of their eligibility, proof of compliance 
+with the necessary legal requirements to carry out the contract effectively. 
+2.3.8 Bidders shall provide such evidence of their continued eligibility satisfactory to the Procuring 
+Agency, as the Procuring Agency shall reasonably request. 
+2.4 
+Eligible Goods and Services 
+2.4.1 All goods and related services to be supplied under the Contract shall have their origin in eligible 
+source countries, defined in Technical Specification, and all expenditures made under the 
+contract will be limited to such goods and related services. 
+2.4.2 For purposes of this clause, “origin” means the place where the goods are mined, grown, or 
+produced, or the place from which the related services are supplied.  Goods are produced when, 
+through manufacturing, processing, or substantial and major assembly of components, a 
+commercially-recognized product is obtained that is substantially different in basic 
+characteristics or in purpose or utility from its components. 
+2.4.3 The origin of goods and services is distinct from the nationality of the Bidder. In any case, the 
+requirements of Rules 10 & 26 of PPR-14, shall be followed. 
+2.5 Cost Related to Bid Preparation and Submission 
+Bidders shall bear all costs/ expenses associated with the preparation and submission of bids and the 
+Procuring Agency shall in no case be responsible/ liable for those costs/ expenses. 
+2.6 One person one bid 
+2.6.1 As per Rule 36A of Punjab Procurement Rules 2014, a Bidder shall submit only one Bid in the 
+same bidding process, either individually as a Bidder or as a member in a joint venture or any 
+similar arrangement. 
+2.6.2 No Bidder can be a sub-contractor while submitting a Bid individually or as a member of a joint 
+venture in the same Bidding process. 
+2.6.3 A Bidder, if acting in the capacity of sub-contractor in any Bid, shall not submit bid for the same.   
+2.7 
+Examination of the Bidding Document  
+2.7.1 Bidders are expected to examine the Bidding Document, including all instructions and terms and 
+conditions. Failure to furnish all information as required by the Bidding documents or to submit 
+a Bid not responsive to the Bidding documents in every respect will be at the Bidder’s risk and 
+may result in the rejection of its Bid.  
+2.7.2 In case of discrepancies between the Invitation to Bid and the Bidding Documents, the said 
+Bidding Documents, not in conflict with any provision of PPR-14, will take precedence. 
+2.7.3 The Procuring Agency is not responsible for the completeness of the Bidding Documents and 
+their addenda, if they were not obtained website of PPRA or from E-PADS.
+
+[Page 11]
+Page 10 of 61 
+ 
+2.7.4 The Procuring Agency is not responsible for the completeness of the Bidding Documents and 
+their addenda, if they were not obtained directly from the Procuring Agency or from its website 
+or website of PPRA. Re-confirming from the Procuring Agency that all pages/ contents have 
+been properly and clearly received is the prime responsibility of the Bidder. 
+2.8 
+Clarification of the Bidding Document  
+2.8.1 
+A prospective Bidder requiring any clarification of the Bidding documents may notify the 
+Procuring Agency in writing through E-PADS. The Procuring Agency will respond in writing 
+to any request for clarification of the Bidding documents which it receives no later than seven 
+(7) days prior to the deadline for the submission of Bids prescribed in the Bid Data Sheet 
+through E-PADS. 
+2.8.2 
+The Procuring Agency will within three (3) working days after receiving the request for 
+clarification, respond in writing through E-PADS to any request for clarification provided that 
+such request is received not later than seven (7) days prior to the deadline for the submission of 
+Bids. 
+2.9 
+Amendment of the Bidding Document  
+2.9.1 
+The Procuring Agency may, at any time prior to the deadline for submission of bids, at its own 
+initiative or in response to a clarification requested by a bidder, amend the Bidding Document, 
+on any account, for any reason. All amendment(s) shall be part of the Bidding Document and 
+binding on bidders.  
+2.9.2 
+The Procuring Agency shall notify the amendment(s) to the prospective bidders. 
+2.9.3 
+At any time prior to the deadline for submission of Bids, but not later than three (3) days before 
+the closing date of the submission of Bid, the Procuring Agency, for any reason, whether at its 
+own initiative or in response to a clarification requested by a prospective Bidder, may modify 
+the Bidding documents by amendment. Any such change/amendment in the Bidding documents 
+shall be provided in a timely manner, preferably through electronic means also, not later than 
+three (3) days, and on equal opportunity basis as per Rule-25(3) OR Rule 25(4) of PPR-14 as 
+the case may be. 
+2.9.4 
+In order to allow prospective Bidders reasonable time in which to take an addendum into 
+account in preparing their Bids, the Procuring Agency, at its discretion, may extend the deadline 
+for the submission of Bids, as per rule 29 of PPR-14, in the manner similar to the original 
+advertisements, so as to avoid any inconvenience and to doubly ensure level playing field for 
+all prospective bidders. 
+2.10 Documents Establishing Goods’ Eligibility and Conformity to Bidding Documents 
+2.10.1 The Bidder shall furnish, as part of its Bid, documents establishing the eligibility and 
+conformity to the Bidding documents of all goods and related services which the Bidder 
+proposes to supply under the contract. 
+2.10.2 For purposes of the commentary to be furnished, the Bidder shall note that standards for 
+workmanship, material, and equipment, as well as references to brand names or catalogue 
+numbers designated by the Procuring Agency in its Technical Specifications, are intended to be 
+descriptive only and not restrictive. 
+2.10.3 Where a sample(s) is required by a procuring agency, the sample shall be: 
+2.10.3.1 Submitted as part of the bid, in the quantities, dimensions and other details requested in the 
+Bidding Document; 
+2.10.3.2 Carriage paid;
+
+[Page 12]
+Page 11 of 61 
+ 
+2.10.3.3 Received on, or before, the closing time and date for the submission of bids; and Evaluated to 
+determine compliance with all characteristics listed in the Bidding Document. 
+2.10.4 The Procuring Agency may retain the sample(s) of the successful Bidder till the successful 
+delivery of the goods. A Procuring Agency may reject the Bid if the sample(s)- 
+2.10.4.1 Do (es) not conform to all characteristics prescribed in the bidding documents; and 
+2.10.4.2 Is/are not submitted within the specified time clearly mentioned in the bidding document. 
+2.10.5 Where it is not possible to avoid using a propriety article as a sample, a Bidder shall make it 
+clear that the propriety article is displayed only as an example of the type or quality of the goods 
+being Bided for, and that competition shall not thereby be limited to the extent of that article 
+only. 
+2.10.6 Samples made up from materials supplied by a Procuring Agency shall not be returned to a 
+Bidder nor shall a Procuring Agency be liable for the cost of making them. 
+2.10.7 All samples produced from materials belonging to an unsuccessful Bidder may be kept by the 
+Procuring Agency till thirty (30) days from the date of award of contract or exhaust of all the 
+grievance forums (including those pending at Authority’s Level or in some Court of Law).
+
+[Page 13]
+Page 12 of 61 
+ 
+ 
+ 
+3 
+TERMS AND CONDITIONS OF THE TENDER 
+3.1 
+Definitions  
+In this document, unless there is anything repugnant in the subject or context:  
+3.1.1 "Commencement Date of the Contract" means the date on which both parties affix their 
+signatures to contract. 
+3.1.2 “The Procuring Agency” means the organization purchasing the Goods & Services, as named 
+Punjab Education Foundation (PEF) 
+3.1.3 “The Contract Price” means the price payable to the Contractor under the Contract for the full 
+and proper performance of its contractual obligations. 
+3.1.4 “Contractor” means the Bidder or firm supplying the Goods and Services under this Contract. 
+3.1.5 "Day" means calendar day. 
+3.1.6 "Goods” mean the “Goods required in this bidding document” which bidders are required to 
+supply to the Procuring Agency under the contract. 
+3.1.7 “Services” mean “Labor, transportation till delivery point, incidental services, complementary 
+services, insurance, installation, commissioning, etc. (if any)” associated with provision of goods 
+/ works which the Contractor is required to provide the Procuring Agency under the Contract 
+3.1.8 “Written” means written in form of email or hard copy. 
+3.2 
+Notice  
+In this document, unless otherwise specified, wherever provision is made for exchanging notice, 
+certificate, order, consent, approval or instructions amongst the Contractor and the Procuring Agency, 
+the same shall be:  
+3.2.1 In writing;  
+3.2.2 Issued within reasonable time;  
+3.2.3 Served by sending the same by email/ courier/ post/ dispatch rider to their principal office in 
+Pakistan or such other address as they shall notify for the purpose; and  
+3.2.4 The words "notify", "certify", "order", “consent”, “approve”, "instruct", shall be construed 
+accordingly. 
+3.3 
+ELIGIBILITY CRITERIA 
+Eligible bidder is a bidder who:  
+3.3.1 Is registered with Tax Authorities for NTN and GSTN/ PSTN as per relevant laws in Pakistan, 
+at least three years old (whichever is applicable); 
+3.3.2 The firm is not currently blacklisted by the Procuring Agency or PPRA. The 
+documents/photocopies provided with Bid are authentic. In case of any fake/bogus document 
+look at any stage. They shall be black listed as per Rules / Laws. (Submission of undertaking). 
+3.3.3 Bidder must be ISO certified in ISO 9001: 2015 for Lot-A only. 
+3.3.4 Certificate of Company / Firm Registration / Incorporation under the laws of Pakistan 
+3.3.5 Bidder must have Experience of supply of similar Equipment in the Public and Private 
+Organizations. Bidder must provide Documentary Evidences (Work order/contracts/ audited 
+financial statements /MOU) for last three (03) financial years to conclude Rs. 100 million 
+turnover (for LOT A) and Rs. 60 million turnover (for LOT B). 
+3.3.6 Verifiable Manufacturer Authorization Letter (MAL) from OEM is a must requirement for all 
+items in both LOTs i.e LOT: A -Firewall, core switch, access switch, APs solution, IP telephone 
+exchange and LOT: B - UPS.
+
+[Page 14]
+Page 13 of 61 
+ 
+3.3.7 Bidder must provide list of offices with complete address and have at least one office in Lahore 
+to ensure timely support services and have at least two technical support staff available in Lahore 
+office, CV of technical staff must be attached.  
+3.3.8 Firm will provide Enterprise level solution for the campus network which must be specified on 
+MAL by the principal. (Only for LOT A) 
+3.3.9 Gartner Ranking of OEM Gartner Magic Quadrant in Leadership (Only for all items of LOT A 
+except telephone exchange) 
+3.3.10 OEM manufacturer must be present in Pakistan from last 10 Years, for both LOTs. 
+3.3.11 Note:  
+i) 
+Noncompliance of any term or condition mentioned in the relevant ITB Notice or Bidding 
+Document shall also lead to disqualification and no claim whatsoever will be entertained. 
+Bidders must submit bid security of Lot-A of Rs. 1,170,418/- and Rs. 192,383/- of Lot-B 
+which is (2% of price of procurement estimated by PEF in the respective lots i.e. Rs. 
+58,520,909/-, and Rs. 9,619,148/-) as per bid security clause of this document else their bids 
+will be rejected. Scanned copy of Bid Security will be uploaded on E-PADS and original will be 
+submitted to PEF office till last date of submission of bids. 
+ii) 
+Any Bid received by the Procuring Agency after the deadline for submission of Bids prescribed 
+by the Procuring Agency pursuant to ITB Clause 2.1.1 will be rejected and returned unopened 
+to the Bidder. 
+3.4 
+Late Bid 
+3.4.1 Any Bid received by the Procuring Agency after the deadline for submission of Bids prescribed 
+by the Procuring Agency pursuant to ITB Clause 2.1.1 will be rejected and returned unopened 
+to the Bidder. 
+3.4.2 The Procuring Agency shall not consider for evaluation any Bid that arrives after the deadline 
+for submission of Bids. 
+3.4.3 Any Bid received by the Procuring Agency after the deadline for submission of Bids shall be 
+declared late, recorded, rejected and returned unopened to the Bidder. 
+3.5 
+Preparation/ Submission of Bid  
+Bid and all the accompanied documents submitted by a bidder shall be in paper form and shall either be 
+in Urdu or English or both. The bid shall be filled in/ accompanied by the required Forms, Annexes, 
+Schedules, Charts, Drawings, Documents, Brochures, Literature, etc. (whichever is applicable) which 
+shall be completely filled in, stamped and signed by bidder or his authorized representative. This is 
+made obligatory to affix authorized signatures with official stamp on all documents, annexure, copies, 
+certificates, letters, forms and all relevant documents as part of the bids submitted by bidders.  
+Technical and Financial Proposals will be considered incomplete if any of the following documents are 
+missing from them. Procuring Agency reserves the right and shall reject any bid submitted without any 
+of the documents mentioned below: 
+3.5.1 Technical Proposal shall comprise the following:  
+3.5.1.1 Undertaking on stamp paper of Rs.300/- (All terms and conditions and qualifications listed 
+anywhere in this bidding document have been satisfactorily vetted and bidder. The 
+Firm/Bidders is not currently blacklisted by the Procuring Agency and PPRA. The 
+documents/photocopies provided with Bid are authentic. In case of any fake/bogus document 
+look at any stage. They shall be black listed as per Rules / Laws. (Annexure-A). 
+3.5.1.2 Covering letter duly signed and stamped by authorized representative on official letter head of 
+bidder (Annexure-B).
+
+[Page 15]
+Page 14 of 61 
+ 
+3.5.1.3 Compliance with technical specifications of required goods/services on official letterhead of 
+bidder (Annexure-C) as an evidence that the bidder will provide goods / services as per 
+requirements of Procuring Agency. 
+3.5.1.4 Checklist of the required documents (Annexure-D) (Not Mandatory). 
+3.5.1.5 Is registered with Tax Authorities for NTN and GSTN/ PSTN as per relevant laws in Pakistan, 
+at least three years old (whichever is applicable); 
+3.5.1.6 Bidder must be ISO certified in ISO 9001: 2015 for Lot-A only. 
+3.5.1.7 Certificate of Company / Firm Registration / Incorporation under the laws of Pakistan 
+3.5.1.8 Bidder must have Experience of supply of similar Equipment in the Public and Private 
+Organizations. Bidder must provide Documentary Evidences (Work order/contracts/ audited 
+financial statements /MOU) for last three (03) financial years to conclude Rs. 100 million 
+turnover (for LOT A) and Rs. 60 million turnover (for LOT B). 
+3.5.1.9 Verifiable Manufacturer Authorization Letter (MAL) from OEM is a must requirement for all 
+items in both LOTs i.e LOT: A -Firewall, core switch, access switch, APs solution, IP 
+telephone exchange and LOT: B - UPS.   
+3.5.1.10 Bidder must provide list of offices with complete address and have at least one office in Lahore 
+to ensure timely support services and have at least two technical support staff available in 
+Lahore office, CV of technical staff must be attached.  
+3.5.1.11 Firm will provide Enterprise level solution for the campus network which must be specified on 
+MAL by the principal. (Only for LOT A) 
+3.5.1.12 Gartner Ranking of OEM Gartner Magic Quadrant in Leadership (Only for all items of LOT 
+A except telephone exchange) 
+3.5.1.13 OEM manufacturer must be present in Pakistan from last 10 Years, for both LOTs. 
+3.5.1.14 Brochure/datasheet of quoted model shall be provided. 
+3.5.1.15 Duly signed and stamped copy of the bidding document to ensure that the participating bidder 
+certifies that each page has been read, understood and all terms and conditions on each page 
+have been accepted unconditionally. 
+3.5.2 Financial Proposals shall comprise the following 
+3.5.2.1 Price Schedule (Annexure-E). 
+3.5.3 The Bid Security shall be dropped by hand, courier or through registered mail to reach the Dak 
+Section of the Procuring Agency’s office at (52-L Gulberg-III Lahore) not later than due date 
+and time for submission of bids. Bid(s) submitted late shall not be accepted.  
+3.6 
+Taxes and Duties  
+The Contractor shall be entirely responsible for all taxes, duties and other such levies imposed, make 
+inquiries on income and sales taxes to the concerned authorities of Income and Sales Taxes.  
+3.7 
+Bid Price  
+The quoted price shall be:  
+3.7.1 Best/ final/ fixed and valid until completion of all obligations under the Contract i.e. not subject 
+to variation/ escalation; 
+3.7.2 In Pak Rupees; 
+3.7.3 Inclusive of all taxes, duties, levies, insurance, freight, labor, transportation till delivery point, 
+incidental services, complementary services, etc. (whichever is applicable); 
+3.7.4 The Procuring Agency will not be responsible for any costs or expenses incurred by bidders in 
+connection with the preparation or delivery of bids;
+
+[Page 16]
+Page 15 of 61 
+ 
+3.7.5 If not specifically mentioned in the Bid, it shall be presumed that the quoted price is as per the 
+requirements mentioned in this document. 
+3.7.6 Technical proposal should not contain any mention of prices. Price Schedule shall only be 
+submitted with the sealed financial Proposal. 
+3.7.7 The Procuring Agency will not be responsible for any erroneous calculation of tax rates or any 
+subsequent changes in rates of direct taxes or structure of applicable direct taxes. All 
+differences arising out as above shall be fully borne by the Successful Bidder. 
+3.7.8 The Contractor shall not charge prices for the goods /services delivered and for other obligations 
+discharged, under the Contract, varying from the prices quoted by the Contractor in the Price 
+Schedule. 
+3.7.9 If a bidder quotes price of goods /services without inclusion of taxes, it would be considered that 
+the bid is inclusive of all applicable taxes. 
+3.7.10 It will be the responsibility of bidders that all factors have been investigated and considered 
+while submitting the Bid and no claim whatsoever including those of financial adjustments to 
+the contract awarded under this Bid Process will be entertained by the Procuring Agency. 
+Neither any time schedule, nor financial adjustments arising thereof shall be permitted on 
+account of failure by a bidder. 
+3.7.11 Bidders are responsible for the correctness and sufficiency of the Bid and price quoted in the 
+Bid shall be deemed to cover all obligations under this Bidding Process. 
+3.7.12 Bid shall be checked for any arithmetic errors which shall be rectified, as follows: 
+3.7.13 If there is a discrepancy between the amount in figures and the amount in words for the Total 
+Bid Price entered in the price schedule, the actual sum of itemized total prices will be considered 
+as the Total Bid Price. 
+3.7.14 If there is a discrepancy in the actual sum of the unitary total prices (if applicable) and the total 
+bid price quoted in the Price Schedule, the actual sum of the itemized total prices shall govern. 
+3.7.15 If there is a discrepancy between the unit rate and the total price entered in the price Schedule, 
+resulting from incorrect multiplication of the unit rate by the quantity, the unit rate as quoted 
+shall govern and the total price shall be corrected. 
+3.7.16 While calculating bid price, quantities shall remain same as already mentioned in bid 
+documents. 
+3.7.17 If there is an error in a total corresponding to the addition or subtraction of sub-totals, the sub-
+totals shall prevail and the total shall be corrected; and 
+3.7.18 The Bid price as determined after arithmetic corrections shall be termed as the Corrected Total 
+Bid Price which shall be binding upon the bidder. 
+3.7.19 No credit shall be given for offering delivery period earlier than the specified period. 
+3.7.20 The amount stated in the Bid will, be adjusted by the Procuring Agency in accordance with the 
+above procedure for the correction of errors. The concurrence of the Bidder shall be considered 
+as binding upon the Bidder. If the Bidder does not accept the corrected amount, its Bid will then 
+be rejected, and the Bid Security may be forfeited. 
+3.8 
+Conversion to Single Currency 
+3.8.1 
+As per rule 32(2) of PPR-14, to facilitate evaluation and comparison, the Procuring Agency will 
+convert all Bid prices expressed in the amounts in various currencies in which the Bid prices as 
+follows:
+
+[Page 17]
+Page 16 of 61 
+ 
+3.8.1.1 For the purposes of comparison of bids quoted in different currencies, the price shall be 
+converted into a single currency specified in the bidding documents. The rate of exchange shall 
+be the selling rate, prevailing on the date of opening of bids specified in the bidding documents, 
+as notified by the State Bank of Pakistan on that day, in case of holiday in State Bank of 
+Pakistan on the day of opening financial bids, then previous working day’s ex-change rates 
+will prevail. 
+3.9 
+Bid Security 
+Bidders shall furnish the Bid Security as under: 
+3.9.1 Shall be in the form of Bank Guarantee, Bank call-deposit (CDR), Demand Draft (DD), Pay 
+Order (PO) or Banker’s cheque in the name of Punjab Education Foundation; 
+3.9.2 Personal or business cheque shall not be entertained in any case. 
+3.9.3 Bidders are required to submit bid security of Lot-A of Rs. 1,170,418/- and Rs. 192,383/- of Lot-
+B which is (2% of price of procurement estimated by PEF in the respective lots i.e. Rs. 
+58,520,909/-, and Rs. 9,619,148/-) as per bid security Rule of Punjab Procurement Rules 2014 
+(Amended till date of advertisement of the relevant ITB notice) which states that a procuring 
+agency may require the bidders to furnish a bid security not exceeding five per cent of the price 
+of procurement as estimated by the procuring agency. 
+3.9.4 Denominated in Pak Rupees; 
+3.9.5 Having a minimum validity period of one hundred and twenty (120) days from the last date for 
+submission of the Bid or until furnishing of the Performance Guarantee, whichever is later; 
+3.9.6 The bid security shall be returned to the technically disqualified bidders with their unopened/ 
+sealed financial bid while the unsuccessful bidders shall be returned the bid security only. The 
+Bid Security shall be returned to the successful bidder on furnishing the Performance Guarantee. 
+3.9.7 Bid security will not be adjustable against any payment or performance guarantee. 
+3.9.8 Punjab Education Foundation is not responsible to pay any interest/ benefit on the amount 
+submitted as bid security against this bid that could accumulate in the same period by investing/ 
+depositing in any bank or any other such institution/ organization; 
+3.9.9 The Bid security is required to protect the Procuring Agency against the risk of Bidder’s conduct 
+which would warrant the security’s forfeiture Pursuant to Clause 3.9.11. 
+3.9.10 Bid security submitted by a bidder may be forfeited if: 
+3.9.10.1 Bidder has been found involved in the concealment of facts. 
+3.9.10.2 Any false / misleading information is provided in the submitted bid. 
+3.9.10.3 Bidder backs out from fulfilling the obligations of bid after opening of the bid. 
+3.9.10.4 If a Bidder withdraws its Bid during the period of Bid validity specified by the Bidder on the 
+Bid Form. 
+3.9.10.5 In the case of a successful Bidder, if the Bidder fails to sign the contract in accordance with 
+Bidding Document. 
+3.9.10.6 In the case of a successful Bidder, if the Bidder fails to furnish Performance Guarantee in 
+accordance with bidding document. 
+3.9.10.7 In the case of a successful Bidder If the blacklisting proceedings under Section-17A of PPRA 
+Act, 2009 read with Rule-21 of PPR-14 are initiated and the bidder is declared blacklisted after 
+due process of law.
+
+[Page 18]
+Page 17 of 61 
+ 
+3.10 Bid Validity  
+3.10.1 The Bid shall have a minimum validity period of one hundred and twenty (120) days from the 
+last date for submission of the Bid. The Procuring Agency may solicit the consent of the bidders 
+to an extension of the validity period of the bid. The request and the response thereto shall be 
+made in writing. If a bidder agrees to extension of validity period of the bid, the validity period 
+of the Bid Security shall also be suitably extended. A bidder may refuse extension of validity 
+period of the Bid, without forfeiting the Bid security as per Clause 28(4) (c) (Amended till date 
+of advertisement of the relevant ITB notice). 
+3.10.2 Bids shall remain valid for the period of 120 days after the date of Bid opening prescribed by 
+the Procuring Agency. A Bid valid for a shorter period may be rejected by the Procuring Agency 
+as non-responsive. 
+3.11 Modification/ Withdrawal of the Bid  
+3.11.1 A bidder may, by written notice served on the Procuring Agency, modify, including substitution 
+or withdraw the bid after submission of the bid, prior to the deadline for submission of the bid. 
+3.11.2 The Bidder’s modification or withdrawal notice shall be prepared, sealed, marked, and 
+dispatched in accordance with the provisions of Clause (3.11.1).A withdrawal notice may also 
+be sent by email, but followed by a signed confirmation copy, postmarked not later than the 
+deadline for submission of Bids. 
+3.11.3 Revised bid may be submitted after the withdrawal of the original bid before the deadline for 
+submission of Bids. 
+3.11.4 The bid, withdrawn after the deadline for submission of the bid and prior to the expiration of the 
+period of the bid validity, shall result in forfeiture of the Bid Security. 
+3.12 Opening of Bids by the Procuring Agency 
+3.12.1 The Procuring Agency will open all Bids, in public, in the presence of Bidders’ or their 
+representatives who choose to attend, and other parties with a legitimate interest in the Bid 
+proceedings at the place, on the date and at the time, specified in the Bidding Document. The 
+Bidders’ representatives present shall sign a register/attendance sheet as proof of their 
+attendance. 
+3.12.2 In case of Single Stage Two Envelope Procedure, the Procuring Agency will open the Technical 
+Proposals in public at the address, date and time specified in the BDS in the presence of Bidders` 
+designated representatives who choose to attend and other parties with a legitimate interest in 
+the Bid proceedings on E-PADS. The Financial Proposals will remain unopened and will be held 
+until the specified time of their opening. 
+3.12.3 The Technical Proposals shall be opened one at a time, and the following read out and recorded: 
+(a) the name of the Bidder; (b) the presence of a Bid Security, if required; and (c) Any other 
+details as the Procuring Agency may consider appropriate. 
+3.12.4 Bidders are advised to send in a representative with the knowledge of the content of the Bid who 
+shall verify the information read out from the submitted documents. Failure to send a 
+representative or to point out any un-read information by the sent Bidder’s representative shall 
+indemnify the Procuring Agency against any claim or failure to read out the correct information 
+contained in the Bidder’s Bid. 
+3.12.5 No Bid will be rejected at the time of Bid opening except for late Bids which will be returned 
+unopened to the Bidder.
+
+[Page 19]
+Page 18 of 61 
+ 
+3.12.6 The Procuring Agency shall prepare minutes of the Bid opening. The record of the Bid opening 
+shall include, as a minimum: the name of the Bidder and whether or not there is a withdrawal, 
+substitution or modification, the Bid price if applicable. 
+3.12.7 The Bidders’ representatives who are present shall be requested to sign on the attendance sheet. 
+The omission of a Bidder’s signature on the record shall not invalidate the contents and affect 
+the record. 
+3.12.8 Minutes of the Financial Bid Opening shall be recorded and uploaded by the procuring agency 
+on its website or shared to all bidders through e-mail. 
+3.13 Confidentiality 
+3.13.1 Information relating to the examination, clarification, evaluation and comparison of Bids and 
+recommendation of contract award shall not be disclosed to Bidders or any other persons not 
+officially concerned with such process until the time of the announcement of the respective 
+evaluation report in accordance with the requirements of rule 37 of PPR-14. 
+3.13.2 Any effort by a Bidder to influence the Procuring Agency processing of Bids or award decisions 
+may result in the rejection of its Bid. 
+3.13.3 From the time of Bid opening to the time of contract award, if any Bidder wishes to contact the 
+Procuring Agency on any matter related to the Bidding process, it should do so in writing or in 
+electronic forms that provides record of the content of communication. 
+3.14 Clarification of the Bid  
+3.14.1 The Procuring Agency shall have the right, at its exclusive discretion, to require, further 
+information or clarification of the Bid, from any or all the bidders. The procuring agency may, 
+if necessary after the opening of the bids, seek and accept such clarifications of the bid as do not 
+change the substance of the bid as per Rule 33 (2) of Punjab Procurement Rules (Amended till 
+date of advertisement of the relevant ITB notice). No change in the price or substance of the Bid 
+shall be sought, offered or permitted except as required to include the corrections of arithmetical 
+errors discovered in the Bid. Acceptance of any such correction is sole discretion of the 
+Procuring Agency. 
+3.14.2 Any clarification submitted by a Bidder that is not in response to a request by the Procuring 
+Agency shall not be considered. 
+3.14.3 The request for clarification and the response shall be in writing or in electronic forms that 
+provide record of the content of communication. In case of Single Stage Two Envelope 
+Procedure, no change in the prices or substance of the Bid shall be sought, offered, or permitted. 
+Whereas in case of Single Stage One Envelope Procedure, only the correction of arithmetic 
+errors discovered by the Procuring Agency in the evaluation of Bids should be sought. 
+3.14.4 The alteration or modification in The Bid which in any way affect the following parameters will 
+be considered as a change in the substance of a bid: 
+a) Evaluation & qualification criteria; 
+b) Required scope of work or specifications; 
+c) All securities requirements; 
+d) Tax requirements; 
+e) Terms and conditions of bidding documents. 
+f) Change in the ranking of the Bidder
+
+[Page 20]
+Page 19 of 61 
+ 
+3.15 Determination of Responsiveness of the Bid  
+Prior to the detailed evaluation, the Procuring Agency will determine the responsiveness of each Bid to 
+the Bidding documents. Deviations from, or objections or reservations to critical provisions, such as 
+those concerning Bid Security, Applicable Laws of Pakistan, Taxes and Duties & mandatory 
+Registrations/ Renewals will be deemed to be a material deviation. The Procuring Agency’s 
+determination of a Bid’s responsiveness is to be based on the contents of the Bid itself without recourse 
+to extrinsic evidence. 
+The Procuring Agency shall determine the substantial responsiveness of the Bid to the Bidding 
+document, prior to the Bid evaluation, on the basis of the contents of the Bid itself without recourse to 
+extrinsic evidence. A substantially responsive Bid is one which:   
+3.15.1 Meets the eligibility criteria given herein this Bidding document; 
+3.15.2 Offers fixed price for all goods /services/ works as per Price Schedule; 
+3.15.3 Conforms to all terms and conditions of the documents issued by Procuring Agency in reference 
+to this bidding procedure. These include but are not limited to the Bidding Document, Invitation 
+to Bid Notice, Corrigendum, Addendum, etc. (whichever is applicable), without material 
+deviation or reservation; 
+3.15.4 A material deviation or reservation is one which affects the scope, quality of goods /services or 
+limits the Procuring Agency's rights or a bidder's obligations under the Contract. 
+3.15.5 The Bid determined as not substantially responsive shall not subsequently be made responsive 
+by a bidder by correction or withdrawal of the material deviation or reservation. 
+3.16 Rejection and Disqualification of the Bid  
+The Procuring Agency may reject all bids or proposals at any time prior to the acceptance (issuance of 
+Acceptance Letter). The Procuring Agency shall upon a written request communicate to any bidder, the 
+grounds for rejecting all bids or proposals, but shall not be required to justify those grounds. The 
+Procuring Agency shall incur no liability, solely, by virtue of rejection of bidders. However, bidders 
+shall be promptly informed about the rejection of the bids, if any (As per Rule 35 of Punjab Procurement 
+Rules, 2014).  
+Likewise, Procuring Agency shall upon a written request communicate to any bidder, the grounds for 
+its technical disqualification, but shall not be required to justify those grounds. A bid shall be rejected/ 
+disqualified if it is:  
+3.16.1 Substantially non-responsive in a manner prescribed in this document especially to the clause 
+‘Determination of Responsiveness of the Bid’; or 
+3.16.2 Submitted in other than prescribed forms, annexes, documents by other than specified mode and 
+language; or  
+3.16.3 Incomplete, partial, conditional, alternative/optional, late; or  
+3.16.4 Bidder has conflict of interest with the Procuring Agency; or  
+3.16.5 Bidder tries to influence the Bid evaluation/ Contract award; or 
+3.16.6 Bidder engages in corrupt or fraudulent practices in competing for the Contract award;  
+3.16.7 Bidder fails to meet the requirements of Bid Eligibility/ Qualification Criteria; 
+3.16.8 Bidder fails to meet the Technical and / or Financial evaluation of Proposal; 
+3.16.9 There is any discrepancy between bidding documents and bidder’s proposal i.e. any non-
+conformity, inconsistency, informality or irregularity in the submitted bid.  
+3.16.10 Bidder submits any financial condition as part of its bid which is not in conformity with bidding 
+document.
+
+[Page 21]
+Page 20 of 61 
+ 
+3.16.11 Bidder does not submit original bid security instrument in the sealed envelope or upload scanned 
+copy of the same on E-PADS. 
+3.16.12 Bidder discloses price in the Technical Proposal. 
+3.16.13 It is compulsory for bidders to bid for all items. Bids for partial items will be rejected. 
+3.17 TECHNICAL AND FINANCIAL EVALUATION OF PROPOSAL  
+The bidders who have duly complied with the Bid Eligibility/ Qualification Criteria will be eligible for 
+further processing.  
+3.17.1 During the technical evaluation no amendments in the technical proposal shall be permitted; 
+3.17.2 The bids with technical proposals conforming to terms and conditions of this bid document, 
+invitation to bid notice, corrigendum, addendum (whichever applicable) will be considered for 
+financial evaluation and thus, only their financial proposal will be opened. 
+3.17.3 After evaluation of the technical proposals, financial proposals of the technically responsive/ 
+qualified bids will be opened, publically at a time, date and venue which will be announced and 
+communicated to the bidders in advance, within the bid validity period; 
+3.17.4 The financial bids found technically nonresponsive shall remain un-opened on E-PADS;  
+3.17.5 All bidders may check results (bid evaluation) at website of PPRA. 
+3.18 Award Criteria  
+3.18.1 The eligible bidder fulfilling the qualification and technical evaluation criteria will be evaluated 
+in the light of all Pre-Conditions, necessary requisites and shall be selected on lowest cost quoted 
+as per rules and fulfilling all formalities mentioned in the relevant Invitation to Bid and this 
+Bidding Document. 
+3.18.2 Failure of the successful Bidder to comply with the requirement of Clause 3.19.1 shall constitute 
+sufficient grounds for the annulment of the award and forfeiture of the Bid security along with 
+other remedies available under PPR-14. After that, the Procuring Agency may decide to award 
+the contract to the next lowest evaluated Bidder, keeping in view the Bid validity time, or call 
+for new Bids keeping in view the concept of value for money as defined under rule-2(ae) read 
+with Principles of Procurement as enunciated in rule-4 of PPR-14. 
+3.19 Acceptance Letter and Purchase Order 
+3.19.1 As per provisions of Rule (55) of Punjab Procurement Rules 2014 (Amended till date of 
+advertisement of the relevant ITB notice), the Procuring Agency shall issue the Acceptance 
+Letter to the Successful Bidder, at least after 10 days of announcement of bid evaluation reports 
+(Rule-37 of Punjab Procurement Rules, 2014) and prior to the expiry of the original validity 
+period or extended validity period of the Bid, which shall constitute a Contract, until execution 
+of the formal Contract. Formal Contract will be signed within 15 days of issuance of Acceptance 
+Letter subject to submission of performance guarantee and signing of contract. After signing of 
+the formal contract, Purchase order will be issued to contractor.  
+3.20 Redressal of Grievances by the Procuring Agency  
+The Procuring Agency has constituted a committee comprising of odd number of persons, with proper 
+powers and authorizations, to address the complaints of bidders that may occur prior to the entry into 
+force of the procurement contract. The Committee may preferably have one subject specialist depending 
+upon the nature of the procurement in addition to one person with legal background as per their 
+availability to the Procuring Agency.
+
+[Page 22]
+Page 21 of 61 
+ 
+3.20.1 Any party can file its written complaint against the eligibility parameters or any other terms and 
+conditions prescribed in the bidding documents found contrary to provision of Rule 34 and the 
+same shall be addressed by the Procuring Agency well before the proposal submission deadline. 
+3.20.2 In case of single stage - two envelope bidding procedure any bidder feeling aggrieved from 
+technical evaluation may file a grievance within 5 days of announcement of the technical 
+evaluation report. After completion of the technical evaluation process, the procuring agency 
+shall immediately upload the technical evaluation report on the website of PPRA and Procuring 
+Agency for obtaining/ receiving grievance petitions from the prospective bidders (if any). 
+3.20.3 Any bidder feeling aggrieved by any act of the Procuring Agency after the submission of his bid 
+may lodge a written complaint concerning his grievances not later than ten days after the 
+announcement of the bid evaluation report.  
+3.20.4 In case, the complaint/grievance is filed after the issuance of the final evaluation report, the 
+complainant cannot raise any objection on technical evaluation of the report. 
+3.20.5 The committee shall investigate and decide upon the complaint within fifteen days of the receipt 
+of the complaint.  
+3.20.6 Mere fact of lodging of a complaint shall not warrant suspension of the procurement process. 
+3.21 Language of Bid 
+The bid and all documents relating to the bid, exchanged between a bidder and Procuring Agency, shall 
+either be in Urdu or English or both. The bidder shall bear all costs of translation to English or Urdu and 
+all risks of the accuracy of such translation. 
+3.22 Restarting Bidding Process from any Prior Stage 
+As per provision in Rule 35 (5), the procuring agency may, for reasons to be recorded in writing, restart 
+bidding process from any prior stage if it is possible without violating any principle of procurement 
+contained in rule 4 and shall immediately communicate the decision to the bidders. 
+3.23 Corrupt or Fraudulent Practices 
+3.23.1 The Procuring Agency Bidders, Contractors, and Contractors observe the highest standard of 
+ethics during the procurement and execution of contracts. “Corrupt practices” in respect of 
+procurement process, shall be as given in S-2 (d) of PPRA, Act, 2009. 
+3.23.2 Blacklisted Consultants and those found involved in “Corrupt Practices” are not allowed to 
+participate in bidding. Blacklisting will be dealt under S-17A of PPRA, Act, 2009 and as per 
+rule 21 and schedule appended with PPR-14 of PPR-14.
+
+[Page 23]
+Page 22 of 61 
+ 
+TERMS & CONDITIONS OF THE CONTRACT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contract Title: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Name of Contractor] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dated:
+
+[Page 24]
+Page 23 of 61 
+ 
+This CONTRACT AGREEMENT (this “Contract”) made as of the [day] of [month], [year], between 
+Punjab Education Foundation (the “Procuring Agency”), on one part, 
+ 
+and 
+ 
+[Full legal name of Contractor & Address], on  the  other  part  severally  liable  to  the  Procuring 
+Agency  for  all  of  the Contractor’s obligations under this Contract and is deemed to be included in 
+any reference to the term “the Contractor.” 
+ 
+RECITALS 
+WHEREAS, 
+ 
+(a) The Procuring Agency intends to spend a part of its budget / funds for making eligible payments 
+under this contract. Payments made under this contract will be subject, in all respects, to the terms 
+and conditions of the Contract in lieu of the goods as described in the contract.  
+(b) The Procuring Agency has requested the Contractor to provide certain goods as described in the 
+relevant Invitation to Bid notice and Bidding Document; and  
+(c) The Contractor, having represented to the Procuring Agency that it has the required professional 
+skills, personnel and technical resources, has agreed to provide such goods /services on the terms 
+and conditions set forth in this Contract. 
+NOW THIS AGREEMENT WITNESSETH AS FOLLOWS: 
+1. In this Agreement words and expressions shall have the same meanings as are respectively assigned to them 
+in the Conditions of Contract referred to. 
+2. The Contractor hereby covenants with the Procuring Agency to supply the goods and to remedy 
+damage therein, at the time and in the manner, in conformity in all respects with the provisions of 
+the Contract, in consideration of the payments to be made by the Procuring Agency to the Contractor.  
+3. The Procuring Agency hereby covenants with the Contractor to pay the Contractor, the Contract 
+Price as may become payable, at the times and in the manner, in conformity in all respects with the 
+provisions of the Contract, in consideration of provision of goods and remedying of damage therein.  
+4. The contract price for satisfactorily supplying all the goods, that the contractor is liable to provide 
+under the contract as per the scope mentioned in bidding documents, shall be Rs.____________. 
+5. The following shall be deemed to form and be read and construed as part of this Contract:  
+ 
+a. The Bidding Document  
+  
+b. Terms and Conditions of the Contract  
+c. Bidder’s Proposal  
+  
+d. Specifications 
+ 
+ 
+ 
+e. Price Schedule  
+ 
+f. Affidavit(s)  
+g. Performance Guarantee  
+6. This Contract shall prevail over all other documents. In the event of any discrepancy/ inconsistency 
+within the Contract, the above Documents shall prevail in the order listed above.
+
+[Page 25]
+Page 24 of 61 
+ 
+IN WITNESS whereof the Parties hereto have caused this Contract to be executed in accordance with 
+the Laws of Islamic Republic of Pakistan as of the day, month and year first indicated above. 
+ 
+For Punjab Education Foundation (PEF): 
+For [full legal name of the Contractor]: 
+ 
+Name :( As per CNIC) ---------------------- 
+ 
+Name :( As per CNIC) ------------------------ 
+Father Name: --------------------------------- 
+ 
+Father Name: ----------------------------------- 
+CNIC Number: ------------------------------- 
+ 
+CNIC Number: --------------------------------- 
+Designation: ---------------------------------- 
+ 
+Designation: ------------------------------------ 
+Address: --------------------------------------- 
+ 
+Address: ----------------------------------------- 
+Signature: ------------------------------------- 
+ 
+Signature: --------------------------------------- 
+Thumb Impression: -------------------------- 
+ 
+Thumb Impression: ---------------------------- 
+ 
+ 
+ 
+WITNESSES:   
+ 
+ 
+ 
+ 
+ 
+WITNESSES: 
+(First Party)  
+ 
+ 
+ 
+ 
+ 
+(Second Party) 
+Name: (As per CNIC) ----------------------- 
+ 
+Name: (As per CNIC) ----------------------- 
+Father Name: ---------------------------------   
+Father Name: --------------------------------- 
+CNIC Number: -------------------------------   
+CNIC Number: ------------------------------- 
+Designation: ---------------------------------- 
+ 
+Designation: ---------------------------------- 
+Address: --------------------------------------- 
+ 
+Address: --------------------------------------- 
+Signature: ------------------------------------- 
+ 
+Signature: ------------------------------------- 
+Thumb Impression: -------------------------- 
+ 
+Thumb Impression: --------------------------
+
+[Page 26]
+Page 25 of 61 
+ 
+4 
+SPECIAL CONDITIONS OF THE CONTRACT 
+4.1 
+Bid Scope 
+4.1.1 Punjab Education Foundation is running a model Public Private Partnership system and due to 
+its success, the programs of PEF are expanding by leaps and bounds. PEF invites sealed bids for 
+Procurement of Network Equipment (Firewall, Core Switches, Access Switches, WLAN Access 
+Controller with Access Point, IP PABX Exchange with IP Telephone Sets, Racks and UPS with 
+Batteries) for PEF's New Building.  
+4.1.2 The contractor will be responsible to deliver t he ordered Goods within 90 calendar days which 
+include delivery of Network Infrastructure & Equipment / Solution / Licenses etc. including 
+supply, installation, configuration, deployment, commissioning, testing, after-sale support, 
+warranty of ordered goods after issuance of purchase order. 
+4.1.3 Detail of required equipment is as under: 
+LOT No. 
+Sr. No. 
+Description of Item 
+QTY 
+ 
+ 
+ 
+A 
+1 
+Firewall 
+1 
+2 
+Core Switch 
+2 
+3 
+Access Switch  
+20 
+4 
+WLAN Access Controller with Access Point 
+2 + 30 
+5 
+Racks and PDU 
+2 + 4 
+6 
+IP Telephone Exchange and IP Phones  
+1+247 
+B 
+1 
+20 KVA UPS With Batteries 
+2 
+ 
+ 
+LOT 
+A 
+Item # 1 
+Firewall 
+QTY 
+01 
+Brands 
+Cisco/Fortinet/Huawei/H3C or equivalent  
+ 
+Technical specifications  
+Item # 1:                                                     FIREWALL                                                                 QTY: 01 
+Fixed ports ≥ 6* gigabit combo port,  ≥ 2* gigabit electrical port or more,   and ≥ 2* 10GE optical ports 
+The firewall throughput is 5 Gbit or more    
+The maximum number of concurrent connections is greater than or equal to 4 million, and the number of new 
+connections per second is greater than or equal to 80,000. 
+IPS throughput ≥ 2 Gbit/s 
+IPsec VPN throughput ≥ 3.6 Gbit/s 
+SSL VPN throughput ≥ 400 Mbit/s 
+ If the number of IPSec VPN tunnels is greater than or equal to 4000 and the number of concurrent SSL VPN 
+users is greater than or equal to 2000 and the number of concurrent SSL VPN users is greater than or equal to 
+2000, 100 users are free of charge. 
+Supports the virtual firewall system. Multiple independent logical devices can be divided on a physical 
+device. Each virtual system is equivalent to a real device. It has its own interface, address set, user/group, 
+routing entry, and policy. It can be configured and managed by the system administrator. It is not a Virtual 
+Routing Forwarding (VRF). Number of configured virtual firewalls ≥ 100 
+Standard rack-mounted 1U device  
+Should support redundant power supplies  
+Opens CLI control commands on the web management page of the device.
+
+[Page 27]
+Page 26 of 61 
+ 
+Supports the configuration of security policy rules based on the source IP address destination IP address  
+MAC address  service type, application type, security zone, and time range. 
+IPv4 and IPv6 addresses can be configured in a security policy. 
+When the security policy is blocked, the device can send feedback packets to quickly disconnect the 
+connection. 
+Supports routing protocols such as static routing, policy-based routing, RIP, OSPF, and BGP. 
+Supports SRv6, SRv6 TE policy, and EVPN L3VPN over SRv6 TE policy.  
+Matching conditions supported by PBR: source/destination IP address  service type, application type, user 
+(group), inbound interface, and DSCP priority 
+Supports PPPoE. Multiple hosts at a site can be connected to the same remote access device, and access 
+control and accounting are performed on the accessed hosts. 
+Supports the IPv6 protocol stack, IPv6 traversal technology, and IPv6 routing protocol. 
+IPv6 over IPv4 tunnels and 6RD tunnels are supported. 
+Supports NAT66 and NAT64. 
+Supports comprehensive NAT functions and the ALG function for multiple application layer protocol  
+including DN  FTP, H323, MSN, Netbio  PPTP, RSH, RTSP, SIP, and SQLnet. 
+Triplet NAT smart-fullcone.Supports the NAT address reuse technology to implement unlimited port 
+translation for a single public IP address  which effectively solves the problem of address shortage. 
+Supports application-layer flood attack such as HTTP, HTTP DN and SIP. Supports traffic self-learning. 
+Users can set the self-learning time and automatically generate anti-DDoS policies. 
+Supports the URL identification capability and URL identification database. The cloud URL identification 
+database is greater than or equal to 500 million  
+Number of identifiable application layer protocols ≥ 6000  
+User-defined signature rules and regular expressions are supported. 
+Supports antivirus for HTTP, FTP, SMTP, POP3, IMAP, and NFS protocols. 
+Supports IP reputation filtering to identify malicious IP addresses and defend against attacks such as Botnet, 
+mining, and APT.  
+Supports IP reputation filtering to identify malicious IP addresses and defend against attacks such as Botnet, 
+mining, and APT.  
+Supports SSL-encrypted traffic detection, decrypts SSL-encrypted traffic, performs content security check on 
+decrypted traffic, and detects and defends against hidden threats in SSL-encrypted traffic. 
+Server load balancing based on Layer 4 and Layer 7, load balancing algorithms such as round robin, 
+weighted round robin, least connection and source IP address hash, and session persistence 
+The device can proactively send interface traffic statistic CPU usage, or memory data to the collector using 
+the telemetry function.  
+Open northbound interface such as RESTCONF and NETCONF, to connect to third-party management 
+platforms. 
+Dual-system hot backup survival is supported. 
+3 years UTM bundle should be supported. 
+Warranty: Three (3) Year Parts and Labour local NBD warranty for all components on site 
+ 
+ 
+ 
+LOT 
+A 
+Item # 2 
+Core Switch 
+QTY 
+02 
+Brands 
+Cisco/Fortinet/Huawei/H3C or equivalent
+
+[Page 28]
+Page 27 of 61 
+ 
+Technical specifications 
+Item # 2:                                                         CORE SWITCH                                                      QTY: 02 
+Should support 48 x 10 Gig SFP+ including 20x 10 G SFP Modules  
+Support 6 x 40GE QSFP28 Ports (Minimum)  
+Device Switching Capacity Should be 2 Tbps (Minimum)  
+Should support 1 U, 1 Extended slot or more 
+1+1, Fans, 1+1 redundant power supply   
+MAC addresses up to 380,000 (minimum)  
+IPv4 routes up to 250,000 (minimum)  
+IPv6 routes up to 80,000 (minimum)  
+Should support 3.75 GB RAM or higher, 1.9 GB flash or higher, and a quad-core CPU at 1.3 GHz or higher 
+Should support dynamic and static MAC address entries  
+Packet filtering based on source MAC addresses  
+Support IEEE 802.1d  
+Should support dynamic and static MAC address entries  
+Packet filtering based on source MAC addresses  
+Static Route, OSPF,OSPFv3, IS-IS, BGP, BGP4+, MPLS-L3VPN, BGP EVPN and Equal Cost Multipath , 
+ERPS (G.8032) 
+BFD for OSPF, BFD for IS-IS, BFD, and BFD for PIM, STP (IEEE 802.1d), RSTP (IEEE 802.1w), MSTP 
+(IEEE 802.1s)  
+Rate limiting inbound/outbound directions of a port, WRED, Eight queues on every port  
+RBAC, DoS attack defense, port security, sticky MAC, AAA authentication, RADIUS authentication,  
+Should support LACP and LLDP  
+SNMP v1/v2c/v3, RMON, Web-based NMS  
+Warranty: One (1) Year Parts and Labour local NBD warranty for all components on site 
+ 
+ 
+LOT 
+A 
+Item # 3 
+Access Switch 
+QTY 
+20 
+Brands 
+Cisco/Fortinet/Huawei/H3C or equivalent  
+ 
+ 
+Technical specifications 
+Item # 3:                                                       ACCESS SWITCH                                QTY: 20 
+48 x 10/100/1000/2.5G Base-T ports  including 2x10 G SFP Modules 
+4 x 10GE SFP+ ports 
+1000 W PoE AC Power Supply or more  
+Switching Capacity should be 360 Gbps or more 
+Forwarding capacity: 270 Mpps or more 
+Support 735 W PoE Budget or more 
+Should support 4K ARP Entries, 4k FIBv4 , 2K ACL Rules 
+Should support 1.9 GB RAM or higher, 0.95 GB flash or higher, and a quad-core CPU at 1 GHz or higher 
+QinQ, LACP, STP, RSTP, ERPS, MSTP/PVST+, LLDP, Jumbo Frames 
+IPv4 Static Routing, RIP/RIPng, OSPFv2/v3, VRRPv4/v6. 
+Support MAC authentication and 802.1x authentication, Dynamic VLAN, Dynamic ACL, RADIUS CoA
+
+[Page 29]
+Page 28 of 61 
+ 
+CLI and Web interface (HTTPS) 
+Telnet, GVRP, SSH v2, RMON,SNMP v1, v2, and v3, Telemetry 
+Support NETCONF , Netstream or Netflow 
+OEM must be a Leader by Gartner LAN Wired and Wireless Magic Quadrant at least once in last 3 years 
+Warranty: One (1) Year Parts and Labour local NBD warranty for all components on site 
+ 
+ 
+ 
+LOT 
+A 
+Item # 4.1 
+WLAN Access Controller 
+QTY 
+02 
+Brands 
+Cisco/Fortinet/Huawei/H3C or equivalent  
+ 
+ 
+ 
+Technical specifications 
+Item # 4.1:                                WLAN ACCESS CONTROLLER                                                   QTY: 02 
+10 × GE RJ45, 2 × 10GE SFP+ 
+Forwarding Capacity: 10 Gbps or more 
+Maximum Managed APs: 500 or more 
+Maximum Users:  4,000 or more 
+Deployment Modes: Supports inline, bypass, bridge, and Mesh 
+Roaming Support: Load balancing and smart roaming 
+Interference Mitigation: Supports dynamic frequency assignment 
+Power Supply: Built-in or external AC/DC 
+Support Active/Standby Mode 1+1 
+Perpetual licenses for all quoted wireless access points must be included. 
+Routing Protocols: Static Route, RIPv1/v2, OSPF,OSPFv3,IS-IS, IS-IS v6, BGP, BGP4+, IGMPv1/v2/v3, 
+DHCPv6 
+Warranty: One (1) Year Parts and Labour local NBD warranty for all components on site 
+ 
+ 
+LOT 
+A 
+Item # 4.2 
+Access Points 
+QTY 
+30 
+Brands 
+Cisco/Fortinet/Huawei/H3C or equivalent  
+ 
+ 
+Technical specifications  
+Item # 4.2:                                           ACCESS POINT                                                                 QTY: 30 
+IEEE 802.11be compatibility with IEEE 802.11a/b/g/n/ac/ax 
+2x2 MIMO on 2.4Ghz, 4x4 MIMO on 5GHz band and 2x2 MIMO on 6GHz. or more 
+Tri-radio with 8 spatial streams or more  
+The AP should support system maximum rate up to 7.5 Gbps or more   
+The AP should have at least 1 x 1GE/2.5GE/5GE electrical port or more 
+PoE power supply: in compliance with 802.3at/af 
+USB interface can be used for external IoT expansion.
+
+[Page 30]
+Page 29 of 61 
+ 
+Support encryption protocols such as WPA, WPA2, and WPA3 
+The AP should support smart roaming. 
+Minimum 15 SSIDs for each radio or more  
+Bluetooth serial interface-based O&M 
+Beam forming MRC, STBC, CDD/CSD, LDPC Wlan features. 
+Warranty: One (1) Year Parts and Labour local NBD warranty for all components on site 
+ 
+ 
+ 
+LOT 
+A 
+Item # 5.1 
+Racks 
+QTY 
+02 
+Brands 
+Imported brand 
+ 
+ 
+Technical specifications 
+Item # 5.1:                                       42 U RACK                                      QTY: 02 
+Rack type / Purpose: 19″ freestanding IT rack enclosure, 42U height, intended for server / network equipment 
+deployment.  
+Rack capacity: 42U vertical mounting space. 
+Load capacity: Static load up to ~1200 kg; dynamic (rolling / casters) load up to ~600 kg 
+Front and rear perforated doors (ventilated) for airflow / ventilation.  
+Includes roof panel, side panels, pre-installed casters and leveling feet, baying hardware, mounting hardware, 
+key-lockable doors, PDU mounting brackets.  
+Integrated grounding for frame, doors and roof (earthing).  
+Compliant with standards: EIA-310E (19″ rack standard), UL 2 
+Finished in black powder-coating (standard for such data-center racks) 
+Ventilation / Airflow: Passive ventilation via perforated (mesh) doors; design suitable for server / network 
+equipment with proper airflow.  
+Warranty: One (1) Year Parts and Labour local warranty for all components on site 
+ 
+ 
+LOT 
+A 
+Item # 5.2 
+PDU for Racks 
+QTY 
+04 
+Brands 
+Imported brand 
+ 
+ 
+ 
+ 
+Technical specifications 
+Item # 5.2:                                                    PDU FOR RACK                                QTY: 04 
+PDU Type / Purpose: Metered rack PDU (power distribution unit) — vertical, Zero-U (does not occupy rack 
+U-space), designed for rack-mounted equipment.  
+Input / Output Electrical: 
+Input voltage: 200 / 208 / 230 V AC (single-phase)  
+Nominal output voltage: 230 V AC.
+
+[Page 31]
+Page 30 of 61 
+ 
+Maximum input current: 32 A.  
+Maximum load / power capacity: 7360 VA (approx. 7.36 kVA).  
+Outlets / Connectors: 
+Total AC outlets: 24 outlets — 20 × IEC 60320 C13, 4 × IEC 60320 C19.  
+Input connection: IEC 60309 (32A, 2-pole + Earth).  
+Physical / Mechanical: 
+Rack units: 0U (zero-U, mounts vertically on rack rear/side).  
+Dimensions: Height 1175 mm; Width 62 mm; Depth 44 mm.  
+Weight: ~ 3.72 kg.  
+Cord length: 3.0 m power cord (input).  
+Mounting: Vertical, side-mount or rear-mount in rack.  
+Management & Features: 
+Remote management: supports SNMP / HTTP / Telnet (enables metering / remote monitoring of power 
+consumption).  
+Metered — provides current / load monitoring via display / remote interface. 
+Certifications: CE, TÜV; compliance with safety and EMC standards.  
+Environmental / Operating Conditions: 
+Operating temperature: –5 °C to 45 °C.  
+Operating humidity: 5% to 95% (non-condensing).  
+Operating altitude: up to 3000 m above sea level (with derating past this altitude). 
+2x 2.5x2.5 main UPS Input/ Output Power Dbs with digital Meter, lights, and Industrial socket as per 
+requirement complete Installation 
+10 x 1 x 1 main UPS Input/ Output Power Dbs with digital Meter, lights, and Industrial socket as per 
+requirement complete Installation 
+Power Cable, 3Core 6mm delivery and installation for remote cabinet complete package required Breaker, 
+lights and meters end to end connectivity, power cable installation would be on existing trays and use PVC 
+pipe where required approximate length is 950 mtrs. 
+Warranty: One (1) Year Parts and Labour local warranty for all components on site 
+ 
+ 
+ 
+LOT 
+A 
+Item # 6.1 
+IP Telephone Exchange 
+QTY 
+01 
+Brands 
+Grandstream/Avaya/Panasonic or equivalent  
+ 
+ 
+Technical specifications 
+Item # 6.1:                                          IP PABX EXCHANGE                                                         QTY: 01 
+The IP PBX should support up to 3000 SIP users and up to 300 concurrent calls or more 
+Should support SIP v2, TCP/UDP, RTP/RTCP, SRTP, TLS, and related VoIP signaling protocols. 
+Must support FXS/FXO/E1 digital trunk interfaces depending on model configuration (e.g., 8/16/24 
+FXS/FXO, 1 × E1). 
+The device should support VoIP codecs including G.711A/U, G.722, G.726, G.729, iLBC, and GSM. 
+Should support Echo Cancellation (G.168) and VAD/PLC/Jitter Buffer features. 
+Must support Call features including call forwarding, call transfer, call waiting, call hold, call pickup, IVR, 
+voicemail, DISA, ring groups, conferencing, call recording, time conditions, and call queue.
+
+[Page 32]
+Page 31 of 61 
+ 
+Support for multi-level IVR, configurable menus, and custom prompts. 
+The IP PBX should provide Web-based management interface with administrator access control. 
+Should support Auto-provisioning for IP phones (via SIP/HTTP/HTTPS/TR-069). 
+Support NAT traversal, STUN, DDNS, and firewall security. 
+Must support recording via internal storage or external storage (USB/SATA/Network Storage). 
+Should support integration with CRM/HTTP API/AMI for third-party system integration. 
+The device should include Gigabit Ethernet interfaces (1 × WAN + 1 × LAN) or more. 
+Support TLS/SRTP encryption, fail2ban, IP blacklist, and firewall rules. 
+Should support hotline, intercom, paging, and multicast paging. 
+Must support redundancy options including failover and backup/restore. 
+The IP PBX should support SIP trunking and PSTN/I E1/FXO connectivity as per configuration. 
+Should support system capacity expansion through license upgrade. 
+Support for SNMP, Syslog, and real-time monitoring. 
+The IP PBX should operate on 110–240V AC power with built-in power supply. 
+Installation: rack-mountable (1U) with cooling fans for reliable performance. 
+Warranty: One (1) Year Parts and Labour local warranty for all components on site 
+ 
+ 
+ 
+LOT 
+A 
+Item # 6.2 
+IP Phones 
+QTY 
+240 
+Brands 
+Grandstream/Avaya/Panasonic or equivalent  
+ 
+ 
+ 
+Technical specifications 
+Item # 6.2:                                            IP PHONES (CATEGORY-01)                                        QTY: 240 
+Display / Interface: 2.8″ color TFT LCD (320 × 240) with backlight or higher 
+SIP / Lines / Accounts: Supports up to 6 SIP accounts.  
+Programmable Keys: 30 line-keys (plus soft keys and function keys) — fully programmable for speed-dial, 
+BLF / busy lamp field, calling features, etc.  
+Audio & Voice / Codec Support: 
+HD Voice (wideband) with support for codecs including G.722, OPUS-WB.  
+Also supports narrowband codecs: PCMA, PCMU, G.729, G723, G726, AMR, OPUS,  
+Features: Full-duplex speakerphone, echo cancellation / dynamic jitter buffer, voice activity detection 
+(VAD), comfort noise generation (CNG).  
+Network / Connectivity: 
+Dual-port Gigabit Ethernet (2 × RJ45 10/100 Mbps) — for LAN + PC / passthrough. or higher  
+Power over Ethernet (PoE) support (IEEE 802.3af) — power adapter also possible.  
+Call / PBX Features: 
+5-way audio conferencing.  
+Call features: call hold, call forward, call waiting, call transfer (blind/attended), speed dial, redial, auto-redial, 
+auto-answer, hotline, DND, mute,  
+Additional telephony features: call pickup (incl. group pickup), intercom, multicast paging, music on hold, 
+voicemail / MWI, SMS support, anonymous call / call rejection, call log and history.
+
+[Page 33]
+Page 32 of 61 
+ 
+Security / Protocols / Compatibility: 
+SIP v1 (RFC2543) and SIP v2 (RFC3261).  
+Support for SIP over TLS, SRTP (encrypted signaling / media).  
+Network protocols: TCP, UDP, RTP/RTCP, HTTP/HTTPS/FTP/TFTP, NAT traversal (STUN), DNS SRV / 
+A / NAT-PR queries, session timer (RFC4028), DTMF (In-Band, RFC2833, SIP INFO), LLDP.  
+Support for 802.1X and VPN (Open VPN) on some variants / firmware.  
+Management / Provisioning: 
+Auto-provisioning via FTP / TFTP / HTTP / HTTPS / PnP.  
+Web-based GUI configuration, firmware upgrade via web, network capture, SNMP / TR-069 support, syslog, 
+NTP / daylight-saving / timezone sync, config backup/restore, compatibility with NMS (Network 
+Management System).  
+Support for multiple remote phonebooks (e.g. 5 remote URL phonebooks), LDAP directory, large phonebook 
+(1000 groups), blacklist (100 entries), call logs (~100), multi-language support.  
+Power / Physical / Environmental: 
+Power: 5 V DC adapter or PoE (IEEE 802.3af).  
+Typical power consumption: ~ 1.8 W or more 
+Dimensions: approx. 201 × 203 × 42.5 mm (WxDxH without foot stand) or more 
+Weight: approx. 550 g (device) + 50 g (foot stand) or more 
+Handset / Headset interfaces: 4P4C (RJ9) for handset and headset; optional RJ12 expansion port for extra 
+modules.  
+Environmental operating conditions: 0 – 40 °C, 10% – 95% humidity (non-condensing).  
+Mounting: desk-stand or wall-mountable.  
+Warranty: One (1) Year Parts and Labour local warranty for all components on site 
+ 
+ 
+ 
+ 
+LOT 
+A 
+Item # 6.3 
+IP Phones 
+QTY 
+07 
+Brands 
+Grandstream/Avaya/Panasonic or equivalent  
+ 
+ 
+Technical specifications 
+Item # 6.3:                                    IP PHONES (CATEGORY-02)                                          QTY: 07 
+Display / Interface 
+7-inch IPS multi-touch screen or higher 
+Resolution: 1280×800 pixels (HD) or higher 
+Adjustable display angle: ~10° to ~70°.  
+Operating System & Platform 
+Runs Android 7.1 (built-in apps: calendar, gallery, web browser, search etc.). or higher 
+CPU / system: (per manual) — Pax unspecified in summary; but the manual lists system flash 16 GB, 
+eMMC, DDR3 RAM or higher 
+SIP / Accounts 
+Supports up to 4 SIP accounts  
+Supports SIP (standard SIP 2.0 / SIP signaling).
+
+[Page 34]
+Page 33 of 61 
+ 
+Audio / Video / Conferencing 
+Built-in 5-megapixel camera for video calls / video functions.  
+HD video support (video calling/camera + 10.1” screen).  
+6-way audio (conference) support.  
+Codec support (audio): G.711, G.722, G.729, and likely others depending on firmware (some lists mention 
+iLBC, SILK, OPUS, etc.).  
+Video codec support: H.264, VP8 (and support for H.265/MPEG-4 depending on firmware) per extended 
+specs.  
+Network / Connectivity / Interfaces 
+Dual-port Gigabit Ethernet (2 × RJ45 10/100/1000 Mbps).  
+Built-in WiFi (IEEE 802.11 b/g/n; some sources list 2.4 GHz WiFi) for wireless connectivity.  
+Bluetooth support (for headset or wireless accessories) built-in.  
+Storage: Micro-SD card slot (for additional storage/media).  
+USB 2.0 port (for U-disk, keyboard, mouse, etc.).  
+Power over Ethernet (PoE) support.  
+Built-in battery: 6000 mAh (useful for portability / backup) or higher.  
+Call / Phone / PBX Features 
+Basic telephony features: IP dialing, redial, call return, call hold, mute, DND, call waiting, call forward, 
+blind/attended transfer. 
+Voicemail / Message Waiting Indicator (MWI), SMS support.  
+Call transfer, three-way calling / conferencing, call log, speed dial, selectable ringtones.  
+DTMF support: In-Band, RFC2833, SIP INFO.  
+Security / Protocols / Management 
+Supports secure signaling/media: TLS, SRTP.  
+Network protocols: TCP/IP, UDP, RTP/RTCP, DHCP, DNS, HTTP/HTTPS, SNTP, XML, TR-069, etc.  
+Auto-provisioning: FTP, TFTP, HTTP, HTTPS, PnP.  
+Web-based configuration & upgrade, backup/restore, syslog, network capture, NTP/time sync.  
+SDK/API available for custom application development (since it’s Android based) — useful if you want 
+custom integrations.  
+Physical / Power / Miscellaneous 
+Power input: AC 100–220 V → DC 12V/1.5A (when using adapter) or PoE when using Ethernet.  
+Built-in rechargeable battery: 6000 mAh  or higher— allows use even without external power for some time.  
+Form factor: Stand / desk-type unit (not a wall phone), design suitable for office/desk.  
+Supports headset (RJ-9 handset port) or Bluetooth/USB headsets (per interface list).  
+Warranty / Support 
+Warranty: One (1) Year Parts and Labour local warranty for all components on site 
+ 
+ 
+LOT 
+B 
+Item # 1 
+20 KVA UPS With Batteries 
+QTY 
+02 
+Brands 
+APC/Vertiv or equivalent
+
+[Page 35]
+Page 34 of 61 
+ 
+Technical specifications 
+Item # 1:                       20 KVA UPS with Batteries                       QTY: 02 
+Output power capacity: 20 kVA / 20.0 kW or higher 
+Nominal output voltage: 400 V, 3-phase (also supports 380 V / 415 V)  
+Output voltage distortion (linear load): < 3%  
+Output voltage tolerance: ± 1.5% (or ±1% depending on variant / spec sheet)  
+Output frequency: 50 Hz or 60 Hz (synchronized to mains)  
+Topology: Double-conversion online (VFI)  
+Input voltage range: 304 – 477 V at full load (3-phase)  
+Input voltage options: 380 V, 400 V, 415 V  
+Input frequency range: 45 – 65 Hz  
+Input power factor (at full load): 0.99 Computaas+1 
+Maximum input current: ~37 A (at rated load)  
+Overload capacity: Supports overloads as per spec for standard loads (see overload / load-crest 
+Batteries for standard backup upto 15 Minutes on 70% load  
+UPS form factor: Free-standing (tower / floor-standing) model. 
+Communication / management support: Supports network-management — SNMP / remote-monitoring cards 
+/ interfaces  
+Built-in maintenance bypass: Yes (for service / maintenance without interrupting load) as per manufacturer 
+documentation / spec summary. 
+Dust filter, conformal-coated boards: Included — design suited for data center or harsh-environment 
+electrical rooms. 
+Battery type VRLA 
+Battery mounting Enclosed battery cartridge 
+Operating Temperature 0 - 40 °C 
+Operating Relative Humidity 0 - 95 (Non-condensing) % 
+Remote DB power cables installation, termination, laying and compete end to end connectivity is the 
+responsibility of the bidder. 
+Warranty: One (1) Year Parts and Labour local warranty for all components on site 
+4.1.4 Procuring Agency has the right to increase the quantities up to 15% under the clause of repeat 
+order during the period of contract. Contractor shall be liable to provide the goods on the issue 
+of repeat order. 
+4.1.5 Material of goods /services delivered shall be as per required specifications and details or better 
+than those. 
+4.1.6 Contractor will be responsible to provide defect free and brand new goods/services. Goods 
+bearing any defect, inferior in quality or not meeting specifications given in this bidding 
+document will not be accepted. No payment shall be made against such goods/services. 
+Contractor will be bound to replace such goods/services onsite without any additional payment. 
+4.1.7 In case of inferior quality goods/services, the performance guarantee may also be forfeited. 
+ 
+4.2     Contract Duration  
+A contract will be signed for a period of One (01) year from the date of signing of contract agreement. 
+Provided, any work awarded before the expiry of contract duration shall be completed even after the 
+contract duration is expired. Contractual liabilities and obligations will remain binding on the contractor 
+even after the expiry of duration of contract.
+
+[Page 36]
+Page 35 of 61 
+ 
+4.3 
+Performance Guarantee 
+The successful bidder shall furnish Performance Guarantee as under: 
+ 
+4.3.1 Within Fifteen (15) days of the receipt of the Acceptance Letter from the Procuring Agency; 
+4.3.2 In the form of Bank Guarantee / CDR / PO/ DD / BC issued by a scheduled bank operating in 
+Pakistan; 
+4.3.3 Personal or business cheque shall not be entertained in any case. 
+4.3.4 For a sum equivalent to 10% (Ten Percent) of the value of the contract. 
+4.3.5 In Pak Rupees; 
+4.3.6 Will be valid for a period of 36 Months from the date of delivery or till warranty period/ 
+settlement of any claim related to warranty, subject to issuance of Satisfactory Completion 
+Certificate by IT Directorate of PEF, whichever is later; 
+4.3.7 Performance guarantee will not be adjustable against any payment; 
+4.3.8 Punjab Education Foundation is not responsible to pay any interest/benefit on the amount 
+submitted as Performance Guarantee against this bid that could accumulate in the same period 
+by investing/ depositing in any bank or any other such institution/ organization; 
+4.3.9 The proceeds of the Performance Guarantee may be payable to the Procuring Agency, on 
+occurrence of any/ all of the following conditions: 
+4.3.9.1 If the contractor commits a default under the Contract; 
+4.3.9.2 If the contractor fails to fulfill any of the obligations under the Contract; 
+4.3.9.3 If the contractor violates any of the considerable terms and conditions of the Contract. 
+4.3.9.4 Contractor shall cause the validity period of the Performance Guarantee to be extended for such 
+period(s) as the contract performance may be extended. 
+4.4 
+Delivery  
+4.4.1 The contractor will have to deliver ordered Goods within 90 calendar days which include 
+delivery of Network Infrastructure & Equipment / Solution / Licenses etc. including supply, 
+installation, configuration, deployment, commissioning, testing, after-sale support, of ordered 
+goods after issuance of purchase order.  
+4.4.2 Contractor must provide and submit a serial numbers verification certificate issued by Principal 
+of delivered products. (online verifiable from Principal website) 
+4.4.3 Contractor will coordinate with PEF one (1) week prior to confirm the delivery location in 
+Lahore.  
+4.4.4 The contractor shall provide the required Goods/Services all the safety which is sufficient to 
+prevent the damage or deterioration during storage and transit to their final destination as 
+indicated in the contract. 
+4.4.5 The Goods shall remain at the risk and under the physical custody of the contractor until the 
+delivery and taking over of the Goods is completed.  
+4.4.6 The contractor will keep replacing the faulty parts provided by PEF during warranty period on 
+the complete of agreement life of the faulty parts without any cost.  
+4.4.7 The contractor shall ensure that the Goods/Services shall be delivered complete and as per 
+schedule of delivery. If it shall appear to the Procuring Agency that the Goods/Services have 
+been or are likely to be delayed by reason of incomplete delivery or for any other reasons, it 
+may require the contractor at the expense of the contractor to dispatch the right items of the 
+Goods/Services. 
+4.5 
+Extensions in Time for Performance of Obligations under the Contract  
+If the Contractor encounters conditions impeding timely performance of any of the obligations, under 
+the Contract, at least two days before delivery time, the Contractor shall, by written notice served on 
+the Procuring Agency, promptly indicate the facts of the delay, the likely duration and its cause(s). As 
+soon as practicable after receipt of such notice, the Procuring Agency shall evaluate the situation and 
+may, at its exclusive discretion, without prejudice to any other remedy it may have, by written order
+
+[Page 37]
+Page 36 of 61 
+ 
+served on the Contractor, extend the Contractor's time for performance of its obligations under the 
+Contract.  
+4.6 
+Liquidated Damages 
+4.6.1 In case extension in time under clause 4.5 is not granted by the Competent Authority of PEF, 
+0.2 % of the value of delayed goods against the Purchase order will be imposed as penalty per 
+day. However, total Liquidated Damages will not exceed beyond 10% of total contract price. 
+PEF might also blacklist and debar the contractor from participating in any public procurement 
+process of procuring agency in case of unnecessary delay in the execution of contract. 
+4.7 
+Satisfactory Completion Certificate for Goods/Services/Works 
+4.7.1 The Procuring Agency (Concerned Department) will issue Satisfactory Completion Certificate 
+to the Contractor upon successful completion of delivery of goods/services/works against issued 
+purchase order, which the Contractor is liable to provide in consideration of this Contract. 
+4.7.2 The Procuring Agency (Concerned Department) will issue Satisfactory Completion Certificate 
+to the Contractor upon successful completion of installation of goods/services/works against 
+issued purchase order, which the Contractor is liable to provide in consideration of this Contract. 
+4.8 
+Payment 
+4.8.1 Payment will be made as per following: 
+LOT # 
+Item Detail 
+Payment 
+LOT A 
+Firewall, Core Switch,Access Switch, 
+WLAN Access Controller with Access 
+Point, Racks and PDU, 
+IP Telephone Exchange and IP Phones 
+ 70% on delivery of equipment, subject to 
+verification. 
+ 30% on complete installation and testing, subject 
+to verification. 
+LOT B 
+20 KVA UPS With Batteries 
+100% on delivery of equipment, subject to 
+verification. 
+4.8.2 Payment shall not be made in advance and against partial deliveries against the Purchase order. 
+However, if the procuring agency delays or stops the deliveries of the Purchase order, partial 
+payment against the satisfactory partial deliveries shall be made promptly. 
+4.8.3 All payments shall be subject to any and all taxes, duties and levies applicable under the laws 
+of Pakistan. 
+4.8.4 Payment shall not be made in advance or against partial deliveries until Satisfactory Completion 
+Certificate is issued by the Procuring Agency. The Procuring Agency shall make payment for 
+the complete and defect free Goods/Services/Works supplied, to the Contractor, as per 
+Government policy, in Pak Rupees, through cheque/ PO/DD/CDR. No payment will be made 
+on unsatisfactory/defective delivery. 
+4.8.5 All type of government duties and taxes shall be dealt as per applicable laws of Pakistan at the 
+time of payment. Foundation shall not be responsible for increase in deduction of direct taxes 
+due to change in laws of Pakistan. 
+4.9 
+Contract Amendment 
+4.9.1 The Procuring Agency may at any time, by written notice served to the Contractor, alter or amend 
+the contract for any identified need/ requirement in the light of prevailing rules and regulations 
+/ Punjab Procurement Rules 2014.  
+4.9.2 The Contractor shall not execute any Change until and unless the Procuring Agency has allowed 
+the said Change, by written order served on the Contractor. 
+4.9.3 The Change, mutually agreed upon, shall constitute part of the obligations under this Contract, 
+and the provisions of the Contract shall apply to the said Change. 
+4.9.4 No variation or modification in the Contract shall be made, except by written amendment signed 
+by both the Procuring Agency and the Contractor, subject to approval of Competent Authority 
+of PEF.
+
+[Page 38]
+Page 37 of 61 
+ 
+4.10 Warranty 
+4.10.1 The Contractor shall warrant to the Procuring Agency that the Goods supplied by the Contractor, 
+under the Contract are genuine, brand new, non-refurbished of the most recent or current model, 
+imported through proper channel, and incorporate all recent improvements in design and 
+materials, unless provided otherwise in the contract. 
+4.10.2 The Contractor shall further warrant that the Goods/Services supplied by the Contractor, under 
+the Contract shall have no defect, arising from design, materials, workmanship or from any act 
+or omission of the Contractor that may develop under normal use of the supplied Goods/Services. 
+4.10.3 The Contractor shall provide Three (3) Years Parts and Labour local on-site warranty for 
+FIREWALL and One (1) Year Parts and Labour local on-site warranty for the all remaining 
+items except FIRWALL, from the date of delivery (hereinafter referred as Warranty Period, 
+Labour, local warranty for all components on site). Moreover, contractor shall provide the 
+warranty related services within 48 hours down time for all components including replacement 
+of the whole unit.  
+4.10.4 The Warranty Period shall start from successful delivery and satisfactory completion of 
+installation date of the Goods on site. 
+4.10.5 The Procuring Agency shall promptly indicate any claim(s) arising under the warranty by written 
+notice to the Contractor. 
+4.10.6 The Contractor shall, within the 48 Hours, after receipt of such notice, replace the defective / 
+damaged Goods thereof on site, without any cost to the Procuring Agency. 
+4.10.7 The end user warranties and end user contracting support services shall be in the name of 
+Purchaser, for the Goods supplied, the Services provided and the Works done, under the 
+Contract. 
+4.11 Provision of Compliant, Brand New and Defect Free Goods/Services/Works 
+4.11.1 The Contractor shall ensure that the goods supplied by the Contractor, under the Contract are 
+brand new, unexpired, non-refurbished, compliant to specifications mentioned in this bidding 
+document or better than those, incorporate all recent improvements in design, otherwise the 
+delivery shall not be accepted. 
+4.11.2 The Contractor shall further warrant that the Goods/Services/Works supplied by the Contractor, 
+under the Contract shall have no defect, arising from design, materials, workmanship or from 
+any act or omission of the Contractor that may develop under normal use of the supplied 
+Goods/Services. 
+4.11.3 The Procuring Agency shall, by written notice served on the Contractor, promptly indicate any 
+claim(s) related to expired, used or defected goods/service/works. 
+4.11.4 The Contractor shall, within the prescribed time period, after receipt of such notice, repair or 
+replace the defective / damaged Goods/Services/Works or parts thereof on site, without any cost 
+to the Procuring Agency. 
+ 
+5 
+General Conditions of Contract 
+5.1 
+Contract  
+The successful bidder shall, after submitting the Performance Guarantee, sign the Contract within 
+fifteen (15) days of receiving of Acceptance Letter from the Procuring Agency.  
+5.2 
+Contract Cost  
+The Contractor shall bear all costs/ expenses associated with the preparation of the Contract and the 
+Procuring Agency shall in no case be responsible/ liable for those costs/ expenses. The successful 
+bidder shall provide legal stamp papers of relevant value according to Govt. rules and regulations for 
+signing of the formal contract.  
+5.3 
+Contract Documents and Information  
+The Contractor shall not, without the Procuring Agency's prior written consent, make use of the
+
+[Page 39]
+Page 38 of 61 
+ 
+Contract, or any provision thereof, or any document(s), specifications or information furnished by or 
+on behalf of the Procuring Agency in connection therewith, except for purposes of performing the 
+Contract or disclose the same to any person other than a person employed by the Contractor in the 
+performance of the Contract. Disclosure to any such employed person shall be made in confidence and 
+shall extend only as far as may be necessary for purposes of such performance. 
+5.4 
+Contract Language  
+The Contract and all documents relating to the Contract, exchanged between the Contractor and the 
+Procuring Agency, shall either be in Urdu or English or both. The Contractor shall bear all costs of 
+translation to English or Urdu and all risks of the accuracy of such translation.  
+5.5 
+Standards  
+The goods provided under this Contract shall conform to the authoritative latest industry standards. 
+5.6 
+Patent Right  
+The Contractor shall indemnify and hold the Procuring Agency harmless against all third party claims 
+of infringement of patent, trademark or industrial design rights arising from use of the goods or any 
+part thereof.  
+5.7 
+Inspection and Verification 
+The Procuring Agency may reject the goods if they fail to conform to the specifications, in any 
+inspection(s) and the Contract may be allowed to make all alteration necessary to meet the 
+specifications in coordination with Procuring Agency’s concerned department, free of cost to the 
+Procuring Agency. 
+The Procuring Agency or its representative shall have the right to inspect and/or to test the goods and 
+to confirm their conformity to the contract specifications at no extra cost to the Procuring Agency. All 
+costs associated with testing shall be borne by the contractor. 
+The Procuring Agency’s right to inspect, test and, where necessary, reject the goods either at 
+contractor’s premises or upon arrival at Procuring Agency’s destination shall in no way be limited or 
+waived by reason of the goods having previously been inspected tested, and passed by the Procuring 
+Agency or its representative prior to the goods delivery from the point of Supply or manufacturing. 
+5.8 
+Packing 
+The contractor shall provide such packing of the goods which is sufficient to prevent their damage or 
+deterioration during storage / transit to their final destination as indicated in the contract. The contractor 
+shall arrange and pay for the packing of goods for delivery to the destination as specified in the contract, 
+and the related cost shall be included in the quoted bid. 
+5.9 
+Labeling 
+The goods supplied under the contract, shall be clearly labeled which shall correspond to the delivery 
+documentation, with proper labeling scheme for identification of goods. 
+5.10 Assignment / Subcontract 
+5.10.1 The Contractor shall not assign or sub-contract its obligations under the Contract, in whole or 
+in part, except with the Procuring Agency's prior written consent.  
+5.10.2 The Contractor shall guarantee that any and all assignees of the Contractor shall, for 
+performance of any part/ whole of the goods under the contract, comply fully with the terms 
+and conditions of the Contract applicable to such part/ whole of the goods under the contract. 
+5.11 Blacklisting  
+The Procuring Agency may, for a specified period, debar a bidder or contractor from participating in 
+any public procurement process of procuring agency, if the bidder or contractor has: 
+(a) Acted in a manner detrimental to the public interest or work practices; 
+(b) Consistently failed to perform his/ her obligation under the contract; 
+(c) Not performed the contract up to the mark; or 
+(d) Indulged in any corrupt practice.
+
+[Page 40]
+Page 39 of 61 
+ 
+5.12 Termination for Default 
+5.12.1 The Procuring Agency, without prejudice to any other remedy for breach of Contract, by written 
+notice of default sent to the Contractor, may terminate this Contract in whole or in part: 
+(a) 
+if the Contractor fails to deliver any or all of the Goods within the period(s) specified in the 
+Contract, or within any extension thereof granted by the Procuring Agency pursuant to GCC 
+Clause 22;  
+(b) 
+if the Contractor fails to perform any other obligation(s) under the Contract; or 
+(c) 
+if the Contractor, in the judgment of the Procuring Agency has engaged in corrupt practices 
+in competing for or in executing the Contract. For the purpose of this clause, corrupt 
+practices will be defined as per Section-2 (d) of The PPRA Act, 2009. 
+ 
+“Corrupt practices” in respect of procurement process, shall be as given in S-2 (d) of PPRA, 
+Act, 2009: 
+(d)  
+“corrupt practice” means the offering, giving, receiving, or soliciting of anything of value 
+to influence the action of a public official, bidder or Contractor in the procurement process 
+or in Contract execution to the detriment of the procuring agency; or misrepresentation of 
+facts in order to influence a procurement process or the execution of a Contract, collusive 
+practices among bidders (prior to or after bid submission) designed to establish bid prices 
+at artificial, noncompetitive levels and to deprive the procuring agency of the benefits of 
+free and open competition and any request for, or solicitation of anything of value by any 
+public official in the course of the exercise of his duty; it may include any of the following: 
+i. 
+coercive practice by impairing or harming, or threatening to impair or harm, directly or 
+indirectly, any party or the property of the party to influence the actions of a party to achieve a 
+wrongful gain or to cause a wrongful loss to another party; 
+ii. 
+collusive practice by arrangement between two or more parties to the procurement process or 
+Contract execution, designed to achieve with or without the knowledge of the procuring agency 
+to establish prices at artificial, noncompetitive levels for any wrongful gain; 
+iii. 
+offering, giving, receiving or soliciting, directly or indirectly, of anything of value to influence 
+the acts of another party for wrongful gain; 
+iv. 
+any act or omission, including a misrepresentation, that knowingly or recklessly misleads, or 
+attempts to mislead, a party to obtain a financial or other benefit or to avoid an obligation;  
+v. 
+obstructive practice by harming or threatening to harm, directly or indirectly, persons or their 
+property to influence their participation in a procurement process, or affect the execution of a 
+Contract or deliberately destroying, falsifying, altering or concealing of evidence material to 
+the investigation or making false statements before investigators in order to materially impede 
+an investigation into allegations of a corrupt, fraudulent, coercive or collusive practice; or 
+threatening, harassing or intimidating any party to prevent it from disclosing its knowledge of 
+matters relevant to the investigation or from pursuing the investigation, or  acts intended to 
+materially impede the exercise of inspection and audit process
+
+[Page 41]
+Page 40 of 61 
+ 
+5.12.2 In the event the Procuring Agency terminates the Contract in whole or in part, pursuant to GCC 
+Clause 5.12.1, the Procuring Agency may procure, upon such terms and in such manner as it 
+deems appropriate, Goods or Services similar to those undelivered, and the Contractor shall be 
+liable to the Procuring Agency for any excess costs for such similar Goods or Services.  
+However, the Contractor shall continue performance of the Contract to the extent not 
+terminated. 
+5.13 Termination for Insolvency 
+5.13.1 The Procuring Agency may at any time terminate the Contract by giving written notice to the 
+Contractor if the Contractor becomes bankrupt or otherwise insolvent.  In this event, termination 
+will be without compensation to the Contractor, provided that such termination will not 
+prejudice or affect any right of action or remedy which has accrued or will accrue thereafter to 
+the Procuring Agency. 
+Use of Contract Documents and Information; Inspection and Audit by the procuring agency. 
+5.13.2 The Contractor shall not, without the Procuring Agency’s prior written consent, disclose the 
+Contract, or any provision thereof, or any specification, plan, drawing, pattern, sample, or 
+information furnished by or on behalf of the Procuring Agency in connection therewith, to any 
+person other than a person employed by the Contractor in the performance of the Contract.  
+Disclosure to any such employed person shall be made in confidence and shall extend only so 
+far as may be necessary for purposes of such performance. 
+5.13.3 The Contractor shall not, without the Procuring Agency’s prior written consent, make use of any 
+document or information enumerated in GCC Clause 5.1 except for purposes of executing the 
+Contract. 
+5.13.4 Any document, other than the Contract itself, enumerated in GCC Clause 5.1 shall remain the 
+property of the Procuring Agency and shall be returned (all copies) to the Procuring Agency on 
+completion of the Contractor’s performance under the Contract if so required by the Procuring 
+Agency. 
+5.13.5 The Contractor shall permit the Procuring Agency to inspect the Contractor’s accounts and 
+records relating to the performance of the Contractor and to have them audited by auditors 
+appointed by the donors, if so required by the donors. 
+5.14 Force Majeure 
+5.14.1 Notwithstanding the provisions of GCC Clauses 22, 23, and 24, the Contractor shall not be liable 
+for forfeiture of its Performance Guarantee, liquidated damages, or termination for default if and 
+to the extent that its delay in performance or other failure to perform its obligations under the 
+Contract is the result of an event of Force Majeure. 
+5.14.2 For purposes of this clause, “Force Majeure” means an event beyond the control of the 
+Contractor and not involving the Contractor’s fault or negligence and not foreseeable.  Such 
+events may include,   but are not restricted to, acts of the Procuring Agency in its sovereign 
+capacity, wars or revolutions, fires, floods, epidemics, quarantine restrictions, and freight 
+embargoes. Both, the Procuring Agency and the Contractor, may agree to exclude certain 
+widespread conditions e.g: epidemics, pandemics, quarantine restrictions etc from the purview 
+of “Force Majeure”.
+
+[Page 42]
+Page 41 of 61 
+ 
+5.14.3 If a Force Majeure situation arises, the Contractor shall promptly notify the Procuring Agency 
+in writing of such condition and the cause thereof.  Unless otherwise directed by the Procuring 
+Agency in writing, the Contractor shall continue to perform its obligations under the Contract as 
+far as is reasonably practical, and shall seek all reasonable alternative means for performance 
+not prevented by the Force Majeure event. Any difference of opinion concerning “Force 
+Majeure” may be decided through means given herein below.  
+5.15 Dispute Resolution  
+5.15.1 The Procuring Agency and the Contractor shall make every effort to amicably resolve, by direct 
+informal negotiation, any disagreement or dispute arising between them under or in connection 
+with the Contract. 
+5.15.2 Any dispute or difference arising under or out of this Contract or interpretation of any terms 
+hereof shall be settled through mutual discussions conducted in good faith within a period of 
+thirty (30) business days. Any dispute which cannot be settled amicably within thirty (30) 
+business days shall be referred to arbitration under Arbitration Act, 1940 (as amended from 
+time to time). The arbitration to be held at PEF Head Office Lahore in English language, by a 
+sole arbitrator to be appointed with the mutual consent of the Parties or by the competent court 
+in case the Parties have disagreement in this regard. The Parties shall bear their cost for 
+arbitration unless otherwise required under the arbitration award. The arbitration award shall be 
+final and binding on the Parties and the enforcement of the award can be made through the court 
+of relevant jurisdiction. 
+5.16 Statutes and Regulations  
+5.16.1 The Contract shall be governed by and interpreted in accordance with the laws of Pakistan.  
+5.16.2 The Contractor shall, in all matters arising in the performance of the Contract, conform, in all 
+respects, with the provisions of all Central, Provincial and Local Laws, Statutes, Regulations 
+and By-Laws in force in Pakistan, and shall give all notices and pay all fees required to be given 
+or paid and shall keep the Procuring Agency indemnified against all penalties and liability of 
+any kind for breach of any of the same.  
+5.17 Authorized Representative  
+5.17.1 The Procuring Agency or the Contractor may, at their exclusive discretion, appoint their 
+Authorized Representative and may, from time to time, delegate any/ all of the duties/ authority, 
+vested in them, to their authorized Representative(s), including but not limited to, signing on 
+their behalf to legally bind them, and may, at any time, revoke such delegation.  
+5.17.2 The Authorized Representative shall only carry out such duties and exercise such authority as 
+may be delegated to him/her, by the Procuring Agency or the Contractor.  
+5.17.3 Any such delegation or revocation shall be in writing and shall not take effect until notified to 
+the other parties to the Contract. 
+5.17.4 Any decision, instruction or approval given by the Authorized Representative, in accordance 
+with such delegation, shall have the same effect as though it had been given by the Principal. 
+ 
+IN WITNESS whereof the Parties hereto have caused this Contract to be executed in accordance with 
+the laws of Islamic Republic of Pakistan as of the day, month and year first indicated above.
+
+[Page 43]
+Page 42 of 61 
+ 
+For Punjab Education Foundation (PEF): 
+For [full legal name of the Contractor]: 
+Name :( As per CNIC) ---------------------- 
+ 
+Name :( As per CNIC) ------------------------ 
+Father Name: --------------------------------- 
+ 
+Father Name: ----------------------------------- 
+CNIC Number: ------------------------------- 
+ 
+CNIC Number: --------------------------------- 
+Designation: ---------------------------------- 
+ 
+Designation: ------------------------------------ 
+Address: --------------------------------------- 
+ 
+Address: ----------------------------------------- 
+Signature: ------------------------------------- 
+ 
+Signature: --------------------------------------- 
+Thumb Impression: -------------------------- 
+ 
+Thumb Impression: ----------------------------  
+WITNESSES:   
+ 
+ 
+ 
+ 
+WITNESSES: 
+(First Party)  
+ 
+ 
+ 
+ 
+(Second Party) 
+Name: (As per CNIC) ----------------------- 
+ 
+Name: (As per CNIC) ----------------------- 
+Father Name: ---------------------------------   
+Father Name: --------------------------------- 
+CNIC Number: -------------------------------   
+CNIC Number: ------------------------------- 
+Designation: ---------------------------------- 
+ 
+Designation: ---------------------------------- 
+Address: --------------------------------------- 
+ 
+Address: --------------------------------------- 
+Signature: ------------------------------------- 
+ 
+Signature: ------------------------------------- 
+Thumb Impression: -------------------------- 
+ 
+Thumb Impression: --------------------------
+
+[Page 44]
+Page 43 of 61 
+ 
+ 
+6 
+SPECIAL STIPULATIONS (BID DATA SHEET) 
+ 
+Punjab Education Foundation 
+Reference 
+(Clause of 
+this 
+document) 
+Description 
+Details 
+Clause 1.3 
+Bidding procedure 
+Single stage – Two Envelope Procedure 
+Clause 
+2.1.1 
+Last date and time for the 
+Submission of bidding 
+document. 
+11:00 am on April 15th , 2026 at 52-L, Gulberg 
+– III near Kalma Chowk, Lahore. 
+Clause 
+2.1.2 
+Date, time and venue of 
+opening of technical 
+11:30 am on April 15th , 2026 at 52-L, Gulberg 
+– III near Kalma Chowk, Lahore. 
+Clause 
+3..9.4 
+Bid Security 
+Rs. 1,170,418 for Lot-A and Rs. 192,383 for 
+Lot-B (2% of price of procurement estimated by 
+PEF) 
+Clause 
+3.9.4 
+Estimated Price by PEF 
+Rs. 58,520,909/- for Lot-A and  
+Rs. 9,619,148/- for Lot-B 
+Clause 
+4.3.5 
+Currency of Bid Evaluation 
+Pak Rupee 
+Clause 3.10 
+Bid validity period 
+120 Days 
+Clause 3.21 
+Language of bid 
+Urdu or English or both 
+Clause 3.17 
+Technical and Financial 
+Evaluation of Proposal  
+As per relevant clause 
+Clause 4.3 
+Performance Guarantee 
+As per relevant clause 
+Clause 4.4 
+Delivery 
+As per relevant clause 
+Clause 4.6 
+Liquidated damages for 
+failure / delay in supply of 
+goods by the Contractor 
+As per relevant clause 
+Clause 
+2.1.6 
+Contact Person for 
+Communication 
+Name: Mr. Muzaffar Iqbal 
+Designation: Deputy Director (IT) 
+Contact No: 99232791 Ext.41 
+Email: muzaffar.iqbal@pef.edu.pk
+
+[Page 45]
+Page 44 of 61 
+ 
+ 
+7 
+ANNEXURE  
+ 
+ANNEXURE-A (Attach with Technical Proposal) 
+To be Submitted on Legal Stamp Paper of Rs. 300/- with Technical Proposal 
+ 
+UNDERTAKING 
+ 
+It is certified that the information furnished here in and as per the document submitted is true and 
+correct and nothing has been concealed or tampered with. We have gone through all the conditions of 
+Bid and are liable to any punitive action for furnishing false information/ documents. 
+ 
+We undertake that we are not blacklisted in Punjab Education Foundation or PPRA. The 
+documents/photocopies provided with Bid are authentic. In case of any fake/bogus document look at 
+any stage. The Procuring Agency may black list our firm as per Rules / Laws. 
+  
+Dated this _____ day of ____________________ 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+Signature 
+ 
+(Official Stamp) 
+ 
+Thumb Impression 
+__________________ 
+__________________ 
+__________________ 
+In the capacity of: 
+ 
+ 
+ 
+Duly authorized to sign bids for and on behalf of: (Bidder Name) 
+ 
+ 
+(Attestation by Notary Public/ Oath Commissioner)
+
+[Page 46]
+Page 45 of 61 
+ 
+ 
+ 
+ANNEXURE-B (On Official Letter Head with Technical Proposal) 
+ 
+FORMAT FOR COVERING LETTER 
+To 
+ 
+ 
+Punjab Education Foundation 
+ 
+52-L, Gulberg – III near Kalma Chowk, Lahore. 
+ 
+Subject: 
+TENDER FOR PROCUREMENT OF NETWORK EQUIPMENT (FIREWALL, 
+CORE SWITCHES, ACCESS SWITCHES, WLAN ACCESS CONTROLLER, 
+ACCESS POINT, RACKS, IP TELEPHONE EXCHANGE & IP PHONES, UPS 
+WITH BATTERIES) FOR PEF NEW BUILDING 
+Dear Concerned, 
+ 
+a) Having examined the Bidding document, emails sent for information and Appendixes we, the 
+undersigned, in conformity with the said document, offer to provide the said goods/ services/ 
+works on terms of reference to be signed upon the award of Contract for the sum indicated as 
+per Price Schedule.  
+b) We undertake that the financial proposal submitted by us includes price of all the items as per 
+the technical specifications and requirements of this Bidding document. No item is mentioned 
+as an option for which additional price will be demanded afterwards in addition to the financial 
+bid. 
+ 
+c) We undertake, if our proposal is accepted, to provide the goods/ services mentioned in the 
+Contract within time frame specified, starting from the date of receipt of notification of award 
+from the client Department / Office.  
+ 
+d) We agree to abide by this proposal for the period of 120 days (as per requirement of the project) 
+from the date of bid opening and it shall remain binding upon us and may be accepted at any 
+time before the expiration of that period.  
+ 
+e) We agree to execute a Contract in the form to be communicated by the Punjab Education 
+Foundation incorporating all agreements with such alterations or additions thereto as may be 
+necessary to adapt such agreement to the circumstances of the standard.  
+ 
+f) We understand that you are not bound to accept a lowest or any bid you may receive, not to 
+justify for rejection of any bid and that you will not defray any expenses incurred by us in 
+biding. 
+ 
+Name and Designation of Signatory 
+_________________________ 
+ 
+Authorized Signatures with Official Stamp
+
+[Page 47]
+Page 46 of 61 
+ 
+ANNEXURE-C (To be submitted on Official Letter Head) 
+TECHNICAL SPECIFICATIONS  
+I hereby undertake that we have examined the specifications and allied terms and conditions stipulated 
+below. We shall be liable to provide the goods as per the terms and conditions and specifications given 
+below, or better than that, and we quote brand/model name against the following items: 
+ 
+LOT 
+No. 
+Sr No. 
+Description of Item 
+QTY 
+ 
+ 
+ 
+A 
+1 
+Firewall 
+1 
+2 
+Core Switch 
+2 
+3 
+Access Switch  
+20 
+4 
+WLAN Access Controller with Access Point 
+2 + 30 
+5 
+Racks and PDU 
+2 + 4 
+6 
+IP Telephone Exchange and IP Phones  
+1+247 
+B 
+1 
+20 KVA UPS With Batteries 
+2 
+ 
+ 
+LOT 
+A 
+Item # 1 
+Firewall 
+QTY 
+01 
+Brands 
+Cisco/Fortinet/Huawei/H3C or equivalent  
+ 
+ 
+ 
+Technical specifications 
+ 
+Item # 1:                            FIREWALL                                                        QTY: 01 
+ 
+Fixed ports ≥ 6* gigabit combo port,  ≥ 2* gigabit electrical port or more,   and ≥ 2* 
+10GE optical ports 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quoted 
+brand/model 
+name 
+ 
+The firewall throughput is 5 Gbit or more    
+The maximum number of concurrent connections is greater than or equal to 4 million, 
+and the number of new connections per second is greater than or equal to 80,000. 
+IPS throughput ≥ 2 Gbit/s 
+IPsec VPN throughput ≥ 3.6 Gbit/s 
+SSL VPN throughput ≥ 400 Mbit/s 
+ If the number of IPSec VPN tunnels is greater than or equal to 4000 and the number of 
+concurrent SSL VPN users is greater than or equal to 2000 and the number of concurrent 
+SSL VPN users is greater than or equal to 2000, 100 users are free of charge. 
+Supports the virtual firewall system. Multiple independent logical devices can be divided 
+on a physical device. Each virtual system is equivalent to a real device. It has its own 
+interface, address set, user/group, routing entry, and policy. It can be configured and 
+managed by the system administrator. It is not a Virtual Routing Forwarding (VRF). 
+Number of configured virtual firewalls ≥ 100 
+Standard rack-mounted 1U device  
+Should support redundant power supplies  
+Opens CLI control commands on the web management page of the device. 
+Supports the configuration of security policy rules based on the source IP address 
+destination IP address  MAC address  service type, application type, security zone, and 
+time range.
+
+[Page 48]
+Page 47 of 61 
+ 
+IPv4 and IPv6 addresses can be configured in a security policy. 
+When the security policy is blocked, the device can send feedback packets to quickly 
+disconnect the connection. 
+Supports routing protocols such as static routing, policy-based routing, RIP, OSPF, and 
+BGP. 
+Supports SRv6, SRv6 TE policy, and EVPN L3VPN over SRv6 TE policy.  
+Matching conditions supported by PBR: source/destination IP address  service type, 
+application type, user (group), inbound interface, and DSCP priority 
+Supports PPPoE. Multiple hosts at a site can be connected to the same remote access 
+device, and access control and accounting are performed on the accessed hosts. 
+Supports the IPv6 protocol stack, IPv6 traversal technology, and IPv6 routing protocol. 
+IPv6 over IPv4 tunnels and 6RD tunnels are supported. 
+Supports NAT66 and NAT64. 
+Supports comprehensive NAT functions and the ALG function for multiple application 
+layer protocol  including DN  FTP, H323, MSN, Netbio  PPTP, RSH, RTSP, SIP, and 
+SQLnet. 
+Triplet NAT smart-fullcone.Supports the NAT address reuse technology to implement 
+unlimited port translation for a single public IP address  which effectively solves the 
+problem of address shortage. 
+Supports application-layer flood attack such as HTTP, HTTP DN and SIP. Supports 
+traffic self-learning. Users can set the self-learning time and automatically generate anti-
+DDoS policies. 
+Supports the URL identification capability and URL identification database. The cloud 
+URL identification database is greater than or equal to 500 million  
+Number of identifiable application layer protocols ≥ 6000  
+User-defined signature rules and regular expressions are supported. 
+Supports antivirus for HTTP, FTP, SMTP, POP3, IMAP, and NFS protocols. 
+Supports IP reputation filtering to identify malicious IP addresses and defend against 
+attacks such as Botnet, mining, and APT.  
+Supports IP reputation filtering to identify malicious IP addresses and defend against 
+attacks such as Botnet, mining, and APT.  
+Supports SSL-encrypted traffic detection, decrypts SSL-encrypted traffic, performs 
+content security check on decrypted traffic, and detects and defends against hidden 
+threats in SSL-encrypted traffic. 
+Server load balancing based on Layer 4 and Layer 7, load balancing algorithms such as 
+round robin, weighted round robin, least connection and source IP address hash, and 
+session persistence 
+The device can proactively send interface traffic statistic CPU usage, or memory data to 
+the collector using the telemetry function.  
+Open northbound interface such as RESTCONF and NETCONF, to connect to third-
+party management platforms. 
+Dual-system hot backup survival is supported. 
+3 years UTM bundle should be supported. 
+Warranty: Three (3) Year Parts and Labour local NBD warranty for all components on 
+site 
+ 
+LOT 
+A 
+Item # 2 
+Core Switch 
+QTY 
+02 
+Brands 
+Cisco/Fortinet/Huawei/H3C or equivalent
+
+[Page 49]
+Page 48 of 61 
+ 
+ 
+ 
+ 
+Technical specifications 
+ 
+Item # 2:                                                         CORE SWITCH                        
+QTY: 02 
+ 
+Should support 48 x 10 Gig SFP+ including 20x 10 G SFP Modules  
+ 
+ 
+ 
+ 
+ 
+ 
+Quoted 
+brand/model 
+name 
+ 
+Support 6 x 40GE QSFP28 Ports (Minimum)  
+Device Switching Capacity Should be 2 Tbps (Minimum)  
+Should support 1 U, 1 Extended slot or more 
+1+1, Fans, 1+1 redundant power supply   
+MAC addresses up to 380,000 (minimum)  
+IPv4 routes up to 250,000 (minimum)  
+IPv6 routes up to 80,000 (minimum)  
+Should support 3.75 GB RAM or higher, 1.9 GB flash or higher, and a quad-core CPU at 
+1.3 GHz or higher 
+Should support dynamic and static MAC address entries  
+Packet filtering based on source MAC addresses  
+Support IEEE 802.1d  
+Should support dynamic and static MAC address entries  
+Packet filtering based on source MAC addresses  
+Static Route, OSPF,OSPFv3, IS-IS, BGP, BGP4+, MPLS-L3VPN, BGP EVPN and 
+Equal Cost Multipath , ERPS (G.8032) 
+BFD for OSPF, BFD for IS-IS, BFD, and BFD for PIM, STP (IEEE 802.1d), RSTP 
+(IEEE 802.1w), MSTP (IEEE 802.1s)  
+Rate limiting inbound/outbound directions of a port, WRED, Eight queues on every port  
+RBAC, DoS attack defense, port security, sticky MAC, AAA authentication, RADIUS 
+authentication,  
+Should support LACP and LLDP  
+SNMP v1/v2c/v3, RMON, Web-based NMS  
+Warranty: One (1) Year Parts and Labour local NBD warranty for all components on 
+site 
+ 
+ 
+LOT 
+A 
+Item # 3 
+Access Switch 
+QTY 
+20 
+Brands 
+Cisco/Fortinet/Huawei/H3C or equivalent  
+ 
+ 
+Technical specifications 
+ 
+Item # 3:                                                       ACCESS SWITCH                      
+QTY: 20 
+ 
+48 x 10/100/1000/2.5G Base-T ports  including 2x10 G SFP Modules 
+ 
+ 
+ 
+ 
+4 x 10GE SFP+ ports 
+1000 W PoE AC Power Supply or more  
+Switching Capacity should be 360 Gbps or more
+
+[Page 50]
+Page 49 of 61 
+ 
+Forwarding capacity: 270 Mpps or more 
+ 
+Quoted 
+brand/model 
+name 
+ 
+Support 735 W PoE Budget or more 
+Should support 4K ARP Entries, 4k FIBv4 , 2K ACL Rules 
+Should support 1.9 GB RAM or higher, 0.95 GB flash or higher, and a quad-core CPU at 
+1 GHz or higher 
+QinQ, LACP, STP, RSTP, ERPS, MSTP/PVST+, LLDP, Jumbo Frames 
+IPv4 Static Routing, RIP/RIPng, OSPFv2/v3, VRRPv4/v6. 
+Support MAC authentication and 802.1x authentication, Dynamic VLAN, Dynamic 
+ACL, RADIUS CoA 
+CLI and Web interface (HTTPS) 
+Telnet, GVRP, SSH v2, RMON,SNMP v1, v2, and v3, Telemetry 
+Support NETCONF , Netstream or Netflow 
+OEM must be a Leader by Gartner LAN Wired and Wireless Magic Quadrant at least 
+once in last 3 years 
+Warranty: One (1) Year Parts and Labour local NBD warranty for all components on 
+site 
+ 
+LOT 
+A 
+Item # 4.1 
+WLAN Access Controller 
+QTY 
+02 
+Brands 
+Cisco/Fortinet/Huawei/H3C or equivalent  
+ 
+ 
+ 
+Technical specifications 
+ 
+Item # 4.1:                                WLAN ACCESS CONTROLLER                  
+QTY: 02 
+ 
+10 × GE RJ45, 2 × 10GE SFP+ 
+ 
+ 
+ 
+ 
+ 
+Quoted 
+brand/model 
+name 
+ 
+Forwarding Capacity: 10 Gbps or more 
+Maximum Managed APs: 500 or more 
+Maximum Users:  4,000 or more 
+Deployment Modes: Supports inline, bypass, bridge, and Mesh 
+Roaming Support: Load balancing and smart roaming 
+Interference Mitigation: Supports dynamic frequency assignment 
+Power Supply: Built-in or external AC/DC 
+Support Active/Standby Mode 1+1 
+Perpetual licenses for all quoted wireless access points must be included. 
+Routing Protocols: Static Route, RIPv1/v2, OSPF,OSPFv3,IS-IS, IS-IS v6, BGP, 
+BGP4+, IGMPv1/v2/v3, DHCPv6 
+Warranty: One (1) Year Parts and Labour local NBD warranty for all components on 
+site 
+ 
+ 
+LOT 
+A 
+Item # 4.2 
+Access Points 
+QTY 
+30 
+Brands 
+Cisco/Fortinet/Huawei/H3C or equivalent
+
+[Page 51]
+Page 50 of 61 
+ 
+Technical specifications  
+ 
+Item # 4.2:                                           ACCESS POINT                            
+QTY: 30 
+ 
+IEEE 802.11be compatibility with IEEE 802.11a/b/g/n/ac/ax 
+ 
+ 
+ 
+ 
+Quoted 
+brand/model 
+name 
+ 
+2x2 MIMO on 2.4Ghz, 4x4 MIMO on 5GHz band and 2x2 MIMO on 6GHz. or more 
+Tri-radio with 8 spatial streams or more  
+The AP should support system maximum rate up to 7.5 Gbps or more   
+The AP should have at least 1 x 1GE/2.5GE/5GE electrical port or more 
+PoE power supply: in compliance with 802.3at/af 
+USB interface can be used for external IoT expansion. 
+Support encryption protocols such as WPA, WPA2, and WPA3 
+The AP should support smart roaming. 
+Minimum 15 SSIDs for each radio or more  
+Bluetooth serial interface-based O&M 
+Beam forming MRC, STBC, CDD/CSD, LDPC Wlan features. 
+Warranty: One (1) Year Parts and Labour local NBD warranty for all components on 
+site 
+ 
+LOT 
+A 
+Item # 5.1 
+Racks 
+QTY 
+02 
+Brands 
+APC or equivalent  
+ 
+ 
+Technical specifications 
+ 
+Item # 5.1:                                       42 U RACK                                      QTY: 02 
+ 
+Rack type / Purpose: 19″ freestanding IT rack enclosure, 42U height, intended for 
+server / network equipment deployment.  
+ 
+ 
+ 
+ 
+ 
+ 
+Quoted 
+brand/model name 
+ 
+Rack capacity: 42U vertical mounting space. 
+Load capacity: Static load up to ~1200 kg; dynamic (rolling / casters) load up to 
+~600 kg 
+Front and rear perforated doors (ventilated) for airflow / ventilation.  
+Includes roof panel, side panels, pre-installed casters and leveling feet, baying 
+hardware, mounting hardware, key-lockable doors, PDU mounting brackets.  
+Integrated grounding for frame, doors and roof (earthing).  
+Compliant with standards: EIA-310E (19″ rack standard), UL 2 
+Finished in black powder-coating (standard for such data-center racks) 
+Ventilation / Airflow: Passive ventilation via perforated (mesh) doors; design 
+suitable for server / network equipment with proper airflow.  
+Warranty: One (1) Year Parts and Labour local warranty for all components on 
+site 
+ 
+LOT 
+A 
+Item # 5.2 
+PDU for Racks 
+QTY 
+04 
+Brands 
+APC or equivalent
+
+[Page 52]
+Page 51 of 61 
+ 
+ 
+ 
+Technical specifications 
+ 
+Item # 5.2:                        PDU FOR RACK                                QTY: 04 
+ 
+PDU Type / Purpose: Metered rack PDU (power distribution unit) — vertical, 
+Zero-U (does not occupy rack U-space), designed for rack-mounted equipment.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quoted brand/model 
+name 
+ 
+Input / Output Electrical: 
+Input voltage: 200 / 208 / 230 V AC (single-phase)  
+Nominal output voltage: 230 V AC.  
+Maximum input current: 32 A.  
+Maximum load / power capacity: 7360 VA (approx. 7.36 kVA).  
+Outlets / Connectors: 
+Total AC outlets: 24 outlets — 20 × IEC 60320 C13, 4 × IEC 60320 C19.  
+Input connection: IEC 60309 (32A, 2-pole + Earth).  
+Physical / Mechanical: 
+Rack units: 0U (zero-U, mounts vertically on rack rear/side).  
+Dimensions: Height 1175 mm; Width 62 mm; Depth 44 mm.  
+Weight: ~ 3.72 kg.  
+Cord length: 3.0 m power cord (input).  
+Mounting: Vertical, side-mount or rear-mount in rack.  
+Management & Features: 
+Remote management: supports SNMP / HTTP / Telnet (enables metering / 
+remote monitoring of power consumption).  
+Metered — provides current / load monitoring via display / remote interface. 
+Certifications: CE, TÜV; compliance with safety and EMC standards.  
+Environmental / Operating Conditions: 
+Operating temperature: –5 °C to 45 °C.  
+Operating humidity: 5% to 95% (non-condensing).  
+Operating altitude: up to 3000 m above sea level (with derating past this 
+altitude). 
+2x 2.5x2.5 main UPS Input/ Output Power Dbs with digital Meter, lights, and 
+Industrial socket as per requirement complete Installation 
+10 x 1 x 1 main UPS Input/ Output Power Dbs with digital Meter, lights, and 
+Industrial socket as per requirement complete Installation 
+Power Cable, 3Core 6mm delivery and installation for remote cabinet complete 
+package required Breaker, lights and meters end to end connectivity, power 
+cable installation would be on existing trays and use PVC pipe where required 
+approximate length is 950 mtrs. 
+Warranty: One (1) Year Parts and Labour local warranty for all components on 
+site 
+ 
+ 
+LOT 
+A 
+Item # 6.1 
+IP Telephone Exchange 
+QTY 
+01 
+Brands 
+Grandstream/Avaya/Panasonic or equivalent
+
+[Page 53]
+Page 52 of 61 
+ 
+ 
+ 
+Technical specifications 
+ 
+Item # 6.1:                                          IP PABX EXCHANGE               
+QTY: 01 
+ 
+The IP PBX should support up to 3000 SIP users and up to 300 concurrent 
+calls or more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quoted brand/model 
+name 
+ 
+Should support SIP v2, TCP/UDP, RTP/RTCP, SRTP, TLS, and related 
+VoIP signaling protocols. 
+Must support FXS/FXO/E1 digital trunk interfaces depending on model 
+configuration (e.g., 8/16/24 FXS/FXO, 1 × E1). 
+The device should support VoIP codecs including G.711A/U, G.722, G.726, 
+G.729, iLBC, and GSM. 
+Should support Echo Cancellation (G.168) and VAD/PLC/Jitter Buffer 
+features. 
+Must support Call features including call forwarding, call transfer, call 
+waiting, call hold, call pickup, IVR, voicemail, DISA, ring groups, 
+conferencing, call recording, time conditions, and call queue. 
+Support for multi-level IVR, configurable menus, and custom prompts. 
+The IP PBX should provide Web-based management interface with 
+administrator access control. 
+Should support Auto-provisioning for IP phones (via 
+SIP/HTTP/HTTPS/TR-069). 
+Support NAT traversal, STUN, DDNS, and firewall security. 
+Must support recording via internal storage or external storage 
+(USB/SATA/Network Storage). 
+Should support integration with CRM/HTTP API/AMI for third-party 
+system integration. 
+The device should include Gigabit Ethernet interfaces (1 × WAN + 1 × 
+LAN) or more. 
+Support TLS/SRTP encryption, fail2ban, IP blacklist, and firewall rules. 
+Should support hotline, intercom, paging, and multicast paging. 
+Must support redundancy options including failover and backup/restore. 
+The IP PBX should support SIP trunking and PSTN/I E1/FXO 
+connectivity as per configuration. 
+Should support system capacity expansion through license upgrade. 
+Support for SNMP, Syslog, and real-time monitoring. 
+The IP PBX should operate on 110–240V AC power with built-in power 
+supply. 
+Installation: rack-mountable (1U) with cooling fans for reliable 
+performance. 
+Warranty: One (1) Year Parts and Labour local warranty for all components 
+on site 
+ 
+ 
+LOT 
+A 
+Item # 6.2 
+IP Phones 
+QTY 
+240 
+Brands 
+Grandstream/Avaya/Panasonic or equivalent
+
+[Page 54]
+Page 53 of 61 
+ 
+ 
+Technical specifications 
+ 
+Item # 6.2:                                            IP PHONES (CATEGORY-01)                
+QTY: 240 
+ 
+Display / Interface: 2.8″ color TFT LCD (320 × 240) with backlight or higher 
+ 
+ 
+ 
+ 
+Quoted 
+brand/model 
+name 
+ 
+SIP / Lines / Accounts: Supports up to 6 SIP accounts.  
+Programmable Keys: 30 line-keys (plus soft keys and function keys) — fully 
+programmable for speed-dial, BLF / busy lamp field, calling features, etc.  
+Audio & Voice / Codec Support: 
+HD Voice (wideband) with support for codecs including G.722, OPUS-WB.  
+Also supports narrowband codecs: PCMA, PCMU, G.729, G723, G726, AMR, OPUS,  
+Features: Full-duplex speakerphone, echo cancellation / dynamic jitter buffer, voice 
+activity detection (VAD), comfort noise generation (CNG).  
+Network / Connectivity: 
+Dual-port Gigabit Ethernet (2 × RJ45 10/100 Mbps) — for LAN + PC / passthrough. or 
+higher  
+Power over Ethernet (PoE) support (IEEE 802.3af) — power adapter also possible.  
+Call / PBX Features: 
+5-way audio conferencing.  
+Call features: call hold, call forward, call waiting, call transfer (blind/attended), speed 
+dial, redial, auto-redial, auto-answer, hotline, DND, mute,  
+Additional telephony features: call pickup (incl. group pickup), intercom, multicast 
+paging, music on hold, voicemail / MWI, SMS support, anonymous call / call rejection, 
+call log and history.  
+Security / Protocols / Compatibility: 
+SIP v1 (RFC2543) and SIP v2 (RFC3261).  
+Support for SIP over TLS, SRTP (encrypted signaling / media).  
+Network protocols: TCP, UDP, RTP/RTCP, HTTP/HTTPS/FTP/TFTP, NAT traversal 
+(STUN), DNS SRV / A / NAT-PR queries, session timer (RFC4028), DTMF (In-Band, 
+RFC2833, SIP INFO), LLDP.  
+Support for 802.1X and VPN (Open VPN) on some variants / firmware.  
+Management / Provisioning: 
+Auto-provisioning via FTP / TFTP / HTTP / HTTPS / PnP.  
+Web-based GUI configuration, firmware upgrade via web, network capture, SNMP / 
+TR-069 support, syslog, NTP / daylight-saving / timezone sync, config backup/restore, 
+compatibility with NMS (Network Management System).  
+Support for multiple remote phonebooks (e.g. 5 remote URL phonebooks), LDAP 
+directory, large phonebook (1000 groups), blacklist (100 entries), call logs (~100), multi-
+language support.  
+Power / Physical / Environmental: 
+Power: 5 V DC adapter or PoE (IEEE 802.3af).  
+Typical power consumption: ~ 1.8 W or more 
+Dimensions: approx. 201 × 203 × 42.5 mm (WxDxH without foot stand) or more 
+Weight: approx. 550 g (device) + 50 g (foot stand) or more 
+Handset / Headset interfaces: 4P4C (RJ9) for handset and headset; optional RJ12 
+expansion port for extra modules.  
+Environmental operating conditions: 0 – 40 °C, 10% – 95% humidity (non-condensing).
+
+[Page 55]
+Page 54 of 61 
+ 
+Mounting: desk-stand or wall-mountable.  
+Warranty: One (1) Year Parts and Labour local warranty for all components on site 
+ 
+ 
+LOT 
+A 
+Item # 6.3 
+IP Phones 
+QTY 
+07 
+Brands 
+Grandstream/Avaya/Panasonic or equivalent  
+ 
+ 
+ 
+Technical specifications 
+ 
+Item # 6.3:                                    IP PHONES (CATEGORY-02)                    
+QTY: 07 
+ 
+Display / Interface 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quoted 
+brand/model 
+name 
+ 
+7-inch IPS multi-touch screen or higher 
+Resolution: 1280×800 pixels (HD) or higher 
+Adjustable display angle: ~10° to ~70°.  
+Operating System & Platform 
+Runs Android 7.1 (built-in apps: calendar, gallery, web browser, search etc.). or higher 
+CPU / system: (per manual) — Pax unspecified in summary; but the manual lists system 
+flash 16 GB, eMMC, DDR3 RAM or higher 
+SIP / Accounts 
+Supports up to 4 SIP accounts  
+Supports SIP (standard SIP 2.0 / SIP signaling).  
+Audio / Video / Conferencing 
+Built-in 5-megapixel camera for video calls / video functions.  
+HD video support (video calling/camera + 10.1” screen).  
+6-way audio (conference) support.  
+Codec support (audio): G.711, G.722, G.729, and likely others depending on firmware 
+(some lists mention iLBC, SILK, OPUS, etc.).  
+Video codec support: H.264, VP8 (and support for H.265/MPEG-4 depending on 
+firmware) per extended specs.  
+Network / Connectivity / Interfaces 
+Dual-port Gigabit Ethernet (2 × RJ45 10/100/1000 Mbps).  
+Built-in WiFi (IEEE 802.11 b/g/n; some sources list 2.4 GHz WiFi) for wireless 
+connectivity.  
+Bluetooth support (for headset or wireless accessories) built-in.  
+Storage: Micro-SD card slot (for additional storage/media).  
+USB 2.0 port (for U-disk, keyboard, mouse, etc.).  
+Power over Ethernet (PoE) support.  
+Built-in battery: 6000 mAh (useful for portability / backup) or higher.  
+Call / Phone / PBX Features 
+Basic telephony features: IP dialing, redial, call return, call hold, mute, DND, call 
+waiting, call forward, blind/attended transfer. 
+Voicemail / Message Waiting Indicator (MWI), SMS support.
+
+[Page 56]
+Page 55 of 61 
+ 
+Call transfer, three-way calling / conferencing, call log, speed dial, selectable ringtones.  
+DTMF support: In-Band, RFC2833, SIP INFO.  
+Security / Protocols / Management 
+Supports secure signaling/media: TLS, SRTP.  
+Network protocols: TCP/IP, UDP, RTP/RTCP, DHCP, DNS, HTTP/HTTPS, SNTP, 
+XML, TR-069, etc.  
+Auto-provisioning: FTP, TFTP, HTTP, HTTPS, PnP.  
+Web-based configuration & upgrade, backup/restore, syslog, network capture, NTP/time 
+sync.  
+SDK/API available for custom application development (since it’s Android based) — 
+useful if you want custom integrations.  
+Physical / Power / Miscellaneous 
+Power input: AC 100–220 V → DC 12V/1.5A (when using adapter) or PoE when using 
+Ethernet.  
+Built-in rechargeable battery: 6000 mAh  or higher— allows use even without external 
+power for some time.  
+Form factor: Stand / desk-type unit (not a wall phone), design suitable for office/desk.  
+Supports headset (RJ-9 handset port) or Bluetooth/USB headsets (per interface list).  
+Warranty / Support 
+Warranty: One (1) Year Parts and Labour local warranty for all components on site 
+ 
+ 
+ 
+ 
+LOT 
+B 
+Item # 1 
+20 KVA UPS With Batteries 
+QTY 
+02 
+Brands 
+APC/Vertiv or equivalent  
+ 
+ 
+ 
+ 
+ 
+Technical specifications 
+ 
+Item # 1:                       20 KVA UPS with Batteries                       QTY: 02 
+ 
+Output power capacity: 20 kVA / 20.0 kW or higher 
+ 
+ 
+ 
+ 
+ 
+Quoted 
+brand/model 
+name 
+ 
+Nominal output voltage: 400 V, 3-phase (also supports 380 V / 415 V)  
+Output voltage distortion (linear load): < 3%  
+Output voltage tolerance: ± 1.5% (or ±1% depending on variant / spec sheet)  
+Output frequency: 50 Hz or 60 Hz (synchronized to mains)  
+Topology: Double-conversion online (VFI)  
+Input voltage range: 304 – 477 V at full load (3-phase)  
+Input voltage options: 380 V, 400 V, 415 V  
+Input frequency range: 45 – 65 Hz  
+Input power factor (at full load): 0.99 Computaas+1 
+Maximum input current: ~37 A (at rated load)
+
+[Page 57]
+Page 56 of 61 
+ 
+Overload capacity: Supports overloads as per spec for standard loads (see overload / 
+load-crest 
+Batteries for standard backup upto 15 Minutes on 70% load  
+UPS form factor: Free-standing (tower / floor-standing) model. 
+Communication / management support: Supports network-management — SNMP / 
+remote-monitoring cards / interfaces  
+Built-in maintenance bypass: Yes (for service / maintenance without interrupting 
+load) as per manufacturer documentation / spec summary. 
+Dust filter, conformal-coated boards: Included — design suited for data center or 
+harsh-environment electrical rooms. 
+Battery type VRLA 
+Battery mounting Enclosed battery cartridge 
+Operating Temperature 0 - 40 °C 
+Operating Relative Humidity 0 - 95 (Non-condensing) % 
+Remote DB power cables installation, termination, laying and compete end to end 
+connectivity is the responsibility of the bidder. 
+Warranty: One (1) Year Parts and Labour local warranty for all components on site 
+ 
+ 
+  
+Name and Designation of Signatory 
+_________________________ 
+ 
+Authorized Signatures with Official Stamp
+
+[Page 58]
+Page 57 of 61 
+ 
+ANNEXURE-D 
+(Checklist for the Attached Documents in Technical Proposal) 
+Sr. 
+# 
+Description of Documents 
+Attached 
+(Yes/No) 
+Page No 
+1 
+Undertaking on stamp paper of Rs. 300/- (all terms and conditions and 
+qualifications listed anywhere in this bidding document have been 
+satisfactorily vetted and bidder is not currently blacklisted by the Procuring 
+Agency or PPRA. The documents/photocopies provided with Bid are 
+authentic. In case of any fake/bogus document look at any stage. They shall be 
+black listed as per Rules / Laws) (Annexure-A). 
+ 
+ 
+2 
+Covering letter duly signed and stamped by authorized representative on 
+official letter head of bidder (Annexure-B). 
+ 
+ 
+3 
+Bidder will provide an undertaking on official letterhead that he has examined 
+the specifications and allied terms and conditions. Further, he shall be liable to 
+provide the goods as per the terms and conditions and specifications, and also 
+quote brand/model equal or better than the technical specifications of required 
+goods/services mentioned in (Annexure-C). 
+ 
+ 
+4 
+Checklist of the required documents (Annexure-D) (Not Mandatory) 
+ 
+ 
+5 
+Is registered with Tax Authorities for NTN and GSTN/ PSTN as per relevant 
+laws in Pakistan, at least three years old (whichever is applicable) 
+ 
+ 
+6 
+Bidder must be ISO certified in ISO 9001: 2015 for LOT-A only. 
+ 
+ 
+7 
+Certificate of Company / Firm Registration / Incorporation under the laws of 
+Pakistan. 
+ 
+ 
+8 
+Bidder must have Experience of supply of similar Equipment in the Public and 
+Private Organizations. Bidder must provide Documentary Evidences (Work 
+order/contracts/ audited financial statements /MOU) for last three (03) 
+financial years to conclude Rs. 100 million turnover (for LOT A) and Rs. 60 
+million turnover (for LOT B) 
+ 
+ 
+9 
+Verifiable Manufacturer Authorization Letter (MAL) from OEM is a must 
+requirement for all items in both LOTs i.e LOT: A -Firewall, core switch, 
+access switch, APs solution, IP telephone exchange and LOT: B - UPS 
+ 
+ 
+10 
+Bidder must provide list of offices with complete address and have at least one 
+office in Lahore to ensure timely support services and have at least two 
+technical support staff available in Lahore office, CV of technical staff must be 
+attached. 
+ 
+ 
+11 
+Firm will provide Enterprise level solution for the campus network which must 
+be specified on MAL by the principal. (Only for LOT A) 
+ 
+ 
+12 
+Gartner Ranking of OEM Gartner Magic Quadrant in Leadership (Only for all 
+items of LOT A except telephone exchange). 
+ 
+ 
+13 
+OEM manufacturer must be present in Pakistan from last 10 Years, for both 
+LOTs. 
+ 
+ 
+14 
+Brochure/datasheet of quoted model shall be provided. 
+ 
+ 
+15 
+Duly signed and stamped copy of the bidding document to ensure that the 
+participating bidder certifies that each page has been read, understood and all 
+terms and conditions on each page have been accepted unconditionally.  
+ 
+ 
+Checklist for the Attached Documents in Financial Proposal) 
+Sr. # 
+Description of Documents 
+Attached 
+(Yes/No) 
+1 
+Price Schedule (Annexure – E).
+
+[Page 59]
+Page 58 of 61 
+ 
+ 
+ANNEXURE-E (Attach with Financial Proposal) 
+ 
+PRICE SCHEDULE 
+ 
+Sr. # 
+Description  
+Unit 
+QTY 
+Unit Price 
+Including  
+Applicable 
+Taxes 
+(PkR) 
+Total Price 
+Including  
+Applicable 
+Taxes 
+(PkR) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Grand Total Including Applicable Taxes 
+ 
+Total Price in Words: Rs.  
+ 
+ 
+Notes: 
+ 
+i. 
+The price shall include all applicable taxes like Income Tax, GST, PST, etc. 
+ii. 
+The price will include all related expenses (e.g. incidental services, labor, transportation charges 
+to delivery point, etc.). 
+iii. 
+It is compulsory for bidders to bid for all goods / services for each LOT. Bids for partial items 
+for each LOT will be rejected. 
+iv. 
+Aggregate lowest evaluated bidder will be awarded the contract. 
+v. 
+Bidder will quote only one brand in bid and optional bid will be rejected 
+vi. 
+Price schedule must be enclosed with financial proposal. 
+ 
+ 
+ 
+Attention 
+“Price schedule must be enclosed with financial 
+proposal only. Please DO NOT disclose prices in 
+technical proposal otherwise your bid will be 
+rejected/disqualified”.
+
+[Page 60]
+Page 59 of 61 
+ 
+         
+ 
+ANNEXURE-F (To be Submitted by Successful Bidder on Legal Stamp Paper of Rs. 300/-) 
+INTEGRITY PACT 
+(For Procurements of 10 Million and Above) 
+ 
+ 
+Contract No.________________ Dated __________________ 
+ 
+Contract Value: ________________ 
+ 
+Contract Title: _________________ 
+ 
+………………………………… [name of Successful Bidder] hereby declares that it has not obtained 
+or induced the procurement of any contract, right, interest, privilege or other obligation or benefit from 
+Government of Punjab (GoP) or any administrative subdivision or agency thereof or any other entity 
+owned or controlled by GoP through any corrupt business practice. 
+ 
+ 
+Without limiting the generality of the foregoing, [name of Successful Bidder] represents and 
+warrants that it has fully declared the brokerage, commission, fees etc. paid or payable to anyone and 
+not given or agreed to give and shall not give or agree to give to anyone within or outside Pakistan 
+either directly or indirectly through any natural or juridical person, including its affiliate, agent, 
+associate, broker, consultant, director, promoter, shareholder, sponsor or subsidiary, any commission, 
+gratification, bribe, finder’s fee or kickback, whether described as consultation fee or otherwise, with 
+the object of obtaining or inducing the procurement of a contract, right, interest, privilege or other 
+obligation or benefit in whatsoever form from GoP,  except that which has been expressly declared 
+pursuant hereto. 
+ 
+ 
+[name of Successful Bidder] certifies that it has made and will make full disclosure of all 
+agreements and arrangements with all persons in respect of or related to the transaction with GoP and 
+has not taken any action or will not take any action to circumvent the above declaration, representation 
+or warranty. 
+ 
+ 
+[name of Successful Bidder] accepts full responsibility and strict liability for making any false 
+declaration, not making full disclosure, misrepresenting facts or taking any action likely to defeat the 
+purpose of this declaration, representation and warranty. It agrees that any contract, right, interest, 
+privilege or other obligation or benefit obtained or procured as aforesaid shall, without prejudice to any 
+other rights and remedies available to GoP under any law, contract or other instrument, be voidable at 
+the option of GoP. 
+ 
+ 
+Notwithstanding any rights and remedies exercised by GoP in this regard, [name of Successful 
+Bidder] agrees to indemnify GoP for any loss or damage incurred by it on account of its corrupt business 
+practices and further pay compensation to GoP in an amount equivalent to ten time the sum of any 
+commission, gratification, bribe, finder’s fee or kickback given by [name of Successful Bidder] as 
+aforesaid for the purpose of obtaining or inducing the procurement of any contract, right, interest, 
+privilege or other obligation or benefit in whatsoever form from GoP. 
+ 
+ 
+ 
+Name of Procuring Agency: ……………… 
+ 
+Name of Successful Bidder: ………… 
+ 
+Signature: ……………………  
+ 
+ 
+Signature: ………………………… 
+ 
+ 
+ 
+[Seal]  
+ 
+ 
+ 
+ 
+[Seal]
+
+[Page 61]
+Page 60 of 61 
+ 
+ 
+ 
+ANNEXURE-G  
+FORMAT OF BANK GUARANTEE 
+Guarantee No. __________ 
+Executed on  __________ 
+Expiry date   __________ 
+  
+ 
+Name of Guarantor (Bank) with address: 
+ 
+    _____________________________________ 
+Name of Principal (Contractor) with address:   
+    _____________________________________ 
+Penal Sum of Security (express in words and figures)   _____________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    _____________________________________ 
+Letter of Acceptance No. ______________ Dated ______________________ 
+KNOW ALL MEN BY THESE PRESENTS, that in pursuance of the terms of the Bidding Documents 
+and above said Letter of Acceptance (hereinafter called the Documents) and at the request of the said 
+Principal we, the Guarantor above named, are held and firmly bound unto the _________________ 
+(hereinafter called the Employer) in the penal sum of the amount stated above for the payment of which 
+sum well and truly to be made to the said Employer, we bind ourselves, our heirs, executors, 
+administrators and successors, jointly and severally, firmly by these presents. 
+THE CONDITION OF THIS OBLIGATION IS SUCH, that whereas the Principal has accepted the 
+Employer's above said Letter of Acceptance for _________________________ (Name of Contract) 
+for 
+the __________________________ (Name of Project). 
+NOW THEREFORE, if the Principal (Contractor) shall well and truly perform and fulfill all the 
+undertakings, covenants, terms and conditions of the said Documents during the original terms of the 
+said Documents and any extensions thereof that may be granted by the Employer, with or without notice 
+to the Guarantor, which notice is, hereby, waived and shall also well and truly perform and fulfill all 
+the undertakings, covenants terms and conditions of the Contract and of any and all modifications of 
+said Documents that may hereafter be made, notice of which modifications to the Guarantor being 
+hereby waived, then, this obligation to be void; otherwise to remain in full force and virtue till all 
+requirements of this bidding document, Defects after Taking Over, of Conditions of Contract are 
+fulfilled. 
+Our total liability under this Guarantee is limited to the sum stated above and it is a condition of any 
+liability attaching to us under this Guarantee that the claim for payment in writing shall be received
+
+[Page 62]
+Page 61 of 61 
+ 
+by us within the validity period of this Guarantee, failing which we shall be discharged of our 
+liability, if any, under this Guarantee. 
+We,  
+(the Guarantor), waiving all objections and defenses under the Contract, do hereby irrevocably, 
+unconditionally and independently guarantee to pay to the Employer without delay upon the Employer's 
+first written demand without cavil or arguments and without requiring the Employer to prove or to 
+show grounds or reasons for such demand any sum or sums up to the amount stated above, against the 
+Employer's written declaration that the Principal has refused or failed to perform the obligations under 
+the Contract which payment will be effected by the Guarantor to Employer’s designated Bank & 
+Account Number. 
+PROVIDED ALSO THAT the Employer shall be the sole and final judge for deciding whether the 
+Principal (Contractor) has duly performed his obligations under the Contract or has defaulted in 
+fulfilling said obligations and the Guarantor shall pay without objection any sum or sums up to the 
+amount stated above upon first written demand from the Employer forthwith and without any reference 
+to the Principal or any other person. 
+IN WITNESS WHEREOF, the above-bounden Guarantor has executed this Instrument under its seal 
+on the date indicated above, the name and corporate seal of the Guarantor being hereto affixed and 
+these presents duly signed by its undersigned representative, pursuant to authority of its governing 
+body. 
+______________ 
+Guarantor (Bank) 
+Witness: 
+1. 
+Title 
+ 
+_____________ 
+ 
+ 
+_____________________ 
+Name   
+_____________  
+ 
+ 
+Corporate Secretary (Seal) 
+Signature  
+_____________ 
+ 
+ 
+2. 
+Title 
+ 
+_____________ 
+ 
+ 
+_____________________ 
+Name   
+_____________  
+ 
+ 
+Corporate Guarantor (Seal) 
+Signature  
+_____________

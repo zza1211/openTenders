@@ -1,0 +1,3220 @@
+Title: Specification for ICT Hardware and Accessories
+Source: https://www.etenders.gov.za/home/Download/?blobName=73cb98ef-6c8f-4e9a-9ad0-6d48e0348b91.pdf&downloadedFileName=CP_TSSPEC_263_+SPECIFICATION+FOR+ICT+HARDWARE+%28002%29.pdf
+Pages: 42
+
+--- Extracted text by page ---
+
+[Page 1]
+a wor)d class African city 
+ 
+ 
+ 
+ 
+REFERENCE 
+City Power 
+J O h 
+5 b ( 
+ 
+ 
+REV 
+TITLE  SPECIFICATION FOR SUPPLY AND 
+CP_TSSPEC_263 
+REPAIR OF ICT HARDWARE AND 
+DATE: 
+2 
+MARCH 2024 
+ACCESORIES 
+PAGE: 
+1 
+OF 
+46 
+ 
+ 
+                                                     TABLE OF CONTENTS 
+ 
+Page 
+FOREWORD................................................................................................................................. 2 
+1. INTRODUCTION. .................................................................................................................... 3 
+2. SCOPE OF WORK ......................................................................................................................... 3 
+                       3. NORMATIVE REFERENCES. .................................................................................................... 3  
+4. TERMS AND ABREVIATIONS. ..................................................................................................... 4 
+5. HARDWARE AND ACCESSORIES ............................................................................................... 6 
+6. SUPPORT AND MAINTENANCE ................................................................................................ 18 
+7. WARRANTY CONDITIONS ..........................................................................................................18 
+8. DOCUMENTATION ...................................................................................................................... 18 
+9. MARKING AND LABELLING ....................................................................................................... 20 
+10. TRAINING. ............................................................................................................................. 20 
+11. QUALITY MANAGEMENT ............................................................................................................20 
+12. HEALTH AND SAFETY. .............................................................................................................. 20 
+13. ENVIRONMENTAL MANAGEMENT ............................................................................................ 20 
+ANNEXURE A - Bibliography ..................................................................................................... 21 
+ANNEXURE B - Revision information ........................................................................................ 22
+
+[Page 2]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC„263 
+REV 
+2 
+46 
+PAGE 
+2 
+OF 
+ 
+ 
+FOREWORD 
+This Request for Standard Services was prepared by the following Work Group member/s: 
+ 
+Happiness Manzini 
+Jason Daniels 
+Information and Communication Technology 
+Information and Communication Technology 
+ 
+The work group was appointed by ICT planning Committee, which at the time of approval comprised 
+of the following members: 
+ 
+Happiness Manzini 
+Jason Daniels 
+Herson Somo 
+Information Communication Technology 
+Information Communication Technology 
+Research & Development 
+ 
+Recommendations for corrections, additions or deletions should be addressed to the: 
+ 
+Research and Development 
+City Power Johannesburg (Pty) Ltd 
+P O Box 38766 
+Booysens 
+2016
+
+[Page 3]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+46 
+PAGE 
+3 
+OF 
+ 
+ 
+1. INTRODUCTION 
+City Power has invested in 99% of HP and Huawei desktops and laptops that are used across the 
+business. Onthe network infrastructure, Cisco, HP & DELL Brocade and Huawei switches are widely 
+implemented across the ICT network. The server and storage infrastructure is currently running on 
+DELL & HP equipment with VMware virtualization as well as on SUN Oracle equipment. 
+City Power requires services from accredited service providers and suppliers for the supply, repair, and 
+delivery of ICT hardware (desktops, laptops, VxRail and networking equipment) for the duration of the 
+contract. 
+ 
+2. SCOPE OF WORK 
+The scope of work entails supply, repair and delivery of Information and Communication Technology (ICT) 
+hardware and accessories. The list of Hardware shall not be limited to the items listed below and 
+additional items shall be requested based on the future business needs and technological 
+advancements. 
+ 
+ 
+The Service provider shall be responsible for the repair and the replacement of the supplied 
+hardware as and when required. The Service provider shall manage the warranties of the supplied 
+hardware by acting as single point of contact between City Power and the hardware vendor/s. 
+ 
+3. NORMATIVE REFERENCES 
+The following documents contain provisions that, through reference in the text, constitute 
+requirements of this specification. At the time of publication, the editions indicated were valid. All 
+standards and specifications are subject to revision, and parties to agreements based on this 
+standard are encouraged to investigate the possibility of applying the most recent editions of the 
+documents listed below. 
+ 
+Document number 
+Document title 
+IEEE 802.3z 
+standard for Gigabit Ethernet over optical fibre and shielded twisted pair 
+(STP) 
+ANSI/IEEE 162-1963 
+IEEE Standard Definitions of Terms for Electronic Digital Computers 
+lEEEiAlEE 34-1922 
+AIEE Standards for Telephony and Telegraphy 
+EEE 1680-2009 
+(IEEE Standard for Environmental Assessment of Electronic Products 
+(Revision of IEEE: 1680-2006) 
+IEEE 487.3-2014 
+IEEE Standard for the Electrical Protection of Communication Facilities 
+Serving Electric Supply Locations Through the Use of Hybrid Facilities 
+IEEE 802.3-2015 
+IEEE Standard for Ethernet - (Revision of IEEE:802.3-2012) 
+IEEE 802-2014 
+IEEE Standard for Local and Metropolitan Area Networks: Overview 
+and Architecture (Revision to IEEE: 802-2001)
+
+[Page 4]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+46 
+PAGE 
+4 
+OF 
+ 
+ 
+ 
+ 
+Document number 
+Document title 
+802.11n and 802.11ac 
+networks, Wireless - 
+IEEE 
+802.11a, 
+802.11b, 802.11g, 
+802.11d, 
+WMMI802.11e, 
+802.11h, 
+802.11k, 
+802.11n, 
+802.11r, 
+802.11u, 802.11w, 
+802.11ac 
+a set of media access control (MAC) and physical layer (PHY) 
+specifications for implementing wireless local area network (WLAN 
+WEP / WPA / WPA2- 
+PSK. 
+Wireless Security protocols 
+IEEE-1394 
+an interface standard for a serial bus for high-speed communications 
+and isochronous real-time data transfer 
+ 
+ 
+4. TERMS AND ABREVIATIONS 
+ 
+Term 
+Meaning 
+i5 and i7 
+A family of dual and quad core, 64-bit, x86 CPUs from Intel 
+1 GB RAM 
+Roughly* 1 Billion of Bytes of random access memory 
+SATA 
+Serial Advanced Technology Attachment," or "Serial ATA." It is an 
+interface used to connect ATA hard drives 
+MB 
+The megabyte is a multiple of the unit byte for digital information 
+WXGA 
+A display class that’s appropriate for business and also supports 
+watching digital videos (DVD) 
+Windows 7, 8, 10, 11 
+Computer operating systems
+
+[Page 5]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+6 
+OF 
+ 
+ 
+5. HARDWARE AND ACCESSORIES 
+5.1 
+Desktop Platforms: (All desktop platforms shall have the following as a 
+standard) 
+ 
+ 
+5.1.1 
+USB, serial, HDMI, Parallel and VGA Ports 
+5.1.2 
+Network interface card (100 — 1000MB per second) 
+5.1.3 
+Sound card 
+5.1.4 
+USB cordless optical mouse 
+5.1.5 
+USB cordless keyboard 
+5.1.6 
+Desktop and Monitor Cable lock 
+5.1.7 
+Preloaded with a preconfigured City Power image 
+5.1.8 
+Built in Wi-Fi 
+5.1.9 
+23” inch LCD monitor 
+5.1.10 
+4 Year Parts and Labor Limited Warranty, plus Accidental Damage Protection (ADP, sometimes 
+called Complete Care) 
+ 
+5.2 
+Standard Full-tower (i5) 
+ 
+5.2.1 
+Intel based processor. 
+5.2.2 
+16GB RAM 
+5.2.3 
+500 GB SSD hard drive 
+5.2.4 
+Black chassis 
+5.2.5 
+2 x HDMI ports 
+5.2.6 
+2 x USB 3 ports 
+5.2.7 
+Peripheral component interconnects (PCI) Slot (Minimum of one) 
+5.2.8 
+SATA Digital Versatile Disk Rewritable (DVD-RW) 
+5.2.9 
+Graphics card (Minimum of 512MB) 
+5.2.10 
+USB cordless optical mouse 
+5.2.11 
+USB cordless keyboard 
+5.2.12 
+23" inch LCD monitor 
+5.2.13 
+4 Year Parts and Labor Limited Warranty, plus Accidental Damage Protection (ADP, sometimes 
+called Complete Care) 
+ 
+5.3 
+High Spec Full-tower (i7) 
+ 
+5.3.1 
+Intel based processor. 
+5.3.2 
+Minimum of 16GB RAM 
+5.3.3 
+500 GB SSD hard drive 
+5.3.4 
+Black chassis 
+5.3.5 
+PCI Slot (Minimum of one) 
+5.3.6 
+Peripheral component interconnects (PCI) Slot (Minimum of one) 
+5.3.7 
+2 x HDMI ports 
+5.3.8 
+2 x USB 3 ports 
+5.3.9 
+USB cordless optical mouse 
+5.3.10 
+USB cordless keyboard 
+5.3.11 
+23” inch LCD monitor 
+5.3.12 
+Graphics card (Minimum of 1024MB) 
+5.3.13 
+4 Year Parts and Labor Limited Warranty, plus Accidental Damage Protection (ADP, sometimes 
+called Complete Care)
+
+[Page 6]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+7 
+OF 
+ 
+ 
+5.4 
+Specialized Work stations 
+ 
+5.4.1 
+Grade: Workstation Grade i9 Processor 
+5.4.2 
+RAM: 32 GB 
+5.4.3 
+500 GB SSD hard drive 
+5.4.4 
+Processor speed: 3.0 GHZ each processor 
+5.4.5 
+2 x HDMI ports 
+5.4.6 
+2 x USB 3 ports 
+5.4.7 
+USB cordless optical mouse 
+5.4.8 
+USB cordless keyboard 
+5.4.9 
+Interfaces: 1 GB dual Ethernet ports Should support LAN teaming or Bonding 
+5.4.10 
+User interface: Three/Two(as per BOQ) 24” wide screen (16:9 aspect ratio), HD 
+Resolution (1920x1080) TFT Colour monitors, keyboard & optical Bluetooth 
+mouse 
+5.4.11 
+Mounting Desktop mounting 
+5.4.12 
+Quad port Graphics Card: 4 GB, supports OpenGL 4 or higher. Supports 4 displays 
+5.4.13 
+Operating system: Windows11 Enterprise 
+5.4.14 
+4 Year Parts and Labor Limited Warranty, plus Accidental Damage Protection (ADP, sometimes 
+called Complete Care) 
+ 
+5.5 
+All in one Desktop (i7) 
+ 
+5.5.1 
+Base Unit EliteOne 800 G6 24 AiO BU -Non-Touch IDS Minimum of 16GB RAM 
+5.5.2 
+TCO Compliance Electronic TCO EdgeCertified labeling Black chassis 
+5.5.3 
+Processor Intel Core i7 10700 8C 65W CPU 2 x HDMI ports 
+5.5.4 
+Operating System Windows 11 Enterprise 64bit 
+5.5.5 
+Operating System Image OptimizationCorporate-Ready Image 
+5.5.6 
+Camera Integrated SMP Webcam 
+5.5.7 
+System Memory 16GB (1x16GB) DDR42666 SODIMM Memory 
+5.5.8 
+NVMe TLC Solid State Drive SOOGB 
+5.5.9 
+Cordless USB 320K Keyboard SA 
+5.5.10 
+Cordless Mouse USB Optical 
+5.5.11 
+Networkinglntel Wi-Fi 6 AX201 ax 2x2 vPro+Bluetooth 5.1 WW 
+5.5.12 
+Fingerprint Reader, Fingerprint Sensor 
+5.5.13 
+AudioAiO AiO Internal Stereo (5W)Speakers 
+5.5.14 
+Packaging OptionsSingle Unit (All-in-One)AdjustabIe Height Stand Packaging 
+5.5.15 
+Microsoft Teams Ready 
+5.5.16 
+WLAN AX201 ax 2x2 vPro Label 
+5.5.17 
+DVDRW HP USB External DVDRW Drive 
+5.5.18 
+Year Parts and Labor Limited Warranty, plus Accidental Damage Protection (ADP, sometimes 
+called 
+Complete Care)
+
+[Page 7]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+ 
+PAGE 
+8 
+OF 
+44 
+5.6 
+Desktop Monitor 24 inch Widescreen 
+ 
+5.6.1 
+5.6.2 
+5.6.3 
+5.6.4 
+5.6.5 
+5.6.6 
+5.6.7 
+5.6.8 
+5.6.9 
+5.6.10 
+ 
+5.6.11 
+5.6.12 
+, 
+5.6.13 
+5.6.14 
+ 
+24-inch Widescreen with an aspect ratio width of 16 units and height of 9 (16:9). 
+Resolution; (16000 “ 9) Pixel pitch of 0.27d8 millimeters (mm). 
+Brightness: 250 nits or one candelas per square meter (cd/m’). 
+Contrast ratio: (1000:1) static and (3000000:1) dynamic, 
+View angle: 170° horizontal; 160° vertical 
+Response time: 5 milliseconds (ms) on/off, 
+Tilt and swivel angle: Tilt: Tilt: -5 to +25°Anti-glare 
+User programmable with On-screen controls and language selection. 
+Light emitting diode (LED) Backlights, 
+input connector: 1 VGA; 1 Digital visual interface (DVI) with High definition copy protocol 
+(HDCP) support, 
+Power: Input voltage range of 100 —240 VAC), 
+Operating condition; temperature range: (5 to 35°C) degrees Celsius and 
+humidity range 
+(20 to 80% RH.) of 20% relative humidity (RH). 
+Operating time 24/7/365 
+ 
+5.7 
+Desktop Monitor 27 inch 
+ 
+5.7.1 
+Diagonal viewing size: 68.6cm, 27 inch 
+5.7.2 
+Aspect ratio (16:9) 
+5.7.3 
+Contrast ratio: (1000:1), 8 million: 1 (dynamic) 
+5.7.4 
+Brightness: 300cd/m2 
+5.7.5 
+Response time: 6ms (gray to gray) 
+5.7.6 
+Tilt and swivel 
+5.7.7 
+Backlight technology: LED 
+5.7.8 
+Connector: HDMI (with HDCP), VGA 
+5.7.9 
+Power: 100 to 240 VAC 
+5.7.10 
+Operating time 24/7i365 
+5.7.11 
+Viewing angle: 178-degree horizontal, 178-degree vertical 
+ 
+5.8 
+Specialized workstation monitor 
+ 
+5.8.1 
+Diagonal Viewable size: 24" 
+5.8.2 
+Color support: 16.7 million 
+5.8.3 
+On screen control: Required 
+5.8.4 
+Anti-glare & anti-static: Yes 
+5.8.5 
+Tilt , Swivel: Yes 
+5.8.6 
+Aspect ratio: 16:09 
+ 
+5.9 
+Desktop Graphics Card 
+ 
+5.9.1 
+Connectivity for 4 displays simultaneously. 
+5.9.2 
+1GB, Double data rate, type three synchronous dynamic random-access memory or 
+(SDRAM) with a high bandwidth interface (DDR3), 
+5.9.3 
+64B, PCI Express multiplied by sixteen and a Maximum vertical refresh rate of 85 heM 
+(Hz), 
+5.9.4 
+Display support: Integrated four hundred megahertz (MHz) Random Access Digital to 
+analogue converter (RAMDAC), 
+5.9.5 
+Display max resolution: two thousand five hundred and sixty by one thousand six 
+hundred digital and two thousand and forty-eight by one thousand five hundred and 
+thirty-six analogs. 
+5.9.6 
+HDMI
+
+[Page 8]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+ 
+ 
+ 
+ 
+5.10.1 
+USB, HDMI, and VGA Ports 
+5.10.2 
+Network interface card (100,1000) 
+5.10.3 
+Sound card 
+5.10.4 
+Bluetooth mouse 
+5.10.5 
+Notebook cable lock (compatible with desktop) 
+5.10.6 
+Notebook case 
+5.10.7 
+Docking station 
+5.10.8 
+Preloaded with a preconfigured City Power image. 
+5.10.9 
+Built in modem. 
+ 
+5.11 
+Standard Laptop 
+ 
+Operating system 
+Windows 11 Enterprise 
+Processor 
+Intel Core i5-1335U Processor (0.9 GHz Efficient-core base frequency, up to Efficient- 
+core 3.4 GHz frequency with Intel Turbo Boost Technology 12 MB cache and 10 cores) 
+Chipset 
+Integrated with the processor 
+Memory 
+16 GB DDR4-3200 SDRAM (1 x 16 GB) 
+Storage 
+512 GB PCIeO NVMe TM SSD 
+Graphics 
+Intel Iris Xe Graphics 
+Audio 
+(2) Integrated stereo speakers Integrated dual array microphone 
+Display 
+39.6 cm (15.6 in) diagonal, 
+FHD, 
+UWVA, 
+eDP, 
+antiglare, 
+LED, narrow 
+bezel, 
+bent, 
+250 nits, 
+45% NTSC (1920 x 1080) for HD and IR Camera and WWAN 
+Power 
+65 W USB Type-C TM adapter 
+Battery type 
+Long Life 3-cell, 51.3 Wh Polymer 
+Battery and Power 
+Long Life 3-cell, 51.3 Wh Polymer 
+Wireless connectivity 
+Intelo Wi-Fi 6E AX211 (2x2) and Bluetootho 5.3 wireless card (supporting gigabit data 
+rate) 
+Ports 
+(1) Thunderbolt 4 with USB4 Type-C port; 40 Gbps signalling rate (USB Power Delivery 
+and DisplayPort 1.4) 
+(1) SuperSpeed+ USB 3.2 Gen 2.0 Type-C port; 10 Gbps signalling rate (USB Power 
+Delivery, DisplayPort 1.4) 
+(2) SuperSpeed USB 3.2 Gen 1.0 Type-A ports; 5 Gbps signalling rate (one charging 
+port) 
+(1) Ethernet (RJ-45) port 
+(1) HDMI 2.1 port (cable sold separately) 
+(1) Headphone/microphone combo jack 
+(1) SmartCard Reader (optional) 
+(1) Nano SIM slot for WWAN (optional) 
+(1) Power input port
+
+[Page 9]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+10 
+OF 
+ 
+Webcam 
+720p HD IR camera 
+Software 
+Windows 11 Pro 
+Weight 
+1.78 kg 
+Dimensions 
+35.94 x 23.39 x 1.99 cm 
+Warranty 
+4 Year Parts and Labor Limited Warranty, plus Accidental Damage Protection (ADP, 
+sometimes called Complete Care) 
+Keyboard 
+Premium Keyboard — spill-resistant, backlit keyboard with numeric keypad 
+Security management 
+Wolf Security of Business 
+Fingerprint sensor (select models) 
+Sure Click 
+Sure Sense 
+Sure Run 
+Sure Recover 
+Sure Start 
+Tamper Lock 
+Sure Admin 
+Processor type 
+Latest generation 
+Extras 
+Security Lock 
+Laptop Bag 
+Portable Docking Station (Type-C connector) with VGA, HDMI, Network and USB
+
+[Page 10]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+11 
+OF 
+ 
+ 
+5.12 
+Executive High Spec Laptop 
+ 
+Type 
+Tablet/Laptop type with stylus and touch screen 
+Processor 
+Intels Core’ M i7-1355U (up to 5.0 GHz with lntel@ Turbo Boost Technology, 12 MB L3 
+cache, 10 cores, 12 threads) 
+Chipset 
+Intels integrated SoC 
+Memory 
+16 GB LPDDR4x-4266 MHz RAM (onboard) 
+Storage 
+1 TB PCIe 
+Gen4 NVMe T^ TLC M.2 SSD 
+Graphics 
+Integrated, lntelo lriso X° Graphics 
+Audio 
+Audio by Bang & Olufsen 
+Quad speakers 
+Audio Boost 
+Display 
+34.3 cm (13.5") diagonal 
+WUXGA+ (1920 x 1280) 
+multitouch-enabled 
+IPS 
+edge-to-edge glass 
+micro-edge 
+anti-reflection Corningo Gorillas Glass NBT’ M 
+Low Blue Light 
+400 nits 
+low power 
+100% sRGB 
+Screen-to-body 
+ratio 
+90.11% 
+Power 
+65 W USB Type-CO power adapter 
+Battery type 
+4-cell, 66 Wh Li-ion polymer 
+Battery and Power 
+Up to 13 hours and 30 minutes 
+Wireless 
+connectivity 
+Intels Wi-Fi 6E AX211 (2x2) and Bluetootho 5.3 wireless card (supporting gigabit data 
+rate) 
+Ports 
+1 USB Type-A 10Gbps signaling rate 
+2 ThunderboIt’ M 4 with USB Type-CA 40Gbps signaling rate 
+1 headphone/microphone combo 
+Webcam 
+True Vision SMP IR camera with camera shutter, temporal noise reduction and 
+integrated dual array digital microphones 
+Software 
+Windows 11 Enterprise 
+Weight 
+1.36 - 2 kg 
+Dimensions 
+29.8 x 22.04 x 1.69 cm 
+Warranty 
+4 Year Parts and Labor Limited Warranty, plus Accidental Damage Protection (ADP, 
+sometimes called Complete Care) 
+Keyboard 
+Full-size, backlit, nightfall black keyboard 
+Security 
+management 
+All-in-One keyboard; Trusted Platform Module (Discrete TPM) support 
+Sensors 
+Accelerometer
+
+[Page 11]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+12 
+OF 
+ 
+ 
+ 
+ 
+5.13 
+High Spec Laptop 
+ 
+ 
+ 
+Type 
+Laptop 
+Operating System 
+Windows 11 Enterprise 
+Graphics 
+NVIDIA RTX A2000 4 GB Graphics 
+Integrated Camera 
+Integrated HD 720p IR DualAryMic Webcam 
+Display 
+17.3 inch FHD (1920x1080) Anti-Glare LEDUWVA 300 for 
+HD Webcam + IR ALSensor 
+System Memory 
+32GB (1x32GB) DDR4 3200 
+M.2 Storage 
+1TB PCIe-3x4 2280 NVMe TLC Solid State Drive 
+Internal Storage 
+1TB 7200RPM SATA 
+Near Field Communication 
+No Near Field Communication (No NFC) 
+Communication WLAN and 
+BlueTooth 
+Intel Wi-Fi 6 AX201 ax 2x2 MU-MIMO nvP 160MHz 
++BIuetooth 5 WW with 2 Antennas 
+Wireless WAN 
+Intel XMM 7360 LTE-Advanced (Cat 9) 
+Fingerprint Sensor 
+Fingerprint Sensor 
+Battery 
+8 Cell 94 WHr Long Life 
+AC Adapter 
+200 Watt Smart PFC Slim AC Adapter 
+Power Cord 
+C13 1.0m Tag Premium Power Cord 
+Warranty 
+4 Year Parts and Labor Limited Warranty, plus Accidental Damage 
+Protection (ADP, sometimes called Complete Care) 
+Out-Of-Band Manageability 
+No vPro AMT supported 
+Drop in Box Miscellaneous 
+MISC Hard Drive Carrier Cage 
+Drop In Box Hardware 
+DIB MWKS TB Dock 230W 
+Drop In Box Hardware 
+DIB Sure Key Cable Lock 
+Drop In Box Hardware 
+DIB Business Backpack 
+Keyboard 
+Dual Point Backlit spill-resistant PremiumKeyboard 
+TechnicalAV 
+Electronic TCO Certified labeling 
+TechnicalAV 
+EU RED Pictogram Label 
+TechnicalAV 
+lnTile Capable 
+TechnicalAV 
+Electronic Energy Star labeling (EStar) 
+Processor Labels 
+Core i9 
+eCompass 
+Gyroscope
+
+[Page 12]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+46 
+PAGE 
+5 
+OF 
+ 
+ 
+ 
+Term 
+Meaning 
+LC 
+Lucent connector 
+SC 
+Standard connector 
+SFP 
+(Small Form-factor) A small transceiver or port 
+TB 
+Terra byte 
+(DVD-RW) 
+SATA Digital Versatile Disk Rewritable 
+MP 
+Mega Pixels
+
+[Page 13]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+13 
+OF 
+ 
+ 
+5.14 
+Tablet: 
+ 
+The tablet shall have the following standards: 
+ 
+5.14.1 
+Display 10.1" inch LCD. captive touch screen, scratch resistant 
+5.14.2 
+Sound: Stereo speaker with three and a half mm audio jack 
+5.14.3 
+Compatible with the long term evolution network (LTE) or later. 
+5.14.4 
+Memory microSD up to 64 GB, Internal: 16/32/64 GB storage 3 GB RAM, 
+5.14.5 
+Bluetooth, infrared, microUSB v2.0 USB Host, 
+5.14.6 
+Cameras; 8 mega pixels (MP) primary and 5 MP secondary camera, (minimum) 
+5.14.7 
+Android or IOS operating system, CPU Quad-core 2.3 GHz 
+5.14.8 
+Messaging: short messaging service, (SMS threaded view), multimedia message 
+5.14.9 
+(MMS), electronic mail (Email), Push Mail, instant messaging (IM), 
+5.14.10 
+The tablet shall support Real simple syndication (RSS) feeds, Browser: HTMLS, 
+5.14.11 
+The tablet shall be equipped with assisted global positioning system (A-GPS) and global 
+satellite navigation system (GLONASS) support 
+5.14.12 
+Battery: Up to 2230 hours (h) h standby time and up to 1oh talk-time. 
+ 
+6 
+VXRaiI Enclosure VXRAIL 14G P SERIES. 
+ 
+6.1 SYSTEM: VXRaiI P570F or latest and compatible to the current models. 
+6.2 HARDWARE: 
+6.2.1 
+CACHENVME800GB FVXRAIL-500 
+6.2.2 
+CACHE NVME 800GB SWPD 2.51 
+6.2.3 
+FXCVRSFPSR1G10GAFVXRAIL-500. 
+6.2.4 
+TRANSCEIVER LC SR 1G 10G AF SYS7402U1N24DNVFVXRAIL-500 2U1N 
+24X2.5 NVME CAPABLE. 
+6.2.5 
+AF RISER740CNFG6DUALVXRAIL-500 RISER R740CNFG6 AND BOSS CTR. 
+6.2.6 
+HBA330CTRL2SFVXRAIL-500 PERCHBA330+RAIDCTR12GB 2SLP 
+FLRDIMM2666INFOVXRAIL-500. 
+6.2.7 
+FACTORYORD RQ 2666MHZ LRDIMMS 
+6.2.8 
+MEMLRDIMM64GBAFVXRAIL-500 MEMORY 64GB LRDIMM 
+6.2.9 
+AF NDCX710QP10GBSFPAFVXRAIL-500 NDC INTELX710 QP 10GB 
+6.2.10 SFP+ AF INSTKITSFPAFHCIA INSTALL KIT 10GBE SFP+ AF 
+CAPSATASSD384TBVX5 
+6.2.11 VXRAIL-500 CAPACITY SATA SSD 3.84TB1WPD PR6142GD16C26AF. 
+6.2.12 VXRAIL-500 INTEL CPU 6142 16C 2.6 GHZ AF PS1600W-250VACF 
+6.2.13 VXRAIL-500 DUALHOTPLG 1600W PS-250VAC F INSTGR13ZAFR740 
+6.2.14 VXRAIL-500 SOUTH AFRICA SHIPMOD GR1300 TPM1.2MODULE 
+6.2.15 AFVXRAIL-500 TPM 1.2 MODULE AF PR6142GD16C26AF-2 
+6.2.16 VXRAIL-SOOINTELCPU 6142 16C 2.6 GHZ2NDAF 2SP570HSDM125 
+6.2.17 GRVXRAIL-500 2SP570 125GR CHASSIS,FAN, HSK PWR13-14-2M-EMEAC13- 
+C14 PDU RACK PWR CRD 2M EMEA RAILKIT2U1N 
+6.2.18 AFVXRAIL-500 B4 RDYRAILS2-4POSTRACKS2U1NAF 
+6.2.19 M-PS-HW-DE14- 
+6.2.20 HARDWARE SUPPORT 3 YEARS 
+*NB (Only the latest and compatible model shall be acceptable) 
+ 
+6.3 
+Datacenter Network Switches and Accessories 
+ 
+6.3.1 
+DR SWITCHES _ Dell Networking S5224-ON - [EMEA_S5224_ON] 
+6.3.1.1 Dell EMC S5224F-ON Switch, 24x 25GbE SFP28, 4x 100GbE QSFP28 ports, IO to 
+PSU air, 2x PSU. 
+6.3.1.2 C13 Power Cord 220V 1.8M South Africa 
+6.3.1.3 OS10 Enterprise, S5224F-ON 
+6.3.1.4 Dell Networking, Transceiver, SFP+, 10GbE, SR, 850nm Wavelength, 300m Reach 
+6.3.1.5 Dell Networking Cable, 100GbE QSFP28 to QSFP28, Passive Copper Direct Attach 
+Cable, 0.5 Meter 
+6.3.1.6 5 Years ProSupport Plus OS10 Enterprise Software Support-Maintenance 
+6.3.1.7 Base Warranty
+
+[Page 14]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+14 
+OF 
+ 
+"""““"6f3.1 8"1YrReturntoDepot-Mintmum“Warran "”“""""“""”"“""““"”"”“"“’ 
+6.3.1.9 90 Day SW Bug Fixes Support Media Replacement 
+6.3.1.10 
+INFO 1Yr ProSupport Plus and 4hr Mission Critical 
+6.3.1.11 
+5Yr ProSupport Plus and 4hr Mission Critical 
+6.3.1.12 
+ProDeploy Plus Dell Networking S Series SXXX Switch - Deployment 
+6.3.1.13 
+ProDeploy Plus Dell Networking S Series SXXX Switch - Deployment 
+Verification 
+6.3.1.14 
+ProDeploy Plus Training Credits 800 Redeem at education.dellemc.com Expires 
+1Yr from Order Date 
+6.4 
+Dell Networking Cable, OM4 LC/LC Fiber Cable, (Optics required), 5 Meter, Customer kit 
+6.5 
+Dell Networking Cable, OM4 LC/LC  Fiber Cable, (Optics required), 10 Meter, Customer kit 
+6.6 
+C2G - Cat6 Ethernet (RJ-45) UTP Snagless Cable - Black - 5m 
+6.7 
+SFP28 SR Optic, 25GbE, 85C, for all SFP28 ports, Customer Install 
+6.8 
+VxRail After Point of Sale Upgrade 
+6.8.1 
+VxRail SFP+ SR 10GbE Optical Transceiver, High Temperature, Dell, CK APOS 
+ 
+ 
+‹ 
+7. Technical Specifications for ASE2000 Communication Test Set and CRSP Router - Cisco- 
+867VAE-K9 VDSL/ADSL w/PSU 
+ 
+7.1 ASE2000 Communication Test Set 
+7.1.1. Description 
+ 
+ASE2000 Communication Test Set is an integrated hardware and software 
+product with simulation and test capabilities for a wide range of Network and 
+Serial RTU and IED Protocols. The test set should include an ASE USB dual- 
+channel serial l/O device, cables, adapters, software and documentation. 
+ 
+7.1.2. Protocols supported 
+ 
+DNP3.0 serial 
+DNP3.0 LAN/WAN 
+IEC 60870-5-101 
+IEC 60870-5-104 
+7.1.3. Basic Test modes 
+Line monitor mode 
+Monitor communication between master and slave device (Master to RTU and RTU to 
+Master must be displayed). 
+ 
+Master station mode 
+Communicate directly to the RTU by issuing data, control, and other requests. 
+ 
+RTU Simulation mode 
+Respond directly to the master by simulating one or more RTUs on a single line, each 
+response must simulate analog, digital, and pulse accumulator point changes. 
+ 
+7.1.4. Features 
+Line Monitor view 
+The view must be divided into two panes with raw data values on the left and 
+interpreted data in the right.
+
+[Page 15]
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+ 
+PAGE 
+15 
+OF 
+44 
+Exchange list 
+The display must have various request and controls to allow communication to Master 
+station or RTU. 
+ 
+Line Analyzer view 
+Analog and Digital Controls 
+English interpretation of communication line data values 
+Logging communication data to disk for later viewing (capture file) 
+Event triggering 
+Event logging capabilities 
+ 
+7.1.5. Software options 
+ 
+The must be compatible with Windows 10/11 or latest 
+ 
+7.1.6. Hardware options 
+ 
+ASE2000-USB-M that utilizes the dual —channel BCOM-USB device and ASE dual- 
+channel Bell-202 modem for serial RS-232 operation on laptop. 
+The modem must be powered through the USB device. 
+BCOM-USB must provide status LED indications on each channel for RS-232 data and 
+control signals (RxD, TxD, RTS, CTS and DCD) 
+RTU monitor, Master simulation and RTU simulation mode communications cables 
+must be included. 
+7.2. 
+CRSP Router - Cisco-867VAE-K9 VDSL/ADSL w/PSU 
+ 
+7.2.1. Description 
+ 
+An entry level member of the Cisco Integrated Services Router Generation 2 (ISR G2) 
+family, the Cisco 867VAE Integrated Services Router offers connectivity to teleworkers 
+and small branches. 
+ 
+7.2.2. Capacity 
+ 
+Type — IPSec VPN tunnels 
+Value—10 
+ 
+7.2.3. Flash Memory 
+ 
+Installed Size -65Mb 
+7.2.4. Header 
+Compatibility — PC 
+Manufacture — Cisco 
+Packaged Quantity 
+1 
+Product Line — Cisco 
+Model —867VAE 
+Brand — Cisco
+
+[Page 16]
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+ 
+ 
+ 
+ 
+Interface —VDSL2/ADSL 
+Type - USB 
+Qty — 4 
+Connector Type — 4 pin USB Type A 
+7.2.6. 
+Line Properties 
+ 
+Framing Format — ANSI T1.413 
+7.2.7. 
+Miscellaneous 
+ 
+Compliant Standards —AS/NZS 3548, CISPR 22, CISPR 24, EN 61000-3-2, EN 61000- 3-
+3, EN 61000-4-3, EN 61000-4-6, EN55022, EN55022 Class B, EN55024, FCC CFR47 
+Part 15, ICES-003, VCCI V-3 
+Height(Racks Units) —1 
+ 
+7.2.8. 
+Modem 
+Type -Router 
+Connectivity Technology -Wired 
+Data Link Protocol —Ethernet, Fast Ethernet, Gigabit Ethernet 
+Remote Management Protocol —HTTP, HTTPS, SNMP 3, SSH 
+Compliant Standards —IEEE 802.1Q, IEEE 802.3ah 
+Feature —Auto-uplink (auto MDI/MDI-X), Class-Based Weighted Fair Queuing 
+(CBWFQ), DHCP client, DHCP relay, DHCP server, DNS proxy, Firewall protection, 
+IPv6 support, Low-latency queuing (LLQ), NetFlow, Web Services Management Agent 
+(WSMA), Weighted Fair Queuing (WFQ). 
+Network Transport Protocol -DHCP, DNS, IPSec, PPPoA, PPPoE 
+Routing Protocol —RIP-1, RIP-2 
+Integrated Switch — 4-port switch 
+Form Factor —4-port switch 
+WAN Ports Qty —2 
+Key Features —Firewall, USB port 
+7.2.9. OS Provided 
+Type —Cisco IOS Advanced Security 
+7.2.10. Power Device 
+ 
+Frequency Required —50/60 Hz 
+Power Provided —60 Watt 
+Nominal Voltage —AC 120/230 V 
+Type —External power adapter 
+7.2.11. RAM 
+Installed Size -256 MB 
+Max Supported Size —256 MB 
+ 
+8. Wireless Access Points (Huawei AirEngine 8771-X1T) 
+ 
+8.1. 
+Interfaces 10/100/1000 BASE-T autosensing (RJ45), 802.3af Ethernet 
+Switch 
+8.2. 
+External Power Supply, 2.4 GHz or five GHz Band, 802.11n, 3x2 multiple 
+input multiple output (MIMO), 
+8.3. 
+Access Point mode, wireless distribution system (WDS) bridging, Client
+
+[Page 17]
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+ 
+PAGE 
+17 
+OF 
+44 
+"""“”““"““"Brdge"mode/""""“""""“““"““""“““““"""""""""“““"""“""" 
+8.4. 
+VLAN support, 1 management VLAN plus 4 VLANs for service set identifier 
+8.5. 
+(SSID), eight Multiple SSIDs, 802.1X supplishallt, SSID to VLAN mapping, 
+Auto channel selection, 
+8.6. 
+Spanning tree, Load balancing, IPv6, quality of service (QOS), Wi-Fi 
+Multimedia and Traffic Specification (WMM TSPEC), 
+8.7. 
+Maximum of eight access points (AP’s) per cluster, eighty active clients per 
+cluster, 
+8.8. 
+Web browser, simple network management protocol (SNMP) and POE 
+injectors where required. 
+ 
+9. MAINTENANCE AND WARRANTY CONDITIONS 
+ 
+9.1. 
+The supplier shall guarantee correct operation of the equipment for at least 
+12 months, as of the date of signing the provisional Acceptance. 
+ 
+10. 
+DOCUMENTATION 
+ 
+10.1. 
+Full technical and functional details for all items offered shall be submitted. 
+10.2. 
+All instruction manuals shall be provided for the equipment offered. 
+10.3. 
+The manuals shall be in English and sufficiently detailed for each item offered and 
+enable City Power staff to install, maintain, test, configure and use. 
+ 
+11. 
+MARKING AND LABELLING 
+ 
+The following information shall appear in legible and indelible marking on the 
+outside of the equipment. 
+ 
+a. The manufacturer’s name or trademark; 
+b. Serial number for tracking 
+c. Year of manufacturing 
+ 
+12. 
+TRAINING 
+ 
+a. The suppliers shall provide comprehensive training courses on the 
+configuration, installation, operation and maintenance. 
+b. Licensing of the system shall be incorporated into the contract where applicable. 
+ 
+13. 
+QUALITY MANAGEMENT 
+ 
+A quality management system shall be set up in order to assure the quality of the 
+equipment during design, development, production and servicing. Guidance on the 
+requirements for a quality management system may be found in the following 
+standards: ISO 9001:2015. The details shall be subject to agreement between the 
+purchaser and supplier. 
+ 
+14. 
+HEALTH AND SAFETY 
+ 
+A health and safety plan shall be set up in order to ensure proper management 
+and compliance of the equipment during installation, operation, maintenance, and 
+decommissioning phases. Guidance on the requirements of a health and safety plan 
+shall be found in ISO 45001:2018 standards. The details shall be subject to 
+agreement between City Power and the Supplier. 
+ 
+15. 
+ENVIRONMENTAL MANAGEMENT 
+ 
+An environmental management plan shall be set up in order to ensure the proper 
+environmental management and compliance of the equipment during their entire life cycle
+
+[Page 18]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+REV 
+CP_TSSPEC_263 
+2 
+PAGE 
+18 
+OF 
+44 
+“”“"""”"(/e“during"design,"deveIopment,"production, instaIatton/“opeaton"and"maintenance}" 
+decommissioning as well as disposal phases). Guidance on the requirements for an 
+environmental management system shall be found in ISO 14001:2015 standards. The 
+details shall be subject to agreement between City Power and the Supplier. This is to 
+ensure that the asset created conforms to environmental standards and City Power SHEQ 
+Policy.
+
+[Page 19]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+19 
+OF 
+ 
+ 
+ 
+ANNEXURE A - Bibliography 
+None
+
+[Page 20]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+20 
+OF 
+ 
+ 
+ANNEXURE B - Revision information 
+ 
+ 
+ 
+DATE 
+REV. NO. 
+NOTES 
+October 2018 
+0 
+First issue 
+February 2022 
+1 
+Second issue 
+March 2024 
+2 
+Third Issue 
+Update technology throughout the entire specification. 
+Added access points, laptops and router,
+
+[Page 21]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+21 
+OF 
+ 
+ 
+Annex C - Technical schedules A and B for 
+Desktop Platforms 
+Schedule A: Purchaser's specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+Note: Ticks, Cross [g, X], Astrick {*], Word [Noted] or TBA ["To Be Advice”] shall not be 
+accepted. 
+ 
+Tender Number:    
+ 
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:    
+ 
+Item 
+Sub-clause of 
+CP_TSSPEC_263 
+Description 
+Schedule A 
+Schedule B 
+Name of OEM 
+ 
+1. 
+5.1 
+Desktop Platforms ( all desktop Platforms) 
+YES 
+5.1.1 
+Ports: USB, serial, HDMI, Parallel and VGA 
+Requirement 
+5.1.2 
+Network interface card 
+100 -1kMBps 
+5.1.3 
+Sound card 
+Requirement 
+5.1.4 
+USB optical mouse 
+Requirement 
+5.1.5 
+USB keyboard 
+Requirement 
+5.1.6 
+Desktop and Monitor Cable lock 
+Requirement 
+5.1.7 
+Preloaded with a preconfigured City Power 
+image 
+Requirement 
+5.1.8 
+Built in Wi-Fi 
+Requirement 
+5.1.9 
+23” inch LCD monitor 
+Requirement 
+5.1.10 
+4 Year Parts and Labor Limited Warranty, 
+plus Accidental Damage Protection (ADP, 
+sometimes called Complete Care) 
+Requirement
+
+[Page 22]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+22 
+OF 
+ 
+ 
+Annex C - Technical Schedules A and B for 
+Standard Full-tower (i5) 
+Schedule A: Purchaser’s specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+Item 
+Sub-clause of 
+CP_TSSPEC_263 
+Description 
+Schedule A 
+Schedule B 
+Name of OEM 
+ 
+2. 
+5.2 
+Standard Full-tower (i5) 
+YES 
+5.2.1 
+Intel based processor. 
+»=i5 
+5.?.2 
+USB RAM 
+»=16 GB 
+5.2.3 
+500 GB SSD hard drive 
+>=500 GB 
+5.2.4 
+Black chassis 
+»= 1 
+5.2.5 
+2 x HDMI ports 
+YES 
+5.2.6 
+2 x USB 3 ports 
+YES 
+5.2.7 
+Peripheral component interconnects (PCI) Slot 
+(Minimum of one) 
+Min 
+5.2.8 
+SATA Digital Versatile Disk Rewritable (DVD- 
+RW) 
+Min 
+5.2.9 
+Graphics card (Minimum of 512MB) 
+Min 
+5.2.10 
+USB cordless optical mouse 
+Requirement 
+5.2.11 
+USB cordless keyboard 
+Requirement 
+5.2.12 
+23" inch LCD monitor 
+Requirement 
+5.2.13 
+4 Year Parts and Labor Limited Warranty, plus 
+Accidental Damage Protection (ADP, sometimes 
+called Complete Care) 
+Requirement 
+Note: Ticks, Cross [g, X], Astrick {*], Word [Noted] or TBA [“To Be Advice”] shall not be 
+accepted. 
+ 
+Tender Number:    
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:
+
+[Page 23]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP„TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+23 
+OF 
+ 
+ 
+Annex C - Technical Schedules A and B for 
+High Spec Full-tower (i7) 
+Schedule A: Purchaser’s specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+Item 
+Sub-clause of 
+CP_TSSPEC_263 
+Description 
+Schedule A 
+Schedule B 
+Name of OEM 
+ 
+3. 
+5.3 
+High Spec Full-tower (i7) 
+YES 
+5.3.1 
+Intel based processor. 
+»=I7 
+5.3.2 
+16 GB RAM 
+»= 16GB 
+5.3.3 
+SOOGB hard drive: SSD 
+»= 500 GB 
+5.3.4 
+Black chassis 
+Requirement 
+5.3.5 
+PCI Slot 
+»= 1 
+5.3.6 
+SATA DVD-RW 
+Requirement 
+5.3.7 
+23" inch LCD monitor 
+5.3.8 
+Graphics card 
+>= 1024MB 
+5.3.9 
+2 x HDMI ports 
+Min 
+5.3.10 
+2 x USB 3 ports 
+Min 
+5.3.11 
+USB cordless optical mouse 
+Requirement 
+5.3.12 
+USB cordless keyboard 
+Requirement 
+5.3.13 
+4 Year Parts and Labor Limited Warranty, plus Accidental 
+Damage Protection (ADP, sometimes called Complete 
+Care) 
+Yes 
+Note: Ticks, Cross (¢, X], Astrick {*], Word [Noted] or TBA [“To Be Advice”] shall not be 
+accepted. 
+ 
+Tender Number:    
+ 
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:
+
+[Page 24]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+24 
+OF 
+ 
+ 
+ 
+Annex C - Technical Schedules A and B for Specialized Work stations 
+ 
+ 
+Schedule A: Purchaser’s specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+Note: Ticks, Cross [J, X], Astrick {”], Word [Noted] or TBA [“To Be Advice”] shall not be 
+accepted. 
+ 
+Tender Number:    
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:    
+ 
+Item 
+Sub-clause of 
+CP_TSSPEC_263 
+Description 
+Schedule A 
+Schedule B 
+Name of OEM 
+ 
+4. 
+5.4 
+Specialized Work stations 
+YES 
+5.4.1 
+Grade: Workstation Grade i9 Processor 
+Comply 
+5.4.2 
+RAM: 32 GB 
+Requirement 
+5.4.3 
+500 GB SSD hard drive 
+Requirement 
+5.4.4 
+Processor speed: 3.0 GHZ each processor 
+Requirement 
+5.4.5 
+2 x HDMI ports 
+Requirement 
+5.4.6 
+2 x USB 3 ports 
+Requirement 
+5.4.7 
+USB cordless optical mouse 
+Requirement 
+5.4.8 
+USB cordless keyboard 
+Requirement 
+5.4.9 
+nterfaces: 1 GB dual Ethernet ports Should support 
+LAN teaming or Bonding 
+Requirement 
+5.4.10 
+User interface: Three/Two(as per BOQ) 24" wide 
+screen (16:9 aspect ratio), HD Resolution 
+(1920x1080) TFT Colour monitors, keyboard & 
+optical Bluetooth mouse 
+Requirement 
+5.4.11 
+Mounting Desktop mounting 
+Requirement 
+5.4.12 
+Quad port Graphics Card: 4 GB, supports OpenGL 
+4 or higher. Supports 4 displays 
+Requirement 
+5.4.13 
+Operating system: Windows11 
+Enterprise 
+Requirement 
+5.4.14 
+4 Year Parts and Labor Limited 
+Warranty, plus Accidental Damage 
+Protection (ADP, sometimes 
+called 
+Complete Care) 
+Requirement
+
+[Page 25]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+25 
+OF 
+ 
+ 
+ 
+ 
+Schedule A: Purchaser’s specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+Item 
+Sub-clause of 
+CP_TSSPEC_263 
+Description 
+Schedule A 
+Schedule B 
+Name of OEM 
+ 
+s. 
+5.5 
+All in one Desktop (i7) 
+YES 
+5.5.1 
+Base Unit EliteOne 800 G6 24 AiO BU -Non- 
+Touch IDS 
+Comply 
+5.5.2 
+TCO Compliance Electronic TCO Edge 
+Certified labeling 
+Requirement 
+5.5.3 
+Processor Intel Core i7 10700 8C 65W CPU 
+i7 10700 8C 
+65W CPU 
+5.5.4 
+Operating System Windows 11 Enterprise 64bit 
+Requirement 
+5.5.5 
+5.6.6Operating System Image Optimization 
+Corporate-Ready Image 
+Requirement 
+5.5.6 
+Camera Integrated SMP Webcam 
+SMP Webcam 
+5.5.7 
+System Memory 16GB (1x16GB) DDR4 
+2666 SODIMM Memory 
+Requirement 
+5.5.8 
+NVMe TLC Solid State Drive 
+»=M.2 
+SOOGB 
+5.5.9 
+Cordless USB 320K Keyboard SA 
+»=USB 320K 
+5.5.10 
+Cordless Mouse USB Optical 
+USB Optical 
+5.5.11 
+Networkinglntel Wi-Fi 6 AX201 ax 2x2 vPro 
++BIuetooth 5.1 WW 
+Requirement 
+5.5.12 
+Fingerprint Reader, Fingerprint Sensor 
+Requirement 
+5.5.13 
+AudioAiO AiO Internal Stereo (SW) 
+Speakers 
+Requirement 
+5.5.14 
+Packaging OptionsSingle Unit (All-in-One) 
+Adjustable Height Stand Packaging 
+State 
+5.5.15 
+Microsoft Teams Ready 
+Requirement 
+5.5.16 
+WLAN AX201 ax 2x2 vPro Label 
+5.5.17 
+DVDRW HP USB External DVDRW Drive 
+Requirement 
+5.5.18 
+4 Year Parts and Labor Limited Warranty, plus Accidental 
+Damage Protection (ADP, sometimes 
+called Complete 
+Care) 
+State 
+Note: Ticks, Cross [g, X], Astrick {*], Word [Noted] or TBA [“To Be Advice"] shall not be 
+accepted. 
+ 
+Tender Number:   
+ 
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:
+
+[Page 26]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+26 
+OF 
+Annex C - Technical Schedules A and B for 
+ 
+Desktop Monitor 24-inch Widescreen 
+Schedule A: Purchaser's specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+Note: Ticks, Cross [J, X], Astrick {*], Word [Noted] or TBA [“To Be Advice"] shall not be 
+accepted. 
+ 
+Tender Number:    
+ 
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:    
+ 
+Item 
+Sub-clause of 
+CP_TSSPEC_263 
+Description 
+Schedule A 
+Schedule B 
+Name of OEM 
+ 
+g. 
+5.6 
+Desktop Monitor 24 inch Widescreen 
+YES 
+5.6.1 
+Aspect ratio 
+»= 16:9 
+5.6.2 
+Resolution; 
+>= 16K “ 9 
+5.6.2 
+Pixel pitch of 
+0.2768 mm 
+5.6.3 
+Brightness: 
+250(cd/m*) 
+5.6.4 
+Contrast ratio: static and dynamic, 
+1k:1 and 3k:1 
+5.6.5 
+View angle: horizontal; vertical 
+170°;160° 
+5.6.6 
+Response time: 
+Sms on/off 
+5.6.7 
+Tilt and swivel angle: 
+-5 - 25° 
+5.6.8 
+User programmable with On-screen controls a ’ I d 
+language selection. 
+Requirement 
+5.6.9 
+Backlights, Light emitting diode 
+LED 
+5.6.10 
+Input connector: 
+1VGA, 1DVI 
+with HDCP 
+5.6.11 
+Power Input voltage 
+100 -240 V 
+5.6.12 
+Operating temperature range: ) 
+(5 to 35°C) 
+5.6.13 
+humidity range 
+(20 to 80% 
+RH.) 
+5.6.14 
+Operating time 
+24/7/365
+
+[Page 27]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+27 
+OF 
+Annex C - Technical Schedules A and B for 
+ 
+Desktop Monitor 27 inch 
+ 
+Schedule A: Purchaser's specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+Note: Ticks, Cross [g, X], Astrick {*], Word [Noted] or TBA [“To Be Advice”] shall not be 
+accepted. 
+ 
+Tender Number:    
+ 
+ 
+ 
+Tenderer’s Authorised Signatory:   
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:    
+ 
+Item 
+Sub-clause of 
+CP_TSSPEC_263 
+Description 
+Schedule A 
+Schedule B 
+Name of OEM 
+ 
+7. 
+5.7 
+Desktop Monitor 27 inch 
+YES 
+5.7.1 
+Diagonal viewing size: 
+68.6cm, 27 
+5.7.2 
+Aspect ratio 
+(16:9) 
+5.7.3 
+Contrast ratio: (1000:1), 8 million : 1 (dynamic) 
+YES 
+5.7.4 
+Brightness: 
+>=300cd/m2 
+5.7.5 
+Response time: (gray to gray) 
+>=6ms 
+5.7.6 
+Tilt and swivel 
+YES 
+5.7.7 
+Backlight technology: LED 
+Requirement 
+5.7.8 
+Connector: HDMI(with HDCP) , VGA 
+Requirement 
+5.7.9 
+Power: VAC 
+100 to 240 
+5.7.10 
+Operating time 
+24/7/365 
+5.7.11 
+Viewing angle: 
+»=178:178
+
+[Page 28]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+28 
+OF 
+Annex C - Technical Schedules A and B for 
+ 
+Specialized workstation monitor 
+ 
+Schedule A: Purchaser's specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+Note: Ticks, Cross [J, X], Astrick [‘], Word [Noted] or TBA [“To Be Advice"] shall not be 
+accepted. 
+ 
+Tender Number:    
+ 
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:    
+ 
+Item 
+Sub-clause of 
+CP_TSSPEC_263 
+Description 
+Schedule A 
+Schedule B 
+Name of OEM 
+ 
+g. 
+5.8 
+Specialized workstation monitor 
+5.8.1 
+Diagonal Viewable size: 
+24" 
+5.8.2 
+Color support: 
+16.7 million 
+5.8.3 
+On screen control: 
+Required 
+5.8.4 
+Anti-glare & anti-static: 
+Required 
+5.8.5 
+Tilt , Swivel: 
+Required 
+5.8.6 
+Aspect ratio: 
+16:09
+
+[Page 29]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+29 
+OF 
+Annex C - Technical Schedules A and B for 
+ 
+Desktop Graphics Card 
+Schedule A: Purchaser’s specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+Note: Ticks, Cross [J, X], Astrick {”], Word [Noted] or TBA [“To Be Advice”] shall not be 
+accepted. 
+ 
+Tender Number:    
+ 
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:    
+ 
+Item 
+Sub-clause of 
+CP_TSSPEC_263 
+Description 
+Schedule A 
+Schedule B 
+Name of OEM 
+ 
+g. 
+5.9 
+Desktop Graphics Card 
+YES 
+5.9.1 
+Support display. 
+»=Quad 
+5.9.2 
+Quad HDMI, Display Port output, 
+»= 4 
+5.9.3 
+1GB, Double data rate, type three synchronous 
+dynamic random-access memory or (SDRAM) witha 
+high bandwidth interface (DDR3), 
+»=1GB, 
+DDR3 
+5.9.4 
+PCI Express “ 16 and a vertical refresh rate 
+Max 85Hz 
+5.9.5 
+DDR3 or more 
+»=64BW 
+5.9.6 
+Display support: 
+400Mhz 
+RAMDAC 
+5.9.7 
+Display max resolution: 
+2560:1600D 
+2048:1560A 
+5.9.8 
+HDMI 
+Requirement
+
+[Page 30]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+30 
+OF 
+Annex C - Technical Schedules A and B for 
+ 
+Mobile Platforms: 
+Schedule A: Purchaser’s specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+Item 
+Sub-clause of 
+CP_TSSPEC_263 
+Description 
+Schedule A 
+Schedule B 
+Name of OEM 
+ 
+10. 
+Mobile Platforms: (All Laptops shall have the 
+following as standard) 
+YES 
+5.10.1 
+USB, HDMI, and VGA Ports 
+YES 
+5.10.2 
+Network interface card 
+(100,1000) 
+5.10.3 
+Sound card 
+Requirement 
+5.10.4 
+USB infrared mouse 
+Requirement 
+5.10.5 
+Notebook cable lock (compatible with desktop) 
+Requirement 
+5.10.6 
+Notebook case 
+Requirement 
+5.10.7 
+Docking station (compatible) 
+Requirement 
+5.10.8 
+Preloaded with a preconfigured City Power image. 
+Requirement 
+5.10.9 
+Built in wireless modem 
+Requirement 
+Note: Ticks, Cross [J, X], Astrick {*], Word [Noted] or TBA [“To Be Advice"] shall not be 
+accepted. 
+ 
+Tender Number:    
+ 
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:
+
+[Page 31]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+31 
+OF 
+Annex C - Technical Schedules A and B for 
+ 
+Standard Laptop 
+Schedule A: Purchaser’s specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+Item 
+Sub-clause of 
+CP_TSSPEC_263 
+Description 
+Schedule A 
+Schedule B 
+Name of OEM 
+ 
+11. 
+Standard Laptop 
+YES 
+5.11.1 
+ntel Core i5-1335U Processor (0.9 GHz Efficient-core 
+base frequency, up to Efficient-core 3.4 GHz frequency 
+with Intel Turbo Boost Technology 12 MB cache and 10 
+cores) 
+»= i5 
+5.11.2 
+16 GB DDR4-3200 SDRAM (1 x 16 GB) 
+=16 GB 
+5.11.3 
+512 GB PCIeO NVMe T"  SSD 
+=500GB 
+5.11.4 
+ntel Iris Xe Graphics 
+Requirement 
+5.11.5 
+(2) Integrated stereo speakers Integrated dual array 
+microphone 
+Requirement 
+5.11.6 
+15.6" WXGA or better 
+Requirement 
+5.11.7 
+65 W USB Type-C’" adapter 
+Requirement 
+5.11.8 
+Long Life 3-cell, 51.3 Wh Polymer 
+Requirement 
+5.11.9 
+ntelo Wi-Fi 6E AX211 (2x2) and Bluetooth6 5.3 
+wireless card (supporting gigabit data rate) 
+Requirement 
+5.11.10 
+(1) Thunderbolt 4 with USB4 Type-C port; 40 Gbps 
+signalling rate (USB Power Delivery and DisplayPort 
+1.4) 
+Requirement 
+5.11.11 
+(1) SuperSpeed+ USB 3.2 Gen 2.0 Type-C port; 10 
+Gbps signalling rate (USB Power Delivery, DisplayPort 
+1.4) 
+Requirement 
+5.11.12 
+(2) SuperSpeed USB 3.2 Gen 1.0 Type-A ports; 5 
+Gbps signalling rate (one charging port) 
+Requirement 
+5.11.13 
+(1) Ethernet (RJ-45) port 
+Requirement 
+5.11.15 
+(1) HDMI 2.1 port (cable sold separately) 
+Requirement 
+5.11.16 
+(1) Headphone/microphone combo jack 
+Requirement 
+5.11.17 
+(1) SmartCard Reader (optional) 
+Requirement 
+5.11.18 
+(1) Nano SIM slot for WWAN (optional) 
+Requirement 
+5.11.19 
+(1) Power input port 
+Requirement 
+5.11.20 
+720p HD IR camera 
+Requirement 
+5.11.21 
+Windows 11 Pro 
+Requirement 
+5.11.22 
+1.78 kg 
+Requirement 
+5.11.23 
+35.94 x 23.39 x 1.99 cm 
+Requirement 
+5.11.24 
+4 Year Parts and Labor Limited Warranty, plus 
+Accidental Damage Protection (ADP, sometimes 
+called Complete Care) 
+Requirement 
+5.11.25 
+Premium Keyboard — spill-resistant, backlit keyboard 
+with numeric keypad 
+Requirement 
+5.11.26 
+Wolf Security of Business 
+Requirement 
+5.11.27 
+Fingerprint sensor (select models) 
+Requirement 
+5.11.28 
+Sure Click 
+Requirement 
+5.11.29 
+Sure Sense 
+Requirement
+
+[Page 32]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+32 
+OF 
+ 
+ 
+5.11.30 
+Sure Run 
+Requirement 
+5.11.31 
+Sure Recover 
+Requirement 
+5.11.32 
+Sure Start 
+Requirement 
+5.11.33 
+Tamper Lock 
+Requirement 
+5.11.34 
+Sure Admin 
+Requirement 
+5.11.35 
+Latest generation 
+Requirement 
+5.11.36 
+Security Lock 
+Requirement 
+5.11.37 
+Laptop Bag 
+Requirement 
+5.11.38 
+Portable Docking Station (Type-C connector) with VGA 
+HDMI, Network and USB 
+Requirement 
+ 
+Note: Ticks, Cross [J, X], Astrick {*], Word [Noted] or TBA [“To Be Advice”] shall not be 
+accepted. 
+ 
+Tender Number:    
+ 
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:
+
+[Page 33]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+33 
+OF 
+ 
+ 
+Annex C - Technical Schedules A and B 
+for Executive High Spec Laptop 
+Schedule A: Purchaser's specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+, 
+Item 
+Sub-clause of 
+CP_TSSPEC_263 
+Description 
+Schedule A 
+Schedule B 
+Name of OEM 
+ 
+12. 
+5.12.1 
+Tablet/Laptop type with stylus and touch screen 
+Requirement 
+5.12.2 
+ntelo Core T^ i7-1355U (up to 5.0 GHz with Intels 
+Turbo Boost Technology, 12 MB L3 cache, 10 cores, 
+12 threads) 
+»= i7 
+5.12.3 
+ntel@ integrated SoC 
+5.12.4 
+16 GB LPDDR4x-4266 MHz RAM (onboard) 
+”- 16 GB 
+5.12.5 
+1 TB PCIe@ Gen4 NVMe T^ TLC M.2 SSD 
+= 1TB 
+5.12.6 
+ntegrated, InteI@ Iris@ Xe Graphics 
+Requirement 
+5.12.7 
+Audio by Bang & Olufsen 
+Requirement 
+5.12.8 
+Quad speakers 
+Requirement 
+5.12.9 
+Audio Boost 
+Requirement 
+5.12.10 
+34.3 cm (13.5") diagonal 
+Requirement 
+5.12.11 
+WUXGA+ (1920 128o) 
+Requirement 
+5.12.12 
+multitouch-enabled 
+Requirement 
+5.12.13 
+Ps 
+Requirement 
+5.12.14 
+edge-to-edge glass 
+Requirement 
+5.12.15 
+micro-edge 
+Requirement 
+5.12.16 
+anti-reflection Corning@ Gorilla@ Glass NBT T• 
+Requirement 
+5.12.17 
+Low Blue Light 
+Requirement 
+5.12.18 
+400 nits 
+Requirement 
+5.12.19 
+ow power 
+Requirement 
+5.12.20 
+100% sRGB 
+Requirement 
+5.12.21 
+90.11% 
+Requirement 
+5.12.22 
+65 W USB Type-C@ power adapter 
+Requirement 
+5.12.23 
+4-cell, 66 Wh Li-ion polymer 
+Requirement 
+5.12.24 
+Up to 13 hours and 30 minutes 
+Requirement 
+5.12.25 
+ntel@ V\/i-Fi 6E AX211 (2x2) and Bluetootho 5.3 
+wireless card (supporting gigabit data rate) 
+Requirement 
+5.12.26 
+1 USB Type-A 10Gbps signaling rate 
+Requirement 
+5.12.27 
+2 Thunderbolt T" 4 with USB Type-CO 40Gbps 
+signaling rate 
+Requirement 
+5.12.28 
+1 headphone/microphone combo 
+Requirement 
+5.12.29 
+True Vision SMP IR camera with camera shutter, 
+temporal noise reduction and integrated dual array 
+digital microphones 
+Requirement 
+5.12.30 
+Windows 11 Enterprise 
+Requirement 
+5.12.31 
+1.36 - 2 kg 
+Requirement 
+5.12.32 
+29.8 x 22.04 x 1.69 cm 
+Requirement
+
+[Page 34]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+34 
+OF 
+ 
+ 
+5.12.33 
+4 Year Parts and Labor Limited Warranty, plus 
+Accidental Damage Protection (ADP, sometimes 
+called Complete Care) 
+Requirement 
+5.12.34 
+Full-size, backlit, nightfall black keyboard 
+Requirement 
+5.12.35 
+All-in-One keyboard; Trusted Platform Module (Discrete 
+TPM) support 
+Requirement 
+5.12.36 
+Accelerometer 
+Requirement 
+5.12.37 
+eCompass 
+Requirement 
+5.12.38 
+Color temperature light sensor 
+Requirement 
+5.12.39 
+Gyroscope 
+Requirement 
+5.12.40 
+R thermal sensor 
+Requirement 
+5.12.41 
+Latest Generation 
+Requirement 
+ 
+Note: Ticks, Cross [g, X], Astrick {*], Word [Noted] or TBA [“To Be Advice”] shall not be 
+accepted. 
+ 
+Tender Number:    
+ 
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:
+
+[Page 35]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+M 
+PAGE 
+35 
+OF 
+ 
+ 
+Annex C - Technical Schedules A and B for 
+High Spec Laptop 
+Schedule A: Purchaser's specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+Item 
+Sub•clause of 
+CP_TSSPEC_263 
+Description 
+Schedule A 
+Schedule B 
+Name of OEM 
+ 
+13. 
+5.13.1 
+Laptop Workstation 
+5.13.2 
+Laptop 
+>= i9 
+5.13.3 
+Windows 11 Enterprise 
+»=32GB 
+5.13.4 
+NVIDIA RTX A2000 4 GB Graphics 
+»=1 TB 
+5.13.5 
+ntegrated 720p IR DualAryMic Webcam 
+Requirement 
+5.13.6 
+17.3 inch FHD (1920x1080) Anti-Glare LEDUWVA 300 
+for Webcam -r IR ALSensor 
+Requirement 
+5.13.7 
+32GB (1x32GB) DDR4 3200 
+Requirement 
+5.13.8 
+1TB PCIe-3x4 2280 NVMe TLC Solid State Drive 
+Requirement 
+5.13.9 
+1TB 7200RPM SATA 
+Requirement 
+5.13.10 
+No Near Field Communication (No NFC) 
+Requirement 
+5.13.11 
+ntel Wi-Fi 6 AX201 ax 2x2 MU-MIMO nvP 160MHZ 
++BIuetooth 5 WW with 2 Antennas 
+Requirement 
+5.13.12 
+ntel XMM 7360 LTE-Advanced (Cat 9) 
+Requirement 
+5.13.13 
+Fingerprint Sensor 
+Requirement 
+5.13.14 
+8 Cell 94 WHr Long Life 
+Requirement 
+5.13.15 
+200 Watt Smart PFC Slim AC Adapter 
+Requirement 
+5.13.16 
+C13 1.0m Tag Premium Power Cord 
+Requirement 
+5.13.17 
+4 Year Parts and Labor Limited Warranty, plus 
+Accidental Damage Protection (ADP, sometimes 
+called Complete Care) 
+Requirement 
+Note: Ticks, Cross [g, X], Astrick {”], Word (Noted] or TBA [“To Be Advice”) shall not be 
+accepted. 
+ 
+Tender Number:    
+ 
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:
+
+[Page 36]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+2 
+44 
+PAGE 
+36 
+OF 
+ 
+ 
+Annex C - Technical schedules A and B for 
+Tablet 
+Schedule A: Purchaser’s specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+Note: Ticks, Cross [g, X], Astrick {*], Word [Noted] or TBA [“To Be Advice”] shall not be 
+accepted. 
+ 
+Tender Number:    
+ 
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:    
+ 
+Item 
+Sub-clause of 
+CP_TSSPEC_263 
+Description 
+Schedule A 
+Schedule B 
+14. 
+5.14 
+Name of OEM 
+ 
+5.14.1 
+Tablet 
+YES 
+5.14.2 
+Display 10.1” inch LCD. captive touch screen, 
+scratch resistant 
+Requirement 
+5.14.3 
+Sound: Stereo speaker with 3.5mm audio jack 
+Requirement 
+5.14.4 
+Memory microSD up to 64 GB, Internal: 16/32/64 GB 
+storage 3 GB RAM, 
+»= 64GB 
+5.14.5 
+Bluetooth, infrared, micro USB v2.0 USB Host, , 
+YES 
+5.14.6 
+Cameras; 8 mega pixels (MP) primary and 5 MP 
+secondary camera, (minimum) 
+<=8MP 
+5.14.7 
+Android or IOS operating system, CPU Quad-core 2.3 
+GHz 
+Yes 
+5.14.8 
+Messaging: short messaging service, (SMS threaded 
+view), multimedia message 
+Yes 
+5.14.9 
+(MMS), electronic mail (Email), Push Mail, instant 
+messaging (IM), 
+YES 
+5.14.10 
+The tablet shall support Real simple syndication (RSS) 
+feeds, Browser: HTMLS, 
+YES 
+5.14.11 
+The tablet shall be equipped with assisted 
+global positioning system (A-GPS) and 
+globalsatellite navigation system 
+(GLONASS) support 
+Requirement 
+5.14.12 
+Battery: Up to 2230 hours (h) h standby time andup 
+to 1oh talk-time. 
+Requirement
+
+[Page 37]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+1 
+46 
+PAGE 
+37 
+OF 
+ 
+ 
+Annex C - Technical Schedules A and B for 
+VXRaiI enclosure VXRAIL 14G P 
+SERIES 
+ 
+Schedule A: Purchaser’s specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+Item 
+Sub-clause of 
+CP_TSSPEC_263 
+Description 
+Schedule A 
+Schedule B 
+Name of OEM 
+ 
+t5. 
+6 
+VXRaiI enclosure VXRAIL 14G P SERIES. 
+YES 
+6.1 
+SYSTEM: VXRaiI P570F or latest and 
+compatible to the current models. 
+YES 
+6.2 
+HARDWARE: 
+6.2.1 
+CACHENVME800GB FVXRAIL-500 
+YES 
+6.2.2 
+CACHE NVME 800GB SWPD 2.51 
+Requirement 
+6.2.3 
+FXCVRSFPSR1G10GAFVXRAIL-500. 
+Requirement 
+6.2.4 
+TRANSCEIVER LC SR 1G 10G AF 
+SYS7402U1N24DNVFVXRAIL-500 2U1N 
+24X2.5 NVME CAPABLE. 
+Requirement 
+6.2.5 
+AF RISER740CNFG6DUALVXRAIL-500 RISER 
+R740CNFG6 AND BOSS CTR. 
+Requirement 
+6.2.6 
+HBA330CTRL2SFVXRAIL-500 
+PERCHBA330+RAIDCTR12GB 
+2SLP FLRDIMM2666INFOVXRAIL- 
+500. 
+Requirement 
+6.2.7 
+FACTORYORD RQ 2666MHZ LRDIMMS 
+Requirement 
+6.2.8 
+MEMLRDIMM64GBAFVXRAIL-500 MEMORY 64GB 
+LRDIMM 
+Requirement 
+6.2.9 
+AF NDCX710QP10GBSFPAFVXRAIL-500 NDC 
+INTELX710 QP 10GB 
+Requirement 
+6.2.10 
+SFP+ AF INSTKITSFPAFHCIA INSTALL KIT 
+10GBE SFP+ AF CAPSATASSD384TBVX5 
+Requirement 
+6.2.11 
+VXRAIL-500 CAPACITY SATA SSD 3.84TB1WPD 
+PR6142GD16C26AF. 
+Requirement 
+6.2.12 
+VXRAIL-500 INTEL CPU 6142 16C 2.6 GHZ AF 
+PS1600W-250VACF 
+Requirement 
+6.2.13 
+VXRAIL-500 DUALHOTPLG 1600W PS-250VAC F 
+INSTGR13ZAFR740 
+Requirement 
+6.2.14 
+VXRAIL-500 SOUTH AFRICA SHIPMOD GR1300 
+TPM1.2MODULE 
+Requirement 
+6.2.15 
+AFVXRAIL-500 TPM 1.2 MODULE AF 
+PR6142GD16C26AF-2 
+Requirement 
+6.2.16 
+VXRAIL-SOOINTELCPU 6142 16C 2.6 GHZ2NDAF 
+2SP570HSDM125 
+Requirement 
+6.2.17 
+GRVXRAIL-500 2SP570 125GR CHASSIS,FAN, 
+HSK PWR13-14-2M-EMEAC13- C14 PDU 
+RACK PWR CRD 2M EMEA RAILKIT2U1N 
+Requirement 
+6.2.18 
+AFVXRAIL-500 B4 RDYRAILS2- 
+4POSTRACKS2U1NAF 
+Requirement 
+6.2.19 
+M-PS-HW-DE14- 
+Requirement
+
+[Page 38]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+1 
+46 
+PAGE 
+38 
+OF 
+ 
+ 
+6.2.20 
+HARDWARE SUPPORT 3 YEARS 
+Requirement 
+*NB (Only the latest and compatible model shall be 
+acceptable) 
+ 
+Note: Ticks, Cross [J, X], Astrick {*], Word [Noted] or TBA [“To Be Advice”] shall not be 
+accepted. 
+ 
+Tender Number:    
+ 
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:
+
+[Page 39]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+1 
+46 
+PAGE 
+39 
+OF 
+ 
+ 
+Annex C - Technical Schedules A and B for Datacenter Network Switches and 
+Accessories 
+ 
+Schedule A: Purchaser's specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+Note: Ticks, Cross [J, X], Astrick {*], Word [Noted] or TBA [“To Be Advice"] shall not be 
+accepted. 
+Item 
+Sub-clause of 
+CP_TSSPEC_263 
+Description 
+Schedule A 
+Schedule B 
+Name of OEM 
+‹s. 
+6.3 
+Datacenter Network Switches and Accessories 
+) 
+vEs 
+6.3.1 
+DR SWITCHES _ Dell Networking S5224-ON - 
+Requirement 
+[EMEA_S5224_ON] 
+6.3.1.1 
+Dell EMC S5224F-ON Switch, 24x 25GbE 
+Requirement 
+SFP28, 4x 100GbE QSFP28 ports, IO to PSU air, 
+2x PSU. 
+6.3.1.2 
+C13 Power Cord 220V 1.8M South Africa 
+Requirement 
+6.3.1.3 
+OS10 Enterprise, S5224F-ON 
+Requirement 
+6.3.1.4 
+: 
+k 
+ 
+ 
+P+, 10GbE, SR, Requirement 
+D50Ne 
+ enegn 
+, 300 
+Re t! 
+6.3.1.5 
+Dell Networking Cable, 100GbE QSFP28 to 
+Requirement 
+QSFP28, Passive Copper Direct Attach Cable, 
+0.5 Meter 
+6.3.1.6 
+0 Enterprise 
+Requirement 
+PS SpppoMP e aÎ c 
+6.3.1.7 
+Base Warranty 
+Requirement 
+6.3.1.8 
+1Yr Return to Depot - Minimum Warranty 
+Requirement 
+6.3.1.9 
+90 Day SW Bug Fixes Support Media 
+Requirement 
+Replacement 
+6.3.1.10 
+FO 1 Yr ProSupport Plus and 4hr Mission 
+Requirement 
+C £ 
+6.3.1.11 
+5Yr ProSupport Plus and 4hr Mission Critical 
+Requirement 
+6.3.1.12 
+ProDeploy Plus Dell Networking S Series SXXX 
+Requirement 
+Switch — Deployment 
+6.3.1.13 
+N 
+ 
+s Series SXXX 
+Requirement 
+sÎÎÎït’ch 
+ePl 
+e t V 
+fi t nogn 
+6.3.1.14 
+ProDeploy Plus Training Credits 800 Redeem at 
+Requirement 
+education.deIIemc.com Expires 1Yr from Order 
+Date 
+6.4 
+Dell Networking Cable, OM4 LC/LC Fiber Cable, Requirement 
+(Optics required), 5 Meter, Customer kit 
+6.5 
+ber Cable, Requirement 
+tNe 
+negdïao MetM4C sLome 
+6.6 
+Eth5 net (RJ-45) UTP Snagless 
+Requirement 
+Cîäe Blî C 
+6 7 
+psFP28  
+ 
+2 
+bE, 85C, for all SFP28 
+Requirement 
+SuRt 
+e t 
+6.8 
+VxRa'iI After Point of Sale Upgrade 
+Requirement 
+6.8.1 
+: 
+R  
+ 
+ 
+insceiver, 
+Requirement 
+T m%r Rre 
+bE, OitAr'os
+
+[Page 40]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+1 
+46 
+PAGE 
+40 
+OF 
+ 
+ 
+ 
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:    
+ 
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:    
+ 
+ 
+ 
+Annex C - Technical Schedules A and B for ASE2000 Communication Test Set and CRSP Router - 
+Cisco-867VAE-K9 VDSL/ADSL w/PSU 
+Schedule A: Purchaser's specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+Name of OEM 
+ 
+17 
+8.1 
+ASE2000 Communication Test Set 
+Requirement 
+8.2 
+CRSP Router — Cisco-867VAE-K9 VDSL/ADSL 
+w/PSU 
+Requirement 
+Note: Ticks, Cross [J, X], Astrick {”], Word [Noted] or TBA [“To Be Advice”] shall not be 
+accepted. 
+ 
+Tender Number:    
+ 
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+‹ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:    
+ 
+ 
+ 
+Annex C - Technical Schedules A and B for 
+Wireless Access Point 
+Schedule A: Purchaser’s specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+Item 
+Sub-clause of 
+CP_TSSPEC_263 
+Description 
+Schedule A 
+Schedule B 
+18. 
+Name of OEM 
+ 
+9. 
+Wireless Access Point 
+9.1. 
+nterfaces 10/100/1000 BASE-T autosensing 
+(RJ45), 802.3af Ethernet Switch 
+Requirement 
+9.2. 
+External Power Supply, 2.4 GHz or five GHz 
+Band, 802.11n, 3x2 multiple input multiple output 
+Requirement 
+Tender Number:
+
+[Page 41]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+1 
+46 
+PAGE 
+41 
+OF 
+ 
+ 
+(MIMO), 
+9.3. 
+Access Point mode, wireless distribution system 
+(WDS) bridging, Client Bridge mode, 
+Requirement 
+9.4. 
+VLAN support, 1 management VLAN plus 4 
+VLANs for service set identifier 
+Requirement 
+9.5. 
+(SSID), eight Multiple SSIDs, 802.1X supplishallt, 
+SSID to VLAN mapping, Auto channel selection, 
+Requirement 
+9.6. 
+Spanning tree, Load balancing, IPv6, quality of 
+service (QOS), Wi-Fi Multimedia and Traffic 
+Specification (WMM TSPEC), 
+Requirement 
+9.7. 
+Maximum of eight access points (AP’s) per 
+cluster, eighty active clients per cluster, 
+Requirement 
+ 
+Note: Ticks, Cross [J, X], Astrick [*], Word [Noted] or TBA ["To Be Advice”j shall not be 
+accepted. 
+ 
+Tender Number:    
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:    
+ 
+ 
+ 
+ 
+ 
+Annex C - Technical Schedules A and B for 
+ICT HARDWARE 
+Schedule A: Purchaser’s specific requirements 
+Schedule B: Guarantees and technical particulars of equipment offered 
+ 
+, 
+Name of OEM 
+ 
+19 
+9. 
+MAINTENANCE & WARRANTY CONDITIONS 
+The supplier shall guarantee correct operation of the 
+equipment for at least 12 months, as of the date of 
+signing the provisional Acceptance. 
+Requirement 
+20 
+10 
+DOCUMENTATION 
+All documentation shall be provided as to clause 10 
+Requirement 
+21 
+11. 
+MARKING AND LABELLING: 
+All marking shall appear as to clause 11 
+Requirement 
+22 
+12. 
+TRAINING 
+The suppliers shall provide comprehensive training 
+and technical support as to clause 12 
+Requirement 
+23 
+13. 
+QUALITY MANAGEMENT 
+Requirement 
+Quality management system shall be set up aS tO 
+clause 13 
+Requirement 
+24 
+14 
+HEALTH AND SAFETY
+
+[Page 42]
+SPECIFICATION FOR ICT HARDWARE AND 
+ACCESORIES 
+REFERENCE 
+CP_TSSPEC_263 
+REV 
+1 
+46 
+PAGE 
+42 
+OF 
+ 
+ 
+A health and safety plan shall be set up as to clause 
+14 
+Requirement 
+25 
+15 
+ENVIRONMENTAL MANAGEMENT 
+An environmental management plan shall be set up 
+as to clause 15 
+Requirement 
+ 
+Note: Ticks, Cross [g, X], Astrick {*], Word [Noted] or TBA [“To Be Advice”] shall not be 
+accepted. 
+ 
+Tender Number:    
+ 
+ 
+ 
+Tenderer’s Authorised Signatory:    
+ 
+Name in block letters 
+Signature 
+ 
+ 
+Full name of company:

@@ -1,0 +1,738 @@
+Title: Top-of-Rack 25GbE Switch for Hyperconverged Infrastructure
+Source: https://www.ppj.gov.my/storage/4689/Slide-Taklimat-Teknikal_hyperconverged.pdf
+Pages: 30
+
+--- Extracted text by page ---
+
+[Page 1]
+TENDER BAGI KERJA-KERJA MENAIK 
+TARAF DAN MENYELENGGARA 
+INFRASTRUKTUR HYPER-CONVERGED 
+DENGAN TEKNOLOGI 
+VIRTUALIZATION UNTUK KEGUNAAN 
+APLIKASI-APLIKASI ICT DI 
+PERBADANAN PUTRAJAYA
+No. Tender: PPj/JK/T/9/2020
+TAKLIMAT TENDER - TEKNIKAL
+
+[Page 2]
+SCOPE OF WORK
+1.0   Deliver and install new Hyper-Converged (HCI).
+1.1
+The Successful Tenderer shall diligently and professionally undertake the supply, delivery,
+installation, testing, commissioning and maintenance of hardware and platform software for
+new Hyper-Converged Infrastructure (HCI) at Central Server Farm (CSF), Presint 3.
+1.2
+The Successful Tenderer shall also perform software and database installation and
+migration exercise of application and data from existing servers to the new infrastructure
+for Putrajaya Geospatial Information System (PutraGeoInfo).
+1.3
+The Successful Tenderer shall also perform database installation, configuration and
+migration exercise of data from existing servers to the new infrastructure for Sistem
+Pangkalan Data Berpusat.
+1.4
+The Successful Tenderer shall create and configure virtual machine (host in new HCI)
+needed to perform physical-to-virtual and virtual-to-virtual
+No. Tender : 
+PPj/JK/T/9/2020
+
+[Page 3]
+SCOPE OF WORK 
+1.5
+The work to be carried should satisfy Perbadanan Putrajaya’s requirement to,
+a) Setting up a new Microsoft SQL database for Sistem Pangkalan Data Berpusat.
+b) Migrate the existing applications and data of Sistem PutraGeoInfo to the new virtual 
+machines.
+c)
+Setting up of disaster recovery environment and functionalities (active-active or active–
+passive) for application / system at Perbadanan Putrajaya Disaster Recovery Center, Presint
+15.
+d) Provide new backup infrastructure for all system hosted in HCI.
+e)
+Setting up virtual machines as when necessary.
+f)
+Do such other things which are necessary or incidental to the work as listed above.
+No. Tender : 
+PPj/JK/T/9/2020
+- continue
+
+[Page 4]
+SCOPE OF WORK 
+1.6
+The works and process for Deliver and install new HCI shall include as below but not 
+limited to:
+•
+new HCI.
+•
+software licenses.
+•
+the migration works for PutraGeoInfo.
+•
+deployment and configuration of the Sistem Pangkalan Data Berpusat.
+No. Tender : 
+PPj/JK/T/9/2020
+- continue
+
+[Page 5]
+SCOPE OF WORK 
+2.0    Migration works for existing HCI.
+2.1
+The Successful Tender shall deploy and configure of disaster recovery environment and 
+functionalities with make use of the existing Hyper-Converged Infrastructure.
+2.2
+The Successful Tenderer shall relocate the hardware of existing HCI from Central Server 
+Farm (CSF), Presint 3 to Perbadanan Putrajaya Disaster Recovery Center (DRC), Presint
+15.
+2.3
+The Successful Tenderer shall also diligently and professionally undertake the migration for 
+existing HCI platform software from Nutanix to Microsoft Azure Stack HCI / Storage Spaces 
+Direct or any equilvelent HCI platform.
+3.0
+Maintenance Services.
+3.1
+The Successful Tenderer shall also diligently and professionally undertake the maintenance 
+services of hardware and software 
+No. Tender : 
+PPj/JK/T/9/2020
+- continue
+
+[Page 6]
+SCOPE OF WORK 
+4.0
+The scope of tender shall generally include the following: -
+4.1
+Hardware
+a)
+Supply and install ONE (1) set of Hyper-Converged Infrastructure (3 nodes) by setting up of high-
+availability server infrastructure with the minimum specification and capacity requirement as
+stated in Vol 1 Part 3 Section C Form 3 – Schedule of Technical Specification Compliance
+(Hardware) at the production site (CSF).
+b)
+To relocate existing HCI hardware from Central Server Farm (CSF), Presint 3 to Perbadanan
+Putrajaya Disaster Recovery Center (DRC), Presint 15.
+c)
+Supply and install ONE (1) set of backup solution and ensure all system can be backup with the
+minimum specification and capacity requirement as stated in Vol 1 Part 3 Section C Form 3 –
+Schedule of Technical Specification Compliance (Hardware) at the production site (CSF).
+d)
+Supply and install Top of Rack Switch with the minimum specification and capacity requirement as
+stated in Vol 1 Part 3 Section C Form 3 – Schedule of Technical Specification Compliance
+(Hardware) at the production site (CSF).
+e)
+Configure virtual machines, install database and migrate all data, documents and applications from
+existing servers to the new HCI.
+No. Tender : 
+PPj/JK/T/9/2020
+- continue
+
+[Page 7]
+SCOPE OF WORK 
+4.2    Software and License
+a)
+Supply and install software and license as per stated below:-
+•
+Microsoft Windows Server 2019 Datacenter Edition or latest release version for the physical 
+hosts and virtual machines.
+•
+Microsoft SQL Database 2019 Standard (Core) Edition or latest release version.
+•
+Adequate backup software license (Veeam Availability Suite Enterprise Plus – Public Sector 
+software or equivalence).
+•
+All costs related to Microsoft products must be from valid Microsoft License Service 
+Provider.
+No. Tender : 
+PPj/JK/T/9/2020
+- continue
+
+[Page 8]
+SCOPE OF WORK 
+4.3 Migrate existing data and applications for Sistem PutraGeoInfo.
+4.4 Install antivirus (provided by Perbadanan Putrajaya) for all physical host and guest virtual 
+machines. 
+4.5 Configure system replication, perform testing and commissioning.
+4.6 Provide failover plan for DR in case of equipment failure, data corruption or other catastrophe 
+within a month after User Acceptance Test (UAT).
+4.7 Perform recovery test once a year.
+4.8 Supply and install all fiber patch cord, UTP Cat6, power cables, power point and necessary 
+equipment.
+4.9 All equipment must support the IPv6 protocol.
+4.10Supply and install all related accessories so that it can be mounted on a standard 42U rack 
+provided by Perbadanan. 
+4.11Provide Comprehensive Corrective and Preventive Maintenance Services for the purpose of 
+achieving full operability of the System.
+4.12Provide training and documentation.
+No. Tender : 
+PPj/JK/T/9/2020
+- continue
+
+[Page 9]
+SCOPE OF WORK 
+5.0
+The Successfull Tenderer shall propose the best strategy and design to apply during new
+HCI implementation and migration for existing HCI to ensure it will be completed within six
+(6) months after the commencement date with minimum downtime. A comprehensive
+explanation shall be given for evaluation purposes.
+6.0
+Provisional Sum
+6.1
+The Succsessfull Tenderer shall propose, supply, install, configure, testing and commission
+any upgrading work for the HCI node when instructed by Perbadanan Putrajaya.
+6.2
+The price of the upgrading work shall base on the Schedule of Rates.
+6.3
+If the price is not listed in the Schedule of Rates, the price shall base on three (3) quotations
+from three (3) different vendors for Perbadanan Putrajaya approval.
+No. Tender : 
+PPj/JK/T/9/2020
+- continue
+
+[Page 10]
+SCOPE OF WORK 
+Migration of data, documents, and application from existing servers to the new Hyper-
+Converged
+Infrastructure
+for
+Sistem
+Perbadanan
+Putrajaya
+Geospatial
+Information
+(PutraGeoInfo).6.0
+Provisional Sum
+Provide needed virtual server environment (in Windows based environment) for PutraGeoInfo
+Production Geodatabase, PutraGeoInfo Staging Geodatabase, PutraGeoInfo Web App1 and
+PutraGeoInfo Web App2.6.2.
+Installing and configure ArcGIS for server, Portal for ArcGIS, ArcGIS Web Adapter, PostgreSQL
+Database Server, PostgreSQL Database Client, ArcGIS License Manager, Autodesk License
+Manager, FME Desktop License Manager, FME Server License Manager, Apache Web Server,
+antivirus on new virtual server suite to the operating system architecture.
+The abovementioned licence for PutraGeoInfo System shall be provided by Perbadanan
+Putrajaya.
+Perform the migration activity needed for the GIS Database (from Oracle to PostgreSQL) and
+the database configuration must support spatial data storing function. Ensure all database
+component such as user, schema, view, dblink or others that related to database working in
+good condition after migration process.
+No. Tender : 
+PPj/JK/T/9/2020
+- For migration works for putrageoinfo
+
+[Page 11]
+DRAWING
+No. Tender : 
+PPj/JK/T/9/2020
+- Current putrageoinfo system architecture
+
+[Page 12]
+DRAWING
+No. Tender : 
+PPj/JK/T/9/2020
+- Existing hyper-converged diagram
+
+[Page 13]
+DRAWING
+No. Tender : 
+PPj/JK/T/9/2020
+- New hyper-converged infrastructure architecture
+**Remark : Putranet Is Network Provide By Perbadanan Putrajaya
+
+[Page 14]
+Asset list
+No. Tender : 
+PPj/JK/T/9/2020
+- For existing hyper-converged hardware
+No.
+Server Name
+Location
+Serial 
+Number
+Brand / Model
+Operating 
+System
+Quantity
+Remark
+1.
+Production Server-01
+CSF P3
+J32VL55, 
+J32VL57 & 
+J32VL56
+Lenovo - HX3310
+Window Server 
+2012 R2 
+Datacenter
+3
+
+To be relocate to DRC 
+P15
+
+OS will be upgrade to 
+Windows Server 2019
+2.
+Backup Server 
+CSF P3
+SGH708YJAJ
+HP – DL380
+Window Server 
+2012 R2 
+Standard
+1
+
+To be re-use as 
+backup server
+
+OS will be upgrade to 
+Windows Server 2019
+3.
+Disaster Recovery 
+Server
+DRC P15
+J32PPHY
+Lenovo – x3650 
+M5
+Window Server 
+2012 R2 
+Datacenter
+1
+
+To be re-use as 
+backup server
+
+OS will be upgrade to 
+Windows Server 2019
+4.
+Lenovo Switch
+CSF P3
+MM25572 & 
+MM25551
+Lenovo –
+7159BR6 
+Ethernet 
+RackSwitch 
+G8123E (R-F)
+NA
+2
+
+To be relocate to DRC 
+P15
+
+[Page 15]
+System background 
+No. Tender : 
+PPj/JK/T/9/2020
+- putrageoinfo
+1.0
+Sistem PutraGeoInfo (Putrajaya Geographical Information System)
+1.1
+PutraGeoInfo is a system that uses ArcGIS platform server version 10.4 and Oracle 11g as a
+database runs on Red Hat Enterprise 5 Server.
+1.2
+There are two (2) servers used for database (staging – for editing, production – final data) as well
+as supported with ArcGIS Server Manager application to maintain data and mxd mapservices.
+1.3
+Also, two (2) servers using Apache Tomcat work as a JAVA web application server and Portal for
+ArcGIS for the purposes of the application portal ArcGIS (ArcGIS Advanced Enterprise use
+license). Use of ArcGIS Web Adapter on the web server for easy access from port 443 to port 80.
+1.4
+Portal For ArcGIS is federated with ArcGIS Server together for Single Sign On purposes and
+ease of management of user applications.
+1.5
+Applications on Portal For ArcGIS can be accessed via the web and it’s stored on the web server.
+Server GIS-APP1 store application WebGIS (public), PP and RT whereas GIS-APP2 server serve
+application such as PRISMA and Facilities Management.
+1.6
+ArcGIS Desktop is used for the purpose of editing and update the data. There are 5 floating
+licenses for this software and shared using ArcGIS License Manager.
+
+[Page 16]
+Service level agreement
+No. Tender : 
+PPj/JK/T/9/2020
+NO.
+REQUIREMENT
+SERVICE LEVEL AGREEMENT 
+(SLA)
+PENALTY
+1.0
+New HCI implementation and migration for existing HCI
+1.1
+i)
+Supply, deliver, install, migrate of
+data,
+application
+and
+softcopy
+documents from existing servers
+to the virtual servers, testing and
+commissioning of all equipment.
+i)
+Setting
+up
+disaster
+recovery
+environment
+and
+functionalities
+(active-active
+and
+active-
+passive).
+i)
+Migration works for existing HCI.
+Shall complete within six (6) 
+months after the 
+commencement date.
+RM500/ hardware 
+or software/day
+
+[Page 17]
+Service level agreement
+No. Tender : 
+PPj/JK/T/9/2020
+- continue
+NO.
+REQUIREMENT
+SERVICE LEVEL AGREEMENT 
+(SLA)
+PENALTY
+2.0
+Preventive Maintenance (PM)
+2.1
+Delay
+of
+executing
+scheduled
+Preventive
+Maintenance
+as
+per
+agreed schedule
+Agreed Schedule
+RM100/ hardware 
+or software/day
+2.2
+Delay
+of
+submitting
+Preventive
+Maintenance report
+Shall complete within seven (7) days
+from the PM completed.
+RM100/month
+
+[Page 18]
+Service level agreement
+No. Tender : 
+PPj/JK/T/9/2020
+- continue
+NO.
+REQUIREMENT
+SERVICE LEVEL AGREEMENT (SLA)
+PENALTY
+3.0
+Corrective Maintenance (CM)
+3.1
+Response Time
+•
+Shall
+response
+within
+fifteen
+(15)
+minutes
+after
+being
+notified
+by
+Perbadanan through email
+•
+Shall response within five (5) minutes
+after
+being
+notified
+by
+Perbadanan
+through social media/ phone
+RM100/case
+3.2
+Hardware/software faulty (If no spare parts
+needed/no third party involvement)
+Corrective Maintenance of faulty equipment
+in the server room is within four (4) hours
+after being notified by Perbadanan
+RM100/case/ hour
+3.3
+Hardware/software
+faulty
+(require
+spare
+parts replacement)
+Corrective Maintenance of faulty equipment
+in the server room is within six (6) hours
+after being notified by Perbadanan
+RM100/case/ hour
+3.4
+Interruption
+to
+the
+HCI
+system/any
+Perbadanan
+system
+operation
+due
+to
+Successful Tendererfault or negligence.
+System
+shall
+operate
+without
+any
+interruption
+RM300 / occurrence/ 
+day
+
+[Page 19]
+Service level agreement
+No. Tender : 
+PPj/JK/T/9/2020
+- continue
+NO.
+REQUIREMENT
+SERVICE LEVEL AGREEMENT 
+(SLA)
+PENALTY
+4.0
+Reports and Documentation
+4.1
+Delay of submitting weekly report Shall
+submit
+to
+Perbadanan
+every Friday
+RM50/week
+4.2
+Delay
+of
+submitting
+project
+documentation
+Shall
+submit
+to
+Perbadanan
+within two (2) months from the
+user acceptance date.
+RM100/day
+
+[Page 20]
+Technical proposal
+a.
+The Tenderer shall propose the best strategy and design to apply during new HCI 
+implementation and migration of existing HCI to ensure it will be completed within 6 months 
+timeframe with minimum downtime. A comprehensive explanation shall be given for 
+evaluation purposes. 
+b.
+The proposal shall spell out about:
+i. The proposed new HCI hardware and platform software and how to implement, deploy and 
+configuration.
+ii. The deploying, implementation and configuration of the migration works for existing HCI.
+iii. The deploying, implementation and configuration of Microsoft SQL database.
+c.
+The Tenderer shall also propose the best strategy to apply for Operation and Maintenance 
+(O&M) during the warranty period. The proposal shall meet the Service Level Agreement 
+(SLA) requirements stated in this tender document. A comprehensive explanation is 
+important for evaluation purposes.
+d.
+The Tenderer shall propose a comprehensive Implementation and Maintenance Schedule in 
+Microsoft Project Format Gantt Chart to cover Operation and Maintenance. 
+No. Tender : 
+PPj/JK/T/9/2020
+
+[Page 21]
+Technical proposal
+Training and Workshop
+All technical training shall be completed within 2 years after the Acceptance Test.
+a.
+The Tenderer shall provide list of courses for the system provided which will enable 
+Perbadanan personnel to be familiar with all aspects of the system. 
+b.
+The Tenderer shall also provide training schedule to best suit the implementation 
+schedule.
+No. Tender : 
+PPj/JK/T/9/2020
+- continue
+
+[Page 22]
+Technical specification
+1.0 New Hyper-Converged Server
+1.1 Minimum specification:
+•
+Number of Nodes at CSF: 3 Nodes
+•
+Number of Processors Per Node: 2
+•
+Processors: minimum 2.9 GHz clock speed
+•
+Processor Core: minimum 16 cores
+•
+Number of Memory (RAM) Per Node: minimum 768GB
+•
+Must use Windows Server Software-Defined (WSSD) for Windows Server 2019 or 
+equivalent HCI platform software certificated component (such as RDMA Network 
+Adapter, capacity drive, cache drive, HBA card and related accessories).
+•
+SSD cache must only use Mixed Used 12G SAS (3DWPD and above).
+No. Tender : 
+PPj/JK/T/9/2020
+
+[Page 23]
+Technical specification
+•
+Capacity hard drive must use 7.2K RPM SAS / SATA Drive.
+•
+The number of capacity drives a multiple of the number of cache drives for the 
+symmetry must be either 1:4 or 1:6 (for example; cache drive: capacity drive) ratio.
+•
+Network Adapter should be minimum 25Gbps that support RoCEv2 or iWrap RDMA 
+Solution.
+•
+Minimum 10Gbps UTP ports.
+•
+Should support IPv6.
+•
+Redundant Power Supply.
+•
+All cabling including transceiver needed must be included as bundle.
+•
+Each server node shall have empty slot for capacity hard drive, cache drive and 
+memory (RAM) to cater future expansion at least 25% 
+No. Tender : 
+PPj/JK/T/9/2020
+- continue
+
+[Page 24]
+Technical specification
+•
+Server node should compatible with Azure Stack HCI / Storage Spaces Direct or 
+equivalent HCI platform software. 
+•
+Shall include with the license of software management by principle to manage and 
+monitor the server node.
+•
+Server node should have 3 years principle hardware with 24 x 7 Days Onsite 
+Support/Part & Labour and 4 hours respond.
+•
+Shall have a nominal of five (5) years of support before major replacement is 
+required (End of Support).
+No. Tender : 
+PPj/JK/T/9/2020
+- continue
+
+[Page 25]
+Technical specification
+2.0 New Hyper-Converged Storage
+Minimum specification:
+•
+Total minimum 60 TB of capacity storage.
+•
+Total SSD cache size must at the minimum of 20% capacity storage size.
+•
+Usable format should use three-way mirror configuration.
+No. Tender : 
+PPj/JK/T/9/2020
+- continue
+
+[Page 26]
+Technical specification
+3.0 Top of Rack (ToR) Switch
+Minimum specification:
+•
+Number of Top of Rack Switch at CSF: 2 unit
+•
+Minimum 12-port 25GbE.
+•
+Shall include all required cable and transceivers as bundle.
+•
+Shall include all required Uplink Transceiver.
+•
+Shall support IPv6.
+•
+Redundant Power Supply.
+•
+Shall include with the license of software management by principle to manage and 
+monitor the switch. 
+•
+Shall have 3 years principal hardware support with 24 x 7 Days Onsite 
+Support/Part & Labour and 4 hours respond.
+•
+Shall have a nominal of five (5) years of support before major replacement is 
+required (End of Support).
+No. Tender : 
+PPj/JK/T/9/2020
+- continue
+
+[Page 27]
+Technical specification
+4.0 Tape Drive Library
+Minimum specification:
+•
+Number of Tape Drive Library at CSF: 1 unit.
+•
+Shall be LTO8 SAS Tape Drive Library.
+•
+Redundant Power Supply.
+•
+Shall house up to 40 cartridges.
+•
+Shall include min 20 unit LTO8 Tape Media with Tape Labels, 1-200.
+•
+Shall include all cable and transceivers as bundle.
+•
+Shall have 3 years principle hardware support with 24 x 7 Days Onsite 
+Support/Part & Labour and 4 hours respond.
+•
+Shall have a nominal of five (5) years of support before major replacement is 
+required (End of Support).
+No. Tender : 
+PPj/JK/T/9/2020
+- continue
+
+[Page 28]
+Technical specification
+5.0 Backup & Replication Repository at for each site; CSF and DRC
+Minimum specification:
+•
+Usable 46TB with RAID 6 or any fault tolerance technique.
+•
+Shall have empty slot for hard drive to cater future expansion at least 25%. 
+No. Tender : 
+PPj/JK/T/9/2020
+- continue
+
+[Page 29]
+Tender submission checklist
+MANDATORY SPECIFICATION
+
+Support Letter (original letterhead form principle) for the proposed hardware 
+(Hyper-Converged server, ToR switch and tape drive library).
+
+Form 1 - Schedule of Technical Specification Compliance (Functional)
+GENERAL SPECIFICATION
+
+Form 2 - Design and Technical Proposal
+
+Form 3 - Schedule of Technical Specification Compliance (Hardware)
+Perfect Binding
+No. Tender : 
+PPj/JK/T/9/2020
+- for technical
+**Please comply all submission checklist
+
+[Page 30]
+TERIMA KASIH,
+SEMOGA BERJAYA
+No. Tender : 
+PPj/JK/T/9/2020
+**Friendly reminder
+Please comply all submission checklist

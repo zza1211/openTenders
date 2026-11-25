@@ -1,0 +1,3663 @@
+Title: Supply and Installation of 48-Port Network Switches
+Source: https://www.nitt.edu/home/other/tenders/CSE-NETWORK-SWITCH-48-PORTS-AUG-2025.pdf
+Pages: 66
+
+--- Extracted text by page ---
+
+[Page 1]
+1 / 65 
+ 
+ 
+ 
+Web: www.nitt.edu                             
+ 
+                                    Phone: 94427 46750 
+             e-Procurement Notice 
+ 
+Ref: 006/CAPEX(OH-35)/2025-26 /CSE     
+     
+ 
+ 
+ 
+     Dated:06-08-2025                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Online tenders are hereby invited in two Bid system from Indian Nationals for supply and 
+installation of NETWORK SWITCH 48 PORTS (2 No’s)  
+ 
+Bidders can download complete set of bidding documents from e- procurement Platform 
+https://eprocure.gov.in/eprocure/app from 06-08-2025 @ 5.00 P.M. onwards. Bidders need to 
+submit the bids online for the interested items by uploading all the required documents through 
+https://eprocure.gov.in/eprocure/app. 
+ 
+Last Date/ Time for receipt of bids through e-procurement is: 27-08-2025@5.00 P.M. 
+Late bids shall not be accepted. 
+ 
+For further details regarding Tender Notification & Specifications please visit website: 
+https://eprocure.gov.in/eprocure/app and www.nitt.edu 
+ 
+CRITICAL DATE SHEET 
+Published Date 
+06-08-2025 @ 5.00 P.M   
+Bid Document Download Start Date 
+06-08-2025 @ 5.00 P.M   
+Clarification Start Date 
+Not Applicable 
+Clarification End Date 
+Not Applicable 
+Pre bid meeting 
+Venue  of Pre-bid Meeting 
+Not Applicable 
+Not Applicable 
+Bid Submission Start Date 
+06-08-2025 @ 5.00 P.M   
+Bid Submission End Date 
+27-08-2025 @ 5.00 P.M   
+Bid Opening Date(Technical) 
+28-08-2025 @ 5.00 P.M 
+Bid Opening Date(Price) 
+Will be announced after technical evaluation 
+ 
+Note: Earnest Money Deposit (EMD) is to be submitted through SBI collect.    
+          Please refer page 3 for details. 
+ 
+ 
+ 
+feapa 
+NATIONAL INSTITUTE OF TECHNOLOGY 
+Tiruchirappalli 620 015 
+This E-Tender is created and published as per the Recommendations and Approval of the respective 
+Purchase Committee. For further queries / clarifications please contact the contact details available in 
+Section III. BID Data Sheet (BDS).
+
+[Page 2]
+2 / 65 
+ 
+      
+    
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING                             
+ 
+Web: www.nitt.edu                                                                              Phone: 94427 46750 
+ 
+ 
+Tender Document (e - Procurement) 
+ 
+Tender Notification No 
+: 
+006/CAPEX (OH-35) /2025-26 /CSE     
+Date  
+: 
+06-08-2025                           
+Name of the Department 
+: 
+DEPARTMENT OF COMPUTER SCIENCE 
+AND ENGINEERING                                             
+Name of the component 
+: 
+Supply and installation of  
+NETWORK SWITCH 48 PORTS (2 No’s)  
+EMD Amount 
+: 
+Rs.16,000/- 
+(To be submitted through SBI Collect) 
+Last Date & Time of submission of Tender  : 
+27-08-2025 @ 5.00 P.M   
+Address for submission of Tender 
+: 
+THE DIRECTOR,  
+NIT  
+TIRUCHIRAPPALLI- 15 
+KIND ATTENTION TO:  
+Dr.B.Nithya,                                             
+Associate Professor,  
+DEPARTMENT OF COMPUTER SCIENCE 
+AND ENGINEERING 
+Date & Time of opening of technical bid  
+: 
+28-08-2025@ 5.00 P.M 
+ 
+NATIONAL INSTITUTE OF TECHNOLOGY 
+Tiruchirappalli 620 015
+
+[Page 3]
+3 / 65 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EARNEST MONEY DEPOSIT(EMD) DETAILS 
+1. Earnest Money Deposit (EMD) is to be submitted through SBI collect link as 
+below. The bids submitted without EMD will be treated as non-responsive and 
+will be rejected. EMD shall bear no interest. 
+2. Bidder must fill the EMD returning Form and submit in fee document. 
+3. EMD will be returned to the unsuccessful Bidder(s) as per the purchase norms.  
+4. The EMD shall be forfeited if any Bidder withdraws the offer before finalization 
+of the tender.   
+5. UDYAM & NSIC registered Micro & small enterprises are exempted from paying 
+EMD amount as per Govt. Norms (proof to be attached). For availing EMD 
+exemption, the bidder must be the manufacturer of the offered product in 
+case of bid for supply of goods.  In respect of bid for Services, the bidder 
+must be the Service provider of the offered services.  
+Traders/Distributors/agents are excluded from the purview of Public 
+Procurement Policy for Micro and Small Enterprises. 
+EMD amount 
+Rs.16,000/- 
+SBI Collect Link 
+mode (Payment 
+Category- NITT 
+Tender- Earnest 
+Money Deposit). 
+ 
+ 
+https://www.onlinesbi.sbi/sbicollect/icollecthome.htm?corpID=1768557 
+The bidder must enclose SBI collect receipt failing which the bid shall be 
+rejected without any further communication.
+
+[Page 4]
+4 / 65 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IMPORTANT INSTRUCTIONS TO THE PROSPECTIVE 
+BIDDERS/VENDORS: 
+Beware of fraudulent calls/messages from unauthorized person(s) 
+demanding money in the form of EMD/ Security Deposit in order to 
+influence the award of contract. NIT-Tiruchirappalli will not be 
+responsible for the same. 
+For reporting of any such incidents, you may feel free to contact:   
+Stores and Purchase Section 
+Email: stores@nitt.edu 
+Ex. No: +91-431-250-3963/3961/3956 
+Detailed Circular is attached in the web link below: 
+https://www.nitt.edu/home/other/tenders/Instructions_to_bidders.pdf
+
+[Page 5]
+5 / 65 
+ 
+Checklist for Bid / Tender Submission 
+(The following check-list must be filled in and submitted with the bid documents) 
+ 
+ 
+Sl.No. 
+Particulars 
+Yes / No 
+1.  
+Have you attached the techno commercial unpriced bid form duly 
+filled in appropriately? 
+ 
+2.  
+Have you attached a copy of the last three years audited balance sheet 
+of your firm 
+ 
+3.  
+Have you attached the copy of the GSTIN certficate 
+ 
+4.  
+Have you attached the details of the income tax return certificate, 
+proof   of manufacturing unit/ dealership letter/ general order suppliers 
+and copy of Central / State sales tax registration certificate? 
+ 
+5.  
+Have you attached the copies of relevant work orders from Govt. 
+Depts. / PSUs and Central Autonomous Bodies? 
+ 
+6.  
+EMD: Have you submitted EMD asked for (as specified in BDS). 
+If the bidder requesting EMD exemption, kindly attached copy of 
+the NSIC / MSE (Micro & Small enterprises register in UDYAM Portal), 
+Certificate 
+should 
+be 
+visible, 
+if 
+not 
+visible 
+the 
+bidder will be disqualified).  Manufacturer for goods, service provider 
+for Services are only eligible for EMD exemption (Micro and Small 
+enterprises). Traders / Distributors / Sole Agents & Medium Enterprises 
+are excluded from EMD exemption. Please refer MSME Rules regarding 
+Exemption. 
+ 
+7.  
+Have you submitted Minimum Local content Declaration form for 
+Make in India clause ? 
+ 
+8.  
+Have you submitted Land Border clause declaration and approval from 
+DPIIT if applicable ? 
+ 
+9.  
+Startup company exempted from Prior turnover & Prior Experience 
+(Startup certificate registered with DIPP should be enclosed) 
+ 
+10.  
+Have you uploaded filled in Technical forms in Excel sheet  
+ 
+11.  
+Have you uploaded the PDF of filled in Technical form of Excel Sheet 
+ 
+12.  
+Have you submitted samples of all items indicated in the respective  
+schedule of requirements at the address of  tender inviting authority 
+within due date.(if applicable as mentioned in the specification and 
+requirements) 
+ 
+13.  
+Have you enclosed the schedule of requirement indicating the make 
+offered without indicating the pricing components along with the
+
+[Page 6]
+6 / 65 
+ 
+techno  commercial unpriced bid? 
+14.  
+Have you submitted the bids both techno commercial unpriced and 
+priced bid separately for each tender? 
+ 
+15.  
+Have you enclosed the statement of deviations from financial terms 
+and conditions, if any? 
+ 
+ 
+PRICE BID 
+ 
+1.  
+Have you signed and attached the priced bid form? 
+ 
+2.  
+Have you attached the schedule of requirements duly priced?
+
+[Page 7]
+7 / 65 
+ 
+ 
+Table of Contents 
+ 
+ 
+ 
+Part 1 
+Bidding Procedures 
+SECTION-I 
+Instructions for Online Bid Submission  
+SECTION-II 
+Instructions to Bidders  
+SECTION-III 
+Bid Data Sheet 
+SECTION-IV 
+Prequalification  
+SECTION-V 
+Institute against Corrupt and Fraudulent Practices 
+Part 2 
+Supply Requirements  
+SECTION-VI 
+Schedule of Requirements 
+ 
+List of Goods and Delivery Schedule 
+ 
+List of Related Services and Completion Schedule 
+ 
+Technical Specifications  
+Part 3 
+Contract  
+SECTION-VII 
+General Conditions of Contract 
+SECTION-VIII 
+Special Conditions of Contract 
+Part 4 
+Bidding Forms & Contract Forms  
+SECTION-IX 
+Bidding Forms  
+SECTION-X 
+Contract Forms  
+ 
+Notice Inviting Tenders 
+ 
+Help Page to Web load the documents in E-Tender Portal 
+For Cover Wise Uploading The Tender Documents
+
+[Page 8]
+8 / 65 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part - 1 Bidding Procedures
+
+[Page 9]
+9 / 65 
+ 
+            Section I: Instructions for Online Bid Submission 
+Instructions to the Bidders to submit the bids online through the Central Public Procurement 
+Portal for e Procurement at https://eprocure.gov.in/eprocure/app. 
+ 
+1. Possession of valid Digital Signature Certificate (DSC) and enrollment / registration of 
+the contractors / bidders on the e-Procurement/e-tender portal are prerequisite for e-
+tendering. 
+2. Bidder should register for the enrollment in the e-Procurement site using the “Online 
+Bidder Enrollment” option available on the home page. Portal enrollment is generally 
+free of charge. During enrollment / registration, the bidders should provide only valid 
+and true information including valid E-mail id. All the correspondence shall be made 
+directly with the contractors/bidders through E-mail id as registered. 
+3. Bidder need to login to the site through their user ID / password chosen during 
+enrollment / registration. 
+4. Then the Digital Signature Certificate (Class II or Class III Certificates with signing 
+key usage) issued by SIFY / TCS / nCode / eMudra or any other Certifying Authority 
+recognized by Controller of Certifying Authorities (CCA) India on eToken / 
+SmartCard, should be registered. 
+5. The registered DSC only should be used by the bidder in the transactions and should 
+ensure safety of thesame. 
+6. Contractor / Bidder may go through the tenders published on the site and download the 
+tender documents/schedules for thetenders. 
+7. After downloading / getting the tender document/schedules, the Bidder should go 
+through them carefully and then submit the documents as required, otherwise bid will 
+be rejected. 
+8. Any clarifications may be sought online through the tender site, through the contact 
+details or during pre-bid meeting if any. Bidder should take into account the 
+corrigendum if any published before submitting the bidsonline. 
+9. Bidder may log in to the site through the secured login by the user id / password 
+chosen during enrolment / registration and then by submitting the password of the e-
+Token / Smartcard to access DSC. 
+10. Bidder may select the tender in which he / she is interested in by using the search 
+option and then move it to the ‘my tenders’ folder. 
+11. From my tender folder, he / she may select the tender to view all the details uploaded 
+there. 
+12. It shall be deemed that the bidder has read and understood all the terms and conditions 
+before submitting the offer. Bidder should go through the tender schedules carefully 
+and upload the documents as asked ; otherwise, the incomplete bid shall stand rejected. 
+13. Bidder, in advance, should get ready the bid documents to be submitted as indicated in 
+the tender document / schedule and ordinarily it shall be in PDF /xls / rar / jpg / dwf 
+formats.   If there is more than one document, all may be clubbed together and 
+provided in the requested format. Bidders Bid documents may be scanned with 100 dpi 
+with black and white option. It is advisable that each document to be uploaded through 
+online for the tenders should be less than 2 MB. If any document is more than 2MB, it 
+can be reduced through zip / rar and the same if permitted may be uploaded. The file 
+size being less than 1 MB the transaction uploading time will be very fast.
+
+[Page 10]
+10 / 65 
+ 
+14. The Bidders can update well in advance, the documents such as certificates, annual 
+report details etc., under “My Space option” and these can be selected as per tender 
+requirements and then send along with bid documents during bid submission. This will 
+facilitate the bid submission process faster by reducing upload time ofbids. 
+15. Bidder should submit the Tender Fee / EMD as specified in the tender. The hard 
+copy should be posted / couriered / given in person to the Tender Inviting Authority, 
+within bid submission due date and time as indicated in the tender. Scanned copy of the 
+instrument should be uploaded as part of the offer. 
+16. The details of the DD / any other accepted instrument, physically delivered, should tally 
+with the details available in the scanned copy and the data entered during bid 
+submission time, otherwise submitted bid shall not be acceptable or liable for rejection. 
+17. The bidder has to select the payment option as offline to pay the Tender FEE / 
+EMD as applicable and enter details of the instruments. 
+18. While submitting the bids online, the bidder shall read the terms and conditions and 
+may accept the same to proceed further to submit the bidpackets. 
+19. The bidder has to digitally sign and upload the required bid documents one by one as 
+indicated. Very act of using DSC for downloading the bids and uploading their offers 
+shall be deemed to be a confirmation that they have read, understood and agreed with 
+all clauses of the bid document including General conditions of contract without any 
+exception. 
+20. The bidder has to upload the relevant files required as indicated in the cover content. In 
+case of any irrelevant files, the bid may berejected. 
+ 
+PRICE BID 
+21. If the price bid format is provided in a spread sheet file like BoQ_xxxxx.xls, the rates 
+offered should be entered in the allotted space only and uploaded after filling the 
+relevant columns. The Priced-bid / BOQ template shall not be modified / replaced by 
+the bidder ; else the bid submitted is liable to be rejected for thetender. 
+22. The bidders are advised to submit the bids through online e-tendering system to the 
+Tender Inviting Authority (TIA) well before the bid submission due date and time (as   
+per Server System Clock). The TIA shall not be held responsible for any delay or the 
+difficulties faced during the submission of bids online by thebidders. 
+23. The time settings fixed in the server side and displayed at the top of the tender site, shall 
+remain valid for all actions of requesting, bid submission, bid opening etc., in the e-
+Tender system. The bidders should follow such time during bidsubmission. 
+ 
+EVIDENCE FOR ONLINE BID SUBMISSION 
+24. After the bid submission (i.e. after Clicking “Freeze Bid Submission” in the portal), the 
+acknowledgement number indicated by the system should be printed by the bidder and 
+kept as a record of evidence for online submission of bid for the particular tender and 
+also be used as entry pass to participate in the bidopening. 
+25. All the data being entered by the bidders would be encrypted using Public Key 
+Infrastructure (PKI) encryption techniques to ensure the secrecy of the data. The data 
+entered is not retrievable by unauthorized persons during the bid submission and until  
+the time of bid opening by anyperson.
+
+[Page 11]
+11 / 65 
+ 
+26. Any bid document that is uploaded to the server is subjected to symmetric encryption 
+using a system generated symmetric key. Further this key is subjected to asymmetric 
+encryption using buyers/bid openers’ public keys. Overall, the uploaded tender 
+documents become readable only after the tender opening by theauthorized bid openers. 
+27. The confidentiality of the bids is maintained with the use of Secured Socket Layer 
+(SSL) 128 bit encryption technology. Data storage encryption of sensitive fields is 
+done. 
+28. The bidder should logout of the tendering system using the normal logout option 
+available at the top right hand corner and not by selecting the (X) exit option in the 
+browser. 
+29. For any queries regarding e-Tendering process, the bidders may contact at address as 
+provided in the tender document. Parallely for any further queries,  the  bidders  are 
+advised to contact over phone : 1-800-233-7315, 0120-4001005 or send an E-mail to 
+cppp-nic@nic.in. 
+ 
+ 
+*****
+
+[Page 12]
+12 / 65 
+ 
+ 
+Section II : Instructions to Bidders 
+Table of Clauses 
+ 
+A 
+General 
+1. 
+Scope of Bid 
+2. 
+Eligible Bidders 
+Contents of Bidding Document 
+3. 
+Sections of Bidding Document 
+4. 
+Clarification of Bidding Documents, Site Visit, Pre-Bid Meeting 
+5. 
+Amendment of Bidding Document 
+Preparation of Bids 
+6. 
+Language of Bid 
+7. 
+Documents Comprising the Bid 
+8. 
+Tender Forms(Technical and Price) and Price Schedule(BOQ) 
+9. 
+Alternative Bids 
+10. Bid Prices and Discounts 
+11. Currencies of Bid and Payment 
+12. Documents Establishing the Eligibility and Qualifications of the Bidder 
+13. Period of Validity of Bids 
+14. Bid Security 
+ 
+Submission and Opening of Bids 
+15. Sealing and Marking of Bids 
+16. Deadline for Submission of Bids 
+17. Late Bids 
+18. Withdrawal, Substitution, and Modification of Bids 
+19. Bid Opening 
+ 
+Evaluation and Comparison of Bids 
+20. Confidentiality 
+21. Clarification of Bids 
+22. Determination of Responsiveness 
+23. Conversion to Single Currency 
+24. Margin of Preference 
+25. Evaluation of Bids 
+26. Comparison of Bids 
+27. Qualification of the Bidder 
+28. Purchaser’s Right to Accept Any Bid, and to Reject Any or All Bids 
+ 
+Award of Contract 
+29. Award Criteria 
+30. Purchaser’s Right to Vary Quantities at Time of Award 
+31. Notification of Award 
+32. Signing of Contract 
+33. Performance Security
+
+[Page 13]
+13 / 65 
+ 
+Section II. Instructions to Bidders 
+ 
+ 
+A.General 
+1 
+SCOPE OF BID 
+ 
+ 
+Supply and installation of Network Switch 48 Ports (2 Nos.) as per 
+Spécifications.Through out these Bidding Documents unless the context otherwise 
+requires : “    
+a. ‘in writing ” means communicated in written form (e.g. by mail, e-mail, fax, telex) 
+with proof of receipt; 
+b. “ Institution means National Institute of Technology, Tiruchirappalli’ 
+2 
+ELIGIBLE BIDDERS 
+2.1 
+A Bidder may be a firm, a company, a Limited Liability Partnership (LLP), a 
+government-owned entity or any combination of  such entities in the form of a Joint  
+Venture  (JV) under an existing agreement. 
+2.2 
+In the case of a joint venture, all members shall be jointly and severally liable for 
+the execution of the contract in accordance with the Contract terms. The JV shall 
+nominate a Représentative who shall have the authority to conduct all business 
+for and on behalf of any and all the members of the JV during the bidding 
+process and during the contract execution in the event the JV is awarded the 
+contract. 
+2.3 
+A Bidder shall not have a conflict of interest. Any Bidder found to have a 
+conflict of interest shall be disqualified. A Bidder may be considered to have a 
+conflict of interest for the purpose of this bidding process, if the Bidder: 
+ 
+a 
+directly or indirectly controls, is controlled by or isunder common control 
+with another Bidder; or 
+ 
+b 
+receives or has received any direct or indirect  subsidy  from another Bidder; 
+or 
+ 
+c 
+has the same legal representative as another Bidder; or 
+ 
+d 
+has a relationship with another Bidder, directly or through common third 
+parties, that puts it in a  position  to  influence the bid of another Bidder, or 
+influence the decisions of the Purchaser regarding this bidding process; or 
+ 
+e 
+Participates in more than one bid in this bidding process. Participation by a 
+Bidder in more than one Bid shall result in the disqualification of all Bids in 
+which such Bidder is involved. This, however does not limit  the  inclusion  
+of the same subcontractor in more than one bid; or 
+ 
+f 
+Has a close business or family relationship with a professional staff of the 
+Purchaser (or of the project implementing agency, or of a recipient of a part  
+of the loan) who:  
+(i) are directly or indirectly involved  in the preparation of the bidding 
+documents     or    specifications    of the contract, and/or the bid 
+evaluation process  of  such contract; or 
+(ii) would be involved in the implementation or supervision of such contract. 
+2.4 
+A foreign firm and individual may be ineligible if as a matter of law or 
+regulations, India prohibits commercial relations with the country of bidder. 
+2.5 
+A Bidder shall provide such evidence of eligibility satisfactory to the Purchaser, 
+as the Purchaser shall reasonably request. 
+3 
+CONTENTS OF BIDDING DOCUMENT 
+ 
+3.1 
+The Bidding Documents consist of Parts 1, 2, 3 and 4, which include all the 
+Sections indicated below, and should be read in conjunction with any Addenda if 
+any, issued. 
+ 
+3.2 
+The Invitation for Bids issued by the Purchaser is not part of the Bidding
+
+[Page 14]
+14 / 65 
+ 
+Document. 
+ 
+3.3 
+Unless obtained directly from the Purchaser, the Purchaser is not responsible for 
+the completeness of the document, responses to requests for clarification, the 
+Minutes of the pre- Bid meeting (if any), or Addenda to the Bidding Document.  
+In case of any contradiction, documents obtained directly from the Purchaser 
+shall prevail. 
+ 
+3.4 
+The Bidder is expected to examine all instructions, forms, terms, and 
+specifications in the Bidding Documents and to furnish with its Bid all 
+information or documentation as required by the Bidding Documents. 
+4 
+CLARIFICATION OF BIDDING DOCUMENTS, SITE VISIT, PRE-BID MEETING 
+ 
+4.1 
+A Bidder requiring any clarification of the Bidding Document shall contact the 
+Purchaser in writing at the Purchaser’s address specified in the BDS or raise its 
+enquiries during the pre-bid meeting if provided. The Purchaser will respond in 
+writing to any request for clarification, provided that such request is received 
+prior to the deadline  for  submission  of bids within a period specified in the  
+BDS. 
+ 
+4.2 
+The Bidder is advised to visit and examine the project site and obtain for itself on 
+its own responsibility all information that may be necessary for preparing the bid 
+and entering into a contract for procurement of Goods. The costs of visiting shall 
+be at the Bidder’s own expense 
+ 
+4.3 
+The Bidder’s designated representative is invited to attend a pre-bid meeting. The 
+purpose of the meeting will be to clarify issues and to answer questions on any 
+matter that may be raised at that stage. 
+ 
+4.4 
+The Bidder is advised to submit any questions in writing to reach the Purchaser 
+not beyond one week preceding the meeting. 
+ 
+4.5 
+Minutes of the pre-bid meeting, if applicable, including the text of the questions 
+asked by Bidders, without identifying the source, and the responses given, 
+together with any responses prepared after the meeting, will be transmitted 
+promptly to all Bidders who have acquired the Bidding Documents. Any 
+modification to the Bidding Documents that may become necessary as a result of 
+the pre-bid meeting shall be made by the Purchaser exclusively through the issue 
+of an addendum and not through the minutes of the pre-bid meeting. Absence in 
+the pre-bid meeting shall not be a cause for disqualification of a Bidder. 
+5 
+Amendment of Bidding Document 
+ 
+5.1 
+At any time prior to the deadline for submission of bids, the Purchaser may, for 
+any   reason, whether at its own initiative    or in response to a clarification 
+requested by a prospective bidder, modify the bidding documents by 
+corrigendum. In case of e-procurement, corrigendum / amendment shall be 
+published on https://eprocure.gov.in/eprocure/app. 
+ 
+5.2 
+Any addendum issued shall be part of the Bidding Documents and shall be 
+communicated in writing to all who have obtained the Bidding Documents from 
+the Purchaser. The Purchaser shall also promptly publish the addendum on the 
+Purchaser’s webpage. 
+ 
+5.3 
+The Purchaser may, at its discretion to give prospective Bidders reasonable time 
+in which to take an addendum into account in preparing their bids, extend the 
+deadline for the submission of bids.
+
+[Page 15]
+15 / 65 
+ 
+ 
+C.PREPARATION OF BIDS 
+6 
+LANGUAGE OF BID : 
+ 
+The Bid, as well as all correspondence and documents relating to the bid exchanged by the Bidder 
+and the Purchaser, shall be written in the language specified in the BDS. Supporting documents 
+and printed literature that are part of the Bid may be in another language provided they are 
+accompanied by an accurate translation of the relevant passages into the language specified in the 
+BDS, in which case, for purposes of interpretation of the Bid, such translation shall govern. 
+7 
+Documents Comprising the Bid 
+The tender/Bid shall be submitted online in two parts, viz.,Technical Bid and Commercial 
+Bid. 
+ 
+7.1 
+TECHNICAL BID 
+The following documents are to be scanned and uploaded as part of the Technical 
+Bid as per the tender document: 
+a 
+Scanned copy of Tender Forms (Techno Commercial Un-Priced Bid) and 
+Tender Acceptance Letter,); 
+b 
+Scanned copy of the completed Schedules 
+c 
+Scanned copy of Bid Security or copy of proof for submission of Tender 
+Document Fee/ Earnest Money Deposit etc.; 
+d 
+Scanned copy of written confirmation authorizing the signatory of the Bid to 
+commit the Bidder; 
+e 
+Scanned copy of documentary evidence 
+ establishing the Bidder’s qualifications to perform the contract if its bid is 
+accepted and 
+the Bidder’s eligibility to bid; 
+f 
+Scanned copy of 
+i. 
+documentary evidence, that the Goods and Related Services to be supplied 
+by the Bidder are of eligible origin and 
+ii. 
+conform to the Bidding Documents, and 
+iii. 
+any other document required in the BDS; 
+g 
+Scanned copy of Pre-Qualification Details as per Section-IV like PAN/GST 
+etc. 
+h 
+EMD Returning Form. 
+i 
+Mandate Form For Electronic Fund Transfer/RTGS Transfer. 
+ 
+ 
+j 
+Technical Bid. 
+The Technical specifications format is s available in Excel sheet 
+TECHNICAL.xls in this E-Tender document at https://eprocure.gov.in/ 
+eprocure/app. Bidders are advised to download TECHNICAL.xls  and fill 
+their specifications in the prescribed column and upload the same in the 
+Technical bid along with other required documents.   The hard copy of the 
+filled in Technical specifications (Excel) to be scanned and to be uploaded in 
+PDF. 
+ 
+7.2 
+COMMERCIAL BID 
+The commercial bid comprises of: 
+i. Scanned copy of Tender Form (Price Bid) 
+ii. Price BID in the form of BoQ_XXXXX.xls. 
+iii. Scanned copy of item wise break up of price bid. 
+The Price bid format is provided a BoQ_XXXXX.xls along with this Tender 
+Document at https://eprocure.gov.in/eprocure/app. Bidders are advised to 
+download this BoQ_ XXXXX.xls and quote their offer/rates in the prescribed 
+column. Bidders can quote Basic Price in INR or CURRENCY (for other than
+
+[Page 16]
+16 / 65 
+ 
+INR) but it is mandatory to quote taxes/levies in INR only, in the prescribed 
+column and upload the same in the commercial bid. 
+ 
+7.3 
+The Bidder shall furnish in the Tender Forms information on commissions and 
+gratuities, if any, paid or to be paid to agents or any other party relating to this 
+Bid. 
+8 
+ 
+Tender Forms (Technical and Price) and Price Schedule(BOQ) 
+Tender Forms and Price Schedules (Bill of Quantity-BOQ) shall be prepared 
+using the relevant forms furnished in Section IX, Bidding Forms and BOQ 
+provided. The forms must be completed without any alterations to the text, and 
+no substitutes shall be accepted. All blank spaces shall be filled in with the 
+information requested. 
+9 
+ 
+Alternative Bids 
+Unless otherwise specified in the BDS, alternative bids shall not be considered 
+10 
+10.1 
+Bid Prices and Discounts 
+The prices and discounts quoted by the Bidder in the Tender Forms and in the 
+Price Schedules (BOQ) shall conform to the requirements specified as under. 
+ 
+ 
+a 
+All lots (contracts) and items must be listed and priced separately in the 
+Price Schedules (BOQ). 
+ 
+ 
+b 
+The price to be quoted in the Tender Forms shall be the total price of 
+the bid, excluding any discounts offered. 
+ 
+ 
+c 
+The Bidder shall quote any discount and indicate the methodology for their 
+application in the Tender Forms. 
+ 
+ 
+d 
+Prices quoted by the Bidder shall be fixed during the Bidder’s performance 
+of the Contract and not subject to variation on any account, unless otherwise 
+specified in the BDS. A bid submitted with an adjustable price quotation 
+shall be treated as non- responsive and shall be rejected. However, if in 
+accordance with the BDS, prices quoted by the Bidder shall be subject to 
+adjustment during the performance of the Contract, a bid submitted with a 
+fixed price quotation shall not be rejected, but the price adjustment shall be 
+treated as zero. 
+ 
+10.2 
+Bids are being invited for individual lots (contracts) or for any combination of 
+lots (packages). Unless otherwise specified in the BDS, prices quoted shall 
+correspond to 100% of the items specified for each lot and to 100% of the 
+quantities specified for each item of a lot.  Bidders wishing to offer discounts for 
+the award of more than one Contract shall specify in their bid the price 
+reductions applicable to each package, or alternatively, to individual Contracts 
+within the package. Discounts shall be submitted provided the bids for all lots 
+(contracts) are opened at the same time. 
+ 
+10.3 
+ 
+Prices shall be quoted as specified in each Price Schedule (BOQ) as provided. 
+The dis-aggregation of price components is required solely for the purpose of 
+facilitating the comparison of bids by the Purchaser. This shall not in any way 
+limit the Purchaser’s right to contract on any of the terms offered. In quoting 
+prices, the Bidder shall be free to use transportation through carriers registered in 
+any eligible country. Similarly, the Bidder may obtain insurance services from 
+any eligible country.  Prices shall be entered in the following manner: 
+ 
+ 
+a 
+For Goods manufactured in India: 
+1. GST payable on the Goods, if the contract is awarded to the Bidder ; and 
+2. The price for inland transportation, insurance, and other local services 
+required to convey the Goods from the named place of destination to their 
+final destination (Project Site) specified in the BDS ; 
+ 
+ 
+c 
+For Related Services, other than inland transportation and other services 
+required to convey the Goods to their final destination, whenever such
+
+[Page 17]
+17 / 65 
+ 
+Related Services are specified in the Schedule of Requirements: 
+1.  The price of each item comprising the Related Services (inclusive of any 
+applicable taxes) 
+11 
+ 
+Currencies of Bid and Payment: 
+The currency(ies) of the bid and the currency(ies) of payments shall be as 
+specified in the BDS. The Bidder shall quote in Indian Rupees. 
+12 
+12.1 
+Documents Establishing the Eligibility and Qualifications of the Bidder 
+To establish Bidder’s their eligibility, Bidders shall complete the Tender Form 
+(Techno Commercial Un-Priced Bid & Priced Bid), included in Section-IX, 
+Bidding Forms. 
+ 
+12.2 
+The documentary evidence of the Bidder’s qualifications to perform the contract 
+if its bid is accepted shall establish to the Purchaser’s satisfaction: 
+ 
+ 
+a 
+that, if required in the BDS, a Bidder that does not manufacture or produce 
+the Goods it offers to supply shall submit the Manufacturer’s  Authorization  
+using the form included in Section IX, Bidding Forms to demonstrate that it 
+has been duly authorized by the manufacturer or producer of the Goods to 
+supply these Goods in India; 
+ 
+ 
+b 
+that, if required in the BDS, in case of a Bidder not doing business within 
+India, the Bidder is or will be (if awarded the contract) represented by an 
+Agent in the country equipped and able to carry out the Supplier’s 
+maintenance, repair and spare parts-stocking obligations prescribed in the 
+Conditions of Contract and/or Technical Specifications; 
+13 
+13.1 
+Period of Validity of Bids 
+Bids shall remain valid for the period specified in the BDS after the bid 
+submission deadline date prescribed   by the Purchaser. A bid valid for a shorter 
+period shall be rejected by the Purchaser as non –responsive. 
+ 
+13.2 
+In exceptional circumstances, the Purchaser may solicit the Bidder's consent to 
+an extension of the period of validity. The request and the responses there to shall 
+be made in writing. A Bidder may refuse the request without forfeiting its 
+Earnest Money Deposit (EMD). A Bidder acceding to the request will neither be 
+required nor permitted to modify the bid. 
+14 
+14.1 
+Bid Security 
+The Bidder shall furnish as part of its bid, a bid security, as specified in the BDS, 
+in original form the amount and currency as specified in the BDS. 
+ 
+14.2 
+If a bid security is specified , the bid security shall be a 
+ 
+ 
+a 
+SBI collect 
+ 
+ 
+b 
+An unconditional guarantee issued by a Bank. of   a   reputed   source   from  
+an eligible country. If the unconditional guarantee is issued by a financial 
+institution located outside India, the issuing financial institution shall have a 
+correspondent financial institution located in India to make it enforceable 
+The bid security shall be valid for sixty (60) days beyond the original 
+validity period of the bid, or beyond the extended period. 
+ 
+14.3 
+If a Bid Security is specified, any bid not accompanied responsive Bid Security, 
+shall be rejected by the Purchaser as non-responsive. 
+ 
+14.4 
+The successful Bidder shall be returned as promptly as possible once the 
+successful Bidder has signed the contract and furnished the required performance 
+security. 
+ 
+14.5 
+The Bid Security of the successful Bidder shall be returned as promptly as 
+possible once the successful Bidder has signed the contract and furnished the 
+required performance security. 
+ 
+14.6 
+The Bid Security of the bidder may be forfeited or the EMD executed:
+
+[Page 18]
+18 / 65 
+ 
+ 
+ 
+a 
+if he withdraws from the bid during the period of bid validity specified by 
+the Bidder on  the  Tender Forms, or any extension thereto provided by the 
+Bidder ; or 
+ 
+ 
+b 
+if he being successful Bidder fails to: 
+i. 
+sign the Contract; or 
+ii. 
+furnish a performance Security 
+ 
+D.SUBMISSION AND OPENING OF BIDS 
+15 
+ 
+Sealing and Marking of Bids: The Bidder shall submit the bids electronically, 
+through the e-procurement system (https://eprocure.gov.in/eprocure/app). Any 
+document submitted through any other means will not be considered as part of 
+the Bid except for the Originals as asked for in this tender. 
+16 
+ 
+Deadline for Submission of Bids: The Purchaser may, at its discretion, extend 
+the deadline for the submission of bids by amending the Bidding Documents, in 
+which case all rights and obligations of the Purchaser and Bidders previously 
+subject to the deadline shall thereafter be subject to the deadline as extended. 
+17 
+ 
+Late Bids: The e-Procurement system would not allow any late submission of 
+bids after due date and time as per server system. After electronic online proposal 
+submission, the system generates a unique identification number which is time 
+stamped. This shall be treated as acknowledgement of the proposal submission 
+18 
+ 
+Withdrawal, Substitution, and Modification of Bids: A Bidder may withdraw, 
+substitute, or modify its bid on the e-procurement system before the date and 
+time specified but not beyond. No bid may be withdrawn, substituted, or 
+modified in the interval between the deadline for submission of bids and the 
+expiration of the period of bid validity specified by the Bidder on the Tender 
+Forms or any extension thereof Modification/Withdrawal of the Bid sent through 
+any other means shall not be considered by the Purchaser. 
+19 
+19.1 
+Bid Opening: The Purchaser shall open the bids as per electronic bid 
+Opening procedures specified in Central Public Procurement Portal (CPPP) at the 
+date and time specified.  Bidders can also view the bid opening by logging on to 
+the e- procurement system. Specific bid opening procedures are laid down at 
+https://eprocure.gov.in/eprocure/app under the head “Bidders Manual Kit”. The 
+tenderer/bidder will be at liberty to be present either in person or through an 
+authorized representative at the time of opening of the Bid or they can view the 
+bid opening event online at their remote end. Price Bids of only those tenderers 
+shall be opened whose technical bids qualify. 
+ 
+19.2 
+The withdrawn bid will be available in the system therefore will be considered, if 
+bidder once withdraws the bid then he will not be able to participate in the 
+respective tender again. Modification to the bid shall be opened and read out with 
+the corresponding bid. Only bids that are opened and read out at bid opening 
+shall be considered further. 
+ 
+19.3 
+The Purchaser shall prepare a record of the bid opening that shall include; the 
+name of the Bidder; whether there is a withdrawal, substitution, or modification; 
+the Bid Price including any discounts and alternative bids; and the presence or 
+absence of a bid security, if one was required.  The Bidders’ representatives who 
+are present in the office of the Purchaser to witness the bid opening shall be 
+requested to sign the record. The omission/refusal of a Bidder’s signature on the 
+record shall not invalidate the contents and effect of the record. A copy of the 
+record shall be made available on the e-procurement system. 
+ 
+ 
+E. Evaluation and Comparison of Bids 
+20 
+20.1 
+Confidentiality: Information    relating   to   the 
+evaluation   of   bids and 
+recommendation of contract award shall not be disclosed to bidders or any other
+
+[Page 19]
+19 / 65 
+ 
+persons not officially concerned with the bidding process until information on 
+Contract Award is communication to all Bidders. 
+ 
+20.2 
+No Bidder shall contact the purchaser on any matter relating to its bid from the 
+time of the bid opening to the time the contract is awarded. If the Bidder wishes 
+to bring additional information to the notice of the Purchaser it should be done in 
+writing. 
+ 
+20.3 
+Any effort by a Bidder to influence the purchaser in its decisions on bid 
+evaluation, bid comparison or contract award decisions may result in rejection of 
+the Bidder’s bid. 
+21 
+21.1 
+To assist in the examination, evaluation, comparison of the bids, and 
+qualification of the Bidders, the Purchaser may, at its discretion, ask any Bidder 
+for a clarification of its Bid. Any clarification submitted by a Bidder in respect to 
+its Bid and that is not in response to a request by the Purchaser shall not be 
+considered. The Purchaser’s request for clarification and the response shall be in 
+writing. No change, including any voluntary increase or decrease, in the prices or 
+substance of the Bid shall be sought, offered, or permitted, except to confirm the 
+correction of arithmetic errors discovered by the Purchaser in the Evaluation of 
+the bids. 
+ 
+21.2 
+If a Bidder does not provide clarifications of its bid by the date and time set in 
+the Purchaser’s request for clarification its bid may be rejected. 
+22 
+22.1 
+Determination of Responsiveness: 
+The Purchaser’s determination of a bid’s responsiveness is to be based on the 
+contents of the bid itself. 
+ 
+22.2 
+A substantially responsive Bid is one that meets the requirements of the Bidding 
+Documents without material deviation, reservation, or omission.  
+ 
+22.3 
+The Purchaser shall examine the technical aspects of the bid submitted in 
+accordance with instructions specified in tender document, in particular, to 
+confirm that all requirements enumerated in the ‘Schedule of Requirements’ 
+Section-VI have been complied with, without any material deviation or 
+reservation or omission. 
+ 
+22.4 
+If a bid is not responsive to the requirements of Bidding Documents, it shall be 
+rejected by the Purchaser and may not subsequently be made responsive by 
+correction of the material deviation, reservation or omission. 
+23 
+ 
+Conversion to Single Currency: For evaluation and comparison purposes, the 
+currency(ies)  of the Bid shall be converted in a single currency as  specified in 
+the BDS. 
+24 
+ 
+Margin of Preference: Unless otherwise specified in the BDS, a margin  of 
+preference shall not apply. 
+25 
+25.1 
+Evaluation of Bids: The Purchaser shall use the criteria and methodologies 
+listed in this Clause. No other evaluation criteria or methodologies shall be 
+permitted. 
+ 
+25.2 
+To evaluate a Bid, the Purchaser shall consider the  following: 
+ 
+ 
+a 
+Evaluation will be done for Items or Lots (contracts), as specified in the 
+BDS; and the Bid Price. 
+ 
+ 
+b 
+price adjustment due to discounts offered; 
+ 
+ 
+c 
+converting the amount resulting from above, if relevant, to a single currency 
+ 
+ 
+d 
+price adjustment due to quantifiable nonmaterial nonconformities in; 
+ 
+25.3 
+The estimated effect of the price adjustment provisions of the Conditions of 
+Contract, applied over the period of execution of the Contract, shall not be taken 
+into account in bid evaluation. 
+ 
+25.4 
+The Purchaser’s evaluation of a bid shall exclude and not take into account:
+
+[Page 20]
+20 / 65 
+ 
+ 
+ 
+a 
+In the case of Goods manufactured in the India, sales and other similar taxes, 
+which will be payable on the goods if a contract is awarded to the Bidder; 
+ 
+ 
+b 
+in the case of Goods manufactured outside India, already imported or to be 
+imported,  customs  duties and other import taxes levied on the imported 
+Good, sales and other similar taxes,  which will be  payable  on the Goods if 
+the contract is awarded to the Bidder; 
+ 
+ 
+c 
+any allowance for price adjustment during the period  of execution of the 
+contract, if provided in the bid. 
+ 
+25.5 
+The Purchaser’s evaluation of a bid may require the consideration of other 
+factors, in addition to the Bid Price quoted. These factors may be related to the 
+characteristics, performance, and terms and conditions of purchase of the Goods 
+and Related Services. The effect of the factors selected, if any, shall be expressed 
+in monetary terms to facilitate comparison of bids. 
+26 
+ 
+Comparison of Bids:  
+The Purchaser shall compare the evaluated prices of all substantially responsive 
+bids established to determine the lowest evaluated bid. The comparison shall be 
+on the basis of CIP-Carriage and Insurance Paid to (place of destination) prices 
+for imported goods and EXW – Ex Works (named place of delivery) prices, plus 
+cost of inland transportation and insurance to place of destination, for goods 
+manufactured within India, together with prices for any required installation, 
+training, commissioning and other services. The evaluation of prices shall not  
+take  into  account custom duties and other taxes levied on imported goods 
+quoted CIP and sales and similar taxes levied in connection with the sale or 
+delivery of goods. 
+27 
+27.1 
+Qualification of the Bidder: 
+The Purchaser shall determine to its satisfaction whether the Bidder that is 
+selected as having submitted the lowest evaluated and substantially responsive 
+bid meets the qualifying criteria. 
+ 
+27.2 
+The determination shall be based upon an examination of the documentary 
+evidence of the Bidder’s qualifications submitted by the Bidder. 
+ 
+27.3 
+An affirmative determination shall be a prerequisite for award of the Contract to 
+the Bidder. A negative determination shall result in disqualification of the bid, in 
+which event the Purchaser shall proceed to the next lowest evaluated bid to make 
+a similar determination of that Bidder’s qualifications to perform satisfactorily. 
+28 
+ 
+Institutes Right to Accept any Bid and to Reject any or all bids: 
+The Institute reserves the right to accept or reject any bid, and to annul the 
+bidding process and reject all bids at any time prior to contract award, without 
+thereby incurring any liability to Bidders. In case of annulment, all bids 
+submitted and specifically, bid securities, shall be promptly returned to the 
+Bidders. 
+F.AWARD OF CONTRACT 
+29 
+ 
+Award Criteria: 
+The Purchaser shall award the Contract to the Bidder whose bid has been 
+determined to be the lowest evaluated bid and  is substantially responsive to the 
+Bidding Documents, provided the Bidder is determined to  be  qualified  to 
+perform the Contract satisfactorily. 
+30 
+ 
+Purchasers Right to vary Quantities at Time of Award: 
+At the time the Contract is awarded, the Purchaser reserves the right to increase 
+or decrease the quantity of Goods and Related Services originally specified in 
+Section VI, Schedule of Requirements, provided this does not exceed the 
+percentages specified in the BDS, and without any change in the unit prices or
+
+[Page 21]
+21 / 65 
+ 
+other terms and conditions of the bid and the Bidding Documents. 
+31 
+31.1 
+Notification of Award: 
+Prior to the expiration of the period of bid validity, the Purchaser shall, notify the 
+successful Bidder, in writing, that its Bid has been accepted. The notification 
+letter (hereinafter and in the Conditions of Contract and Contract Forms called 
+the “Letter of Acceptance”) shall specify the sum that the Purchaser will pay the 
+Supplier in consideration of the supply and installation of Goods (hereinafter and 
+in the Conditions of Contract and Contract Forms called “the Contract Price”). At 
+the same time, the Purchaser shall also notify all other Bidders of the results of 
+the bidding. 
+ 
+31.2 
+Until a formal Contract is prepared and executed, the notification of award shall 
+constitute a binding Contract. 
+ 
+31.3 
+The Purchaser shall promptly respond in writing to any unsuccessful Bidder who, 
+after notification of award, requests in writing the grounds on which its bid was 
+not selected. 
+32 
+32.1 
+Signing of Contract: 
+Promptly after notification, the Purchaser shall send the successful Bidder the 
+Contract Agreement. 
+ 
+32.2 
+Within Fifteen (15) days of receipt of the Contract Agreement, the successful 
+Bidder shall sign, date, and return it to the Purchaser. 
+ 
+32.3 
+Notwithstanding anything contained in clause 32.2, in case signing of the 
+Contract Agreement is prevented by any export restrictions attributable to the 
+Purchaser,  or  to  the use of the products/goods, systems or services to  be 
+supplied, where such export restrictions arise from trade regulations from a 
+country supplying those products/goods, systems or services,  the Bidder shall 
+not be bound by its  bid, always provided however, that the Bidder can 
+demonstrate to the satisfaction of the Purchaser that signing of the Contact 
+Agreement has not been prevented  by any lack of diligence on the part of  the 
+Bidder in completing   any formalities, including applying for permits, 
+authorizations and licenses necessary for the export of the products/goods, 
+systems or services under the terms of the Contract. 
+33 
+33.1 
+Performance Security: 
+The Successful bidder has to submit Security deposit/Performance Guarantee @ 
+3% order value in the form of DD/Bank Guarantee/Fixed deposit(In the name of 
+NITT) Within Fourteen (14) days of the receipt of notification of award from the 
+Purchaser, the successful Bidder, if required, shall furnish the Performance 
+Security in accordance with the General Conditions of Contract (GCC), using for 
+that purpose the Performance Security Form included in Section-X, Contract 
+Forms, or another Form acceptable to the Purchaser. If the Performance Security 
+furnished by the successful Bidder is in the form of a bond, it shall be issued by a 
+bonding or insurance company that has been determined by the successful Bidder 
+to be acceptable to the Purchaser.  A foreign institution providing a bond shall 
+have a correspondent financial institution located in India. 
+ 
+33.2 
+Failure of the successful Bidder to submit the above- mentioned Performance 
+Security or sign the Contract shall constitute sufficient grounds for the annulment 
+of the award and forfeiture of the Bid Security. In that event the Purchaser may 
+award the Contract to the next lowest evaluated Bidder, whose bid is 
+substantially responsive and is determined by the Purchaser to be qualified to 
+perform   the Contract satisfactorily.
+
+[Page 22]
+22 / 65 
+ 
+Section III. BID Data Sheet (BDS) 
+ 
+The following specific data for the goods to be procured shall complement, supplement, or amend 
+the provisions in the Instructions to Bidders (ITB). In case of inconsistency, the provisions herein 
+shall prevail over those in ITB. 
+ 
+Sl. No. 
+A. General 
+1.  
+The reference number of the Invitation for Bids is 006/CAPEX(OH-35)/2025-26/CSE 
+2.  
+The Purchaser is The Director, NIT Tiruchirappalli. Kind Attention To :  
+Dr.B.NITHYA, Associate Professor, DEPARTMENT OF COMPUTER SCIENCE AND 
+ENGINEERING   
+ 
+ 
+Sl. No. 
+B. Contents of Bidding Documents 
+3.  
+For Clarification of bid purposes only, the Purchaser’s address is DEPARTMENT 
+OF COMPUTER SCIENCE AND ENGINEERING, National Institute of 
+Technology, Tiruchirappalli, 620015 
+ Attention                      : Dr.B.NITHYA, Associate Professor, DEPARTMENT 
+OF COMPUTER SCIENCE AND ENGINEERING   
+ 
+Address 
+: National Institute of Technology, Tiruchirappalli,  
+Floor / Room number : - 
+City 
+: Tiruchirappalli 
+ZIPCode 
+: 620015 
+Country 
+: India 
+Telephone 
+                : Cell : 94427 46750 
+E-Mail                          :  nithya@nitt.edu 
+ 
+4.  
+Web page 
+: https://eprocure.gov.in/eprocure/app 
+5.  
+A site visit shall not be organized by the purchaser. 
+6.  
+A Pre-Bid meeting date 
+and venue 
+: Not Applicable 
+Not Applicable
+
+[Page 23]
+23 / 65 
+ 
+Sl.No. 
+C. Preparation of Bids 
+1.  
+The language of the bid is : English. 
+All correspondence exchange shall be in English. 
+Language  for translation of  supporting documents and printed literature  is 
+English. 
+2.  
+The Bidder shall submit the following additional documents in its bid: NA 
+3.  
+Alternative Bids shall not be considered. 
+4.  
+The prices quoted by the Bidder shall not be subject to adjustment during the 
+performance of the Contract. 
+5.  
+Place of Destination: is National Institute of Technology, Tiruchirappalli, 
+620015. 
+6.  
+Final destination (Project Site): DEPARTMENT OF COMPUTER SCIENCE AND 
+ENGINEERING, National Institute of Technology, Tiruchirappalli, 620015. 
+7.  
+The prices shall be quoted by the bidder in : Indian Rupee / Foreign Currency 
+of Principal’s Country (Preferably in IndianRupees) 
+The Bidder is required to quote in Indian Rupees (INR), the portion of the bid 
+price that corresponds to expenditures incurred in Indian Rupees(INR). 
+8.  
+Manufacturer’s authorization is required. 
+9.  
+After sales, service is required. 
+10.  
+The bid validity period shall be 120 days 
+11.  
+EMD/Bid security Rs. 16,000/- shall be paid in the form of SBI collect/Exemption 
+Certificate (MSME/NSIC) and should be valid for a period of 45 days beyond the 
+bid validity period. All tenders received without EMD/Bank Security shall be 
+rejected. 
+12.  
+Other types of acceptable securities: NA
+
+[Page 24]
+24 / 65 
+ 
+ 
+Sl. No. 
+D. Submission and Opening of Bids 
+1.  
+ Attention                      : Dr.B.NITHYA, Associate Professor, DEPARTMENT  
+                                                 OF COMPUTER SCIENCE AND ENGINEERING. 
+ Street Address              : National Institute of Technology, Tiruchirappalli,  
+City 
+: Tiruchirapalli 
+ZIP/PostalCode 
+: 620 015 
+Country 
+: India 
+The deadline for bid submission is : 
+Date and Time 
+: 27-08-2025 @ 5.00 P.M 
+The electronic bidding opening procedures shall be as given in Section I-
+Instructions for Online Bid Submission. 
+2.  
+The bid opening shall take place at : Stores and Purchase Section, National 
+Institute of Technology, Tiruchirappalli-620015. 
+StreetAddress 
+: National Institute of Technology, Tiruchirappalli 
+Floor / Roomnumber : Admininstrative Block 
+City 
+: Tiruchirappalli 
+Country 
+: India 
+Date and Time 
+: 28-08-2025 @ 5.00 P.M 
+The electronic bidding opening procedures shall be as given in Section I -
+Instructions for Online Bid Submission.
+
+[Page 25]
+22 / 65 
+ 
+ 
+Sl.No. 
+E. Evaluation and Comparison of Bids 
+1.  
+The currency that shall be used for bid evaluation and comparison purposes to 
+convert all bid prices expressed in various currencies into a single currency is : 
+Indian Rupees 
+The source of exchange rate shall be : Reserve Bank of India. 
+The date for the exchange rate shall be: Last day for submission of Bids. 
+2.  
+A margin of domestic preference shall apply. 
+3.  
+Evaluation will be done for concern equipment. 
+Note: Bids will be evaluated for each item and the Contract will  comprise  the 
+item(s) awarded to the successful Bidder. 
+ 
+Sl.No. 
+F. Award of Contract 
+4.  
+The maximum percentage by which quantities may be increased is :NA 
+The maximum percentage by which quantities maybe decreased is:NA
+
+[Page 26]
+23 / 65 
+ 
+Section IV. Prequalification 
+ 
+1. A Declaration by the firm that it has never been black-listed must be attached along with 
+the Bid, failing which the Bid shall be rejected. 
+2. Profile of each Bidder and past experience in supply and installation of the material 
+(certificates to be enclosed), proof of manufacturing Unit/Dealership letter and general 
+order supplier. Manufacturer’s authorization certificate as prescribed in Section IX in case 
+bidder is not manufacturer. 
+3. List of other Govt. Departments, Public Sector units and Central AutonomousBodies for 
+which the bidder is supplying material or having the similar type of contracts and a 
+certificate regarding the satisfactory performance of the contract. 
+4. True copy of Permanent AccountNumber. 
+5. Copy of the last three years audited balance sheet of your firm 
+6. Details of Goods and Service Tax (GSTIN) along with a copy of certificate to be  
+   attached. 
+7. Submission of samples if required, for all items indicated in the schedule of requirements. 
+The make of items proposed to be supplied should be indicated in the format of the 
+schedule of requirements and submitted along with the techno commercial unpriced bid 
+without indicating the pricingcomponents. 
+8. Willingness to execute all orders which are placed to meet emergency requirement on 
+priority basis. The Bidder shall note that standards for workmanship, material and 
+equipment, and references to brand names designated by the Purchaser in the schedule of 
+requirements are intended to be descriptive only and not restrictive. The Bidder may 
+substitute alternative standards, brand names and/or catalogue numbers in his bid, 
+provided that it demonstrates to the Purchaser’s satisfaction that the substitutions ensure 
+substantial equivalence to those designated in the Technical Specifications.
+
+[Page 27]
+24 / 65 
+ 
+Section V. Institute against the Corruptand Fraudulent Practices 
+ 
+Institue strictly adheres to its policy against corruption and requires that bidders and their agents, 
+subagents, sub-contractors, suppliers etc. shall not indulge in any kind of corrupt practices, 
+fraudulent practices, collusive practices, coercive practices, obstructive practices or other kinds of 
+corruption declared as crimes under Indian law. 
+a) If bidder or their agents, subagents, sub-contractors, suppliers etc. are found, directly or 
+indirectly, involved in such practices, bid or agreement and execution thereof at any stage may be 
+rejected or cancelled as the case may be by the Institute and besides it Institute may initiate legal 
+actions including civil and criminalproceeding. 
+For the purpose of this provision the terms are defined as follows : 
+(i) 
+“Corrupt practice” is the offering, giving, receiving, or soliciting, directly or 
+indirectly, of anything of value to influence improperly the actions of anotherparty ;1 
+(ii) 
+“Fraudulent Practices” is any act or omission including a misrepresentation which 
+knowingly or recklessly made to mislead another party to obtain financial or other benefit or to avoid 
+anobligation ;2 
+(iii) 
+“Collusive Practice” is an arrangement between two or more parties designed to 
+achieve an improper purpose, including to influence improperly the actions of anotherparty ;3 
+(iv) 
+“Coercive Practice” is impairing or harming, or threatening to impair or harm, directly 
+or indirectly, any party or the property of the party to influence improperly the actions of aparty ;4 
+(v) 
+“Obstructive Practice” is deliberately destroying, falsifying, altering, or concealing of 
+evidence material to the investigation or making false statements to investigators in order to 
+materially 
+impede 
+an 
+investigation 
+into 
+allegations 
+of 
+a 
+corrupt,fraudulent,coerciveorcollusivepractice ;and / or threatening,harassing or Intimidating any 
+party to prevent it from disclosing its knowledge of matters relevant to the investigation or from 
+pursuing theinvestigation. 
+b) Besides actions under clause (a) Institute may also take action to blacklist such bidder 
+either indefinitely or for a specifiedperiod. 
+ 
+1 For the purpose of this sub-paragraph, “another party” refers to a public official acting in relation to the 
+procurement process or contract execution. In this context, “public official” includes Institute staff and 
+employees of other organizations taking or reviewing procurement decisions. 
+2 For the purpose of this sub-paragraph, “party” refers to a public official; the terms “benefit” and “obligation” 
+relate to the procurement process or contract execution; and the “act or omission” is intended to influence the 
+procurement process or contract execution. 
+3 For the purpose of this sub-paragraph, “party” refers to participants in the procurement process (including 
+public officials) attempting either themselves, or through another person or entity not participating in the 
+procurement or selection process, to simulate competition or to establish bid prices at artificial, non-
+competitive levels, or are privy to each other’s bid prices or other conditions. 
+4 For the purpose of this sub-paragraph, “party” refers to a participant in the procurement process or contract 
+execution.
+
+[Page 28]
+25 / 65 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part - 2 
+ 
+Supply Requirements
+
+[Page 29]
+26 / 65 
+ 
+Section VI. Schedule of Requirements 
+ 
+Contents 
+ 
+1.  
+List of Goods and Delivery Schedule 
+2.  
+List of Related Services and Completion Schedule 
+3.  
+Technical Specifications
+
+[Page 30]
+27 / 65 
+ 
+1. List of Goods and Delivery Schedule 
+ 
+ 
+Item 
+No. 
+Description of Goods Qty Physical 
+unit 
+Final  
+(Project Site) 
+Destination as 
+specified in BDS 
+Delivery (as per Incoterms) Date 
+Earliest 
+Delivery 
+Period 
+(Weeks) 
+Latest Delivery 
+Period 
+(Weeks) 
+Bidder’s 
+offered 
+Delivery period 
+[to be provided 
+by the bidder] 
+1.  
+NETWORK SWITCH 
+48 PORTS   
+2 
+Nos. 
+DEPARTMENT OF 
+COMPUTER SCIENCE 
+AND ENGINEERING  
+6 
+6
+
+[Page 31]
+1. List of Related Services and Completion Schedule 
+Service 
+Description of 
+Service 
+Quantity 
+Physical Unit 
+Place where 
+services shall 
+be performed 
+Final 
+Completion 
+Date(s) of 
+Services
+
+[Page 32]
+TECHNICAL SPECIFICATIONS 
+S.No. 
+Name of the Equipment: 
+Supply and installation of  
+NETWORK SWITCH 48 PORTS  (2 No.) 
+ 
+Specifications: 
+As per Annexure 
+ 
+Installation Required 
+Yes 
+ 
+Warranty (in months) 
+60 months 
+ 
+AMC Required 
+No 
+ 
+Delivery Period (Weeks) 
+6 weeks 
+Shipment Terms 
+Up to NIT, Tiruchirappalli 
+ 
+EMD 
+Rs.16,000/- 
+Payment Term 
+100% payment after satisfactory  
+delivery / installation 
+ 
+Performance Security 
+3% 
+Purchase committee has finalized and recommends the above-mentioned specification and conditions 
+Note:  
+1) Technical Specification should be duly filled by the bidder no fields were left blank and appropriate 
+value will be filled. (don’t fill it as Yes complied or Yes). 
+2) A separate excel worksheet (TEC---1920.xls) is available in the tender document, the same to be filled 
+in and uploaded along with the tender document.
+
+[Page 33]
+30/65 
+ 
+Annexure 
+ 
+Layer 3- Switch -  02 Number 
+SNo 
+Description 
+1 
+Should have minimum 48*(10/100/1000) BaseT, RJ45 Ports plus 8x(1/10)G BaseX SFP+ Ports. Should support 
+Fast and Perpetual POE natively or higher 
+2 
+Should have minimum 40 Gbps of stacking bandwidth proposed with stacking Modules.  Stacking should 
+support min. up to 8 Stacking members. Switch should have dedicated Console port for manage the switch 
+directly. 
+3 
+The switch should support full duplex wire speed in Non-Blocking architecture and line rate performance at 
+packet size of 64 Kbps, Switch Should support forwarding bandwidth of minimum 256 Gbps or Higher 
+4 
+Should support 64-Byte Packet Forwarding Rate of minimum 190 Mbps  or Higher  
+5 
+Should have minimum 1GB of DRAM/SDRAM and 1GB of flash memory.  
+6 
+MAC table capacity – 32K 
+7 
+Should support Minimum of 4K VLANs and Jumbo frame support as well.  
+8 
+Should have compatibility to work in operating temperature range 0 degree C to 50 degree C. 
+9 
+Switch should have Internal AC Power Supply 100 to 240 V AC with 50 to 60 Hz. 
+10 
+The proposed interfaces must have non-blocking and wire-speed performance for all packet sizes for IPv4 & 
+IPv6 traffic and should have distributed forwarding architecture. 
+11 
+Should support Layer 2 protocols IEEE 802.1s, 802.1w, 802.3ad, 802.1x, 802.1p, 802.1Q, 802.1ba, 802.3, 
+802.3u, 802.3ab, 802.3z & RFC 3619/G.8032 for sub 50ms failover 
+12 
+Switch should have IPv4 & IPv6 static routes, RIPng, OSPF, VRRP, IGMP v1, v2, v3, MLD v1, v2 from day 1. 
+Support for BGP for future use. 
+13 
+Switch should have minimum 1K ACL’s, 8K IPv4 routes, 4K IPv6 routes and 4K multicast 
+entries/routes/groups. 
+14 
+Switch should support minimum 8 hardware queues per port for applying various traffic prioritization 
+through QoS. Switch should support SP Queuing and WRED/WTD. 
+15 
+Should support 802.1 X authentication, MACSec, Port Security and RADIUS / TACACS integration, should 
+have MAC security – Lockdown & Limit and MAC address tracking with syslog & SNMP notification, 
+Multicast route/entries. 
+16 
+The Switch must support Layer 2 and Layer 3 Automation based SDN/Fabric/equivalent capabilities within 
+same hardware. Must support the ability to automatically connect to the core and access using the proposed 
+SDN/Fabric providing high level of hardware and network abstraction. 
+17 
+Should have NetFlow/sflow/Equivalent functionality for traffic monitoring. 
+18 
+Switch should support port security, DHCP snooping, Dynamic ARP inspection, IP Source guard, BPDU Guard, 
+Spanning tree root guard and IPv6 First Hop Security.  
+19 
+The proposed switch and OS should be IPv6 ready from day 1 
+20 
+Switch should have EMI CERTIFICATE of FCC/IC and CE, SAFETY CERTIFICATE of UL, ENVIRONMENTAL of 
+RoHS or equivalent Indian Standard, MTCTE certified. 
+21 
+Bidder has to submit Part Coded Bill of Materials for all the quoted Products/Components 
+22 
+Manufacturers Authorization Letter Specific to this tender must be submitted. Tender submitted without 
+MAF will be rejected. 
+23 
+The OEM should be in Gartner magic quadrant for 3 Years in last 5 Years and should provide support 
+services and NBD hardware replacement for 5 years. TAC number, assets and support service contract should 
+be reflected on the official website of the OEM. The OEM shall have Minimum 5 RMA depots in India. 
+ 
+Transceivers from Same OEM day -1 
+1 
+10G Single mode Transceivers - 4 Nos
+
+[Page 34]
+31/65 
+ 
+Part-3 Contract 
+Section VII General Conditions of Contract 
+Table of Clauses 
+ 
+1.  
+Definitions 
+2.  
+Contract Documents 
+3.  
+Corrupt and Fraudulent Practices 
+4.  
+Interpretation 
+5.  
+Language 
+6.  
+Joint Venture, Consortium or Association 
+7.  
+Eligibility 
+8.  
+Notices 
+9.  
+Governing Law 
+10.  
+Settlement of Disputes 
+11.  
+Obligations During Arbitrations 
+12.  
+Scope of Supply 
+13.  
+Delivery and Documents 
+14.  
+Supplier’s Responsibilities 
+15.  
+Contract Price 
+16.  
+Terms of Payment 
+17.  
+Taxes and Duties 
+18.  
+Performance Security 
+19.  
+Copyright 
+20.  
+Confidential Information 
+21.  
+Subcontracting 
+22.  
+Specifications and Standards 
+23.  
+Packing and Documents 
+24.  
+Insurance  
+25.  
+Transportation and Incidental Services 
+26.  
+Inspections and Tests 
+27.  
+Liquidated Damages 
+28.  
+Warranty 
+29.  
+Patent Indemnity 
+30.  
+Force Majeure  
+31.  
+Change Orders and Contract Amendments 
+32.  
+Extensions of Time 
+33.  
+Termination  
+34.  
+Assignment
+
+[Page 35]
+32/65 
+ 
+ 
+Section VII General Conditions of Contract 
+1 
+Definitions: The following words and expressions shall have the meanings hereby 
+assigned to them: 
+ 
+a 
+“NITT” means National Institute of Technology, Tiruchirappalli established under 
+societies Registration Act XXVII of 1975. 
+ 
+b 
+“Contract” means the Contract Agreement entered into between the Purchaser and 
+the Supplier, together with the Contract Documents referred to therein, including all 
+attachments, appendices, and all documents incorporated by reference therein. 
+ 
+c 
+“Contract Documents” means the documents listed in the Contract Agreement, 
+including any amendments thereto. 
+ 
+d 
+“Contract Price” means the price payable to the Supplier as specified in the 
+Contract Agreement, subject to such additions and adjustments thereto or 
+deductions therefrom, as may be made pursuant to the Contract. 
+ 
+e 
+“Day” means calendar day. 
+ 
+f 
+“Completion” means the fulfillment of the Related Services by the Supplier in 
+accordance with the terms and conditions set forth in the Contract. 
+ 
+g 
+“GCC” means the General Conditions of Contract. 
+ 
+h 
+“Goods” means all of the commodities, raw material, machinery and equipment, 
+and/or other materials that the Supplier is required to supply to the Purchaser under 
+the Contract. 
+ 
+i 
+“The Project Site,” term where applicable, means the place of work named in the 
+Special Conditions of Contract (SCC). 
+ 
+j 
+“Purchaser” means faculty, department and other entities of the competent for 
+purchasing Goods and Services, as specified in the SCC. 
+ 
+k 
+“Related Services” means the services incidental to the supply and installation of 
+the goods, such as insurance, installation, training and initial maintenance and other 
+such obligations of the Supplier under the Contract. 
+ 
+l 
+“SCC” means the Special Conditions of Contract. 
+ 
+m 
+“Subcontractor” means any person, private or government entity, or a combination 
+of the above, to whom any part of the Goods to be supplied or execution of any part 
+of the Related Services is subcontracted by the Supplier. 
+ 
+n 
+“Supplier” means the person, private or government entity, or a combination of the 
+above, whose bid to perform the Contract has been accepted by the Purchaser and is 
+named as such in the Contract Agreement. 
+ 
+o 
+“The Project Site,” where applicable, means the place named in the SCC.
+
+[Page 36]
+33/65 
+ 
+2 
+Contract Documents: 
+Subject to the order of precedence set forth in the Contract Agreement, all documents 
+forming the Contract (and all parts thereof) are intended to be correlative, complementary, 
+and mutually explanatory. The Contract Agreement shall be read  as a whole. 
+3 
+Corrupt and Fraudulent Practices: 
+The Institute requires compliance with its policy against the corrupt and fraudulent 
+practices as set forth Section- V The Purchaser requires the Supplier to disclose any 
+commissions or fees that may have been paid or are to be paid to agents or any other party 
+with respect to the bidding process or execution of the Contract. The information 
+disclosed must include the name and address of the agent or other party, the amount and 
+currency, and the purpose of the commission, gratuity or fee. 
+4 
+Interpretation 
+ 
+4.1 
+The Contract constitutes the entire agreement between the Purchaser and the 
+Supplier and supersedes all  communications, negotiations and agreements  
+(whether written or oral) of the parties with respect thereto made prior  to the date 
+of Contract. 
+ 
+4.2 
+Amendment 
+No amendment or other variation of the Contract shall be valid unless it is reduced 
+to writing, dated, expressly refers to the Contract, and is signed by the duly 
+authorized representative of each party thereto. 
+ 
+4.3 
+Non waiver 
+ 
+ 
+a 
+Subject to GCC Sub-Clause 4.5(b) below, no relaxation, forbearance, delay, or 
+indulgence by either party in enforcing any of the terms and conditions of the 
+Contract or the granting of time by either party to the other shall prejudice, 
+affect, or restrict the rights of that party under the Contract, neither shall any 
+waiver by either party of any breach of Contract operate as waiver of any 
+subsequent or continuing breach of Contract. 
+ 
+ 
+b 
+Any waiver of a party’s rights, powers, or remedies under the Contract must 
+be in writing, dated, and signed by an authorized representative of the party 
+granting such waiver, and must specify the right and the extent to which it is 
+being waived. 
+ 
+4.4 
+Severability: 
+If any provision or condition of the Contract is prohibited or rendered invalid or 
+unenforceable, such prohibition, invalidity or unenforceability shall not affect the 
+validity or enforceability of any other provisions and conditions of the Contract. 
+5 
+5.1 
+Language: 
+The Contract as well as all correspondence and documents relating to the Contract 
+exchanged by the Supplier and the Purchaser, shall be written in the language 
+specified in the SCC. Supporting documents and printed literature that are part of 
+the Contract may be in any language provided they are accompanied by an accurate 
+translation of the relevant passages in the language specified, in which case, for 
+purposes of interpretation of the Contract, such translation shall govern. 
+ 
+5.2 
+The Supplier shall bear all costs  of  translation  to  the governing language and all 
+risks of the accuracy of such translation, for documents provided by the Supplier. 
+6 
+ 
+Joint Venture, Consortium or Association: 
+If the Supplier is a joint venture, consortium, or association, all of the parties shall 
+be jointly and severally liable to the Purchaser for the fulfilment of the provisions 
+of the Contract and shall designate one party to act as a leader with authority to 
+bind the joint venture, consortium, or association. The composition or the 
+constitution of the joint venture, consortium, or association shall not be altered
+
+[Page 37]
+34/65 
+ 
+without the prior consent of the Purchaser. 
+7 
+7.1 
+Eligibility: 
+The Bidder should not have been declared insolvent by the competent court. 
+ 
+7.2 
+The Bidder should not be disqualified for contract under the law of the India. 
+ 
+7.3 
+The Bidder should not be adjudged defaulter of Tax Payment under Income Tax 
+Law or any other Law for the time being in-force. 
+ 
+7.4 
+The Supplier and its Subcontractors shall have the nationality of an eligible 
+country. A Supplier or Subcontractor shall be deemed to have the nationality of a 
+country if it is a citizen or constituted, incorporated, or registered, and operates in 
+conformity with the provisions of the laws of that country. Nationality must be 
+disclosed by the supplier 
+ 
+7.5 
+All Goods and Related Services to be supplied under the Contract shall have their 
+origin in Eligible Countries. For the purpose of this Clause, origin means the 
+country where the goods have been grown, mined, cultivated, produced, 
+manufactured, or processed; or through manufacture, processing, or assembly, 
+another commercially recognized article results that differs substantially in its basic 
+characteristics from its components. 
+8 
+8.1 
+Notices Any notice given by one party to the other pursuant to the Contract shall 
+be in writing to the address specified in the SCC. The term “in writing” means 
+communicated in written form with proof of receipt. 
+ 
+8.2 
+A notice shall be effective when delivered or on the notice’s effective date, 
+whichever is later. 
+9 
+9.1 
+Governing Law: 
+The Contract shall be governed by and interpreted in accordance with the laws of 
+India, unless otherwise specified in the SCC. 
+ 
+9.2 
+Throughout the execution of the Contract,  the  Contractor  shall comply with the 
+import of goods and services prohibitions in India when 
+ 
+ 
+a 
+Throughout the execution of the Contract,  the  Contractor  shall comply with 
+the import of goods and services prohibitions in India when 
+ 
+ 
+b 
+by an act of compliance with a decision of the United Nations Security 
+Council taken under Chapter VII of the Charter of the United Nations, India 
+prohibits any import of goods from that country or any payments to any 
+country, person, or entity in that country. 
+10 
+10.1 
+Settlement of Disputes 
+The Purchaser and the Supplier shall make every effort to resolve amicably by 
+direct informal negotiation any disagreement or dispute arising between them 
+under or in connection with the Contract. 
+ 
+10.2 
+If the parties have failed to resolve their dispute or difference by such mutual 
+consultation, then either the Purchaser or the Supplier may give notice to the other 
+party of its intention to settle the issue by arbitration, as hereinafter provided, as to 
+the matter in dispute, no arbitration in respect of the matter be commenced unless 
+such notice is given in accordance with   this Clause for the final settlement of the 
+matter. Arbitration may be commenced prior to or after delivery of the Goods 
+under the Contract. 
+ 
+10.3 
+All questions, disputes and differences arising  shall  be referred by the The 
+Director, National Institute of Technology, Tiruchirappalli to the sole arbitrator for 
+arbitration under the provision of the Arbitrations and Conciliation Act, 1996. 
+11 
+ 
+Obligations During Arbitrations 
+Notwithstanding any reference to arbitration in Clause 10, 
+ 
+ 
+a 
+the parties shall continue to perform their respective obligations under the
+
+[Page 38]
+35/65 
+ 
+Contract unless they otherwise agree; and 
+ 
+ 
+b 
+the Purchaser shall pay any amount due to the Supplier. 
+12 
+ 
+Scope of Supply 
+The Goods and Related Services to be supplied shall be as specified in the 
+Schedule of Requirements. 
+13 
+ 
+Delivery and Documents 
+Subject to GCC Sub-Clause 33.1, the Delivery of the Goods and Completion of the 
+Related Services shall be in accordance with the Delivery and Completion 
+Schedule specified in the Schedule of Requirements. The details of shipping and 
+other documents to be furnished by the Supplier are specified in the SCC. 
+14 
+ 
+Suppliers Responsibilities 
+The Supplier shall supply all the Goods and Related Services included in the Scope 
+of Supply in accordance with GCC Clause 12, and the Delivery and Completion 
+Schedule, as per GCC Clause 13. 
+15 
+ 
+Contract Price 
+Prices charged by the Supplier for the Goods supplied and the 
+Related Services performed under the Contract shall not vary from the prices 
+quoted by the Supplier in its bid, with the exception of any price adjustments 
+authorized in the SCC. 
+16 
+16.1 
+Terms of Payment 
+Ordinarily, payments for services rendered or supplies made shall be released only 
+after the services have been rendered or supplies appropriate to the requirement 
+made. However, in following cases advance payments may be made if specified  
+in SCC: 
+ 
+ 
+a 
+Advance payment demanded by firms holding maintenance contracts for 
+servicing of Air-conditioners, computers, other costly equipment, etc. 
+ 
+ 
+b 
+Advance payment demanded by  firms  against fabrication contracts, turnkey 
+contracts etc. 
+ 
+ 
+c 
+Such advance payment should not exceed the following limits: - 
+Thirty percent of the contract value to private firms; 
+ 
+ 
+d 
+Forty percent of the contract value to a State or central Government agency or 
+a Public Sector Undertaking; or 
+ 
+ 
+e 
+In case of maintenance contract, the amount should not exceed the amount 
+payable for six months under the contract. 
+ 
+16.2 
+The Supplier’s request for payment shall be made to the Purchaser in writing, 
+accompanied by invoices describing, as appropriate, the Goods delivered and 
+Related Services performed, and by the documents submitted pursuant to GCC 
+Clause 13 and upon fulfilment of all other obligations stipulated in the Contract. 
+ 
+16.3 
+Payments shall be made promptly by the Purchaser, within ninety (90) days after 
+submission of an invoice or request for payment by the Supplier, and after the 
+Purchaser has accepted it 
+ 
+16.4 
+The currencies in which payment shall be made to  the  supplier under this contract 
+shall be Indian currency unless otherwise agreed. 
+17 
+17.1 
+Taxes and Duties 
+For goods manufactured outside India, the Supplier shall be entirely responsible for 
+all taxes, stamp duties, license fees, and other such levies imposed outside India. 
+ 
+17.2 
+For goods Manufactured within India, the Supplier shall be entirely responsible for 
+all taxes, duties, license fees, etc., incurred until delivery of the contracted Goods 
+to the Purchaser. 
+ 
+17.3 
+If any tax exemptions, reductions, allowances or privileges may be available to the
+
+[Page 39]
+36/65 
+ 
+Supplier in India, the Purchaser shall use its best efforts to enable the Supplier to 
+benefit from any such tax savings to the maximum allowable extent or country or 
+origin, the supplies shall provide benefit from any such tax sowing to the 
+purchaser. 
+18 
+18.1 
+Performance Security: 
+If required as specified in the SCC, the Supplier shall, within twenty-one (21) days 
+of the notification of contract award, provide a performance security for the 
+performance of the Contract in the amount specified in the SCC 
+ 
+18.2 
+The proceeds of the Performance Security shall be payable to the Purchaser as 
+compensation for any loss resulting from the Supplier’s failure to complete its 
+obligations under the Contract. 
+ 
+18.3 
+As specified in the SCC, the Performance  Security,  if required, shall be 
+denominated in the currency(ies) of the Contract or in a freely convertible currency 
+acceptable to the Purchaser; and shall be in one of the format stipulated by the 
+Purchaser in the SCC, or in another format acceptable to the Purchaser. 
+ 
+18.4 
+Performance security should remain valid for a  period  of  sixty days beyond the 
+date of completion of all contractual obligations of the supplier including warranty 
+obligation. 
+ 
+18.5 
+Bid security shall be refunded to the successful bidder 6-8 weeks of receipt of 
+performance security. 
+19 
+ 
+Copyright 
+The copyright in all drawings, documents, and other materials containing data and 
+information furnished to the Purchaser by the Supplier herein shall remain vested 
+in the Supplier, or, if they are furnished to the Purchaser directly or through the 
+Supplier by any third party, including suppliers of materials, the copyright in such 
+materials shall remain vested in such third party. 
+20 
+20.1 
+Confidential Information 
+The Purchaser and the Supplier shall keep confidential and shall not, without the 
+written consent of the other party hereto, divulge to any third party any documents, 
+data, or other information furnished directly or indirectly by the other party hereto 
+in connection with the Contract, whether such information has been furnished prior 
+to, during or following completion or termination of the Contract. Notwithstanding  
+the above, the Supplier may furnish to its Subcontractor such documents, data, and 
+other information it receives from the Purchaser to the extent required for the 
+Subcontractor to perform its work under the Contract, in which event the Supplier 
+shall obtain from such Subcontractor an undertaking of confidentiality similar to 
+that imposed on the  Supplier  under GCC Clause 20. 
+ 
+20.2 
+The Purchaser shall not use such documents, data, and other information received 
+from the Supplier for any purposes unrelated to the contract. Similarly, the 
+Supplier shall not use such documents, data, and other information  received  from 
+the Purchaser for any purpose other than the performance of the Contract. 
+ 
+20.3 
+The obligation of a party under GCC Sub-Clauses 20.1 and 20.2 above, however, 
+shall not apply to information that: 
+ 
+ 
+a 
+Now or hereafter enters the public domain through no fault of that party; 
+ 
+ 
+b 
+can be proven to have been possessed by that party at the time of disclosure 
+and which was not previously obtained, directly or indirectly, from the other 
+party; or 
+ 
+ 
+c 
+otherwise lawfully becomes available to that party from a third party that has 
+no obligation of confidentiality. 
+ 
+20.4 
+The above provisions of GCC Clause 20 shall not in any way modify any
+
+[Page 40]
+37/65 
+ 
+undertaking of confidentiality given by either of the parties hereto prior to the  date  
+of the Contract in respect  of the Supply or any part thereof. 
+ 
+20.5 
+The provisions of GCC Clause 20 shall survive completion or termination, for 
+whatever reason, of the Contract. 
+21 
+21.1 
+Subcontracting 
+The Supplier shall notify the Purchaser in writing of all subcontracts awarded 
+under the Contract if not already specified in the bid. Such notification, in the 
+original bid or later on shall not relieve the Supplier from any of its obligations, 
+duties, responsibilities, or liability under the Contract. 
+ 
+21.2 
+Subcontracts shall comply with  the  provisions  of  GCC Clauses 3 and7. 
+22 
+22.2 
+Specifications and Standards 
+Technical Specifications and Drawings 
+ 
+ 
+a The Goods and Related Services supplied under this Contract shall conform to 
+the technical  specifications and standards mentioned in Section-VI, Schedule 
+of Requirements and, when no applicable standard is mentioned, the standard 
+shall be equivalent or superior  to the official standards  whose  application  is 
+appropriate to the Goods’ country of origin or India. 
+ 
+ 
+b Wherever references are made in the Contract to codes and standards in 
+accordance with which it shall be executed, the edition or the revised version 
+of such codes and standards shall be those specified in the Schedule of 
+Requirements. During Contract execution, any changes in any such codes and 
+standards shall be applied only after approval by the Purchaser and shall   be 
+treated in accordance with GCC Clause 33. 
+23 
+23.1 
+Packaging and Documents 
+The Supplier shall provide such packing of the Goods as is required to prevent 
+their damage or deterioration during transit to their final destination, as indicated in 
+the Contract. During transit, the packing shall be sufficient to withstand, without 
+limitation, rough handling and exposure to extreme temperatures, salt and 
+precipitation, and open storage. Packing case size and weights shall take into 
+consideration, where appropriate, the remoteness of the goods’ final destination 
+and the absence of heavy handling facilities at all points in transit. 
+ 
+23.2 
+The packing, marking, and documentation within and outside the packages shall 
+comply strictly with such special requirements as shall be expressly provided for in 
+the Contract, including additional requirements, if any,  specified in the SCC, and 
+in any other instructions ordered by the Purchaser. 
+24 
+ 
+Insurance 
+Unless otherwise specified in the SCC, the Goods supplied under the Contract shall 
+be fully insured—in a freely convertible currency from an  eligible  country—
+against  loss or damage incidental to manufacture or acquisition, transportation, 
+storage, and delivery, in accordance with the applicable Incoterms or in the manner 
+specified in the SCC. 
+25 
+25.1 
+Transportation and Incidental Services 
+The Supplier is required under the Contract to transport the Goods to a specified 
+place of final destination within India, defined as the Project Site, transport to such 
+place of destination in India, including insurance and storage, as shall be specified 
+in the Contract, shall be arranged  by  the  Supplier, and related costs shall be 
+included in the Contract Price”; or any other agreed upon trade terms (specify the 
+respective responsibilities of the Purchaser and the Supplier) 
+ 
+25.2 
+The Supplier may be required to provide any or all of the following services, 
+including additional services, if any, specified in SCC:
+
+[Page 41]
+38/65 
+ 
+ 
+ 
+a 
+performance or supervision of on-site assembly and/or start up of the supplied 
+Goods; 
+ 
+ 
+b 
+furnishing of tools required for assembly and/or maintenance of the supplied 
+Goods; 
+ 
+ 
+c 
+furnishing of a detailed operations and maintenance manual for each 
+appropriate unit of the supplied Goods; 
+ 
+ 
+d 
+performance or supervision or maintenance  and/or  repair of the supplied 
+Goods, for a period of time agreed by the parties, provided that this service 
+shall not relieve the Supplier of any warranty obligations under this Contract; 
+and 
+ 
+ 
+e 
+training of the Purchaser’s personnel, at the Supplier’s plant and/or on-site, in 
+assembly, start-up, operation, maintenance, and/or repair of the supplied 
+Goods. 
+ 
+25.3 
+Prices charged by the Supplier for incidental services, if not included in the 
+Contract Price for the Goods, shall be agreed upon in advance by the parties and 
+shall not exceed the prevailing rates charged to other parties by the Supplier for 
+similar services otherwise shall be at the cost of suppliers. 
+26 
+26.1 
+Inspections and Tests 
+The Supplier shall at its own expense and at no cost to the Purchaser carry out all 
+such tests and/or inspections of the Goods and Related Services as are specified in 
+the SCC. 
+ 
+26.2 
+The inspections and tests may be conducted on the premises of the Supplier or its 
+Subcontractor, at point of delivery, and/or at the Goods’ final destination, or in 
+another place in India as specified in the SCC. Subject to GCC Sub-Clause 26.3, if 
+conducted on the premises of the Supplier or its Subcontractor, all reasonable 
+facilities and assistance, including access to drawings and production data, shall be 
+furnished to the inspectors at no charge to the Purchaser. 
+ 
+26.3 
+The Purchaser or its designated representative shall be entitled to attend the tests 
+and/or inspections referred to in GCC Sub-Clause 26.2, provided that the Purchaser 
+bear all of its own costs and expenses incurred in connection with such attendance 
+including, but not limited to, all traveling and board and lodging expenses. 
+ 
+26.4 
+Whenever the Supplier is ready to carry out any such test and inspection, it shall 
+give a reasonable advance notice, including the place and time, to the Purchaser. 
+The Supplier shall obtain from any relevant third party or manufacturer any 
+necessary permission or consent to enable the Purchaser or its designated 
+representative to attend the test and/or inspection. 
+ 
+26.5 
+The Purchaser may require the Supplier to carry out any test and/or inspection not 
+required by the Contract but deemed necessary to verify that the characteristics and 
+performance of the Goods comply with the technical specifications codes and 
+standards under the Contract, provided that the Supplier’s reasonable costs and 
+expenses incurred in the carrying out of such test and/or inspection shall be added 
+to the Contract Price. Further, if such test and/or inspection impedes the progress of 
+manufacturing and/or the Supplier’s performance of its other obligations under the 
+Contract, due allowance will be made in respect of the Delivery Dates and  
+Completion Dates and the other obligations so affected. 
+ 
+26.6 
+The Supplier shall provide the Purchaser with a report of the results of any such 
+test and/or inspection. 
+ 
+26.7 
+The Purchaser may reject any Goods or any part thereof that fail to pass any test 
+and/or inspection or do not conform to the specifications. The Supplier, if
+
+[Page 42]
+39/65 
+ 
+permitted by the purchaser, shall either rectify or replace such rejected Goods or 
+parts thereof or make alterations necessary to meet the specifications at no cost to 
+the Purchaser, and shall repeat the test and/or inspection, at no cost to the 
+Purchaser, upon giving a notice pursuant to GCC Sub-Clause 26.4. 
+27 
+ 
+Liquidated Damages 
+Except as provided under GCC Clause 32,  if  the  Supplier fails to deliver any or 
+all of the Goods by the Date(s) of delivery or perform the Related Services within 
+the period specified in the Contract, the  Purchaser  may  without prejudice to all its 
+other remedies under the Contract, deduct from the Contract Price, as liquidated 
+damages, a sum equivalent to the percentage specified in the SCC of the delivered 
+price of the delayed  Goods  or  unperformed Services for each week or part 
+thereof of delay until actual delivery or performance, up to a maximum deduction 
+of the percentage specified in those SCC. Once the maximum is reached, the 
+Purchaser may terminate  the  Contract  pursuant to GCC Clause 33. 
+28 
+28.1 
+Warranty 
+The Supplier warrants that all the Goods are new, unused, and of the most recent or 
+current models, and that they incorporate all recent improvements in design and 
+materials, unless provided otherwise in the Contract. 
+ 
+28.2 
+Subject to Sub-Clause 22.1(b) of GCC, the Supplier further warrants that the 
+Goods shall be free from  defects  arising from any act or omission of the Supplier 
+or arising from design, materials, and workmanship, under normal use in the 
+conditions prevailing in India. 
+ 
+28.3 
+Unless otherwise specified in the SCC, the warranty shall remain valid for  
+60 months after the Goods, or any portion thereof as the case may be, have  been 
+delivered  to  and accepted at the final destination indicated in the SCC, or 
+warranty period mentioned by supplier whichever period concludes later unless 
+mutually agreed. 
+ 
+28.4 
+The Purchaser shall give notice to the Supplier stating the nature of any such 
+defects together with all available evidence thereof, promptly following the 
+discovery thereof. The Purchaser shall afford all reasonable opportunity for the 
+Supplier to inspect such defects. 
+ 
+28.5 
+Upon receipt of such notice, the Supplier shall, within the period specified in the 
+SCC, expeditiously repair or replace the defective Goods or parts thereof, at no 
+cost to the Purchaser. 
+ 
+28.6 
+If having been notified, the Supplier fails to remedy the defect within the period 
+specified in the SCC; the Purchaser may proceed to take within a reasonable period 
+such remedial action as may be necessary, at the Supplier’s risk and expense and 
+without prejudice to any other rights which the Purchaser may have against the 
+Supplier under the Contract. 
+29 
+29.1 
+Patent Indemnity 
+The Supplier shall, subject to the  Purchaser’s  compliance  with GCC Sub-Clause 
+29.2, indemnify and hold harmless the Purchaser and its employees and officers 
+from and against any and all suits, actions or administrative proceedings, claims, 
+demands, losses, damages, costs, and expenses of any nature, including attorney’s 
+fees and expenses, which the Purchaser may suffer as a result of any infringement 
+or alleged infringement of any patent, utility model, registered design, trademark, 
+copyright, or other intellectual property right registered. 
+ 
+29.2 
+If any proceedings are brought or any claim is made against the Purchaser arising 
+out of the matters referred to in GCC Sub-Clause 29.1, the Purchaser shall 
+promptly give the Supplier a notice thereof, and the Supplier may at its own
+
+[Page 43]
+40/65 
+ 
+expense and in the Purchaser’s name conduct such proceedings or claim and any 
+negotiations for the settlement of any such proceedings or claim. 
+ 
+29.3 
+The Purchaser shall, at the Supplier’s request, afford all available assistance to the 
+Supplier in conducting such proceedings or claim, and shall be reimbursed by the 
+Supplier for all reasonable expenses incurred in so doing. 
+30 
+30.1 
+Force Majeure 
+For purposes of this Clause, “Force Majeure” means an event or situation beyond 
+the control of the Supplier that is not foreseeable, is unavoidable, and its origin is 
+not due to negligence or lack of care on the part of the Supplier. Such events may 
+include, but not be limited to, wars or revolutions ,fires, floods, epidemics, 
+quarantine restrictions, and freight embargoes. 
+ 
+30.2 
+If a Force Majeure situation arises, the Supplier shall promptly notify the Purchaser 
+in writing of such condition and   the cause thereof. Unless otherwise directed by 
+the Purchaser in writing, the Supplier shall continue to perform its obligations 
+under the Contract as far as is reasonably possible, and shall seek all reasonable 
+alternative means for performance not prevented by the Force Majeure event. 
+ 
+30.3 
+The Supplier shall not be liable for forfeiture of its Performance Security, 
+liquidated damages, or termination for default if and to the extent that it’s delay in 
+performance or other failure to perform its obligations under the Contract is the 
+result of an event of Force Majeure. 
+31 
+31.1 
+Change Orders and Contract Amendments 
+The Purchaser may at any time order the Supplier through notice in accordance 
+GCC Clause 8, to make changes within the general scope of the Contract in any 
+one or more of the following: 
+ 
+ 
+a 
+drawings, designs, or specifications, where Goods to be furnished under the 
+Contract are to be specifically manufactured for the Purchaser; 
+ 
+ 
+b 
+the method of shipment or packing; 
+ 
+ 
+c 
+the place of delivery; and 
+ 
+ 
+d 
+the Related Services to be provided by the Supplier. 
+32 
+32.1 
+Extensions of Time 
+If at any time during performance of the Contract, the Supplier or its 
+subcontractors should encounter conditions impeding timely delivery of the Goods 
+or completion of Related Services pursuant to GCC Clause 13, the Supplier shall 
+promptly notify the Purchaser in writing of the delay, its likely duration, and its 
+cause. As soon as practicable after receipt of the Supplier’s notice, the Purchaser 
+shall evaluate the situation and may at its discretion extend the Supplier’s time for 
+performance, in which case the extension shall be ratified by the parties by 
+amendment of the Contract. 
+ 
+32.2 
+Except in case of Force Majeure, as provided under GCC Clause 32, a delay by the 
+Supplier in the performance of its Delivery and Completion obligations  shall  
+render  the Supplier liable to the imposition of liquidated damages pursuant to 
+GCC Clause 26, unless an extension of time is agreed upon, pursuant to GCC Sub-
+Clause 34.1. 
+33 
+33.1 
+Termination for Default 
+The Purchaser, without prejudice to any other  remedy  for breach of Contract, by 
+written notice of default  sent to the Supplier, may terminate the Contract in whole  
+or in part: 
+ 
+ 
+a 
+if the Supplier fails to deliver any or all of the Goods within the period 
+specified in the Contract, or within any extension thereof granted by the
+
+[Page 44]
+41/65 
+ 
+Purchaser pursuant to GCC Clause32; 
+ 
+ 
+b 
+if the Supplier fails to perform any  other  obligation under the Contract; or 
+ 
+ 
+c 
+if the Supplier, in the judgment of the Purchaser  has engaged in fraud and 
+corruption, as defined in GCC Clause 3, in competing for  or in executing 
+theContract 
+ 
+ 
+In the event the Purchaser terminates the Contract in whole or in part, pursuant to 
+GCC Clause 33.1(a), the Purchaser may procure, upon such terms and in such 
+manner as it deems appropriate, Goods or Related Services similar to those 
+undelivered or not performed, and the Supplier shall be liable to the Purchaser for 
+any additional costs for such similar Goods or Related Services. However, the 
+Supplier shall continue performance of the Contract to the  extent  not terminated. 
+ 
+33.2 
+Termination for Insolvency 
+The Purchaser may at any time terminate the Contract by giving notice to the 
+Supplier if the Supplier becomes bankrupt or otherwise insolvent. In such event, 
+termination will be without compensation to the Supplier, provided that such 
+termination will not prejudice or affect any right of action or remedy that has 
+accrued or will accrue thereafter to the Purchaser. 
+ 
+33.3 
+Termination for Convenience 
+ 
+ 
+a 
+The Purchaser, by notice sent to the Supplier, may terminate the Contract, in 
+whole or in part, at any time for its convenience. The notice of termination 
+shall specify that termination is for the Purchaser’s convenience, the extent to 
+which performance of the Supplier under the Contract is terminated, and the 
+date upon which such termination becomes effective. 
+ 
+ 
+b 
+The Goods that are complete and ready for shipment within twenty-eight (28) 
+days after the Supplier’s receipt of notice of termination shall be accepted by 
+the Purchaser at the Contract terms and prices. For the remaining Goods, the 
+Purchaser may elect : 
+(i) 
+to have any portion completed and delivered at the Contract terms and 
+prices ; and/or 
+(ii) 
+to cancel the remainder and pay to the Supplier an agreed amount for 
+partially completed Goods and Related Services and for materials and parts 
+previously procured by the Supplier. 
+34 
+ 
+Assignment 
+Neither the Purchaser nor the Supplier shall assign, in whole or in part, their obligations 
+under this Contract, except with prior written consent of the other party. 
+35 
+ 
+If there is a discrepancy between unit price, the unit price will be consideed.  If there is any 
+mismatch between figure and word, the amount in word shall prevail. 
+36 
+ 
+If any arithmetic mistake in total/GST calculation is observed, the same shall be corrected 
+by the purchaser with an initimation to bidder. 
+37 
+ 
+Bids submitted without EMD(Unless exempted) will be treated as disqualified. 
+38 
+ 
+The successful bidder should submit Security Deposit/PBG within 15 days from the date 
+of placement of order.  The EMD shall be returned only after receipt of SD.  If the bidder 
+fails to deliver the material, then the EMD/SD shall be forfeited. 
+39 
+ 
+ 
+Make in India clause, applicable as per Govt. of India norms. (ANNEXURE- C) 
+PUBLIC PROCUREMENT (PREFERENCE TO MAKE IN INDIA), ORDER:  
+Public Procurement (Preference to Make in India), Order 2017, DIPP, MoCI Order No. 
+P-45021/2/2017-B.E.II dated 15th June 2017 and subsequent revised orders issued 
+from time to time, purchase preference will be given suppliers as defined in the
+
+[Page 45]
+42/65 
+ 
+aforesaid order. The various categories of suppliers defined in the aforesaid order are 
+reproduced below.  
+ 
+“Local Content” means the amount of value added in India which shall be value of the 
+item procured (excluding net domestic indirect taxes) minus the value of the 
+imported content in the item (including all the custom duties) as a proportion of the 
+total value, in percent. Accordingly, the suppliers will be classified in following 
+categories.  
+i) Class I local supplier – has local content equal to more than 50%  
+ii) Class II local supplier – has local content more than 20% but less than 50%  
+iii) Non –local supplier – has local content less than or equal to 20%  
+ 
+Verification of Local Content: The Class I Local Supplier /Class II Local Supplier/Non-
+Local Supplier at the time of tender, bidding or solicitation shall be required to 
+indicate the percentage of local content and provide self-certification that the items 
+offered meets the local content requirement as the case may as per Annexure-VII. 
+The details of the location(s) at which the local value addition is made also needs to 
+be mentioned. In case of procurement in excess of Rs.10 crores, the suppliers shall be 
+required to submit a certificate towards percentage of local content from the 
+authorities as stated in the aforesaid order in the technical bid itself.  
+ 
+Only Class-I local and Class-II local suppliers are eligible for participating in this 
+tender.  
+ 
+The margin of purchase preference shall be 20%.  
+ 
+Preference to Make In India products (For bids < 200 Crore): Preference shall be 
+given to Class 1 local supplier as defined in public procurement (Preference to Make 
+in India), Order 2017 as amended from time to time and its subsequent 
+Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products. 
+The minimum local content to qualify as a Class 1 local supplier is denoted in the bid 
+document. If the bidder wants to avail the Purchase preference, the bidder must 
+upload a certificate from the OEM regarding the percentage of the local content and 
+the details of locations at which the local value addition is made along with their bid, 
+failing which no purchase preference shall be granted. In case the bid value is more 
+than Rs 10 Crore, the declaration relating to percentage of local content shall be 
+certified by the statutory auditor or cost auditor, if the OEM is a company and by a 
+practicing cost accountant or a chartered accountant for OEMs other than companies 
+as per the Public Procurement (preference to Make-in -India) order 2017 dated 
+04.06.2020. Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 
+will be eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are 
+not eligible to participate.  
+ 
+False declarations will be in breach of the Code of Integrity under Rule 175(1)(i)(h) 
+of the General Financial Rules for which a bidder or its successors can be debarred 
+for up to 2 years as per Rule 151(iii) of the General Financial Rules along with such 
+other actions as may be permissible under law.
+
+[Page 46]
+43/65 
+ 
+40 
+ 
+LAND BORDER DECLARATION CERTIFICATE (ANNEXURE- D) 
+Restrictions on procurement from Bidders from a country or countries, or a class of 
+countries under Rule 144(xi) of the General Financial Rules 2017 in which any bidder 
+from a country sharing a land border with India will be eligible to bid in this tender 
+only if the bidder is registered with the Department for Promotion of Industry and 
+Internal Trade (DPIIT). Accordingly, Land border declaration certificate should be 
+submitted by the bidders.  
+41 
+ 
+Bids without quoting GST(unless exempted) will be considered as disqualified, unless 
+specified in the tender document to quote only the basic price.
+
+[Page 47]
+44/65 
+ 
+Section VIII Special Conditions of Contract 
+ 
+The following Special Conditions of Contract (SCC) shall supplement and / or amend the General 
+Conditions of Contract (GCC). Whenever there is a conflict, the provisions herein shall prevail over 
+those in the GCC. 
+ 
+GCC 
+Clause 
+Ref. No. 
+SCC 
+GCC 1.1 (i) The Purchaser’s country is: India. 
+GCC 1.1 (k) The Purchaser is : THE DIRECTOR, NIT TIRUCHIRAPPALLI 
+KIND ATTENTION TO : Dr.B.NITHYA, Associate Professor, DEPARTMENT 
+OF COMPUTER SCIENCE AND ENGINEERING   
+GCC 1.1 (j) The Project Site(s)/Final Destination(s) is/are:   
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING,                           
+NIT TIRUCHIRAPPALLI. 
+GCC 5.1 
+The language shall be: English 
+GCC 8.1 
+For notices, the Purchaser’s address shall be : 
+Attention                       : Dr.B.NITHYA, Associate Professor,  
+Street Address 
+: DEPARTMENT OF COMPUTER SCIENCE     
+                                            ENGINEERING 
+City 
+: TIRUCHIRAPPALLI 
+ZIP Code 
+: 6 2 0 0 1 5  
+Country 
+: India 
+ Phone 
+: 9442746750  
+E-Mail                           : nithya@nitt.edu 
+GCC 9.1 
+The governing law shall be the law of India. 
+GCC 10.2 
+The rules of procedure for arbitration proceedings pursuant to GCC Clause 10.2 
+shall be as follows : 
+Contracts with Supplier for arbitral proceeding 
+In the case of a dispute between the Purchaser and a Supplier,  the dispute shall be 
+referred to adjudication or arbitration in accordance  with the laws of India by the 
+arbitrator appointed by The Director,NITT, unless otherwise agreed. 
+GCC 13.1 
+Details of Shipping and other Documents to be furnished by the Supplier are : 
+(i) 
+An airway bill 
+(ii) 
+Insurance Certificate, 
+(iii) 
+Manufacturer’s or Supplier’s Warranty Certificate, 
+(iv) 
+Inspection Certificate issued by nominated inspection agency, 
+(v) 
+Supplier’s factory shipping details etc. 
+(vi) 
+The above documents shall be received by the Purchaser before  arrival of  
+the Goods and, if not received, the Supplier will be responsible for any 
+consequent expenses. 
+GCC 15.1 
+The prices charged for the Goods supplied and the related Services  
+performed shall not be adjustable. 
+GCC 16.1 
+GCC 16.1—The method and conditions of payment to be made to the Supplier 
+under this Contract shall be as follows :
+
+[Page 48]
+45/65 
+ 
+ 
+Payment for Goods supplied from abroad : 
+Payment of foreign currency portion shall be made in Indian Rupees in the 
+following manner : 
+(i) 
+On Shipment & Delivery : Ninety (90%) percent of the Contract Price of 
+the Goods shipped shall be paid through irrevocable confirmed letter of 
+credit opened in favor of the Supplier in a bank in its country, upon receiving 
+equipment in good condition and documents specified in GCC Clause 13.1 
+under Section-VII. 
+(i) 
+On Acceptance : Remaining (10%) percent of the Contract Price of 
+Equipment received shall be paid within thirty (30) days of receipt of the 
+equipment upon submission of claim supported by the acceptance certificate 
+issued by the Purchaser by bank draft/wire transfer. 
+Payment of local currency portion shall be made in Indian Rupees within thirty 
+(30) days of presentation of claim supported by a certificate from the Purchaser 
+declaring that the Goods have been delivered and that all other contracted 
+Services have been performed. 
+Payment for Goods and Services supplied from within India : 
+Payment for Goods and Services supplied from within India shall be made   in 
+Indian Rupees, as follows : 
+(i) On Delivery, Acceptance and Installation and Commissioning : Hundred 
+(100%) percent of the Contract Price shall be paid on receipt of the Goods in 
+good conditions, acceptance and satisfactory installation & commissioning 
+certificate provided by the Purchase Initiator. and acceptance certificate for 
+satisfactory installation and functioning. 
+GCC 18.1 
+A Performance Security shall be required @ 3% of contract price. 
+GCC 18.3 
+If required, the Performance Security shall be in the form of : Bank 
+Guarantee/Bank Deposit Reciept/Demand Draft 
+If required, the Performance security shall be denominated in Indian Rupees. 
+GCC 23.2 
+The packing, marking and documentation within and outside the packages shall 
+comply strictly with such special requirements as shall be expressly provided for 
+in the Contract. 
+GCC 24.1 
+The insurance coverage shall be as specified in the Incoterms. 
+If not in accordance with Incoterms, insurance shall be as follows: NA 
+GCC 25.1 
+Responsibility for transportation of the Goods shall be as specified in the 
+Incoterms. 
+If not in accordance with Incoterms, responsibility for transportations shall be as 
+follows: NA 
+GCC 25.2 
+Incidental services to be provided are: 
+Selected services covered under GCC Clause 25.2 and/or other should be specified 
+with the desired features. The price quoted in the bid price or agreed with the
+selected Supplier shall be included in the Contract Price. 
+GCC 26.1 
+The inspections and tests shall be: Equipment should be installed at site by 
+designated engineer of the firm. Demonstration should be made to the satisfaction 
+of the P.I. At least four free visits should be made by the engineer during the first 
+year after installation to clarify and rectify any doubts or problems as may be 
+faced by the user. 
+GCC 26.2 
+The Inspections and tests shall be conducted at the Department where the 
+equipment is installed. For the rest please refer to GCC 26.1. 
+GCC 27.1 
+The liquidated damage shall be:0.5% per week 
+GCC 27.1 
+The maximum amount of liquidated damages shall be:5%
+
+[Page 49]
+46/65 
+ 
+GCC 28.3 
+The period of validity of the Warranty shall be 60 months from date of
+acceptance/ satisfactory installation of the equipment. 
+For purposes of the Warranty, the place(s) of final destination(s) shall be the 
+Department where the equipment is installed. 
+The Supplier shall, in addition, comply with the performance and/or 
+consumption guarantees specified under the Contract (if any). If, for reasons 
+attributable to the Supplier, these guarantees are not attained in whole or in part, 
+the Supplier shall, at its discretion, either : 
+(a) make such changes, modifications, and/or additions to the Goods or any part 
+thereof as may be necessary in order to attain the contractual guarantees 
+specified in the Contract at its own cost and expense and to carry out further 
+performance tests in accordance with SCC 4, or 
+(b) pay liquidated damages to the Purchaser with respect to the failure to meet the   
+ contractual guarantees. The rate of these liquidated damages shall be 0.5% per  
+ week of actual value of the equipment (maximum 5%). 
+GCC 28.5 
+The period for repair or replacement shall be:10 days
+
+[Page 50]
+47/65 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part-4 
+Bidding Forms & Contract Forms
+
+[Page 51]
+48/65 
+ 
+Section IX : Bidding Forms 
+ 
+Table of Forms 
+ 
+Annexure-A 
+Tender Form (Techno commercial un-priced Bid) 
+Annexure- B 
+Tender Form (Price Bid) 
+Annexure- C 
+Minimum Local Content Declaration form as per MII norms 
+Annexure- D 
+Land Border Declaration certificate 
+Annexure- E 
+Bidder Information Form 
+Annexure- F 
+Manufacturer’s Authorization 
+Annexure- G 
+EMD Returning Form 
+Annexure- H 
+Mandate Form for Electronic Fund Transfer/RTGS Transfer
+
+[Page 52]
+49/65 
+ 
+Annexure-A 
+ 
+Tender Form 
+(Techno commercial un-priced Bid) 
+(On the letter head of the firm submitting the bid) 
+ 
+Tender No. ……………………………. 
+To 
+The 
+ 
+ 
+ 
+ 
+Dear Sir, 
+1. I/We have examined and have no reservations to the Bidding Documents, including Addenda 
+issued in accordance with Instructions toBidders; 
+2. I/We meet the eligibility requirements and have no conflict of interest; 
+3. I/We have not been suspended nor declared ineligible inIndia; 
+4. I/We offer to supply in conformity with the Bidding Documents and in accordance with the 
+Delivery Schedules specified in the Schedule of Requirements the following Goods: [insert a 
+brief description of the Goods and RelatedServices]; 
+5. I/We offer to supply the items as listed in the schedule to this tender hereto/portion  thereof as 
+you may specify in the acceptance of Tender at the price given in the said Schedule and 
+agree to hold this offer open for a period of 120 Days from the date of opening of thetender. 
+6. I/we shall be bound by a communication of acceptance issued byyou. 
+7. I/We have understood the Instruction to bidders and Conditions of Contract in the  form  as 
+enclosed with the invitation to the tender and have thoroughly examined the specifications 
+quoted in the Schedule hereto and am/are fully aware of the nature of the goods required and 
+my/our offer is to supply the goods strictly in accordance with the specifications 
+andrequirements. 
+8. A crossed Bank Draft in favor of the Director, National Institute of Technology, Tiruchirappalli 
+for Rs. _________________(Rupees________________.only) as Earnest Money  is  
+enclosed. The Draft is drawn on _________________.Bank payable at Tiruchirappalli. 
+9. The following have been added to form part of this tender. 
+(a) 
+Samples of items quoted for, as per instructions provided in the schedule of requirement. 
+(b)     Schedule of requirements, quoting the 
+make only duly signed and stamped.(without 
+indicating price) 
+(c)    Income Tax Return. 
+(d)    Copy of last audited balancesheet.
+
+[Page 53]
+50/65 
+ 
+(e) Copy of Valid GST/TAN/TIN. 
+(f) Copy of relevant major purchase orders valuing more than Rs.(____________) estimated cost/- 
+executed during last two years for Govt. Depts., PSUs & Central Autonomous bodies. 
+(g) Proof of manufacturing Unit, dealership certificate/general order suppliers. 
+(h) Statement of deviations from financial terms & conditions, if any. 
+(i) Any other enclosure. (Please give details) 
+10. 
+We undertake to execute all orders which have been placed to meet emergent requirements on 
+priority basis. 
+11. 
+Certified that the bidderis: 
+(a) A sole proprietorship firm and the person signing the bid document is the sole proprietor / 
+constituted attorney of the sole proprietor, 
+Or 
+(b) A partnership firm, and the person signing the bid document is a partner of the firm and he 
+has authority to refer to arbitration disputes concerning the business of the partnership by virtue 
+of the partnership agreement/by virtue of general power of attorney. 
+Or 
+(c) A company and the person signing the document is the constituted attorney. 
+ 
+(NOTE: Delete whatever is not applicable. All corrections/deletions should invariable be duly 
+attested by the person authorized to sign the bid document). 
+12. We do hereby undertake that, until a formal notification of  award,  this bid,  together with your written 
+acceptance thereof shallconstitute a binding contract between us. 
+13. If our bid is accepted, we commit to obtain a performance security in accordance with the Bidding 
+Documents; 
+14. We are not participating, as a Bidder or as a sub contractor, in more than one bid in this bidding process, 
+other than alternative bids submitted; 
+15. We hereby certify that we have taken steps to ensure that no person acting for  us or on our behalf will 
+engage in any type of fraud and corruption.
+
+[Page 54]
+51/65 
+ 
+Name of the Bidder* 
+:  
+GSTIN Number of the Bidder 
+ 
+ 
+NSIC / MSME REGISTERED BIDDERS DETAILS (IF APPLICABLE) 
+[THE SCANNED COPY OF THE CERTIFICATE TO BE UPLOADED IN THE EMD 
+SECTION] 
+MSME Registration Number & Validity 
+of the Certificate 
+ 
+ 
+NSIC Government Registration Number 
+& Validity of the Certificate 
+ 
+ 
+Name of the person duly authorized to 
+sign the Bid on behalf of the Bidder** 
+:  
+Title of the person signing the Bid 
+:  
+Signature of the person named above 
+:  
+Date signed 
+:  
+ 
+*: In the case of the Bid submitted by joint venture specify the name of the Joint Venture as Bidder 
+ 
+**: Person signing the Bid shall have the power of attorney given by the  Bidder  to  be  attached with the Bid 
+Schedules. 
+ 
+Yours faithfully, 
+ 
+ 
+(Signature of bidder) 
+ 
+Dated this day of 
+ 
+ 
+Address: …………………………………………………. 
+……………………………………………….….. 
+………………………………….………………… 
+………………………………….………………… 
+Telephone No.: 
+ 
+E-mail 
+ 
+ 
+Company seal
+
+[Page 55]
+52/65 
+ 
+    Annexure-B 
+  
+ 
+ 
+ 
+ 
+         Tender Form 
+  (Priced Bid) 
+(On the letter head of the firm submitting the bid document) 
+ 
+To 
+ 
+The___________________________ 
+______________________________ 
+_______________________________ 
+ 
+Ref: Tender No………………………………………Dated: ………………….……..………. 
+ 
+Sir, 
+Having examined the bidding documents and having submitted the techno commercial unpriced bid for the 
+same, we, the undersigned, hereby submit the priced bid for supply and installation of goods and services as 
+per the schedule of requirements and in conformity with the said bidding documents. 
+ 
+1. 
+We hereby offer to supply the Goods/Services at the prices and rates mentioned in the enclosed schedule 
+ofrequirement. 
+2. 
+We do hereby undertake that, in the event of acceptance of our bid, the supply and installation of 
+Goods/Services shall be made as stipulated in the schedule of requirement and that we shall perform all 
+the incidental services. 
+3. 
+The prices quoted are inclusive of all charges net F.O.R NITT. We enclose herewith the complete 
+Financial Bid as required by you. This includes: 
+a. Price Schedule (Bill ofQuantity-BOQ). 
+b. Statement of deviations from financial terms andconditions. 
+4. 
+We agree to abide by our offer for a period of 120 Days from the date fixed for opening of the bid 
+documents and that we shall remain bound by a communication of acceptance within that time. 
+5. 
+We have carefully read and understood the terms and conditions of the bid document and we do hereby 
+undertake to supply as per these terms and conditions. The Financial Deviations are only those mentioned 
+in the statement of deviations from financial terms and conditions. 
+6. 
+We have paid, or will pay the following commissions, gratuities, or fees with respect to the bidding 
+process or execution of the Contract:[insert complete name of each Récipient, its full address, the 
+reason for which each commission or gratuity  was  paid and the amount and currency of each such 
+commissionor gratuity] 
+ 
+Name of Recipient 
+Address 
+Reason 
+Amount 
+(If none has been paid or is to be paid, indicate “none.”) 
+ 
+7. 
+We understand that this bid, together with your written acceptance thereof included in your notification of 
+award, shall constitute a binding contract between us, until a formal contract is prepared and executed; 
+and
+
+[Page 56]
+53/65 
+ 
+8. We understand that you are not bound to accept the lowest evaluated bid or any other bid that you may 
+receive. 
+ 
+Certified that the bidder is: 
+ 
+A sole proprietorship firm and the person signing the bid document is the sole proprietor/ constituted 
+attorney of sole proprietor, 
+Or 
+A partnership firm, and the person signing the bid document is a partner of  the  firm and he  has authority to 
+refer to arbitration disputes concerning the business of the  partnership  by virtue of the partnership 
+agreement/by virtue of general power ofattorney, 
+Or 
+A company and the person signing the bid document is the constituted attorney. 
+ 
+(NOTE: Delete whatever is not applicable. All corrections/deletions should invariably be  duly 
+attested by the person authorized to sign the bid document.) 
+ 
+We do hereby undertake that, until a formal notification of award, this bid, together with your written 
+acceptance thereof, shall constitute a binding contract between us. 
+ 
+Signature of Bidder 
+_________________________ 
+Dated  this day of  
+ 
+Details of enclosures 
+ 
+Full Address: 
+ 
+Telephone No. 
+  
+Mobile No.:  
+  
+E-mail:  
+ 
+ 
+ 
+ 
+Company Seal
+
+[Page 57]
+54/65 
+ 
+Annexure-C 
+ 
+                       DECLARATION REGARDING MINIMUM LOCAL CONTENT IN LINE WITH 
+REVISED PUBLIC PROCUREMENT (PREFERENCE TO MAKE IN INDIA), ORDER 2017 
+DATED 04TH JUNE, 2020 AND SUBSEQUENT ORDER(S) 
+ 
+(To be typed and submitted in the Letter Head of the Entity/Firm providing certificate as 
+applicable) 
+ 
+Sub: Declaration reg. minimum local content in line with Public Procurement (Preference to 
+Make in India), Order 2017-Revision, dated 04th June, 2020 and subsequent order(s). 
+Ref :  1) NITT/Tender No : ……………………………………… 
+   2) Name of the goods/services : …………………………… 
+ 
+In line with Government Public Procurement Order No. P-45021/2/2017-PP (BE-II) dated 04.06.2020 and 
+its amendments, we hereby certify that we M/s __________________________ are local supplier meeting 
+the requirement of minimum local content i.e., ______.% as defined in above orders for the goods/services 
+against  Tender No………………………………….dated………………….. 
+ 
+Details of location at which local value addition will be made as follows : 
+ 
+_______________________________________. 
+ 
+ 
+We also understand, false declarations will be in breach of the code of integrity under rule 175(1)(i)(h) 
+of the General Financial Rules for which a bidder or its successors can be debarred for up to two years 
+as per Rule 151(iii) of the General Financial Rules along with such other actions as may be permissible 
+under law. 
+ 
+ 
+ 
+Signature with date: 
+ 
+Name:   
+ 
+ 
+ 
+ 
+Designation 
+ 
+ 
+ 
+Official Seal 
+ 
+ 
+ 
+Note:  
+1. Bidders to note that above format Duly filled & signed by authorized signatory, shall be 
+submitted along with the bid.  
+2. The bidder must upload a certificate from the OEM regarding the percentage of the 
+local content and the details of locations at which the local value addition is made along 
+with their bid.  
+3. In case the bidder’s quoted value is in excess of Rs. 10 crores, the authorized signatory 
+for this declaration shall necessarily be the statutory auditor or cost auditor of the 
+company (in the case of companies) or a practising cost accountant or practicing 
+chartered accountant (in respect of suppliers other than companies).
+
+[Page 58]
+55/65 
+ 
+                                                                           Annexure- D 
+ 
+LAND BORDER SHARING DECLARATION  
+ 
+ (To be submitted in the bidder’s letter head) 
+In-line with Department of Expenditure’s (DoE) Public Procurement Division Order vide ref. 
+F.No.6/18/2019-PPD dated 23.07.2020 & 24.7.2020 
+Tender Notification no . ………………….  
+Name of the Goods/Services: …………………………..  
+“I/ we have read the clauses pertaining to Department of Expenditure’s (DoE) Public Procurement Division 
+Order (Public procurement no 1, 2 & 3 vide ref. F.No.6/18/2019-PPD dated 23.07.2020 & 24.7.2020) 
+regarding restrictions on procurement from a bidder of a country which shares a land border with India. I/We 
+hereby certify that I/ we the bidder < name of the bidder……> is / are  
+a) Not from such a country and eligible to be considered for this tender.  
+OR  
+b) From such country, has been registered with the competent authority and eligible to be considered for this 
+tender. (Evidence of valid registration by the competent authority shall be attached)  
+For and behalf of ___________ (Name of the bidder)  
+ 
+(Signature, date & seal of authorized representative of the bidder)”
+
+[Page 59]
+56/65 
+ 
+Annexure- E 
+ 
+BIDDER INFORMATION FORM 
+ 
+[The Bidder shall fill in this Form in accordance with the instructions indicated below. No 
+alterations to its format shall be permitted and no substitutions shall be accepted.] 
+ 
+Date 
+ 
+: [insert date (as day, month and year) of Bid Submission] 
+ADVT.  No. : [insert number of bidding process] 
+Alternative No.: [insert identification No if this is a Bid for an alternative] 
+Page 
+of_ 
+pages 
+ 
+ 
+1. Bidder’s Name [insert Bidder’s legal name] 
+2. In case of JV, legal name of each member : [insert legal name of each member in JV] 
+3. Bidder’s actual or intended country of registration: [insert actual or intended country of registration] 
+4. Bidder’s year of registration: [insert Bidder’s year of registration] 
+5. Bidder’s Address in country of registration: [insert Bidder’s legal address in country of registration] 
+6. Bidder’s Authorized Representative InformationName : [insert 
+Authorized Representative’s name] Address :[insert Authorized 
+Representative’sAddress] 
+Telephone/Fax numbers : [insert Authorized Representative’s telephone/fax numbers] 
+Email Address: [insert Authorized Representative’s email address] 
+1. 
+Attached are copies of original documents of [check the box(es) of the attached original 
+documents] 
+ Articles of Incorporation (or equivalent documents of constitution or association), and/or 
+documents of registration of the legal entity namedabove. 
+ In case of JV, letter of intent to form JV or JVagreement. 
+ In case of Government-owned enterprise or institution, documents establishing: 
+• Legal and financialautonomy 
+• Operation under commerciallaw 
+• Establishing that the Bidder is not dependent agency of thePurchaser 
+2. Included are the organizational chart, a list of Board of Directors, and the beneficial ownership.
+
+[Page 60]
+53/65 
+ 
+        Annexure- F                                                               
+ 
+Manufacturer’s Authorization 
+ 
+[The Bidder shall require the Manufacturer to fill in this Form in accordance with the 
+instructions indicated. This letter of authorization should be on the letterhead of the 
+Manufacturer and should be signed by a person with the proper authority to sign documents 
+that are binding on the Manufacturer. The Bidder shall include it in its bid, if so indicated in 
+the BDS.] 
+ 
+Date 
+ 
+:[insert date(as day ,month and year)of Bid Submission] 
+ADVT.  No. : [insert number of bidding process] 
+Alternative No.:[insert identification No if this is a Bid for an alternative] 
+ 
+To: [insert complete name of Purchaser] 
+ 
+WHEREAS 
+ 
+We [insert complete name of Manufacturer], who are official manufacturers of [insert type of 
+goods manufactured], having factories at [insert full address of Manufacturer’s factories], do 
+hereby authorize [insert complete name of Bidder] to submit a bid the purpose of which is to 
+provide the following Goods, manufactured by us [insert name and or brief description of the 
+Goods], and to subsequently negotiate and sign theContract. 
+ 
+We hereby extend our full guarantee and warranty in accordance with Clause 28 of the General 
+Conditions of Contract, with respect to the Goods offered by the above firm. 
+ 
+Signed: [insert signature(s) of authorized representative(s) of the Manufacturer] 
+ 
+ 
+Name: [insert complete name(s) of authorized representative(s) of the Manufacturer] 
+ 
+Title: [insert title] 
+ 
+ 
+ 
+Dated on 
+day of 
+, 
+[insert date of signing]
+
+[Page 61]
+54/65 
+ 
+          Annexure- G 
+                       
+ 
+(TO BE PRINTED IN LETTER PAD OF THE FIRM) 
+ 
+EMD Returning Form 
+ 
+ 
+To, 
+The Director 
+National Institute of Technology, 
+Tiruchirappalli – 620 015 
+ 
+Sub: Returning EMD amount 
+ 
+Sir / Madam, 
+      Our firm has participated in the tender / quotation enquiry No mentioned below 
+and produced the EMD amount through SBI collect, details are given below. 
+ 
+Tender / Quotation Reference No 
+ 
+EMD amount 
+ 
+SBI Collect Transaction Number 
+ 
+SBI Collect Transaction Date 
+ 
+ 
+It is requested to return the EMD amount to our firm after completion of the purchase 
+to the below mentioned Bank account. 
+ 
+ 
+ 
+            Signature with Seal and Date 
+ 
+ 
+Account Name 
+ 
+Bank Account Number 
+ 
+IFS code 
+ 
+Bank
+
+[Page 62]
+55/65 
+ 
+Annexure- H 
+ 
+MANDATE FORM FOR ELECTRONIC FUND TRANSFER/RTGS TRANSFER 
+ 
+Date:  / 
+ / 
+To 
+ 
+The Director, 
+National Institute of Technology, 
+Tiruchirappalli – 620 015, Tamil Nadu 
+ 
+Sub 
+: Authorization for release of payment / dues from National Institute of Technology, 
+Tiruchirappalli through Electronic Fund Transfer/RTGS Transfer. 
+ 
+1. Name of the Party / Firm / Company / Institute 
+: 
+2. Address of the Party 
+ 
+ 
+ 
+ 
+: 
+3. City  
+______________Pin Code  
+ 
+ 
+4. E-Mail  
+ 
+Mobile No:  ________________ 
+5. Permanent Account Number   
+ 
+ 
+ 
+6. Particulars of Bank: 
+ 
+Bank Name: 
+Branch Name: 
+PIN Code: 
+Branch Code: 
+IFS Code:(11 digit alpha numeric code) 
+Account Type 
+Savings 
+Current 
+Cash Credit 
+Account Number: 
+ 
+DECLARATION 
+I hereby declare that the particulars given above are correct and complete. If any transaction 
+delayed and not effected for reasons of incomplete or incorrect information I shall not hold 
+Director, National Institute of Technology Tiruchirappalli responsible. I also undertake to 
+advise any change in the particulars of my account to facilitate updating of records for 
+purpose of credit of amount through NEFT/RTGS Transfer. 
+ 
+Place: 
+  Date:    
+ 
+ 
+   Signature & Seal of the Authorized Signatory of the Party
+
+[Page 63]
+56/65 
+ 
+Section X. Contract Forms 
+ 
+This Section contains forms which, once completed, will form part of the Contract.  The forms for 
+Performance Security and Advance Payment Security, when required, shall only be completed by the 
+successful Bidder after contractaward. 
+ 
+ 
+Table of Forms 
+ 
+ 
+Forms 
+Page No 
+1.  
+Tender Acceptance Letter
+
+[Page 64]
+57/65 
+ 
+Tender Acceptance Letter 
+(To be given on Company Letter Head) 
+ 
+Date: 
+ 
+____________________________ 
+ 
+____________________________ 
+ 
+____________________________ 
+ 
+____________________________ 
+ 
+ 
+Sub: Acceptance of Terms & Conditions of Tender. 
+ 
+Tender Reference No. :  
+ 
+Name of Tender / Work : 
+ 
+Dear Sir, 
+ 
+1. I/We have downloaded/ obtained the tender document(s) for the above mentioned 
+‘Tender/Work’ from the web site(s) namely: 
+ 
+ 
+as per your advertisement, given in the above mentioned website(s). 
+2. I/We hereby certify that I/We have read the entire terms and conditions of the tender documents 
+from PageNo. 
+to 
+(including all documents like 
+section(s), schedules(s) etc.),  which form part of the  contract agreement and I/we  shall abide hereby 
+by the terms/conditions/ clauses contained therein. 
+3. The corrigendum(s) issued from time to time by your department/ organisation too have also 
+been taken into consideration, while submitting this acceptance letter. 
+4. I/We hereby unconditionally accept the tender conditions of above mentioned tender 
+document(s)/ corrigendum(s) in itstotality/entirety. 
+5. In case any provisions of this tender are found violated, then your department/organisation shall 
+without prejudice to any other right or remedy be at liberty to reject this tender/bid including the 
+forfeiture of the full said earnest money deposit absolutely. 
+Yours faithfully, 
+ 
+ 
+(Signature of the bidder with Official Seal)
+
+[Page 65]
+58/65 
+ 
+HELP PAGE FOR COVER-WISE UPLOADING THE TENDER DOCUMENTS 
+IN E-TENDER PORTAL AFTER LOGGING IN TO THE BIDDER’S LOGIN 
+ 
+COVER - 1 
+Cover No Cover Type 
+Document Type Description 
+Remarks 
+1 
+Fee 
+.pdf 
+Scanned Copy of EMD/Bid 
+Security in the form of 
+SBI collect 
+EMD Amount specified 
+in the Tender Document 
+2 
+Fee 
+.pdf 
+EMD Returning Form and 
+Mandate Form for Electronic 
+Fund Transfer/RTGS Transfer  
+ANNEXURE- G and H 
+COVER - 2 
+2 
+PreQual 
+.pdf 
+Declaration by the firm that it 
+has never been black-listed 
+Self declaration by the 
+firm duly signed & 
+stamped 
+ 
+ 
+.pdf 
+Profile of each Bidder and past 
+experience in supply and 
+installation of the material 
+Previous supplies to the 
+Govt. Institutions / Govt. 
+Organizations.  
+ 
+ 
+.pdf 
+Minimum Local Content 
+declaration ANNEXURE-C 
+Minimum local content 
+declaration as per MII 
+policy 
+ 
+.pdf 
+Land Border Sharing 
+Declaration as per 
+ANNEXURE-D   
+Land 
+Border 
+Sharing 
+Declaration 
+as 
+per 
+ANNEXURE-D 
+and 
+competent 
+authority 
+registration certificate.  
+ 
+ 
+.pdf 
+Manufacturer’s authorization 
+certificate 
+The form available in 
+Part – 4 Section IX to be 
+filled 
+in 
+by 
+the
+Manufacturer/ OEM in 
+the Manufacturer / OEM 
+letter 
+head 
+with 
+the 
+Signatory 
+name,
+Designation, 
+Phone 
+Number. 
+ 
+ 
+.pdf 
+Checklist for Bid/Tender 
+Submission 
+Duly filled and signed 
+and stamped Checklist 
+for 
+Bid 
+/ 
+Tender 
+Submission available in 
+the page no.3 
+ 
+ 
+.pdf 
+Copy of the last three years 
+audited balance sheet of your 
+firm 
+Audited Balance sheet of 
+the firm for the last three 
+years
+
+[Page 66]
+59/65 
+ 
+COVER – 3 
+Cover No 
+Cover Type 
+Document Type 
+Description 
+Remarks 
+3 
+Technical 
+.pdf 
+Tender Forms (Techno 
+Commercial Un-Priced Bid and 
+Tender Acceptance Letter) 
+Techno commercial Un-
+priced bid and duly filled 
+and 
+signed 
+Tender 
+Acceptance 
+letter 
+available in Part – 4
+Section IX  
+ 
+ 
+.pdf 
+Scanned Copy of Completion 
+Schedules 
+Previous supplies and 
+installation along with 
+completion certificate 
+ 
+ 
+.pdf 
+Technical Bid (brochures 
+/pamphlets) 
+Brochure / Pamphlet of 
+the quoted Make & 
+Models along with the 
+specifications  
+ 
+ 
+.pdf 
+Scanned Copy of written 
+confirmation authorizing the 
+signatory of the Bid to commit 
+the Bidder 
+Authorising 
+the
+signatory of the bid to 
+commit the bidder in 
+(written confirmation) 
+ 
+ 
+.xls 
+Technical Bid 
+Duly filled-in Technical 
+Excel file in 97-2003
+format 
+ 
+ 
+.pdf 
+Technical Bid 
+Duly filled-in and signed 
+Technical bid in PDF 
+COVER - 4 
+4 
+Finance 
+.pdf 
+Scanned Copy of Tender form 
+(Priced Bid) 
+Duly filled and signed 
+Tender Form (Price Bid) 
+available in Part – 4 
+Section IX 
+ 
+ 
+.xls 
+BOQ 
+Duly filled in Price Bid 
+Excel file in 97-2003 
+format 
+ 
+ 
+.pdf 
+Scanned copy of item wise 
+breakup of price bid 
+Item wise breakup of 
+price bid in PDF (duly 
+signed)

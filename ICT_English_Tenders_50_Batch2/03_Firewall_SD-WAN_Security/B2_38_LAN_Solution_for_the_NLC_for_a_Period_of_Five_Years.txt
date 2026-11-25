@@ -1,0 +1,1968 @@
+Title: LAN Solution for the NLC for a Period of Five Years
+Source: https://www.etenders.gov.za/home/Download/?blobName=7609f4bc-554c-4409-b86b-cc9f83d8138b.pdf&downloadedFileName=NLC2025-002++LAN++SOLUTION+FOR+THE+NLC+FOR+A+PERIOD+OF+FIVE+YEARS.pdf
+Pages: 33
+
+--- Extracted text by page ---
+
+[Page 1]
+NATIONAL LOTTERIES COMMISSION 
+Tel: +27(12)432 1300 
+Info Centre: 086 00 65383 
+website: 
+www.nlcsa.org.za 
+National Lotteries Commission (NLC) 
+P.O Box 1556 
+Brooklyn Square 0083, Pretoria 
+TERMS OF REFERENCE (TOR) APPOINTMENT OF A SERVICE PROVIDER TO 
+SUPPLY, INSTALL, CONFIGURE, INTEGRATE AND SUPPORT A LAN INFRASTRUCTURE 
+SOLUTION FOR A PERIOD OF FIVE (5) YEARS.  
+BID PROCESS 
+BID REQUIREMENTS 
+ 
+Tender number 
+ 
+NLC2025-002 
+ 
+Bid Advertisement Date 
+23 APRIL 2025 
+ 
+Closing date and time 
+ 
+23 MAY 2025 at 11:00  (South African Standard Time) 
+Tender validity period 
+120 business working days  
+Compulsory Briefing meeting 
+Date & Time:  09 MAY 2025 @ 11:00 
+Venue: 333 Grosvenor Street, Block D Hatfield Gardens,  
+Hatfield, 0028 
+ 
+Tenders are to be delivered to 
+the following address on the 
+stipulated closing date and 
+time: 
+The original bid document via USB ONLY must be submitted and      
+h and in / delivered to: 
+SUPPLY CHAIN MANAGEMENT 
+National Lotteries Commission 
+333 Grosvenor Street 
+Block D, Hatfield Gardens 
+Hatfield, Pretoria 
+0083 
+Enquires ONLY can be emailed to: Bids@nlcsa.org.za
+
+[Page 2]
+Page 2 of 21 
+                       
+Contents 
+Section No 
+Page 
+Contents 
+1 
+Contents ............................................................................................................................................................................ 2 
+1. 
+BACKGROUND .................................................................................................................................................................. 3 
+2. 
+CONTEXT OF THE ENVISAGED SOLUTION ................................................................................................................... 4 
+3. 
+PURPOSE OF THE TERMS OF REFERENCE .................................................................................................................. 5 
+4. 
+OBJECTIVES ..................................................................................................................................................................... 5 
+5. 
+SCOPE OF WORK ............................................................................................................................................................. 5 
+6. 
+DELIVERABLES ................................................................................................................................................................. 7 
+7. 
+FUNCTIONAL REQUIREMENTS ....................................................................................................................................... 7 
+8. 
+REPORTING REQUIREMENTS ......................................................................................................................................... 9 
+9. 
+DURATION OF THE PROJECT ......................................................................................................................................... 9 
+2 
+SECTION 2: NOTICE TO BIDDERS ................................................................................................................................ 10 
+1. 
+Terms and conditions of Request for Proposals (RFP) ..................................................................................................... 10 
+2. 
+General rules and instructions .......................................................................................................................................... 10 
+3. 
+Formal Briefing Session .................................................................................................................................................... 12 
+4. 
+Validity Period ................................................................................................................................................................... 12 
+5. 
+National Treasury’s Central Supplier Database ................................................................................................................ 13 
+6. 
+Confidentiality ................................................................................................................................................................... 13 
+7. 
+Communication ................................................................................................................................................................. 13 
+3 
+TOR APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY, INSTALL, CONFIGURE, AND INTEGRATE A WIDE 
+AREA NETWORK FOR THE NLC FOR A PERIOD OF FIVE (5) YEARS. ...................................................................... 13 
+3.1 
+Section 3: EVALUATION CRITERIA ............................................................................................................................ 15 
+3.2 
+Stage 1: Tender Closing and Opening ......................................................................................................................... 14 
+3.3 
+Stage 2: Administrative Compliance ............................................................................................................................. 15 
+3.4 
+Stage 3: Mandatory Compliance .................................................................................................................................. 15 
+3.5 
+Stage 4: Technical evaluation ...................................................................................................................................... 16 
+3.6 
+Stage 5: Pricing and B BBEE comparatives ................................................................................................................. 19 
+3.7 
+Stage 6: Due Diligence ................................................................................................................................................ .21 
+3.8 
+Stage 7: Contract and Award ....................................................................................................................................... 20 
+3.9 
+ANNEXURE A: CV TEMPLATE ................................................................................................................................... 21 
+3.10      SCM CONSENT FORM (POPIA)……………………………………………………………………………………………….23 
+3.11     SBD 1 FORM: INVITATION TO BID…………………………………………………………………………………………….25 
+3.12     SBD 4 FORM: BIDDERS' DISCLOSURE………………………………… …………………………………………………..28 
+3.13    SBD 6.1  PREFERENCE POINTS CLAIM FORM  …………………………………………………………..……………….31
+
+[Page 3]
+1. BACKGROUND 
+ 
+The National Lotteries Commission (NLC) is a public entity established by Lotteries Act No. 57 of 
+1997, as amended to regulate the South African lotteries industry. The functions of the Commission 
+can be divided into two categories, namely “regulation of National Lottery and other Lotteries” and 
+“administration of the National Lottery Distribution Trust Fund (NLDTF)”. 
+ 
+The NLC has a dual mandate, namely “regulation of National Lottery and other Lotteries” and 
+“administration of the NLDTF”. The Distributing Agencies (DAs), appointed by the Minister of Trade 
+& Industry are responsible for the adjudication of the funding applications as per the Lotteries Act and 
+applicable Regulations. 
+ 
+The NLC operates in nine provinces with the head office located at Hatfield in the Gauteng province. 
+A private Multi-Protocol Label Switching (MPLS) WAN network interconnects each of the NLC 
+provincial offices to the Head Office in Hatfield. A central server room is situated at the Hatfield office 
+and houses all the core ICT network infrastructure. The central server room also houses all other on-
+premise ICT infrastructure required for NLC business operations. This MPLS network caters for both 
+Session Initiation Protocol (SIP) telephony services as well as data network services. 
+ 
+The NLC seeks to upgrade its local area network (LAN) infrastructure based on modern high 
+availability and secure network switch technology. The envisaged LAN solution seeks to achieve a 
+combination of the following features and functionality: 
+i. 
+Network port performance: 
+a. 1 Gb/s to end device 
+b. 10 Gb/s connectivity of the LAN backbone at Hatfield. 
+c. 40 Gb/s connectivity from core switches to the aggregation switch 
+ii. 
+Network switch configuration capabilities: 
+a. VLAN segmentation of LAN traffic. 
+b. 1 Gb/s ethernet ports with PoE. 
+c. 40Gb/s uplink ports 
+d. Virtual stacking. 
+e. QoS (quality of service): 
+i. Email traffic. 
+ii. Http/https traffic. 
+iii. VoIP traffic. 
+iv. CCTV traffic. 
+v. Other traffic.
+
+[Page 4]
+iii. 
+Wifi access connectivity 
+a. Wifi 6 connectivity. 
+b. Corporate access profile. 
+c. Guest access profile. 
+d. BYOD access profile 
+iv. 
+Cybersecurity: 
+a. Unified Threat Management (UTM) 
+b. Intrusion prevention 
+c. Radius authentication for network devices 
+v. 
+Firewall and DMZ 
+vi. 
+Dashboard and Reporting: 
+a. Analytics 
+ 
+In line with the requirements of the Public Finance Management Act (PFMA) No. 1 of 1999, as 
+amended and Treasury Regulations, the NLC invites suitably qualified and experienced service 
+providers to supply, install, configure and integrate a LAN network for the NLC. 
+ 
+ 
+2. CONTEXT OF THE ENVISAGED SOLUTION 
+ 
+2.1. The schematic below represents a high-level provincial LAN topology of the envisaged 
+solution:
+
+[Page 5]
+2.2. The schematic below represents a high-level Hatfield office LAN topology of the envisaged 
+solution: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. PURPOSE OF THE TERMS OF REFERENCE 
+ 
+The purpose of the terms of reference (TOR) is to appoint a qualified and experienced 
+service provider to supply, install, configure and integrate a LAN network for the NLC for a 
+period of five (5) years. 
+ 
+4. OBJECTIVES 
+Deliver, install and configure a LAN solution, the associated services and requisite 
+infrastructure at each of the nine (9) provincial offices. 
+ 
+5. SCOPE OF WORK 
+ 
+The solution entails the provision of the following services or capabilities:  
+1. Supply and install new cabling infrastructure at the Hatfield premises: 
+1.1. Optic fibre cables between server room and patch rooms at Head Office 
+2. Supply, install, configure, and integrate the components of the proposed LAN solution: 
+2.1. Network switches at all NLC offices
+
+[Page 6]
+2.2. Wi-Fi access points at all NLC offices 
+2.3. Integrate proposed LAN infrastructure to the WAN network 
+2.4. License all the equipment comprising the proposed LAN solution 
+3. Implement a LAN dashboard platform for ICT personnel to monitor each of the core 
+LAN components i.e.: 
+3.1. LAN uptime. 
+3.2. LAN performance metrics 
+3.3. LAN Cybersecurity threat metrics 
+3.4. Reporting capabilities 
+4. Render support to and maintenance of the LAN infrastructure 
+4.1. Technical support and troubleshooting 
+4.2. Maintain and update all requisite hardware and firmware licences 
+4.3. Firmware updates 
+4.4. Replacement of faulty equipment 
+5. Locations of NLC Head office: 
+ 
+a) The Primary LAN infrastructure is to be deployed at the office location stipulated below: 
+ 
+Province 
+Town/City 
+Physical Address 
+Gauteng 
+Hatfield 
+333 Grosvenor Street 
+Block D, Hatfield Gardens, Hatfield, Pretoria 
+ 
+6. Locations of NLC provincial offices: 
+ 
+b) Office 1: Hatfield, Pretoria, Gauteng, collocated at the NLC head office 
+Physical address: 333 Grosvenor Street, Hatfield Gardens, Block D, Hatfield, Pretoria. 
+ 
+c) Office 2: Cape Town, Western Cape 
+The current physical address: Century Gate Office Block A, 1C Summer Greens Drive, 
+Milnerton Cape Town. 
+ 
+d) Office 3: Durban, Kwa Zulu Natal Province  
+The current physical address: 20 Kingsmead Boulevard, Kingsmead Office Park, 2nd Floor 
+Marriot Building, Durban. 
+e) Office 4: East London – Eastern Cape Province  
+Physical address: No 7 Rochester Road, Vincent, East London. 
+ 
+f) Office 5: Kimberly – Northern Cape Province  
+Physical address: 11A Schmidt’s Drift Road, Kimberly. 
+ 
+g) Office 6: Mahikeng, North-West Province  
+Physical address: 12 Visser Street, Mahikeng.
+
+[Page 7]
+h) Office 7: Nelspruit, Mpumalanga Province 
+Physical address: 29 Roodt Street, Sonheuwel Dorp, Nelspruit. 
+ 
+i) Office 8: Polokwane, Limpopo Province  
+Physical address: 5 Landros Mare Street, Polokwane. 
+ 
+j) Office 9: Welkom, Free State Province  
+Physical address: 280/282 Stateway, Bedelia, Welkom. 
+ 
+6. DELIVERABLES 
+ 
+The following deliverables identified as project outputs: 
+6.1 
+A functional LAN solution. 
+6.2 
+Project plan for the rollout of the envisaged solution. 
+6.3 
+Maintenance and Support Service Level Agreement that: 
+6.3.1 Clearly stipulates the roles and responsibilities between the NLC and the 
+service provider in terms of the administration and management of key LAN 
+network components. 
+6.3.1.1 Switches. 
+6.3.1.2 Access points. 
+6.3.1.3 Firewall. 
+6.3.1.4 Optic fibre cable infrastructure. 
+6.4 
+Configuration documentation of the LAN solution. 
+6.5 
+Sign off project close-out reports. 
+ 
+ 
+7. FUNCTIONAL REQUIREMENTS 
+ 
+The bidder is to establish and provide a LAN solution with the following minimum 
+capabilities and/or features: 
+Production Environment: 
+# 
+ 
+ITEM DESCRIPTION 
+ 
+SPECIFICATION 
+QTY COMPLY/ NOT 
+COMPLY 
+1. Network switch (Core) 
+• 
+48x 1Gb ethernet POE 
+• 
+4x 40G SFP 
+Capabilities 
+• 
+Network stacking 
+• 
+VLANs 
+• 
+Spanning Tree Protocol 
+• 
+Redundant power supply units, hot 
+swappable 
+2 
+2. Network switch (Aggregation) 
+• 
+48x 10G SFP 
+• 
+4x 40G SFP 
+Capabilities 
+• 
+Network stacking 
+• 
+VLANs 
+• 
+Spanning Tree Protocol 
+1
+
+[Page 8]
+• 
+Redundant power supply units, hot 
+swappable 
+3. Network switch (Access) 
+• 
+48x 1G, ethernet 
+• 
+4x 10G SFP 
+Capabilities 
+• 
+Network stacking 
+• 
+VLANs 
+• 
+Spanning Tree Protocol 
+• 
+Redundant power supply units, hot 
+swappable 
+20 
+ 
+DR Environment 
+# 
+ 
+ITEM DESCRIPTION 
+ 
+SPECIFICATION 
+QTY COMPLY/ NOT 
+COMPLY 
+1. Network switch (Core) 
+• 
+48x 1Gb ethernet POE 
+• 
+4x 40G SFP 
+Capabilities 
+• 
+Network stacking 
+• 
+VLANs 
+• 
+Spanning Tree Protocol 
+• 
+Redundant power supply units, hot 
+swappable 
+1 
+ 
+Additional - Production Environment: 
+ 
+# 
+ 
+ITEM DESCRIPTION 
+ 
+SPECIFICATION 
+QTY COMPLY/ NOT 
+COMPLY 
+1 Wi-Fi Access Points 
+• 
+Wi-Fi 6 
+• 
+Guest access profile 
+• 
+BYOD access profile 
+34 
+2. Cybersecurity 
+Capabilities 
+a. Unified Threat Management (UTM) 
+b. Intrusion prevention 
+c. Radius authentication for network devices
+1 
+3. Firewall and DMZ 
+Enable self-hosting of public facing services  
+1
+
+[Page 9]
+# 
+ 
+ITEM DESCRIPTION 
+ 
+SPECIFICATION 
+QTY COMPLY/ NOT 
+COMPLY 
+4. Reporting Dashboard 
+At minimum, the platform must be able to 
+provide: 
+a) Dashboard cybersecurity 
+monitoring: 
+• 
+Ability to draw reports for daily, 
+weekly, monthly and custom date 
+ranges. 
+b) Cybersecurity report: 
+• 
+By detected high security events 
+and threats 
+• 
+By application type 
+• 
+By protocol type 
+• 
+By site visited 
+• 
+By Microsoft Active Directory login 
+name 
+• 
+Firewall reports. 
+c) Extract Lan utilisation metrics 
+reports for each provincial office: 
+d) Manual and scheduled (automated) 
+generation of reports on the above 
+categories: 
+• 
+By email (pdf and csv versions) 
+• 
+Manual: by login to the 
+dashboard/reporting platform 
+1 
+ 
+ 
+8. REPORTING REQUIREMENTS 
+ 
+The service provider will report to the Information and Communications Technology (ICT) 
+Division. 
+ 
+ 
+9. DURATION OF THE PROJECT 
+ 
+The required duration of the project is five (5) years after the signing of a Service Level 
+Agreement (SLA).
+
+[Page 10]
+SECTION 2: NOTICE TO BIDDERS 
+ 
+1. 
+Terms and conditions of Request for Proposals (RFP) 
+1.1 
+This document may contain confidential information that is the property of the NLC. 
+1.2 
+No part of the contents may be used, copied, disclosed, or conveyed in whole or 
+in part to any party in any manner whatsoever other than for preparing a proposal 
+in response to this RFP without prior written permission from the NLC. 
+1.3 
+All copyright and intellectual property herein vests with the NLC. 
+1.4 
+Late and incomplete submissions will not be accepted. 
+1.5 
+No services must be rendered, or goods delivered before an official NLC Purchase 
+Order form has been received. 
+1.6 
+This RFP will be evaluated in terms of the 80/20 preference point system  
+1.7 
+Suppliers are required to register on the Central Supplier Database at www.csd.gov.za. 
+1.8 
+Suppliers must provide their CSD registration number (and attach a CSD 
+Registration report) and ensure that their tax matters are compliant. 
+1.9 
+All questions regarding this RFP must be forwarded to bids@nlcsa.org.za,  
+1.10 Any supplier who has reasons to believe that the RFP specification is based 
+on a specific brand must inform the NLC via the email addressed in 1.9. 
+ 
+2. 
+General rules and instructions 
+2.1 
+News and press releases 
+2.1.1 Bidders or their agents shall not make any news releases concerning this RFP or 
+the awarding of the same  or any resulting agreement(s) without the consent of, 
+and then only in co-ordination with, the NLC. 
+2.2 
+Precedence of documents 
+2.2.1 This RFP consists of several sections. Where there is a contradiction in terms 
+between the clauses, phrases, words, stipulations or terms and herein referred to 
+generally as stipulations in this RFP and the stipulations in any other document 
+attached hereto, or the RFP submitted hereto, the relevant stipulations in this RFP 
+shall take precedence. 
+2.2.2 Where this RFP is silent on any matter, the relevant stipulations addressing such 
+matter, and which appear   in section 217 of the constitution of the republic shall 
+take precedence. Bidders shall refrain from incorporating any additional 
+stipulations in its proposal submitted in terms hereof other than in the form of a 
+clearly marked recommendation that the NLC may in its sole discretion elect to 
+import or to ignore. Any such inclusion shall not be used for any purpose of 
+interpretation unless it has been so imported or acknowledged by the NLC.
+
+[Page 11]
+It remains the exclusive domain and election of the NLC as to which of these 
+ stipulations are applicable and to what extent. Bidders are hereby 
+acknowledging that the decision of the commission in this regard is final and 
+binding. The onus to enquire and obtain clarity in this regard rests with the 
+Bidder(s). The Bidder(s) shall take care to restrict its enquiries in this regard to the 
+most reasonable interpretations required to ensure the necessary consensus. 
+ 
+2.3 
+Preferential procurement reform 
+2.3.1 The commission supports B-BBEE as an essential ingredient of its business. In 
+accordance with government policy, the NLC insists that the private sector 
+demonstrates its commitment and track record to B-BBEE in the areas of 
+ownership (shareholding), skills transfer, employment equity and procurement 
+practices (SMME Development) etc. 
+ 
+2.4 
+National Industrial Participation Programme 
+2.4.1 The Industrial Participation policy, which was endorsed by Cabinet on 30 April 
+1997, is applicable to contracts that have an imported content. The NIP is 
+obligatory and therefore must be complied with. Bidders are required to sign and 
+submit the Standard Bidding Document (SBD). 
+ 
+2.5 
+Language 
+2.5.1 Bids shall be submitted in English. 
+ 
+2.6 
+Gender 
+2.6.1 Any word implying any gender shall be interpreted to imply all other genders. 
+ 
+2.7 
+Headings 
+2.7.1 Headings are incorporated into this RFP document and submitted in response 
+thereto, for ease of reference only and shall not form part thereof for any purpose 
+of interpretation or for any other purpose. 
+ 
+2.8 
+Occupational Injuries and Diseases Act 13 of 1993 
+2.8.1 The Bidder warrants that all its employees (including the employees of any sub-
+contractor that may be appointed) are covered in terms of the Compensation for 
+Occupational Injuries and Diseases Act 13 of 1993 and that the cover shall remain 
+in force for the duration of the adjudication of this RFP and/ or subsequent 
+agreement. the commission reserves the right to request the Bidder to submit 
+documentary proof of the Bidder’s registration and “good standing” with the 
+Compensation Fund, or similar proof acceptable to the commission.
+
+[Page 12]
+2.9 
+Processing of the Bidder’s Personal Information 
+2.9.1 All Personal Information of the Bidder, its employees, representatives, associates and sub-
+contractors (“Bidder Personal Information”) required under this RFP is collected and 
+processed for the purpose of assessing the content of its tender proposal and awarding the 
+bid. The Bidder is advised that Bidder Personal Information may be passed on to third 
+parties to whom the commission is compelled by law to provide such information. For 
+example, where appropriate, the commission is compelled to submit information to National 
+Treasury’s Database of Restricted Suppliers. 
+2.9.2 All Personal Information collected will be processed in accordance with POPIA and with the 
+commission.  
+2.9.3 Data Privacy Policy. 
+2.9.4 The following persons will have access to the Personal Information collected: 
+2.9.4.1 The commission personnel participating in procurement/award procedures; and 
+2.9.4.2 Members of the public: within seven working days from the time the bid is awarded, the 
+following information will have to be made available on National Treasury’s e-Tender portal: 
+2.9.4.2.1 
+contract description and bid number. 
+2.9.4.2.2 
+names of the successful bidder(s) and preference points claimed. 
+2.9.4.2.3 
+the contract price(s) (if possible). 
+2.9.4.2.4 
+contract period. 
+2.9.4.2.5 
+names of directors; and 
+2.9.4.2.6 
+date of completion/award. 
+2.9.5 The commission will ensure that the rights of the Bidder and of its employees and 
+representatives (i.e., the right of access and the right to rectify) are effectively 
+guaranteed in accordance with the procedures as specified in the commission PAIA 
+manual. 
+2.9.6 In signing this document, the Bidder consents to the use of its Personal Information for 
+the purposes as specified in section 2.9.1 above. 
+ 
+3. 
+Compulsory Briefing Session 
+ 
+Date & Time:  09 May 2025 @ 11:00 
+Venue: 333 Grosvenor Street, Block D Hatfield Gardens,  
+Hatfield, 0028 
+ 
+4. 
+Validity Period 
+4.1 
+The Commission requires a validity period of 120 Business Days  against this RFP. 
+4.2 
+Bidders are to note that they may be requested to extend the validity period of their 
+bids, on the same  terms and conditions, if the internal evaluation process are not
+
+[Page 13]
+finalised within the validity period. 
+ 
+5. 
+National Treasury’s Central Supplier Database 
+5.1 
+Bidders are required to self-register on National Treasury’s Central Supplier 
+Database (CSD) which has been established to centrally administer 
+supplier information for all organs of state and facilitate the verification of 
+certain key supplier information. 
+5.2 
+The Commission may not award business to a bidder who has failed to register on 
+the CSD. 
+5.3 
+Only foreign suppliers with no local registered entity need not register on the CSD. 
+5.4 
+The CSD can be accessed at https://secure.csd.gov.za/ 
+ 
+6. 
+Confidentiality 
+6.1     Bids submitted for this Request for Proposals will not be revealed to any other bidders 
+and will be treated as contractually binding; 
+6.2      The Commission reserves all the rights afforded to it by the POPIA in the processing of 
+any of its information as contained in Bid Proposals. 
+6.3     The Bidder acknowledges that it will obtain and have access to personal information of 
+The NLC and agrees that it shall only process the information disclosed by the NLC in 
+terms of this bid award and only for the purposes as detailed in this RFP and in 
+accordance with any applicable law. 
+6.4     The Bidder shall notify the NLC in writing of any unauthorised access to personal 
+information and the information of a third party, through cybercrimes or suspected 
+cybercrimes, in its knowledge and report such crimes or suspected crimes to the relevant 
+authorities in accordance with applicable laws, after becoming aware of such. 
+ 
+7. Communication 
+7.1    Specific queries relating to this RFP should be submitted bids@nlcsa.org.za, before the 
+closing date. 
+7.2     In the interest of fairness and transparency the NLC’s response to such a query may 
+be made available to other bidders. 
+7.3     It is prohibited for bidders to attempt, either directly or indirectly, to canvass any officer or 
+employee of the NLLC in respect of this RFP between the closing date and the date of the 
+award of the business. 
+7.4     Bidders found to be in collusion with one another will be automatically disqualified and 
+restricted 
+from doing business with organs of state for a specified period. 
+ 
+8. Supplier Performance 
+ 
+8.1    The National Lotteries Commission conducts regular performance reviews in accordance 
+with the requirements for the classification of the contract and or stakeholder by making use 
+of supplier evaluation forms. The evaluation is conducted against the deliverables or scope 
+of the contract with a minimum of an annual review done for contracts longer than a year
+
+[Page 14]
+and a review at completion of contract for those contracts less than a year. 
+8.2  Ad-hoc performance reviews shall be conducted where non-performance is identified  
+        outside the review period.  
+8.3 Non-performance will be addressed with at least a formal letter advising specific non- 
+        performing areas and stating remedial action/s required within specific time frames. Non-   
+        adherence to remedial actions shall lead to escalating performance management actions. 
+8.4 Any party to this agreement may request to participate in a joint performance review where  
+       appropriate and seek continuous improvement opportunities.  
+ 
+SECTION 3 EVALUATION CRITERIA 
+ 
+The below phases evaluation criteria will be considered in evaluating the proposals, being: 
+ 
+Phase 1: Tender Closing and Opening 
+ 
+1.1  Tender closing details 
+The deadline for Tender submission is on 23 May 2025 at 11:00am Standard South African Time. 
+Any late tenders will not be accepted. Tenders (USB) are to be submitted to the NLC’s tender box 
+at the following physical address: 
+ 
+National Lotteries Commission 
+333 Grosvenor Street 
+Block D Hatfield Gardens 
+Hatfield, Pretoria 
+ 
+1.2 
+Bid Formats 
+ 
+Bid submissions must be submitted in a PDF format that is protected from any modifications, 
+deletions, or additions. 
+ 
+Financial/pricing information must be presented in a separate attachment from the 
+Technical/Functional Response information. The onus is on the Bidder to ensure that all 
+mandatory and required documents are included in the electronic submission. 
+ 
+Submissions must be prominently marked with the full details of the tender namely Bidder’s Name, 
+Tender No and Tender Title. 
+ 
+Tender submissions received after submission date and time will be declared late and 
+will not be accepted for consideration by the NLC. 
+ 
+The NLC will not be responsible for any failure or delay in the submission or receipt of 
+the bid including but not limited to: 
+ 
+• 
+Traffic 
+• 
+Struggling to find parking; and Courier arriving late.
+
+[Page 15]
+Phase 2: Administrative Compliance 
+ 
+All bid respondents must submit the relevant documents that comply with administrative 
+compliance, which will include the following: 
+Evaluation 
+Criteria 
+Supporting Document 
+• 
+All Returnable Documents and/or schedules [where 
+applicable] must be completed and returned by the 
+closing date and time 
+SBD Form 1 
+SBD Form 6.1 
+• 
+The Bid document has been duly signed by the 
+authorised bidder official 
+Company resolution as proof       of 
+authorised individuals’ delegation 
+• 
+Whether Bid contains a priced/financial offer 
+Pricing and delivery schedule 
+• 
+Whether the Bidder tax affairs in order 
+Valid Tax Compliance System Pin 
+• 
+Bidders must register on the CSD. Only foreign suppliers 
+with no local registered entity need not register on the 
+CSD 
+Proof of Full Central Supplier 
+Database (CSD) registration 
+• 
+Valid ISO 27001 certification 
+Proof of current valid certification 
+ 
+ 
+Phase 3: Mandatory Compliance 
+All bid respondents must submit mandatory documents that comply with all mandatory requirements. 
+Bids that do not fully comply with the mandatory requirements will be disqualified and will not be 
+considered for further evaluation. The mandatory Compliance Evaluation will include the following: 
+ 
+                           Evaluation Criteria 
+Supporting Document 
+1. In the event of the bidder being in a joint venture 
+(JV), a signed JV agreement must be submitted 
+(where applicable) 
+  JV Agreement 
+2. Declaration of Interest (SBD 4) 
+Fully Completed SBD 4 
+3. Original Equipment Manufacturer (OEM) Certificate 
+The bidder must provide proof of 
+accredited certification from Original 
+Equipment Manufacturer (OEM). Please 
+note that NLC reserves the right to 
+confirm your registration/accreditation 
+with the OEM. 
+ 
+Note to Bidders: 
+Bidders may be requested, at the behest of the NLC, to submit via courier services to the SCM 
+unit of the NLC, within a minimum of 3 working days from date of request hard copy certified 
+qualifications, memberships certificates, COIDA etc. which may have been requested for 
+mandatory or functionality assessment. Failure to submit the information within the requested 
+period shall render the bidder non-responsive.
+
+[Page 16]
+Phase 4: Technical Evaluation 
+ 
+The evaluation for the Technical and Functional threshold will include the following: 
+ 
+EVALUATION CRITERIA 
+Scoring Matrix 
+% 
+Weight 
+1.  Company Experience 
+1.1 Company Experience & Capability 
+ 
+10% 
+Bidders are required to submit their company 
+profile demonstrating that they have the capacity to 
+render the required service. 
+The profile must explicitly detail the entity’s years of 
+experience in LAN solutions. The profile must also 
+include an organisational structure required to 
+implement implementation and support of the 
+proposed LAN solution. 
+ 
+• No information provided = 0 Points 
+• Company profile with company 
+experience in implementing LAN solutions 
+for 1 - 2 years = 1 point.  
+• Company profile with company 
+experience in LAN solutions more than 2 
+years but less than 4 years = 2 points.  
+• Company profile with company 
+experience in LAN solutions more than 4 
+years but less than 6 years = 3 points.  
+• Company profile with company 
+experience in LAN solutions more than 6 
+years but less than 8 years = 4 points.  
+• Company profile with company 
+experience in LAN solutions more than 8 
+years = 5 points. 
+ 
+1.2 Written Reference Letters 
+ 
+15% 
+Provide five (5) written reference letters from 
+contactable existing/recent clients (public/private 
+sector) within the past 
+5 years relating to 
+implementation of LAN network switch solutions.  
+Letters must include the company name, contact 
+name, address, phone number, duration of contract 
+and a brief description of the services provided.  
+The date on the reference letter must not be older 
+than 5 years (Various letters from one client will be 
+regarded as one reference). The reference letters 
+must be on the client’s letterhead and must be dated 
+and signed. 
+Appointment letters are not considered. 
+• 
+No reference letters = 0 Points. 
+• 
+One reference letter = 1 Point. 
+• 
+Two reference letters = 2 Points.   
+• 
+Three reference letters= 3 Points.   
+• 
+Four Reference letters = 4 Points. 
+• 
+Five reference letters = 5 Points.  
+ 
+ 
+ 
+ 
+2. Capacity and Ability to Implement 
+2.1 Experience – Lead Project Manager 
+ 
+10%
+
+[Page 17]
+EVALUATION CRITERIA 
+Scoring Matrix 
+% 
+Weight 
+An abridged CV (not longer than two pages) that 
+clearly stipulates: 
+• 
+The name and surname of the lead project 
+manager is. 
+• 
+Number of years in the position as a project 
+manager with relevant experience in the 
+implementation and/or design of LAN 
+solutions. 
+ 
+ 
+• 
+No experience indicated =0 points. 
+• 
+Experience of between 1 and 2 years 
+(inclusive) = 1 point. 
+• 
+Experience of between 2 and 3 years 
+(inclusive) = 2 points. 
+• 
+Experience of between 3 and 4 years 
+(inclusive) = 3 points. 
+• 
+Experience of between 4 and 5 years 
+(inclusive) = 4 points. 
+• 
+Experience of 5 and more years 
+(inclusive) = 5 points. 
+ 
+3. Cabling Infrastructure 
+ 
+15% 
+The bidder is to propose a solution design for 
+implementation of the Hatfield office optic network 
+cabling infrastructure. 
+• 
+Absence of required solution design = 0 
+points. 
+• 
+Solution design of the intra server room 
+optic fiber cabling infrastructure = 3 
+points. 
+• 
+Solution design of the optic fiber cabling 
+infrastructure between the server room 
+and the four patch rooms = 2 points. 
+ 
+4. Technical Proposal 
+ 
+30% 
+The bidder must demonstrate an understanding of the 
+project scope by submitting a detailed technical 
+proposal of the of the envisaged solution highlighting 
+the seven following components: 
+i. 
+Network diagram of the Hatfield office 
+environment 
+ii. 
+Network diagram of a provincial office 
+environment 
+iii. 
+Network diagram of the DR environment 
+iv. 
+Network diagram of the Wi-Fi AP 
+environment 
+v. 
+LAN network client dashboard platform to 
+manage and monitor: 
+o Network switches 
+o Access points 
+o Cybersecurity metrics 
+vi. 
+Remote VPN solution  
+vii. 
+Intrusion Detection/Prevention (IDS/IPS) 
+systems 
+• 
+6 or less components provided = 0 
+points. 
+• 
+7 of the 7 components provided = 5 
+points.
+
+[Page 18]
+EVALUATION CRITERIA 
+Scoring Matrix 
+% 
+Weight 
+5. Project Management Framework 
+ 
+10% 
+The bidder describes the project plan framework that 
+outlines an implementation methodology to roll out 
+the LAN network solution aligned to the scope of 
+work. 
+ 
+• 
+No project plan framework provided = 0 
+points. 
+• 
+Project plan framework elements 
+including all the elements below = 5 
+points: 
+i. 
+Project definition 
+ii. 
+Project planning 
+iii. 
+Project monitoring 
+iv. 
+Project risk overview 
+v. 
+Project sign-off and handover 
+ 
+6. Service Level Agreement 
+ 
+10% 
+The bidder must outline the SLA management 
+framework required to regulate the contractual 
+outputs of the relationship pertaining to: 
+1. Define roles and responsibilities on the 
+administration and management of LAN 
+network components accessible equipment: 
+2. Procedures to follow for logging support 
+requests. 
+3. Response times based on applicable log 
+request prioritisation guidelines. 
+4. Procedures to follow for firmware or related 
+patch updates. 
+5. Training methodology on dashboard/reporting 
+platforms. 
+6. Monthly or more frequent account management 
+reviews with minutes of records. 
+ 
+• 
+No SLA management framework 
+provided = 0 points. 
+• 
+SLA framework including all the elements 
+below = 5 points: 
+vi. 
+Roles and responsibilities 
+vii. 
+Fault logging procedure 
+viii. 
+Incident log response time 
+ix. 
+Handling of firmware and related 
+patch updates 
+x. 
+Training methodology on 
+dashboard/reporting platforms 
+xi. 
+Monthly account management 
+reviews with minutes of records 
+ 
+Total: 
+ 
+100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Weighting: 
+ 
+Minimum qualifying score 
+required: 
+100 
+   80
+
+[Page 19]
+Phase 5: Pricing and Specific Goals 
+ 
+5.1 
+The evaluation for Pricing and Specific Goals will include the following: 
+ 
+Pricing Schedule: Please refer to Annexure A: The evaluation for Pricing and Specific 
+Goals will include the following: 
+                                          Evaluation Criteria 
+Final Weighted 
+Scores 
+PRICE 
+The following formula will be used to calculate the points out of 80 
+for price in respect of a tender with a Rand value equal to or above 
+R30 000 and up to a Rand value of R50 million, inclusive of all 
+applicable taxes: 
+ 
+Where: 
+Ps 
+= 
+Score for the Bid under consideration Pt 
+= 
+Price of Bid under consideration P min 
+= 
+Price of lowest acceptable Bid 
+80 
+SPECIFIC GOALS 
+In terms of Regulation 4(2); 5(2); 6(2) and 7(2) of the 
+Preferential Procurement Regulations, preference points must 
+be awarded for specific goals. 
+20 
+TOTAL SCORE: 
+100
+
+[Page 20]
+A maximum of 20 points to be awarded to a tenderer for the specific goals specified for this bid 
+is as follows: - 
+ 
+The points scored for the specific goal must be added to the points scored for price and the 
+total must be rounded off to the nearest two decimal places. Final appointment to be awarded 
+to the bidder scoring the highest points. 
+ 
+  
+Stage 6: Contract and Award 
+ 
+The stage is for negotiation after receipt of formal tenders and before the conclusion of 
+contracts with suppliers/contractors submitting the lowest acceptable tender with a view 
+to obtaining an improvement in price, delivery, or content, in circumstances which do not 
+put other tenderers at a disadvantage or affect adversely their confidence or trust in the 
+competitive system. Bidders may be requested to provide their best and final offers based 
+on contract negotiation. 
+1. Procurement from entities who are  black 
+Owned 
+Sub – points 
+for specific 
+goals 
+Maximum  
+points  for 
+specific goals 
+Relevant 
+Evidence 
+Tenderer who has 100% black Ownership 
+8 
+8 
+Copies of ID’s/ 
+CIPC Report 
+Recent Full CSD 
+Report  
+Tenderer who has 51% to 99% black ownership 
+4 
+Tenderer 
+who has 
+less than 51% Black  
+ownership 
+0 
+2. Procurement from entities who are women owned  
+4 
+B-BBEE 
+Certificate / B- 
+BBEE/ Sworn 
+Affidavit 
+Tenderer who has 100% women ownership 
+4 
+Tenderer who has 30% to 99% women ownership 
+2 
+Tenderer who has less than 30% women ownership
+0 
+3. Black Youth Ownership 
+4 
+B-BBEE 
+Certificate / B- 
+BBEE/ Sworn 
+Affidavit 
+Tenderer who has 100% youth ownership 
+4 
+Tenderer who has 30% to 99% youth 
+ownership 
+2 
+Tenderer who has less than 30% youth 
+ownership 
+0 
+4.Procurement from Disabilities 
+Tenderer who has 20% or more owners 
+with  disability 
+4 
+4 
+Letter from the 
+Doctor 
+confirming 
+disability  
+Tenderer who has less than 20% but more than 
+10% owners with disability 
+2 
+Tenderer who have less than 10% owners 
+with  disability 
+0 
+Total points for specific goals 
+20
+
+[Page 21]
+ANNEXURE A: CV TEMPLATE 
+ 
+ 
+Proposed role in the project: 
+------------------------------------------------- 
+ 
+Name:  
+------------------------------------------------- 
+ 
+First name: 
+------------------------------------------------- 
+ 
+Date of birth: ------------------------------------------------- 
+ 
+Nationality: 
+------------------------------------------------- 
+ 
+Education 
+ 
+Institution 
+(Date from- Date to) 
+Degree(s) or Diploma(s) obtained 
+ 
+Membership of Professional Bodies:   
+ 
+ 
+ 
+ 
+ 
+Other skills (e.g. computer literacy, etc.):   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Present position 
+ 
+Years within the organisation:  
+ 
+ 
+ 
+Key qualifications (relevant to project): 
+ 
+ 
+ 
+ 
+ 
+ 
+Professional experience 
+ 
+ 
+ 
+Date (From -To) (mm/yy) 
+Organisation 
+Location 
+Position 
+Description of duties 
+ 
+Date (From -To) (mm/yy) 
+Organisation 
+Location 
+Position 
+Description of duties 
+ 
+Date (From -To) (mm/yy) 
+Organisation 
+Location 
+Description of duties
+
+[Page 22]
+SCM 
+CONSENT REQUEST FORM 
+ 
+ 
+REQUEST FOR THE CONSENT OF A DATA SUBJECT FOR PROCESSING OF PERSONAL 
+INFORMATION FOR THE PURPOSE OF PROCUREMENT OF GOODS AND SERVICES 
+APPLICATION, IN LINE WITH THE NLC’s SUPPLY CHAIN MANAGEMENT POLICY, IN 
+TERMS OF SECTION 11(1)(a) OF THE PROTECTION OF PERSONAL INFORMATION ACT, 
+2013 (ACT NO.4 OF 2013) (“POPIA”). 
+ 
+ 
+TO:  
+ 
+ 
+ 
+FROM:  
+ 
+ 
+ 
+ADDRESS:  
+ 
+Contact number:  
+  
+Email address:  
+ 
+ 
+PART A 
+ 
+1. 
+In terms of the PROTECTION OF PERSONAL INFORMATION ACT, consent for 
+processing of personal information of a data subject (the person/entity to whom 
+personal information relates) must be obtained for the purpose of processing of 
+application for procurement of goods and services, in line with the NLC’s supply chain 
+management policy, and storage of your personal data by means of any form of 
+electronic communication, including automatic calling machines, facsimile machines, 
+SMSs or e-mail, which is prohibited unless written consent to the processing is given 
+by the data subject. You may only be approached once for your consent by us (NLC). 
+After you have indicated your wishes in Part B, 
+you are kindly requested to submit this Form either by post, facsimile or e-mail to the 
+address, facsimile number or e-mail address as stated above. 
+ 
+2. 
+"Processing” means any operation or activity or any set of operations, whether or not 
+by automatic means, concerning personal information, including— 
+ 
+2.1 
+the collection, receipt, recording, organisation, collation, storage, updating or 
+modification, retrieval, alteration, consultation or use; 
+2.2 
+dissemination by means of transmission, distribution or making available in any 
+other form; or
+
+[Page 23]
+2.3 
+merging, linking, as well as restriction, degradation, erasure or destruction of 
+information. 
+ 
+3. 
+“Personal information” means information relating to an identifiable, living, natural 
+person, and where it is applicable, an identifiable, existing juristic person, including, but 
+not limited to— 
+3.1 
+information relating to the race, gender, sex, pregnancy, marital status, national, 
+ethnic or social origin, colour, sexual orientation, age, physical or mental health, 
+well- being, disability, religion, conscience, belief, culture, language and birth of the 
+person; 
+ 
+3.2 
+information relating to the education or the medical, financial, criminal or 
+employment history of the person; 
+ 
+3.3 
+any identifying number, symbol, e-mail address, physical address, telephone 
+number, location information, online identifier or other particular assignment to 
+the person; 
+ 
+3.4 
+the biometric information of the person; 
+3.5 
+the personal opinions, views or preferences of the person; 
+ 
+3.6 
+correspondence sent by the person that is implicitly or explicitly of a private or 
+confidential nature or further correspondence that would reveal the contents of the 
+original correspondence; 
+ 
+3.7 
+the views or opinions of another individual about the person; and 
+3.8 
+the name of the person if it appears with other personal information relating to 
+the person or if the disclosure of the name itself would reveal information about 
+the person. 
+ 
+ 
+ 
+Full names of the designated person on behalf of the Responsible Party 
+ 
+ 
+ 
+Signature of Designation person
+
+[Page 24]
+PART A  
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                   INVITATION TO BID  
+                  
+Tel: +27(12)432 1300 
+Info Centre: 086 00 65383 
+web: www.nlcsa.org.za 
+National Lotteries Commission (NLC) 
+P.O Box 1556 
+Brooklyn Square 0083, Pretoria 
+ 
+ 
+SBD1 
+YOU ARE HEREBY INVITED TO BID FOR REQUIREMENTS OF THE NATIONAL LOTTERIES 
+BID NUMBER: 
+  NLC2025-002 
+CLOSING DATE 
+23 MAY 2025 
+CLOSING TIME: 
+11:00 
+ 
+DESCRIPTION 
+APPOINTMENT OF A SERVICE PROVIDER TO SUPPLY, INSTALL, CONFIGURE, INTEGRATE AND 
+SUPPORT A LAN INFRASTRUCTURE SOLUTION FOR A PERIOD OF FIVE (5) YEARS 
+ 
+Bids Proposals Submission: ONLY USBs WILL BE ACCEPTED 
+333 Grosvenor Street 
+Block D, Hatfield Gardens, Hatfield, Pretoria,0083 
+ 
+BIDDING PROCEDURE ENQUIRIES MAY BE DIRECTED TO 
+TECHNICAL ENQUIRIES MAY BE DIRECTED TO: 
+CONTACT PERSON 
+Supply Chain Management 
+CONTACT PERSON 
+Supply Chain Management 
+TELEPHONE NUMBER 
+0
+1
+2
+432 1470 
+TELEPHONE NUMBER 
+012 432 1470 
+FACSIMILE NUMBER 
+FACSIMILE NUMBER 
+E-MAIL ADDRESS 
+maureen@nlcsa.org.za 
+E-MAIL ADDRESS 
+bids@nlcsa.org.za 
+SUPPLIER INFORMATION 
+NAME OF BIDDER 
+POSTAL ADDRESS 
+STREET ADDRESS 
+TELEPHONE NUMBER 
+CODE 
+NUMBER 
+CELLPHONE NUMBER 
+FACSIMILE NUMBER 
+CODE 
+NUMBER 
+E-MAIL ADDRESS 
+VAT REGISTRATION 
+NUMBER 
+SUPPLIER 
+COMPLIANCE 
+STATUS 
+TAX 
+COMPLIANCE 
+SYSTEM PIN: 
+OR 
+CENTRAL 
+SUPPLIER 
+DATABASE 
+No: 
+MAAA 
+B-BBEE STATUS LEVEL 
+VERIFICATION 
+CERTIFICATE 
+TICK APPLICABLE BOX] 
+ 
+Yes 
+No 
+B-BBEE STATUS LEVEL SWORN 
+AFFIDAVIT 
+[TICK APPLICABLE BOX] 
+ 
+Yes 
+No 
+[A B-BBEE STATUS LEVEL VERIFICATION CERTIFICATE/ SWORN AFFIDAVIT (FOR EMES & QSEs) MUST BE 
+SUBMITTED IN ORDER TO QUALIFY FOR PREFERENCE POINTS FOR B-BBEE] 
+ARE YOU THE 
+ACCREDITED 
+REPRESENTATIVE IN SOUTH 
+AFRICA FOR THE GOODS 
+/SERVICES /WORKS 
+OFFERED? 
+ 
+ 
+ 
+Yes 
+No 
+[IF YES ENCLOSE PROOF] 
+ARE YOU A FOREIGN BASED 
+SUPPLIER FOR THE GOODS 
+/SERVICES /WORKS OFFERED? 
+ 
+ 
+Yes 
+No 
+[IF YES, ANSWER PART B:3 ] 
+ 
+QUESTIONNAIRE TO BIDDING FOREIGN SUPPLIERS
+
+[Page 25]
+IS THE ENTITY A RESIDENT OF THE REPUBLIC OF SOUTH AFRICA (RSA)? 
+YES 
+NO 
+DOES THE ENTITY HAVE A BRANCH IN THE RSA? 
+YES 
+NO 
+DOES THE ENTITY HAVE A PERMANENT ESTABLISHMENT IN THE RSA? 
+YES 
+NO 
+DOES THE ENTITY HAVE ANY SOURCE OF INCOME IN THE RSA? 
+YES 
+NO 
+IS THE ENTITY LIABLE IN THE RSA FOR ANY FORM OF TAXATION? 
+YES 
+NO 
+ 
+IF THE ANSWER IS “NO” TO ALL OF THE ABOVE, THEN IT IS NOT A REQUIREMENT TO REGISTER FOR A TAX COMPLIANCE STATUS 
+SYSTEM PIN CODE FROM THE SOUTH AFRICAN REVENUE SERVICE (SARS) AND IF NOT REGISTER AS PER 2.3 BELOW. 
+ 
+PART B 
+TERMS AND CONDITIONS FOR BIDDING 
+ 
+1. 
+BID SUBMISSION: 
+1.1. BIDS MUST BE DELIVERED BY THE STIPULATED TIME TO THE CORRECT ADDRESS. LATE BIDS WILL NOT BE ACCEPTED FOR 
+CONSIDERATION. 
+1.2. ALL BIDS MUST BE SUBMITTED ON THE OFFICIAL FORMS PROVIDED– (NOT TO BE RE-TYPED) OR IN THE MANNER PRESCRIBED IN 
+THE BID DOCUMENT. 
+1.3. THIS BID IS SUBJECT TO THE PREFERENTIAL PROCUREMENT POLICY FRAMEWORK ACT, 2000 AND THE PREFERENTIAL 
+PROCUREMENT REGULATIONS, 2017, THE GENERAL CONDITIONS OF CONTRACT (GCC) AND, IF APPLICABLE, ANY OTHER 
+SPECIAL CONDITIONS OF CONTRACT. 
+1.4. THE SUCCESSFUL BIDDER WILL BE REQUIRED TO FILL IN AND SIGN A WRITTEN CONTRACT FORM (SBD7). 
+2. 
+TAX COMPLIANCE REQUIREMENTS 
+2.1 
+BIDDERS MUST ENSURE COMPLIANCE WITH THEIR TAX OBLIGATIONS. 
+2.2 
+BIDDERS ARE REQUIRED TO SUBMIT THEIR UNIQUE PERSONAL IDENTIFICATION NUMBER (PIN) ISSUED BY SARS TO ENABLE 
+THE ORGAN OF STATE TO VERIFY THE TAXPAYER’S PROFILE AND TAX STATUS. 
+2.3 
+APPLICATION FOR TAX COMPLIANCE STATUS (TCS) PIN MAY BE MADE VIA E-FILING THROUGH THE SARS WEBSITE 
+WWW.SARS.GOV.ZA. 
+2.4 
+BIDDERS MAY ALSO SUBMIT A PRINTED TCS CERTIFICATE TOGETHER WITH THE BID. 
+2.5 
+IN BIDS WHERE CONSORTIA / JOINT VENTURES / SUB-CONTRACTORS ARE INVOLVED; EACH PARTY MUST SUBMIT A SEPARATE TCS 
+CERTIFICATE / PIN / CSD NUMBER. 
+2.6 
+WHERE NO TCS IS AVAILABLE BUT THE BIDDER IS REGISTERED ON THE CENTRAL SUPPLIER DATABASE (CSD), A CSD NUMBER MUST BE 
+PROVIDED. 
+2.7 
+NO BIDS WILL BE CONSIDERED FROM PERSONS IN THE SERVICE OF THE STATE, COMPANIES WITH DIRECTORS WHO ARE 
+PERSONS IN THE SERVICE OF THE STATE, OR CLOSE CORPORATIONS WITH MEMBERS PERSONS IN THE SERVICE OF THE 
+STATE.” 
+NB: FAILURE TO PROVIDE / OR COMPLY WITH ANY OF THE ABOVE PARTICULARS MAY RENDER THE BID INVALID. 
+ 
+ 
+SIGNATURE OF BIDDER: 
+……………………………………………
+
+[Page 26]
+BIDDER’S DISCLOSURE 
+1. PURPOSE OF THE FORM 
+Any person (natural or juristic) may make an offer or offers in terms of this 
+invitation to bid. In line with the principles of transparency, accountability, 
+impartiality, and ethics as enshrined in the Constitution of the Republic of 
+South Africa and further expressed in various pieces of legislation, it is 
+required for the bidder to make this declaration in respect of the details 
+required hereunder. 
+Where a person/s are listed in the Register for Tender Defaulters and 
+/ or the List of Restricted Suppliers, that person will automatically be 
+disqualified from the bid process. 
+ 
+2. Bidder’s declaration 
+SBD 1 
+ 
+2.1 
+Is the bidder, or any of its directors / trustees / shareholders / members/ partners 
+or any person having a controlling interest1 in the enterprise, employed by the 
+state? 
+YES/NO 
+ 
+2.1.1 If so, furnish particulars of the names, individual identity numbers, and, 
+if applicable, state employee numbers of sole proprietor/ directors / 
+trustees / shareholders / members/ partners or any person having a 
+controlling interest in the enterprise, in table below. 
+ 
+Full Name 
+Identity Number 
+Name 
+of 
+State 
+institution 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 the power, by one person or a group of persons holding the majority of the equity of an 
+enterprise, alternatively, the person/s having the deciding vote or power to influence or to direct 
+the course and decisions of the enterprise.
+
+[Page 27]
+Do you, or any person connected with the bidder, have a relationship with 
+any person who is employed by the procuring institution? YES/NO 
+2.1.2 
+If so, furnish particulars: 
+………………………………………………………………………………… 
+………………………………………………………………………………… 
+ 
+2.2 
+Does the bidder or any of its directors / trustees / shareholders / 
+members / partners or any person having a controlling interest in the 
+enterprise have any interest in any other related enterprise whether or 
+not they are bidding for this contract? 
+YES/NO 
+2.2.1 If so, furnish particulars: 
+……………………………………………………………………………. 
+……………………………………………………………………………. 
+ 
+3 
+DECLARATION 
+I, the undersigned, (name) ............................................................... in 
+submitting the accompanying bid, do hereby make the following 
+statements that I certify to be true and complete in every respect: 
+ 
+3.1 
+I have read and I understand the contents of this disclosure; 
+3.2 
+I understand that the accompanying bid will be disqualified if this 
+disclosure is found not to be true and complete in every respect; 
+3.3 
+The bidder has arrived at the accompanying bid independently from, and 
+without consultation, communication, agreement or arrangement with any 
+competitor. However, communication between partners in a joint venture or 
+consortium2 will not be construed as collusive bidding. 
+3.4 
+In addition, there have been no consultations, communications, agreements or 
+arrangements with any competitor regarding the quality, quantity, specifications, 
+prices, including methods, factors or formulas used to calculate prices, market 
+allocation, the intention or decision to submit or not to submit the bid, bidding with 
+the intention not to win the bid and conditions or delivery particulars of the products 
+or services to which this bid invitation relates. 
+3.4 
+The terms of the accompanying bid have not been, and will not be, 
+disclosed by the bidder, directly or indirectly, to any competitor, prior to the date 
+and time of the official bid opening or of the awarding of the contract. 
+ 
+3.5 
+There have been no consultations, communications, agreements or arrangements 
+made by the bidder with any official of the procuring institution in relation to this 
+procurement process prior to and during the bidding process except to provide 
+clarification on the bid submitted where so required by the institution; and the
+
+[Page 28]
+bidder was not involved in the drafting of the specifications or terms of reference 
+for this bid. 
+ 
+3.6 
+I am aware that, in addition and without prejudice to any other remedy provided 
+to combat any restrictive practices related to bids and contracts, bids that are 
+suspicious will be reported to the Competition Commission for investigation and 
+possible imposition of administrative penalties in terms of section 59 of the 
+Competition Act No 89 of 1998 and or may be reported to the National 
+Prosecuting Authority (NPA) for criminal investigation and or may be restricted 
+from conducting business with the public sector for a period not exceeding ten (10) 
+years in terms of the Prevention and Combating of Corrupt Activities Act No 12 
+of 2004 or any other applicable legislation. 
+I CERTIFY THAT THE INFORMATION FURNISHED IN PARAGRAPHS 1, 2 and 
+3 ABOVE IS CORRECT. I ACCEPT THAT THE STATE MAY REJECT THE BID 
+OR ACT AGAINST ME IN TERMS OF PARAGRAPH 6 OF PFMA SCM 
+INSTRUCTION 03 OF 2021/22 ON PREVENTING AND COMBATING ABUSE 
+IN 
+THE 
+SUPPLY 
+CHAIN 
+MANAGEMENT 
+SYSTEM 
+SHOULD 
+THIS 
+DECLARATION PROVE TO BE FALSE. 
+ 
+..…………………………………………… 
+…………………………… 
+Signature 
+ Date 
+ 
+ 
+…………………………………… 
+……………………………. 
+Position 
+Name of bidder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 Joint venture or Consortium means an association of persons for the purpose of combining their 
+expertise, property, capital, efforts, skill and knowledge in an activity for the execution of a contract.
+
+[Page 29]
+Page 1 of 6 
+ 
+ 
+ 
+ 
+ 
+SBD 6.1 
+ 
+PREFERENCE POINTS CLAIM FORM IN TERMS OF THE PREFERENTIAL 
+PROCUREMENT REGULATIONS 2022 
+ 
+This preference form must form part of all tenders invited. It contains general information 
+and serves as a claim form for preference points for specific goals. 
+NB: BEFORE COMPLETING THIS FORM, TENDERERS MUST STUDY THE GENERAL 
+CONDITIONS, DEFINITIONS AND DIRECTIVES APPLICABLE IN RESPECT OF THE TENDER 
+AND PREFERENTIAL PROCUREMENT REGULATIONS, 2022 
+ 
+1. 
+GENERAL CONDITIONS 
+1.1 
+The following preference point systems are applicable to invitations to tender: 
+- 
+the 80/20 system for requirements with a Rand value of up to R50 000 000 (all 
+applicable taxes included); and 
+- 
+the 90/10 system for requirements with a Rand value above R50 000 000 (all 
+applicable taxes included). 
+1.2 
+To be completed by the organ of state 
+(delete whichever is not applicable for this tender). 
+a) The applicable preference point system for this tender is the 90/10 preference point 
+system. 
+b) The applicable preference point system for this tender is the 80/20 preference point 
+system. 
+ 
+c) Either the 90/10 or 80/20 preference point system will be applicable in this tender. 
+The lowest/ highest acceptable tender will be used to determine the accurate 
+system once tenders are received. 
+ 
+1.3 
+Points for this tender (even in the case of a tender for income-generating contracts) 
+shall be awarded for: 
+(a) Price; and 
+(b) Specific Goals. 
+ 
+1.4 
+To be completed by the organ of state: 
+The maximum points for this tender are allocated as follows: 
+ 
+POINTS 
+PRICE 
+80 
+SPECIFIC GOALS 
+20 
+Total points for Price and SPECIFIC GOALS 
+100
+
+[Page 30]
+Page 2 of 6 
+ 
+ 
+1.5 
+Failure on the part of a tenderer to submit proof or documentation required in terms of 
+this tender to claim points for specific goals with the tender, will be interpreted to mean 
+that preference points for specific goals are not claimed. 
+ 
+1.6 
+The organ of state reserves the right to require of a tenderer, either before a tender is 
+adjudicated or at any time subsequently, to substantiate any claim in regard to 
+preferences, in any manner required by the organ of state. 
+ 
+ 
+2. 
+DEFINITIONS 
+(a)  “tender” means a written offer in the form determined by an organ of state in response 
+to an invitation to provide goods or services through price quotations, competitive 
+tendering process or any other method envisaged in legislation; 
+(b) “price” means an amount of money tendered for goods or services, and 
+includes all applicable taxes less all unconditional discounts; 
+(c) “rand value” means the total estimated value of a contract in Rand, calculated at the 
+time of bid invitation, and includes all applicable taxes; 
+(d) “tender for income-generating contracts” means a written offer in the form 
+determined by an organ of state in response to an invitation for the origination of 
+income-generating contracts through any method envisaged in legislation that will 
+result in a legal agreement between the organ of state and a third party that produces 
+revenue for the organ of state, and includes, but is not limited to, leasing and disposal 
+of assets and concession contracts, excluding direct sales and disposal of assets 
+through public auctions; and 
+(e) “the Act” means the Preferential Procurement Policy Framework Act, 2000 (Act No. 5 
+of 2000). 
+ 
+3. 
+FORMULAE FOR PROCUREMENT OF GOODS AND SERVICES 
+ 
+3.1. 
+POINTS AWARDED FOR PRICE 
+ 
+3.1.1 THE 80/20 OR 90/10 PREFERENCE POINT SYSTEMS 
+A maximum of 80 or 90 points is allocated for price on the following basis: 
+ 
+80/20 
+or 
+90/10 
+𝑷𝒕−𝑷 𝒎𝒊𝒏 
+𝑷𝒔 = 𝟖𝟎 (𝟏 − 
+𝑷 𝒎𝒊𝒏 
+) or 
+𝑷𝒕−𝑷 𝒎𝒊𝒏 
+𝑷𝒔 = 𝟗𝟎 (𝟏 − 
+) 
+𝑷 𝒎𝒊𝒏 
+Where 
+Ps 
+= 
+Points scored for price of tender under consideration 
+Pt 
+= 
+Price of tender under consideration 
+Pmin = 
+Price of lowest acceptable tender
+
+[Page 31]
+Page 3 of 21 
+Page 3 of 6 
+                   
+ 
+ 
+Table 1: Specific goals for the tender and points claimed are indicated per the table 
+below. 
+(Note to organs of state: Where the 80/20 preference point system is applicable, 
+corresponding points must also be indicated as such. Note to tenderers: The tenderer 
+must indicate how they claim points for each preference point system.) Please 
+complete this table for claiming of points. 
+ 
+1. Procurement from entities who are black 
+Owned 
+Sub - 
+points for 
+specific 
+goals 
+Maximum 
+points for 
+specific 
+goals 
+Relevant 
+Evidence 
+Number of 
+points claimed 
+(80/20 system) 
+(To be 
+completed by 
+the tenderer) 
+Tenderer who have 100% black Ownership 
+8 
+ 
+ 
+8 
+Copies of 
+ID’s/ CSD 
+Recent 
+Report 
+Tenderer who have 51% to 99% black  
+ownership 
+4 
+Tenderer who have less than 51% black 
+ownership 
+0 
+2. Procurement from entities who are women 
+Owned 
+ 
+ 
+ 
+ 
+4 
+B-BBEE 
+Certificate / B-
+BBEE 
+Sworn 
+Tenderer who has 100% women ownership 
+4 
+Tenderer who has 30% to 99% women 
+ownership 
+2 
+Tenderer who has less than 30% women 
+ownership 
+0 
+ 
+Affidavit 
+ 
+3. Youth Ownership 
+ 
+4 
+B-BBEE 
+Certificate / B- 
+BBEE/ Sworn 
+Affidavit 
+Tenderer who has 100% youth ownership 
+4 
+Tenderer who has 30% to 99% youth  
+ownership 
+2 
+Tenderer who has less than 30% youth  
+ ownership 
+0 
+ 
+4.Procurement from Disabilities 
+Tenderer who has 20% or more owners with 
+disability 
+4 
+4 
+Letter from 
+the Doctor 
+confirming 
+disability and 
+CSD report 
+Tenderer who has less than 20% but more 
+than 10% owners with 
+disability 
+2 
+Tenderer who has less than 10% owners with 
+disability 
+0 
+Total points for specific goals 
+20
+
+[Page 32]
+Page 4 of 21 
+Page 4 of 6 
+                   
+ 
+4. DECLARATION WITH REGARD TO COMPANY/FIRM 
+ 
+4.1 
+Name of Company/firm………………………………………………………………… 
+4.2 
+Company registration number: ………………………………………………………... 
+4.3 
+TYPE OF COMPANY/ FIRM 
+   Partnership/Joint Venture / Consortium 
+    One-person business/sole propriety 
+    Close corporation 
+    Public Company 
+    Personal Liability Company 
+    (Pty) Limited 
+    Non-Profit Company 
+     State Owned Company 
+ [TICK APPLICABLE BOX] 
+ 
+4.4 
+I, the undersigned, who is duly authorised to do so on behalf of the company/firm, certify that 
+the points claimed, based on the specific goals as advised in the tender, qualifies the 
+company/ firm for the preference(s) shown and I acknowledge that: 
+- 
+The information furnished is true and correct; 
+- 
+The preference points claimed are in accordance with the General Conditions as indicated 
+in paragraph 1 of this form; 
+- 
+In the event of a contract being awarded as a result of points claimed as shown 
+in paragraphs 1.4 and 4.2, the contractor may be required to furnish documentary proof to the 
+satisfaction of the organ of state that the claims are correct; 
+• 
+If the specific goals have been claimed or obtained on a fraudulent basis or any of the conditions 
+of contract have not been fulfilled, the organ of state may, in addition to any other remedy it may 
+have disqualify the person from the tendering process; 
+• 
+recover costs, losses or damages it has incurred or suffered as a result of that person’s conduct; 
+• 
+cancel the contract and claim any damages which it has suffered as a result of having to make 
+less favourable arrangements due to such cancellation; 
+• 
+recommend that the tenderer or contractor, its shareholders and directors, or only the 
+shareholders and directors who acted on a fraudulent basis, be restricted from obtaining 
+business from any organ of state for a period not exceeding 10 years, after the audi alteram 
+partem (hear the other side) rule has been applied; and 
+• 
+forward the matter for criminal prosecution, if deemed necessary.
+
+[Page 33]
+Page 5 of 21 
+Page 5 of 6 
+                   
+ 
+ 
+ 
+………………………………………. 
+SIGNATURE(S) OF TENDERER(S) 
+SURNAME AND NAME: 
+………………………………………………………. 
+DATE: 
+ADDRESS: 
+……………………………………………………… 
+……………………………………………………… 
+……………………………………………………… 
+……………………………………………………… 
+………………………………………………………

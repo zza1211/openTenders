@@ -1,0 +1,568 @@
+Title: Network Switches Technical Specification Corrigendum
+Source: https://internal.imd.gov.in/tenders/20250319_corr_311.pdf
+Pages: 56
+
+--- Extracted text by page ---
+
+[Page 1]
+(https://gem.gov.in/)
+Enter Keywords?
+
+PRODUCTS 
+SERVICES 
+CONTENT
+HOME (HTTPS://MKP.GEM.GOV.IN/DASHBOARD) / BID FINALIZATION
+BID DETAILS
+TECHNICAL EVALUATION
+FINANCIAL EVALUATION
+EVALUATION
+BID AWARDED
+1. Bid Details
+Corrigendum Details
+Bid Status: Active
+Quantity: 1
+Bid Validity (From End Date): 180 (Days)
+Competent Authority Document: View
+Bid Start Date / Time: 11-03-2025
+18:10:10
+Bid End Date / Time: 25-04-2025 19:00:00
+Bid Opening Date / Time: 25-04-2025
+19:30:00
+Consignees / Reporting Officer / Delivery
+Location(S)
+EMD: Required Track EMD
+(Https://Bidplus.Gem.Gov.In/Bidding/Track/Trackepbg/7
+Average Turn Over of Last 3 Years: 700
+Lakh (s) Experience with Gov. Required:
+Year (s)
+Name: Rohitash Verma
+Address: Rohitash
+Verma,Rohitash.Verma@Imd.Gov.In,India
+Meteorological Department, Mausam
+Bhawan, Lodhi Road,SOUTH
+DELHI,DELHI,110003,India
+Ministry: Ministry Of Earth Sciences
+Department: India Meteorological
+Department (Imd)
+Organisation: Metnet : An E-Governance
+Intra-Imd Portal New Delhi
+Office: Mausam Bhawan New Delhi
+Bid Number: GEM/2025/B/6044537 (/showbidDocument/7630585)
+Buyer Details
+Modified On: 2025-04-17 16:55:23
+Bid extended to 2025-04-25 19:00:00
+ 
+Bid Opening Date : 2025-04-25 19:30:00
+Modified On: 2025-04-11 20:37:20
+Hash Value (Algorithm - SHA256):
+015d6a0cc26c99f5e20072d1a35403ebe0aba3c7e748cc80524802eb1533a127
+ Download
+(/bidding/buyer/showcorrigendumpdf/3335771/7630585)
+Modified On: 2025-04-11 19:45:00
+ Download
+(/bidding/buyer/showcorrigendumpdf/3335732/7630585)
+
+
+4/17/25, 4:55 PM
+GeM | Bid Finalization
+https://bidplus.gem.gov.in/buyer-bid-finalization/7630585
+1/3
+
+[Page 2]
+Cancel Bid
+   
+Extend Bid
+   
+Edit Terms
+   
+Edit Pre Bid
+   
+Hash Value (Algorithm - SHA256):
+e52b2f8149a36764c6f17f79e3db4a7d03c1176541bcbc4dbe08126a7c692dee
+Modified On: 2025-04-11 17:00:09
+Bid extended to 2025-04-18 19:00:00
+ 
+Bid Opening Date : 2025-04-18 19:30:00
+Modified On: 2025-03-27 15:45:36
+Bid extended to 2025-04-11 19:00:00
+ 
+Bid Opening Date : 2025-04-11 19:30:00
+WEB INFO
+Terms of Use (https://gem.gov.in/termsCondition)
+Website Policies (https://gem.gov.in/websitePolicies)
+Document Help (https://gem.gov.in/help)
+Site Map (https://gem.gov.in/sitemap)
+Web Information Manager (https://gem.gov.in/web-information-manager)
+ABOUT GeM
+Introduction to GeM (https://gem.gov.in/aboutus)
+Statistics (https://gem.gov.in/statistics)
+Right to Information (https://gem.gov.in/RTI)
+Analytics (https://sso.gem.gov.in/ARXSSO/oauth/login)
+New on GeM (https://gem.gov.in/new-categories)
+BRAND GeM (https://gem.gov.in/brand-gem)
+NEWS & EVENTS
+Newsroom (https://gem.gov.in/media)
+Gallery (https://gem.gov.in/gallery)
+Notifications (https://gem.gov.in/landing/index/allnews)
+CCM Schedule (https://gem.gov.in/ccm_data)
+Forums (https://gem.gov.in/forum)
+TESTIMONIALS (HTTPS://GEM.GOV.IN/TESTIMONIAL_BUYERS)
+RESOURCES
+GeM Handbook (https://assets-bg.gem.gov.in/resources/pdf/GeM_handbook.pdf)
+OM’s/Circulars (https://gem.gov.in/support/government_oms_circulars)
+Terms and Conditions (https://gem.gov.in/support/terms_conditions)
+Policies/Manuals (https://gem.gov.in/support/buyers)
+Miscellaneous (https://gem.gov.in/support/miscellaneous)
+MoUs (https://gem.gov.in/mou)
+TRAINING
+LMS (https://lms.gem.gov.in/)
+Training Calendar (https://gem.gov.in/training)
+Training Module (https://gem.gov.in/training/training_module)
+Facilitators (https://gem.gov.in/training/facilitators)
+Download GeM Logo (https://gem.gov.in/resources/images/download-gem-
+logo.jpg)
+NEED HELP?
+FAQs (https://gem.gov.in/userFaqs)
+Video Guides (https://gem.gov.in/training/videos/buyers)
+Raise-a Ticket (https://gem.gov.in/gemtickets/create)
+Contact Us (https://gem.gov.in/contactUs)
+Careers (https://gem.gov.in/landing/index/careers)
+© 2025 GeM All rights reserved
+Site operated and maintained by Managed Service Provider
+4/17/25, 4:55 PM
+GeM | Bid Finalization
+https://bidplus.gem.gov.in/buyer-bid-finalization/7630585
+2/3
+
+[Page 3]
+(https://twitter.com/GeM_India) 
+ (https://www.facebook.com/govGeM/) 
+(https://www.youtube.com/channel/UC1LaBWVVZv3k23BZApfDlsQ) 
+ (https://www.linkedin.com/company/government--e--
+marketplace-gem-?trk=biz-companies-cym) 
+ (https://www.slideshare.net/GeMProcurementReimag)
+4/17/25, 4:55 PM
+GeM | Bid Finalization
+https://bidplus.gem.gov.in/buyer-bid-finalization/7630585
+3/3
+
+[Page 4]
+(https://gem.gov.in/)
+Enter Keywords?
+
+PRODUCTS 
+SERVICES 
+CONTENT
+HOME (HTTPS://MKP.GEM.GOV.IN/DASHBOARD) / BID FINALIZATION
+BID DETAILS
+TECHNICAL EVALUATION
+FINANCIAL EVALUATION
+EVALUATION
+BID AWARDED
+1. Bid Details
+Corrigendum Details
+Cancel Bid
+   
+Extend Bid
+   
+Edit Terms
+   
+Edit Pre Bid
+   
+Bid Status: Active
+Quantity: 1
+Bid Validity (From End Date): 180 (Days)
+Competent Authority Document: View
+Bid Start Date / Time: 11-03-2025
+18:10:10
+Bid End Date / Time: 18-04-2025 19:00:00
+Bid Opening Date / Time: 18-04-2025
+19:30:00
+Consignees / Reporting Officer / Delivery
+Location(S)
+EMD: Required Track EMD
+(Https://Bidplus.Gem.Gov.In/Bidding/Track/Trackepbg/7
+Average Turn Over of Last 3 Years: 700
+Lakh (s) Experience with Gov. Required:
+Year (s)
+Name: Rohitash Verma
+Address: Rohitash
+Verma,Rohitash.Verma@Imd.Gov.In,India
+Meteorological Department, Mausam
+Bhawan, Lodhi Road,SOUTH
+DELHI,DELHI,110003,India
+Ministry: Ministry Of Earth Sciences
+Department: India Meteorological
+Department (Imd)
+Organisation: Metnet : An E-Governance
+Intra-Imd Portal New Delhi
+Office: Mausam Bhawan New Delhi
+Bid Number: GEM/2025/B/6044537 (/showbidDocument/7630585)
+Buyer Details
+Modified On: 2025-04-11 17:00:09
+Bid extended to 2025-04-18 19:00:00
+ 
+Bid Opening Date : 2025-04-18 19:30:00
+Modified On: 2025-03-27 15:45:36
+Bid extended to 2025-04-11 19:00:00
+ 
+Bid Opening Date : 2025-04-11 19:30:00
+4/11/25, 5:23 PM
+GeM | Bid Finalization
+https://bidplus.gem.gov.in/buyer-bid-finalization/7630585
+1/2
+
+[Page 5]
+WEB INFO
+Terms of Use (https://gem.gov.in/termsCondition)
+Website Policies (https://gem.gov.in/websitePolicies)
+Document Help (https://gem.gov.in/help)
+Site Map (https://gem.gov.in/sitemap)
+Web Information Manager (https://gem.gov.in/web-information-manager)
+ABOUT GeM
+Introduction to GeM (https://gem.gov.in/aboutus)
+Statistics (https://gem.gov.in/statistics)
+Right to Information (https://gem.gov.in/RTI)
+Analytics (https://sso.gem.gov.in/ARXSSO/oauth/login)
+New on GeM (https://gem.gov.in/new-categories)
+BRAND GeM (https://gem.gov.in/brand-gem)
+NEWS & EVENTS
+Newsroom (https://gem.gov.in/media)
+Gallery (https://gem.gov.in/gallery)
+Notifications (https://gem.gov.in/landing/index/allnews)
+CCM Schedule (https://gem.gov.in/ccm_data)
+Forums (https://gem.gov.in/forum)
+TESTIMONIALS (HTTPS://GEM.GOV.IN/TESTIMONIAL_BUYERS)
+RESOURCES
+GeM Handbook (https://assets-bg.gem.gov.in/resources/pdf/GeM_handbook.pdf)
+OM’s/Circulars (https://gem.gov.in/support/government_oms_circulars)
+Terms and Conditions (https://gem.gov.in/support/terms_conditions)
+Policies/Manuals (https://gem.gov.in/support/buyers)
+Miscellaneous (https://gem.gov.in/support/miscellaneous)
+MoUs (https://gem.gov.in/mou)
+TRAINING
+LMS (https://lms.gem.gov.in/)
+Training Calendar (https://gem.gov.in/training)
+Training Module (https://gem.gov.in/training/training_module)
+Facilitators (https://gem.gov.in/training/facilitators)
+Download GeM Logo (https://gem.gov.in/resources/images/download-gem-
+logo.jpg)
+NEED HELP?
+FAQs (https://gem.gov.in/userFaqs)
+Video Guides (https://gem.gov.in/training/videos/buyers)
+Raise-a Ticket (https://gem.gov.in/gemtickets/create)
+Contact Us (https://gem.gov.in/contactUs)
+Careers (https://gem.gov.in/landing/index/careers)
+© 2025 GeM All rights reserved
+Site operated and maintained by Managed Service Provider
+ (https://twitter.com/GeM_India) 
+ (https://www.facebook.com/govGeM/) 
+(https://www.youtube.com/channel/UC1LaBWVVZv3k23BZApfDlsQ) 
+ (https://www.linkedin.com/company/government--e--
+marketplace-gem-?trk=biz-companies-cym) 
+ (https://www.slideshare.net/GeMProcurementReimag)
+4/11/25, 5:23 PM
+GeM | Bid Finalization
+https://bidplus.gem.gov.in/buyer-bid-finalization/7630585
+2/2
+
+[Page 6]
+[Image-only page. See the PDF page image.]
+
+[Page 7]
+Page | 2 
+3 
+As per page no: 171, clause no: 19 Request you to remove the clause, as this 
+feature only applicable where Archive Manage or MAM is Handling Broadcast 
+Video Formats. Its non-relevant to Binary Data Archiving and allows the Solution 
+should have the option to create Custom Metadata considering the Archive 
+Binary Files. Which should help users to search and download the relavent 
+archive file for reuse. 
+The given representation is 
+wrt to clause 18 at page no 
+171 and the same has been 
+removed. 
+4 
+As per page no: 171, clause no: 20 Please allow CLI/ GUI user interface for 
+Search, Archive Delete and Retrieval and allow Users should be able to define 
+their custom search filters using AND / OR operations between multiple search 
+criteria. The search criteria must support both embedded C custom metadata 
+fields to search in CLI/GUI mode. 
+Page No 171 Clause No 20 will 
+be read as 
+= Users should be able to 
+define their custom search 
+filters using AND / OR 
+operations between multiple 
+search criteria. The search 
+criteria must support both 
+embedded and custom 
+metadata fields to search on 
+GUI/CLI mode.= 
+5 
+Bid Eligibility Criteria 
+As per page no: 200 and point no : 2 kindly allow ≥10 and <30: 05 marks, ≥30 and 
+<50 : 08 marks. 
+As per RFP only 
+6 
+Product/Service 
+specification 
+As per page no : 171, clause no: 16 Please allow agnostic OS platform for Archive 
+Manager Request for change. Archive Management Software system should be 
+Linux/ Windows based operating system 
+Refer to GeM Query SNO. 1
+
+[Page 8]
+[Image-only page. See the PDF page image.]
+
+[Page 9]
+[Image-only page. See the PDF page image.]
+
+[Page 10]
+[Image-only page. See the PDF page image.]
+
+[Page 11]
+[Image-only page. See the PDF page image.]
+
+[Page 12]
+[Image-only page. See the PDF page image.]
+
+[Page 13]
+Page | 8 
+1.4 
+171 
+Clause Statement: 
+All basic operations such as Search, 
+Archive, delete and retrieve operations 
+should be supported on the CLI 
+interface. 
+17 
+Please allow CLI/ GUI user 
+interface for Search, Archive 
+Delete and Retrieval 
+Page No 171 clause 
+no 17 will be read as 
+<All basic 
+operations such as 
+Search, Archive, 
+delete and retrieve 
+operations should 
+be supported on the 
+GUI/CLI interface=. 
+1.4 
+171 
+Clause Statement: 
+The solution should permit the creation 
+of Custom Metadata Fields with 
+permission level assignments to 
+categories by user groups. 
+It should not limit the number of 
+metadata fields which users can 
+create. Users should be able to create 
+Metadata at Category, Asset or Frame 
+Level in an asset. 
+Following types of fields are mandatory 
+for each metadata level – 
+a. Text 
+b. Integer 
+c. Multi Select List 
+d. List 
+19 
+Request you to remove the 
+clause, as this feature only 
+applicable where Archive 
+Manager or MAM is Handling 
+Broadcast Video Formats. Its 
+non- relevant to Binary Data 
+Archiving 
+The given 
+representation is 
+wrt to clause 18 at 
+page no 171 and 
+the same has been 
+removed.
+
+[Page 14]
+[Image-only page. See the PDF page image.]
+
+[Page 15]
+[Image-only page. See the PDF page image.]
+
+[Page 16]
+[Image-only page. See the PDF page image.]
+
+[Page 17]
+[Image-only page. See the PDF page image.]
+
+[Page 18]
+[Image-only page. See the PDF page image.]
+
+[Page 19]
+Page | 14 
+ 
+ 
+CAMC 
+Please clarify the Quoted CAMC 
+cost will be consider for 
+Financial Evaluation or not. 
+Yes 
+Prices and 
+Payments 
+Terms and 
+Mode of 
+payments 
+146 
+- 147 
+Twenty five percent (25%) of total 
+contract value will be paid as advance 
+payment against 110% Advance Bank 
+Guarantee to be submitted by the firm 
+after issuance of supply order to 
+support the bidder in design and 
+manufacturing of high-end 
+engineering goods 
+GCC 
+10.3.1, 
+10.3.2 
+Please clarify the 110% Value of 
+Bank Guarantee. 110% of the 
+Total 
+Contract Value or 110% will be 
+the Advance Value of the 
+Contract i.e.25% 
+An advance bank 
+guarantee 
+equivalent to 110% 
+of the advance 
+amount shall be 
+submitted. The 
+advance amount 
+will be 25% of the 
+total con tract value 
+GCC 10.3.4 Advance 
+Payment 
+150 
+Twenty (25%) of total contract value will 
+be paid as advance payment against 
+110% Advance Bank Guarantee to be 
+submitted by the firm after issuance of 
+supply order. 
+GCC 10.3.4 Kindly clarify that this is the 
+mandatory Clause or the 
+Optional Clause in case of 
+Bidder wants to avail the 
+Advance 
+Payment 
+Mandatory as per 
+RFP only
+
+[Page 20]
+[Image-only page. See the PDF page image.]
+
+[Page 21]
+[Image-only page. See the PDF page image.]
+
+[Page 22]
+[Image-only page. See the PDF page image.]
+
+[Page 23]
+[Image-only page. See the PDF page image.]
+
+[Page 24]
+[Image-only page. See the PDF page image.]
+
+[Page 25]
+[Image-only page. See the PDF page image.]
+
+[Page 26]
+[Image-only page. See the PDF page image.]
+
+[Page 27]
+[Image-only page. See the PDF page image.]
+
+[Page 28]
+[Image-only page. See the PDF page image.]
+
+[Page 29]
+[Image-only page. See the PDF page image.]
+
+[Page 30]
+[Image-only page. See the PDF page image.]
+
+[Page 31]
+[Image-only page. See the PDF page image.]
+
+[Page 32]
+[Image-only page. See the PDF page image.]
+
+[Page 33]
+[Image-only page. See the PDF page image.]
+
+[Page 34]
+[Image-only page. See the PDF page image.]
+
+[Page 35]
+[Image-only page. See the PDF page image.]
+
+[Page 36]
+[Image-only page. See the PDF page image.]
+
+[Page 37]
+[Image-only page. See the PDF page image.]
+
+[Page 38]
+[Image-only page. See the PDF page image.]
+
+[Page 39]
+[Image-only page. See the PDF page image.]
+
+[Page 40]
+[Image-only page. See the PDF page image.]
+
+[Page 41]
+[Image-only page. See the PDF page image.]
+
+[Page 42]
+[Image-only page. See the PDF page image.]
+
+[Page 43]
+[Image-only page. See the PDF page image.]
+
+[Page 44]
+[Image-only page. See the PDF page image.]
+
+[Page 45]
+[Image-only page. See the PDF page image.]
+
+[Page 46]
+[Image-only page. See the PDF page image.]
+
+[Page 47]
+[Image-only page. See the PDF page image.]
+
+[Page 48]
+[Image-only page. See the PDF page image.]
+
+[Page 49]
+[Image-only page. See the PDF page image.]
+
+[Page 50]
+[Image-only page. See the PDF page image.]
+
+[Page 51]
+[Image-only page. See the PDF page image.]
+
+[Page 52]
+[Image-only page. See the PDF page image.]
+
+[Page 53]
+[Image-only page. See the PDF page image.]
+
+[Page 54]
+[Image-only page. See the PDF page image.]
+
+[Page 55]
+[Image-only page. See the PDF page image.]
+
+[Page 56]
+[Image-only page. See the PDF page image.]

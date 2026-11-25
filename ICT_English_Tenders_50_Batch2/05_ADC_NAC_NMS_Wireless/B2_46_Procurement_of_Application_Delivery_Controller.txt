@@ -1,0 +1,529 @@
+Title: Procurement of Application Delivery Controller
+Source: https://lums.edu.pk/sites/default/files/2023-11/216%20Application%20Load%20Balancer.pdf
+Pages: 10
+
+--- Extracted text by page ---
+
+[Page 1]
+1 
+Tender Document  
+LUMS 
+ 
+TENDER NO. LUMS/216/2023 DATED: 20.10.2023 for “Application Load 
+Balancer” 
+Last Date for submission of bids 
+ 
+ 
+15/11/2023 till 11:00am 
+ 
+ 
+ 
+ 
+Opening of bids 
+ 
+ 
+ 
+            15/11/2023 at   11:30am 
+ 
+Lahore University of Management Sciences (hereinafter called LUMS) invites sealed bids 
+for the supplies as per attached BOQ on Single stage two envelope basis. 
+ 
+If you have doubt as to the meaning of any portion of the specification or other terms and 
+conditions, you may seek clarification of the same in writing from us. 
+ 
+You are required to submit your bid, which will bear words “CONFIDENTIAL” and  
+ 
+TENDER NO. LUMS/216/2023 DATED: 20.10.2023 for “Application Load 
+Balancer” 
+LUMS does not take any responsibility for collecting the bids from any agency. The requests 
+for an extension of closing date and time shall not be entertained. 
+ 
+Specifications 
+ 
+Procurement of Application Delivery Controller 
+ 
+ 
+Load Balancer Technical specifications are given below. 
+ 
+The high level BOQ of required hardware is per below tables. 
+ 
+Sr. No. 
+Items 
+Qty 
+1 
+Citrix ADC 5910 Appliance without WAF (For HA of 5910) 
+1 
+ 
+- 
+The product must support HA with the existing Citrix ADC MPX 5910. 
+ 
+- 
+Product should be redundant hardware based (physical appliance), support high 
+availability (Active/Active, Active/Standby), dual power supply and at least 4 X 1 
+GE & 2 X 10GE Optical Interfaces.
+
+[Page 2]
+2 
+- 
+Product must have support for 
+o Memory 16 GB 
+o Hardware Compression = 2.5Gbps or above 
+o Layer 4/Layer7 Throughput = At least 10Gbps 
+o SSL transactions/sec (2K keys) =  At least 10,000  
+o SSL throughput = 5Gbps or above 
+ 
+- 
+Online insertion & removal of all components and redundant Power supplies. 
+- 
+Product should support all types of Layer 4 and Layer 7 protocols and APIs but not 
+limited to 
+o IP 
+o HTTP/HTTPS 
+o SSH 
+o FTP/SFTP 
+o Diameter (DCC) 
+o DNS 
+o SOAP/XML 
+o Bot Detection 
+o REST/JSON 
+o MML 
+ 
+- 
+Product should support multiple load balancing mechanism for all types of 
+applications and capability to monitor the health of back-end servers. 
+Feature Set supported by the Product: 
+ 
+- 
+SSL Certificate (TLS 1.2 or above) 
+- 
+Certificates Group Support  
+- 
+Sub Directory Support for URL 
+- 
+Port Redirection 
+- 
+Cookies 
+- 
+NAT (Source IPs) 
+- 
+Probing/health check 
+- 
+GUI Interface 
+- 
+Detail logs 
+- 
+Multiple Load Balancing Mechanism 
+Warranty and Support: 
+ 
+- 
+24X7XNBD by principle verified hardware warranty of 01-year minimum. 
+- 
+Latest and advanced services software update release support with permanent 
+license. 
+- 
+Hardware warranty/contract/license support valid for minimum next 10 years 
+with documented proof.
+
+[Page 3]
+3 
+Important Notes: 
+ 
+- 
+Proof of Concept (POC) may be required from the vendor before the issuance of 
+Purchase Order by LUMS. The devices included in the POC should be the same as 
+quoted by the vendor. 
+- 
+The vendor will be responsible for installation/deployment of equipment after 
+delivery and all the relevant expenses will be borne by vendor. 
+- 
+Partial solution will not be accepted, only the vendor with complete solution will 
+qualify for technical. 
+- 
+The criteria for the issuance of PO will not only be the lowest price but also the 
+product stability, compatibility, specifications and features mentioned in the 
+tender.  
+- 
+Only new hardware is required; repaired or refurbished devices will not be 
+acceptable. 
+- 
+A special educational discount is expected from all the vendors. 
+- 
+Quantities can be changed depending on budget and availability. 
+- 
+Proof of technical competence of team engaged in deployment along with their 
+profile/certificates must be included in proposal. 
+- 
+Price must be specified in terms of unit cost of major hardware/software 
+components. 
+- 
+Release date, end of sales, support and life must be specified for all components. 
+- 
+The provided solution must be officially verified by Principal. 
+- 
+All the vendors must perform requirement gathering first and submit the technical 
+& financial proposal accordingly. Any loss because of incompatibilities with 
+existing systems/solutions will be borne by Vendor/Principal. 
+- 
+For further technical information / clarification you may contact IST if required. 
+- 
+Vendor must deliver and install the product at LUMS. 
+- 
+Certifications and training: 
+o Citrix Certified Associate certification required for 03xPersons.  
+o Citrix Professional certification required for 03xPersons.  
+o Advance level local instructor led training of CITRIX for 3xPersons.  
+ 
+ 
+TERMS AND CONDITIONS 
+1. Instruction to Bidders: 
+a) General: Bids are invited through Sealed Envelope for the purchase of supplies and 
+other related items from the authorized distributors and manufacturers on delivery 
+Ex-LUMS.  
+b) Bill of quantities: The bidder may quote for one or more items showing description 
+and specification of offered items.  
+c) The vendor is required to quote in USD currency and delivery is on DDP inco terms.
+
+[Page 4]
+4 
+2. Date &Time of Submission of Tenders:  
+The interested bidders may submit their bids on the prescribed form, available on written 
+request on the firm / company letter pad from the Procurement office located, Lahore 
+University of Management Sciences, at Opposite Sector U, DHA Lahore along with a postal 
+order/pay order/bank draft / amounting to Rs. 1,500/- (Non-refundable) drawn in favor 
+of Lahore University Of Management Sciences. 
+ 
+All bids must be delivered in procurement office on or before the prescribed deadline of 
+11:00 am on the date already mentioned above. 
+ Any Bid received by LUMS after the prescribed deadline for submission of bids will be 
+returned unopened to the Bidder. 
+3. Sealing and Marking of Bids: 
+The bids shall comprise in a Single package containing two separate envelopes each 
+envelope shall contain separately, duly sealed, the “Financial Proposals” and “Technical 
+Proposals”. The envelopes shall be marked as “Financial Proposals” and “Technical 
+Proposals” in bold and legible letters to avoid any confusion. 
+ 
+The envelop will be addressed to; 
+Manager Procurement 
+Lahore University of Management Sciences, 
+Opposite Sector U, DHA, 
+Lahore  
+TEL: (042)35608251 
+ 
+The envelopes shall also bear the word “CONFIDENTIAL” and following identifications: - 
+If the envelope is not marked, as instructed above, LUMS will assume no responsibility for 
+the misplacement or premature opening of the bid. 
+ 
+4. Bid Opening: 
+LUMS will open the bids, in the presence of Bidder’s representatives who choose to attend 
+at 11:00 am on the date already mentioned above, in the Procurement office. 
+ 
+5. Evaluation: 
+a) After opening of bids, LUMS will examine the bids for technical evaluation and 
+completeness of the bids as per tender document. 
+b) The bids shall be evaluated on the basis of “Technical proposals” and “Financial 
+Proposals” as under: 
+(i) The envelope for “Technical Proposals” will be opened initially in the presence 
+of the bidders. 
+(ii) The envelope for “Financial Proposals” will be retained unopened. 
+(iii) The “Financial Proposals” envelope of technical responsive bidders will be 
+opened in front of technically qualified bidders after the technical evaluation.
+
+[Page 5]
+5 
+The “Financial Proposals” envelope of technically non-qualified bidders will be 
+returned unopened to the bidder. 
+c) Bidder(s) who do (es) not qualify cannot challenge the findings of the evaluation or ask for 
+reasons of disqualification. 
+6. Earnest Money:  
+The bidder must enclose 2% of the total quoted amount as earnest money in shape of pay 
+order/bank draft in favor of Lahore University of Management Sciences. The tenders 
+without earnest money or containing less earnest money will not be accepted. Earnest 
+money of the successful bidder will be refunded after the delivery of the goods. 
+7. Change in Quantities: 
+LUMS reserves the right to increase/decrease quantities and it will be the responsibility 
+of the supplier/contractor to deliver the item on time and change defective items. 
+8. Mode of Payment:  
+a) Payment terms will be credit basis.  
+b) In case of advance payment first class bank guarantee or mutually accepted collateral will 
+be provided by the bidder. 
+9. NTN/GST Certificate: 
+Bidder must mention their National Tax Number (NTN) and General Sales Tax (GST) 
+number (if sales tax registered) and furnish a copy of NTN and GST certificate along with 
+tender. 
+10. Tax Deduction: 
+Income Tax as per government tax rules will be deducted from the total amount unless 
+an exemption certificate is provided from the income tax department. 
+11. Specification Criteria: 
+ 
+All bids must be submitted according to specification given in the BOQ. 
+12. Delivery Time: 
+ 
+a) 
+Validity period of the tender will be mutually decided from the date of placement 
+of order. During this period successful bidders will be bound to supply the items 
+on the rates they quoted. 
+b) 
+In case the supplier fails to supply the agreed material in time, LUMS reserves the 
+right to reject its offer and confiscate the earnest money deposited. 
+c) 
+Delivery will be on Ex-LUMS 
+d) 
+Pre-shipment inspection will be done by LUMS if required. 
+13. Inspection and Testing
+
+[Page 6]
+6 
+a) 
+LUMS representative shall have the right to inspect and / or test the Goods to confirm their 
+conformity to the Purchase order(s) Specifications. 
+b) 
+Should any inspected or tested goods fail to conform to the specifications, LUMS may reject 
+them and the supplier shall either replace the rejected goods or make all alterations 
+necessary to meet specification of LUMS. All costs incurred on such replacements / 
+alterations shall be entirely borne by the supplier, failing to do so, the purchase order(s) 
+will be cancelled and all retained values will be forfeited in favor of LUMS. 
+14. Quality of items:  
+All item(s) supplied by successful bidder should be wholesome and include all the basic 
+accessories. The additional accessories may be included separately. The offered items(s) 
+should not be of substandard nature.  
+15. Warranty:  
+As mentioned against each item or for the given period starting from the date of supply. 
+16. Penalty: 
+ For failure to comply with delivery schedule of Purchase Order(s) penalty will be imposed 
+on defaulting bidder as under: 
+a) 
+1% of the cost of entire order or of such items/job as remains un-supplied/not-
+completed for every day up to maximum of 5% for 10 days exceeding the delivery 
+period unless mutually agreed in writing. 
+b) 
+If the material is not supplied even after payment of penalty for 10 consecutive days 
+LUMS reserves the right to cancel the purchase order and to obtain the required 
+items/get the job done from elsewhere at risk and cost of the defaulting contractor. 
+In this scenario the Earnest money will be confiscated. 
+17. Grievance Committee 
+Supplier can contact the grievance committee of LUMS if required. 
+18. Rejection of Bids:  
+LUMS reserves the right to reject any or all bids or proposals without assigning any reason. 
+19. Other Instructions: 
+a) Bid Prices shall be quoted on Annexure-"A" and also on letter Head duly filled in, stamped 
+and signed by the authorized representative of Bidder. 
+b) Bidding Form Annexure-"B" must also be duly filled in, stamped and signed by authorized 
+representative of Bidder. 
+c) Quoted price shall be valid for three months from the opening date of the Tender, for 
+placing order however, any subsequent change in taxes and duties as notified by  
+government will be given due consideration.
+
+[Page 7]
+7 
+I/We hereby agree to abide by and fulfill all the terms and conditions of the contract. 
+The sum of Rs.____________ is herewith forwarded in the shape of ___________as    
+2% earnest money. 
+Name and Address of the Firm 
+ 
+ 
+ 
+ 
+Company’s Stamp 
+_________________________________________ 
+_________________________________________ 
+_________________________________________ 
+Name and Signature of company’s Representative 
+ _________________________________________ 
+ _________________________________________ 
+CNIC: ___________________________________
+
+[Page 8]
+8 
+ANNEXURE “A” 
+FINANCIAL PROPOSALS 
+S. No.* 
+Name of Item 
+Qty 
+Ex-LUMS 
+Total 
+Price 
+Remarks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+* S.NO as mentioned on BOQ 
+Authorized Signature of Bidder with seal 
+stamp_____________________________________ 
+Full name of firm ________________________ 
+   
+ 
+ 
+ 
+     N.I.C. No. ______________________________ 
+    Phone no. ____________ Mobile No._________
+
+[Page 9]
+9 
+ANNEXURE-"B" 
+TECHNICAL PROPOSALS 
+S. No.* 
+Name of Item(s) 
+Specifications / Brand 
+Qty 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+* S.NO as mentioned on BOQ 
+Authorized Signature of bidder with seal stamp   
+ 
+_______________________________________ 
+ 
+Full name of firm ________________________ 
+N.I.C. No. ______________________________ 
+Phone no. ____________ Mobile No._________ 
+Note: Attach technical brochure producing detailed specifications for all the offered 
+items(s).
+
+[Page 10]
+10 
+BIDDING FORM 
+Date: _________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lahore University of Management Sciences. 
+Lahore 
+ 
+Gentleman 
+ 
+1. 
+Having examined the conditions to Tender and Specifications of Tender No LUMS/216/2023 
+DATED: 20.10.2023, the receipt of which is hereby acknowledged. We the undersigned, offer 
+to supply and deliver in conformity with specifications mentioned in BOQ and conditions of 
+Tender 
+for 
+the 
+sum 
+of 
+Rs._________________________ 
+(Rupees 
+______________________________) or such other sums as may be ascertained in 
+accordance with the said Conditions. 
+ 
+2. 
+If our Bid is accepted, we shall deliver the required supplies mentioned in the tender 
+documents within ______ days from the date of receipt of your firm Purchase Order. 
+ 
+3. 
+We agree to abide by the terms and conditions of the Tender for the period of _______ from 
+the date fixed for receiving the same and it shall remain binding upon us and may be accepted 
+at any time before the expiration of that period. 
+ 
+4. 
+Until a formal Purchase order(s) is placed, this Bid, together with your written acceptance 
+thereof, shall constitute a binding contract between us. 
+ 
+5. 
+We understand that you are not bound to accept the lowest or any proposal you may receive 
+or to inform us of the rejection of our bid or to give any reasons thereof. 
+ 
+Dated this __________________ day of ______________________________ 2023. 
+ 
+ 
+Signature _______________________ in the capacity of ______________________________ duly 
+authorized to sign Tender for and on behalf of  
+ 
+_______________________________________________________________________________ 
+(NAME OF FIRM IN BLOCK CAPITALS) 
+Complete Address: ________________________________________________________ 
+ 
+Fax No._______________________ Telephone No._______________________________ 
+ 
+ 
+(SIGNATURE) 
+Witness :-1. 
+_______________________           2________________________

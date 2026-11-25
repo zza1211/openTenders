@@ -1,0 +1,6255 @@
+Title: Revamping of Networking for Three Computer Labs at IFS Building
+Source: https://beta.nfsu.ac.in/data/pdfs/tender/DTP.pdf
+Pages: 71
+
+--- Extracted text by page ---
+
+[Page 1]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 1 of 71  
+  
+  
+  
+  
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+National Forensic Sciences University, 
+Sector-9, Gandhinagar–382007, Gujarat
+
+[Page 2]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 2 of 71  
+Table of Contents  
+  
+Sr. 
+No. 
+Title 
+Page 
+No. 
+1  Notice Inviting Tender  
+03 
+2  Time events of various Tender related activities  
+06 
+3  Technical Specifications–Annexure I  
+07 
+4  General Terms and Conditions–Annexure II  
+10 
+5  Instructions & Special conditions –Annexure III  
+14 
+6  Minimum Eligibility Criteria / Pre-qualification Criteria–Annexure IV  
+17 
+7  Technical Bid–Annexure V  
+19 
+8  Technical Compliance Statement–Annexure VI  
+21 
+9  Financial Information–Annexure VII  
+49 
+11  Declaration–Annexure VIII  
+50 
+12  Undertaking regarding Blacklisting / Non– Debarment–Annexure IX  
+51 
+13  Certificate on compliance under Rule 144 (xi) of GFRs 2017 - Annexure 
+X  
+52,53 
+14  Declaration of Local content–Annexure XI  
+54 
+16  Price Bid Format–Annexure XII  
+55 
+18  Scope of work-Annexure XIII  
+61 
+19  Model bank guarantee format for furnishing EMD Annexure XIV  
+65 
+20  Checklist  
+66
+
+[Page 3]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 3 of 71  
+NOTICE INVITING TENDER  
+ 
+National Forensic Sciences University (An Institution Of National Importance), the 
+erstwhile Gujarat Forensic Sciences University is the brain child of Govt of Gujarat. It was 
+established by the Hon’ble Prime Minister of India Shri. Narendra Modiji, then Chief 
+Minister of Gujarat in 2009 with a sole objective of creating professional experts in the 
+field of Forensic sciences. At a juncture of spiking the number of crimes involving 
+sophisticated technologies and much evolved modus operandi, there was a need for 
+scientists and technocrats. Thereby the resolution of such heinous crimes were more 
+diligently possible. This has been prudently considered by the Govt of Gujarat and the 
+university came into existence as a unique and first of its kind academic institution 
+dedicated to Forensic Sciences across the globe. 
+ 
+Details of existing IT infrastructure 
+For any Campus IT infrastructure being deployed plays a very important role since 
+digitization and online modalities for operational efficiency is becoming the way of life. 
+Considering the above NFSU has selected technologies which can support their future 
+requirements and fight technology obsolesces. The details of the Infrastructure are 
+mentioned below: 
+ 
+The data centre is hosted on the Ground Floor of the administration building and it consists 
+of Rittal racks supported with in–Row cooling which leads to lesser power consumption and 
+reduction in carbon foot prints which is a step further to the go- green initiative.  
+ 
+The Racks are loaded with the Cisco 9500 series loaded with 10G. 
+ 
+All floor stacks which are built using HP/Aruba’s 2920/ 2930 and Cisco 9200 switches in 
+different buildings are directly connected to the Core in the Star modes and each stack 
+has an uplink of 10G. 
+ 
+Each building is connected to the Admin Building using Fibre cables which terminate in the 
+ground floor rack room of that building and redundancy is built using multiple paths which 
+interconnect the building to the DC in the admin building. Of the four tubes each of 6 cores 
+which are available the first tube is used to connect the ground floor and the second and 
+third tube is used to connect the racks rooms located at the first and second floor of each 
+building. The fourth tube is spare and can be used for expansion. The fibre which was used 
+is the OS2 grade 24 core fibre from Tyco which is now Commscope.  
+ 
+For interconnecting the first and the second floor OS2 grade 6 from Tyco which is now 
+Commscope was used. The 6-core fibres are terminated on the ground floor rack room and 
+through fibre patching they connect to the DC over using the 2nd and 3rd tube of the 24-
+core fibre.
+
+[Page 4]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 4 of 71  
+Considering high multimedia and video traffic which is expected to flow over the network 
+in the future NFSU selected the highest category cable which was CAT7A at that point in 
+time. This cable is ready to support Class FA transmission speeds in future whenever the 
+edge switches are upgraded without any change in the cabling.  
+ 
+This decision of NFSU has ensured investment protection for the edge cabling components 
+for at least 25 years. CAT7A cable and accessories which are currently deployed are from 
+Tyco which is now Tyco/CommScope.  
+ 
+All operational data points for Computers, CCTV, AV(Audio-Video) and Wi-Fi are on the same 
+Infrastructure and thus it is ready to host 4K-8K Video traffic using Software-defined 
+Video over Ethernet (SDVoE) without any change or upgradation in the passive components. 
+ 
+Wi-Fi is a prime requirement of educational campuses as they need to support the mobility 
+requirements of the students and staff. Considering this NFSU had planned to deploy 
+mobility solutions to meet the above requirements and Wi-Fi solutions using Aruba’s Wi-Fi 
+controllers (7210), Cisco Wi-Fi Controller Catalyst 9800-L and Aruba 302 & Cisco AP 18521-
+D Access Points are functional in the NFSU Campus.  
+ 
+The firewall is from Fortinet and it is FG-500E-BDL(Active-Active), Forti Analyzer 800G 
+and Forti Authenticator VM. 
+ 
+National Forensic Sciences University Gandhinagar, invites online bids from reputed 
+Manufacturers or their authorized vendors, having registered offices in India who can 
+fulfil the criteria mentioned in the Tender document and have an adequate credential, for 
+the revamping/Upgradation of Active and Passive networking infrastructure at selected 
+Computer Labs @ IFS building, NFSU Gandhinagar.  
+ 
+Interested parties may submit their sealed bids under a Two-Bid system as per Technical 
+Specifications given in Annexure I and General Terms & Conditions and other formats 
+given in Annexure II to XIV.  
+ 
+Two covers (Primary bid and Technical Bid) are to be sealed and placed in one large Cover 
+super scribed with tender reference number (Tender Notice No: NFSU/IT 
+CELL/118/NETWORK/IFS BUILDING/2023-24/01 ) and submitted to “Campus Director, 
+National Forensic Sciences University, Gandhinagar, PIN: 382007 on or before 
+__________ at 17.00 Hrs. 
+ 
+(1) The primary bid will be for Tender fees & EMD and (2) the technical bid will be for all 
+technical documents. After verification of the Primary bid, the technical bid will be opened 
+for evaluation of who is qualified in the primary bid. Online price bids will be opened in
+
+[Page 5]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 5 of 71  
+respect of those OEMs/Vendors, who are found technically qualified after the evaluation 
+of Technical bids.  
+ 
+Kindly refer to the NFSU website www.nfsu.ac.in for complete tender details. The same 
+is also available in the CPP Portal. [https://eprocure.gov.in/epublish/app]. If there is any 
+corrigendum/addendum, it shall only be published on the NFSU Website and Central Public 
+Procurement Portal.  
+ 
+ 
+Campus Director, 
+NFSU, Gandhinagar 
+  
+To  
+1. NFSU Website  
+2. CPP Portal
+
+[Page 6]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 6 of 71  
+TIME EVENTS OF VARIOUS TENDER-RELATED ACTIVITIES 
+Tender No. & Date  
+Tender 
+Notice 
+No: 
+NFSU/IT 
+CELL/118/NETWORK/IFS 
+BUILDING/2023-24/02 dated: 23/04/2024 
+Brief 
+Description 
+of 
+Tender  
+Revamping of Networking for three computer labs at the IFS 
+building at NFSU, Gandhinagar 
+Tender fee  
+(Non-refundable)  
+₹ 1,500/-(one thousand and five hundred rupees only by way of 
+Demand draft from any Nationalized Bank /Commercial Bank and 
+paid in favour of “Campus Director, National Forensic Sciences 
+University”, payable at Gandhinagar)  
+EMD  
+₹ 1,08,000/-(One Lakh and Eight Thousand rupees only )  
+Last date & time for online 
+bid submission on CPPP 
+14/05/2024 at 4.00 PM 
+Last date & time for Bid 
+submission of technical bid, 
+Tender Fee and EMD in 
+sealed covers 
+16/05/2024 at 4.00 PM  
+Technical Bid opening Date 
+& Time  
+17/05/2024 at 4.00 PM  
+Two Bid System  
+Two bids–(i) Primary bid Technical and, in two separate envelopes- 
+placed & sealed in one envelope (ii) Price bid is online only 
+Bid validity  
+180 days from the opening of Price Bid  
+Submission of bids  
+(by speed post) at 
+Campus Director, National Forensic Sciences University,  
+Gandhinagar-382007, Gujarat (State)  
+Bid opening place  
+As Above 
+Any clarification  
+Telephone No: +91-79- 23977113,  
+email: itmanager_gnr@nfsu.ac.in 
+Last date for submission of 
+pre-bid queries 
+25/04/2024 
+Note:-  
+1. If the day falls on any Holiday, the date of any of the events mentioned above shall be on 
+the next working day.  
+2. It is the responsibility of the Bidder to ensure that their bids whether sent by post or by 
+courier or dropped by person should reach within the stipulated date & time.  
+3. The bid received after the last date and prescribed time would summarily be rejected. Bids 
+having incomplete information are also liable to be rejected.  
+4. The Campus Director, NFSU Gandhinagar reserves the right to reject any or all the bids in 
+full or part without assigning any reason thereof and without giving any compensation. The 
+decision of the NFSU in this regard shall be final and binding to all.  
+5. The addendum/ corrigendum if any shall only be published on NFSU’s website and CPP Portal.
+
+[Page 7]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 7 of 71  
+ANNEXURE-I 
+TECHNICAL SPECIFICATIONS 
+(Bill of Quantity) 
+  
+Table 1: List of Items and Services  
+ 
+Sr
+. 
+Name 
+Brief 
+Uni
+t 
+Tota
+l 
+Deduction 
+for 
+existing 
+Lab due 
+to re 
+Utilisatio
+n of 
+Existing 
+Material 
+Final 
+Requiremen
+t after 
+deduction 
+of OLD 
+material 
+Quoted 
+produc
+t with 
+make, 
+model 
+and 
+part 
+number 
+1 
+Cat7 Cable 
+Cable, 
+Copper, 
+Category 
+7A, 
+1000 
+MHz E10, 4 Pair, Solid, 
+S/FTP, LSOH-1, Violet, 
+Reel, 500 Meter 
+Mtr 
+7595 
+-4725 
+3000 
+ 
+2 
+Switch 
+Side Patch 
+Cord 1 Mtr 
+Copper, Patch Cord, 
+Tera 
+4-Pair, 
+RJ45, 
+Category 6A, S/FTP, 
+T568B, 
+Stranded, 
+CM/LSOH-1, 
+Ivory 
+Cable, White Boot, 1 
+Meter. 
+Nos 
+217 
+-135 
+82 
+ 
+3 
+User Side 
+Patch Cord 
+2 Mtr 
+Copper, Patch Cord, 
+Tera 
+4-Pair, 
+RJ45, 
+Category 6A, S/FTP, 
+T568B, 
+Stranded, 
+CM/LSOH-1, 
+Ivory 
+Cable, White Boot, 2 
+Meter 
+Nos 
+217 
+-135 
+82 
+ 
+4 
+Patch Panel 
+for Rack 
+Copper, Patch Panel, 
+Tera / MAX, Empty, 
+Shielded, 24 Openings, 
+Flat, 1U, Black, Fixed 
+Wire Manager 
+Nos 
+11 
+-7 
+4 
+ 
+5 
+Network 
+IO User 
+Side 
+Copper, Outlet, TERA, 
+Shielded, 
+Category 
+7A/8, 
+TERA, 
+Flat, 
+Black, 
+Tool-Less, 
+Nos 
+217 
+-135 
+82
+
+[Page 8]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 8 of 71  
+Sr
+. 
+Name 
+Brief 
+Uni
+t 
+Tota
+l 
+Deduction 
+for 
+existing 
+Lab due 
+to re 
+Utilisatio
+n of 
+Existing 
+Material 
+Final 
+Requiremen
+t after 
+deduction 
+of OLD 
+material 
+Quoted 
+produc
+t with 
+make, 
+model 
+and 
+part 
+number 
+T568A/B, with Door, 
+22-23 AWG - User 
+Side 
+6 
+Network 
+IO Rack 
+Side 
+Copper, Outlet, TERA, 
+Shielded, 
+Category 
+7A/8, 
+TERA, 
+Flat, 
+Black, 
+Tool-Less, 
+T568A/B, with Door, 
+22-23 
+AWG- 
+Panel 
+Side 
+Nos 
+217 
+-135 
+82 
+ 
+7 
+Face Plat 
+User Side 
+Faceplate, 
+10G, 
+British, Single Gang, 2 
+Openings, MX, White 
+Nos 
+217 
+-135 
+82 
+ 
+8 
+Fibre Cable 
+Single 
+Mode 
+Cable, 6 Fibre, XGLO, 
+Single 
+mode, 
+OS1/OS2, 
+8.3/125, 
+Outside Plant, Loose 
+Tube, Armored, MDPE, 
+Black, 
+1 
+Kilometer, 
+International 
+Mtr 
+75 
+  
+75 
+ 
+9 
+Fibre LIU 
+for Fibre 
+termination 
+on both 
+sides 
+12 
+port 
+Fibre, 
+Enclosure, Light Verse 
+Core, Rack Mount, 1U, 
+Fixed 
+Access, 
+4 
+Openings, Black - Fully 
+Loaded 
+- 
+(With 
+Required Accessories 
+GLO® 
+Jumper 
+& 
+Pigtails–192 
+Quick-
+Pack® 
+RIC 
+Splice 
+Cassette (RSC) - 192LC 
+Blade 
+Patch 
+Fibre 
+Jumpers–8 
+Fibre, 
+Adapter Plate, Light 
+Nos 
+2 
+  
+2
+
+[Page 9]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 9 of 71  
+Sr
+. 
+Name 
+Brief 
+Uni
+t 
+Tota
+l 
+Deduction 
+for 
+existing 
+Lab due 
+to re 
+Utilisatio
+n of 
+Existing 
+Material 
+Final 
+Requiremen
+t after 
+deduction 
+of OLD 
+material 
+Quoted 
+produc
+t with 
+make, 
+model 
+and 
+part 
+number 
+Verse, 
+Flat, 
+Black 
+Housing, 
+Blank 
+- 
+24Splice Cassette and 
+Trays–8 
+10 
+Fibre Patch 
+Cord 
+Fibre, Jumper, Duplex, 
+XGLO, Single mode, LC 
+UPC, 
+LC 
+UPC,OS1/OS2,8.3/125
+, Yellow, LSOH-3C,03 
+Meter 
+Nos 
+4 
+  
+4 
+ 
+11 
+24 Port 
+PoE Switch 
+OS6360-P24X 
+fixed 
+1RU chassis 24 PoE 1G 
+BaseT, 
+2 
+fixed 
+RJ45/SFP+ 
+combo 
+(1G/10G), 
+2 
+fixed 
+1G/10G 
+SFP+ 
+uplink/VFL 
+ports. 
+Internal AC PSU (380 
+budget), 
+includes 
+country-specific power 
+cord, guides and 19" 
+rack mount kit.3 Yr 
+premium 
+onsite 
+Support 
+for 
+OS(including 
+replacement in NBD 
+when 
+Required). 
+Includes 24x7 phone 
+support, 
+problem 
+diagnosis, access to 
+support 
+portal, 
+software updates and 
+upgrades. 1 meter long 
+10Gbs 
+SFP+ 
+direct 
+Nos 
+1 
+  
+1
+
+[Page 10]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 10 of 71  
+Sr
+. 
+Name 
+Brief 
+Uni
+t 
+Tota
+l 
+Deduction 
+for 
+existing 
+Lab due 
+to re 
+Utilisatio
+n of 
+Existing 
+Material 
+Final 
+Requiremen
+t after 
+deduction 
+of OLD 
+material 
+Quoted 
+produc
+t with 
+make, 
+model 
+and 
+part 
+number 
+stacking 
+cable 
+for 
+OS6360 24 and 48 
+port models. 
+12 
+48 Port 
+PoE Switch 
+OS6360-P48X 
+fixed 
+1RU chassis 48 PoE 1G 
+BaseT, 
+2 
+fixed 
+RJ45/SFP+ 
+combo 
+(1G/10G), 
+2 
+fixed 
+1G/10G 
+SFP+ 
+uplink/VFL 
+ports. 
+Internal 
+AC 
+PSU 
+(760W 
+budget), 
+includes 
+country-
+specific power cord, 
+guides and 19" rack 
+mount kit.3-Yr Partner 
+Support 
+Plus 
+for 
+OS(including 
+replacement in NBD 
+when 
+Required). 
+Includes 24x7 phone 
+support, 
+problem 
+diagnosis, access to 
+support 
+portal, 
+software updates and 
+upgrades. 1 meter long 
+10Gbs 
+SFP+ 
+direct 
+stacking 
+cable 
+for 
+OS6360 24 and 48 
+port models 
+Nos 
+5 
+-3 
+2 
+ 
+13 
+Transceive
+r 
+10 
+Gigabit 
+optical 
+transceiver 
+SFP+). 
+Supports mono mode 
+fibre 
+over 
+1310nm 
+Nos 
+6 
+-2 
+4
+
+[Page 11]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 11 of 71  
+Sr
+. 
+Name 
+Brief 
+Uni
+t 
+Tota
+l 
+Deduction 
+for 
+existing 
+Lab due 
+to re 
+Utilisatio
+n of 
+Existing 
+Material 
+Final 
+Requiremen
+t after 
+deduction 
+of OLD 
+material 
+Quoted 
+produc
+t with 
+make, 
+model 
+and 
+part 
+number 
+wavelength 
+nominal) 
+with an LC connector. 
+Typical reach of 10Km  
+14 
+Rack 
+Wall 
+mounted 
+enclosure of dimension 
+600W 
+X15UX600D 
+with front sheet steel 
+glass door, top and 
+bottom 
+cover 
+with 
+cable entry provision, 
+integrated side walls, 1 
+pair of 19" angles with 
+wall 
+mounting 
+provision, 
+captive 
+hardware(pack of 20). 
+Color RAL 7035 230V 
+AC Fan, 90 cfm with 1 
+mts 
+long 
+cable.19" 
+mountable 
+socket 
+strips with 6 nos of 5A 
+universal sockets with 
+2 
+mts 
+long 
+power 
+chord.1U 
+19" 
+Horizontal 
+Cable 
+Manager 
+(Zinc 
+blue 
+plated) Wall Bracket 
+Kit 10mm (pk of 4) 
+Nos 
+3 
+-2 
+1 
+ 
+15 
+Cable Tray 
+SIZE: 
+300MM 
+X 
+50MM 
+X 
+16SWG 
+WITH 
+ALL 
+ACCESSORIES 
+LIKE 
+8MM 
+G.I.FULL 
+THREADED ROD,8MM 
+FASTNER, 8MM NUT 
+Mtr 
+150 
+  
+150
+
+[Page 12]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 12 of 71  
+Sr
+. 
+Name 
+Brief 
+Uni
+t 
+Tota
+l 
+Deduction 
+for 
+existing 
+Lab due 
+to re 
+Utilisatio
+n of 
+Existing 
+Material 
+Final 
+Requiremen
+t after 
+deduction 
+of OLD 
+material 
+Quoted 
+produc
+t with 
+make, 
+model 
+and 
+part 
+number 
+AND 
+WASHER, 
+G.I.PERFORATED “ C” 
+CHANNEL 
+SIZE: 
+35MM 
+X 
+15MM 
+X 
+18SWG 
+16 
+HDPE Pipe 
+40mm 6kg ISI Make 
+HDPE Pipe for Fibre 
+Laying 
+Mtr 
+50 
+  
+50 
+ 
+  
+  
+Labour 
+  
+  
+  
+  
+ 
+17 
+  
+Laying of HDPE Pipe 
+for Fibre 
+Mtr 
+50 
+  
+50 
+ 
+18 
+  
+Laying of UTP Cable 
+along 
+with 
+all 
+accessories 
+which 
+includes 
+32 
+mm 
+conduits 
+with 
+accessories, Trunking 
+and casing capping as 
+per the requirement 
+(Bidder to select the 
+accessory material as 
+per the specifications 
+defined in section 6) 
+(Actual meter reading 
+generated during the 
+cable testing will be 
+considered 
+for 
+payment) 
+Mtr 
+7595 
+  
+7595 
+ 
+19 
+  
+Laying of Fibre Cable in 
+Pre-Laid Conduits and 
+TRUNKS 
+Mtr 
+75 
+  
+75 
+ 
+20 
+  
+Fixing of Rack upto18 
+U Size with Dressing 
+Nos 
+3 
+  
+3
+
+[Page 13]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 13 of 71  
+Sr
+. 
+Name 
+Brief 
+Uni
+t 
+Tota
+l 
+Deduction 
+for 
+existing 
+Lab due 
+to re 
+Utilisatio
+n of 
+Existing 
+Material 
+Final 
+Requiremen
+t after 
+deduction 
+of OLD 
+material 
+Quoted 
+produc
+t with 
+make, 
+model 
+and 
+part 
+number 
+21 
+  
+Fixing of Patch Panel in 
+the Rack along with 
+Termination of Cable 
+Nos 
+11 
+  
+11 
+ 
+22 
+  
+Termination of CAT7A 
+IO on the user side 
+Nos 
+217 
+  
+217 
+ 
+23 
+  
+Termination of CAT7A 
+IO on the jack Panel 
+Side 
+Nos 
+217 
+  
+217 
+ 
+24 
+  
+Fixing of LIU in The 
+Rack 
+Nos 
+3 
+  
+3 
+ 
+25 
+  
+Fibre Splicing per core Nos 
+36 
+  
+36 
+ 
+26 
+  
+Labelling and Feruling 
+Charges 
+Nos 
+217 
+  
+217 
+ 
+27 
+  
+Fibre 
+and 
+Copper 
+Certification Charges 
+(Third Party). Copper 
+Certification 
+to 
+be 
+done 
+using 
+CAT7A 
+Tester Old Cables are 
+not Included. 
+Job 
+3 
+-2 
+1 
+ 
+28 
+  
+Concealed 
+Conduiting 
+charges 
+Labor 
+only 
+including wall cutting 
+and resurfacing 
+Mtr 
+150 
+  
+150 
+ 
+29 
+  
+Rework Charges 
+A - Remove Ios from 
+the Rack Side and User 
+Side. 
+B. Remove All Cables 
+till rack with minimum 
+Damage. 
+C. Remove Patch Panesl 
+from Rack Side. 
+Job 
+3 
+  
+3
+
+[Page 14]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 14 of 71  
+Sr
+. 
+Name 
+Brief 
+Uni
+t 
+Tota
+l 
+Deduction 
+for 
+existing 
+Lab due 
+to re 
+Utilisatio
+n of 
+Existing 
+Material 
+Final 
+Requiremen
+t after 
+deduction 
+of OLD 
+material 
+Quoted 
+produc
+t with 
+make, 
+model 
+and 
+part 
+number 
+D. Remove Fibre cable 
+& LIU from Rack 
+ 
+• 
+Payment will be made on the basis of actual work done. After completion of work, 
+the NFSU committee will verify the actual work and certify it. Vendor may visit the 
+site location, before bidding. in case of an increase in quantity during the ongoing 
+execution of work, the successful bidder has to take approval of NFSU. 
+• 
+Civil work is not part of this i.e. Ceiling cutting, Core cutting, tile cutting, furniture 
+cutting etc. 
+• 
+The vendor needs to remove all I/O, Cables carefully to reutilise. However, for the 
+I/O, Cables are not in condition to use then it is required to use new material and 
+accordingly, the proposed quantity may be increased. 
+• 
+No expenditure over the Administrative Approval & Expenditure Sanction is 
+permissible without the approval of NFSU. In budgetary works of NFSU excess, up 
+to 10 % of Administrative Approval & Expenditure Sanction is allowed.
+
+[Page 15]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 15 of 71  
+ANNEXURE-II  
+GENERAL TERMS AND CONDITIONS 
+  
+1. Tender Fee: An amount of ₹ 1500/-(one thousand and five hundred only) By way of 
+demand draft from any Nationalized Bank /Commercial Bank and paid in favour of “National 
+Forensic Sciences University, Gandhinagar”, payable at Gandhinagar).  
+ 
+NFSU will give exemption for submission of tender fees who are registered with MSME, 
+NSIC or start-ups as recognised by DIPP. However proper and valid documents in this 
+regard must be submitted by the bidders in support of their claim. The tender fee should 
+be kept in separate covers and placed in the technical bid cover.  
+2. Earnest Money Deposit (EMD): An amount of ₹ 1,08,000/-(One Lakh and Eight Thousand 
+rupees only ) in the form of Demand Draft/Bank Guarantee (as per the format in Annexure–
+XIV) to be enclosed along with the technical bid. The E.M.D. will be drawn in favour of 
+“National Forensic Sciences University, Gandhinagar”, payable at “Gandhinagar”. The 
+validity of the EMD should be 6 (six) months from the date of issue. Any bid without EMD 
+will not be considered. EMD will be refunded to the unsuccessful bidder after the 
+finalization of the tender process. The EMD of the bidder awarded with the contract will 
+be treated as part of the security deposit towards the Performance Guarantee. No 
+interest is payable on the security deposit. A security deposit shall be forfeited if the 
+selected bidder after the award of the contract fails to execute the same.  
+ 
+NOTE: NFSU Gandhinagar will give exemption for submission of tender fee and EMD who 
+are registered with MSME or Central Purchase Organization or start-ups as recognized by 
+DIPP as per revised rule 170 of GFR -2017 only or as per amendment till date. However 
+proper and valid documents in this regard must be submitted by the bidders in support of 
+their claim.  
+3. Payment Terms & Performance Bank Guarantee (PBG): 90% (value of the delivered items 
+of the purchase order) payment will be made after the successful delivery, verification and 
+certification by the NFSU committee. A balance of 10% of the payment will be made after 
+the completion of the entire work. 
+4. After receiving of LoI, the successful bidder needs to submit a Performance Bank 
+Guarantee of 5% of the total purchase value valid for a period of 42 Months. No 
+advance/mobilization support is payable against the supply of stores.  
+5. Liquidated Damages: In the event of failure to deliver the stores beyond the specified 
+date, liquidated damages @ 0.5% per week or part thereof in respect of the value of stores 
+will be deducted, subject to a maximum of 10%; alternately the order will be cancelled and 
+the undelivered stores purchased from elsewhere at the risk and expense of the vendor. 
+6. Warranty/Guarantee & On-site skill support: Three years onsite comprehensive OEM 
+warranty for Active Components will start from the date of successful completion of work 
+and be certified by the NFSU committee. The firm has to guarantee the supply of spares 
+for an additional period of two years beyond the warranty period.
+
+[Page 16]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 16 of 71  
+7. Supply of spares and accessories: Interested vendors must be able to supply adequate 
+spares and consumables during three years of a comprehensive warranty. A vendor should 
+also ensure trouble-free service and performance for another two years beyond the three 
+Warranty Period with adequate spares and accessories.  
+8. Delivery of Stores: The store items are to be supplied and install within 90 days from the 
+date of receipt of the Purchase Order. Delivery may be made in multiple phases but limited 
+to a maximum of three phases. For passive materials like Conduit, Pipe, Cable tray etc to 
+be supplied as per actual site requirement in consultation and approval of NFSU Committee. 
+Accessories included in the labour part of BoQ may be supplied as requirements arise. 
+9. Price:  
+a. The Price should be quoted in INR only.  
+b. The price should be quoted” FOR NFSU Gandhinagar” basis. The price should be all-
+inclusive.  
+c. The unit prices should be for the same unit as indicated in the Schedule to tender 
+enquiry and not for any other unit.  
+d. Discounts, if any, should be indicated separately/prominently.  
+e. Offers should normally be on a fixed and firm price basis. Any clause making price 
+variation will not be acceptable.  
+10. Bid: Primary Bid and Technical Bid should be submitted in two separate sealed envelopes 
+quoting the reference number on the top of the envelope. The tender Fee and EMD are 
+part of the Primary bid and should be in one sealed envelope and the Technical Bid 
+documents in a separate sealed envelope, stapled with the packet containing Technical 
+Bid documents.  
+11. Award of the Contract: The order shall be placed to a successful L1 bidder. 
+12. Acceptance of Tender: The Authority of NFSU Gandhinagar does not bind itself to accept 
+the lowest priced bid and reserves the right to reject any or the entire tender bids 
+received without assigning any reason thereof.  
+13. The addendum/corrigendum if any shall be published on NFSU’s Website i.e. 
+www.nfsu.ac.in and CPP Portal.  
+14. Extra Features: If the bidder provides any other extra features on the Hardware or 
+Software which are not mentioned in the tender product specifications, then that shall be 
+highlighted in clear terms, with documentary evidence/literature.  
+15. Compliance List: The proposal should be properly indexed and a compliance list against the 
+technical specifications should be provided.  
+16. Service: In response to ensure the quality of services, the deputed Engineer from the 
+OEM/Vendor shall have qualifications and experience as mentioned in the scope of work of 
+the tender.  
+17. Installation and Commissioning: The supplier must ensure the timely delivery and 
+installation of all the items as per Annexure-I within 90 days from the date of receipt of 
+the Purchase Order. If any of the location/buildings is not ready for installation, then 
+Bidder has to install the supplied items at any time whenever it will be ready (in less than
+
+[Page 17]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 17 of 71  
+5 working days after intimated by NFSU) within the warranty period of 3 years without 
+any additional charges.  
+18. Site preparation: The supplier shall inform to the NFSU about the site preparation, if any, 
+needed for the installation of equipment, immediately after the receipt of the purchase 
+order. The supplier must provide complete details regarding space and all the other 
+infrastructural requirements needed for the equipment, which the NFSU should arrange 
+before the arrival of the equipment to ensure its timely installation and smooth operation 
+thereafter. The supplier shall visit the NFSU and see the site where the equipment is to 
+be installed and may offer his advice and render assistance to the NFSU in the preparation 
+of the site and other pre-installation requirements. 
+19. The benefit of any downward price revision (revision on account of budget/financial policy, 
+tax revision, EPZ etc.) is to be given to NFSU Gandhinagar by the selected OEM/vendor.  
+20. Past Performance of the Vendors will be judged at the time of Technical Evaluation.  
+21. The NFSU does not bind itself to offer any explanation to those bidders whose technical 
+bids have not been found acceptable by the Technical Evaluation Committee of the NFSU.  
+22. Bidders should enclose the following documents:  
+a. Purchase order to be placed on: Should be mentioned in the quotation with full 
+address, email address, phone number.  
+b. Performa Price Bid (without mentioning the price rate) may be attached with 
+technical bids.  
+23. All tenders are to be handed over in sealed covers to the office of Campus Director, NFSU, 
+Gandhinagar-382007. The bids (Primary bid and technical bid) once submitted shall be the 
+property of the NFSU and shall not be returned to the vendor in future. For speed post, 
+the Postal Address is as under:  
+National Forensic Sciences University 
+Sector–9, Gandhinagar-382007, Gujarat-India. 
+ 
+24. Opening of Price Bids: The Price Bid(s) of only those vendor(s) who are found technically 
+qualified will be opened and the same will be opened before the technically qualified 
+vendor(s).  
+25. The tenderer or his/her authorized representative (with a proper authorization letter for 
+attending the opening of technical bids and also for the opening of price bids) may choose 
+to be present at the time of the opening of Technical Bids/Price Bids if invited by NFSU. 
+26. Disqualification of Tender: The tenders are liable for rejection in the following 
+circumstances:  
+a) If they are not in line with the terms and conditions of this tender notice  
+b) Conditional quotations  
+c) Incomplete tenders  
+d) Tenders without Tender Fee and EMD  
+e) Tenders submitted through Fax or e-mail  
+f) If Two Bid System is not followed
+
+[Page 18]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 18 of 71  
+g) Bid received simultaneously from Indian agent on behalf of Principal/OEM and 
+Principal/OEM itself for same item/product/services in the same tender  
+h) The Firm need to quote all the charges /prices as per the tender requirement, if 
+any firm quotes nil charges/consideration, the bid shall be treated as an 
+Unresponsive bid and will not be considered.  
+IMPORTANT  
+I. 
+NFSU may accept or reject any or all the bids in part or in full without assigning any 
+reason and does not bind itself to accept the lowest bid. The NFSU at its discretion 
+may change the quantity/upgrade the criteria/drop any item or part thereof at any 
+time before placing the Purchase Order.  
+II. 
+A bid submitted with false information will not only be rejected but also the OEM/ 
+vendor will be debarred from participation in future tendering process.  
+III. 
+In case of any dispute, the decision of the NFSU shall be final and binding on the 
+bidders.  
+IV. 
+In case the due date for opening the tender happens to be a holiday, the same will 
+be opened on the next working day. The timings will however remain unchanged. 
+Please Note that the NFSU remains closed on Saturday & Sunday.  
+V. 
+The Bidders are requested to submit the bids after the issue of clarifications only 
+considering the changes made if any. Bidders are fully responsible for 
+incorporating/complying with the changes/amendments issued if any, in their bid.
+
+[Page 19]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 19 of 71  
+ANNEXURE-III 
+INSTRUCTIONS & SPECIAL CONDITIONS 
+  
+1. General: Only reputed Manufacturers/Service provider or their authorized vendors, having 
+registered office in India are invited to quote. 
+A. Compliance under Rule 144 (xi) of the General Financial Rules (GFRs) 2017  
+I. As per Ministry of Finance, Department of Expenditure, Public Procurement Division 
+Order (Public Procurement No.1) issued from file No.6/18/2019-PPD dated 23rd 
+July, 2020 & the Order issued from time to time regarding Restrictions under Rule 
+144 (xi) of the General Financial Rules (GFRs) 2017, it is directed that any bidder from 
+a country which shares a land border with India will be eligible to bid in any procurement 
+whether of goods, services (including consultancy services and non-consultancy services) 
+or works (including turnkey projects) only if the bidder is registered with the Competent 
+Authority i.e. the Department for Promotion of Industry and Internal Trade (DPIIT).  
+  
+II. “Bidder” (including the term ‘tenderer’, ‘consultant’ or ‘service provider’ in certain 
+contexts) means any person or firm or company, including any member of a consortium or 
+joint venture (that is an association of several persons, or firms or companies), every 
+artificial juridical person not falling in any of the descriptions of bidders stated 
+hereinbefore, including any agency, branch or office controlled by such person, 
+participated in a procurement process.  
+  
+III. “Bidders from a country which shares a land border with India” for the purpose of this 
+Order means:  
+a) An entity incorporated, established or registered in such a country; or  
+b) A subsidiary of an entity incorporated, established or registered in such a country; or  
+c) An entity substantially controlled through entities incorporated, established or 
+registered in such a country; or  
+d) An entity whose beneficial owner is situated in such a country; or  
+e) An Indian (or other) agent of such an entity; or  
+f) A natural person who is the citizen of such a country; or  
+g) A consortium or joint venture where any member of the consortium or joint venture 
+falls under any of the above  
+  
+IV. The beneficial owner for the purpose of above will be as under: -  
+1. In case of a company or Limited Liability Partnership, the beneficial owner is the natural 
+person(s), who, whether acting alone or together, or through one or more juridical 
+person, has a controlling ownership interest or who exercise control through other 
+means.  
+Explanation-  
+a) “Controlling ownership interest” means ownership of or entitlement to more than 
+twenty-five per cent of share or capital or profit of the company;
+
+[Page 20]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 20 of 71  
+b) “Control” shall include the right to appoint majority of the directors or to control the 
+management of policy decisions including by virtue of their shareholding or 
+management rights or share holders agreements or voting agreements;  
+2. In case of a partnership firm, the beneficial owner is the natural person (s) who, whether 
+acting alone or together, or through one or more juridical person, has ownership of 
+entitlement to more than fifteen percent of capital or profits of the partnership;  
+3. In case of an unincorporated association or body of individuals, the beneficial owner is 
+the natural person(s), who, whether acting alone or together, or through one or more 
+juridical person, has ownership of or entitlement to more than fifteen percent of the 
+property or capital or profits of such association or body of individuals;  
+4. Where no natural person is identified under (1) or (2) or (3) above, the beneficial owner 
+is the relevant natural person who holds the position of senior managing official;  
+5. In case of a trust, the identification of beneficial owner(s) shall include identification 
+of the author of the trust, the trustee, the beneficiaries with fifteen percent or more 
+interest in the trust and any other natural person exercising ultimate effective control 
+over the trust through a chain of control or ownership  
+  
+V. An agent is a person employed to do any act for another or to represent another in 
+dealings with a third person.  
+VI. For Works contracts, including Turnkey contracts, the successful bidder shall not be 
+allowed to subcontract works to any contractor from a country, which shares a land 
+border with India unless such contractor is registered with the Competent Authority.  
+  
+A certificate (duly filled & signed) shall be submitted by bidders in the tender documents 
+regarding their compliance with the said order as per Annexure X. If the certificate 
+submitted by a bidder whose bid is accepted is found to be false, this would be a ground for 
+immediate termination and further legal action in accordance with law.  
+  
+B. Compliance under Rule 153 (iii) of the General Financial Rules (GFRs) 2017  
+It is mandatory for bidders to quote items having 20% or more local content. Refer revised 
+Public Procurement (Preference to Make in India), Order 2017 P-45021/2/2017-B.E-II dated 
+16.09.2020 and the order issued from time to time by the Department for Promotion of 
+Industry & Internal Trade (DPNFSU), Ministry of Commerce and Industry, Government of 
+India. (Submit duly filled Annexure XI for the same).  
+  
+Also, as per DPIIT, Ministry of Commerce and Industry OM vide no: P-45021/102/2019BE-II-
+Part(1) (E-50310) dated 04.03.2021, bidders can’t claim themselves as Class-I local supplier / 
+Class-II local supplier by claiming the services such as transportation, insurance, installation, 
+commissioning, training and after sales service support like AMC/CMC etc. as local value 
+addition.  
+2. Deviation from Specifications: It is in the interest of the tenderer to study the specifications 
+in the tender schedule thoroughly before quoting so that, if the tenderer makes any deviations,
+
+[Page 21]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 21 of 71  
+the same are prominently brought out in the body of the tender. If you need to add any optional 
+items to your system in order to meet our specifications, you are requested to quote for the 
+total including the option required to suit our requirements. Otherwise, your tender will not be 
+considered at all.  
+3. TENDERERS SHALL SUBMIT ALONG WITH THEIR TENDER: (i) Complete address and tele 
+links for contact persons of manufacturers/service providers/authorized vendor’s offices 
+dealing with this purchase. (ii) Name and full address of the manufacturers/service 
+providers/authorized vendors (iii) Country of origin is to be provided for each item. (iv) 
+Purchase order to be placed on: Should be mentioned in the quotation with full address.  
+4. Performance Bank Guarantee: The bidders to provide Performance Bank Guarantee of the 
+amount equivalent to the 5% of the cost of contract value from any Nationalized Bank. The 
+Performance Bank Guarantee is required for the entire period of Warranty. Performance Bank 
+Guarantee must remain valid for a period 42 Months.  
+5. Guarantee: The tenderer has to declare that the goods sold to the buyer under this contract 
+shall be of the best quality and workmanship and shall be strictly in accordance with the 
+specifications.  
+6. Patent Rights: The Supplier shall indemnify NFSU Gandhinagar against all third-party claims 
+of infringement of patent, trademark or industrial design rights, copy rights arising from use 
+of the Goods or any part thereof in India.  
+7. Indemnity: The vendor shall indemnify, protect and save NFSU Gandhinagar against all claims, 
+losses, costs, damages, expenses, action suits and other proceedings, resulting from 
+infringement of any law pertaining to patent, trademarks, copyrights etc. or such other 
+statutory infringements in respect of all the equipment(s) supplied by him.  
+8. Jurisdiction: All questions, disputes, or differences arising under, out of or in connection with 
+the contract, if concluded, shall be subject to the exclusive jurisdiction at the place from 
+which the acceptance of Tender is issued i.e. Jurisdiction of Gujarat High Court. Acceptance 
+to this effect is also necessary at the time of opening of the Technical Bid.
+
+[Page 22]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 22 of 71  
+ANNEXURE–IV 
+ 
+MINIMUM ELIGIBILITY CRITERIA / PRE-QUALIFICATION CRITERIA 
+ 
+1. Registration Certificate(s): Certificate of incorporation, PAN, GST, Trade License and so 
+on shall be provided with the bid document.  
+2. Past Experience of the Bidder:  
+a. The bidder should have a minimum 05 years of working experience in India in the domain 
+of network infrastructure, with a sales and support office in Gujarat. Documentary 
+proof must be submitted.  
+b. Experience in terms of execution of orders. 
+Similar Experience: Completed or substantially completed similar works during last 7 
+years should be either of the following: - 
+i 
+Three similar completed works each costing not less than the amount equal to 
+40(forty) percent of the estimated cost; or 
+ii 
+Two similar completed works each costing not less than the amount equal to 50 
+(fifty) percent of the estimated cost; or 
+iii 
+One similar completed work costing not less than the amount equal to 80 (eighty) 
+percent of the estimated cost; 
+iv 
+ [similar work mean = Deployment of Networking components for building-Campus 
+LAN including active passive Data center and Wi-Fi components On SITC (Supply, 
+Installation, Testing and Commissioning) basis in India within the last 07 years.) 
+having a cable capacity to handle Class FA Traffic 
+v 
+Note: Work experience certificate from the public sector or from a public listed 
+company/private company/Trusts having an annual turnover of Rs 500 crore and 
+above subject to the same being issued from their Head office by a person of the 
+company duly enclosing his authorisation by the Management for issuing such 
+credentials. Certificates from the private individual shall not be accepted. 
+3. ISO Certification, if any: The bidder should have valid ISO 9001 Certification. A valid 
+certificate must be produced along with the bid.  
+4. Annual Average Turnover for the last three Financial Years: The bidder should have a 
+minimum average turnover of Rs. 144 Lakh during the last three financial years. Bidder shall 
+enclose CA Certificate/Audited statement.  
+5. Income Tax Return (ITR) for the last three Financial Years: Bidder shall enclose ITR 
+certificates.  
+6. Non-blacklisting certificate: The bidder should not have been suspended or blacklisted by 
+any Govt. Organization. (An undertaking to this effect must be submitted by the bidder 
+that the firm has not been suspended or blacklisted by any Govt. Organization in the 
+past or as on the date of bidding).  
+7. OEM Qualifications:  
+a. OEM of active components should have registered office and spare depot in India.  
+Documentary proof from OEM must be submitted
+
+[Page 23]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 23 of 71  
+b. OEM of active components should have Industry presence in India for more than 10 
+years. Declaration from OEM must be submitted.  
+c. OEM of active components should have 24 x7 toll-free call centres for providing 
+technical assistance. Documentary proof from OEM must be submitted.  
+d. All active networking components (Switch, Transceiver, Stacking Module) must be 
+from a single OEM make.  
+e. All passive networking components (except Network Rack and cable tray) components 
+must be from a single OEM make.  
+f. The OEM of all networking components should be ISO certified organization. 
+Documentary proof needs to be submitted.  
+g. All components shall be ROHS compliant. Declaration of ROHS shall be available in 
+product datasheets.
+
+[Page 24]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 24 of 71  
+ANNEXURE–V  
+ 
+TECHNICAL BID 
+Sr. 
+No  
+Description 
+Submitted 
+(Yes/No) 
+(If Yes- 
+Page No.) 
+1  
+Certificate of Incorporation / Registration Certificate  
+  
+2  
+Trade License, PAN and GST Certificates  
+  
+3  
+Status of the Tenderer  
+(Attach documents, if registered company/ partnership 
+/propriety ship)  
+  
+4  
+Manufacturer (OEM certificate) or Service Provider /Dealer  
+(Authorization and OEM certificate from Manufactures)  
+  
+5  
+Details of key top official/authorized official with e -mail id 
+and contact number  
+  
+6  
+Experience certificate (Previous Work Orders/Purchase 
+Orders, list of satisfactory clients with address and contact 
+number, completion certificates, etc.)  
+  
+7  
+Technical Compliance Statement, as per Annexure - VI  
+  
+8  
+ISO Certificate, if any  
+  
+9  
+Average turnover of company in last three financial years, if 
+any. Bidder shall enclose CA Certificate/Audited statement as 
+per Annexure - VII  
+  
+10  
+Income Tax Returns of last three financial years  
+  
+11  
+Technical BOQ as per Annexure-I  
+  
+12  
+Declaration as per Annexure - VIII  
+  
+13  
+Undertaking / Self-Certification of non-blacklisting as per  
+Annexure - IX  
+  
+14  
+Certification on compliance under Rule 144 (xi) of the  
+General Financial Rules (GFRs) 2017 as per Annexure–X  
+  
+15  
+Certification on Compliance under Rule 153 (iii) of the General 
+Financial Rules (GFRs) 2017 / Declaration for Local content as 
+per Annexure - XI  
+  
+16  
+All other documents as per Annexure-IV and XIV  
+  
+17  
+Other documents like literature, catalogues etc.,(if any)
+
+[Page 25]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 25 of 71  
+NOTE:  
+1 Attach all relevant documents in the same serial order as above, properly indexed, 
+and duly signed.  
+2 This is to be submitted in a separate sealed envelope super scribing “TECHNICAL 
+BID”, Notice inviting Tender Reference no. and name of the bidder.  
+3 Price bid of that company/firm only will be opened which do technically qualify, for further 
+consideration. Attach all relevant documents in the same serial order as above, 
+properly indexed, duly signed and sealed.  
+  
+ 
+Signature and seal of the Bidder
+
+[Page 26]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 26 of 71  
+ANNEXURE - VI  
+ 
+TECHNICAL COMPLIANCE STATEMENT  
+ 
+The bidder needs to provide complete technical details of the offered components. Only 
+mentioning Yes / No in compliance is not acceptable. Cross references to proper technical 
+datasheets/spec sheets/website links need to be provided against each parameter.  
+Sr. 
+Name 
+Brief 
+1 
+Cat7 Cable 
+Cable, Copper, Category 7A, 1000 MHz E10, 4 Pair, Solid, S/FTP, 
+LSOH-1, Violet, Reel, 500 Meter 
+2 
+Switch Side 
+Patch Cord 1 Mtr 
+Copper, Patch Cord, Tera 4-Pair, RJ45, Category 6A, S/FTP, T568B, 
+Stranded, CM/LSOH-1, Ivory Cable, White Boot, 1 Meter. 
+3 
+User Side Patch 
+Cord 2 Mtr 
+Copper, Patch Cord, Tera 4-Pair, RJ45, Category 6A, S/FTP, T568B, 
+Stranded, CM/LSOH-1, Ivory Cable, White Boot, 2 Meter 
+4 
+Patch Panel for 
+Rack 
+Copper, Patch Panel, Tera / MAX, Empty, Shielded, 24 Openings, 
+Flat, 1U, Black, Fixed Wire Manager 
+5 
+Network IO 
+User Side 
+Copper, Outlet, TERA, Shielded, Category 7A/8, TERA, Flat, Black, 
+Tool-Less, T568A/B, with Door, 22-23 AWG - User Side 
+6 
+Network IO Rack 
+Side 
+Copper, Outlet, TERA, Shielded, Category 7A/8, TERA, Flat, Black, 
+Tool-Less, T568A/B, with Door, 22-23 AWG- Panel Side 
+7 
+Face Plat User 
+Side 
+Faceplate, 10G, British, Single Gang, 2 Openings, MX, White 
+8 
+Fibre Cable 
+Single Mode 
+Cable, 6 Fibre, XGLO, Single mode, OS1/OS2, 8.3/125, Outside 
+Plant, Loose Tube, Armored, MDPE, Black, 1 Kilometer, International 
+9 
+Fibre LIU for 
+Fibre 
+termination on 
+both sides 
+12 port Fibre, Enclosure, LightVerse Core, Rack Mount, 1U, Fixed 
+Access, 4 Openings, Black - Fully Loaded - (With Required 
+Accessories GLO® Jumper & Pigtails–192 Quick-Pack® RIC Splice 
+Cassette (RSC) - 192LC Blade Patch Fibre Jumpers–8 Fibre, Adapter 
+Plate, Light Verse, Flat, Black Housing, Blank - 24Splice Cassette 
+and Trays–8 
+10 
+Fibre Patch Cord 
+Fibre, Jumper, Duplex, XGLO, Single mode, LC UPC, LC UPC, 
+OS1/OS2,8.3/125, Yellow, LSOH-3C,03 Meter 
+11 
+24 Port PoE 
+Switch 
+OS6360-P24X fixed 1RU chassis 24 PoE 1G BaseT, 2 fixed 
+RJ45/SFP+ combo (1G/10G), 2 fixed 1G/10G SFP+ uplink/VFL ports. 
+Internal AC PSU (380 budget), includes country-specific power 
+cord, guides and 19" rack mount kit.3 Yr premium onsite Support for 
+OS(including replacement in NBD when Required). Includes 24x7 
+phone support, problem diagnosis, access to support portal, software 
+updates and upgrades. 1 meter long 10Gbs SFP+ direct stacking cable 
+for OS6360 24 and 48 port models.
+
+[Page 27]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 27 of 71  
+Sr. 
+Name 
+Brief 
+12 
+48 Port PoE 
+Switch 
+OS6360-P48X fixed 1RU chassis 48 PoE 1G BaseT, 2 fixed 
+RJ45/SFP+ combo (1G/10G), 2 fixed 1G/10G SFP+ uplink/VFL ports. 
+Internal AC PSU (760W budget), includes country specific power 
+cord, guides and 19" rack mount kit.3 Yr Partner Support Plus for 
+OS(including replacement in NBD when Required). Includes 24x7 
+phone support, problem diagnosis, access to support portal, software 
+updates and upgrades. 1 meter long 10Gbs SFP+ direct stacking cable 
+for OS6360 24 and 48 port models 
+13 
+Transceiver 
+10 Gigabit optical transceiver SFP+). Supports monomode fibre over 
+1310nm wavelength nominal) with an LC connector. Typical reach of 
+10Km  
+14 
+Rack 
+Wall mounted enclosure of dimension 600W X15UX600D with front 
+sheet steel glass door, top and bottom cover with cable entry 
+provision, integrated side walls, 1 pair of 19" angles with wall 
+mounting provision, captive hardware(pack of 20).Color RAL 7035 
+230V AC Fan, 90 cfm with 1 mts long cable.19" mountable socket 
+strips with 6 nos of 5A universal sockets with 2 mts long power 
+chord.1U 19" Horizontal Cable Manager (Zinc blue plated) Wall 
+Bracket Kit 10mm (pk of 4) 
+15 
+Cable Tray 
+SIZE: 300MM X 50MM X 16SWG WITH ALL ACCESSORIES LIKE 
+8MM G.I.FULL THREADED ROD,8MM FASTNER, 8MM NUT AND 
+WASHER, G.I.PERFORATED “ C” CHANNEL SIZE: 35MM X 15MM 
+X 18SWG 
+16 
+  
+40mm 6kg ISI Make HDPE Pipe for Fibre Laying 
+  
+  
+Labour 
+17 
+  
+Laying of HDPE Pipe for Fibre 
+18 
+  
+Laying of UTP Cable along with all accessories which includes 32 mm 
+conduits with accessories, Trunking and casing capping as per the 
+requirement(Bidder to select the accessory material as per the 
+specifications definedin section 6) (Actual meter reading generated 
+during the cable testing will be considered for payment) 
+19 
+  
+Laying of Fibre Cable in Pre Laid Conduits and TRUNKS 
+20 
+  
+Fixing of Rack upto18 U Size with Dressing 
+21 
+  
+Fixing of Patch Panel in the Rack along with Termination of Cable 
+22 
+  
+Termination of CAT7A IO on the user side 
+23 
+  
+Termination of CAT7A IO on the jack Panel Side 
+24 
+  
+Fixing of LIU in The Rack 
+25 
+  
+Fibre Splicing Per core 
+26 
+  
+Labelling and Feruling Charges
+
+[Page 28]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 28 of 71  
+Sr. 
+Name 
+Brief 
+27 
+  
+Fibre and Copper Certification Charges (Third Party). Copper 
+Certification to be done using CAT7A Tester Old Cables are not 
+Include. 
+28 
+  
+Concealed Conduiting charges Labor only including wall cutting and 
+resurfacing 
+29 
+  
+Rework Charges 
+A - Remove Ios from Rack Side and User Side. 
+B. Remove All Cables till rack with minimum Damage. 
+C. Remove Patch Panesl from Rack Side. 
+D. Remove Fibre cable & LIU from Rack.*Civil work is not part of 
+this i.e. Ceiling cutting,Core Cut etc. 
+ 
+Line Item No : 1 Cat7 Cable 
+Sr. 
+No. 
+Parameter 
+Minimum Technical Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+no.  
+A 
+  
+Eligibility Criteria for OEM supplying 
+Passive Components (UTP) 
+  
+  
+  
+1 
+  
+OEM should have direct presence in 
+India more than at-least 10 years 
+(Supporting documents required)  
+  
+  
+  
+2 
+  
+All 
+passive 
+network 
+components 
+quoted by the bidder should be from a 
+single OEM (Copper). 
+  
+  
+  
+3 
+  
+Material 
+should 
+have 
+been 
+manufactured 
+in 
+OEM” 
+s 
+own 
+manufacturing 
+facilities, 
+not 
+outsourced. 
+  
+  
+  
+4 
+  
+Partner shall be certified by the OEM 
+and shall have valid certifications for 
+the same.  
+  
+  
+  
+5 
+  
+OEM shall provide 25 years of 
+application 
+performance 
+warranty 
+certificate (from OEM via certified 
+installer) after successful testing 
+done 
+by 
+certified 
+installer 
+and 
+material purchase from original source 
+of OEM.  
+  
+  
+  
+6 
+  
+OEM 
+should 
+be 
+a 
+member 
+of 
+Telecommunications 
+Industry
+
+[Page 29]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 29 of 71  
+Sr. 
+No. 
+Parameter 
+Minimum Technical Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+no.  
+Association (TIA) Information and 
+Communications 
+Technology 
+(ICT) 
+Companies ICT Green Initiative to 
+support energy efficient environment  
+7 
+  
+OEM 
+should 
+have 
+members 
+participating 
+in 
+International 
+Standard Bodies like EIA-TIA, ISO-
+IEC (Supporting documents required)  
+  
+  
+  
+8 
+  
+OEM should have supplied the CAT7A 
+Components (Cable+ Accessories) in 
+02 projects of at least 500 nodes in 
+any large institute. 
+  
+  
+  
+B 
+  
+Standards & Regulations 
+  
+  
+  
+1 
+  
+This Section provides a description 
+for a generic structured cabling 
+system based on the latest edition of 
+the applicable standards: 
+  
+  
+  
+  
+  
+ISO-IEC 
+11801:2002-A1:2008 
+and 
+A2:2010 and subsequent addendums 
+and revisions 
+  
+  
+  
+  
+  
+EN 
+50173-1 
+to 
+-3:2009 
+and 
+subsequent addendums and revisions 
+  
+  
+  
+  
+  
+EIA-TIA 568-C2 and subsequent 
+addendums and revisions 
+  
+  
+  
+2 
+  
+The objective of the Section is to 
+define 
+the 
+structured 
+cabling 
+independently of the applications, 
+which it can support. 
+  
+  
+  
+3 
+  
+Furthermore, to allow for future 
+demands, the cabling system must be 
+easy to expand and maintain. 
+  
+  
+  
+4 
+  
+The successful bidder shall meet or 
+exceed all requirements for the 
+cabling system described in this 
+document. 
+  
+  
+  
+5 
+  
+The Cabling system installation shall 
+be realized in accordance with the 
+recommendations made in the relevant
+
+[Page 30]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 30 of 71  
+Sr. 
+No. 
+Parameter 
+Minimum Technical Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+no.  
+standards, 
+manufacturer’s 
+recommendations 
+and-or 
+best 
+industry practices 
+6 
+  
+This Tender document covers the 
+design, supply, installation, testing and 
+commissioning of a Category 7A 
+cabling system 
+  
+  
+  
+7 
+  
+Tenderers shall propose and submit a 
+Category 7A universal cabling system 
+which will function for voice, data and 
+LAN 
+communications, 
+for 
+video 
+applications etc.  
+  
+  
+  
+8 
+  
+The cabling system is also open to new 
+applications which require a Class FA - 
+Cat 7A cabling system as defined in 
+the latest editions of the standards: 
+ISO-IEC 11801:2002-A1:2008 
+  
+  
+  
+9 
+  
+The terminology and references in 
+this document as well as the Link-
+Channel Performance figures for Class 
+FA 
+are 
+based 
+on 
+ISO-IEC 
+11801:2002-A1:2008 and A2:2010  
+  
+  
+  
+10 
+  
+The data sheets and warranty modules 
+showing 
+the 
+features 
+and 
+the 
+guaranteed values compliant to the 
+requirements of this will be attached 
+by the successful bidder to his tender 
+documents. 
+  
+  
+  
+11 
+  
+All proposed components including the 
+patch cords have to be produced by 
+the same manufacturer. This issue will 
+ensure that a « Class FA Channel 
+Warranty » can be obtained from the 
+manufacturer. 
+  
+  
+  
+12 
+  
+Manufacturer 
+should 
+demonstrate 
+guaranteed 
+minimum 
+worst 
+case 
+performance to be compliant with 
+class EA and class FA channel
+
+[Page 31]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 31 of 71  
+Sr. 
+No. 
+Parameter 
+Minimum Technical Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+no.  
+performance according to the ISO-
+IEC 11801:2002-A1:2008 and A2:2010 
+standard 
+13 
+  
+Components used must be compliant 
+with both 
+the 
+Category 
+6 
+and 
+Category 7A standard mentioned 
+above. 
+  
+  
+  
+14 
+  
+The 
+performance 
+of 
+both 
+the 
+components and the link should show 
+stable performance up to 1000MHz in 
+order to allow for possible future 
+applications 
+  
+  
+  
+15 
+  
+The performance of the channel 
+should show stable performance  
+  
+  
+  
+  
+  
+Up to 500MHz when using Cat.6A 
+patch cords 
+  
+  
+  
+  
+  
+Up to 1000MHz when using Cat.7A 
+patch cords 
+  
+  
+  
+16 
+  
+The system supplier must be able to 
+demonstrate in house design and 
+manufacturing 
+expertise 
+for 
+all 
+components used (e.g. cables, outlets, 
+panels and cords) in order to ensure 
+compatibility of system elements. 
+  
+  
+  
+C 
+  
+Horizontal 
+distribution 
+cable 
+(CATEGORY 7A) 
+  
+  
+  
+1 
+  
+The horizontal 4 pair cable shall be 
+Category 7A S-FTP to meet the 
+quality 
+and 
+performance 
+criteria 
+necessary to ensure correct operation 
+of the installation in future and 
+compliance with the warranty. 
+  
+  
+  
+2 
+  
+The installation design and routing of 
+all cables shall take account of the 
+manufacturer limits for the continued 
+performance of the cables and the 
+compliance with the warranty
+
+[Page 32]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 32 of 71  
+Sr. 
+No. 
+Parameter 
+Minimum Technical Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+no.  
+3 
+  
+The cable shall be a 4 twisted pair 
+cable with AWG 23 conductors. 
+Having an external sheathing in a 
+material that does not give off toxic 
+fumes (Zero Halogen) in case of fire 
+and 
+offer 
+flame 
+propagation 
+retardant 
+properties. 
+Traceability 
+numbers should accompany the cable 
+supplied from the manufacturers 
+packaging to assist in quality validation 
+of the installed cable 
+  
+  
+  
+4 
+  
+This very high performance cable shall 
+have an individual and a common 
+screen 
+construction 
+to 
+provide 
+outstanding EMC performance up to 
+1000 
+MHz 
+All four pairs shall be individually 
+screened with an aluminum foil. 
+  
+  
+  
+5 
+  
+The cable shall be shielded with a 
+tinned copper braid. 
+  
+  
+  
+6 
+  
+All pairs must have impedance of 100 
+Ohms, with a tolerance of +-- 15 Ohms. 
+  
+  
+  
+7 
+  
+The 
+Bidding 
+Successful 
+bidders 
+should give the following compliance 
+for the details mentioned herewith : 
+  
+  
+  
+  
+Type 
+Qualified against IEC 61156-5 and 
+tested up to 1000Mhz or Greater 
+  
+  
+  
+  
+Material: 
+  
+  
+  
+  
+a 
+Conductors 
+23 AWG solid bare copper or better 
+  
+  
+  
+b 
+Shield  
+Individually foiled Pairs Plus overall 
+copper braid 
+  
+  
+  
+  
+Shield 
+Material  
+Aluminum-Polyester 
+  
+  
+  
+c 
+Insulation 
+Polyethylene 
+  
+  
+  
+  
+Insulation 
+diameter 
+should be 1.40mm 
+  
+  
+  
+d 
+Jacket 
+Low Smoke Zero Halogen (LSZH)
+
+[Page 33]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 33 of 71  
+Sr. 
+No. 
+Parameter 
+Minimum Technical Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+no.  
+  
+Jacket 
+Diameter  
+should be 7.7mm or less  
+  
+  
+  
+e 
+Operating 
+temperature 
+-20 Deg. C to +75 Deg. C 
+  
+  
+  
+f 
+Frequency 
+tested up to 
+Minimum 1000 MHz 
+  
+  
+  
+g 
+Packing 
+Box of 1000 meters-500 meters 
+  
+  
+  
+j 
+Performance 
+characteristics 
+to be provided 
+along with bid 
+Attenuation, 
+Pair-to-pair 
+and 
+PS 
+NEXT, 
+ELFEXT 
+and 
+PSELFEXT, 
+Return Loss & ACR  
+  
+  
+  
+  
+ROHS 
+Should be ROHS compliant 
+  
+  
+  
+ 
+Line Item No 2 & 3 : Switch Side Patch Cord 1 Mtr / User Side Patch Cord 2 Mtr 
+Sr. 
+No. 
+Parameter  Minimum Technical Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+no.  
+ 
+  
+Cat6A-TERA-RJ45 
+Data 
+Patch 
+Cords 
+(1mtr,2 mtr)  
+  
+  
+  
+1 
+  
+In order to achieve backward compatibility 
+in case the OEM is offering TERA 
+Connectors TERA to RJ45 Patch cords 
+should be offered ensuring maximum of 
+10G Speeds.  
+  
+  
+  
+2 
+  
+All patch cord cable shall be made from 
+LSHF-FR material. 
+  
+  
+  
+3 
+  
+All TERA-RJ45 Data patch cords will be 
+full screened. The jacket should be made 
+from LSHF-FR material. 
+  
+  
+  
+4 
+  
+The TERA-RJ45 cords must be fitted with 
+Category 7A-TERA RJ45 PLUGS, booted 
+at each connector 
+  
+  
+  
+5 
+  
+The 
+Category 
+TERA-RJ45 
+shall 
+be 
+compliant to the ISO-IEC 11801 AMD.2 ( 
+A2: 2010 ) Category 7A, 6A, 5e  
+  
+  
+  
+6 
+  
+The characteristic impedance of the pairs 
+must be identical to that of the horizontal 
+cables. The Patch Cords shall have a
+
+[Page 34]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 34 of 71  
+Sr. 
+No. 
+Parameter  Minimum Technical Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+no.  
+guaranteed performance level of greater 
+than 750 insertions without degradation to 
+the performance level of the solution 
+7 
+  
+The cable used for the Patch Cords shall 
+be S-FTP patch cable. The cable shall be a 
+4-twisted 
+pair 
+cable 
+with 
+stranded 
+conductors. Traceability numbers should 
+accompany the cables supplied from the 
+manufacturer's packaging to assist in 
+quality validation of the installed cable 
+  
+  
+  
+8 
+  
+All pairs must have an impedance of 100 O 
+hms. 
+  
+  
+  
+ 
+Line Item No 4 : Patch Panel for Rack 
+Sr. 
+No. 
+Parameter  
+Minimum 
+Technical 
+Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+no.  
+E 
+  
+24 Port Modular Patch Panels 
+  
+  
+  
+1 
+  
+Shall 
+be 
+unloaded 
+with 
+individually replaceable 24 nos. 
+Can accept Cat7A jack 
+  
+  
+  
+2 
+  
+Shall be 19” rack mountable, 
+Straight and of 1U height & 
+complete 
+with 
+all 
+mounting 
+accessories, inbuilt rare support 
+bard  
+  
+  
+  
+3 
+  
+Shall 
+have 
+labels 
+for 
+identification of ports 
+  
+  
+  
+4 
+  
+Should have integrated bonding 
+bar 
+for 
+grounding 
+individual 
+jacks 
+  
+  
+  
+5 
+  
+Shall be RoHS Compliant 
+  
+  
+  
+6 
+  
+Shall have minimum 25-Year 
+Extended Product Warranty and 
+System Warranty 
+  
+  
+  
+7 
+  
+Shall be having a 6-port module 
+construction for better cable 
+dressing at the rear
+
+[Page 35]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 35 of 71  
+Sr. 
+No. 
+Parameter  
+Minimum 
+Technical 
+Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+no.  
+  
+  
+Shall have Comprehensive port 
+numbering on front 
+  
+  
+  
+9 
+  
+The Bidding Successful bidders 
+should 
+give 
+the 
+following 
+compliance 
+for 
+the 
+details 
+mentioned herewith : 
+  
+  
+  
+  
+Type 
+24-port, Unloaded shielded Jack 
+panel 
+which 
+is 
+Standards-
+compliant  
+  
+  
+  
+a 
+Ports 
+24 
+  
+  
+  
+b 
+Port 
+arrangement 
+Modules 
+of 
+6-ports 
+each, 
+arranged 1port x 6. 
+  
+  
+  
+c 
+Category 
+Should accept Shielded RJ45-
+Tera Jacks 
+  
+  
+  
+d 
+Circuit 
+Identification 
+Scheme 
+Icons on each of 24-ports 
+  
+  
+  
+e 
+Port 
+Identification 
+9mm or 12mm Labels on each of 
+24-ports 
+  
+  
+  
+f 
+Height 
+1 U (1.75 inches) 
+  
+  
+  
+g 
+Interface 
+Polyester Moulding Compound, 
+Black 
+  
+  
+  
+h 
+Panel 
+Black, powder coated steel  
+  
+  
+  
+j 
+ROHS-ELV 
+Statement 
+  
+  
+  
+ 
+Line Item No 5 & 6 : Network IO User Side / Network IO Rack Side 
+Sr. 
+No. 
+Parameter  
+Minimum 
+Technical 
+Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+no.  
+D 
+  
+Telecom Outlets (TO) 
+  
+  
+  
+1 
+  
+The connector shall be fully 
+compliant to the IEC 60603-7-
+71- IEC 61076-3-104 Ed. 2 
+standard that define the Cat.7A 
+connector to be used to form a 
+Class FA channel as specified in 
+the 
+ISO-IEC 
+11801-A2:2010 
+standard.
+
+[Page 36]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 36 of 71  
+Sr. 
+No. 
+Parameter  
+Minimum 
+Technical 
+Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+no.  
+2 
+  
+Should 
+be 
+suitable 
+for 
+termination of solid Conductor 
+Gauge of 24-22 AWG and 
+stranded Conductor Gauge of 
+26-24 AWG 
+  
+  
+  
+3 
+  
+Contact Base Material should be 
+Beryllium copper 
+  
+  
+  
+4 
+  
+Contact Plating Material should 
+be Gold 
+  
+  
+  
+5 
+  
+Contact Plating Thickness should 
+be 1.27 μm  
+  
+  
+  
+6 
+  
+To ensure protection against 
+EMI, all connectors must be 
+fully screened with 360° EMC 
+protection. 
+  
+  
+  
+7 
+  
+The Bidding Successful bidders 
+should 
+give 
+the 
+following 
+compliance 
+for 
+the 
+details 
+mentioned herewith  
+  
+  
+  
+  
+Type 
+Modular Jacks exceeds ISO-
+IEC 
+11801-A2:2010 
+requirements for Category 7A 
+component 
+performance 
+@ 
+1000Mhz  
+  
+  
+  
+a 
+Modular Jack 
+750 mating cycles 
+  
+  
+  
+b 
+Modular Jack & 
+Lacing Fixture 
+Zinc Alloy 
+  
+  
+  
+c 
+Wiring blocks 
+Polycarbonate, 
+with 
+a 
+Flammability Rating of UL 94 V-
+0 
+  
+  
+  
+d 
+Voltage 
+150VAC Max 
+  
+  
+  
+e 
+Current 
+0.75A 
+  
+  
+  
+f 
+Operating Temp 
+minus 20 to 60 deg C 
+  
+  
+  
+i 
+Environmental 
+conditions 
+  
+  
+  
+  
+i-i 
+Flowing Mixed gas 
+corrosion 
+resistance 
+According to IEC 60068-2-60
+
+[Page 37]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 37 of 71  
+Sr. 
+No. 
+Parameter  
+Minimum 
+Technical 
+Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+no.  
+i-ii 
+Performance 
+Characteristics to 
+be provided with 
+bid 
+Attenuation, NEXT, PS NEXT, 
+FEXT and Return Loss 
+  
+  
+  
+i-iii 
+ROHS 
+Should be ROHS compliant 
+  
+  
+  
+ 
+Line Item No 7 : Face Plat User Side 
+Sr. 
+No. 
+Parameter  Minimum Technical Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+no.  
+1 
+  
+One Port face plate along with 
+Faceplate (1) Label (2) Label cover 
+(2) Mounting screw etc 
+Colour White/Ivory 
+Shape: Squre / Rectangle 
+  
+  
+  
+ 
+Line Item No 8 : Fibre Cable Single Mode 
+Sr
+. 
+No 
+Paramete
+r 
+Minimum Technical Specification 
+Complianc
+e 
+(Yes/No) 
+Ref 
+Page 
+No 
+1 
+  
+1.5 SINGLE mode Optical Fibre Cable 
+  
+  
+2 
+  
+Have a Yellow colored round lead free cable jacket 
+available in OFNR, OFNP and LSOH constructions. 
+  
+  
+3 
+  
+Shall contain a Rip Cord applied longitudinally under the 
+cable jacket for easy cable jacket removal 
+  
+  
+4 
+  
+Shall contain a lightweight Central Strength member 
+located in the middle of the fibre bundles. 
+  
+  
+5 
+  
+Shall contain both colour-coded buffered fibres as well 
+as colour-coded buffer tubes. 
+  
+  
+6 
+  
+Cables shall have length markings in 2 ft. increments 
+  
+  
+7 
+  
+Fibre will be available in strand counts of 4, 6, 12, 24, 
+48, 72, and 96. 
+  
+  
+8 
+  
+Shall meet these minimum performance parameters: 
+  
+  
+9 
+  
+Minimum 
+Performance 
+Parameters 
+Fibre 
+Single 
+mode 
+  
+  
+Cable Type 
+Outdoor 
+  
+  
+1310 nm 
+0.5
+
+[Page 38]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 38 of 71  
+Sr
+. 
+No 
+Paramete
+r 
+Minimum Technical Specification 
+Complianc
+e 
+(Yes/No) 
+Ref 
+Page 
+No 
+for Qualified 
+Cables 
+Maximum 
+Attenuatio
+n (dB/km) 
+1550 nm 
+0.5 
+  
+  
+Zero 
+dispersion 
+Wavelengt
+h (nm) 
+1300-1324 
+  
+  
+Slope 
+(nm²-km) 
+<0.093 
+  
+  
+Index of 
+Refraction 
+1310 nm 
+1.467 
+  
+  
+1550 nm 
+1.468 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+· Ethernet 
+Applications 
+Supported 
+  
+  
+  
+  
+  
+10 
+  
+Application 
+Distance 
+(m) 
+  
+  
+  
+  
+11 
+  
+10GBASE-L 
+(1310 nm) 
+8,000 
+  
+  
+  
+  
+12 
+  
+10GBASE-E 
+(1550 nm) 
+30,000 
+  
+  
+  
+  
+13 
+  
+10G 
+Fibre 
+Channel 
+(Serial-1310 
+nm) 
+10,000 
+  
+  
+  
+  
+14 
+  
+10G 
+Fibre 
+Channel 
+(WDM-1310 
+nm) 
+10,000 
+  
+  
+  
+  
+15 
+  
+1000BASE-LX 
+(1300 nm) 
+5,000 
+  
+  
+  
+  
+16 
+  
+Fibre Channel 
+266/1062 
+(1300 nm) 
+10,000 
+  
+  
+  
+  
+17 
+  
+ATM 
+52/155/622 
+(1300 nm) 
+15,000 
+  
+  
+  
+  
+  
+  
+· 
+Physical 
+Characteristic
+s:
+
+[Page 39]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 39 of 71  
+Sr
+. 
+No 
+Paramete
+r 
+Minimum Technical Specification 
+Complianc
+e 
+(Yes/No) 
+Ref 
+Page 
+No 
+18 
+  
+Mode 
+and 
+Fibre Type 
+Singlemode   
+  
+  
+  
+19 
+  
+Core 
+Size 
+(Microns) 
+8.3 ± 1.0 
+  
+  
+  
+  
+20 
+  
+Cladding 
+Size 
+(Microns) 
+125 ± 1.0 
+  
+  
+  
+  
+21 
+  
+Coating 
+Size 
+(Microns) 
+245 ± 10 
+  
+  
+  
+  
+22 
+  
+Buffer 
+Size 
+(Microns) 
+900 ± 50 
+  
+  
+  
+  
+23 
+  
+Core Cladding 
+Concentricity 
+(Microns) 
+≤ 0.8 
+  
+  
+  
+  
+ 
+Line Item No 9 : Fibre LIU for Fibre termination both side 
+S
+r. 
+N
+o 
+Param
+eter  
+Minimum Technical Specification 
+Compli
+ance 
+(Yes/
+No) 
+Ref 
+Page 
+No 
+1 
+  
+1 optical fibre product specifications 
+  
+  
+2 
+  
+In addition to meeting the specifications outlined in 
+ANSI/TIA-568.3-D 
+and 
+ISO/IEC 
+11801-1, 
+the 
+requirements in this section must also be met for all applicable 
+optical fibre products as listed below. 
+  
+  
+3 
+  
+1.1 Outlets/Adapters 
+  
+  
+4 
+  
+All optical fibre outlets/adapters shall meet the following 
+characteristics: 
+  
+  
+5 
+  
+Be provided in options that offer interfaces to ST, SC, LC, and 
+FC terminated jumpers and pigtails. 
+  
+  
+6 
+  
+Be available with Beige, Aqua, Erika Violet & Blue Adapter colors   
+  
+7 
+  
+Provide for a maximum of 6-Duplex ST, 6-Duplex SC, 6-Quad LC, 
+or 4-Duplex FC on a single adapter plate. 
+  
+  
+8 
+  
+Be available in an LC Shuttered option when Quad LC adapters 
+are used. 
+  
+  
+9 
+  
+Offer a 3 and 4-Duplex ST to SC adapter. 
+  
+  
+1
+0 
+  
+Offer a 12, 24, 72 and 96 Strand MTP to MTP pass through 
+adapter plate
+
+[Page 40]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 40 of 71  
+S
+r. 
+N
+o 
+Param
+eter  
+Minimum Technical Specification 
+Compli
+ance 
+(Yes/
+No) 
+Ref 
+Page 
+No 
+11   
+LC, SC and ST universally accept both multimode and single mode 
+connectors. 
+  
+  
+1
+2 
+  
+Include Red, Blue, Black and Clear colored icons for port 
+identification 
+  
+  
+1
+3 
+  
+Be made of high impact flame-retardant thermoplastic. 
+  
+  
+1
+4 
+  
+1.2 SINGLEMODE Pigtails 
+  
+  
+1
+5 
+  
+Be available in standard lengths of 1 meter with custom lengths 
+available upon request 
+  
+  
+1
+6 
+  
+Offer a superior connector polish that meets Telcordia and 
+ISO/IEC specifications for end-face geometry (including radius 
+of curvature, apex offset, and spherical undercut) 
+  
+  
+1
+7 
+  
+Use 
+connectors 
+that 
+are 
+complaint 
+with 
+color 
+coding 
+specifications as listed in ANSI/TIA-568-C.3 and ANSI/TIA-
+598-C 
+  
+  
+1
+8 
+  
+Utilize precision zirconia ceramic ferrules on connectors 
+  
+  
+1
+9 
+  
+Include dust caps on all assemblies 
+  
+  
+2
+0 
+  
+Be 100% optically tested to meet the following performance 
+specifications: 
+  
+  
+2
+1 
+  
+Parameter 
+  
+  
+2
+2 
+  
+Max. Insertion Loss (dB) 0.40 (0.1 Typical) 
+  
+  
+2
+3 
+  
+Min. Return Loss (dB) 55 (60 Typical) 
+  
+  
+2
+4 
+  
+1.4 FIBRE Enclosures 
+  
+  
+2
+5 
+  
+All interconnect centers, panels and trays (units) shall provide 
+cross-connect, inter-connect, splicing capabilities and contain 
+cable management for supporting and routing the fibre 
+cables/jumpers. 
+  
+  
+2
+6 
+  
+Not be bigger then one rack mount space and accommodate up to 
+36 ports for SC, LC or ST adapter plates or 18 ports for FC.
+
+[Page 41]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 41 of 71  
+S
+r. 
+N
+o 
+Param
+eter  
+Minimum Technical Specification 
+Compli
+ance 
+(Yes/
+No) 
+Ref 
+Page 
+No 
+2
+7 
+  
+Have preloaded adapter plates with ST and SC fibre adapters in 
+6 and 8-port version, as well as a 12 port version for the SC, and 
+LC adapters. 
+  
+  
+2
+8 
+  
+Have blank adapter plates for future growth of the fibre 
+infrastructure.  
+  
+  
+2
+9 
+  
+Have six and eight port fibre adapter plates, which allow for 
+color coding connectors. 
+  
+  
+3
+0 
+  
+Have fibre adapter plates with snap-in installation and one-finger 
+removal. 
+  
+  
+3
+1 
+  
+Accommodate hybrid adapter plates for ST-to-SC or SC-to-ST 
+connections. 
+  
+  
+3
+2 
+  
+Be modular in design with internal fibre managers that provide 
+slack storage to comply with fibre bend radius and the 
+recommended slack storage length. 
+  
+  
+3
+3 
+  
+Have a snap-on front shield to be used as a labeling surface and 
+to protect jumpers. This shield can also relocate to another 
+position during termination to maintain circuit identification. 
+  
+  
+3
+4 
+  
+Accommodates a splice tray for mechanical or fusion splices. 
+  
+  
+3
+5 
+  
+Be available with a drawer mechanism, which allows the panel to 
+slide forward or to the rear, and has defeatable latches to allow 
+removal from the rack or cabinet. 
+  
+  
+3
+6 
+  
+Must be certified by Underwriters Laboratories to United 
+States Standards and C22.2 Canadian Telecommunications 
+Standards. 
+  
+  
+ 
+Line Item no 10 : Fibre Patch Cord 
+Sr. 
+No 
+Parameter  Minimum Technical Specification 
+Compliance 
+(Yes/No) 
+Ref 
+Page 
+No 
+1 
+  
+1.3 SINGLEMODE Patch Cords 
+  
+  
+2 
+  
+Be available in standard lengths of 1, 2, 3 and 5 meters 
+with custom lengths available upon request 
+  
+  
+3 
+  
+Utilize duplex singlemode fibre cable that is available 
+in OFNR, ONFP and LSOH grade and meets the 
+requirements of NEC/NFPA 70 Section 770-51(B)
+
+[Page 42]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 42 of 71  
+4 
+  
+Have a push-pull boot design to enhance installation 
+and removal in high density patching environments. 
+  
+  
+5 
+  
+Have a rotating latch design to aid in polarity changes 
+that does not damage the connector or the cable. 
+  
+  
+6 
+  
+Have an available APC face geometry 
+  
+  
+7 
+  
+Offer a superior connector polish that meets 
+Telcordia and ISO/IEC specifications for end-face 
+geometry (including radius of curvature, apex offset, 
+and spherical undercut) 
+  
+  
+8 
+  
+Use cable and connectors that are complaint with 
+color coding specifications as listed in ANSI/TIA-
+568-C.3 and ANSI/TIA-598-C 
+  
+  
+9 
+  
+Utilize 
+precision zirconia 
+ceramic 
+ferrules 
+on 
+connectors 
+  
+  
+10 
+  
+Include dust caps on all assemblies 
+  
+  
+11 
+  
+Be 100% optically tested to meet the following 
+performance specifications: 
+  
+  
+12 
+  
+Parameter 
+  
+  
+13 
+  
+Max. Insertion Loss (dB) 0.40 (0.1 Typical) 
+  
+  
+14 
+  
+Min. Return Loss (dB) 55 (60 Typical) 
+  
+  
+ 
+Line Item No 11 : 24 Port PoE Switch 
+Sr. No. Parameters 
+Minimum Technical Specification 
+Compliance 
+(Yes/No) 
+Ref. 
+Page 
+No 
+1 
+Port Density 
+24 X 1G RJ-45 PoE+ Ports with 380W power 
+budget 
+  
+  
+2 x 1G/10G SFP+ Ports and 2 x 1G SFP/Base-
+T Combo Ports upgradable to 2 x 10G SFP+ 
+Ports  
+2 
+Power Supply  
+Internal Power Supply  
+  
+  
+3 
+Virtual 
+Chassis/ 
+Stacking 
+Option 
+Upto 4 Switches or more 
+  
+  
+4 
+RAM  
+1 GB or better 
+  
+  
+5 
+Flash 
+1 GB or better 
+  
+  
+6 
+Switching 
+Capacity and 
+forwarding 
+Rate 
+128 Gbps or better and 68 Mpps or better
+
+[Page 43]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 43 of 71  
+Sr. No. Parameters 
+Minimum Technical Specification 
+Compliance 
+(Yes/No) 
+Ref. 
+Page 
+No 
+7 
+Latency & 
+MTBF 
+Latency: 
+< 
+4 
+µs 
+MTBF: 1447 k hours 
+  
+  
+8 
+Layer 2 
+Features 
+Mac Address:16K or more 
+VLAN: 
+4K 
+or 
+more 
+System 
+Policies: 
+1.5K 
+or 
+more 
+Max 
+Jumbo 
+Frame: 
+9216 
+bytes 
+Multicast Group: up to 1000 
+  
+  
+10 
+Quality of 
+Service 
+Auto 
+QoS 
+for 
+switch 
+management 
+traffic,Policy-based 
+QoS, 
+Traffic 
+Prioritization, 
+Priority 
+Queues: 
+Eight 
+hardware-based 
+queues per port, SPQ, WRR 
+  
+  
+11 
+Protocol 
+Support 
+Static Routing, MSTP, RSTP, PVST+,IPv6 
+Tunneling, LACP, LAG, IGMPv3, DHCP, 
+DHCP82,DHCP Relay for IPv4/IPv6,Multiple 
+microcode image support with fallback 
+recovery, ARP,SDN support through Restful 
+API and openflow 1.3.1 
+  
+  
+12 
+Management 
+Loopback 
+IP 
+address 
+support 
+for 
+management per service, Policy- and port-
+based mirroring, Remote port mirroring, 
+sFlow v5 and Remote Monitoring (RMON), 
+Unidirectional 
+Link 
+Detection 
+(UDLD),Digital 
+Diagnostic 
+Monitoring 
+(DDM), LLDP-MED, NTP,MVRP, SNMP, sflow 
+or equivalent 
+  
+  
+13 
+Security 
+Dynamic 
+change 
+of 
+authentication 
+(CoA),MAC-based authentication for non-
+IEEE 802.1X hosts, MAC address lockdown, 
+Prevention from ARP attacks, Web based 
+Authentication, Autosensing IEEE 802.1X 
+multi-client, 
+multi-VLAN support,RFC 1321 MD5, RFC 
+2284 PPP EAP,RFC 1826/1827/4303/4305 
+Encapsulating Payload (ESP) and crypto 
+algorithms, RFC 2104 HMAC Message 
+Authentication, Built-in CPU protection 
+against malicious attacks
+
+[Page 44]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 44 of 71  
+Sr. No. Parameters 
+Minimum Technical Specification 
+Compliance 
+(Yes/No) 
+Ref. 
+Page 
+No 
+14 
+Resiliency 
+Unified management, control and virtual 
+chassis technology, Virtual Chassis 1+N 
+redundant 
+supervisor 
+manager, 
+Virtual 
+Chassis 
+In-Service 
+Software 
+Upgrade 
+(ISSU),Smart 
+continuous 
+switching 
+technology, IEEE 802.3ad/802.1AX Link 
+Aggregation 
+Control Protocol (LACP) and static LAG 
+groups across modules 
+  
+  
+15 
+Operating 
+Temperature 
+and Humidity 
+Temperature: 0 to 45Deg 
+Humidity: 5% to 95% (non-condensing) 
+  
+  
+16 
+Safety 
+Certifications 
+CE, EN 55022, RoHS, WEEE 
+  
+  
+US UL 60950, CSA22.2 
+FIPS 140-2 
+EN 60825-1/2 Laser, IEC 62368-1 
+17 
+SFP 
+SFP should be of same make as switch. 
+  
+  
+18 
+  
+The Switch shall work with on premise and 
+cloud based NMS without change in 
+hardware/software/OS Image. 
+  
+  
+19 
+  
+3 Years onsite from OEM with Toll free 
+number for support in India 
+  
+  
+ 
+Line Item No 12 : 48 Port PoE Switch 
+Sr. No. Parameters 
+Minimum specification 
+Compliance 
+(Yes/No) 
+Ref 
+Page 
+No 
+1 
+Port Density 
+48 X 1G RJ-45 PoE+ Ports with 760W power 
+budget. It should support Multigig on 
+minimum 2 Ports out of 48 Ports.  
+  
+  
+2 x 1G/10G SFP+ Ports and 2 x 1G SFP/Base-
+T Combo Ports upgradable to 2 x 10G SFP+ 
+Ports.  
+2 
+Power Supply  
+Internal Power Supply  
+  
+  
+3 
+Virtual 
+Chassis/ 
+Stacking 
+Option 
+Upto 4 Switches or more
+
+[Page 45]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 45 of 71  
+Sr. No. Parameters 
+Minimum specification 
+Compliance 
+(Yes/No) 
+Ref 
+Page 
+No 
+4 
+RAM  
+1 GB or better 
+  
+  
+5 
+Flash 
+1 GB or better 
+  
+  
+6 
+Switching 
+Capacity and 
+forwarding 
+Rate 
+182 Gbps or better and 135 Mpps or better    
+  
+7 
+Latency & 
+MTBF 
+Latency: 
+< 
+4 
+µs 
+MTBF: 789 k hours 
+  
+  
+8 
+Layer 2 
+Features 
+Mac 
+Address:16K 
+or 
+more 
+VLAN: 
+4K 
+or 
+more 
+System 
+Policies: 
+1.5K 
+or 
+more 
+Max 
+Jumbo 
+Frame: 
+9216 
+bytes 
+Multicast Group: up to 1000 
+  
+  
+10 
+Quality of 
+Service 
+Auto QoS for switch management traffic, 
+Policy-based QoS, Traffic Prioritization, 
+Priority Queues: Eight hardware-based 
+queues per port, SPQ, WRR 
+  
+  
+11 
+Protocol 
+Support 
+Static Routing, MSTP, RSTP, PVST+,IPv6 
+Tunneling, LACP, LAG, IGMPv3, DHCP, 
+DHCP82,DHCP Relay for IPv4/IPv6,Multiple 
+microcode image support with fallback 
+recovery, ARP,SDN support through Restful 
+API and openflow 1.3.1 
+  
+  
+12 
+Management 
+Loopback 
+IP 
+address 
+support 
+for 
+management per service, Policy- and port-
+based mirroring, Remote port mirroring, 
+sFlow v5 and Remote Monitoring (RMON), 
+Unidirectional Link Detection (UDLD),Digital 
+Diagnostic Monitoring (DDM), LLDP-MED, 
+NTP,MVRP, SNMP, sflow or equivalent 
+  
+  
+13 
+Security 
+Dynamic 
+change 
+of 
+authentication 
+(CoA),MAC-based authentication for non-
+IEEE 802.1X hosts, MAC address lockdown, 
+Prevention from ARP attacks, Web based 
+Authentication, Autosensing IEEE 802.1X 
+multi-client,multi-VLAN support,RFC 1321 
+MD5, 
+RFC 
+2284 
+PPP 
+EAP,RFC 
+1826/1827/4303/4305 
+Encapsulating
+
+[Page 46]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 46 of 71  
+Sr. No. Parameters 
+Minimum specification 
+Compliance 
+(Yes/No) 
+Ref 
+Page 
+No 
+Payload (ESP) and crypto algorithms, RFC 
+2104 HMAC Message Authentication, Built-
+in CPU protection against malicious attacks 
+14 
+Resiliency 
+Unified management, control and virtual 
+chassis technology, Virtual Chassis 1+N 
+redundant 
+supervisor 
+manager, 
+Virtual 
+Chassis 
+In-Service 
+Software 
+Upgrade 
+(ISSU),Smart 
+continuous 
+switching 
+technology, IEEE 802.3ad/802.1AX Link 
+Aggregation 
+Control Protocol (LACP) and static LAG 
+groups across modules 
+  
+  
+15 
+Operating 
+Temperature 
+and Humditiy 
+Temperature: 
+0 
+to 
+45Deg 
+Humidity: 5% to 95% (non-condensing) 
+  
+  
+16 
+Safety 
+Certifications 
+CE, EN 55022, RoHS, WEEE 
+  
+  
+US UL 60950, CSA22.2 
+FIPS 140-2 
+EN 60825-1/2 Laser, IEC 62368-1 
+17 
+SFP 
+SFP should be of same make as switch. 
+  
+  
+18 
+  
+The Switch shall work with on-premise and 
+cloud 
+based NMS without change in 
+hardware/software/OS Image. 
+  
+  
+19 
+  
+3 Years onsite warranty from OEM with 
+Toll free number for support in India 
+  
+  
+ 
+Line Item No 12 : Transceiver 
+Sr. 
+No. 
+Parameter  Minimum Technical 
+Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+No 
+1 
+  
+SFP should be of same make as 
+switch. 
+  
+  
+  
+ 
+Line Item No 14 : Rack
+
+[Page 47]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 47 of 71  
+Sr. 
+No. 
+Parameter 
+Minimum Technical Specification 
+Compliance 
+(Yes/No) 
+Ref 
+Page 
+no. 
+1 
+OEM 
+Certificate 
+ISO 14001 for Environmental management 
+system 
+  
+  
+ISO 45001 For Occupational health and safety 
+management system 
+  
+  
+ISO 9001 Quality management system 
+  
+  
+OEM Have direct service office in Gujarat 
+  
+  
+2 
+Product 
+compliance 
+comply with EIA 310 ,DIN 41494 , IEC 
+297standards 
+  
+  
+3 
+Construction 
+Welded 
+  
+  
+4 
+Material 
+CRCA Sheet 
+  
+  
+5 
+Depth 
+600 mm Minimum 
+  
+  
+6 
+Width 
+600 mm Minimum 
+  
+  
+7 
+Colour 
+RAL 7035 With electro-phoretic (EC) dip coat 
+primed to 20 microns and then powder coated to 
+RAL 7035 textured pure polyester (PP) to 
+average 80 to 120 microns 
+  
+  
+8 
+Front door 
+Glass door with 4mm Thickness with lock and 
+key arrangement 
+  
+  
+9 
+Cooling 
+Fan at Top 90 CFM 
+  
+  
+10 
+Cable entry 
+Top and bottom 
+  
+  
+11 
+Cable 
+manager 
+Horizontal - 2 Nos With captive Hardware 
+packet of 20 Nos 
+  
+  
+12 
+PANEL 
+Horizontal - 5Amp 5 Socket with fuse 
+  
+  
+ 
+Line Item No 15: Cable Tray 
+Sr. 
+No. 
+Parameter  Minimum Technical Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+no.  
+1 
+  
+Providing and fixing approved make 
+Perforated C type cable tray. Made 
+from CR sheet steel. The cable tray 
+should be single or double bended as per 
+required and as per IS 2062-1079 and 
+shall be coated with hot dip galvanizing 
+as per IS 2629-4759. With coupler plate 
+- Fish plate and GI hardware like nut - 
+bolt and washers etc. erected on existing
+
+[Page 48]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 48 of 71  
+Sr. 
+No. 
+Parameter  Minimum Technical Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+no.  
+support as per Specification and as per 
+instruction of engineer in charge. 
+ 
+Line Item No 16: HDPE Pipe 
+Sr. 
+No. 
+Parameter  Minimum Technical 
+Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page no.  
+1 
+  
+40mm 6 Kg ISI Make HDPE 
+Pipe for Fibre Laying 
+  
+  
+  
+ 
+Line Item No 18: Laying of UTP Cable along with all accessories which includes 32 mm 
+conduits with accessories, Trunking and casing capping as per the requirement (Bidder to 
+select the accessory material as per the specifications defined in bid) (Actual meter reading 
+generated during the cable testing will be considered for payment). 
+Sr. 
+No. 
+Parameter  
+Minimum Technical Specification 
+Compliance 
+(Yes/No) 
+Deviation  Ref 
+Page 
+no.  
+1.  Conduits and 
+accessories 
+UPVC HMS Type 32” Conduits and 
+accessories 
+manufactured 
+in 
+accordance with IS: 9537 Part 3, BS: 
+EN 61386–21 for UPVC conduits, IS: 
+3419 and BS: 4607 for UPVC fittings. 
+ 
+ 
+ 
+2.  Trunking 
+Trunking (100x100 & 100x50 mm) 
+manufactured in accordance with 
+Indian Standards IS: 14927 Part 2 
+and BS: EN 50085-2-1. Consisting of 
+ 
+ 
+ 
+3.  Casing 
+Capping 
+16x16 
+Casing 
+capping 
+with 
+accessories like Coupler; Elbow ; T 
+etc. 
+ 
+ 
+ 
+ 
+ 
+25x16 
+Casing 
+Capping 
+with 
+accessories like Coupler; Elbow ; T 
+etc. 
+ 
+ 
+ 
+ 
+Line Item No 27: Fibre and Copper Certification Charges (Third Party). Copper 
+Certification to be done using CAT7A Tester. 
+Sr 
+No 
+Paramete
+r 
+Specifications 
+Complianc
+e 
+(Yes/No) 
+Deviatio
+n  
+Ref 
+Page 
+no.  
+A 
+  
+TESTING
+
+[Page 49]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 49 of 71  
+Sr 
+No 
+Paramete
+r 
+Specifications 
+Complianc
+e 
+(Yes/No) 
+Deviatio
+n  
+Ref 
+Page 
+no.  
+1 
+  
+The manufacturer of the cabling system shall 
+provide copper (Data) and optical fibre 
+testing procedures that clearly describes 
+the tools and settings to be used to ensure 
+correct measurements of the system. 
+ 
+  
+  
+B 
+  
+Testing of Class FA 
+ 
+  
+  
+1 
+  
+The specific Class FA testing procedure 
+edited by the cabling system manufacturer 
+has to be strictly followed to ensure correct 
+measurement and validity of the warranty. 
+ 
+  
+  
+2 
+  
+To avoid being obliged to test against Class 
+EA figures, each Cat7A connector shall be 
+quality checked on continuity of pins 36, 45 
+(full testing of all connector components 
+during production - No Sampling allowed) 
+ 
+  
+  
+3 
+  
+100 % of the installed horizontal links have 
+to be tested. The testing procedure has to 
+comply with the standard ISO-IEC 11801-
+A1:2008 
+A2:2010, 
+according 
+to 
+the 
+procedure for “Channel”. The measurements 
+shall be done using a Level iv testing 
+equipment suitable to test Class F links up to 
+600-1000 
+MHz 
+as 
+defined 
+in 
+the 
+manufacturer test procedure 
+ 
+  
+  
+4 
+  
+The testing equipment must be yearly 
+calibrated by the manufacturer and the copy 
+of the calibration certificate must be 
+included in the warranty request.  
+ 
+  
+  
+5 
+  
+The following parameters have to be 
+tested: 
+ 
+  
+  
+I 
+  
+Pair continuity (wire map) 
+ 
+  
+  
+Ii 
+  
+Pair length 
+ 
+  
+  
+Iii 
+  
+DC Loop resistance per pair 
+ 
+  
+  
+Iv 
+  
+Insertion loss (Attenuation) per pair 
+ 
+  
+  
+V 
+  
+NEXT and Power sum NEXT for every pair 
+combination 
+ 
+  
+  
+Vi 
+  
+FEXT and Powersum FEXT for every pair 
+combination
+
+[Page 50]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 50 of 71  
+Sr 
+No 
+Paramete
+r 
+Specifications 
+Complianc
+e 
+(Yes/No) 
+Deviatio
+n  
+Ref 
+Page 
+no.  
+Vii 
+  
+The ACR (ratio NEXT- insertion loss) for 
+every pair combination 
+ 
+  
+  
+Vii
+i 
+  
+Return 
+Loss 
+(impedance 
+match, 
+retransmitted signal) 
+ 
+  
+  
+Ix 
+  
+The complete test results of all the installed 
+channels 
+have 
+to 
+be 
+collected 
+in 
+a 
+certification file. It is preferred to have the 
+test result in electronic format to facilitate 
+the certification procedure. 
+ 
+  
+  
+X 
+  
+Apart from all the test results mentioned 
+above, a few more documents have to be 
+added to the file: a list of material used for 
+the project, a design of the network, a Cable 
+schedule per distributor and finally all the 
+necessary co-ordinates of the persons 
+responsible of the project 
+ 
+  
+  
+C 
+  
+FIBRE TESTING (SM) 
+ 
+  
+  
+1 
+  
+The procedure shall comply with the ISO-
+IEC 14763-3 standard and to the successful 
+bidder testing procedure. 
+ 
+  
+  
+2 
+  
+The ISO-IEC 14763 standard specifies the 
+implementation and operation of customer 
+premises cabling. 
+ 
+  
+  
+3 
+  
+The part 3 of this ISO document (14763-3) 
+details test procedures for optical fibre 
+cabling designed in accordance with ISO-IEC 
+11801:2002 and installed according to the 
+recommendations 
+of 
+ISO-IEC 
+14763-2 
+(Planning 
+and 
+installation 
+of 
+customer 
+premises cabling). 
+ 
+  
+  
+4 
+  
+Fibre-optic Tests applied to links and exclude 
+equipment and work area cord. 
+ 
+  
+  
+5 
+  
+OF Attenuation testing is used to verify the 
+initial performance of the installed link. 
+ 
+  
+  
+6 
+  
+All 100 % of the installed OF links have to be 
+tested and must pass the acceptance 
+criteria.
+
+[Page 51]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 51 of 71  
+Sr 
+No 
+Paramete
+r 
+Specifications 
+Complianc
+e 
+(Yes/No) 
+Deviatio
+n  
+Ref 
+Page 
+no.  
+7 
+  
+The attenuation of the link is measured using 
+the insertion loss method. This method uses 
+an optical source and an optical power meter 
+to compare the difference between two 
+optical power levels. 
+ 
+  
+  
+8 
+  
+When testing Single Mode optical fibre 
+links with a Light Source and a Power 
+Meter, this measurement kit has to be 
+capable of operating at 1550nm and 
+1310nm for Single Mode  
+ 
+  
+  
+9 
+  
+The test scenario with a Light Source and a 
+Power Meter shall be one of the following for 
+each link: 
+ 
+  
+  
+10 
+ 
+  
+Single direction @ 1550nm and @ 1310nm 
+for single mode fibres  
+ 
+  
+  
+11 
+  
+The 
+use 
+of 
+certification 
+tool 
+is 
+recommended. Those tools are capable of 
+producing a report logging the time of the 
+test the link identification under test, the 
+link length, the attenuation at the window 
+tested and the acceptable link attenuation. 
+The report shall also identify in which 
+direction the testing was implemented. 
+ 
+  
+  
+13 
+  
+When testing with basic optical source and 
+power meter, the operator will fill up a 
+report logging the time of the test, the 
+link identification under test, the link 
+length and attenuation at the window 
+tested 
+ 
+  
+  
+14 
+ 
+  
+The report shall also identify in which 
+direction the testing was implemented. 
+ 
+  
+  
+15 
+  
+Acceptable 
+link 
+attenuation 
+(To 
+be 
+calculated) 
+ 
+  
+  
+16 
+  
+The measured attenuation of the links shall 
+have a lower value than the acceptable link 
+attenuation calculated 
+ 
+  
+  
+D 
+  
+PROCEDURES 
+ 
+  
+  
+1 
+  
+Installation Guide
+
+[Page 52]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 52 of 71  
+Sr 
+No 
+Paramete
+r 
+Specifications 
+Complianc
+e 
+(Yes/No) 
+Deviatio
+n  
+Ref 
+Page 
+no.  
+  
+  
+All the components have to be installed 
+according to the procedures prescribed by 
+the supplier. During the whole period of 
+installation, the installer has to put an 
+Installation Guide at the disposal of the 
+client, so that he can verify the compliance 
+of the installation to the guidelines of the 
+supplier. 
+ 
+  
+  
+4 
+  
+MANAGEMENT OF THE PROJECT 
+ 
+  
+  
+i 
+  
+Design of the Project 
+ 
+  
+  
+  
+The successful bidder will first make a site 
+survey. This will allow him to propose a 
+complete turnkey solution without any 
+additional costs for unforeseen labour. If 
+possible, the installer will try to use the 
+existing infrastructure as much as possible. 
+If cable supports or cable trays are lacking, 
+then the successful bidder will have to 
+evaluate the necessary quantities and price 
+and take up a detailed description in his 
+offer. 
+ 
+  
+  
+ii 
+  
+To 
+ensure 
+the 
+transparency 
+of 
+the 
+installation and the maintenance of the 
+structured cabling, the successful bidder has 
+to develop a numbering and labelling scheme 
+in agreement with the owner or his 
+representative in order to identify all the 
+components without ambiguity. After the 
+temporary reception of the project, all the 
+cabinets” layouts and the drawings of the 
+building will be completed referring to this 
+numbering scheme. 
+ 
+  
+  
+5 
+  
+Project Management 
+ 
+  
+  
+i 
+  
+For the complete duration of the project 
+the successful bidder will appoint a Project 
+Manager, who will work on his behalf. He 
+will be the single point of contact to ensure 
+a smooth co-ordination with the Customer
+
+[Page 53]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 53 of 71  
+Sr 
+No 
+Paramete
+r 
+Specifications 
+Complianc
+e 
+(Yes/No) 
+Deviatio
+n  
+Ref 
+Page 
+no.  
+ii 
+  
+For project with an estimated duration over 
+2 weeks, the successful bidder will appoint a 
+Site Manager, who will be permanently 
+present on site on behalf of the successful 
+bidder. The Site Manager will report to the 
+Project Manager, in order to ensure that the 
+correct information is communicated from 
+the commencement of the project until the 
+hand-over of the network to the client
+
+[Page 54]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 54 of 71  
+ANNEXURE–VII  
+FINANCIAL INFORMATION  
+Details to be furnished duly supported by figures in Balance Sheet/ Profit & Loss Account for 
+the last three preceding years (Financial years) duly certified by the Chartered Accountant, 
+as submitted by the applicant to the Income Tax Department (copies to be attached).  
+  
+Sl. 
+No. 
+Details  
+Year Ending 31st March 
+Year 1  
+Year 2  
+Year 3  
+01  Gross annual turnover in the similar works 
+  
+  
+  
+02  Profit (+) / Loss (-)  
+  
+  
+  
+  
+1. 
+Income Tax Return  
+2. 
+Audited Account of the company for last three years  
+3. 
+Income Tax, PAN Details 
+4. 
+GST No.  
+  
+This is to certify that to the best of my knowledge and belief, the aforesaid facts and 
+figures are correct and in conformity with the books of accounts of the establishment.  
+  
+  
+  
+Dated:  
+Signature of Chartered Accountant 
+(with seal and membership number)
+
+[Page 55]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 55 of 71  
+ANNEXURE - VIII 
+  
+DECLARATION  
+1. I, -------------------------------------------------Son /Daughter of Shri ----------------------- 
+------------------------------------------Proprietor/Partner/CEO/MD/Director/Authorized  
+Signatory of M/s.------------------------------------------------------am competent to sign 
+this declaration and execute this tender document.  
+2. Tender ref no: __________________________________ dated: ____________ . I 
+have carefully read and understood all the terms and conditions of the tender and hereby 
+convey my acceptance of the same.  
+3. The information/ documents furnished along with the above application are true and 
+authentic to the best of my knowledge and belief.  
+4. I/we am/are well aware of the fact that furnishing of any false information/ fabricated 
+document would lead to rejection of my tender at any stage besides liabilities towards 
+prosecution under appropriate law.  
+5. Each page of the tender document and papers submitted by my Company is authenticated, 
+sealed and signed, and I take full responsibility for the entire documents submitted.  
+  
+  
+Signature of the Authorized Person  
+Date: -----------------------------  
+Full Name: ----------------------------  
+Place: ---------------------------- 
+Company Seal: --------
+
+[Page 56]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 56 of 71  
+ANNEXURE - IX  
+  
+UNDERTAKING REGARDING BLACKLISTING / NON–DEBARMENT  
+(On Company / firm's Letterhead)  
+ 
+I/We hereby confirm and declare that we, M/s --------------------------------------------, is not 
+blacklisted/ Deregistered/ debarred by any Government department/ Public Sector 
+Undertaking/ Private Sector/ or any other agency for which we have Executed/ Undertaken 
+the works/ Services as on date.  
+  
+Signature of the Authorized Person  
+Date: -----------------------------  
+Full Name: ----------------------------  
+Place: ---------------------------- 
+Company Seal: --------------
+
+[Page 57]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 57 of 71  
+ANNEXURE–X  
+(For Goods/Service Contracts) 
+(On Company / firm's Letterhead) 
+ 
+Tender No:…………………………………  
+  
+  
+Dated:………………………..……..  
+  
+CERTIFICATE  
+I/we have read the clause regarding restrictions on procurement from a bidder/OEM of a 
+country which shares a land border with India; I/we hereby certify that this bidder/OEM is 
+not from such a country and is eligible to be considered.  
+  
+OR (whichever is applicable)  
+I/we have read the clause regarding restrictions on procurement from a bidder/OEM of a 
+country which shares a land border with India; I/we hereby certify that this bidder/OEM is 
+from ____________(Name of Country) and has been registered with the Competent Authority.  
+ 
+I/we also certify that this bidder/OEM fulfils all the requirements in this regard and is eligible 
+to be considered.  
+ 
+(Copy/ evidence of valid registration by the Competent Authority is to be attached with 
+the bid document)  
+  
+Signature of the Authorized Person  
+Date: -----------------------------  
+Full Name: ----------------------------  
+Place: ----------------------------  
+Company Seal: --------------
+
+[Page 58]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 58 of 71  
+ANNEXURE–X 
+(For Works Contracts, including Turnkey contracts) 
+ 
+ (On Company / firm's Letterhead)  
+ 
+Tender No:…………………………………  
+  
+  
+Dated:………………………..……..  
+  
+CERTIFICATE 
+I/we have read the clause regarding restrictions on procurement from a bidder of a country 
+which shares a land border with India and on sub-contracting to contractors from such 
+countries and hereby certify that this bidder is not from such a country and will not sub-
+contract any work to a contractor from such countries unless such contractor is registered 
+with the Competent Authority.  
+  
+OR (whichever is applicable)  
+ 
+I/we have read the clause regarding restrictions on procurement from a bidder of a country 
+which shares a land border with India and on sub-contracting to contractors from such 
+countries; I/we hereby certify that this bidder is from ____________ (Name of Country) 
+and has been registered with the Competent Authority and will not subcontract any work to a 
+contractor from such countries unless such contractor is registered with the Competent 
+Authority. I/we also certify that this bidder fulfils all the requirements in this regard and is 
+eligible to be considered.  
+ 
+(Copy/ evidence of valid registration by the Competent Authority is to be attached with 
+the bid document)  
+  
+Signature of the Authorized Person  
+Date: -----------------------------  
+Full Name: ----------------------------  
+Place: ----------------------------  
+Company Seal: --------------
+
+[Page 59]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 59 of 71  
+ANNEXURE–XI  
+DECLARATION OF LOCAL CONTENT 
+(To be given on Company Letter Head–For tender value upto Rs.10 Crores) 
+ 
+(To be given by Statutory Auditor/Cost Auditor/ Practising Cost Accountant/ Practising 
+Chartered Accountant for tender value in excess of Rs.10 Crores)  
+Tender No:…………………………………  
+  
+  
+Dated:………………………..……..  
+ 
+To  
+The Campus Director,  
+National Forensic Sciences University, 
+Gandhinagar  
+PIN: 382007  
+ 
+Subject: Declaration of Local Content-reg.  
+  
+1. Country of origin of Goods being offered:…………………………………………………………  
+2. We hereby declare that items offered has ……………..% local content.  
+(Clarification for Local content calculation as per OM No: P-45021/102/2019-BE-IIPart (1) 
+(E-50310), dated 4th March 2021 of Department of Promotion of Industry and Internal 
+Trade, Ministry of Commerce and Industry, Govt. of India.)  
+3. The details of the location(s) at which local value addition is made are given in the below 
+table:- 
+Sl. No.  
+Name of the item  
+Location(s) of local value addition  
+1  
+2  
+3  
+  
+”Local Content” means the amount of value added in India which shall, unless otherwise 
+prescribed by the Nodal Ministry, be the total value of the item procured (excluding net 
+domestic indirect taxes) minus the value of the imported content in the item (including all 
+customs duties) as a proportion of the total value, in percent.  
+ Important:  
+“False declaration will be in breach of Code of Integrity under Rule 175(1)(i)(h) of the General 
+Financial Rules 2017 for which a bidder or its successors can be debarred for up to two years 
+as per Rule 151(iii) of the General Financial Rules 2017 along with such other actions as may be 
+permissible under law.”  
+Date:  
+Yours faithfully,  
+  
+(Signature of the bidder,  
+with Official Seal)
+
+[Page 60]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 60 of 71  
+ANNEXURE–XII  
+ 
+FINANCIAL BID FORMAT (to be filled online only) 
+ 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/01 dated: 
+23/04/2024 
+  
+Networking of newly constructed buildings at residential areas of NFSU Gandhinagar  
+ 
+List of Items and Services: - 
+ 
+ 
+ 
+ 
+ 
+Amount in INR 
+Sr 
+Name 
+Brief 
+Uni
+t 
+Qty 
+Unit 
+Price 
+withou
+t 
+Taxes 
+Taxe
+s 
+Unit 
+Price 
+with 
+Taxe
+s 
+Total 
+Amoun
+t with 
+Taxes 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D= 
+(B+C) 
+E= 
+(AxD) 
+1 
+Cat7 Cable Cable, Copper, Category 7A, 1000 
+MHz E10, 4 Pair, Solid, S/FTP, 
+LSOH-1, Violet, Reel, 500 Meter 
+Mtr 3000   
+  
+  
+  
+2 
+Switch 
+Side Patch 
+Cord 
+1 
+Mtr 
+Copper, Patch Cord, Tera 4-Pair, 
+RJ45, 
+Category 
+6A, 
+S/FTP, 
+T568B, Stranded, CM/LSOH-1, 
+Ivory Cable, White Boot, 1 Meter. 
+Nos 
+82   
+  
+  
+  
+3 
+User Side 
+Patch Cord 
+2 Mtr 
+Copper, Patch Cord, Tera 4-Pair, 
+RJ45, 
+Category 
+6A, 
+S/FTP, 
+T568B, Stranded, CM/LSOH-1, 
+Ivory Cable, White Boot, 2 Meter 
+Nos 
+82   
+  
+  
+  
+4 
+Patch 
+Panel 
+for 
+Rack 
+Copper, Patch Panel, Tera / MAX, 
+Empty, Shielded, 24 Openings, 
+Flat, 
+1U, 
+Black, 
+Fixed 
+Wire 
+Manager 
+Nos 
+4   
+  
+  
+  
+5 
+Network 
+IO 
+User 
+Side 
+Copper, Outlet, TERA, Shielded, 
+Category 7A/8, TERA, Flat, Black, 
+Tool-Less, T568A/B, with Door, 
+22-23 AWG - User Side 
+Nos 
+82   
+  
+  
+  
+6 
+Network 
+IO 
+Rack 
+Side 
+Copper, Outlet, TERA, Shielded, 
+Category 7A/8, TERA, Flat, Black, 
+Tool-Less, T568A/B, with Door, 
+22-23 AWG- Panel Side 
+Nos 
+82
+
+[Page 61]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 61 of 71  
+ 
+ 
+ 
+ 
+ 
+Amount in INR 
+Sr 
+Name 
+Brief 
+Uni
+t 
+Qty 
+Unit 
+Price 
+withou
+t 
+Taxes 
+Taxe
+s 
+Unit 
+Price 
+with 
+Taxe
+s 
+Total 
+Amoun
+t with 
+Taxes 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D= 
+(B+C) 
+E= 
+(AxD) 
+7 
+Face Plat 
+User Side 
+Faceplate, 10G, British, Single 
+Gang, 2 Openings, MX, White 
+Nos 
+82   
+  
+  
+  
+8 
+Fibre 
+Cable 
+Single 
+Mode 
+Cable, 6 Fibre, XGLO, Singlemode, 
+OS1/OS2, 8.3/125, Outside Plant, 
+Loose 
+Tube, 
+Armored, 
+MDPE, 
+Black, 1 Kilometer, International 
+Mtr 
+75   
+  
+  
+  
+9 
+Fibre LIU 
+for Fibre 
+terminatio
+n on both 
+sides 
+12 
+port 
+Fibre, 
+Enclosure, 
+LightVerse Core, Rack Mount, 1U, 
+Fixed Access, 4 Openings, Black - 
+Fully Loaded - (With Required 
+Accessories 
+GLO® Jumper & Pigtails - 192 
+Quick-Pack® RIC Splice Cassette 
+(RSC) 
+- 
+192 
+LC Blade Patch Fibre Jumpers - 8 
+Fibre, Adapter Plate, Light Verse, 
+Flat, Black Housing, Blank - 24 
+Splice Cassette and Trays - 8 
+Nos 
+2   
+  
+  
+  
+10 Fibre 
+Patch Cord 
+Fibre, Jumper, Duplex, XGLO, 
+Singlemode, LC UPC, LC UPC, 
+OS1/OS2,8.3/125, Yellow, LSOH-
+3C,03 Meter 
+Nos 
+4   
+  
+  
+  
+11 24 
+Port 
+PoE Switch 
+OS6360-P24X fixed 1RU chassis 
+24 
+PoE 
+1G 
+BaseT, 
+2 
+fixed 
+RJ45/SFP+ combo (1G/10G), 2 
+fixed 1G/10G SFP+ uplink/VFL 
+ports. Internal AC PSU (380 
+budget), includes country specific 
+power cord, guides and 19" rack 
+mount 
+kit. 
+3 Yr premium onsite Support for 
+OS(including replacement in NBD 
+when Required). Includes 24x7 
+Nos 
+1
+
+[Page 62]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 62 of 71  
+ 
+ 
+ 
+ 
+ 
+Amount in INR 
+Sr 
+Name 
+Brief 
+Uni
+t 
+Qty 
+Unit 
+Price 
+withou
+t 
+Taxes 
+Taxe
+s 
+Unit 
+Price 
+with 
+Taxe
+s 
+Total 
+Amoun
+t with 
+Taxes 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D= 
+(B+C) 
+E= 
+(AxD) 
+phone support, problem diagnosis, 
+access to support portal, software 
+updates 
+and 
+upgrades. 
+1 meter long 10Gbs SFP+ direct 
+stacking cable for OS6360 24 and 
+48 port models. 
+12 48 
+Port 
+PoE Switch 
+OS6360-P48X fixed 1RU chassis 
+48 
+PoE 
+1G 
+BaseT, 
+2 
+fixed 
+RJ45/SFP+ combo (1G/10G), 2 
+fixed 1G/10G SFP+ uplink/VFL 
+ports. Internal AC PSU (760W 
+budget), includes country specific 
+power cord, guides and 19" rack 
+mount 
+kit. 
+3 Yr Partner Support Plus for 
+OS(including replacement in NBD 
+when Required). Includes 24x7 
+phone support, problem diagnosis, 
+access to support portal, software 
+updates 
+and 
+upgrades. 
+1 meter long 10Gbs SFP+ direct 
+stacking cable for OS6360 24 and 
+48 port models  
+Nos 
+2   
+  
+  
+  
+13 Transceive
+r 
+10 Gigabit optical transceiver 
+SFP+). Supports monomode fibre 
+over 1310nm wavelength nominal) 
+with an LC connector. Typical reach 
+of 10Km  
+Nos 
+4   
+  
+  
+  
+14 Rack 
+Wall 
+mounted 
+enclosure 
+of 
+dimension 600W X15UX600D with 
+front sheet steel glass door, top 
+and bottom cover with cable entry 
+provision, integrated side walls, 1 
+Nos 
+1
+
+[Page 63]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 63 of 71  
+ 
+ 
+ 
+ 
+ 
+Amount in INR 
+Sr 
+Name 
+Brief 
+Uni
+t 
+Qty 
+Unit 
+Price 
+withou
+t 
+Taxes 
+Taxe
+s 
+Unit 
+Price 
+with 
+Taxe
+s 
+Total 
+Amoun
+t with 
+Taxes 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D= 
+(B+C) 
+E= 
+(AxD) 
+pair of 19" angles with wall 
+mounting 
+provision, 
+captive 
+hardware(pack of 20).Color RAL 
+7035 
+230V AC Fan, 90 cfm with 1 mts 
+long 
+cable. 
+19" mountable socket strips with 6 
+nos of 5A universal sockets with 2 
+mts 
+long 
+power 
+chord. 
+1U 19" Horizontal Cable Manager 
+(Zinc 
+blue 
+plated) 
+Wall Bracket Kit 10mm (pk of 4) 
+15 Cable Tray SIZE: 300MM X 50MM X 16SWG 
+WITH ALL ACCESSORIES LIKE 
+8MM G.I.FULL THREADED ROD, 
+8MM FASTNER, 8MM NUT AND 
+WASHER, 
+G.I.PERFORATED “ C” CHANNEL 
+SIZE: 35MM X 15MM X 18SWG 
+(Supply Installation Testing and 
+Commissioning all including) 
+Mtr 
+150   
+  
+  
+  
+16   
+40mm 6kg ISI Make HDPE Pipe for 
+Fibre Laying 
+Mtr 
+50   
+  
+  
+  
+  
+  
+Labour 
+  
+  
+  
+  
+  
+  
+17   
+Laying of HDPE Pipe for Fibre 
+Mtr 
+50   
+  
+  
+  
+18   
+Laying of UTP Cable along with all 
+accessories which includes 32 mm 
+conduits 
+with 
+accessories, 
+Trunking and casing capping as per 
+the requirement (Bidder to select 
+the accessory material as per the 
+specifications defined in section 6) 
+(Actual meter reading generated 
+Mtr 7595
+
+[Page 64]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 64 of 71  
+ 
+ 
+ 
+ 
+ 
+Amount in INR 
+Sr 
+Name 
+Brief 
+Uni
+t 
+Qty 
+Unit 
+Price 
+withou
+t 
+Taxes 
+Taxe
+s 
+Unit 
+Price 
+with 
+Taxe
+s 
+Total 
+Amoun
+t with 
+Taxes 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D= 
+(B+C) 
+E= 
+(AxD) 
+during the cable testing will be 
+considered for payment) 
+19   
+Laying of Fibre Cable in Pre Laid 
+Conduits and TRUNKS 
+Mtr 
+75   
+  
+  
+  
+20   
+Fixing of Rack upto 18 U Size with 
+Dressing 
+Nos 
+3   
+  
+  
+  
+21   
+Fixing of Patch Panel in the Rack 
+along with Termination of Cable 
+Nos 
+11   
+  
+  
+  
+22   
+Termination of CAT7A IO on the 
+user side 
+Nos 
+217   
+  
+  
+  
+23   
+Termination of CAT7A IO on the 
+jack Panel Side 
+Nos 
+217   
+  
+  
+  
+24   
+Fixing of LIU in The Rack 
+Nos 
+3   
+  
+  
+  
+25   
+Fibre Splicing Per core 
+Nos 
+36   
+  
+  
+  
+26   
+Labelling and Feruling Charges 
+Nos 
+217   
+  
+  
+  
+27   
+Fibre and Copper Certification 
+Charges (Third Party). Copper 
+Certification to be done using 
+CAT7A 
+Tester 
+Old Cables are not Include. 
+Job 
+1   
+  
+  
+  
+28   
+Concealed 
+Conduiting 
+charges 
+Labor only including wall cutting 
+and resurfacing 
+Mtr 
+150   
+  
+  
+  
+29   
+Rework 
+Charges 
+A - Remove Ios from Rack Side and 
+User 
+Side. 
+B. Remove All Cables till rack with 
+minimum 
+Damage. 
+C. Remove Patch Panesl from Rack 
+Side. 
+D. Remove Fibre cable & LIU from 
+Rack. 
+Job 
+3
+
+[Page 65]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 65 of 71  
+ 
+ 
+ 
+ 
+ 
+Amount in INR 
+Sr 
+Name 
+Brief 
+Uni
+t 
+Qty 
+Unit 
+Price 
+withou
+t 
+Taxes 
+Taxe
+s 
+Unit 
+Price 
+with 
+Taxe
+s 
+Total 
+Amoun
+t with 
+Taxes 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D= 
+(B+C) 
+E= 
+(AxD) 
+*Civil work is not part of this i.e. 
+Ceiling cutting,Core Cut etc. 
+  
+  
+Total 
+  
+  
+  
+  
+  
+  
+  
+Total with GST 
+  
+  
+  
+  
+  
+  
+ 
+ 
+In words: Rupees (with Taxes) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CAMC Cost for 4th year  
+ 
+ 
+ 
+ 
+ 
+ 
+CAMC Cost for 5th year  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+In words: Rupees (with Taxes) 
+_________________________________________________________  
+  
+1. Non-conformities between Figures and Words:  
+a. If, in the price structure quoted for the required goods, there is a discrepancy 
+between the unit price and total price (which is obtained by multiplying the unit 
+price by the quantity), the unit price shall prevail and the total price shall be 
+corrected accordingly;  
+b. If there is an error in a total corresponding to the addition or subtraction of 
+subtotals, the sub-totals shall prevail and the total shall be corrected; and  
+c. If there is a discrepancy between words and figures, the amount in words shall 
+prevail.  
+2. L1 bidder will be decided based on the Total with GST mentioned in FINANCIAL BID. 
+CAMC price will not be considered in the Financial Evaluation. 
+3. The price bid of any other form submitted by the bidder (other than in this format 
+specified in the tender) will be rejected.  
+  
+  
+  
+Signature of the bidder along with seal
+
+[Page 66]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 66 of 71  
+ANNEXURE–XIII  
+ 
+Scope of Work:  
+1. 
+Supply, Installation, Configuration, Commissioning and upgradation of the Network as per 
+the requirement of the NFSU. Complete Network Infrastructure shall be provided with 
+Three (3) years comprehensive onsite warranty along with operation and Maintenance 
+(inclusive of Labour and Parts). The warranty period is defined in clause no. 5 of Annexure 
+II.  
+2. 
+Bidder must ensure the supplied Aggregation Switches and Transceiver modules should be 
+integrated with the existing NFSU Core Switches without affecting the performance and 
+uptime of the NFSU network. 
+3. 
+The bidder should provide an onsite comprehensive warranty for Three years on all active 
+components from the date of installation as mentioned in Annexure-XII. All products 
+should have 3 years 8 x 5 x NBD (Next Business Day) support commitment with the back-
+to-back agreement with OEM. In case of equipment failure, NFSU Gandhinagar should be 
+able to log cases with the OEM both through the bidder and directly without bidder 
+intervention. An emergency response team should be available from OEM directly in case 
+of any critical failures. OEM must have 24*7 TAC support to address and rectify the 
+issue/problems occurring during the entire warranty period. The latest software upgrade 
+for all products should be available free without any additional cost during the warranty.  
+4. 
+The bidder will be liable for any hardware and software up-gradation for maintenance 
+without any extra cost during the warranty period. The technical bid must contain the 
+make, model and part number of all supplied components along with the supported part 
+code.  
+5. 
+In case of any future expansion / up-gradation within the warranty period, necessary 
+changes in the configuration have to be done by the selected bidder for smooth 
+integration/migration at no additional cost.  
+6. 
+Replacement of defective equipment and shipment of the same should be the responsibility 
+of the selected bidder without any financial commitment from NFSU Gandhinagar. The 
+same has to complete within five working days after reporting the problem.  
+7. 
+The bidder should provide support and assistance for the resolution of major technical 
+problems or technical issues with a highly qualified technical team at the backend to 
+support the onsite team.  
+8. 
+The bidder is responsible for all unpacking, assembling, wiring, installation, cabling between 
+equipment and components and connection to power supplies. They will test all Systems 
+operations and perform all the necessary setup, configuration and customization for 
+successful operation of the Network at site.  
+9. 
+All the functionality, features and configuration shall be documented for all the 
+equipment/components and shall be demonstrated with respect to the documentation 
+prepared.  
+10. The bidder shall bear for any damage occurring during supply, installation, testing, 
+commissioning & activation of network components, computer hardware etc. The same has
+
+[Page 67]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 67 of 71  
+to be rectified by the agency at their own cost. In case the agency fails to do rectification, 
+the same shall be rectified by the NFSU and the involved cost will be recovered from the 
+agency.  
+11. One dedicated onsite network support Engineer/Manager to be posted during the 
+installation of the work. 
+12. All OFC and UTP cable segments should be marked with the ferrules at both ends. Marking 
+of information outlets corresponding to the jack panel port should also be done properly.  
+13. Installation of Network Racks shall be carried out strictly in accordance with 
+specifications mentioned by original equipment manufacturers.  
+14. Work (i.e. Supply and Installation) has to be completed within 90 days from the date of 
+issue of the purchase order by the NFSU. 
+15. Since most of the installation locations are in academic buildings, special arrangements 
+have to be made by the bidder for executing this project without disturbing the other 
+classes. Working hours may have to be rescheduled accordingly with the concurrence of 
+IT System Manager, NFSU, Gandhinagar. 
+16. The selected bidder has to provide a Three-years comprehensive onsite warranty for all 
+the networking items supplied and work done.  
+17. The vendor may visit the site on any working day in coordination with IT System Manager 
+before the submission of the tender.  
+18. Work should be carried out with the guidance of IT System Manager, NFSU, Gandhinagar. 
+For any technical dispute arising at any time during the execution of the work, the decision 
+of IT System Manager will be the final. 
+19. Service quantities mentioned in the tender are tentative. Payment will be made on the basis 
+of exact quantities installed and certified by the NFSU Committee. 
+20. Materials such as pipe, nuts and bolts etc. if required for the installation of the above item 
+and other fixation work will have to be supplied by the vendor free of cost.  
+21. Adequate spare should be maintained at the site during the whole warranty period.  
+22. NFSU has the right to inspect and/or to test the material to confirm their conformity 
+with the contract and in case any inspected/tested goods fail to perform with respect to 
+the specifications, NFSU may reject them and the supplier shall either replace the 
+rejected goods or make alteration necessary to meet the specifications free of cost to 
+the NFSU.  
+23. The bidder is responsible for all unpacking, assembling, wiring, installation, and cabling 
+between equipment and components. They will test all Systems operations and perform all 
+the necessary setup, configuration and customization for the successful operation of the 
+Network at the site.  
+24. The bidder shall use their own sets of tools, tackles, etc. required for testing, 
+commissioning and warranty maintenance of the system.  
+25. The bidder shall bear for any damage occurring during supply, installation, testing, 
+commissioning & activation of network components, computer hardware etc. The same has 
+to be rectified by agency at their own cost. In case agency fails to do rectification, the 
+same shall be rectified by the NFSU and involved cost will be recovered from the agency.
+
+[Page 68]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 68 of 71  
+26. All the work shall be done in a conscientious manner as per the OEM guidelines and best 
+industry practices. The system shall be subjected to inspection at various stages. The 
+bidder shall follow all Safety Regulations and practices.  
+27. All items supplied must have a comprehensive onsite OEM warranty for a period of Three 
+years. 
+28. Complete delivery of all materials has to be accomplished within four weeks of receipt of 
+the purchase order, failing which Liquidation Damage (LD) @ 0.5% per week of 100% of 
+total order value will be imposed as per NFSU purchase rules.  
+29. In any case total liquidated damage will be capped at 5% of the PO value.  
+30. The quality of the Optical Fibre Cable Plant depends upon the quality of individual items 
+of work involved i.e. care while jointing/splicing in the fibre patch panels and the 
+documentation of OFC cable plant for each location individually. In order to ensure quality 
+in cable laying work, each component of work needs attention. The work shall be carried 
+out strictly in accordance with specifications laid down to achieve the requisite quality aim.  
+31. The bidder is responsible for dismantling the existing network infrastructure (If anything 
+found during installation) and brings back the same to IT System Manager-NFSU if it is 
+not going to re-install or spare.  
+32. Any additional item which is not specified in the Bill of Quantity listed in Annexure-I but 
+required between the integration of the supplied items by the bidder with the NFSU 
+network needs to be supplied and installed by the bidder at no extra cost to the NFSU.  
+33. The scope of the work includes laying of OFC through) HDPE pipe by concealed method 
+and associated works along with maintenance of the same for a period of three year from 
+the completion of the entire project. In case concealed piping method is not feasible then 
+NFSU committee will decide the methodology. 
+34. Manual trenching depth should be a minimum of 165 cm for normal and hard soil, a minimum 
+of 100 cm for concrete areas and the boring / tunnelling method should be used in case of 
+the crossing of concrete/bituminous roads at 165 cm (minimum) depth. The trench must 
+be refilled with soft soil or recementing to be done depending on the type of trench after 
+laying the OFC through the HDPE duct. Aesthetics must be maintained with the existing 
+construction while excavating or refilling the cable trench.  
+35. The bidder is fully responsible for taking all possible safety precautions during the 
+preparation of underground cable pathways and for keeping the construction site in a safe 
+condition. If any damages occur to other service lines like electrical, water pipelines, 
+drainage, sewerage, or any part of an existing structure, building or element then the same 
+has to be informed immediately to IT System Manager-NFSU and to be restored by the 
+bidder without any extra cost, failing which NFSU, Gandhinagar will be at liberty to rectify 
+and restore the damages at the risk & cost of the bidder.  
+36. Route markers are also to be transported and placed along the OFC cable route at 20 
+meters apart and where the route changes direction like road crossings etc.  
+37. Specialised civil work i.e Ceiling, core cutting will be executed by NFSU and not part of 
+this bid.
+
+[Page 69]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 69 of 71  
+38. Documentation, Acceptance and Testing: The purpose of acceptance and testing is to 
+verify the integrity of measurement and quality of work done. A complete As-Built 
+Document (ABD) report consisting of mainly below below-mentioned points needs to be 
+submitted after the completion of this project.  
+a 
+Location of Network Racks, 
+b 
+Details of UTP and Fibre terminations in Patch Panels,  
+c 
+UTP Patch Panel to User points connectivity details both are in pictorial and tabular 
+formats),  
+d 
+Optical loss test using both Laser Source Power Meter test (LSPM) and OTDR of each 
+fibre core,  
+e 
+Marking of fibre cores and UTP terminations at respective Patch Panel as well as in the 
+user side I/O points.
+
+[Page 70]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 70 of 71  
+ANNEXURE- XIV 
+  
+MODEL BANK GUARANTEE FORMAT FOR FURNISHING EMD  
+  
+Whereas………………………………………………………(thereinafter called the “tenderer”) has submitted 
+their 
+offer 
+dated 
+……………………………………………… 
+for 
+the 
+supply 
+of 
+…………………………………………………………… (hereinafter called the “tender”) against the purchaser’s 
+tender Notice No. ………………………………………………………… KNOW ALL MEN by these presents that 
+WE …………………………….………………………………………of …………………………………………………………………………… having 
+our registered office at ………………………………………………………………………………………….. are bound unto 
+………………………………………………..  (hereinafter  called  the  
+“Purchaser”)  in  
+the 
+sum 
+of 
+…………………………………………………… for which payment will and truly to be made to the said  
+Purchaser, the Bank binds itself, its successors and assigns by these presents. Sealed with the 
+Common Seal of the said Bank this …………………………Day of ………………………..… 20 …………  
+ THE CONDITIONS OF THIS OBLIGATION ARE  
+(1) If the tenderer withdraws or amends, impairs or derogates from the tender in any 
+respect within the period of validity of this tender.  
+(2) If the tenderer having been notified of the acceptance of his tender by the 
+Purchaser during the period of its validity:  
+(a) If the tenderer fails to furnish the Performance Security for the due 
+performance of the contract.  
+(b) Fails or refuses to accept/execute the contract.  
+ 
+We undertake to pay the Purchaser up to the above amount upon receipt of its first written 
+demand, without the Purchaser having to substantiate its demand, provided that in its demand 
+the Purchaser will note that the amount claimed by it is due to it owing to the occurrence of 
+one or both the two conditions, specifying the occurred condition or conditions.  
+  
+This guarantee will remain in force up to and including 45 days after the period of tender 
+validity and any demand in respect thereof should reach the Bank not later than the above 
+date.  
+  
+ 
+(Signature of the authorized officer of the Bank)  
+Name and designation of the officer  
+Seal, name & address of the Bank and Address of the Branch
+
+[Page 71]
+TENDER DOCUMENT (2nd Attempt) 
+Tender Notice No: NFSU/IT CELL/118/NETWORK/IFS BUILDING/2023-24/02 dated: 23/04/2024 
+Revamping of Networking for three computer labs at IFS building at NFSU, Gandhinagar 
+ 
+Signature and seal of Bidder  
+ Page 71 of 71  
+Checklist  
+(Bidder should fill up Yes or No without fail)  
+S.No 
+Bid Enclosures  
+Yes/ 
+No  
+Technical Bid (Envelope–A) contains the following documents  
+ 
+1  
+Tender fee of Rs. 1500/- / Exemption certificate  
+ 
+2  
+EMD of ₹ 1,08,000/-(One Lakh and Eight Thousand rupees only ) as per 
+Annexure-XVI  
+  
+3  
+Technical Bid as per Annexure–V along with all supporting annexures, 
+documents etc. as mentioned in the Tender document as per given 
+sequence  
+ 
+4  
+Signed Notice Inviting Tender (NIT) and corrigenda thereon, if any  
+ 
+5  
+Any other supporting/ Additional Document/ Information  
+ 
+Financial Bid (online)  
+ 
+1  
+Price Bid (As per the format given at Annexure–XII)  
+ 
+  
+Note: All pages of the bid documents must be serially numbered and signed.  
+  
+  
+* * * * * * * * * * * * * * *

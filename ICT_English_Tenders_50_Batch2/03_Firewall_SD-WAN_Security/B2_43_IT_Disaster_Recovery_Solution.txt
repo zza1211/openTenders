@@ -1,0 +1,3718 @@
+Title: IT Disaster Recovery Solution
+Source: https://www.etenders.gov.za/home/Download/?blobName=eec05433-6eda-4e62-821c-f65aa18ee7c3.pdf&downloadedFileName=Tender+document+Disaster+IT+Recovery+Final+2024+25+REF+0055++0002.pdf
+Pages: 62
+
+--- Extracted text by page ---
+
+[Page 1]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, 
+COMMISSIONING, SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL 
+AS PROVISION OF MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+1 | P a g e  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Employer 
+ 
+Witness 1 
+ 
+Witness 2 
+ 
+Contractor 
+ 
+Witness 1 
+ 
+Witness 2 
+ 
+ 
+PARTICULARS OF THE BIDDER. 
+ 
+NAME OF THE BIDDING OR TENDERING 
+COMPANY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+POSTAL ADDRESS 
+ 
+ 
+ 
+ 
+ 
+POSTAL CODE 
+ 
+STREET ADDRESS 
+(PHYICAL ADDRESS) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+POSTAL CODE 
+ 
+E-MAIL ADDRESS 
+ 
+ 
+TELEPHONE NUMBER (TELKOM LINE) 
+ 
+ 
+CIDB CRS NUMBER (IF APPLICABLE) 
+ 
+ 
+CELLPHONE NUMBER 
+ 
+ 
+ALTERNATE CELLPHONE NO. 
+ 
+ 
+CENTRAL SUPPLIER DATABASE NUMBER OF 
+THE BIDDING COMPANY 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                              REF: 0055 - 0002
+
+[Page 2]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, 
+COMMISSIONING, SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL 
+AS PROVISION OF MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+2 | P a g e  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Employer 
+ 
+Witness 1 
+ 
+Witness 2 
+ 
+Contractor 
+ 
+Witness 1 
+ 
+Witness 2 
+ 
+ 
+INDEX/TABLE OF CONTENTS 
+DOCUMENT NAME 
+ABBREVIATION 
+DOCUMENT NAME/DESCRIPTION 
+ 
+TS 
+TENDERING CONDITIONS 
+ 
+ 
+ 
+ 
+AE(DP) 
+ADMINISTRATIVE EVALUATION (DOCUMENT COMPLETION) 
+ 
+ 
+ 
+ 
+MBD 1 
+ADMINISTRATIVE EVALUATION (ATTACHMENT OF MANDATORY DOCUMENTS) 
+ 
+ 
+ 
+ 
+DTA 
+DOCUMENT TENDER ADVERT 
+ 
+ 
+ 
+ 
+MBD 1 
+INVITATION TO BID (PART A) 
+ 
+ 
+PART B 
+ 
+ 
+ 
+ 
+MBD 4 
+DECLARATION OF INTEREST 
+ 
+ 
+ 
+ 
+MBD 5 
+DECLARATION FOR PROCUREMENT ABOVE R10 MILLION (ALL APPLICABLE TAXES 
+INCLUDED) 
+ 
+ 
+ 
+ 
+MBD 6.1 
+PREFERENCE CLAIM IN TERMS OF THE PREFERENTIAL PROCUREMENT 
+REGULATIONS  
+ 
+ 
+ 
+ 
+MBD 7.2 
+CONTRACT FORM - RENDERING OF SERVICES 
+ 
+ 
+ 
+ 
+MBD 8 
+DECLARATION OF ABUSE OF SUPPLY CHAIN MANAGEMENT SYSTEM 
+ 
+ 
+ 
+ 
+MBD 9 
+CERTIFICATE OF INDEPENDENT BID DETERMINATION 
+ 
+ 
+ 
+ 
+SECTION 38 
+DECLARATION OF BIDDERS’S PAST PRACTICES 
+ 
+ 
+ 
+ 
+SF 
+SIGNATORY FORM 
+ 
+ 
+ 
+ 
+GCC 
+GENERAL CONDITIONS OF CONTRACT 
+ 
+ 
+ 
+ 
+TOF 
+TERMS OF REFERENCE/ BID SPECIFICATIONS 
+ 
+ 
+ 
+ 
+F 
+FUNCTIONALITY 
+ 
+ 
+ 
+ 
+PI 
+PRICING INSTRUCTIONS  
+ 
+ 
+ 
+ 
+PS 
+PRICING SCHEDULE
+
+[Page 3]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, 
+COMMISSIONING, SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL 
+AS PROVISION OF MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+3 | P a g e  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Employer 
+ 
+Witness 1 
+ 
+Witness 2 
+ 
+Contractor 
+ 
+Witness 1 
+ 
+Witness 2 
+ 
+ 
+ 
+DOCUMENT COMPLETION INSTRUCTION AND RETURNABLE DOCUMENTS SCHEDULE 
+ 
+✓ NB! FAILURE TO ADHERE TO THE BELOW MENTIONED POINTS WILL INVALIDATE THE TENDER 
+AND RESULT IN DISQUALIFICATION 
+ 
+CENTRAL SUPPLIER DATABASE REGISTRATION (CSD) 
+✓ 
+Bidders must be registered on CSD and provide their registration number on the tender/ quotation document 
+✓ Bidders must submit both a hard copy document and an electronic tender document in the form of a USB 
+(only) which must be clearly marked with the company name. (Bidders will be disqualified for not submitting 
+a USB containing the scanned bidding documentation) 
+ 
+COMPLETION OF THE DOCUMENT 
+ 
+PLEASE READ AND FOLLOW INSTRUCTIONS BELOW ON HOW TO COMPLETE DIFFERENT FORMS 
+IN THE DOCUMENT AND FILL THEM AS INSTRUCTED 
+✓ The tender documents must be completed in full i.e. Compulsory Questionnaire, MBD 1, Pricing Schedule, 
+MBD 4, MBD 5, MBD 6.1, MBD  8, MBD 9, Section 38 and the Form of Offer, including all witness signatures 
+on all the above stated forms. 
+ 
+• 
+COMPULSORY QUESTIONAIRE must be fully completed and signed. 
+ In a case of Joint Venture separate COMPULSORY QUESTIONAIRE forms must be completed and 
+submitted.  
+• 
+MBD 1 must be fully and correctly completed. 
+• 
+PRICING SCHEDULE must be fully completed and signed. 
+• 
+MBD 4 -only tick the appropriate option. Please be informed that whether you scratch out, tick or circle, your 
+answer will be where the pen ink is reflecting. 
+ In a case of Joint Venture or multi- directors, full details of all Directors must be provided on the 
+table on MBD 4.  
+• 
+MBD 5 -only tick the appropriate answer. Please be informed that whether you scratch out, tick or circle, your 
+answer will be where the pen ink is reflecting.  
+ In a case of Joint Venture separate MBD 5 forms must be completed and submitted. (complete if 
+applicable) 
+• 
+MBD 6.1 – must be fully and correctly completed. 
+TENDERING PROCEDURES: 
+ 
+DOCUMENT COMPLETION INSTRUCTION AND RETURNABLE DOCUMENTS SCHEDULE
+
+[Page 4]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, 
+COMMISSIONING, SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL 
+AS PROVISION OF MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+4 | P a g e  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Employer 
+ 
+Witness 1 
+ 
+Witness 2 
+ 
+Contractor 
+ 
+Witness 1 
+ 
+Witness 2 
+ 
+ 
+• 
+MBD 8 - only tick the appropriate option, whether you scratch out, tick or circle, your answer will be where the 
+pen ink is reflecting. 
+• 
+MBD 9 - must be fully and correctly completed.  
+• 
+SECTION 38 - only tick the appropriate option, whether you scratch out, tick or circle, your answer will be where 
+the pen ink is reflecting. Must be fully and correctly completed  
+ Note that should you answer “NO” to any of the declaration questions on section 38 form, then supporting 
+documents MUST be attached! 
+• 
+SIGNATORY AUTHORISATION – must be fully and correctly completed. 
+ 
+THE FOLLOWING MANDATORY DOCUMENTS MUST BE SUBMITTED TOGETHER WITH THE BID DOCUMENT 
+✓ Deposit slip with the unique tender reference number as stipulated in the tender advertisement.  
+✓ Full Central Supplier Database (CSD) Report 
+ 
+FOR ALL DOCUMENTS THAT WILL NEED CERTIFICATION AND AFFIDAVITS WHERE APPLICABLE, BIDDERS ARE 
+REQUIRED NOT TO SUBMIT COPIES OF CERTIFIED COPIES. 
+ 
+MUNICIPAL RATES AND TAXES STATEMENTS OF THE DIRECTORS 
+ 
+✓ Current municipal rates and taxes statement in the names of the director (from previous billable month 
+determined by the date of tender closure) for each directors’ address must be attached; or 
+✓ Valid lease agreement of the director/s with all critical contractual obligations or, 
+✓ An original letter from tribal authority not older than three (3) months if the director/s are residing in a tribal 
+land, or 
+✓ If the rates and taxes account is not in the names of the director/s the attached municipal rates and taxes 
+statement must be submitted together with an original affidavit from the property owner whose names are 
+appearing on the municipal rates and taxes statement to confirm that the director resides in their property. 
+ 
+MUNICIPAL RATES AND TAXES STATEMENTS OF THE COMPANY 
+ 
+✓ Current municipal rates and taxes statement in the name of the company (from previous billable month 
+determined by the date of tender closure) for the company’s’ address must be attached; or 
+✓ Valid lease agreement of the company (showing all critical contractual obligations, or 
+✓ An original letter from a tribal authority not older than three (3) months if the company is operating from a 
+tribal, or 
+✓ If the rates and taxes account is not in the names of the company, the attached municipal rates taxes 
+statement must be submitted together with an original affidavit from the property owner whose names are 
+reflecting on the municipal rates and taxes statement to confirm that the company operates from their 
+property.
+
+[Page 5]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, 
+COMMISSIONING, SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL 
+AS PROVISION OF MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+5 | P a g e  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Employer 
+ 
+Witness 1 
+ 
+Witness 2 
+ 
+Contractor 
+ 
+Witness 1 
+ 
+Witness 2 
+ 
+ 
+NB!! 
+THE COMPANY ADDDRESS WRITTEN ON THE TENDER DOCUMENT MUST BE THE SAME AS THE 
+ONE REFLECTING MUNICIPAL RATES AND TAXES STATEMENT SUBMITTED 
+ 
+✓ FOR PROCUREMENT EXPECTED TO BE LESS THAN 10 MILLION, AWARDS WILL NOT BE MADE TO 
+BIDDERS WHO SUBMITTED A MUNICIPAL RATES AND TAXES STATEMENT FORM PREVIOUS 
+BILLABLE MONTH OWING MUNICIPAL RATES AND TAXES FOR OVER 90 DAYS AT THE TIME OF 
+TENDER CLOSURE 
+✓ FOR PROCUREMENT EXPECTED TO BE MORE THAN 10 MILLION, AWARDS WILL NOT BE MADE TO 
+BIDDERS WHO SUBMITTED A MUNICIPAL RATES AND TAXES STATEMENT FORM PREVIOUS 
+BILLABLE MONTH OWING MUNICIPAL RATES AND TAXES FOR OVER 90 DAYS AT THE TIME OF 
+TENDER CLOSURE 
+✓ Required CIDB Grading Certificate where applicable. 
+✓ Signatory resolution – Please attach a copy of Signatory resolution where instructed. 
+✓ If the submission is from a Joint Venture, then a JV agreement must be attached. 
+ 
+NB! Bidders will not be afforded a chance to rectify by either completing the tender document or submitting 
+outstanding mandatory documents.  
+ 
+VERIFICATION OF DOCUMENTS AND INFORMATION. 
+✓ Tax compliance status will be verified using CSD number. (For a bidder to be considered for final award, 
+their status must reflect “tax compliance” before final award is made) 
+✓ CIDB Grading will be verified  
+✓ Sworn Affidavits will be accepted only if its originals submitted. 
+ 
+INSTRUCTION ON THE SUBMISSION OF TENDER DOCUMENTS 
+✓ A tender document must be in a sealed packaging that has the bid number and bid description on the outside. 
+Both the bid number and the bid description must be on the packaging for the document to be acceptable. 
+✓ If the bid number and description are not clearly marked on the packaging, the bid will not be accepted 
+✓ The tender document must be in the tender box before the specified closing time and date. 
+✓ Submissions which arrive when the tender box is open are considered late.
+
+[Page 6]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, 
+COMMISSIONING, SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL 
+AS PROVISION OF MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+6 | P a g e  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Employer 
+ 
+Witness 1 
+ 
+Witness 2 
+ 
+Contractor 
+ 
+Witness 1 
+ 
+Witness 2 
+ 
+ 
+ADDITIONAL TENDERING CONDITIONS 
+ 
+1. The document must be completed in full as per the guide provided under administrative evaluation - document 
+completion. 
+2. All mandatory documents must be attached as per the guide under administrative evaluation - attachment of 
+mandatory documents. 
+3. Bidders must be registered on CSD. 
+4. Only black pen ink must be used for completing the tender document. 
+5. Documents must not be completed electronically. 
+6. Electronic signatures are not allowed. 
+7. Bidders are not allowed to use correction pens. In a case where a wrong answer is ticked, a straight line must 
+be made across the wrong answer, then initial next to the mistake and a correct answer must be ticked or 
+provided in writing. 
+8. Bidders must submit both a hard copy document and an electronic tender document in the form of a clearly 
+marked USB. (Bidders will be disqualified for not submitting a USB with scanned bid documentation) 
+ 
+9. Rustenburg Local Municipality will not accept documents which are not in envelopes and clearly marked with 
+the bid number and description. 
+ 
+NB! FAILURE TO ADHERE TO THE ABVOVE INSTRUCTIONS WILL RENDER THE TENDER INVALID AND 
+RESULT IN DISQUALIFICATION
+
+[Page 7]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, 
+COMMISSIONING, SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL 
+AS PROVISION OF MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+7 | P a g e  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Employer 
+ 
+Witness 1 
+ 
+Witness 2 
+ 
+Contractor 
+ 
+Witness 1 
+ 
+Witness 2 
+ 
+ 
+ADDITIONAL MANDATORY DOCUMENTS 
+ 
+I. 
+Project Manager - Virtualisation certificate - level 3: Premier,  
+II. 
+Project Manager - COBIT 5 / ITIL Certificate, 
+ 
+NB! FAILURE TO ADHERE TO THE ABVOVE INSTRUCTIONS WILL RENDER THE TENDER INVALID AND 
+RESULT IN DISQUALIFICATION
+
+[Page 8]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+8 
+1. Bid documents available at a non-refundable amount of R 3 000-00 per bid document are available on the e-tender website 
+and must be downloaded. 
+ 
+2. A compulsory briefing session will be held as follows Date and Time: 06 September 2024 @ 09H00 Venue: Rustenburg Local 
+Municipality 
+ 
+3. Bid documents must be in a sealed packaging clearly marked: “RLM/DCS/0055/2024/25 - Appointment of a service 
+provider for the supply, delivery, commissioning, support and maintenance of disaster recovery it infrastructure as 
+well as provision of managed information security solution for a period of 36 months” and must be placed in the bid 
+box in the foyer of the Municipal offices, Missionary Mpheni House, Beyers Naude Drive, Rustenburg not later than 01st 
+October 2024 @ 09H00, where after the bids will be opened in public at the Municipal offices.  
+ 
+4. The bid will be evaluated as follows: Administrative evaluation (document completion and attachment of mandatory 
+documents) to include all necessary certifications, (a)Project Manager - Virtualisation certificate - level 3: Premier, (b) 
+Project Manager - COBIT 5 / ITIL Certificate, Functionality minimum qualifying score 70 points and 80/20 preferential 
+point system (price = 80 & Specific goals = 20) 
+5. Please note that no bid documents sent through to couriers will be signed for by Rustenburg Local Municipality. 
+6. Please note that no bid documents sent by electronic mail or post will be accepted by Rustenburg Local Municipality. 
+ 
+7. Rustenburg Local Municipality will not be responsible for bids submitted late.  
+ 
+8. Bids will remain valid for 90 (Ninety) days. Validity period will only be extended once as prescribed in the Rustenburg Local 
+Municipality Supply Chain Management Policy 
+ 
+9. All bids will be adjudicated based on the prescribed criterion as stipulated in this document. 
+ 
+10. No bids will be considered from any person(s) in the service of the state (as defined in Regulation 1 of Local Government: 
+Municipal Supply Chain Management Regulations).  
+ 
+11. Objections or complaints must be submitted in writing to the Municipal Manager at the address stated, and must contain the 
+following: 
+(a) 
+reasons and/or grounds for the objection or complaint. 
+(b) 
+the way in which the objector or complainant’s rights have been affected; and 
+(c) 
+the remedy sought by the objector or complainant. 
+ 
+12. Any objection or complaint must reach the Municipal Manager within a 14-day period after award has been made. Late 
+objections or complaints will not be entertained. 
+  
+13. All bids must be submitted on the official forms provided.  
+ 
+ 
+TENDER ADVERTISEMENT
+
+[Page 9]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+9 
+PART A                                                                                                                                                                            MBD 1 
+ 
+ 
+ 
+INVITATION TO BID 
+YOU ARE HEREBY INVITED TO BID FOR REQUIREMENTS OF THE RUSTENBURG LOCAL MUNICIPALITY 
+BID NUMBER: 
+RLM/DCS/0055/2024/25 
+CLOSING 
+DATE: 
+01 OCTOBER 2024 
+CLOSING TIME: 
+09H00 
+DESCRIPTION 
+APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, SUPPORT 
+AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+THE SUCCESSFUL BIDDER WILL BE REQUIRED TO FILL IN AND SIGN A WRITTEN CONTRACT FORM (MBD7). 
+BID RESPONSE DOCUMENTS MAY BE DEPOSITED IN THE BID BOX 
+SITUATED AT: 
+ 
+ 
+RUSTENBURG LOCAL MUNICIPALITY 
+MISSIONARY MPHENI HOUSE 
+CNR BEYERS NAUDE AND NELSON MANDELA DRIVE, RUSTENBURG 
+ 
+SUPPLIER INFORMATION 
+NAME OF BIDDER 
+ 
+POSTAL ADDRESS 
+ 
+STREET ADDRESS 
+ 
+TELEPHONE NUMBER 
+CODE 
+ 
+NUMBER  
+CELLPHONE NUMBER 
+ 
+FACSIMILE NUMBER 
+CODE 
+ 
+NUMBER  
+E-MAIL ADDRESS 
+ 
+VAT REGISTRATION NUMBER 
+ 
+TAX COMPLIANCE STATUS 
+TCS PIN: 
+ 
+OR CSD No:
+
+[Page 10]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+10 
+ARE YOU THE ACCREDITED 
+REPRESENTATIVE IN SOUTH 
+AFRICA FOR THE GOODS 
+/SERVICES /WORKS OFFERED? 
+Yes                         
+No  
+ 
+[IF YES ENCLOSE PROOF] 
+ 
+ARE YOU A 
+FOREIGN BASED 
+SUPPLIER FOR 
+THE GOODS 
+/SERVICES 
+/WORKS 
+OFFERED? 
+ 
+Yes 
+No 
+ 
+[IF YES, ANSWER PART B:3] 
+ 
+TOTAL NUMBER OF ITEMS 
+OFFERED 
+ 
+TOTAL BID PRICE 
+R 
+SIGNATURE OF BIDDER 
+……………………. 
+DATE 
+ 
+CAPACITY UNDER WHICH THIS BID 
+IS SIGNED 
+ 
+BIDDING PROCEDURE ENQUIRIES MAY BE DIRECTED TO: 
+TECHNICAL INFORMATION MAY BE DIRECTED TO: 
+DEPARTMENT 
+SCM 
+CONTACT 
+PERSON 
+Mr. S. Mndawe 
+CONTACT PERSON 
+Ms. O. Serole 
+TELEPHONE 
+NUMBER 
+014 590 3913 
+TELEPHONE NUMBER 
+014 590 3566 
+E-MAIL ADDRESS 
+smdawe@rustenburg.gov.za 
+ 
+E-MAIL ADDRESS 
+oserole@rustenburg.gov.za
+
+[Page 11]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+11 
+ 
+PART B 
+ 
+TERMS AND CONDITIONS FOR BIDDING 
+1. 
+ BID SUBMISSION: 
+1.1. BIDS MUST BE DELIVERED BY THE STIPULATED TIME TO THE CORRECT ADDRESS. LATE BIDS WILL NOT BE ACCEPTED FOR 
+CONSIDERATION. 
+1.2. ALL BIDS MUST BE SUBMITTED ON THE OFFICIAL FORMS PROVIDED, COMPLETED WITH A BLACK PEN 
+1.3. THIS BID IS SUBJECT TO THE RLM SUPPLY CHAIN MANAGEMENT POLICY, PREFERENTIAL PROCUREMENT POLICY FRAMEWORK ACT 
+AND THE PREFERENTIAL PROCUREMENT REGULATIONS, 2017, THE GENERAL CONDITIONS OF CONTRACT (GCC) AND, IF APPLICABLE, 
+ANY OTHER SPECIAL CONDITIONS OF CONTRACT. 
+2. 
+TAX COMPLIANCE REQUIREMENTS 
+2.1 
+BIDDERS MUST ENSURE COMPLIANCE WITH THEIR TAX OBLIGATIONS.  
+2.2 
+BIDDERS ARE REQUIRED TO SUBMIT THEIR UNIQUE PERSONAL IDENTIFICATION NUMBER (PIN) ISSUED BY SARS TO ENABLE   THE 
+ORGAN OF STATE TO VIEW THE TAXPAYER’S PROFILE AND TAX STATUS. 
+2.3 
+APPLICATION FOR THE TAX COMPLIANCE STATUS (TCS) CERTIFICATE OR PIN MAY ALSO BE MADE VIA E-FILING. IN ORDER TO USE THIS 
+PROVISION, TAXPAYERS WILL NEED TO REGISTER WITH SARS AS E-FILERS THROUGH THE WEBSITE WWW.SARS.GOV.ZA. 
+2.4 
+FOREIGN SUPPLIERS MUST COMPLETE THE PRE-AWARD QUESTIONNAIRE IN PART B:3.  
+2.5 
+BIDDERS MAY ALSO SUBMIT A PRINTED TCS CERTIFICATE TOGETHER WITH THE BID.  
+2.6 
+IN BIDS WHERE CONSORTIA / JOINT VENTURES / SUB-CONTRACTORS ARE INVOLVED; EACH PARTY MUST SUBMIT A SEPARATE   TCS 
+CERTIFICATE / PIN / CSD NUMBER. 
+2.7 
+WHERE NO TCS IS AVAILABLE BUT THE BIDDER IS REGISTERED ON THE CENTRAL SUPPLIER DATABASE (CSD), A CSD NUMBER MUST 
+BE PROVIDED.  
+3. 
+QUESTIONNAIRE TO BIDDING FOREIGN SUPPLIERS: (BIDDER MAY NOT BE DISQUALIFIED ON THIS PART IF INDICATED THAT THEY ARE 
+NOT FOREIGN BASED SUPPLIER) 
+3.1. IS THE ENTITY A RESIDENT OF THE REPUBLIC OF SOUTH AFRICA (RSA)?  
+         
+  YES  
+ NO 
+3.2. DOES THE ENTITY HAVE A BRANCH IN THE RSA? 
+ 
+ 
+                           
+  YES  
+ NO 
+3.3. DOES THE ENTITY HAVE A PERMANENT ESTABLISHMENT IN THE RSA?                            
+  YES  
+ NO 
+3.4. DOES THE ENTITY HAVE ANY SOURCE OF INCOME IN THE RSA? 
+ 
+          
+  YES  
+ NO 
+3.5. IS THE ENTITY LIABLE IN THE RSA FOR ANY FORM OF TAXATION? 
+                           
+  YES  
+ NO  
+IF THE ANSWER IS “NO” TO ALL OF THE ABOVE, THEN IT IS NOT A REQUIREMENT TO REGISTER FOR A TAX COMPLIANCE STATUS SYSTEM PIN 
+CODE FROM THE SOUTH AFRICAN REVENUE SERVICE (SARS) AND IF NOT REGISTER AS PER 2.3 ABOVE. 
+NB: FAILURE TO PROVIDE ANY OF THE ABOVE PARTICULARS WILL RENDER THE BID INVALID. 
+NO BIDS WILL BE CONSIDERED FROM PERSONS IN THE SERVICE OF THE STATE. 
+ 
+SIGNATURE OF BIDDER: 
+ 
+ 
+ 
+…………………………………………… 
+ 
+CAPACITY UNDER WHICH THIS BID IS SIGNED:  
+…………………………………………… 
+ 
+DATE:  
+ 
+ 
+ 
+ 
+ 
+…………………………………………..
+
+[Page 12]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+12 
+ 
+No bid will be accepted from persons in the service of the state . 
+ 
+1. Any legal person, including persons employed by the state¹, or persons having a kinship with persons employed by the state, 
+including a blood relationship, may make an offer or offers in terms of this invitation to bid (includes a price quotation, advertised 
+competitive bid, limited bid or proposal).  In view of possible allegations of favouritism, should the resulting bid, or part thereof, 
+be awarded to persons employed by the state, or to persons connected with or related to them, it is required that the bidder or 
+his/her authorised representative declare his/her position in relation to the evaluating/adjudicating authority where-  
+ 
+ 
+- 
+the bidder is employed by the state; and/or 
+  
+- 
+the legal person on whose behalf the bidding document is signed, has a relationship with persons/a person who 
+are/is involved in the evaluation and or adjudication of the bid(s), or where it is known that such a relationship 
+exists between the person or persons for or on whose behalf the declarant acts and persons who are involved 
+with the evaluation and or adjudication of the bid.  
+ 
+2. In order to give effect to the above, the following questionnaire must be completed and submitted with the bid. 
+ 
+2.1. Full Name of bidder or his or her representative: …………………..………………………… 
+ 
+2.2. Identity Number: …………………………………………………………………………………. 
+ 
+2.3. Position occupied in the Company (director, trustee, hareholder²): …………………………… 
+ 
+2.4. Company Registration Number: …………………………………………………………………. 
+ 
+2.5. Tax Reference Number: ..................................................................................................................... 
+ 
+2.6. VAT Registration Number:………………………………………...................................….............. 
+ 
+2.7. Personal Reference Tax Number……………………………………………………………………… 
+ 
+2.7.1. 
+The names of all directors / trustees / shareholders members, their individual identity numbers and state employee numbers 
+must be indicated in paragraph 3 below. 
+¹“State” means – 
+               
+(a) any national or provincial department, national or provincial public entity or constitutional institution within the 
+meaning of the Public Finance Management Act, 1999 (Act No. 1 of 1999); 
+ 
+(b) any municipality or municipal entity; 
+ 
+(c) provincial legislature; 
+ 
+(d) national Assembly or the national Council of provinces; or 
+ 
+(e) Parliament. 
+ 
+²”Shareholder” means a person who owns shares in the company and is actively involved in the management of the 
+enterprise or business and exercises control over the enterprise. 
+ 
+MBD 4: DECLARATION OF INTEREST
+
+[Page 13]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+13 
+2.8. Are you presently in the service of the state?  
+(Tick applicable box) 
+YES  
+NO 
+ 
+ 
+ 
+2.8.1. 
+If yes, furnish particulars. ….…………………………………………………………… 
+ 
+…………………………………………………………………………………………….. 
+ 
+¹MSCM Regulations: “in the service of the state” means to be – 
+(a) a member of – 
+(i) 
+any municipal council; 
+(ii) 
+any provincial legislature; or 
+(iii) 
+the national Assembly or the national Council of provinces; 
+ 
+(b) a member of the board of directors of any municipal entity; (c) an official of any municipality or municipal entity; 
+ 
+(d) an employee of any national or provincial department, national or provincial public entity or 
+constitutional institution within the meaning of the Public Finance Management Act, 1999 (Act 
+No.1 of 1999); 
+(e) a member of the accounting authority of any national or provincial public entity; or 
+(f)  an employee of Parliament or a provincial legislature. 
+ 
+² Shareholder” means a person who owns shares in the company and is actively involved in the 
+management of the company or business and exercises control over the company. 
+ 
+2.9. Have you been in the service of the state for the past twelve months?   
+(Tick applicable box) 
+YES  
+NO 
+ 
+ 
+ 
+2.9.1. 
+If yes, furnish particulars.………………………...…………………………………….. 
+ 
+……………………………………………………………………………………………. 
+ 
+2.10. 
+Do you have any relationship (family, friend, other) with persons in the service of the state and who may be 
+involved with the evaluation and or adjudication of this bid? 
+ 
+ 
+   
+(Tick applicable box) 
+YES  
+NO 
+ 
+2.10.1. If yes, furnish particulars.………………………...……………………………………………………………..
+
+[Page 14]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+14 
+ 
+………………………………………………………………………………………………………………….…………………. 
+ 
+2.11. 
+Are you, aware of any relationship (family, friend, other) between any other bidder and any persons    
+in the service of the state who may be involved with the evaluation and or adjudication of this bid?  
+ 
+(Tick applicable box) 
+YES  
+NO 
+ 
+ 
+2.11.1. If yes, furnish particulars.………………………...…………………………………….. 
+ 
+2.12. 
+Are any of the company’s directors, trustees, managers, principal shareholders or stakeholders in  
+service of the state? 
+ 
+(Tick applicable box) 
+YES  
+NO 
+ 
+ 
+2.12.1. If yes, furnish particulars.………………………...…………………………………….. 
+ 
+…………………………………………………………………………………………………… 
+  
+2.13. 
+Are any spouse, child or parent of the company’s directors trustees, managers, principle shareholders or 
+stakeholders in service of the state? 
+ 
+(Tick applicable box) 
+YES  
+NO 
+ 
+ 
+2.13.1. If yes, furnish particulars.………………………...…………………………………….. 
+ 
+…………………………………………………………………………………………………… 
+ 
+2.14. 
+Do you or any of the directors, trustees, managers, principle shareholders, or stakeholders of this 
+company have any interest in any other related companies or business whether or not they are bidding for this contract.
+ 
+ 
+ 
+ 
+(Tick applicable box) 
+YES  
+NO 
+ 
+ 
+2.14.1. If yes, furnish particulars.………………………...……………………………………………………………….. 
+ 
+………………………………………………………………………………………….……………………….……………………
+
+[Page 15]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+15 
+3. Full details of directors / trustees / members / shareholders. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NB: THE TABLE ABOVE IS TO BE FILLED IF THE COMPANY HAS MORE THAN ONE DIRECTOR. 
+ 
+ 
+    ……………………………… 
+……………………… 
+                   Signature                                                                                Date 
+ 
+ 
+    …………………………………. 
+…………………………………… 
+    Capacity 
+ Name of Bidder 
+ 
+ 
+ 
+Full 
+Name 
+Identity Number 
+Personal 
+Reference 
+Tax 
+Number 
+State 
+Employee 
+Number
+
+[Page 16]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+16 
+ 
+For all procurement expected to exceed R10 million (all applicable taxes included), bidders must complete the following 
+questionnaire: 
+ 
+1 
+Are you by law required to prepare annual financial statements for auditing? 
+*YES 
+NO 
+ 
+1.1 
+If yes, submit audited annual financial statements for the past three years or since the date of establishment if established 
+during the past three years. 
+ 
+ 
+………………………………………………………………................................................................. 
+ 
+ 
+ 
+……………………………………………………………………………………………………….. 
+ 
+2 
+Do you have any outstanding undisputed commitments for municipal services towards any municipality for more than three 
+months or any other service provider in respect of which payment is overdue for more than 30 days? 
+*YES 
+NO 
+ 
+2.1 
+If no, this serves to certify that the bidder has no undisputed commitments for municipal services towards any municipality 
+for more than three months or other service provider in respect of which payment is overdue for more than 30 days. 
+2.2 
+If yes, provide particulars. 
+ 
+………………………………………………...................................................................…………… 
+ 
+ 
+            …………………………….....................................................................………………………………. 
+ 
+ 
+            …………………………………..................................................................…………………………. 
+ 
+3 
+Has any contract been awarded to you by an organ of state during the past five years, including particulars of any material 
+non-compliance or dispute concerning the execution of such contract?         
+*YES 
+NO 
+ 
+ 
+ 
+ 
+3.1       If yes, furnish particulars 
+…………………………….............................................................................……………………… 
+ 
+ 
+…….....................…………………………….............................................................…………… 
+ 
+DECLARATION FOR PROCUREMENT ABOVE R10 MILLION (ALL APPLICABLE TAXES INCLUDED) 
+MBD 5
+
+[Page 17]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+17 
+ 
+4. Will any portion of goods or services be sourced from outside the Republic, and, if so, what portion of payment from the 
+municipality / municipal entity is expected to be transferred out of the Republic?    
+*YES 
+NO 
+ 
+4.1 
+If yes, furnish particulars 
+……………………………………………………............................................................. 
+ 
+ 
+…………………………………………………...........................................................….. 
+ 
+CERTIFICATION 
+ 
+I, THE UNDERSIGNED (FULL NAME) ………………………………………….................... 
+ 
+CERTIFY THAT THE INFORMATION FURNISHED ON THIS DECLARATION FORM IS 
+TRUE AND CORRECT. 
+ 
+       I ACCEPT THAT, IN ADDITION TO CANCELLATION OF A CONTRACT, ACTION    
+       MAY BE TAKEN AGAINST ME SHOULD THIS DECLARATION PROVE TO BE FALSE. 
+ 
+  
+ ……………………………………….................... 
+ 
+ 
+       ………...................…….............    
+   Name/s and Surname of Bidder     
+ 
+ 
+                               Signature       
+   
+ 
+  ………………………………………......................                                         .......................................2024 
+    Position in the Firm/Company 
+ 
+ 
+ 
+ 
+                    Date
+
+[Page 18]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+18 
+ 
+This preference form must form part of all tenders invited.  It contains general information and serves as a claim form for 
+preference points for specific goals.  
+ 
+NB: 
+BEFORE COMPLETING THIS FORM, TENDERERS MUST STUDY THE GENERAL CONDITIONS, DEFINITIONS 
+AND DIRECTIVES APPLICABLE IN RESPECT OF THE TENDER AND PREFERENTIAL PROCUREMENT 
+REGULATIONS, 2022 
+ 
+1. 
+GENERAL CONDITIONS 
+1.1 
+The following preference point systems are applicable to invitations to tender: 
+- 
+the 80/20 system for requirements with a Rand value of up to R50 000 000 (all applicable taxes included); and  
+- 
+the 90/10 system for requirements with a Rand value above R50 000 000 (all applicable taxes included). 
+1.2 
+To be completed by the organ of state 
+a) The applicable preference point system for this tender is the 80/20 preference point system. 
+ 
+b) The 80/20 will be applicable in this tender.  
+ 
+1.3 
+Points for this tender (even in the case of a tender for income-generating contracts) shall be awarded for:  
+(a) Price; and 
+(b) Specific Goals. 
+1.4 
+To be completed by the organ of state: 
+The maximum points for this tender are allocated as follows: 
+ 
+POINTS 
+PRICE 
+          90 
+SPECIFIC GOALS 
+          10 
+Total points for Price and SPECIFIC GOALS  
+          100 
+ 
+1.5 
+Failure on the part of a tenderer to submit proof or documentation required in terms of this tender to claim points for specific 
+goals with the tender, will be interpreted to mean that preference points for specific goals are not claimed. 
+1.6 
+The organ of state reserves the right to require of a tenderer, either before a tender is adjudicated or at any time 
+subsequently, to substantiate any claim in regard to preferences, in any manner required by the organ of state. 
+ 
+MBD 6.1 PREFERENCE CLAIMED IN TERMS OF THE PREFERENTIAL PROCUREMENT REGULATIONS, 
+2022
+
+[Page 19]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+19 
+2. 
+DEFINITIONS 
+(a)  “tender” means a written offer in the form determined by an organ of state in response to an invitation to provide goods 
+or services through price quotations, competitive tendering process or any other method envisaged in legislation.  
+(b) “price” means an amount of money tendered for goods or services and includes all applicable taxes less all 
+unconditional discounts.  
+(c) “Rand value” means the total estimated value of a contract in Rand, calculated at the time of bid invitation, and includes 
+all applicable taxes.  
+(d) “tender for income-generating contracts” means a written offer in the form determined by an organ of state in response 
+to an invitation for the origination of income-generating contracts through any method envisaged in legislation that will 
+result in a legal agreement between the organ of state and a third party that produces revenue for the organ of state, and 
+includes, but is not limited to, leasing and disposal of assets and concession contracts, excluding direct sales and disposal 
+of assets through public auctions; and  
+(e) “The Act” means the Preferential Procurement Policy Framework Act, 2000 (Act No. 5 of 2000).   
+3. 
+FORMULAE FOR PROCUREMENT OF GOODS AND SERVICES 
+3.1. 
+POINTS AWARDED FOR PRICE 
+ 
+3.1.1   THE 80/20 OR 90/10 PREFERENCE POINT SYSTEMS  
+ 
+A maximum of 80 or 90 points is allocated for price on the following basis: 
+ 
+80/20 
+or 
+90/10 
+ 
+ 
+ 
+𝑷𝒔= 𝟖𝟎(𝟏−
+𝑷𝒕−𝑷𝒎𝒊𝒏⬚
+𝑷𝒎𝒊𝒏⬚) 
+or 
+𝑷𝒔= 𝟗𝟎(𝟏−
+𝑷𝒕−𝑷𝒎𝒊𝒏⬚
+𝑷𝒎𝒊𝒏⬚) 
+ 
+Where 
+ 
+Ps 
+= 
+Points scored for price of tender under consideration 
+ 
+Pt 
+= 
+Price of tender under consideration 
+ 
+Pmin 
+= 
+Price of lowest acceptable tender 
+3.2. 
+FORMULAE FOR DISPOSAL OR LEASING OF STATE ASSETS AND INCOME GENERATING PROCUREMENT 
+3.2.1. 
+POINTS AWARDED FOR PRICE 
+ 
+A maximum of 80 or 90 points is allocated for price on the following basis: 
+ 
+              80/20                                      or                                            90/10 
+ 
+ 
+ 
+𝑷𝒔= 𝟖𝟎(𝟏+
+𝑷𝒕−𝑷𝒎𝒂𝒙⬚
+𝑷𝒎𝒂𝒙⬚) 
+or 
+𝑷𝒔= 𝟗𝟎(𝟏+
+𝑷𝒕−𝑷𝒎𝒂𝒙⬚
+𝑷𝒎𝒂𝒙
+) 
+Where 
+ 
+Ps 
+= 
+Points scored for price of tender under consideration 
+ 
+Pt 
+= 
+Price of tender under consideration 
+ 
+Pmax 
+= 
+Price of highest acceptable tender
+
+[Page 20]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+20 
+4. 
+POINTS AWARDED FOR SPECIFIC GOALS  
+4.1. 
+In terms of Regulation 4(2); 5(2); 6(2) and 7(2) of the Preferential Procurement Regulations, preference points must be 
+awarded for specific goals stated in the tender. For the purposes of this tender the tenderer will be allocated points based 
+on the goals stated in table 1 below as may be supported by proof/ documentation stated in the conditions of this tender:  
+4.2. 
+In cases where organs of state intend to use Regulation 3(2) of the Regulations, which states that, if it is unclear whether 
+the 80/20 or 90/10 preference point system applies, an organ of state must, in the tender documents, stipulate in the case 
+of—  
+(a) an invitation for tender for income-generating contracts, that either the 80/20 or 90/10 preference point system 
+will apply and that the highest acceptable tender will be used to determine the applicable preference point 
+system; or 
+  
+(b) any other invitation for tender, that either the 80/20 or 90/10 preference point system will apply and that the 
+lowest acceptable tender will be used to determine the applicable preference point system,   
+then the organ of state must indicate the points allocated for specific goals for both the 90/10 and 80/20 preference point 
+system.
+
+[Page 21]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+21 
+Table 1: Specific goals for the tender and points claimed are indicated per the table below.  
+Note to tenderers: "The tenderer must indicate how they claim points for each preference point system. Points claimed 
+will be verified by RLM using the CSD Report, and preference points will be allocated accordingly. Bidders who fail to 
+complete the table below will NOT be disqualified BUT will not be allocated preference points. 
+The specific goals 
+allocated points in terms 
+of this tender 
+Number of points 
+allocated 
+(80/20 system) 
+Number of points 
+claimed (80/20 system) 
+(To be completed by 
+the tenderer) 
+Means of Verification 
+Rustenburg Jurisdiction 
+4 
+ 
+Current municipal rates and taxes 
+statement/ Traditional Council letter/ 
+Original Affidavit for the company (from 
+previous billable month determined by 
+the date of tender closure) for the 
+company’s’ address 
+Rural /Township 
+Businesses 
+4 
+ 
+Current municipal rates and taxes 
+statement/ Traditional Council letter/ 
+Original Affidavit for the company (from 
+previous billable month determined by 
+the date of tender closure) for the 
+company’s’ address 
+Black People 
+2 
+ 
+Full CSD Report 
+Persons with Disability 
+2 
+ 
+Full CSD Report 
+Youth 
+4 
+ 
+Full CSD Report 
+Women 
+2 
+ 
+Full CSD Report 
+SMME’s 
+2 
+ 
+Full CSD Report 
+Total  
+20 
+ 
+ 
+ 
+DECLARATION WITH REGARD TO COMPANY/FIRM 
+4.3. 
+Name of company/firm……………………………………………………………………. 
+4.4. 
+Company registration number: …………………………………………………………... 
+4.5. 
+TYPE OF COMPANY/ FIRM 
+ 
+Partnership/Joint Venture / Consortium 
+ 
+One-person business/sole propriety 
+ 
+Close corporation 
+ 
+Public Company 
+ 
+Personal Liability Company 
+ 
+(Pty) Limited  
+ 
+Non-Profit Company 
+ 
+State Owned Company
+
+[Page 22]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+22 
+[TICK APPLICABLE BOX]    
+4.6. 
+I, the undersigned, who is duly authorised to do so on behalf of the company/firm, certify that the points claimed, based 
+on the specific goals as advised in the tender, qualifies the company/ firm for the preference(s) shown and I acknowledge 
+that: 
+i) The information furnished is true and correct; 
+ii) The preference points claimed are in accordance with the General Conditions as indicated in paragraph 1 of this 
+form. 
+iii) In the event of a contract being awarded as a result of points claimed as shown in paragraphs 1.4 and 4.2, the 
+contractor may be required to furnish documentary proof to the satisfaction of the organ of state that the claims are 
+correct.  
+iv) If the specific goals have been claimed or obtained on a fraudulent basis or any of the conditions of contract have 
+not been fulfilled, the organ of state may, in addition to any other remedy it may have – 
+(a) 
+disqualify the person from the tendering process. 
+(b) 
+recover costs, losses or damages it has incurred or suffered as a result of that person’s conduct. 
+(c) 
+cancel the contract and claim any damages which it has suffered as a result of having to make 
+less favourable arrangements due to such cancellation. 
+(d) 
+recommend that the tenderer or contractor, its shareholders and directors, or only the 
+shareholders and directors who acted on a fraudulent basis, be restricted from obtaining 
+business from any organ of state for a period not exceeding 10 years, after the audi alteram 
+partem (hear the other side) rule has been applied; and 
+(e) 
+forward the matter for criminal prosecution, if deemed necessary. 
+ 
+………………………………………. 
+SIGNATURE(S) OF TENDERER(S) 
+ 
+SURNAME AND NAME:  ………………………………………………………. 
+DATE:  
+ 
+ ……………………………………………………… 
+ADDRESS: 
+ 
+ ……………………………………………………… 
+ 
+ 
+ 
+ ……………………………………………………… 
+ 
+ 
+ ………………………………………………………
+
+[Page 23]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+23 
+ 
+1 
+This Municipal Bidding Document must form part of all bids invited.   
+ 
+2 
+It serves as a declaration to be used by municipalities and municipal entities in ensuring that when goods 
+and services are being procured, all reasonable steps are taken to combat the abuse of the supply chain 
+management system.  
+ 
+3 
+The bid of any bidder may be rejected if that bidder, or any of its directors have: 
+ 
+a. abused the municipality’s / municipal entity’s supply chain management system or committed any 
+improper conduct in relation to such system; 
+b. been convicted for fraud or corruption during the past five years; 
+c. willfully neglected, reneged on or failed to comply with any government, municipal or other public sector 
+contract during the past five years; or 
+d. been listed in the Register for Tender Defaulters in terms of section 29 of the Prevention and Combating 
+of Corrupt Activities Act (No 12 of 2004). 
+ 
+4 
+In order to give effect to the above, the following questionnaire must be completed and submitted with the bid. 
+ 
+Item 
+Question 
+Yes 
+No 
+4.1 
+Is the bidder or any of its directors listed on the National Treasury’s Database of Restricted 
+Suppliers as companies or persons prohibited from doing business with the public sector? 
+(Companies or persons who are listed on this Database were informed in writing of this restriction 
+by the Accounting Officer/Authority of the institution that imposed the restriction after the audi 
+alteram partem rule was applied). 
+The Database of Restricted Suppliers now resides on the National Treasury’s 
+website(www.treasury.gov.za) and can be accessed by clicking on its link at the bottom of the home 
+page.  
+Yes 
+ 
+ 
+ 
+No 
+ 
+ 
+4.1.1 
+If so, furnish particulars: 
+ 
+4.2 
+Is the bidder or any of its directors listed on the Register for Tender Defaulters in terms of section 29 of 
+the Prevention and Combating of Corrupt Activities Act (No 12 of 2004)?  
+The Register for Tender Defaulters can be accessed on the National Treasury’s website 
+(www.treasury.gov.za) by clicking on its link at the bottom of the home page.  
+ 
+Yes 
+ 
+No 
+ 
+4.2.1 
+If so, furnish particulars: 
+ 
+ 
+ 
+DECLARATION OF BIDDER’S PAST SUPPLY CHAIN MANAGEMENT PRACTICES 
+MBD 8
+
+[Page 24]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+24 
+4.3 
+Was the bidder or any of its directors convicted by a court of law (including a court of law outside the 
+Republic of South Africa) for fraud or corruption during the past five years? 
+ 
+Yes 
+ 
+No 
+ 
+4.3.1 
+If so, furnish particulars: 
+ 
+Item 
+Question 
+Yes 
+No 
+4.4 
+Does the bidder or any of its directors owe any municipal rates and taxes or municipal charges to the 
+municipality / municipal entity, or to any other municipality / municipal entity, that is in arrears for more 
+than three months? 
+ 
+Yes 
+ 
+No 
+ 
+4.4.1 
+If so, furnish particulars: 
+ 
+4.5 
+Was any contract between the bidder and the municipality / municipal entity or any other organ of state 
+terminated during the past five years on account of failure to perform on or comply with the contract? 
+ 
+Yes 
+ 
+No 
+ 
+4.7.1 
+If so, furnish particulars: 
+ 
+ 
+ 
+CERTIFICATION 
+ 
+ 
+I, THE UNDERSIGNED (FULL NAME)  …………..……………………………..…… 
+ CERTIFY THAT THE INFORMATION FURNISHED ON THIS 
+ DECLARATION FORM TRUE AND CORRECT. 
+ 
+ 
+I ACCEPT THAT, IN ADDITION TO CANCELLATION OF A CONTRACT, ACTION MAY BE TAKEN AGAINST ME SHOULD 
+THIS DECLARATION PROVE TO BE FALSE. 
+ 
+ 
+ ………………………………………... 
+ 
+ 
+………………………….. 
+ Signature  
+ 
+ 
+ 
+ 
+ 
+Date 
+ 
+ 
+ 
+ ………………………………………. 
+ 
+ 
+………………………….. 
+ Position 
+ 
+ 
+ 
+ 
+ 
+Name of Bidder
+
+[Page 25]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+25 
+ 
+1 
+This Municipal Bidding Document (MBD) must form part of all bids¹ invited. 
+2 
+Section 4 (1) (b) (iii) of the Competition Act No. 89 of 1998, as amended, prohibits an agreement between, or concerted practice 
+by, firms, or a decision by an association of firms, if it is between parties in a horizontal relationship and if it involves collusive 
+bidding (or bid rigging).² Collusive bidding is a pe se prohibition meaning that it cannot be justified under any grounds. 
+3 
+Municipal Supply Regulation 38 (1) prescribes that a supply chain management policy must provide measures for the 
+combating of abuse of the supply chain management system, and must enable the accounting officer, among others, to: 
+a. 
+take all reasonable steps to prevent such abuse; 
+ 
+ 
+b. 
+reject the bid of any bidder if that bidder or any of its directors has abused the supply chain management system 
+of the municipality or municipal entity or has committed any improper conduct in relation to such system; and 
+c. 
+cancel a contract awarded to a person if the person committed any corrupt or fraudulent act during the bidding 
+process or the execution of the contract. 
+4. This MBD serves as a certificate of declaration that would be used by institutions to ensure that, when bids are considered, 
+reasonable steps are taken to prevent any form of bid-rigging.  
+5. In order to give effect to the above, the attached Certificate of Bid Determination (MBD 9) must be completed and submitted 
+with the bid: 
+¹ Includes price quotations, advertised competitive bids, limited bids and proposals. 
+² Bid rigging (or collusive bidding) occurs when businesses, that would otherwise be expected to compete, secretly conspire to 
+raise prices or lower the quality of goods and / or services for purchasers who wish to acquire goods and / or services through a 
+bidding process.  Bid rigging is, therefore, an agreement between competitors not to compete. 
+I, the undersigned, in submitting the accompanying bid: RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR 
+THE SUPPLY, DELIVERY, COMMISSIONING, SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS 
+WELL AS PROVISION OF MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS (Bid Number and 
+Description) in response to the invitation for the bid made by: 
+______________________________RUSTENBURG LOCAL MUNICIPALITY ___________________________ 
+(Name of Municipality / Municipal Entity) 
+do hereby make the following statements that I certify to be true and complete in every respect: 
+I certify, on behalf of: ___________________________________________________________________ that: 
+(Name of Bidder): Bidders are required to fill in the name of their company in the space provided above. 
+1. I have read and I understand the contents of this Certificate; 
+2. I understand that the accompanying bid will be disqualified if this Certificate is found not to be true and complete in every 
+respect; 
+3. I am authorized by the bidder to sign this Certificate, and to submit the accompanying bid, on behalf of the bidder; 
+4. Each person whose signature appears on the accompanying bid has been authorized by the bidder to determine the terms 
+of, and to sign, the bid, on behalf of the bidder; 
+5. For the purposes of this Certificate and the accompanying bid, I understand that the word “competitor” shall include any 
+individual or organization, other than the bidder, whether or not affiliated with the bidder, who: 
+(a)  
+has been requested to submit a bid in response to this bid invitation; 
+MBD 9: CERTIFICATE OF INDEPENDENT BID DETERMINATION
+
+[Page 26]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+26 
+(b)  
+could potentially submit a bid in response to this bid invitation, based on their qualifications, abilities or 
+experience; and 
+(c) 
+provides the same goods and services as the bidder and/or is in the same line of business as the bidder 
+6. The bidder has arrived at the accompanying bid independently from, and without consultation, communication, agreement 
+or arrangement with any competitor. However communication between partners in a joint venture or consortium³ will not 
+be construed as collusive bidding. 
+7. In particular, without limiting the generality of paragraphs 6 above, there has been no consultation, communication, 
+agreement or arrangement with any competitor regarding: 
+(a) 
+prices;       
+(b) 
+geographical area where product or service will be rendered (market allocation)   
+(c)  
+methods, factors or formulas used to calculate prices; 
+(d) 
+ the intention or decision to submit or not to submit, a bid;  
+(e) 
+the submission of a bid which does not meet the specifications and conditions of the bid; or 
+(f) 
+bidding with the intention not to win the bid. 
+8. In addition, there have been no consultations, communications, agreements or arrangements with any competitor 
+regarding the quality, quantity, specifications and conditions or delivery particulars of the products or services to which this 
+bid invitation relates. 
+9. The terms of the accompanying bid have not been, and will not be, disclosed by the bidder, directly or indirectly, to any 
+competitor, prior to the date and time of the official bid opening or of the awarding of the contract.  
+ 
+10. I am aware that, in addition and without prejudice to any other remedy provided to combat any restrictive practices related 
+to bids and contracts, bids that are suspicious will be reported to the Competition Commission for investigation and 
+possible imposition of administrative penalties in terms of section 59 of the Competition Act  No 89 of 1998 and or may 
+be reported to the National Prosecuting Authority (NPA) for criminal investigation and or may be restricted from conducting 
+business with the public sector for a period not exceeding ten (10) years in terms of the Prevention and Combating of 
+Corrupt Activities Act  No 12 of 2004 or any other applicable legislation. 
+³ Joint venture or Consortium means an association of persons for the purpose of combining their expertise, property, capital, 
+efforts, skill and knowledge in an activity for the execution of a contract. 
+ 
+ ………………………………………………… 
+ 
+ 
+………………………………… 
+Signature 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date 
+ 
+…………………………………………………. 
+ 
+ 
+………………………………… 
+Position  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name of Bidder
+
+[Page 27]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+27 
+ 
+ 
+ 
+Having examined the BID and the general conditions thereto, I/we hereby certify that the bid price in the bid schedules and 
+the preference points claimed are correct. 
+ 
+I/We furthermore certify that I/we/the Company comply/complies with the issues around Section 38 of the Supply Chain 
+Management Policy inter alia: 
+ 
+IF ALL IS IN PLACE IN RESPECT OF THE CONTRACTUAL ISSUES LISTED IN THE TABLE BELOW; THE ANSWER 
+SHOULD BE YES. ATTACH SUPPORTING INFORMATION IF ANY OF THE ANSWERS IS NO. 
+Note that the Municipality’s Procurement Section will verify the statements. 
+I/we certify the following: 
+ 
+No. 
+CONTRACTUAL ISSUES 
+YES 
+NO 
+1. 
+In terms of Section 38 (1) (c) that the Bidder or any of the Directors is not listed as a person 
+prohibited from doing business with the Public Sector 
+ 
+ 
+2. 
+In terms of Section 38 (1)(d) (i) that the Bidder or any of the Directors does not owe rates 
+and taxes or Municipal service charges to any Municipality that is in any arrears for more 
+than three (3) months. Copies of the latest Municipal service charges statement of the 
+Bidder and the Directors must be attached to the tender/bid document 
+ 
+ 
+3. 
+In terms of Section 38 (1) (d) (ii) that the Bidder or any of the Directors has not failed to 
+perform satisfactorily on a previous/previous contract/s with the Municipality or any organ 
+of state 
+ 
+ 
+4. 
+In terms of Section 38 (i) (9) that the Bidder or any of the Directors has not been convicted 
+for fraud or corruption during the past five (5) years 
+ 
+ 
+5. 
+In terms of Section 38 (i) (9) (iv) that the Bidder or any of the Directors has not been listed 
+in the Register Of Tender Defaulters in terms of Section 29 of the Prevention and 
+Combating of Corrupt Activities Act, (Act No. 12 of 2004) 
+ 
+ 
+ 
+................................................. 
+ 
+ 
+ 
+ 
+..................................2024. 
+SIGNATURE OF BIDDER  
+ 
+ 
+ 
+ 
+ 
+DATE 
+             ................................................................................................................. 
+             FULL NAME AND SURNAME OF BIDDER IN BLOCK LETTERS 
+ 
+             COMPANY NAME: .................................................................................... 
+ 
+             PHYSICAL ADDRESS: ............................................................................ 
+ 
+             TELEPHONE NUMBER: ............................................................................ 
+ 
+             EMAIL ADDRESS: .............................................................................. 
+ 
+             WITNESS 1: ......................................          WITNESS 2: ..................................................  
+ 
+SECTION 38: DECLARATION FORM
+
+[Page 28]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+28 
+ 
+ 
+SIGNATORY AUTHORISATION 
+ 
+ 
+(TO BE COMPLETED BY THE BIDDER) 
+ 
+I/We the undersigned, am/are authorized to enter into this contract on behalf of  
+ 
+------------------------------------------------------------------------------------------------------------------------------- 
+(Name of Firm) 
+ 
+By resolution taken at a meeting held on the ……………. day of (month)……………………...........2024 resolved to authorise  
+ 
+……………………………………………. holder of ID number ……………………………………………… to sign all the documents on 
+behalf of the company. 
+                                                          
+Print name of authorised representative: …………………………………… 
+ 
+Signature: ………………………………………………………….
+
+[Page 29]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+29 
+ 
+PLEASE NOTE: Failure to complete all blank spaces on this form or attend to other details mentioned therein will render 
+the bid/tender liable to rejection.  
+ 
+ 
+ 
+ 
+NAME AND SURNAME OF THE DIRECTORS  
+SIGNATURE
+
+[Page 30]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+30 
+ 
+ 
+GENERAL CONDITIONS OF THE CONTRACT 
+(NOT TO BE ALTERED) 
+ 
+PROCUREMENT: GENERAL CONDITIONS OF CONTRACT 
+Dated July 2010 as set out by the National Treasury: Republic of South Africa  
+TABLE OF CLAUSES 
+1. Definitions 
+2. Application 
+3. General 
+4. Standards 
+5. Use of contract documents and information inspection 
+6. Patent Rights 
+7. Performance security 
+8. Inspections, tests and analyses 
+9. Packing 
+10. Delivery and documents 
+11. Insurance 
+12. Transportation 
+13. Incidental Services 
+14. Spare parts 
+15. Warranty 
+16. Payment 
+17. Prices 
+18. Variation orders 
+19. Assignment 
+20. Subcontracts 
+21. Delays in the supplier’s performance 
+22. Penalties 
+23. Termination for default 
+24. Anti-dumping and countervailing duties and rights 
+25. Force Majeure 
+26. Termination for insolvency 
+27. Settlement of Disputes 
+28. Limitation of Liability 
+29. Governing language 
+30. Applicable law 
+31. Notices 
+32. Taxes and duties 
+33. Transfer of contracts 
+34. Amendments of contracts 
+35. Prohibition of restrictive practices
+
+[Page 31]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+31 
+ 
+General Conditions of Contract 
+1. Definitions: 1. The following terms shall be interpreted as indicated: 
+ 
+1.1 “Closing time” means the date and hour specified in the bidding documents for the receipt of bids. 
+ 
+1.2 “Contract” means the written agreement entered into between the purchaser and the supplier, as recorded in   
+the contract form signed by the parties, including all attachments and appendices thereto and all documents incorporated 
+by reference therein. 
+ 
+1.3 “Contract price” means the price payable to the supplier under the contract for the full and proper performance  
+of his contractual obligations. 
+ 
+1.4 “Corrupt practice” means the offering, giving, receiving, or soliciting of anything of value to influence the action  
+of a public official in the procurement process or in contract execution. 
+ 
+1.5 "Countervailing duties" are imposed in cases where an enterprise abroad is subsidized by its government and encouraged 
+to market its products internationally. 
+ 
+1.6 “Country of origin” means the place where the goods were mined, grown or produced or from which the services are 
+supplied. Goods are produced when, through manufacturing, processing or substantial and major assembly of 
+components, a commercially recognized new product results that is substantially different in basic characteristics or in 
+purpose or utility from its components. 
+ 
+1.7 “Day” means calendar day. 
+ 
+1.8 “Delivery” means delivery in compliance of the conditions of the contract or order.  
+ 
+1.9 “Delivery ex stock” means immediate delivery directly from stock actually on hand. 
+ 
+1.10 “Delivery into consignees store or to his site” means delivered and unloaded in the specified store or depot or on the 
+specified site in compliance with the conditions of the contract or order, the supplier bearing all risks and charges involved 
+until the goods are so delivered and a valid receipt is obtained. 
+ 
+1.11 "Dumping" occurs when a private enterprise abroad market its goods on own initiative in the RSA at lower prices than that 
+of the country of origin and which have the potential to harm the local industries in the RSA. 
+ 
+1.12 ” Force majeure” means an event beyond the control of the supplier and not involving the supplier’s fault or negligence 
+and not foreseeable. Such events may include, but is not restricted to, acts of the purchaser in its sovereign capacity, wars 
+or revolutions, fires, floods, epidemics, quarantine restrictions and freight embargoes. 
+ 
+1.13 “Fraudulent practice” means a misrepresentation of facts in order to influence a procurement process or the execution of 
+a contract to the detriment of any bidder, and includes collusive practice among bidders (prior to or after bid submission)
+
+[Page 32]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+32 
+designed to establish bid prices at artificial non-competitive levels and to deprive the bidder of the benefits of free and 
+open competition. 
+ 
+1.14 “GCC” means the General Conditions of Contract. 
+ 
+1.15 “Goods” means all of the equipment, machinery, and/or other materials that the supplier is required to supply to the 
+purchaser under the contract. 
+ 
+1.16 “Imported content” means that portion of the bidding price represented by the cost of components, parts or materials which 
+have been or are still to be imported (whether by the supplier or his subcontractors) and which costs are inclusive of the 
+costs abroad, plus freight and other direct importation costs such as landing costs, dock dues, import duty, sales duty or 
+other similar tax or duty at the South African place of entry as well as transportation and handling charges to the factory in 
+the Republic where the goods covered by the bid will be manufactured. 
+ 
+1.17 “Local content” means that portion of the bidding price, which is not included in the imported content provided that local 
+manufacture does take place. 
+ 
+1.18 “Manufacture” means the production of products in a factory using labour, materials, components and machinery and 
+includes other related value-adding activities. 
+ 
+1.19 “Order” means an official written order issued for the supply of goods or works or the rendering of a service. 
+ 
+1.20 “Project site,” where applicable, means the place indicated in bidding documents. 
+ 
+1.21 “Purchaser” means the organization purchasing the goods. 
+ 
+1.22 “Republic” means the Republic of South Africa. 
+ 
+1.23 “SCC” means the Special Conditions of Contract. 
+ 
+1.24 “Services” means those functional services ancillary to the supply of the goods, such as transportation and any other 
+incidental services, such as installation, commissioning, provision of technical assistance, training, catering, gardening, 
+security, maintenance and other such obligations of the supplier covered under the contract. 
+ 
+1.25 “Supplier” means the successful bidder who is awarded the contract to maintain and administer the required and specified 
+service(s) to the State. 
+ 
+1.26 “Tort” means in breach of contract. 
+ 
+1.27 “Turnkey” means a procurement process where one service provider assumes total responsibility for all aspects of the 
+project and delivers the full end product / service required by the contract. 
+ 
+1.28 “Written” or “in writing” means hand-written in ink or any form of electronic or mechanical writing.
+
+[Page 33]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+33 
+ 
+ 
+2. Application  
+ 
+2.1 These general conditions are applicable to all bids, contracts and orders including bids for functional and professional services 
+(excluding professional services related to the building and construction industry), sales, hiring, letting and the granting or acquiring 
+of rights, but excluding immovable property, unless otherwise indicated in the bidding documents. 
+ 
+2.2 Where applicable, special conditions of contract are also laid down to cover specific goods, services or works. 
+ 
+2.3 Where such special conditions of contract are in conflict with these general conditions, the special conditions shall apply. 
+ 
+3. General  
+ 
+3.1 Unless otherwise indicated in the bidding documents, the purchaser shall not be liable for any expense incurred in the 
+preparation and submission of a bid. Where applicable a nonrefundable fee for documents may be charged. 
+ 
+3.2 Invitations to bid are usually published in locally distributed news media and on the municipality/municipal entity website. 
+ 
+4. Standards  
+ 
+4.1 The goods supplied shall conform to the standards mentioned in the bidding documents and specifications. 
+ 
+5. Use of contract documents and information inspection 
+ 
+5.1 The supplier shall not, without the purchaser’s prior written consent, disclose the contract, or any provision thereof, or any 
+specification, plan, drawing, pattern, sample, or information furnished by or on behalf of the purchaser in connection therewith, to 
+any person other than a person employed by the supplier in the performance of the contract. Disclosure to any such employed 
+person shall be made in confidence and shall extend only as far as may be necessary for purposes of such performance. 
+ 
+5.2 The supplier shall not, without the purchaser’s prior written consent, make use of any document or information mentioned in 
+GCC clause 5.1 except for purposes of performing the contract. 
+ 
+5.3 Any document, other than the contract itself mentioned in GCC clause 5.1 shall remain the property of the purchaser and shall 
+be returned (all copies) to the purchaser on completion of the supplier’s performance under the contract if so required by the 
+purchaser. 
+ 
+5.4 The supplier shall permit the purchaser to inspect the supplier’s records relating to the performance of the supplier and to have 
+them audited by auditors appointed by the purchaser, if so required by the purchaser. 
+ 
+6. Patent Rights  
+ 
+6.1 The supplier shall indemnify the purchaser against all third-party claims of infringement of patent, trademark, or industrial design 
+rights arising from use of the goods or any part thereof by the purchaser.
+
+[Page 34]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+34 
+ 
+6.2 When a supplier developed documentation / projects for the municipality / municipal entity, the intellectual, copy and patent 
+rights or ownership of such documents or projects will vest in the municipality / municipal entity. 
+ 
+7. Performance security 
+ 
+7.1 Within thirty (30) days of receipt of the notification of contract award, the successful bidder shall furnish to the purchaser the 
+performance security of the amount specified in SCC. 
+7.2 The proceeds of the performance security shall be payable to the purchaser as compensation for any loss resulting from the 
+supplier’s failure to complete his obligations under the contract. 
+ 
+7.3 The performance security shall be denominated in the currency of the contract or in a freely convertible currency acceptable to 
+the purchaser and shall be in one of the following forms: 
+ 
+(a) a bank guarantee or an irrevocable letter of credit issued by a reputable bank located in the purchaser’s country or abroad, 
+acceptable to the purchaser, in the form provided in the bidding documents or another form acceptable to the purchaser; or 
+(b) a cashier’s or certified cheque. 
+ 
+7.4 The performance security will be discharged by the purchaser and returned to the supplier not later than thirty (30) days following 
+the date of completion of the supplier’s performance obligations under the contract, including any warranty obligations, unless 
+otherwise specified. 
+ 
+8. Inspections, tests and analyses 
+ 
+8.1 All pre-bidding testing will be for the account of the bidder. 
+ 
+8.2 If it is a bid condition that goods to be produced or services to be rendered should at any stage be subject to inspections, tests 
+and analyses, the bidder or contractor’s premises shall be open, at all reasonable hours, for inspection by a representative of the 
+purchaser or organization acting on behalf of the purchaser. 
+ 
+8.3 If there are no inspection requirements indicated in the bidding documents and no mention is made in the contract, but during 
+the contract period it is decided that inspections shall be carried out, the purchaser shall itself make the necessary arrangements, 
+including payment arrangements with the testing authority concerned. 
+ 
+8.4 If the inspections, tests and analyses referred to in clauses 8.2 and 8.3 show the goods to be in accordance with the contract 
+requirements, the cost of the inspections, tests and analyses shall be defrayed by the purchaser. 
+ 
+8.5 Where the goods or services referred to in clauses 8.2 and 8.3 do not comply with the contract requirements, irrespective of 
+whether such goods or services are accepted or not, the cost in connection with these inspections, tests or analyses shall be 
+defrayed by the supplier. 
+ 
+8.6 Goods and services which are referred to in clauses 8.2 and 8.3 and which do not comply with the contract requirements may 
+be rejected.
+
+[Page 35]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+35 
+8.7 Any contract goods may on or after delivery be inspected, tested or analysed and may be rejected if found not to comply with 
+the requirements of the contract. Such rejected goods shall be held at the cost and risk of the supplier who shall, when called upon, 
+remove them immediately at his own cost and forthwith substitute them with goods, which do comply with the requirements of the 
+contract. Failing such removal the rejected goods shall be returned at the suppliers cost and risk. Should the supplier fail to provide 
+the substitute goods forthwith, the purchaser may, without giving the supplier further opportunity to substitute the rejected goods, 
+purchase such goods as may be necessary at the expense of the supplier. 
+ 
+8.8 The provisions of clauses 8.4 to 8.7 shall not prejudice the right of the purchaser to cancel the contract on account of a breach 
+of the conditions thereof, or to act in terms of Clause 22 of GCC. 
+ 
+9. Packing  
+ 
+9.1 The supplier shall provide such packing of the goods as is required to prevent their damage or deterioration during transit to 
+their final destination, as indicated in the contract. The packing shall be sufficient to withstand, without limitation, rough handling 
+during transit and exposure to extreme temperatures, salt and precipitation during transit, and open storage. Packing, case size 
+weights shall take into consideration, where appropriate, the remoteness of the goods’ final destination and the absence of heavy 
+handling facilities at all points in transit. 
+ 
+9.2 The packing, marking, and documentation within and outside the packages shall comply strictly with such special requirements 
+as shall be expressly provided for in the contract, including additional requirements, if any, and in any subsequent instructions 
+ordered by the purchaser. 
+ 
+10. Delivery and documents 
+ 
+10.1 Delivery of the goods and arrangements for shipping and clearance obligations shall be made by the supplier in accordance 
+with the terms specified in the contract. 
+ 
+11. Insurance  
+ 
+11.1 The goods supplied under the contract shall be fully insured in a freely convertible currency against loss or damage incidental 
+to manufacture or acquisition, transportation, storage and delivery in the manner specified. 
+ 
+12. Transportation 
+ 
+12.1 Should a price other than an all-inclusive delivered price be required, this shall be specified. 
+ 
+13. Incidental Services 
+ 
+13.1 The supplier may be required to provide any or all of the following services, including additional services, if any: 
+(a) performance or supervision of on-site assembly and/or commissioning of the supplied goods; 
+(b) furnishing of tools required for assembly and/or maintenance of the supplied goods; 
+(c) furnishing of a detailed operations and maintenance manual for each appropriate unit of the supplied goods; 
+(d) performance or supervision or maintenance and/or repair of the supplied goods, for a period of time agreed by the parties, 
+provided that this service shall not relieve the supplier of any warranty obligations under this contract; and
+
+[Page 36]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+36 
+ 
+(e) training of the purchaser’s personnel, at the supplier’s plant and/or on-site, in assembly, start-up, operation, maintenance, and/or 
+repair of the supplied goods. 
+ 
+13.2 Prices charged by the supplier for incidental services, if not included in the contract price for the goods, shall be agreed upon 
+in advance by the parties and shall not exceed the prevailing rates charged to other parties by the supplier for similar services. 
+ 
+14. Spare parts  
+ 
+14.1 As specified, the supplier may be required to provide any or all of the following materials, notifications, and information 
+pertaining to spare parts manufactured or distributed by the supplier: 
+ 
+ (a) such spare parts as the purchaser may elect to purchase from the supplier, provided that this election shall not relieve the 
+supplier of any warranty obligations under the contract; and; 
+(b) in the event of termination of production of the spare parts: 
+ 
+ 
+(i) advance notification to the purchaser of the pending termination, in sufficient time to permit the purchaser to procure needed 
+requirements; and (ii) following such termination, furnishing at no cost to the purchaser, the blueprints, drawings, and specifications 
+of the spare parts, if requested. 
+ 
+15. Warranty  
+ 
+15.1 The supplier warrants that the goods supplied under the contract are new, unused, of the most recent or current models and 
+that they incorporate all recent improvements in design and materials unless provided otherwise in the contract. The supplier further 
+warrants that all goods supplied under this contract shall have no defect, arising from design, materials, or workmanship (except 
+when the design and/or material is required by the purchaser’s specifications) or from any act or omission of the supplier, that may 
+develop under normal use of the supplied goods in the conditions prevailing in the country of final destination. 
+ 
+15.2 This warranty shall remain valid for twelve (12) months after the goods, or any portion thereof as the case may be, have been 
+delivered to and accepted at the final destination indicated in the contract, or for eighteen (18) months after the date of shipment 
+from the port or place of loading in the source country, whichever period concludes earlier, unless specified otherwise. 
+ 
+15.3 The purchaser shall promptly notify the supplier in writing of any claims arising under this warranty. 
+ 
+15.4 Upon receipt of such notice, the supplier shall, within the period specified and with all reasonable speed, repair or replace the 
+defective goods or parts thereof, without costs to the purchaser. 
+ 
+15.5 If the supplier, having been notified, fails to remedy the defect(s) within the period specified, the purchaser may proceed to 
+take such remedial action as may be necessary, at the supplier’s risk  
+and expense and without prejudice to any other rights which the purchaser may have against the supplier under the contract. 
+ 
+16. Payment
+
+[Page 37]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+37 
+16.1 The method and conditions of payment to be made to the supplier under this contract shall be specified. 
+ 
+16.2 The supplier shall furnish the purchaser with an invoice accompanied by a copy of the delivery note and upon fulfillment of 
+other obligations stipulated in the contract. 
+ 
+16.3 Payments shall be made promptly by the purchaser, but in no case later than thirty (30) days after submission of an invoice 
+or claim by the supplier. 
+ 
+16.4 Payment will be made in Rand unless otherwise stipulated. 
+ 
+17. Prices  
+ 
+17.1 Prices charged by the supplier for goods delivered and services performed under the contract shall not vary from the prices 
+quoted by the supplier in his bid, with the exception of any price adjustments authorized or in the purchaser’s request for bid validity 
+extension, as the case may be. 
+ 
+18. Variation orders 
+ 
+18.1 In cases where the estimated value of the envisaged changes in purchase does not vary more than 15% of the total value of 
+the original contract, the contractor may be instructed to deliver the goods or render the services as such. In cases of measurable 
+quantities, the contractor may be approached to reduce the unit price, and such offers may be accepted provided that there is no 
+escalation in price. 
+ 
+19. Assignment  
+ 
+19.1 The supplier shall not assign, in whole or in part, its obligations to perform under the contract, except with the purchaser’s prior 
+written consent. 
+ 
+20. Subcontracts 
+ 
+20.1 The supplier shall notify the purchaser in writing of all subcontracts awarded under these contracts if not already specified in 
+the bid. Such notification, in the original bid or later, shall not relieve the supplier from any liability or obligation under the contract. 
+ 
+21. Delays in the supplier’s delivery and/or performance 
+ 
+21.1 Delivery of the goods and performance of services shall be made by the supplier in accordance with the time schedule 
+prescribed by the purchaser in the contract. 
+ 
+21.2 If at any time during performance of the contract, the supplier or its subcontractor(s) should encounter conditions impeding 
+timely delivery of the goods and performance of services, the supplier shall promptly notify the purchaser in writing of the fact of the 
+delay, it’s likely duration and its cause(s). As soon as practicable after receipt of the supplier’s notice, the purchaser shall evaluate 
+the situation and may at his discretion extend the supplier’s time for performance, with or without the imposition of penalties, in 
+which case the extension shall be ratified by the parties by amendment of contract.
+
+[Page 38]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+38 
+21.3 The right is reserved to procure outside of the contract small quantities or to have minor essential services executed if an 
+emergency arises, the supplier’s point of supply is not situated at or near the place where the goods are required, or the supplier’s 
+services are not readily available. 
+ 
+21.4 Except as provided under GCC Clause 25, a delay by the supplier in the performance of its delivery obligations shall render 
+the supplier liable to the imposition of penalties, pursuant to GCC Clause 22, unless an extension of time is agreed upon pursuant 
+to GCC Clause 22.2 without the application of penalties. 
+ 
+21.5 Upon any delay beyond the delivery period in the case of a goods contract, the purchaser shall, without cancelling the contract, 
+be entitled to purchase goods of a similar quality and up to the same quantity in substitution of the goods not supplied in conformity 
+with the contract and to return any goods delivered later at the supplier’s expense and risk, or to cancel the contract and buy such 
+goods as may be required to complete the contract and without prejudice to his other rights, be entitled to claim damages from the 
+supplier. 
+ 
+22. Penalties  
+ 
+22.1 Subject to GCC Clause 25, if the supplier fails to deliver any or all of the goods or to perform the services within the period(s) 
+specified in the contract, the purchaser shall, without prejudice to its other remedies under the contract, deduct from the contract 
+price, as a penalty, a sum calculated on the delivered price of the delayed goods or unperformed services using the current prime 
+interest rate calculated for each day of the delay until actual delivery or performance. The purchaser may also consider termination 
+of the contract pursuant to GCC Clause 23. 
+ 
+23. Termination for default 
+ 
+23.1 The purchaser, without prejudice to any other remedy for breach of contract, by written notice of default sent to the supplier, 
+may terminate this contract in whole or in part: 
+ 
+(a) if the supplier fails to deliver any or all of the goods within the period(s) specified in the contract, or within any extension thereof 
+granted by the purchaser pursuant to GCC Clause 21.2; 
+(b) if the supplier fails to perform any other obligation(s) under the contract; or 
+(c) if the supplier, in the judgment of the purchaser, has engaged in corrupt or fraudulent practices in competing for or in executing 
+the contract. 
+ 
+23.2 In the event the purchaser terminates the contract in whole or in part, the purchaser may procure, upon such terms and in 
+such manner, as it deems appropriate, goods, works or services similar to those undelivered, and the supplier shall be liable to the 
+purchaser for any excess costs for such similar goods, works or services. However, the supplier shall continue performance of the 
+contract to the extent not terminated. 
+ 
+23.3 Where the purchaser terminates the contract in whole or in part, the purchaser may decide to impose a restriction penalty on 
+the supplier by prohibiting such supplier from doing business with the public sector for a period not exceeding 10 years. 
+23.4 If a purchaser intends imposing a restriction on a supplier or any person associated with the supplier, the supplier will be 
+allowed a time period of not more than fourteen (14) days to provide reasons why the envisaged restriction should not be imposed. 
+Should the supplier fail to respond within the stipulated fourteen (14) days the purchaser may regard the supplier as having no 
+objection and proceed with the restriction.
+
+[Page 39]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+39 
+23.5 Any restriction imposed on any person by the purchaser will, at the discretion of the purchaser, also be applicable to any other 
+enterprise or any partner, manager, director or other person who wholly or partly exercises or exercised or may exercise control 
+over the enterprise of the first-mentioned person, and with  
+which enterprise or person the first-mentioned person, is or was in the opinion of the purchaser actively associated. 
+ 
+23.6 If a restriction is imposed, the purchaser must, within five (5) working days of such imposition, furnish the National Treasury, 
+with the following information: 
+ 
+(i) the name and address of the supplier and / or person restricted by the purchaser; 
+(ii) the date of commencement of the restriction 
+(iii) the period of restriction; and 
+(iv) the reasons for the restriction. 
+ 
+These details will be loaded in the National Treasury’s central database of suppliers or persons prohibited from doing business with 
+the public sector. 
+ 
+23.7 If a court of law convicts a person of an offence as contemplated in sections 12 or 13 of the Prevention and Combating of 
+Corrupt Activities Act, No. 12 of 2004, the court may also rule that such person’s name be endorsed on the Register for Tender 
+Defaulters. When a person’s name has been endorsed on the Register, the person will be prohibited from doing business with the 
+public sector for a period not less than five years and not more than 10 years. The National Treasury is empowered to determine 
+the period of restriction and each case will be dealt with on its own merits. According to section 32 of the Act the Register must be 
+open to the public. The Register can be perused on the National Treasury website 
+ 
+24. Antidumping and countervailing duties and rights 
+ 
+24.1 When, after the date of bid, provisional payments are required, or anti-dumping or countervailing duties are imposed, or the 
+amount of a provisional payment or anti-dumping or countervailing right is increased in respect of any dumped or subsidized import, 
+the State is not liable for any amount so required or imposed, or for the amount of any such increase. When, after the said date, 
+such a provisional payment is no longer required or any such anti-dumping or countervailing right is abolished, or where the amount 
+of such provisional payment or any such right is reduced, any such favourable difference shall on demand be paid forthwith by the 
+supplier to the purchaser or the purchaser may deduct such amounts from moneys (if any) which may otherwise be due to the 
+supplier in regard to goods or services which he delivered or rendered, or is to deliver or render in terms of the contract or any other 
+contract or any other amount which may be due to him. 
+ 
+25. Force Majeure 
+ 
+25.1 Notwithstanding the provisions of GCC Clauses 22 and 23, the supplier shall not be liable for forfeiture of its performance 
+security, damages, or termination for default if and to the extent that his delay in  
+ 
+Performance or other failure to perform his obligations under the contract is the result of an event of force majeure. 
+25.2 If a force majeure situation arises, the supplier shall promptly notify the purchaser in writing of such condition and the cause 
+thereof. Unless otherwise directed by the purchaser in writing, the supplier shall  
+continue to perform its obligations under the contract as far as is reasonably practical, and shall seek all reasonable alternative 
+means for performance not prevented by the force majeure event.
+
+[Page 40]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+40 
+26. Termination for insolvency 
+ 
+26.1 The purchaser may at any time terminate the contract by giving written notice to the supplier if the supplier becomes bankrupt 
+or otherwise insolvent. In this event, termination will be without compensation to the supplier, provided that such termination will 
+not prejudice or affect any right of action or remedy, which has accrued or will accrue thereafter to the purchaser. 
+ 
+27. Settlement of Disputes 
+ 
+27.1 If any dispute or difference of any kind whatsoever arises between the purchaser and the supplier in connection with or arising 
+out of the contract, the parties shall make every effort to resolve amicably such dispute or difference by mutual consultation. 
+ 
+27.2 If, after thirty (30) days, the parties have failed to resolve their dispute or difference by such mutual consultation, then either 
+the purchaser or the supplier may give notice to the other party of his intention to commence with mediation. No mediation in respect 
+of this matter may be commenced unless such notice is given to the other party. 
+27.3 Should it not be possible to settle a dispute by means of mediation, it may be settled in a South African court of law. 
+ 
+27.4 Notwithstanding any reference to mediation and/or court proceedings herein, 
+ 
+(a) the parties shall continue to perform their respective obligations under the contract unless they otherwise agree; and 
+(b) the purchaser shall pay the supplier any monies due the supplier for goods delivered and / or services rendered according to 
+the prescripts of the contract. 
+ 
+28. Limitation of Liability 
+ 
+28.1 Except in cases of criminal negligence or willful misconduct, and in the case of infringement pursuant to Clause 6; 
+(a) the supplier shall not be liable to the purchaser, whether in contract, tort, or otherwise, for any indirect or consequential 
+loss or damage not apply to any obligation of the supplier to pay penalties and/or damages to the purchaser; and 
+ 
+(b) the aggregate liability of the supplier to the purchaser, whether under the contract, in tort or otherwise, shall not exceed the total 
+contract price, provided that this limitation shall not apply to the cost of repairing or replacing defective equipment. 
+ 
+29. Governing language 
+ 
+29.1 The contract shall be written in English. All correspondence and other documents pertaining to the contract that is exchanged 
+by the parties shall also be written in English. 
+ 
+30. Applicable law 
+ 
+30.1 The contract shall be interpreted in accordance with South African laws, unless otherwise specified. 
+31. Notices  
+31.1 Every written acceptance of a bid shall be posted to the supplier concerned by registered or certified mail and any other notice 
+to him shall be posted by ordinary mail to the address furnished in his bid or to the address notified later by him in writing and such 
+posting shall be deemed to be proper service of such notice.
+
+[Page 41]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+41 
+31.2 The time mentioned in the contract documents for performing any act after such aforesaid notice has been given, shall be 
+reckoned from the date of posting of such notice. 
+32. Taxes and duties 
+ 
+32.1 A foreign supplier shall be entirely responsible for all taxes, stamp duties, license fees, and other such levies imposed outside 
+the purchaser’s country. 
+ 
+32.2 A local supplier shall be entirely responsible for all taxes, duties, license fees, etc., incurred until delivery of the contracted 
+goods to the purchaser. 
+ 
+32.3 No contract shall be concluded with any bidder whose tax matters are not in order. Prior to the award of a bid SARS must 
+have certified that the tax matters of the preferred bidder are in order. 
+ 
+32.4 No contract shall be concluded with any bidder whose municipal rates and taxes and municipal services charges are in arrears. 
+ 
+33. Transfer of contracts 
+33.1 The contractor shall not abandon, transfer, cede assign or sublet a contract or part thereof without the written permission of 
+the purchaser 
+ 
+34. Amendment of contracts 
+34.1 No agreement to amend or vary a contract or order or the conditions, stipulations or provisions thereof shall be valid and of 
+any force unless such agreement to amend or vary is entered into in writing and signed by the contracting parties. Any waiver of 
+the requirement that the agreement to amend or vary shall be in writing, shall also be in writing. 
+ 
+35. Prohibition of restrictive practices 
+35.1 In terms of section 4 (1) (b) (iii) of the Competition Act No. 89 of restrictive practices 1998, as amended, an agreement 
+between, or concerted practice by, firms, or a decision by an association of firms, is prohibited if it is between parties in a horizontal 
+relationship and if a bidder(s) is / are or a contractor(s) was / were involved in collusive bidding. 
+ 
+35.2 If a bidder(s) or contractor(s) based on reasonable grounds or evidence obtained by the purchaser has / have engaged in the 
+restrictive practice referred to above, the purchaser may refer the matter to the Competition Commission for investigation and 
+possible imposition of administrative penalties as contemplated in section 59 of the Competition Act No 89 0f 1998. 
+ 
+35.3 If a bidder(s) or contractor(s) has / have been found guilty by the Competition Commission of the restrictive practice referred 
+to above, the purchaser may, in addition and without prejudice to any other remedy provided for, invalidate the bid(s) for such 
+item(s) offered, and / or terminate the contract in whole or part, and / or restrict the bidder(s) or contractor(s) from conducting 
+business with the public sector for a period not exceeding ten (10) years and / or claim damages from the bidder(s) or contractor(s) 
+concerned. 
+1. BACKGROUND 
+Rustenburg Local Municipality (RLM), located in Rustenburg , Bojanala District of North West Province, invites 
+ 
+TERMS OF REFERENCE/ SPECIFICATIONS
+
+[Page 42]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+42 
+proposals from service providers for a three-year Term Contract for supply, delivery, configuration, commissioning, 
+support and maintenance of a secured and reliable backend data processing and storage hardware (Servers, 
+Storage Attached Network, Tape Library, and Fibre Switch) for its Disaster Recovery (DRP) site in Rustenburg Fire 
+Station as well as provision of the real-time perimeter monitoring solution and services for the Production site (Head 
+Office in Mpheni Missionary House).   
+2. SCOPE OF WORK (TECHNICAL)  
+The bidders are invited to propose reliable, robust, secured and scalable IT DRP solution that matches or exceeds 
+the technical specifications (as presented below) of the Servers, Storage Attached Network, Tape Library, Fibre 
+Switch, LAN switches, Rack-Mount Cabinet, KVM, KMM and all accessories required to complete the RLM IT 
+Disaster Recovery solution. The bidders’ proposed solutions should take into account the RLM Disaster Recovery 
+Strategy (see item 4 below). The bidders should advise on the Wide Area Network (WAN) connectivity requirements 
+of their proposed DRP solution to ensure that scheduled data replications between the live production site and the 
+DRP site at Fire Station are successfully carried within specified time.  
+ 
+The bidder shall provide Uninterrupted Power Supply, Access Control and Fire Suppression System with cooling 
+system for the DRP site and for Live Production site (Head Office: Mpheni Missionary House) shall provide only the 
+Fire Suppression System.   The bidder’s proposed DRP Server Centre solution should be Tier 3 Server Centre. 
+The service provider shall provide sufficient backup power through UPS, network communication facilities, access 
+control system, fire suppression system, and soft services etc. as applicable for Server Centre and as required for 
+the proposed equipment on 24 x 7 basis in order to maintain uptime of the DRP facility. The bidder shall lastly 
+provide Managed Information Security Solution (real-time perimeter monitoring as well as Log Collection and 
+analysis services). 
+ 
+NB: Bidders shall supply, deliver, install and cost all equipment, material, accessories, mounting hardware, 
+software, licenses, cables and any other necessary components that are required to complete the commissioning 
+of bidders’ proposed solutions. Bidders shall consider product roadmap when proposing solutions to avoid 
+proposing products that have already been phased out or are about to be phased out.   
+3. TOPOLOGY 
+3.1 
+Communications and Networking  
+• 100% Cisco Gigabit Ethernet backbone 
+• There are nineteen (19) Cisco LAN switches in seven (7) locations within Rustenburg.  
+• Cisco IP telephony system at Head Office and Fire Station.  Includes Unity voice mail, CER, and 
+Informacast paging application. 
+• 12 VLAN segments
+
+[Page 43]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+43 
+• Dedicated fiber plant between buildings between Mpheni Missionary House and Fire Station.  
+• LAN infrastructure built on Krone-compliant Gigaspeed copper cables 
+• 802.n wireless network deployed in all sites in Rustenburg area   
+• Nineteen (19) network servers in a native-mode Active Directory environment.  Servers provide a wide 
+array of services.  Examples include email servers, print servers, network control servers, storage servers 
+and application servers. 
+• Internet connection is through two dedicated 1 Gb fiber connection and 100Mb Wireless link to the Telkom 
+and Unics backbone.  Bandwidth shaping and traffic prioritization is accomplished with and Cyberoam 
+bandwidth shaping device.   
+ 
+3.2 
+Business Applications 
+The table below lists all approved Business Applications 
+NAME OF SYSTEM 
+PURPOSE 
+Sage Evolution 
+Financial system 
+Sage 300 
+Payroll and HR 
+PRIMS 
+GIS system 
+Route Master 
+Meter Reading 
+Datastor 
+Document Management System 
+Veeam 
+Backup and Replication 
+Exchange 
+Mail Server 
+Barn owl 
+Risk Management 
+ 
+ 
+MacAfee 
+Antivirus 
+Streamline NX 
+Printing 
+TCS 
+Traffic control system 
+Dr Doc 
+Old Document Management Server 
+NB! THE ABOUT IS SUBJECT TO CHANGE AS AND WHEN NEW SYSTEMS ARE IMPLEMENTED 
+3.3 
+Data processed at Live Production site 
+The Municipality has nineteen (19) virtualized servers that are used for various purposes and are all currently 
+running Microsoft Windows Server 2012 R2 Standard. The Municipality might, on need-basis or quarterly, write 
+the images of all its servers for future use.  The RLM would like to replicate its databases and files as specified 
+below:  
+Server Role 
+Current Database/File Size (GB) 
+Mail 
+8 TB
+
+[Page 44]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+44 
+Financial system 
+11 TB 
+GIS 
+600 GB 
+Backup 
+5 TB 
+Document Management 
+1 TB 
+Payroll & HR 
+1 TB 
+Windows updates services 
+400 GB 
+Meter reading 
+800 GB 
+Traffic 
+500 GB 
+Antivirus 
+600 GB 
+Print Server 
+600 GB 
+Old DMS 
+1 TB 
+Risk Management 
+500 GB 
+4. DISASTER RECOVERY STRATEGY (VIRTUALISATION AND SAN) 
+Rustenburg Local Municipality ICT Disaster Recovery solution is architected around two separate interconnected 
+data centres, in order to offer high availability and minimal downtime. The current data room at Mpheni Missionary 
+house the primary production servers. For disaster recovery, a secondary data room will house the recovery 
+servers, where data will either be mirrored in real time or near real time depending on the business requirements, 
+from time to time as would be defined by the Business Impact Analyses and Risk Assessment. 
+ 
+Without a failover site that has the necessary redundancy, the IT Unit cannot access the offline data backups. With 
+this in mind, the IT systems that have a high priority and zero downtime at critical times to the business (Financial 
+and HR/Payroll applications) require a fully redundant and duplicated platform design.  
+ 
+4.1 
+Server Virtualisation 
+The technology platform at the DRP site will be based on server virtualization and utilization of a Storage Area 
+Network (SAN) backend as the primary storage mechanism. Application servers will connect to the SAN on 
+which all operating systems and data will reside. The primary systems will be run on new server hardware, 
+which is based on Intel's latest-generation micro architecture. 
+ 
+Hardware consolidation is achieved by running servers as Virtual Machines. This allows multiple Windows 
+Server instances to be run on a single physical server. Server hardware acquisition should support virtualisation 
+technology. Server virtualization is the masking of server resources, including the number and identity of 
+individual physical servers, processors, and operating systems, from server users.   
+ 
+Server virtualization provides a way for RLM to practice redundancy without purchasing additional hardware.
+
+[Page 45]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+45 
+Redundancy affords RLM to run the same application on multiple servers. It's a safety measure, if a server fails 
+for any reason, another server running the same application can take its place. This minimizes any interruption 
+in service. It wouldn't make sense to build two virtual servers performing the same application on the same 
+physical server. If the physical server were to crash, both virtual servers would also fail. The design incorporates 
+redundant virtual servers on different physical machines, as well as different data centres. 
+4.2 
+SAN (Storage Network Attach  
+A SAN backend with virtualisation offers the following advantages:  
+• Better disk utilization  
+The main benefit RLM derives from installing a SAN is better disk utilization. When all storage is tied 
+together through a centralized storage network, the Municipality gains the ability to manage everything 
+as a single entity. This gives RLM the ability to slice up the central pool of storage resources at the 
+network level and assign that storage more intelligently to the servers that need it.   
+ 
+• Better hardware utilization  
+There will be less physical server hardware, resulting in better resource utilisation. Power consumption 
+will be lower due to fewer servers and the use of more efficient blade servers. Additional power savings 
+will be made subsequent to the lower cooling requirements. This supports an initiative to moving to 
+towards “Green IT” as well as lowering the cost of electricity utilisation. 
+ 
+• DR solution for multiple applications  
+With many critical servers in the data centre running applications that simply can't go down as well as 
+the need to be recovered quickly if a disaster strikes, the best solution is a SAN. Although the upfront 
+costs for implementing a SAN-based disaster recovery solution are higher than the traditional approach 
+of local storage, the benefits can be realized in just a single hour if a disaster happens. The cost of 
+downtime is critical to the Municipality.  
+• Better availability for our applications  
+Storage arrays in storage networks are built from the ground up to be as reliable and redundant as 
+possible with the aim to never go down. They use pre-failure notification technology like email home, 
+where the storage array itself sends a notification to the manufacturer to report that one of its 
+components might fail. Equipment that you find in a SAN is built to highly robust standards. Applications 
+fail because of data becoming corrupted by things going wrong with the disks that those applications 
+use. The storage arrays in a SAN use very good data protection algorithms to make sure that your data 
+stays consistent.
+
+[Page 46]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+46 
+• Backup windows are taking too long  
+Decreasing the time needed to back up large volumes of data is also one of the major benefits of 
+installing a SAN. With the use of Snapshot Technology that SAN’s offer, they enable making hardware-
+based, exact duplicates of your data almost instantly. The duplicates can be used as both the backup 
+of RLM data and as a source for backing up that data to a tape library connected to our SAN. This is 
+known as a disk to disk to tape topology that is the ideal method of backup. 
+ 
+The secondary data room as part of the implementation will house a secondary SAN which will provide full 
+redundancy in the event of a disaster. It will contain near live mirror images of the application servers in the primary 
+production environment. It will be located in at the DRP site. Given time and resource availability a separate data 
+room at Mpheni Missionary House (production environment) will be earmarked for establishment of the hot DR, 
+Test Environment and Restore environment to support high-priority disaster. 
+ 
+ 
+5. MINIMUM TECHNICAL SPECIFICATIONS OF THE IT DRP AND REAL-TIME PERIMETER MONITORING 
+SOLUTIONS 
+ 
+5.1 
+VMWARE VIRTUAL SERVERS CONNECTED TO A CENTRAL SAN AND TAPE LIBRARY 
+The bidder will supply, deliver, configure and commission three servers (two servers to be preloaded with 
+the latest version of VMWare, mirrored and ready to accommodate installation of Virtual Servers whereas 
+the third server should be configured as Management and Backup Server). The two VMWare mirrored 
+servers will be connected both to the LAN switch and a Fibre Channel switch (which, in turn, will be 
+connected to a Backup Server, Tape Library and SAN devices). The Management and Backup Server will 
+be connected to the LAN switch. The bidder shall provide everything necessary to complete provision of the 
+backend devices whose technical specifications are detailed below. 
+5.1.1 
+RACKMOUNT SERVERS   
+• Server Type 1 (One x Servers to host Virtual Servers) 
+Bidder’s Proposed:    Make :                                                                 Model:                   
+Item 
+Description 
+Comply 
+Y 
+N 
+Processor 
+Processor Sockets: 2
+
+[Page 47]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+47 
+Bidder’s Proposed:    Make :                                                                 Model:                   
+Item 
+Description 
+Comply 
+Y 
+N 
+2 x Intel® Xeon® Processors E5-2699 v4 
+(55MB Cache, 2.20GHz)  
+Substantiate if answer is No: 
+ 
+Memory 
+DDR4 DIMMs at up to 2400MT/s;  
+Total DIMM slots: 12 
+Memory : (32GB x 4) + (16GB x 4) = 192GB 
+ 
+ 
+Substantiate if answer is No: 
+ 
+Disk Storage 
+Capacity 
+Up to 8 x 3.5” SAS, SATA, nearline SAS, 
+SSD drives 
+ 
+ 
+Raid Controllers 
+PERC H730 Integrated RAID Controller, 
+1GB Cache 
+ 
+ 
+Hard Disk Capacity 
+4 x 2TB SATA 7.2k 3.5" HD Hot Plug 
+ 
+ 
+Substantiate if answer is No: 
+ 
+I/O Slots 
+Support for up to 5 x PCIe  
+• 3 x PCIe 3.0  and 2 x PCIe 2.0 
+ 
+ 
+Network Controller 
+4 x 1GbE 
+ 
+ 
+Substantiate if answer is No: 
+ 
+Supported 
+Hypervisors 
+Citrix® XenServer, VMware vSphere® 
+ESXi®. Red Hat® Enterprise Virtualization 
+ 
+ 
+Operating System 
+Microsoft Windows Server® 2012 R2 
+ 
+ 
+Warranty 
+3Yr ProSupport and Next Business Day 
+On-Site Service 
+ 
+ 
+Substantiate if answer is No: 
+ 
+• Server Type 2 (1x Server for use as Management and Backup Server)
+
+[Page 48]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+48 
+Bidder’s Proposed:    Make :                                                                 Model:                   
+Item 
+Description 
+Comply 
+Y 
+N 
+Processor 
+Processor Sockets: 1 
+1 x Intel® Xeon® Processors E5-2448L 
+(20MB L3 Cache, 1.8GHz, 8 Cores)  
+ 
+ 
+Substantiate if answer is No: 
+ 
+Memory 
+DDR4 DIMMs (Total DIMM slots: 6) 
+Memory : 16GB x 4 = 64GB 
+ 
+ 
+Substantiate if answer is No: 
+ 
+Drive Bays 
+Up to eight 2.5” hot-plug SAS, SATA or 
+SSD or four 3.5” SAS, SATA 
+ 
+ 
+Hard Disk Capacity 
+4 x 2TB SATA 7.2k 3.5" HD Hot Plug 
+ 
+ 
+I/O Slots 
+2 PCIe slots:  
+• One x8 PCIe slot with x4 bandwidth, 2.0, 
+half-length, half-height  
+• One x16 PCIe slot with x16 bandwidth, 
+3.0, half-length, full-height 
+ 
+ 
+Substantiate if answer is No: 
+ 
+Raid Controllers 
+Internal Controller: PERC H310 Adapter RAID Controller 
+Substantiate if answer is No: 
+ 
+Supported 
+Hypervisors 
+Citrix® XenServer, VMware vSphere® 
+ESXi®. Red Hat® Enterprise Virtualization 
+ 
+ 
+Substantiate if answer is No: 
+ 
+Embedded NIC 
+1Gb Ethernet:  
+Broadcom 5720 Dual Port 1Gb NIC 
+ 
+ 
+Operating System 
+VMware® vSphere® ESX™ and ESXi™ 
+Microsoft Windows Server® 2012  
+ 
+ 
+Warranty 
+3Yr ProSupport and Next Business Day 
+On-Site Service
+
+[Page 49]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+49 
+Bidder’s Proposed:    Make :                                                                 Model:                   
+Item 
+Description 
+Comply 
+Y 
+N 
+Substantiate if answer is No: 
+ 
+ 
+5.1.2 
+SAN (STORAGE ATTACHED NETWORK) 
+• 1x SAN to be used as Centralized Shared Network Data Storage Device 
+Bidder’s Proposed:    Make :                                                                 Model:                   
+Item 
+Description 
+Comply 
+Y 
+N 
+Processor 
+Intel® Xeon® Processor E3-1265L v2, 
+2.50GHz, 4 cores 
+ 
+ 
+Substantiate if answer is No: 
+ 
+Controllers 
+2 hot-swappable controller modules per 
+chassis 
+ 
+ 
+Memory 
+32GB per disk array (16GB per Controller) 
+ 
+ 
+Substantiate if answer is No: 
+ 
+Internal Storage 
+24 x 2.5” Drive Bays 
+ 
+ 
+Supported Drive 
+Types 
+HDD: 15K, 10K, 7.2K RPM; SSD: write-
+intensive and read-intensive drives in 
+SLC, MLC and TLC formats. Drive types 
+can be mixed in the same system. 
+ 
+ 
+Hard Disk Capacity 
+24 x 300GB SATA 7.2k 325" HD Hot Plug 
+ 
+ 
+Network/Server 
+Connectivity (front-
+end) 
+Fibre Channel model: 8 x 8Gb FC ports per 
+disk array (4 per controller) 
+ 
+ 
+Internal Drive 
+Connectivity (Back-
+end) 
+4 x 6Gb SAS ports per disk array (2 per 
+controller) 
+ 
+ 
+Substantiate if answer is No:
+
+[Page 50]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+50 
+Bidder’s Proposed:    Make :                                                                 Model:                   
+Item 
+Description 
+Comply 
+Y 
+N 
+ 
+Standard Replication 
+Synchronous/Asynchronous using FC 
+Substantiate if answer is No: 
+ 
+Host OS Support 
+Microsoft® Windows Server®, Oracle® 
+Solaris, HP®-UX, Oracle Linux, IBM® 
+AIX®, Novell® NetWare, SLES, Apple, 
+HPTru64, VMware®, Citrix® XenServer®, 
+RedHat® 
+ 
+ 
+Third-Party 
+application 
+integration 
+VMware, Oracle, Microsoft, IBM, 
+OpenStack, Symantec, Commvault, 
+Foglight, Docker 
+ 
+ 
+Substantiate if answer is No: 
+ 
+Warranty 
+3Yr ProSupport and Next Business Day 
+On-Site Service 
+ 
+ 
+Substantiate if answer is No: 
+ 
+ 
+5.1.3 
+16-PORT DIGITAL KVM (KEYBOARD, VIDEO AND MOUSE) 
+• KMM (Keyboard, Monitor, Mouse) 
+The Keyboard, Monitor, Mouse (KMM) solution should include a large 18.5-inch flat panel LED screen, 
+a keyboard and a touchpad mouse, all contained in a space-saving 1U package. 
+ 
+ 
+ 
+ 
+• 16-Port Digital KVM Switch 
+Description 
+Requirements 
+Comply 
+Y 
+N
+
+[Page 51]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+51 
+# of Remote Users 
+1 
+ 
+ 
+Communications 
+TCP/IP 
+ 
+ 
+Chassis 
+1U 
+ 
+ 
+Management 
+On-board Web Interface via 
+browser 
+ 
+ 
+Switch Access 
+USB Keyboard/Mouse, VGA Video 
+ 
+ 
+Device Access 
+USB, PS2, SUN, Serial 
+ 
+ 
+Video Support 
+Analog VGA, SVGA, and XGA 
+16:10 widescreen, up to 1680 x 
+1050 
+4:3 standard, up to 1600 x 1200 
+ 
+ 
+ 
+5.1.4 
+TAPE LIBRARY AND CARTRIDGES 
+• 1x LTO-7 Tape Library and Tape Cartridges for Data Backup 
+Bidder’s Proposed:    Make :                                                                 Model:                   
+Item 
+Description 
+Comply 
+Y 
+N 
+Maximum Tape 
+Drives  
+2x LTO-7 Ultrium  
+ 
+ 
+Number of cartridge 
+slots per Tape Drive 
+24 
+ 
+ 
+Substantiate if answer is No: 
+ 
+Capacity  
+• 6 TB (native, uncompressed) 
+• 15.0 TB  (compressed 2.5:1)) 
+ 
+ 
+Data Transfer Rate 
+• Native: 300 MB/s (1.08 TB/h) 
+• Compressed: 750 MBps (2.7 TB/s) 
+ 
+ 
+Supported Tape 
+Cartridges 
+• WORM (Write-Once, Read-Many) 
+Support 
+• Encryption Support 
+ 
+ 
+ 
+ 
+ 
+ 
+Number of cartridges • 80x 6TB LTO-7 Ultrium Tape cartridges 
+supplied in storage cases
+
+[Page 52]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+52 
+• 2x Ultrium Cleaning Tape Cartridges 
+Substantiate if answer is No: 
+ 
+Host interface 
+• 6Gb/s SAS 
+• 8 Gb Fibre Channel (LTO-7/LTO-6/LTO-5) 
+ 
+ 
+Substantiate if answer is No: 
+ 
+Capacity 
+360 TB (LTO-7, 2.5:1 compression) 
+ 
+ 
+Encryption 
+AES 256-bit 
+ 
+ 
+Substantiate if answer is No: 
+ 
+Warranty 
+The warranty for this product consists of 
+1-year parts exchange, next business day 
+ 
+ 
+Substantiate if answer is No: 
+ 
+  
+ 
+5.1.5 
+FIBER CHANNEL SWITCH AND WAN CONNECTIVITY DEVICE 
+Bidder’s Proposed:    Make :                                                                 Model:                   
+Item 
+Description 
+Comply 
+Y 
+N 
+Fibre Channel Ports 
+24 ports, universal (E,F,M,FL or N) 
+ 
+ 
+Substantiate if answer is No: 
+ 
+Scalability 
+Full-fabric architecture with 239 switches 
+maximum 
+ 
+ 
+Substantiate if answer is No: 
+ 
+Performance 
+1.063 Gbit/sec line speed, full duplex; 
+2.125 Gbit/sec line speed, full duplex; 4.25 
+Gbit/sec line speed, full duplex; 8.5 
+Gbit/sec line speed, full duplex. Auto-
+sensing of 1 Gbit/sec, 2 Gbit/sec, 4 
+Gbit/sec, and 8 Gbit/sec port speeds;
+
+[Page 53]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+53 
+Bidder’s Proposed:    Make :                                                                 Model:                   
+Item 
+Description 
+Comply 
+Y 
+N 
+optionally programmable to fixed port 
+speed. Speed-matching between 1, 2, 4, 
+and 8 Gbit/sec ports. 
+Substantiate if answer is No: 
+ 
+Aggregate bandwidth  408 Gbit/sec: 24 ports × 8.5 Gbit/sec (line 
+rate) × 2 (full duplex) 
+ 
+ 
+Media Types 
+4 Gbit/sec: Requires Brocade hot-
+pluggable,Small Form-factor Pluggable 
+(SFP), LC connector; 4 Gbit/sec Short-
+Wavelength Laser (SWL) 
+ 
+8 Gbit/sec: Requires Brocade hot-
+pluggable SFP+, LC connector; Short-
+Wavelength Laser (SWL); distance 
+depends on fiber-optic cable; 8 Gbit/sec 
+Extended Long-Wavelength Laser (ELWL). 
+ 
+ 
+Substantiate if answer is No: 
+ 
+ 
+The bidder shall propose a robust and reliable high-speed WAN connectivity device to complete 
+connectivity between the DRP and the Live Production sites for daily data replication.  
+5.1.6 
+42U RACK-MOUNT CABINET AND CABLING 
+Supply of a complete 42U Rack-mount cabinet suitable to host all of the above Backend hardware.  
+ 
+5.2 
+UPS AND FIRE SUPRESSION SYSTEM WITH COOLING 
+5.2.1 
+FIRE SUPRESSION SYSTEM WITH COOLING 
+With the amount of electrical equipment and heat generated in a Data Centre, fires are a real and 
+constant threat. To protect our valuable Equipment’s and Data, the bidder shall design, provide and 
+implement a Fire Suppression System with Cooling and Access Control at the DRP facility. Implement a
+
+[Page 54]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+54 
+smart Integrated Fire Suppression System with cooling at the DRP site which is capable to protect Data 
+centre equipment from fire, smoke and monitor environmental conditions and trigger alerts effectively. 
+The Fire Suppression System is also required at the Head Office Server Centre (Mpheni Missionary 
+House) but the cooling system is required only at the DRP site. 
+ 
+The RLM Head Office Server Room is located at Mpheni Missionary House (Rustenburg) and it measures 
+5.80m in Length, 2.8m in Width, Height of 2.83m with a raised floor of 0.27m. The RLM DRP Server 
+Room is located at Rustenburg Fire Station and it measures 5.20m in Length, 2.46m in Width, Height of 
+2.45m with a raised floor of 0.27m.  
+ 
+The table below shows the devices that are in both the Live Production and DRP sites.   
+ 
+Live Production Server Room 
+             DRP Site Server Room 
+RLM0EX003 
+ Switches at DRP site (Fire Department) 
+Cisco SG300-28PP POE Managed switch x3 
+Dell Power connect 8132F x2 
+Dell power connect 6224F 
+ 
+ 
+RLM0DC03 
+RLM0DC04 
+RLM0SCMSVR 
+RLM0SAGE300 
+RLM0DMS01 
+RLM0GIS001 
+RLM0WSUS2 
+ 
+Servers at DRP site (Fire Department) 
+Dell PowerEdge M620 x4 
+EqualLogic PS6100 -Storage 
+Power vault MD3600i 
+Power vault NX3610 
+Dell UPS 10kw x2 
+EDM 288V 
+KMM FPM185 
+ 
+NW373-VEEAM 
+RLM0COLLAB-APP 
+RLM0IS001 
+RLM0MR01 
+RLM0PRNTSVR01 
+RLM0RS001 
+DrDoc 
+RLM0BOAP 
+RLM0BODB 
+RLM0AV001 
+RLM0VH03
+
+[Page 55]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+55 
+ 
+Technical Requirements 
+• Automatic Thermal and Fire Detection (Mpheni House and DRP site) 
+Server Rooms are usually isolate and least accessed Room in any Office. Hence it is essential for any Fire 
+Suppression System to detect Fire Automatically. While traditional smoke detectors are placed on the ceiling and 
+can only detect Fire when smoke reach to it, in the case of Fire in an Electrical Equipment this could be too late to 
+react. The System should have a Thermal Detection feature so that a Fire can be detected prior to any visible Fire, 
+and necessary measures can be taken to minimize the damage.   
+ 
+• Audible and Visual Signal (Mpheni House and DRP site) 
+The Fire Suppression System should have its own built-in Audio and Visual signalling system.   
+ 
+• SMS/Email Notification (Mpheni House and DRP site) 
+The proposed system should have smart notification features which can be configured to trigger on different 
+thresholds for various sensors. The system should have following notification features: 
+✓ Email Notification: the system should be able to send email notification to set email addresses whenever 
+email notification is triggered based on the configuration. 
+✓ SMS Notification: The system should be able to send SMS automatically for given numbers whenever SMS 
+notification is triggered based on the configuration. 
+✓ Voice Call: The System should be able to make a voice call to a given number and play pre-recorded 
+ 
+• Clean Agent, Gas/Chemical Extinguisher (Mpheni House & DRP site) 
+While Water is most common agent to extinguish Fire, using water to extinguish fire in a Server Room will do more 
+damage to the equipment than the fire itself. The proposed Fire Suppression System should not cause damage to 
+the electronic equipment in the Server centre and should not leave any residue. 
+ 
+• Access Control (Mpheni House & DRP site) 
+The proposed system is preferred to have built-in access control to the Server centres or Racks to control and 
+monitor the physical access to the servers / Server centres. Preferred to have fingerprint validation to the premises. 
+ 
+ 
+5.2.2 
+Cloud Backup Solution 
+The bidder shall provide Cloud Backup solution to backup all data to the cloud.
+
+[Page 56]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+56 
+ 
+ 
+ 
+ 
+5.3 
+MANAGED INFORMATION SECURITY SOLUTION 
+The RLM seeks a service provider who can add value to security information and log management by assessing 
+real-time data (REAL-TIME PERIMETER MONITORING TIER) and stored logs (LOG COLLECTION AND 
+ANALYSIS TIER) to add context to incident identification and response. The services are required both for the 
+live production and DRP sites. 
+In addition to the requirements set forth below, the Rustenburg Local Municipality requires Managed Security 
+Service Provider (MSSP) to designate an account manager for the entire duration of the contract. The MSSP 
+account manager will participate in quarterly status meetings, provide the Municipality with SLA and other reports 
+and escalate any issues according to defined escalation procedures, etc. The Rustenburg Local Municipality 
+requires MSSP to have a Security Operations Center(s) (SOC) that operates 24 hours a day, 7 days per week. 
+The SOC engineers shall be reachable by telephone and e-mail.   
+ 
+The MSSP shall provide authorized Municipality administration access to a web based SOC portal in order to 
+obtain on-demand, real time views of its monitored devices. The MSSP shall record all incidents in an issue 
+tracking system, and make such system available to appropriate Municipality personnel. Individual contacts 
+should be able to obtain real time and historical performance data for all monitored devices. They are also the 
+primary contacts for the Managed Security Service Provider (MSSP) in case of security incidents, monitored 
+device outages or scheduled maintenance notifications. 
+ 
+ 
+5.3.1 Real-time Perimeter Monitoring tier:  
+Monitor the Municipality network security equipment and provide real time analysis and alerts, focusing on 
+actionable events for customer notification and real-time monitoring schemes which reduce/prioritize the volume 
+of data that must be quickly analyzed.  The MSSP must be able to apply their knowledge of external threats and 
+attacks they encounter across the devices monitored for all of their customers to add value to the analysis of 
+alerts for Rustenburg Local Municipality. 
+ 
+The Municipality seeks service providers that can offer an integrated dashboard of real-time monitoring and log 
+analysis and reporting functions and workflow as well as regular operations status reports. The operations status 
+report/dashboard must include detailed statistics for the monitored security services. This may include overview
+
+[Page 57]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+57 
+of each ticket recorded during reporting period, device utilization graphs, etc. The incident report should contain 
+overview of all security incidents detected within reporting period, including assessment and actions taken. 
+Respondents must provide examples of reports they will use. Reports must be made available electronically 
+through the secured portal. 
+With the exception of its IDS modules where the vendor will be responsible for configuration, management and 
+monitoring, RLM will retain management of the monitored devices. Vendor’s solution will employ a strategy to 
+gather event data from monitored devices; forward such data to a secure operations center or portal, filter/data 
+mine this data, and report findings to the appropriate RLM IT personnel based upon predefined trigger/escalation 
+thresholds which are to be recommended by the MSSP and agreed to by Rustenburg Local Municipality.   
+5.3.2 
+Log Collection and analysis tier: 
+Provide security log aggregation, collection, retention, archival and analysis of such for compliance reporting and 
+vulnerability/exploit remediation recommendations. Log collection is not subject to real-time alerts; it is considered 
+analysis-after-the-fact. Regular inspection of collected log data is required with special attention given to 
+identifying evidence of privilege escalation and unauthorized creation of accounts.  
+ 
+Log collection requirements shall include the acquisition of all log data and the retention of that data for one and 
+a half years, even after review and reporting, to meet the Municipality’s auditing and compliance needs. 
+5.4 
+PROFESSIONAL SERVICES 
+The bidder shall perform the following mandatory professional services: 
+• Supply, deliver, assemble, install, test and fully commission all equipment, material, accessories, 
+mounting hardware, software, cables and any other necessary components that are required to 
+complete the bidder’s proposed IT DRP and Real-Time Perimeter Monitoring solutions. All software 
+provided by the bidder shall be fully license and annual software renewal costs should be clearly 
+specified.  
+• Configure, test and commission daily data replication between the live production and DRP sites 
+• Configure, test and commission the data backup solution and shall ensure that daily data backups are 
+successfully carried out. Tape cartridges shall be changed on daily basis to offsite storage location 
+• Configure, test and commission the Managed Information Security solution 
+• Document system and data restore tests procedures and perform restore tests on quarterly basis 
+without fail 
+• Transfer skills to RLM IT personnel (training programme to be provided) 
+• Document the proposed solutions 
+• Provide support and maintenance services
+
+[Page 58]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+58 
+• Quarterly SLA reporting  
+The project manager / key personnel must have Premier visualisation certificates. 
+Furthermore, the project manager/key personnel must have one of the following certifications: 
+• COBIT 5 
+• ITIL 
+6. CORE SUBMISSION REQUIREMENTS BY THE SUCCESSFUL SERVICE PROVIDER BEFORE 
+COMMENCEMENT 
+• Detailed proposals. The proposal must address the following components as per the technical specifications: 
+-product descriptions 
+-brochures 
+-datasheets  
+• Bidder shall provide detailed costs of the proposed solutions and also summary of the costs as per the tables 
+above (Price(s) quoted must be firm for one year and will escalate at an annual rate to be determined by CPI. 
+Price(s) must also include all costs (material, labour, hardware, software, licensing, professional, transport, 
+insurance, etc.) that are associated with the complete delivery of the required solutions and must include VAT)) 
+• Technical Capacity (Project Structure/Team with roles and responsibilities of each position fully defined, 
+Curriculum Vitae (CVs) of Human Resources to be deployed to provide professional services for assembly, 
+installation, configuration and commissioning of servers, Storage Attached Network, Fiber Channel Switch, 
+Tape Library and rack-mount solution)    
+• The bidder shall provide a Project Plan and Methodology indicating time frames, schedules to ensure non-
+interruption of RLM ICT services during delivery of proposed solutions  
+• Bidder shall provide letters or any other form of accreditation from the original equipment manufacturers (OEMs) 
+of the hardware/software to serve as proof that the bidder is certified to supply/distribute and/or to support and 
+maintain the bidder’s proposed server, data storage and information security solutions. 
+• Reference of recent similar Projects (at least two referees that are not older than five years). This section should 
+provide the track record and experience of the firm highlighting their experience in the supply/work that is similar 
+or related to the goods/services being procured by RLM.  The term “similar” refers to contracts which are closest 
+to the contract being tendered, or are very closely related or associated with what RLM is procuring. 
+• Track record of the bidding company refers to contracts entered into by the company as an entity, and not 
+based on the individual capacity of the members of the team or the company’s owner or key personnel.   
+• The bidder shall provide SLA appropriate to the goods and services as per this Request for Proposals 
+• The bidder shall supply, deliver, install and cost all equipment, material, accessories, mounting hardware, 
+software, licenses, cables and any other necessary components that are not indicated in this RFP but are 
+required to complete the commissioning of the solutions required by RLM technical specifications
+
+[Page 59]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+59 
+ 
+FUNCTIONALITY 
+The Technical/functional Section should detail how the service provider will deliver the project. The bidder shall package 
+the submission in such a way that it will be easier for the Municipality to find information required to evaluate the bidder’s 
+response. The technical section of the proposal will therefore be subjected to the following evaluation criteria. 
+NB: For a bidder to qualify, it is a requirement for a prospective bidder to score a minimum of 70 out of 100 points for 
+functionality. 
+Values: 1 = Poor, 3 =Good, 5 = Excellent 
+Rustenburg Local Municipality reserves the right to verify all the information provided.  
+ITEM 
+CRITERIA 
+WEIGHT 
+VALUE 
+SCORE 
+VERIFICATION METHOD 
+Company experience 
+40 
+ 
+ 
+ 
+1.1 Company experience in providing 
+similar service on projects that disaster 
+recovery plans.  
+ 
+ 
+Appointment and references letters with 
+contactable references. 
+ 
+0-1 projects (Value = 01) 
+ 
+ 
+ 
+ 
+ 
+2 - 3 projects (Value = 03) 
+ 
+ 
+ 
+ 
+ 
+4 projects and above (Value = 
+05) 
+ 
+ 
+ 
+ 
+ 
+Non-Submission or less than 
+the expected minimum 
+submission (Value = 0) 
+ 
+ 
+ 
+ 
+Key Personnel [Project manager] (for 
+projects that are relevant to this project) 
+60 
+ 
+ 
+ 
+Project manager Qualifications (30) 
+ 
+ 
+Attach certified copies of qualifications 
+(minimum NQF level 6) in IT. 
+NQF level 6 (Value=1)  
+ 
+ 
+ 
+ 
+ 
+NQF level 7 (Value=3)
+
+[Page 60]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+60 
+ 
+NQF level 8 and above 
+(Value=5) 
+ 
+ 
+ 
+ 
+ 
+Non-Submission or less than 
+the expected minimum 
+submission (Value = 0) 
+ 
+ 
+ 
+ 
+Project manager Experience (30) 
+ 
+ 
+Attach a 3-page comprehensive CV 
+detailing related experience 
+ 
+ 
+3 - 4 years’ experience 
+(Value=1)  
+ 
+ 
+ 
+ 
+ 
+5 - 6 years’ experience 
+(Value=3) 
+ 
+ 
+ 
+ 
+ 
+7 years’ experience and above 
+(Value=5) 
+ 
+ 
+ 
+ 
+ 
+Non-Submission or less than 
+the expected minimum 
+submission (Value = 0) 
+ 
+ 
+ 
+ 
+TOTAL 
+ 
+100 
+ 
+ 
+ 
+Calculate the points scored according to the following formula: 
+Ps = [So] X Ap 
+         Ms 
+Where: 
+Ps = percentage scored for functionality by the bid under consideration 
+So = total score of bids under consideration, i.e. weight X value = score 
+Ms = maximum possible score = 500 
+Ap = percentage allocated 
+ Total percentage scored by the bidder on functionality: Ps =                             x 100 
+                                                                                                         ________                     =        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         500 
+NB:   
+No tender will be regarded as an acceptable tender/responsive if it fails to achieve the minimum qualifying 
+score for functionality of 70 out of a maximum of 100 points.
+
+[Page 61]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+61 
+ 
+PRICING SCHEDULE 
+ 
+1. COST SUMMARY OF REQUIRED GOODS AND SERVICES  
+Prices must include all related costs 
+Item 
+Description 
+Total VAT Incl. Cost 
+1 
+Professional services for supply, delivery, installation, testing, configuration and commissioning 
+of the following devices as well as their warranty costs as per the technical specifications above: 
+1.1 
+1x Type 1 servers (as per above specification) 
+R 
+1.2 
+1x Type 2 server (as per above specification) 
+R 
+1.3 
+1x Storage Attached Network (as per above specification) 
+R 
+1.4 
+1x Media Library (as per above specification) 
+R 
+1.5 
+1x Fibre Channel Switch (as per above specification) 
+R 
+1.6 
+2x Managed information Security devices (as per above specification) 
+R 
+1.7 
+1x WAN Connectivity hardware (router) (as per above specification) 
+R 
+1.8 
+1x 42U rack-mount cabinet supplied with KMM and KV. Cost to include 
+installation of items 1.1 to 1.5 above inside the 42-U rack mount cabinet 
+(as per above specification) 
+R 
+Grand Total R 
+ 
+2. COST SUMMARY OVER A THREE-YEAR PERIOD  
+a. Project Delivery Costs (VAT Inclusive) 
+ 
+Description 
+Year 1 
+Support and Maintenance Services (monthly) 
+ 
+Software Licensing (bidder to list all software licenses in separate sheet) 
+(annually) 
+ 
+ 
+ 
+ 
+Cloud Backup Solution 
+ 
+ 
+Escalation for year 2 and 3 will be based on CPI.
+
+[Page 62]
+RUSTENBURG LOCAL MUNICIPALITY 
+RLM/DCS/0055/2024/25 - APPOINTMENT OF A SERVICE PROVIDER FOR THE SUPPLY, DELIVERY, COMMISSIONING, 
+SUPPORT AND MAINTENANCE OF DISASTER RECOVERY IT INFRASTRUCTURE AS WELL AS PROVISION OF 
+MANAGED INFORMATION SECURITY SOLUTION FOR A PERIOD OF 36 MONTHS 
+62 
+3. LIST OF ITEMS THAT MIGHT BE PURCHASED ON NEED BASIS 
+NB: Items listed in the table below might only be considered when need arises. That is, it is possible that none of 
+the listed items could be requested throughout the contract period. The prices on the table below should be fixed 
+for the first twelve (12) months. 
+ 
+Item 
+Description of item 
+Qty VAT inclusive 
+Cost/item 
+1 
+Type 1 Server  
+1 
+ 
+2 
+Type 2 Server 
+1 
+ 
+3 
+Storage Attached Network (SAN) 
+1 
+ 
+4 
+6TB LTO-7 Ultrium Tape Cartridge 
+1 
+ 
+5 
+Tape Cleaning Cartridge for LTO-7 Ultrium Tape drive 
+1 
+ 
+6 
+Fibre Channel Switch 
+1 
+ 
+7 
+42U Rack-mount Cabinet with KMM & KVM 
+1 
+ 
+8 
+Cisco Catalyst SFP based 48-Port switch 
+1 
+ 
+9 
+Cisco Catalyst SFP based 24-Port switch 
+1 
+ 
+10 
+Cisco 10GBASE SFP+ modules   
+1 
+ 
+ 
+ 
+ 
+11 
+Micro Server  
+(Intel® Celeron® G1610T (2.3 GHz/2-core/2 MB/35 W) 
+Processor, 4 GB (1 x 4 GB) PC3-12800E-11 DDR3 
+UDIMM and 6 TB (2 x 3 TB) 3.5" SATA) 
+1 
+ 
+12 
+2TB Slim Backup Plus Hard Drive 
+1 
+ 
+13 
+5TB Backup Plus Desktop Drive 
+1 
+ 
+ 
+ 
+14 
+Total cost for delivery and complete commissioning of 
+the bidder’s proposed DRP infrastructure at 
+Rustenburg Fire Station (Once-off) 
+ 
+ 
+1

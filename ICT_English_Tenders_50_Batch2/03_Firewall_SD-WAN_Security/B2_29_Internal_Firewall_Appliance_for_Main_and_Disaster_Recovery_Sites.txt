@@ -1,0 +1,3507 @@
+Title: Internal Firewall Appliance for Main and Disaster Recovery Sites
+Source: https://www.sss.gov.ph/wp-content/uploads/2025/03/BD-Internal-Firewall_Final_v03062025-bacsd-rac.pdf
+Pages: 61
+
+--- Extracted text by page ---
+
+[Page 1]
+1 
+ 
+                                                                                                                                                                                     
+ 
+ 
+ 
+PHILIPPINE BIDDING DOCUMENTS 
+Sixth Edition 
+ 
+Procurement of 
+GOODS  
+ 
+ 
+INTERNAL FIREWALL 
+ 
+ITB-SSS-GOODS-2025-013 
+ 
+ 
+Government of the Republic of the Philippines 
+ 
+ 
+MARCH 2025 
+ 
+ 
+JOCELYN R. DE LA PEÑA 
+                                            TWG Chairperson
+
+[Page 2]
+2 
+ 
+Table of Contents 
+ 
+ 
+ 
+Glossary of Acronyms, Terms, and Abbreviations.......................................... 3 
+Section I. Invitation to Bid ................................................................................. 6 
+Section II. Instructions to Bidders ..................................................................... 9 
+1. 
+Scope of Bid 
+10 
+2. 
+Funding Information 
+10 
+3. 
+Bidding Requirements 
+10 
+4. 
+Corrupt, Fraudulent, Collusive, and Coercive Practices 
+10 
+5. 
+Eligible Bidders 
+10 
+6. 
+Origin of Goods 
+11 
+7. 
+Subcontracts 
+11 
+8. 
+Pre-Bid Conference 
+11 
+9. 
+Clarification and Amendment of Bidding Documents 
+11 
+10. 
+Documents comprising the Bid: Eligibility and Technical Components 
+11 
+11. 
+Documents comprising the Bid: Financial Component 
+12 
+12. 
+Bid Prices 
+12 
+13. 
+Bid and Payment Currencies 
+12 
+14. 
+Bid Security 
+13 
+15. 
+Sealing and Marking of Bids 
+13 
+16. 
+Deadline for Submission of Bids 
+13 
+17. 
+Opening and Preliminary Examination of Bids 
+13 
+18. 
+Domestic Preference 
+13 
+19. 
+Detailed Evaluation and Comparison of Bids 
+13 
+20. 
+Post-Qualification 
+14 
+21. 
+Signing of the Contract 
+14 
+Section III. Bid Data Sheet ............................................................................... 15 
+Section IV. General Conditions of Contract .................................................. 18 
+1. 
+Scope of Contract 
+19 
+2. 
+Advance Payment and Terms of Payment 
+19 
+3. 
+Performance Security 
+19 
+4. 
+Inspection and Tests 
+19 
+5. 
+Warranty 
+19 
+6. 
+Liability of the Supplier 
+20 
+Section V. Special Conditions of Contract...................................................... 21 
+Section VI. Schedule of Requirements ............................................................ 31 
+Section VII. Technical Specifications .............................................................. 32 
+Section VIII. Checklist of Technical and Financial Documents ................... 40
+
+[Page 3]
+3 
+ 
+Glossary of Acronyms, Terms, and 
+Abbreviations 
+ 
+ 
+ABC – Approved Budget for the Contract.   
+ 
+BAC – Bids and Awards Committee. 
+ 
+Bid – A signed offer or proposal to undertake a contract submitted by a bidder in response to 
+and in consonance with the requirements of the bidding documents. Also referred to as 
+Proposal and Tender. (2016 revised IRR, Section 5[c]) 
+ 
+Bidder – Refers to a contractor, manufacturer, supplier, distributor and/or consultant who 
+submits a bid in response to the requirements of the Bidding Documents. (2016 revised IRR, 
+Section 5[d]) 
+ 
+Bidding Documents – The documents issued by the Procuring Entity as the bases for bids, 
+furnishing all information necessary for a prospective bidder to prepare a bid for the Goods, 
+Infrastructure Projects, and/or Consulting Services required by the Procuring Entity. (2016 
+revised IRR, Section 5[e]) 
+ 
+BIR – Bureau of Internal Revenue. 
+ 
+BSP – Bangko Sentral ng Pilipinas.  
+ 
+Consulting Services – Refer to services for Infrastructure Projects and other types of projects 
+or activities of the GOP requiring adequate external technical and professional expertise that 
+are beyond the capability and/or capacity of the GOP to undertake such as, but not limited to: 
+(i) advisory and review services; (ii) pre-investment or feasibility studies; (iii) design; (iv) 
+construction supervision; (v) management and related services; and (vi) other technical services 
+or special studies. (2016 revised IRR, Section 5[i]) 
+ 
+CDA - Cooperative Development Authority. 
+ 
+Contract – Refers to the agreement entered into between the Procuring Entity and the Supplier 
+or Manufacturer or Distributor or Service Provider for procurement of Goods and Services; 
+Contractor for Procurement of Infrastructure Projects; or Consultant or Consulting Firm for 
+Procurement of Consulting Services; as the case may be, as recorded in the Contract Form 
+signed by the parties, including all attachments and appendices thereto and all documents 
+incorporated by reference therein. 
+ 
+CIF – Cost Insurance and Freight. 
+ 
+CIP – Carriage and Insurance Paid. 
+ 
+CPI – Consumer Price Index. 
+ 
+DDP – Refers to the quoted price of the Goods, which means “delivered duty paid.” 
+ 
+DTI – Department of Trade and Industry. 
+ 
+EXW – Ex works. 
+ 
+FCA – “Free Carrier” shipping point.
+
+[Page 4]
+4 
+ 
+FOB – “Free on Board” shipping point. 
+ 
+Foreign-funded Procurement or Foreign-Assisted Project– Refers to procurement whose 
+funding source is from a foreign government, foreign or international financing institution as 
+specified in the Treaty or International or Executive Agreement. (2016 revised IRR, Section 
+5[b]). 
+Framework Agreement – Refers to a written agreement between a procuring entity and a 
+supplier or service provider that identifies the terms and conditions, under which specific 
+purchases, otherwise known as “Call-Offs,” are made for the duration of the agreement. It is in 
+the nature of an option contract between the procuring entity and the bidder(s) granting the 
+procuring entity the option to either place an order for any of the goods or services identified 
+in the Framework Agreement List or not buy at all, within a minimum period of one (1) year 
+to a maximum period of three (3) years. (GPPB Resolution No. 27-2019) 
+GFI – Government Financial Institution.   
+ 
+GOCC – Government-owned and/or –controlled corporation. 
+ 
+Goods – Refer to all items, supplies, materials and general support services, except Consulting 
+Services and Infrastructure Projects, which may be needed in the transaction of public 
+businesses or in the pursuit of any government undertaking, project or activity, whether in the 
+nature of equipment, furniture, stationery, materials for construction, or personal property of 
+any kind, including non-personal or contractual services such as the repair and maintenance of 
+equipment and furniture, as well as trucking, hauling, janitorial, security, and related or 
+analogous services, as well as procurement of materials and supplies provided by the Procuring 
+Entity for such services. The term “related” or “analogous services” shall include, but is not 
+limited to, lease or purchase of office space, media advertisements, health maintenance 
+services, and other services essential to the operation of the Procuring Entity. (2016 revised 
+IRR, Section 5[r]) 
+ 
+GOP – Government of the Philippines. 
+ 
+GPPB  –  Government Procurement Policy Board. 
+ 
+INCOTERMS – International Commercial Terms. 
+ 
+Infrastructure Projects – Include the construction, improvement, rehabilitation, demolition, 
+repair, restoration or maintenance of roads and bridges, railways, airports, seaports, 
+communication facilities, civil works components of information technology projects, 
+irrigation, flood control and drainage, water supply, sanitation, sewerage and solid waste 
+management systems, shore protection, energy/power and electrification facilities, national 
+buildings, school buildings, hospital buildings, and other related construction projects of the 
+government. Also referred to as civil works or works. (2016 revised IRR, Section 5[u]) 
+ 
+LGUs – Local Government Units.  
+ 
+NFCC – Net Financial Contracting Capacity. 
+ 
+NGA – National Government Agency. 
+ 
+PhilGEPS - Philippine Government Electronic Procurement System.
+
+[Page 5]
+5 
+ 
+Procurement Project – refers to a specific or identified procurement covering goods, 
+infrastructure project or consulting services. A Procurement Project shall be described, 
+detailed, and scheduled in the Project Procurement Management Plan prepared by the agency 
+which shall be consolidated in the procuring entity's Annual Procurement Plan. (GPPB Circular 
+No. 06-2019 dated 17 July 2019) 
+ 
+PSA – Philippine Statistics Authority.  
+ 
+SEC – Securities and Exchange Commission. 
+ 
+SLCC – Single Largest Completed Contract. 
+ 
+SSS – Social Security System 
+ 
+Supplier – refers to a citizen, or any corporate body or commercial company duly organized 
+and registered under the laws where it is established, habitually established in business and 
+engaged in the manufacture or sale of the merchandise or performance of the general services 
+covered by his bid. (Item 3.8 of GPPB Resolution No. 13-2019, dated 23 May 2019). Supplier 
+as used in these Bidding Documents may likewise refer to a distributor, manufacturer, 
+contractor, or consultant.  
+ 
+UN – United Nations.
+
+[Page 6]
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section I. Invitation to Bid
+
+[Page 7]
+7 
+ 
+Republic of the Philippines 
+SOCIAL SECURITY SYSTEM 
+East Avenue, Diliman Quezon City * Trunkline Number: (+632) 8709 7198 
+Email: usssaptayo@sss.gov.ph * Website: www.sss.gov.ph 
+ 
+ 
+Invitation to Bid 
+ITB-SSS-GOODS-2025-013 
+ 
+ 
+INTERNAL FIREWALL 
+ 
+Approved Budget for the Contract 
+(ABC) 
+& Source of Fund 
+Delivery/ 
+Completion 
+Period 
+Price of Bid 
+Documents 
+(non-
+refundable) 
+Schedule of Activities 
+Date/Time 
+Pre-bid 
+Conference 
+Deadline of submission 
+and receipt of bids 
+₱ 67,328,544.00 
+ 
+ 
+Approved 2025 corporate 
+Operating Budget– Capital 
+Outlay, with Code PAP 
+2025-0280 of the Annual 
+Procurement Plan (APP) 
+Within One 
+hundred twenty 
+(120) calendar 
+days from 
+receipt of Notice 
+to Proceed and 
+Signed Contract 
+₱ 27,500.00 
+ 
+March 27, 2025 
+(Thursday) 
+2:30pm 
+ 
+ 
+April 10, 2025 
+(Thursday) 
+2:00pm 
+ 
+ 
+1. The SOCIAL SECURITY SYSTEM now invites Bids for the above item.  Delivery of the Goods 
+is required within the period specified above.  Bidders should have completed within five (5) 
+years prior to the date of submission and receipt of bids, a contract similar to the Project. The 
+description of an eligible Bidder is contained in the Bidding Documents, particularly, in Section II 
+- Instruction to Bidders. 
+ 
+2. Bids received in excess of the ABC shall be automatically rejected at bid opening. 
+ 
+3. Bidding will be conducted through open competitive bidding procedures using a non-discretionary 
+pass/fail criterion as specified in the 2016 Revised Implementing Rules and Regulations (RIRR) 
+of Republic Act 9184 (RA) 9184, otherwise known as the “Government Procurement Reform 
+Act”.   
+ 
+Bidding is restricted to Filipino citizens/sole proprietorships, partnerships, or organizations with 
+at least sixty percent (60%) interest or outstanding capital stock belonging to citizens of the 
+Philippines, and to citizens or organizations of a country the laws or regulations of which grant 
+similar rights or privileges to Filipino citizens, pursuant to RA 5183. 
+ 
+4. Interested bidders may obtain further information from the SSS and inspect the Bidding 
+Documents at the address in the last item of the ITB from Monday to Friday, 8:00 a.m. to 5:00 
+p.m.  
+ 
+5. A complete set of Bidding Documents may be acquired by interested bidders starting 14 March 
+2025 up to the scheduled submission & receipt of bids from the address stated in the last item 
+of the ITB and upon payment of the applicable fee for the Bidding Documents in the amount 
+specified above. 
+ 
+The mode of payment will be on a cash basis payable at the SSS Cash Management Department, 
+Ground Floor, SSS Main Bldg., upon accomplishment of SSS Form R-6.  The Bidding Documents 
+shall be received personally by the prospective Bidder or his authorized representative.
+
+[Page 8]
+8 
+ 
+It may also be downloaded free of charge from the website of the Philippine Government 
+Electronic Procurement System (PhilGEPS) and the website of the SSS, provided that Bidders 
+shall pay the applicable fee for the Bidding Documents not later than the submission of their bids. 
+ 
+6. The SSS will hold a Pre-Bid Conference on the date and time specified above at the Bidding Room, 
+2nd Floor, SSS Main Bldg., East Avenue, Diliman, Quezon City which shall be open to prospective 
+bidders, but attendance shall not be mandatory.  To ensure completeness and compliance of bids, 
+bidders are advised to send their authorized technical and/or administrative representatives who 
+will prepare the bid documents. 
+ 
+The Pre-Bid Conference will be conducted through online conference using Microsoft Teams. 
+Kindly e-mail us on or before 26 March 2025 through e-mail address bac@sss.gov.ph, the 
+following: 
+ 
+a. Name of the representative and e-mail address; and 
+b. Technical and administrative queries. 
+ 
+7. Bids must be duly received by the BAC Secretariat at the Bidding Room, 2nd Floor, SSS Main 
+Building, East Avenue, Diliman, Quezon City on the deadline specified above.  All Bids must be 
+accompanied by a bid security in any of the acceptable forms and in the amount stated in the ITB 
+Clause 14.  
+ 
+Bid opening shall be on the date and time specified above at the Bidding Room, 2nd Floor, SSS 
+Main Building, East Avenue, Diliman, Quezon City.  Bids will be opened in the presence of the 
+bidders’ representatives who choose to attend at the address above. Late bids shall not be accepted. 
+ 
+8. References to the dates and times shall be based on Philippine Standard time.  Should any of the 
+above dates fall on a holiday, the deadline shall be extended to the same time of the immediately 
+succeeding business day in Quezon City. 
+ 
+9. The SSS reserves the right to reject any and all bids, declare a failure of bidding, or not award the 
+contract at any time prior to contract award in accordance with Sections 35.6 and 41 of the 2016 
+revised IRR of RA No. 9184, without thereby incurring any liability to the affected bidder or 
+bidders. 
+ 
+10. The SSS assumes no obligation to compensate or indemnify parties for any expense or loss that 
+they may incur as a result of their participation in the procurement process, nor does SSS guarantee 
+that an award will be made as a result of this invitation.  Furthermore, the SSS reserves the right 
+to waive any defects or formality in the responses to the eligibility requirements and to this 
+invitation and reserves the right to accept the proposal most advantageous to the agency. 
+ 
+11. For further information, please refer to: 
+ 
+Bids & Awards Committee 
+The Secretariat 
+2nd Flr., SSS Main Bldg., East Ave., Diliman, Q.C. 
+Tel # (632) 8922-1070; 8709-7198 local 3420/3425 
+Email – bac@sss.gov.ph 
+ 
+12. Bidding Documents may be downloaded from PROCUREMENT tab at www.sss.gov.ph starting 
+14 March 2025. 
+ 
+ 
+ 
+ 
+ 
+                
+ 
+ 
+ 
+ 
+ 
+                 
+                                 
+ 
+ 
+ref.:   itb-sss-goods-2025-013-Internal Firewall
+
+[Page 9]
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section II. Instructions to Bidders
+
+[Page 10]
+10 
+ 
+1. 
+Scope of Bid 
+ 
+ 
+The Procuring Entity, Social Security System wishes to receive Bids for the Internal Firewall, 
+with identification number ITB-SSS-Goods-2025-013. 
+ 
+The Procurement Project (referred to herein as “Project”) is composed of a single lot, the details 
+of which are described in Section VII (Technical Specifications). 
+ 
+2. 
+Funding Information 
+ 
+2.1. 
+The GOP through the source of funding as indicated below for CY2025 in the amount 
+of Sixty-Seven Million Three Hundred Twenty-Eight Thousand Five Hundred Forty-
+Four Pesos (₱67,328,544.00). 
+ 
+2.2. 
+The source of funding is: Approved 2025 Corporate Operating Budget– Capital Outlay 
+(CO), with Code PAP 2025-0280 of the APP. 
+ 
+3. 
+Bidding Requirements 
+ 
+         The Bidding for the Project shall be governed by all the provisions of RA No. 9184 and its 2016 
+revised IRR, including its Generic Procurement Manuals and associated policies, rules and 
+regulations as the primary source thereof, while the herein clauses shall serve as the secondary 
+source thereof.   
+ 
+         Any amendments made to the IRR and other GPPB issuances shall be applicable only to the 
+ongoing posting, advertisement, or IB by the BAC through the issuance of a supplemental or 
+bid bulletin.  
+   
+The Bidder, by the act of submitting its Bid, shall be deemed to have verified and accepted the 
+general requirements of this Project, including other factors that may affect the cost, duration 
+and execution or implementation of the contract, project, or work and examine all instructions, 
+forms, terms, and project requirements in the Bidding Documents. 
+ 
+4. 
+Corrupt, Fraudulent, Collusive, and Coercive Practices 
+ 
+The Procuring Entity, as well as the Bidders and Suppliers, shall observe the highest standard 
+of ethics during the procurement and execution of the contract.  They or through an agent shall 
+not engage in corrupt, fraudulent, collusive, coercive, and obstructive practices defined under 
+Annex “I” of the 2016 revised IRR of RA No. 9184 or other integrity violations in competing 
+for the Project.  
+ 
+5. 
+Eligible Bidders 
+ 
+5.1. 
+Only Bids of Bidders found to be legally, technically, and financially capable will be 
+evaluated. 
+ 
+5.2.          a. Foreign ownership exceeding those allowed under the rules may participate pursuant 
+to: 
+ 
+i. 
+When a Treaty or International or Executive Agreement as provided in 
+Section 4 of the RA No. 9184 and its 2016 revised IRR allow foreign 
+bidders to participate; 
+ 
+ii. 
+Citizens, corporations, or associations of a country, included in the list 
+issued by the GPPB, the laws or regulations of which grant reciprocal 
+rights or privileges to citizens, corporations, or associations of the 
+Philippines;
+
+[Page 11]
+11 
+ 
+ 
+iii. 
+When the Goods sought to be procured are not available from local 
+suppliers; or 
+ 
+iv. 
+When there is a need to prevent situations that defeat competition or 
+restrain trade. 
+ 
+b. Foreign ownership limited to those allowed under the rules may participate in this 
+Project.  
+ 
+5.3. 
+Pursuant to Section 23.4.1.3 of the 2016 revised IRR of RA No.9184, the Bidder shall 
+have an SLCC that is at least one (1) contract similar to the Project the value of which, 
+adjusted to current prices using the PSA’s CPI, must be at least equivalent to:  
+ 
+a. 
+The Bidder must have completed a single contract that is similar to this Project, 
+equivalent to at least fifty percent (50%) of the ABC. 
+ 
+5.4. 
+The Bidders shall comply with the eligibility criteria under Section 23.4.1 of the 2016 
+IRR of RA No. 9184.   
+ 
+6. 
+Origin of Goods 
+ 
+There is no restriction on the origin of goods other than those prohibited by a decision of the 
+UN Security Council taken under Chapter VII of the Charter of the UN, subject to Domestic 
+Preference requirements under ITB Clause 18. 
+ 
+7. 
+Subcontracts 
+ 
+7.1. 
+The Procuring Entity has prescribed that Subcontracting is not allowed. 
+ 
+8. 
+Pre-Bid Conference 
+ 
+The Procuring Entity will hold a pre-bid conference for this Project on the specified date and 
+time and either at its physical address Bidding Room, 2nd Floor, SSS Main Bldg., East 
+Avenue, Diliman, Quezon City and/or through online conference using Microsoft Teams 
+as indicated in paragraph 6 of the IB. 
+ 
+9. 
+Clarification and Amendment of Bidding Documents 
+ 
+Prospective bidders may request for clarification on and/or interpretation of any part of the 
+Bidding Documents.  Such requests must be in writing and received by the Procuring Entity, 
+either at its given address or through electronic mail indicated in the IB, at least ten (10) 
+calendar days before the deadline set for the submission and receipt of Bids. 
+ 
+10. Documents comprising the Bid: Eligibility and Technical Components 
+ 
+10.1. 
+The first envelope shall contain the eligibility and technical documents of the Bid as 
+specified in Section VIII (Checklist of Technical and Financial Documents).  
+ 
+10.2. 
+The Bidder’s SLCC as indicated in ITB Clause 5.3 should have been completed within 
+the last five (5) years prior to the deadline for the submission and receipt of bids. 
+ 
+10.3. 
+If the eligibility requirements or statements, the bids, and all other documents for 
+submission to the BAC are in foreign language other than English, it must be 
+accompanied by a translation in English, which shall be authenticated by the 
+appropriate Philippine foreign service establishment, post, or the equivalent office 
+having jurisdiction over the foreign bidder’s affairs in the Philippines. Similar to the
+
+[Page 12]
+12 
+ 
+required authentication above, for Contracting Parties to the Apostille Convention, 
+only the translated documents shall be authenticated through an apostille pursuant to 
+GPPB Resolution No. 13-2019 dated 23 May 2019. The English translation shall 
+govern, for purposes of interpretation of the bid. 
+ 
+11. Documents comprising the Bid: Financial Component 
+ 
+11.1. 
+The second bid envelope shall contain the financial documents for the Bid as specified 
+in Section VIII (Checklist of Technical and Financial Documents).  
+ 
+11.2. 
+If the Bidder claims preference as a Domestic Bidder or Domestic Entity, a 
+certification issued by DTI shall be provided by the Bidder in accordance with Section 
+43.1.3 of the 2016 revised IRR of RA No. 9184. 
+ 
+11.3. 
+Any bid exceeding the ABC indicated in paragraph 1 of the IB shall not be accepted. 
+ 
+11.4. 
+For Foreign-funded Procurement, a ceiling may be applied to bid prices provided the 
+conditions are met under Section 31.2 of the 2016 revised IRR of RA No. 9184. 
+ 
+12. Bid Prices 
+ 
+12.1. 
+Prices indicated on the Price Schedule shall be entered separately in the following 
+manner: 
+ 
+a. 
+For Goods offered from within the Procuring Entity’s country: 
+ 
+i. 
+The price of the Goods quoted EXW (ex-works, ex-factory, ex-
+warehouse, ex-showroom, or off-the-shelf, as applicable); 
+ 
+ii. 
+The cost of all customs duties and sales and other taxes already paid or 
+payable; 
+ 
+iii. 
+The cost of transportation, insurance, and other costs incidental to 
+delivery of the Goods to their final destination; and  
+ 
+iv. 
+The price of other (incidental) services, if any, listed in the BDS. 
+ 
+b. For Goods offered from abroad: 
+ 
+i. 
+Unless otherwise stated in the BDS, the price of the Goods shall be 
+quoted delivered duty paid (DDP) with the place of destination in the 
+Philippines as specified in the BDS.  In quoting the price, the Bidder shall 
+be free to use transportation through carriers registered in any eligible 
+country.  Similarly, the Bidder may obtain insurance services from any 
+eligible source country. 
+ 
+ii. 
+The price of other (incidental) services, if any, as listed in the BDS. 
+ 
+13. Bid and Payment Currencies 
+ 
+13.1. 
+For Goods that the Bidder will supply from outside the Philippines, the bid prices may 
+be quoted in the local currency or tradeable currency accepted by the BSP at the 
+discretion of the Bidder.  However, for purposes of bid evaluation, Bids denominated 
+in foreign currencies, shall be converted to Philippine currency based on the exchange 
+rate as published in the BSP reference rate bulletin on the day of the bid opening. 
+ 
+13.2. 
+Payment of the contract price shall be made in Philippine Pesos.
+
+[Page 13]
+13 
+ 
+ 
+14. Bid Security  
+ 
+14.1. 
+The Bidder shall submit a Bid Securing Declaration or any form of Bid Security in the 
+amount indicated in the BDS, which shall be not less than the percentage of the ABC 
+in accordance with the schedule in the BDS.  
+ 
+14.2. 
+The Bid and bid security shall be valid for One Hundred Twenty (120) Calendar Days 
+from the Date of the Bid Opening.  Any Bid not accompanied by an acceptable bid 
+security shall be rejected by the Procuring Entity as non-responsive. 
+ 
+15. Sealing and Marking of Bids 
+ 
+Each Bidder shall submit one copy of the first and second components of its Bid.  
+ 
+The Procuring Entity may request additional hard copies and/or electronic copies of the Bid. 
+However, failure of the Bidders to comply with the said request shall not be a ground for 
+disqualification.   
+ 
+If the Procuring Entity allows the submission of bids through online submission or any other 
+electronic means, the Bidder shall submit an electronic copy of its Bid, which must be digitally 
+signed. An electronic copy that cannot be opened or is corrupted shall be considered non-
+responsive and, thus, automatically disqualified. 
+ 
+16. Deadline for Submission of Bids 
+ 
+16.1. 
+The Bidders shall submit on the specified date and time and either at its physical 
+address or through online submission as indicated in paragraph 7 of the IB. 
+ 
+17. Opening and Preliminary Examination of Bids 
+ 
+17.1. 
+The BAC shall open the Bids in public at the time, on the date, and at the place 
+specified in paragraph 7 of the IB. The Bidders’ representatives who are present shall 
+sign a register evidencing their attendance.   In case videoconferencing, webcasting 
+or other similar technologies will be used, attendance of participants shall likewise 
+be recorded by the BAC Secretariat.  
+ 
+In case the Bids cannot be opened as scheduled due to justifiable reasons, the 
+rescheduling requirements under Section 29 of the 2016 revised IRR of RA No. 9184 
+shall prevail.  
+ 
+17.2. 
+The preliminary examination of bids shall be governed by Section 30 of the 2016 
+revised IRR of RA No. 9184. 
+ 
+18. Domestic Preference 
+ 
+18.1. 
+The Procuring Entity will grant a margin of preference for the purpose of comparison 
+of Bids in accordance with Section 43.1.2 of the 2016 revised IRR of RA No. 9184. 
+ 
+19. Detailed Evaluation and Comparison of Bids 
+ 
+19.1. 
+The Procuring BAC shall immediately conduct a detailed evaluation of all Bids rated 
+“passed,” using non-discretionary pass/fail criteria.  The BAC shall consider the 
+conditions in the evaluation of Bids under Section 32.2 of the 2016 revised IRR of 
+RA No. 9184.
+
+[Page 14]
+14 
+ 
+19.2. 
+If the Project allows partial bids, bidders may submit a proposal on any of the lots or 
+items, and evaluation will be undertaken on a per lot or item basis, as the case maybe. 
+In this case, the Bid Security as required by ITB Clause 14 shall be submitted for 
+each lot or item separately. 
+ 
+19.3. 
+The descriptions of the lots or items shall be indicated in Section VII (Technical 
+Specifications), although the ABCs of these lots or items are indicated in the BDS 
+for purposes of the NFCC computation pursuant to Section 23.4.2.6 of the 2016 
+revised IRR of RA No. 9184.  The NFCC must be sufficient for the total of the ABCs 
+for all the lots or items participated in by the prospective Bidder.  
+ 
+  
+19.4. 
+The Project shall be awarded as follows: 
+ 
+One Project having several items that shall be awarded as one contract.  
+ 
+19.5. 
+Except for bidders submitting a committed Line of Credit from a Universal or 
+Commercial Bank in lieu of its NFCC computation, all Bids must include the NFCC 
+computation pursuant to Section 23.4.1.4 of the 2016 revised IRR of RA No. 9184, 
+which must be sufficient for the total of the ABCs for all the lots or items participated 
+in by the prospective Bidder. For bidders submitting the committed Line of Credit, 
+it must be at least equal to ten percent (10%) of the ABCs for all the lots or items 
+participated in by the prospective Bidder. 
+ 
+20. Post-Qualification 
+ 
+Within a non-extendible period of five (5) calendar days from receipt by the Bidder of the 
+notice from the BAC that it submitted the Lowest Calculated Bid, the Bidder shall submit 
+its latest income and business tax returns filed and paid through the BIR Electronic Filing 
+and Payment System (eFPS) and other appropriate licenses and permits required by law and 
+stated in the BDS.   
+ 
+21. Signing of the Contract 
+ 
+21.1. 
+The documents required in Section 37.2 of the 2016 revised IRR of RA No. 9184 
+shall form part of the Contract. Additional Contract documents are indicated in the 
+BDS.
+
+[Page 15]
+15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section III. Bid Data Sheet
+
+[Page 16]
+16 
+ 
+Bid Data Sheet 
+ITB 
+Clause 
+ 
+5.3 
+For this purpose, contracts similar to the Project shall be: 
+ 
+a. Supply, Delivery, Installation and Configuration into Operational State of 
+Firewall 
+ 
+b. Completed within five (5) years prior to the deadline for the submission and 
+receipt of bids. 
+7.1 
+No further Instruction 
+ 
+12 
+The price of the Goods shall be quoted DDP. 
+SSS Main Office, East Avenue Diliman Quezon City and SSS Disaster Recovery Site 
+(to be disclosed to the winning bidder)., or the applicable International Commercial 
+Terms (INCOTERMS) for this Project. 
+14.1 
+The bid security shall be in the form of a Bid Securing Declaration, or any of the 
+following forms and amounts:  
+ 
+Form of Bid Security 
+Amount of Bid Security 
+(Not 
+less 
+than 
+the 
+Percentage of the ABC) 
+Cash or cashier’s/manager’s check 
+issued by a Universal or Commercial 
+Bank. 
+Two percent (2%)  
+or  
+Php 1,346,570.88 
+ 
+ 
+ 
+Bank draft/guarantee or irrevocable 
+letter of credit issued by a Universal 
+or Commercial Bank: Provided, 
+however, that it shall be confirmed or 
+authenticated by a Universal or 
+Commercial Bank, if issued by a 
+foreign bank. 
+Surety bond callable upon demand 
+issued by a surety or insurance 
+company duly certified by the 
+Insurance Commission as authorized 
+to issue such security. 
+Five percent (5%)  
+or  
+Php 3,366,427.20 
+ 
+ 
+*  Bank issued securities must be issued by a universal/commercial bank. 
+*  Surety Bonds must be accompanied by a certification from Insurance     
+    Commission that issuer is authorized to issue such security. 
+*  Bid Securing Declaration must be notarized by a duly commissioned    
+    Notary Public. 
+19.3 
+The ABC is ₱ 67,328,544.00. 
+Any bid with a financial component exceeding the amount indicated above shall not 
+be accepted.
+
+[Page 17]
+17 
+ 
+20 
+The Lowest Calculated Bidder shall submit the following:  
+1. Registration certificate from Securities and Exchange Commission (SEC) for 
+corporation including Articles of Incorporation and General Information Sheet 
+(GIS), Department of Trade and Industry (DTI) for sole proprietorship, or 
+Cooperative Development Authority (CDA) for cooperatives or its equivalent 
+document  
+ 
+2. Mayor’s or Business permit issued by the city or municipality where the 
+principal place of business of the prospective bidder is located, or the equivalent 
+document for Exclusive Economic Zones or Areas 
+ 
+3. Tax clearance per E.O. No. 398, s. 2005, as finally reviewed and approved by 
+the Bureau of Internal Revenue (BIR)  
+ 
+4. Latest Audited Financial Statements 
+ 
+5. Latest income tax return corresponding to the Audited Financial Statements 
+submitted, filed electronically (EFPS) 
+ 
+6. Quarterly VAT (business tax returns) per Revenue Regulations 3-2005 for the 
+last six (6) months prior to the submission & opening of bids filed electronically 
+(EFPS); 
+21.1 
+No further Instruction
+
+[Page 18]
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section IV. General Conditions of Contract
+
+[Page 19]
+19 
+ 
+1. 
+Scope of Contract 
+ 
+This Contract shall include all such items, although not specifically mentioned, that can be 
+reasonably inferred as being required for its completion as if such items were expressly 
+mentioned herein. All the provisions of RA No. 9184 and its 2016 revised IRR, including 
+the Generic Procurement Manual, and associated issuances, constitute the primary source 
+for the terms and conditions of the Contract, and thus, applicable in contract 
+implementation.  Herein clauses shall serve as the secondary source for the terms and 
+conditions of the Contract.  
+ 
+This is without prejudice to Sections 74.1 and 74.2 of the 2016 revised IRR of RA No. 9184 
+allowing the GPPB to amend the IRR, which shall be applied to all procurement activities, 
+the advertisement, posting, or invitation of which were issued after the effectivity of the said 
+amendment.   
+ 
+Additional requirements for the completion of this Contract shall be provided in the Special 
+Conditions of Contract (SCC).   
+ 
+2. 
+Advance Payment and Terms of Payment 
+ 
+2.1. 
+Advance payment of the contract amount is provided under Annex “D” of the 
+revised 2016 IRR of RA No. 9184. 
+ 
+2.2. 
+The Procuring Entity is allowed to determine the terms of payment on the partial or 
+staggered delivery of the Goods procured, provided such partial payment shall 
+correspond to the value of the goods delivered and accepted in accordance with 
+prevailing accounting and auditing rules and regulations.  The terms of payment are 
+indicated in the SCC. 
+ 
+3. 
+Performance Security 
+ 
+Within ten (10) calendar days from receipt of the Notice of Award by the Bidder from the 
+Procuring Entity but in no case later than the signing of the Contract by both parties, the 
+successful Bidder shall furnish the performance security in any of the forms prescribed in 
+Section 39 of the 2016 revised IRR of RA No. 9184.  
+ 
+4. 
+Inspection and Tests 
+ 
+The Procuring Entity or its representative shall have the right to inspect and/or to test the 
+Goods to confirm their conformity to the Project specifications at no extra cost to the 
+Procuring Entity in accordance with the Generic Procurement Manual.  In addition to tests 
+in the SCC, Section VII (Technical Specifications) shall specify what inspections and/or 
+tests the Procuring Entity requires, and where they are to be conducted.  The Procuring 
+Entity shall notify the Supplier in writing, in a timely manner, of the identity of any 
+representatives retained for these purposes. 
+ 
+All reasonable facilities and assistance for the inspection and testing of Goods, including 
+access to drawings and production data, shall be provided by the Supplier to the authorized 
+inspectors at no charge to the Procuring Entity.  
+ 
+5. 
+Warranty 
+ 
+5.1 
+In order to assure that manufacturing defects shall be corrected by the Supplier, a 
+warranty shall be required from the Supplier as provided under Section 62.1 of the 
+2016 revised IRR of RA No. 9184.
+
+[Page 20]
+20 
+ 
+5.2 
+The Procuring Entity shall promptly notify the Supplier in writing of any claims 
+arising under this warranty.  Upon receipt of such notice, the Supplier shall, repair 
+or replace the defective Goods or parts thereof without cost to the Procuring Entity, 
+pursuant to the Generic Procurement Manual. 
+ 
+6. 
+Liability of the Supplier 
+ 
+The Supplier’s liability under this Contract shall be as provided by the laws of the Republic 
+of the Philippines.  
+ 
+If the Supplier is a joint venture, all partners to the joint venture shall be jointly and 
+severally liable to the Procuring Entity.
+
+[Page 21]
+21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section V. Special Conditions of Contract
+
+[Page 22]
+22 
+ 
+Special Conditions of Contract 
+GCC 
+Clause 
+ 
+1 
+Delivery and Documents – 
+ 
+For purposes of the Contract, “EXW,” “FOB,” “FCA,” “CIF,” “CIP,” “DDP” and 
+other trade terms used to describe the obligations of the parties shall have the 
+meanings assigned to them by the current edition of INCOTERMS published by 
+the International Chamber of Commerce, Paris.  The Delivery terms of this 
+Contract shall be as follows: 
+ 
+The delivery terms applicable to the Contract are DDP delivered SSS Main Office, 
+East Ave. Diliman, Quezon City and SSS Disaster Recovery Site (to be disclosed 
+to the winning bidder).  In accordance with INCOTERMS.”   
+ 
+Delivery of the Goods shall be made by the Supplier in accordance with the terms 
+specified in Section VI (Schedule of Requirements).   
+ 
+For purposes of this Clause the Procuring Entity’s Representative Ms. Jocelyn R. 
+De la Pena, Concurrent Acting Head of Information Systems Security Department 
+(ISSD) or her authorized representative at the Project Site. 
+ 
+Incidental Services – 
+ 
+The Supplier is required to provide all of the following services, including 
+additional services, if any, specified in Section VI. Schedule of Requirements: 
+ 
+a. 
+performance or supervision of on-site assembly and/or start-up of the 
+supplied Goods; 
+b. furnishing of tools required for assembly and/or maintenance of the 
+supplied Goods; 
+c. 
+furnishing of a detailed operations and maintenance manual for each 
+appropriate unit of the supplied Goods; 
+d. performance or supervision or maintenance and/or repair of the supplied 
+Goods, for a period of time agreed by the parties, provided that this 
+service shall not relieve the Supplier of any warranty obligations under 
+this Contract; and 
+e. 
+training of the Procuring Entity’s personnel, at the Supplier’s plant 
+and/or on-site, in assembly, start-up, operation, maintenance, and/or 
+repair of the supplied Goods. 
+ 
+The Contract price for the Goods shall include the prices charged by the Supplier 
+for incidental services and shall not exceed the prevailing rates charged to other 
+parties by the Supplier for similar services. 
+Spare Parts – 
+The Supplier is required to provide all of the following materials, notifications, 
+and information pertaining to spare parts manufactured or distributed by the 
+Supplier: 
+1. such spare parts as the Procuring Entity may elect to purchase from the 
+Supplier, provided that this election shall not relieve the Supplier of any 
+warranty obligations under this Contract; and 
+2. in the event of termination of production of the spare parts:
+
+[Page 23]
+23 
+ 
+i. advance notification to the Procuring Entity of the pending termination, 
+in sufficient time to permit the Procuring Entity to procure needed 
+requirements; and 
+ii. following such termination, furnishing at no cost to the Procuring 
+Entity, the blueprints, drawings, and specifications of the spare parts, if 
+requested. 
+ 
+The Supplier shall carry sufficient inventories to assure ex-stock supply of 
+consumable spare parts or components for the Goods within the duration of the 
+contract. 
+Spare parts or components shall be supplied as promptly as possible, but in any 
+case, within 24 hours of placing the order. 
+Packaging – 
+The Supplier shall provide such packaging of the Goods as is required to prevent 
+their damage or deterioration during transit to their final destination, as indicated 
+in this Contract.  The packaging shall be sufficient to withstand, without limitation, 
+rough handling during transit and exposure to extreme temperatures, salt and 
+precipitation during transit, and open storage.  Packaging case size and weights 
+shall take into consideration, where appropriate, the remoteness of the Goods’ 
+final destination and the absence of heavy handling facilities at all points in transit. 
+The packaging, marking, and documentation within and outside the packages shall 
+comply strictly with such special requirements as shall be expressly provided for 
+in the Contract, including additional requirements, if any, specified below, and in 
+any subsequent instructions ordered by the Procuring Entity. 
+The outer packaging must be clearly marked on at least four (4) sides as follows: 
+Name of the Procuring Entity 
+Name of the Supplier 
+Contract Description 
+Final Destination 
+Gross weight 
+Any special lifting instructions 
+Any special handling instructions 
+Any relevant HAZCHEM classifications 
+A packaging list identifying the contents and quantities of the package is to be 
+placed on an accessible point of the outer packaging if practical. If not practical 
+the packaging list is to be placed inside the outer packaging but outside the 
+secondary packaging. 
+ 
+Transportation – 
+Where the Supplier is required under Contract to deliver the Goods CIF, CIP, or 
+DDP, transport of the Goods to the port of destination or such other named place 
+of destination in the Philippines, as shall be specified in this Contract, shall be 
+arranged and paid for by the Supplier, and the cost thereof shall be included in the 
+Contract Price. 
+Where the Supplier is required under this Contract to transport the Goods to a 
+specified place of destination within the Philippines, defined as the Project Site, 
+transport to such place of destination in the Philippines, including insurance and 
+storage, as shall be specified in this Contract, shall be arranged by the Supplier, 
+and related costs shall be included in the contract price.
+
+[Page 24]
+24 
+ 
+Where the Supplier is required under Contract to deliver the Goods CIF, CIP or 
+DDP, Goods are to be transported on carriers of Philippine registry.  In the event 
+that no carrier of Philippine registry is available, Goods may be shipped by a 
+carrier which is not of Philippine registry provided that the Supplier obtains and 
+presents to the Procuring Entity certification to this effect from the nearest 
+Philippine consulate to the port of dispatch.  In the event that carriers of Philippine 
+registry are available but their schedule delays the Supplier in its performance of 
+this Contract the period from when the Goods were first ready for shipment and 
+the actual date of shipment the period of delay will be considered force majeure. 
+The Procuring Entity accepts no liability for the damage of Goods during transit 
+other than those prescribed by INCOTERMS for DDP deliveries.  In the case of 
+Goods supplied from within the Philippines or supplied by domestic Suppliers risk 
+and title will not be deemed to have passed to the Procuring Entity until their 
+receipt and final acceptance at the final destination. 
+Intellectual Property Rights – 
+The Supplier shall indemnify the Procuring Entity against all third-party claims of 
+infringement of patent, trademark, or industrial design rights arising from use of 
+the Goods or any part thereof. 
+ 
+Data Privacy Act of 2012 
+ 
+The bidder and its implementation partner/s, including its personnel who shall be 
+assigned to the project, must comply with the pertinent provisions of Republic Act 
+No. 10173 (Data Privacy Act of 2012), its Implementing Rules and Regulations 
+(IRR), or any subsequent official issuance/guideline on Data Privacy, if 
+applicable. 
+ 
+2.2 
+The terms of payment shall be one-time payment upon issuance of final acceptance 
+by the Information Systems Security Department based on the deliverables 
+under Section VI (Schedule of Requirement), which shall be credited to the 
+LANDBANK or DBP or any choice of bank account subject to applicable bank 
+charges of the winning bidder. 
+The payment shall be subject to retention of Withholding Tax and other applicable 
+taxes in accordance with existing Laws and BIR Rules and Regulations, to be 
+remitted directly to the BIR by the SSS. 
+Payment using Letter of Credit is not allowed. 
+4 
+The inspections and tests that will be conducted are:  
+A. PRIOR TO PRODUCT ACCEPTANCE  
+Initial product delivery inspection shall be conducted by the Office Services 
+Department (OSD), Official SSS Authorized Inspectors and project proponent. 
+B. PERFORMANCE / ACCEPTANCE TESTING 
+The delivered goods shall undergo a performance test for a period of fifteen (15) 
+calendar days, which shall commence on the first Monday immediately following 
+the day when the advice of Complete Installation is submitted by the vendor.
+
+[Page 25]
+25 
+ 
+Vendor must therefore ensure that the system is ready for performance and 
+acceptance testing within one hundred twenty (120) calendar days from receipt 
+of Notice to Proceed together with the signed Contract. 
+Immediately upon successful completion of the performance period, SSS shall 
+notify the vendor in writing of acceptance of the product and authorize payment 
+subject to the usual COA rules and regulations. 
+However, if successful completion of the performance period is not attained 
+within thirty (30) calendar days from receipt of Notice to Proceed together with 
+the signed Contract, SSS shall have the option of terminating the contract or 
+continuing the performance test.  In continuing the performance test, a daily 
+penalty of 1/10 of 1% of the contract price shall be imposed on the vendor. 
+The SSS’ option to terminate the contract shall remain in effect until such time a 
+successful completion of the performance test is attained.  However, when the 
+penalty amount has reached 10% of the total contract price, the SSS shall have 
+the option to automatically terminate the contract. 
+Upon termination of the contract, SSS will forfeit the performance security and 
+the contract may be awarded to the bidder found to be the next Lowest Calculated 
+and Responsive Bid.  
+In awarding the contract to the bidder found to have the next Lowest Calculated 
+and Responsive Bid, the bidder shall post the required performance security. 
+No payment will be made until the hardware/software/application system is/are 
+accepted based on mandatory technical requirements specified in Section VII. 
+Technical Specifications.  
+Crafting of acceptance criteria is not limited to the generic specifications 
+mentioned in Section VII (Technical Specifications) of this bid document.  
+Additional criteria for the configuration works may be required from the supplier 
+as may be warranted and deemed necessary by the SSS 
+5.1 
+THREE (3) YEARS WARRANTY WITH PREVENTIVE MAINTENANCE 
+AND REMEDIAL SERVICES 
+a. The Service Provider must provide Preventive Maintenance and Remedial 
+services on the purchased product during the warranty period. 
+b. The Service Provider must utilize experienced and certified technicians or 
+engineers under its direct employment and supervision in rendering the 
+required services.  
+c. For preventive maintenance services, when applicable, it is required to include 
+standard cleaning, inspection, and testing of the Internal Firewall hardware to 
+ensure it is in optimal operating condition and to minimize the risk of 
+equipment failure. The frequency of preventive maintenance must be 
+quarterly. 
+d. During the warranty period, SSS should be entitled to all applicable firmware 
+version upgrades at no additional cost. 
+e. For Remedial Services, the Service Provider must be onsite within three (3) 
+hours upon receipt of service request.  
+f. Once on site, the Service Provider must repair the malfunctioning 
+equipment/component or resolve software/firmware issues.  
+g. If malfunctioning equipment/component is diagnosed to be beyond repair, the 
+Service Provider must replace said equipment/component.  All replacement 
+parts must be brand new and warranted as brand new and of equal quality and
+
+[Page 26]
+26 
+ 
+shall become the property of SSS.  In the same manner, the parts replaced shall 
+become the Service Provider’s property. 
+h. The Service Provider must always maintain a reasonable supply of spare parts 
+for the remedial services required.  The SSS may, at any time during the term 
+of agreement, require the Service Provider to provide an inventory list of such 
+supply of spare parts. 
+i. The Service Provider must reinstall corrupted software caused by hardware 
+failure, whenever applicable. 
+j. If within 48 hours, upon arriving on site, the Service Provider fails to 
+restore/repair the equipment /component, the Service Provider must supply 
+and install a service unit within the next 24 hours.  SSS use of said service unit 
+must not exceed 60 calendar days.  All shipment/delivery fees must be charged 
+against the account of the Service Provider. 
+k. A designated SSS representative shall always be present during the 
+performance of the above-mentioned preventive maintenance and remedial 
+services to provide assistance especially in compliance with safety regulations. 
+In an event that safety is compromised, the Service Provider must terminate 
+the on-going work and to resume the same only as soon as the danger to one’s 
+safety is eliminated. 
+l. Three (3) hours response time in Head Office including Saturday, Sundays and 
+Holidays 
+m. Unlimited Phone Consultation 
+n. The Service Provider must provide support to Move, Add Changes, Integrate 
+and Delete Configuration Services while under warranty at no cost to SSS. 
+o. For every completed quarterly preventive maintenance services, the Service 
+Provider must provide the Information Systems Security Department (ISSD) a 
+copy of an accomplished preventive maintenance service report, confirming 
+the completed work. The report must be duly signed by the designated SSS 
+representative, as described above.  The report must be accomplished in the 
+Main Office and must include the following information: 
+ 
+• Name of Service Provider’s Service Crew/s. 
+• Applicable Period of Software Health Check. 
+• Time In and Out of Service Crew/s. 
+• Description of the units serviced. 
+ 
+p. For each remedial services conducted, the Service Provider must provide the 
+ISSD a copy of an accomplished remedial service report confirming the 
+completed service. The report must be duly signed by a designated SSS 
+representative and by his/her immediate supervisor.  The report must include 
+the following information: 
+ 
+i. 
+Problem Notification Details 
+• Name of Notifying SSS Personnel 
+• Date and Time of Notification; and 
+• Initially Reported Problem 
+ 
+ii. 
+Service Provider’s Response Details 
+• Date and Time of the Service Crew’s arrival on-site 
+• Diagnosed Problem 
+• Cause of Problem 
+• Resolution Made: Complete description of the effected resolution. 
+• Service Provider’s recommendations, as to how the problem may be
+prevented in the future. 
+• Date & Time the problem was resolved.
+
+[Page 27]
+27 
+ 
+Description of work, to include Software Name and Version, Module 
+Description, Solution Provided 
+6 
+Liability of the Supplier 
+ 
+1. CONFIDENTIALITY. Neither party shall, without the prior written consent 
+of the other, disclose or make available to any person, make public, or use 
+directly or indirectly, except for the performance and implementation of the 
+works, any confidential information, acquired from an information holder in 
+connection with the performance of this Contract, unless: (i) the information 
+is known to the disclosing party, as evidenced by its written records, prior to 
+obtaining the same from the information holder and is not otherwise subject 
+to disclosure restrictions on the disclosing party, (ii) the information is 
+disclosed to the disclosing party by a third party who did not receive the same, 
+directly or indirectly, from an information holder, and who has no obligation 
+of secrecy with respect thereto, or (iii) required to be disclosed by law. 
+The obligation of confidentiality by both parties, as provided herein, shall 
+survive the termination of the Agreement.  
+2. MERGER AND CONSOLIDATION. In case of merger, consolidation or 
+change of ownership of the SUPPLIER with other company, it is the 
+responsibility of the surviving company/consolidated company/acquiring 
+entity to inform SSS of the change in corporate structure/ownership. Failure 
+to do so shall translate in such company assuming all liabilities of the 
+acquired/merged company under the Agreement. 
+3. FORCE MAJEURE. SUPPLIER shall not be liable for forfeiture of its 
+performance security, liquidated damages, or termination for default if and to 
+the extent that SUPPLIER's delay in performance or other failure to perform 
+its obligations under this Agreement is the result of a force majeure.  
+For purposes of this Agreement the terms "force majeure" and "fortuitous 
+event" may be used interchangeably. In this regard, a fortuitous event or force 
+majeure shall be interpreted to mean an event which SUPPLIER could not 
+have foreseen, or which though foreseen, was inevitable. It shall not include 
+ordinary unfavorable weather conditions; and any other cause the effects of 
+which could have been avoided with the exercise of reasonable diligence by 
+SUPPLIER. Such events may include, but not limited to, acts of SSS in its 
+sovereign capacity, wars or revolutions, fires, floods, epidemics, quarantine 
+restrictions, and freight embargoes. 
+If a force majeure situation arises, SUPPLIER shall promptly notify SSS in 
+writing of such condition and the cause thereof. Unless otherwise directed by 
+SSS in writing, SUPPLIER shall continue to perform its obligations under 
+this Agreement as far as is reasonably practical and shall seek all reasonable 
+alternative means for performance not prevented by the force majeure. 
+4. NON-ASSIGNMENT. SUPPLIER shall not assign its rights or obligations 
+under this Agreement, in whole or in part, except with SSS's prior written 
+consent. SUPPLIER shall not subcontract in whole or in part the PROJECT 
+and deliverables subject of this Agreement without the written consent of 
+SSS. 
+5. WAIVER. Failure by either party to insist upon the other strict performance 
+of any of the terms and conditions hereof shall not be deemed a 
+relinquishment or waiver of any subsequent breach or default of the terms
+
+[Page 28]
+28 
+ 
+and conditions hereof, which can only be deemed made if expressed in 
+writing and signed by its duly authorized representative. No such waiver shall 
+be construed as modification of any of the provisions of the Agreement or as 
+a waiver of any past or future default or breach hereof, except as expressly 
+stated in such waiver. 
+6. CUMULATIVE REMEDIES. Any and all remedies granted to the parties 
+under the applicable laws and the Contract shall be deemed cumulative and 
+may therefore, at the sole option and discretion, be availed of by the aggrieved 
+party simultaneously, successively, or independently. 
+7. NO EMPLOYER-EMPLOYEE RELATIONSHIP. It is expressly and 
+manifestly understood and agreed upon that the employees of SUPPLIER 
+assigned to perform the PROJECT are not employees of SSS. Neither is there 
+an employer-employee relationship between SSS and SUPPLIER. 
+The Agreement does not create an employer-employee relationship between 
+SSS and the SUPPLIER including its personnel; that the services rendered by 
+the personnel assigned by SUPPLIER to SSS in the performance of its 
+obligation under the contract do not represent government service and will 
+not be credited as such; that its personnel assigned to SSS are not entitled to 
+benefits enjoyed by SSS’ officials and employees such as Personal Economic 
+Relief Allowance (PERA), Representation and Transportation Allowance 
+(RATA), ACA, etc.; that these personnel are not related within the third 
+degree of consanguinity or affinity to the contracting officer and appointing 
+authority of SSS; that they have not been previously dismissed from the 
+government service by reason of an administrative case; that they have not 
+reached the compulsory retirement age of sixty-five (65); and that they 
+possess the education, experience and skills required to perform the job. The 
+SUPPLIER hereby acknowledges that no authority has been given by SSS to 
+hire any person as an employee of the latter. Any instruction given by SSS or 
+any of its personnel to SUPPLIER’s employees are to be construed merely as 
+a measure taken by the former to ensure and enhance the quality of project 
+performed hereunder. The SUPPLIER shall, at all times, exercise supervision 
+and control over its employees in the performance of its obligations under the 
+contract. 
+8. PARTNERSHIP. Nothing in the contract shall constitute a partnership 
+between the parties. No party or its agents or employees shall be deemed to 
+be the agent, employee or representative of any other party. 
+9. COMPLIANCE WITH SS LAW. SUPPLIER shall report all its employees 
+to SSS for coverage and their contributions, as well as, all amortizations for 
+salary/education/calamity and other SSS loans shall be updated. Should 
+SUPPLIER fail to comply with its obligations under the provisions of the SS 
+Law and Employees’ Compensation Act, SSS shall have the authority to 
+deduct any unpaid SS and EC contributions, salary, educational, emergency 
+and/or calamity loan amortizations, employer’s liability for damages, 
+including interests and penalties from SUPPLIER’s receivables under this 
+Agreement.  
+Further, prescription does not run against SSS for its failure to demand SS 
+contributions or payments from SUPPLIER. Moreover, SUPPLIER shall 
+forever hold in trust SS contributions or payments of its employees until the 
+same is fully remitted to SSS. 
+10. COMPLIANCE WITH LABOR LAWS. SUPPLIER, as employer of the 
+personnel assigned to undertake the PROJECT, shall comply with all its
+
+[Page 29]
+29 
+ 
+obligations under existing laws and their implementing rules and regulations 
+on the payment of minimum wage, overtime pay, and other labor-related 
+benefits as well as remittances or payment of the appropriate amount or 
+contributions/payment (SSS, EC, Pag-IBIG, PhilHealth and taxes) with 
+concerned government agencies/offices.  
+It is agreed further, that prior to the release of any payment by SSS to 
+SUPPLIER, its President or its duly authorized representative, shall submit a 
+sworn statement that all monies due to all its employees assigned to the 
+PROJECT as well as benefits by law and other related labor legislation have 
+been paid by SUPPLIER and that he/she assumed full responsibility thereof. 
+11. COMPLIANCE WITH TAX LAWS. SUPPLIER shall, in compliance with 
+tax laws, pay the applicable taxes in full and on time and shall regularly 
+present to SSS within the duration of the Contract, tax clearance from the 
+Bureau of Internal Revenue (BIR) as well as copy of its income and business 
+tax returns duly stamped by the BIR and duly validated with the tax payments 
+made thereon. Failure by SUPPLIER to comply with the foregoing shall 
+entitle SSS to suspend payment of the Contract Price. 
+As required under Executive Order (EO) 398, s. 2005, SUPPLIER shall 
+submit income and business tax returns duly stamped and received by the 
+BIR, before entering and during the duration of this Agreement. SUPPLIER, 
+through its responsible officer, shall also certify under oath that it is free and 
+clear of all tax liabilities to the government. SUPPLIER shall pay taxes in full 
+and on time and that failure to do so will entitle SSS to suspend or terminate 
+this Agreement. 
+12. LIQUIDATED DAMAGES. If SUPPLIER fails to satisfactorily deliver any 
+or all of the Goods and/or to perform the Services within the period(s) 
+specified in the PBD inclusive of duly granted time extensions if any, SSS 
+shall, without prejudice to its other remedies under this Agreement and under 
+the applicable law, deduct from the Contract Price, as liquidated damages, 
+the applicable rate of one tenth (1/10) of one (1) percent of the cost of the 
+unperformed portion for every day of delay until actual delivery or 
+performance. Once the amount of liquidated damages reaches ten percent 
+(10%), SSS may rescind or terminate this Agreement, without prejudice to 
+other courses of action and remedies open to it. 
+13. HOLD FREE and HARMLESS. SUPPLIER agrees to defend, indemnify, 
+and hold SSS free and harmless from any and all claims, damages, expenses, 
+fines, penalties and/or liabilities of whatever nature and kind, whether in law 
+or equity, that may arise by reason of the implementation of the Agreement. 
+In addition, SUPPLIER agrees to indemnify SSS for any damage as a result 
+of said implementation. 
+SUPPLIER hereby assumes full responsibility for any injury, including 
+death, loss or damage which may be caused to SSS’ employees or property 
+or third person due to SUPPLIER’s employees’ fault or negligence, and 
+further binds itself to hold SSS free and harmless from any of such injury or 
+damage. SSS shall not be responsible for any injury, loss or damage which 
+SUPPLIER or any of its employees may sustain in the performance of 
+SUPPLIER’s obligations under this Agreement. 
+14. SETTLEMENT OF DISPUTES. If any dispute or difference of any kind 
+whatsoever shall arise between SSS and SUPPLIER in connection with or
+
+[Page 30]
+30 
+ 
+arising out of this Agreement, the Parties shall make every effort to resolve 
+amicably such dispute or difference by mutual consultation. 
+If after thirty (30) days, the Parties have failed to resolve their dispute or 
+difference by such mutual consultation, then either SSS or SUPPLIER may 
+give notice to the other Party of its intention to commence arbitration, in 
+accordance with RA No. 876, otherwise known as the “Arbitration Law” and 
+RA No. 9285, otherwise known as the “Alternative Dispute Resolution Act 
+of 2004,” in order to settle their disputes. 
+No arbitration in respect of this matter may be commenced unless such notice 
+is given. 
+Notwithstanding any reference to arbitration herein, the Parties shall continue 
+to perform their respective obligations under this Agreement unless they 
+otherwise agree. 
+15. VENUE OF ACTIONS. In the event court action is necessary in order to 
+promote Arbitration, such action shall be filed only before the proper courts 
+of Quezon City, to the exclusion of all other venues. 
+16. GOVERNING LAW. The Agreement shall be governed by and interpreted 
+according to the laws of the Republic of the Philippines. 
+17. AMENDMENTS. This Agreement may be amended only in writing and 
+executed by the parties or their duly authorized representatives. 
+18. SEPARABILITY. If any one or more of the provisions contained in the 
+contract or any document executed in connection herewith shall be invalid, 
+illegal or unenforceable in any respect under any applicable law, then: (i) the 
+validity, legality and enforceability of the remaining provisions contained 
+herein or therein shall not in any way be affected or impaired and shall remain 
+in full force and effect; and (ii) the invalid, illegal or unenforceable provision 
+shall be replaced by the parties immediately with a term or provision that is 
+valid, legal and enforceable and that comes closest to expressing the intention 
+of such invalid illegal or unenforceable term of provision. 
+19. BINDING EFFECT. The Agreement shall be binding upon the Parties hereto, 
+their assignee/s and successor/s-in-interest.
+
+[Page 31]
+31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section VI. Schedule of Requirements 
+ 
+The delivery schedule expressed as weeks/months stipulates hereafter a delivery date which is 
+the date of delivery to the project site.   
+ 
+Item  
+Description 
+Qty. 
+Total 
+Delivery 
+1.  
+Internal Firewall Hardware for Main 
+Office 
+2 
+2 
+Within one hundred 
+twenty (120) calendar 
+days from receipt of 
+Notice to Proceed and 
+Signed Contract 
+2.  
+Internal Firewall Hardware for Disaster 
+Recovery Site 
+2 
+2 
+3.  
+Management Server 
+2 
+2 
+4.  
+Log Server 
+2 
+2 
+5.  
+Data Cabinet Rack 
+2 
+2 
+6.  
+Documentation 
+ 
+a) Installation, Maintenance & User’s Manual/Guide in 
+hardcopy 
+ 
+Note: Shall be included in the box/packaging upon delivery 
+of the equipment 
+7.  
+Training/Knowledge Transfer Requirements 
+ 
+- 
+Must provide Highly Technical Hands-on Laboratory 
+Training for three (3) Information Systems Security 
+Department (ISSD) Personnel whether locally or abroad 
+if not available locally. 
+ 
+- 
+Must provide operations and maintenance training for at 
+least ten (10) SSS IT personnel with certificate of 
+attendance 
+ 
+Training must be conducted in a standard Training Center - 
+Instructor Led Class-room Type. Must be trained by a certified 
+instructor or certified engineer. All costs related to the conduct of 
+the training shall be to the account of the vendor. 
+8.  
+Three (3) Years Warranty with Preventive Maintenance and 
+Remedial Service 
+To commence 
+immediately upon 
+final product 
+acceptance
+
+[Page 32]
+32 
+ 
+ 
+Name: _____________________________________________________________  
+ 
+Legal capacity:_______________________________________________________  
+ 
+Signature:___________________________________________________________   
+ 
+Duly authorized to sign the Bid for and behalf of: ______________________________   
+ 
+Date: _______________________ 
+ 
+Section VII. Technical Specifications 
+ 
+[Bidders must state here either “Comply” or “Not Comply” against each of the individual 
+parameters of each Specification stating the corresponding performance parameter of the 
+equipment offered. Statements of “Comply” or “Not Comply” must be supported by evidence 
+in a Bidders Bid and cross-referenced to that evidence.  Evidence shall be in the form of 
+manufacturer’s un-amended sales literature, unconditional statements of specification and 
+compliance issued by the manufacturer, samples, independent test data etc., as appropriate. A 
+statement that is not supported by evidence or is subsequently found to be contradicted by the 
+evidence presented will render the Bid under evaluation liable for rejection.  A statement either 
+in the Bidder's statement of compliance or the supporting evidence that is found to be false 
+either during Bid evaluation, post-qualification or the execution of the Contract may be 
+regarded as fraudulent and render the Bidder or supplier liable for prosecution subject to the 
+applicable laws and issuances.] 
+ITEM 
+DESCRIPTION 
+STATEMENT 
+OF 
+COMPLIANCE 
+ANNEXES 
+A. Internal Firewall – Basic Features and Functionalities 
+ 
+The bidder must submit product literature (Data sheet), Detailed System Diagram or detailed 
+Bill of Materials. All technical items enumerated below shall be cross-referenced with the 
+submitted product literature 
+1.  
+Must provide a proprietary Operating System 
+to 
+prevent 
+Inheriting 
+common 
+OS 
+vulnerability 
+ 
+ 
+2.  
+Must allow seamless Back-up and Restore via 
+GUI and CLI to/from Local PC and Remote 
+centralized management 
+ 
+ 
+3.  
+Must support scheduled Back-up and Restore 
+configuration: on demand, daily, weekly or 
+monthly 
+ 
+ 
+4.  
+Must provide Management access through 
+GUI using HTTP or HTTPS access which 
+administration service port can be configured 
+ 
+ 
+5.  
+Must allow Management access through CLI 
+console using Port, SSHv2, Telnet or on GUI’s 
+Dashboard administration 
+ 
+ 
+6.  
+Must be able to limit remote management 
+access from a certain trusted network or host 
+with corresponding administrator account
+
+[Page 33]
+33 
+ 
+7.  
+Must be capable of performing Deep Packet 
+Inspection 
+and 
+capable 
+of 
+identifying 
+minimum 5500 applications 
+ 
+ 
+8.  
+Must support Fast Path Packet Optimization 
+ 
+ 
+9.  
+Must be capable of creating policies based on 
+user, group, time, or network. 
+ 
+ 
+10.  
+Must allow access time policies per user/group  
+ 
+11.  
+Must allow and support Policy enforcement 
+across zones, networks, or service type. 
+ 
+ 
+12.  
+Must allow Zone isolation and zone-based 
+policy support 
+ 
+ 
+13.  
+Must be capable of providing custom zone for 
+LAN, WAN, DMZ, LOCAL VPN and Wifi 
+ 
+ 
+14.  
+Must provide Customizable NAT policies with 
+IP masquerading 
+ 
+ 
+15.  
+Must be capable of performing Flood 
+protection: DoS, DDoS and port scan blocking 
+ 
+ 
+16.  
+Must support Full configuration of DNS, 
+DHCP and NTP 
+ 
+ 
+17.  
+Must allow administrators visibility and 
+insight into current operational data to help 
+them refine policies, plan infrastructure, and 
+measure productivity 
+ 
+ 
+18.  
+The system must support flow and proxy-
+based antivirus options for choice between 
+protection and performance. 
+ 
+ 
+19.  
+The system must support integrated DoS 
+protection against abnormal traffic behaviors. 
+ 
+ 
+20.  
+Shall provide ability allow or block specific 
+grayware groups such as adwares, BHO and 
+keyloggers 
+ 
+ 
+21.  
+The proposed system shall have the ability to 
+intercept and inspect the content of SSL 
+encrypted traffic of the following protocols: 
+• 
+HTTPS 
+• 
+IMAPS 
+• 
+POP3S 
+• 
+SMTPS 
+ 
+ 
+22.  
+Shall be able to perform AV Scanning tasks 
+over SSL encrypted traffic 
+ 
+ 
+23.  
+Must provide a URL filtering database with at 
+least 300 million URLs supporting both 
+HTTP/HTTPS detection. 
+ 
+ 
+24.  
+Must provide basic security capabilities of 
+Application Control, IPS, Antivirus, Anti-bot 
+and AI-based malware prevention.
+
+[Page 34]
+34 
+ 
+25.  
+Any materials/supplies necessary for the 
+completion of the project shall be supplied by 
+the winning bidder at no additional cost to SSS 
+ 
+ 
+B. Hardware Specification Requirement – Internal Firewall 
+1.  
+Minimum of 4 x 40/100GE QSFP28 Slots 
+with 4x 40GE QSFP+ transceivers 
+ 
+ 
+2.  
+Minimum of 16 x 10GE SFP+ slots with 6 
+10GE transceiver ports 
+ 
+ 
+3.  
+Must include 2 RJ45 Management 
+Interface/HA port 
+ 
+ 
+4.  
+Minimum Firewall Throughput of 350 Gbps 
+ 
+ 
+5.  
+Minimum IPS throughput 60 Gbps  
+ 
+ 
+6.  
+Minimum SSL Inspection Throughput 30 
+Gbps 
+ 
+ 
+7.  
+Minimum Threat Protection Throughput 50 
+Gbps 
+ 
+ 
+8.  
+Minimum of 130 Million Concurrent Session 
+ 
+ 
+9.  
+Minimum of 1 Million New Session per 
+seconds 
+ 
+ 
+10.  
+Minimum SSL VPN Throughput 15 Gbps 
+ 
+ 
+11.  
+Redundant Power Supply 
+ 
+ 
+C. Management Server Basic Features and Functionalities 
+1 
+Must be able to deploy on-premises in 
+hardware appliance. 
+ 
+ 
+2 
+Must support geo-redundancy high 
+availability in Main office and Disaster 
+Recovery site. 
+ 
+ 
+3 
+Must support access via GUI or CLI. 
+ 
+ 
+4 
+Must be able to supervise next generation 
+firewall of the same brand in a single console. 
+ 
+ 
+5 
+Must provide web administrators with a 
+single location to define and publish policies 
+to multiple security appliances 
+ 
+ 
+6 
+Must be able to provide role-based 
+administration to its administrators allowing 
+to restrict what specific actions can only be 
+done on the management which can be 
+paralleled to its organization's designation. 
+ 
+ 
+7 
+Must have the option to restrict its access to 
+its administrators via trusted hosts for a more 
+secure environment. 
+ 
+ 
+8 
+Must support workflow for audit and 
+compliance for review, approval and audit 
+policy changes from a central place, including 
+automated processes to facilitate policy
+
+[Page 35]
+35 
+ 
+compliance, policy lifecycle management, 
+and enforced workflow to reduce risk. 
+9 
+Must be able provide records of the history of 
+all configuration changes over time to its 
+managed devices 
+ 
+ 
+10 
+Must have the capability to centrally manage 
+the firmware images of its managed devices 
+for upgrade through firmware templates. 
+ 
+ 
+11 
+Must be able to monitor its managed devices 
+(i.e. status, health, and network usage). 
+ 
+ 
+12 
+Must support integration to logging solution 
+of the same brand allowing to view logs and 
+reporting features 
+ 
+ 
+13 
+Minimum of at least 25 logical systems on a 
+single virtual or physical appliance. 
+ 
+ 
+14 
+Minimum of at least 50 sustained log rates. 
+ 
+ 
+15 
+Must be capable of handling 2GB of logs per 
+day. 
+ 
+ 
+16 
+Minimum of at least 6TB usable storage in 
+capacity. 
+ 
+ 
+17 
+Minimum of at least 4TB usable storage after 
+a RAID 
+ 
+ 
+18 
+Must be at least 1RU Rackmount. 
+ 
+ 
+19 
+Must have at least four (4) gigabit RJ45 
+interfaces 
+ 
+ 
+20 
+Must have a redundant hot-swap power 
+supply 
+ 
+ 
+21 
+Must have air flow from front to back 
+ 
+ 
+C. Log Server Basic Features and Functionalities 
+1 
+Must be capable of providing centralized 
+logging and analytics for SSS's internal 
+firewall devices. 
+ 
+ 
+2 
+The proposed system must be able to be 
+deployed in hardware appliance. 
+ 
+ 
+3 
+Must support access via GUI or CLI 
+ 
+ 
+4 
+Must be able to provide role-based 
+administration to its administrators allowing 
+to restrict what specific actions can only be 
+done on the solution which can be paralleled 
+to its organization's designation 
+ 
+ 
+5 
+Must have the option to restrict its access on 
+its administrators via trusted hosts for more 
+secure environment. 
+ 
+ 
+6 
+Must have built-in templates with sample 
+reports
+
+[Page 36]
+36 
+ 
+7 
+Must be able to run reports on-demand or on 
+a schedule with automated email 
+notifications, uploads and an easy to manage 
+calendar view. 
+ 
+ 
+8 
+Must have the capability to create custom 
+reports with built-in charts and datasets ready 
+for creating your own custom reports, with 
+flexible report formats including PDF, HTML, 
+CSV and XML. 
+ 
+ 
+10 
+The system must be capable of managing a 
+maximum of 1800 logical systems on a single 
+virtual or physical appliance. 
+ 
+ 
+11 
+The system must have 2x 2.5GbE RJ45 ports. 
+ 
+ 
+12 
+The system must have a storage capacity of at 
+least 30TB 
+ 
+ 
+13 
+The system must support six (6) months log 
+retention. 
+ 
+ 
+14 
+The system must have usable storage after 
+RAID of 20TB. 
+ 
+ 
+15 
+The system must be capable of handling 600 
+GB of logs per day. 
+ 
+ 
+16 
+The system must be capable of having a 
+maximum of 55 days Analytics. 
+ 
+ 
+17 
+The system must have an analytic sustained 
+log rate of at least 15,000 logs/sec. 
+ 
+ 
+18 
+The system must have a Collector sustained 
+log rate of at least 25,000 logs/sec. 
+ 
+ 
+19 
+The system must have a redundant power 
+supply 
+ 
+ 
+D. Data Cabinet Rack Requirement 
+ 
+• Provide 42U Indoor Cabinet 
+• Provide the corresponding Power 
+Distribution Unit supporting 220V 
+•  Must have at least four (4) Horizontal 
+Cable Manager 1U 
+• Must have at least four (4) Universal Steel 
+Rack Shelf 1U 
+• 42U Vertical Cable Manager with plastic 
+fingers & cover 
+• Provide all the necessary cables and 
+accessories for project implementation 
+ 
+ 
+E. Other Technical Considerations 
+1.  
+Remedial and Preventive Maintenance 
+ 
+ 
+2.  
+24 x 7 Service Desk Support 
+ 
+ 
+3.  
+24 x 7 Technical Support and Product 
+Support
+
+[Page 37]
+37 
+ 
+4.  
+Service Delivery Management Service for the 
+duration of the contract 
+ 
+ 
+5.  
+Three (3)-Year Warranty with health checks 
+ 
+ 
+6.  
+16 x 40GE QSFP+ Cisco Transceiver 
+ 
+ 
+7.  
+4 x 10GE Cisco Transceiver 
+ 
+ 
+Bidder Qualification 
+I Project Management / Professional Services and Installation 
+1.1 Bidder must conduct Project Management 
+using below program or similar approach: 
+ 
+Scope of Work: 
+a) Conduct initial Project Kick Off 
+b) Create Project team for SSS and winning 
+bidder. 
+c) Conduct three (3) day workshops and 
+planning on design and implementation roll 
+out for the proposed Internal Firewall. 
+To be led by the Certified Project Manager 
+and Certified Engineers 
+d) Formulate a Internal Firewall Architecture 
+Project Implementation Plan, Prepare, Present 
+and Sign off Scope of Work (SOW) to SSS 
+e) Conduct one (1) day Final Project Kick Off 
+    - Present final design, architecture and 
+implementation strategies to SSS 
+management. 
+f) Implement and Coordinate project 
+milestone. 
+g) Conduct Weekly/Monthly Project Updates. 
+h) Submits Operation and Maintenance 
+i) Documentation/manuals. 
+j) Project User Acceptance Test Procedures. 
+k) Project Hand Over documents. 
+ 
+ 
+1.2 • Bidder must assign an experienced Two (2) 
+Project Manager/ Engineer who will handle 
+the project  
+ 
+One (1) experienced project engineer to be 
+the main contact person during the 
+installation.  
+One (1) experienced and certified project 
+manager professional who will be over all 
+supervised the project 
+ 
+• Certified Project Manager Professional must 
+visit SSS during major milestones of the 
+project.
+
+[Page 38]
+38 
+ 
+Note: Photocopy of valid Certified Project 
+Management Professional certification, 
+resume and company ID should be submitted, 
+Certified Project Manager/ engineer should be 
+employed with the bidder for at least one (1) 
+year prior to the opening bids. 
+4.1 Certificate from Manufacturer of Firewall 
+devices stating that the bidder is at least a 
+Certified Expert Partner or equivalent (state 
+the level of partnership). 
+ 
+ 
+4.2 Bidder must have at least Two (2) 
+Manufacturer Certified engineers that will be 
+involved in the project 
+ 
+One (1) Certified Network Security Expert - 
+Architect Level or equivalent 
+One (1) Certified Network Security Expert - 
+Professional Level or equivalent 
+ 
+Photocopy of valid certification, resume and 
+company ID should be part of the submittal; 
+Certified engineer should be with the bidder a 
+year before the bid opening. SSS shall 
+validate the veracity of the submitted 
+documents and may conduct, at its option, a 
+visit to the bidder’s HRD office. 
+ 
+ 
+4.3 Bidder must have a network system 
+integration experience for at least five (5) 
+years in the Philippines already. 
+ 
+ 
+4.4 Bidder must have one installed Firewall 
+similar to SSS set up. Bidder must provide a 
+copy of the project acceptance And OR, 
+contact person, contact number and email 
+address. 
+ 
+ 
+4.5 Bidder must have expertise and experience on 
+the Cisco devices. This is making sure 
+seamless integration of the proposed Internal 
+firewall to the Cisco Core Infrastructure of 
+SSS. 
+ 
+Bidder must have at least 2 Cisco Certified 
+engineers that will be involved on the project 
+ 
+One (1) Cisco Certified Internetwork Expert 
+One (1) Cisco Certified Network Professional  
+ 
+Photocopy of valid certification, resume and 
+company ID should be part of the submittal; 
+Certified engineer should be with the bidder a 
+year before the bid opening. SSS shall 
+validate the veracity of the submitted
+
+[Page 39]
+39 
+ 
+documents and may conduct, at its option a 
+visit to bidder’s HRD office. 
+II Warranty 
+2.1 Must have Three (3) years warranty product 
+and service warranty 
+ 
+ 
+2.2 24 x7 on call support product and service 
+warranty during warranty 
+ 
+ 
+2.3 Must have a Helpdesk Support System in 
+place to accommodate SSS technical request. 
+Helpdesk system will provide ticket for each 
+technical request or issues and will provide 
+continues status and report until the 
+resolution. Helpdesk must be available 24x7 
+including Saturday, Sunday and holidays. 
+Helpdesk system should be available for site 
+visit 
+ 
+ 
+2.4 Bidder must provide a Service Delivery plan 
+or framework similar to the below scope of 
+Work for the Preventive and Remedial 
+Maintenance during the 3 years contract term. 
+This is to ensure that the SLA maintenance 
+requirement of SSS will be met. 
+ 
+The bidder must assign an experienced 
+Service Delivery Manager. 
+ 
+Note: Photocopy of resume and company ID 
+should be part of the submittal, Service 
+Delivery Manager should be with the bidder a 
+year before the bid opening 
+ 
+ 
+2.5 Annual Performance Review/Assessment 
+Sessions attended by fifteen (15) SSS 
+technical personnel must be conducted by the 
+winning bidder per year for Three (3) years, 
+at no cost to SSS. 
+ 
+ 
+ 
+ 
+Name: _____________________________________________________________  
+ 
+Legal capacity:_______________________________________________________  
+ 
+Signature:___________________________________________________________   
+ 
+Duly authorized to sign the Bid for and behalf of: ______________________________   
+ 
+Date: _______________________
+
+[Page 40]
+40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section VIII. Checklist of Technical and 
+Financial Documents
+
+[Page 41]
+41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHECKLIST OF TECHNICAL AND FINANCIAL DOCUMENTS 
+ 
+I. TECHNICAL COMPONENT ENVELOPE 
+ 
+Class “A” Documents 
+Legal Documents 
+ 
+ 
+(a) 
+Valid PhilGEPS Registration Certificate (Platinum Membership) (all pages) 
+in accordance with Section 8.5.2 of the IRR; 
+ 
+Technical Documents 
+ 
+(b) 
+Statement of the prospective bidder of all its ongoing government and private 
+contracts, including contracts awarded but not yet started, if any, whether 
+similar or not similar in nature and complexity to the contract to be bid; and  
+ 
+(c) 
+Statement of the bidder’s Single Largest Completed Contract (SLCC) similar 
+to the contract to be bid, except under conditions provided for in Sections 
+23.4.1.3 and 23.4.2.4 of the 2016 revised IRR of RA No. 9184, within five 
+(5) years period prior to the submission and opening of Bids; and 
+ 
+(d) 
+Original copy of Bid Security (Cash, Letter of Credit, Surety Bond). If in the 
+form of a Surety Bond, submit also a certification issued by the Insurance 
+Commission; Or Original copy of Notarized Bid Securing Declaration; and 
+ 
+(e) 
+Conformity with the Schedule of Requirements (Section VI) and Technical 
+Specifications (Section VII), which may include production/delivery 
+schedule, manpower requirements, and/or after-sales/parts, if applicable; and 
+ 
+(f) 
+Original duly signed Omnibus Sworn Statement (OSS); 
+and if applicable, Original Notarized Secretary’s Certificate in case of a 
+corporation, partnership, or cooperative; or Original Special Power of 
+Attorney of all members of the joint venture giving full power and authority 
+to its officer to sign the OSS and do acts to represent the Bidder. 
+ 
+Other documentary requirements under RA No. 9184 (as applicable) 
+For foreign bidders claiming by reason of their country’s extension of reciprocal rights 
+to Filipinos: 
+ 
+ 
+(g) 
+Copy of Treaty, International or Executive Agreement; or  
+(h) 
+Certification from the relevant government office of their country stating that 
+Filipinos are allowed to participate in government procurement activities for 
+the same item or product. 
+ 
+ 
+ 
+ 
+⬜ 
+(i) 
+Certification from the DTI if the Bidder claims preference as a Domestic 
+Bidder or Domestic Entity. 
+ 
+Class “B” Documents 
+(j) 
+If applicable, a duly signed joint venture agreement (JVA) in case the joint 
+venture is already in existence; 
+or
+
+[Page 42]
+42 
+ 
+duly notarized statements from all the potential joint venture partners stating 
+that they will enter into and abide by the provisions of the JVA in the instance 
+that the bid is successful. 
+ 
+Financial Documents 
+ 
+(k) 
+The Supplier’s audited financial statements, showing, among others, the 
+Supplier’s total and current assets and liabilities, stamped “received” by the 
+BIR or its duly accredited and authorized institutions, for the preceding 
+calendar year which should not be earlier than two (2) years from the date of 
+bid submission; and 
+ 
+ 
+(l) 
+The prospective bidder’s computation of Net Financial Contracting Capacity 
+(NFCC);  
+or  
+A committed Line of Credit from a Universal or Commercial Bank in lieu of 
+its NFCC computation. 
+ 
+ 
+II. FINANCIAL COMPONENT ENVELOPE 
+ 
+ (m) 
+Original of duly signed and accomplished Financial Bid Form; and 
+ 
+ (n) 
+Original of duly signed and accomplished Price Schedule(s)/Bid Breakdown. 
+ 
+ 
+IMPORTANT REMINDERS 
+ 
+A)  
+Each and every page of the Bid Forms/Price Schedule(s)/Bid Breakdown, under 
+Section VIII: Checklist of Technical and Financial Documents hereof, shall be signed 
+by the duly authorized representative/s of the Bidder. Failure to do so shall be a ground 
+for the rejection of the bid. 
+ 
+B) 
+Any interlineations, erasures, or overwriting shall be valid only if they are signed or 
+initialed by the duly authorized representative/s of the Bidder. 
+ 
+C)  
+Bid documents shall be compiled in a folder/binder with the Annexes properly labeled 
+with tabs/separators. 
+ 
+D)  
+Bidders shall submit their bids through their duly authorized representative enclosed in 
+separate sealed envelopes, which shall be submitted simultaneously: 
+ 
+a)  
+The first three individually sealed envelopes shall contain the folder/binder of 
+the Eligibility Requirements and Technical Component of the bid; prepared in 
+three copies labeled as follows: 
+ 
+Envelop (1): ORIGINAL – Eligibility Requirements and Technical Component 
+Envelop (2): COPY1 – Eligibility Requirements and Technical Component 
+Envelop (3): COPY2 – Eligibility Requirements and Technical Component 
+ 
+b)  
+The next three individually sealed envelopes shall contain the folder/binder of 
+the Financial Component of the bid; prepared in three copies labeled as follows: 
+  
+Envelop (4): ORIGINAL – Financial Component 
+Envelop (5): COPY1 – Financial Component 
+Envelop (6): COPY2 – Financial Component 
+ 
+c)  
+Bidders shall enclose, seal and mark the following:
+
+[Page 43]
+43 
+ 
+Envelop (7): Envelope (1) and Envelope (4) enclosed in one sealed envelope 
+marked “ORIGINAL–BID” 
+ 
+Envelop (8): Envelope (2) and Envelope (5) enclosed in one sealed envelope 
+marked “COPY1–BID” 
+ 
+Envelop (9): Envelope (3) and Envelope (6) enclosed in one sealed envelope 
+marked “COPY2–BID” 
+ 
+d)  
+Envelopes (7) to (9) shall then be enclosed in a single sealed, signed final/outer 
+envelope/package/box 
+ 
+e)  
+All envelopes (Envelopes (1) to (9) and the final/outer envelope/package/box) 
+shall indicate the following: 
+ 
+− 
+addressed to the Procuring Entity’s BAC  
+−  
+name and address of the Bidder in capital letters 
+−  
+name of the contract/project to be bid in capital letters 
+−  
+bear the specific identification/reference code of this bidding process  
+− 
+bear a warning “DO NOT OPEN BEFORE…” the date and time for the 
+opening of bids 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+E)  
+Bids submitted after the deadline shall only be marked for recording purposes, shall not 
+be included in the opening of bids, and shall be returned to the bidder unopened.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THE CHAIRPERSON 
+BIDS AND AWARDS COMMITTEE 
+2ND FLOOR, SSS MAIN BUILDING 
+EAST AVENUE, DILIMAN, QUEZON CITY 
+ 
+NAME OF BIDDER : _______________________________ 
+ADDRESS 
+ 
+: _______________________________ 
+ 
+NAME OF PROJECT : _______________________________ 
+ITB REFERENCE NUMBER: _________________________ 
+ 
+ 
+DO NOT OPEN BEFORE 
+(the date and time for the opening of bids)
+
+[Page 44]
+44 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FORMS
+
+[Page 45]
+45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FORM-01 
+ 
+Bid Form for the Procurement of Goods  
+___________________________________________________________________ 
+BID FORM  
+ 
+INTERNAL FIREWALL 
+                                                   
+Date:______________                        
+Project Identification No.: ITB-SSS-GOODS-2025-013  
+ 
+To:  SOCIAL SECURITY SYSTEM 
+        East Avenue, Diliman, Quezon City 
+ 
+            Having examined the Philippine Bidding Documents (PBDs) including the 
+Supplemental or Bid Bulletin Numbers [insert numbers], the receipt of which is hereby duly 
+acknowledged, we, the undersigned, offer to [supply/deliver/perform] Internal Firewall in 
+conformity with the said PBDs for the sum of [Total Bid Amount in words and figures] or 
+the total calculated bid price, as evaluated and corrected for computational errors, and other bid 
+modifications in accordance with the Price Schedules/Bid Breakdown attached herewith and 
+made part of this Bid.  The total bid price includes the cost of all taxes, such as, but not limited 
+to: [specify the applicable taxes, e.g. (i) value added tax (VAT), (ii) income tax, (iii) local taxes, 
+and (iv) other fiscal levies and duties], which are itemized herein or in the Price Schedules/Bid 
+Breakdown,  
+      
+If our Bid is accepted, we undertake:  
+ 
+a. 
+to deliver the goods in accordance with the delivery schedule specified in the 
+Schedule of Requirements of the Philippine Bidding Documents (PBDs);  
+ 
+b. 
+to provide a performance security in the form, amounts, and within the times 
+prescribed in the PBDs;  
+ 
+c. 
+to abide by the Bid Validity Period specified in the PBDs and it shall remain 
+binding upon us at any time before the expiration of that period.  
+  
+[Insert this paragraph if Foreign-Assisted Project with the Development Partner:  
+ 
+           Commissions or gratuities, if any, paid or to be paid by us to agents relating to this 
+Bid, and to contract execution if we are awarded the contract, are listed below:  
+ 
+Name and address Amount and Purpose of   
+of agent Currency Commission or gratuity
+
+[Page 46]
+46 
+ 
+________________________________________________  
+________________________________________________  
+________________________________________________  
+(if none, state “None”)  
+ 
+           Until a formal Contract is prepared and executed, this Bid, together with your written 
+acceptance thereof and your Notice of Award, shall be binding upon us.  
+            
+          We understand that you are not bound to accept the Lowest Calculated Bid or any Bid 
+you may receive.  
+ 
+          We certify/confirm that we comply with the eligibility requirements pursuant to the 
+PBDs.  
+           The undersigned is authorized to submit the bid on behalf of [name of the bidder] as 
+evidenced by the attached [state the written authority]. 
+  
+           We acknowledge that failure to sign each and every page of this Bid Form, including 
+the attached Schedule of Prices/Bid Breakdown, shall be a ground for the rejection of our bid.    
+  
+ 
+ 
+ 
+Name: _____________________________________________________________  
+ 
+Legal capacity:_______________________________________________________  
+ 
+Signature:___________________________________________________________   
+ 
+Duly authorized to sign the Bid for and behalf of: ______________________________                           
+ 
+Date: ___________________
+
+[Page 47]
+47 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FORM-02 
+ 
+Price Schedule(s)/Bid Breakdown 
+ 
+INTERNAL FIREWALL 
+ 
+Name of Bidder 
+ 
+Invitation to Bid Number: ITB-SSS-GOODS-2025-013 
+ 
+ 
+Cost Component 
+(Note: Include all applicable 
+components) 
+No. of 
+Units 
+Cost per Unit 
+Total Cost 
+1. Internal Firewall Hardware for Main 
+Office 
+2 
+₱ 
+₱ 
+2. Internal Firewall Appliance/Server 
+for Disaster Recovery Site 
+2 
+₱ 
+₱ 
+3. Management Server 
+2 
+₱ 
+₱ 
+4. Log Server 
+2 
+₱ 
+₱ 
+5. Data Cabinet Rack 
+2 
+₱ 
+₱ 
+6. Delivery 
+FREE 
+7. Training 
+FREE 
+8. 3-year Warranty with annual 
+Preventive Maintenance and 
+Remedial Services (includes 
+configuration and integration) 
+FREE 
+TOTAL 
+₱ 
+ 
+Note:  
+1. Any bid exceeding the ABC of ₱ 67,328,544.00 shall not be accepted. 
+2. Fill up all required items/field in the bid breakdown.  Failure to indicate any of the following 
+shall mean outright disqualification since bid is considered Non-Responsive.  
+• 
+If the item is given for free, indicate dash (-), zero (0) or free 
+• 
+If the item is not applicable, indicate N/A 
+3. All documents shall be signed, and each and every page thereof shall be initialed, by the duly 
+authorized representative/s of the Bidder.  
+4. Bid proposal must be inclusive of all applicable taxes.  
+5. Warranty requirement is at no cost to SSS.
+
+[Page 48]
+48 
+ 
+ 
+Name: _____________________________________________________________  
+ 
+Legal capacity:_______________________________________________________  
+ 
+Signature:___________________________________________________________   
+ 
+Duly authorized to sign the Bid for and behalf of: ______________________________   
+ 
+Date: _______________________ 
+ FORM-03 
+ 
+ 
+Formula in the Computation of NFCC 
+ 
+ 
+INTERNAL FIREWALL 
+NAME OF PROJECT 
+ 
+ 
+____________________________________ 
+NAME OF COMPANY 
+ 
+ 
+NFCC = 15 (Current Assets – Current Liabilities) – Value of All Outstanding Works under 
+On-going Contracts including Awarded Contracts yet to be started) 
+ 
+YEAR 
+CURRENT ASSETS 
+CURRENT LIABILITIES 
+TOTAL 
+ 
+ 
+Value of Outstanding Works under On-going Contracts: 
+CONTRACT 
+DESCRIPTION 
+TOTAL 
+CONTRACT 
+AMOUNT AT 
+AWARD 
+PERCENTAGE OF 
+PLANNED AND 
+ACTUAL 
+ACCOMPLISHMENT 
+ESTIMATED 
+COMPLETION 
+TIME 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOTAL 
+ 
+ 
+ 
+ 
+Use additional sheet/s, if necessary 
+ 
+FORMULA: 
+15 (____________ 
+– 
+______________) 
+– 
+____________________ = _______ 
+Current Assets minus Current Liabilities minus 
+Total Outstanding 
+Works 
+ 
+NFCC 
+ 
+P__________________ 
+NFCC
+
+[Page 49]
+49 
+ 
+Prepared and Submitted by: 
+ 
+ 
+________________________ 
+Signature over Printed Name 
+ 
+ 
+FORM-04 
+   
+(Name of Bank) 
+ 
+COMMITTED LINE OF CREDIT CERTIFICATE 
+ 
+Date: ___________ 
+ 
+Social Security System (SSS) 
+SSS Main Building, East Avenue 
+Diliman, Quezon City 
+ 
+CONTRACT PROJECT 
+: 
+______________________________________ 
+COMPANY/FIRM 
+ 
+:  
+______________________________________ 
+ADDRESS 
+ 
+ 
+: 
+______________________________________ 
+BANK/FINANCING  
+INSTITUTION  
+ 
+: 
+______________________________________ 
+ADDRESS 
+ 
+ 
+: 
+______________________________________ 
+AMOUNT 
+ 
+ 
+: 
+______________________________________ 
+ 
+ 
+This is to certify that the above Bank/Financing Institution with business address indicated 
+above, commits to provide the (Supplier/Distributor/Manufacturer/Contractor), if awarded the above-
+mentioned Contract, a credit line in the amount specified above which shall be exclusively used to 
+finance the performance of the above-mentioned contract subject to our terms, conditions and 
+requirements. 
+ 
+ 
+The credit line shall be available within fifteen (15) calendar days after receipt by the 
+(Supplier/Distributor/Manufacturer/Contractor) of the Notice of Award and such line of credit shall be 
+maintained until issuance of Certificate of Acceptance by the Social Security System. 
+ 
+ 
+This 
+Certification 
+is 
+being 
+issued 
+in 
+favor 
+of 
+said 
+(Supplier/Distributor/Manufacturer/Contractor) in connection with the bidding requirement of (Name 
+of Procuring Entity) for the above-mentioned Contract. We are aware that any false statements issued 
+by us make us liable for perjury. 
+ 
+ 
+The committed line of credit cannot be terminated or cancelled without the prior written 
+approval of Social Security System. 
+ 
+Name and Signature of Authorized Financing Institution Office 
+ 
+Office Designation 
+ 
+Concurred by: 
+ 
+Name & Signature of (Supplier/Distributor/Manufacturer/Contractor) Authorized Representative 
+Official Designation 
+ 
+SUBSCRIBED AND SWORN TO BEFORE ME this ______ day of ________ at __________ 
+Philippines, Affiant exhibited to me his/her competent Evidence of Identity (as defines by the 2004 
+Rules on Notarial Practice ________issued on __________ at _______________, Philippines.
+
+[Page 50]
+50 
+ 
+ 
+NOTARY PUBLIC 
+ 
+Doc No. 
+: _________ 
+Page No. 
+: _________ 
+Book No. 
+: _________ 
+Series of 
+: _________ 
+ (Note: The amount committed should be machine validated in the Certificate itself)
+
+[Page 51]
+51 
+ 
+ FORM-05 
+ 
+ 
+STATEMENT OF ON-GOING GOVERNMENT AND PRIVATE CONTRACTS 
+NAME OF CONTRACT 
+DATE OF 
+CONTRACT 
+CONTRACT 
+DURATION 
+OWNER’S NAME, ADDRESS, 
+CONTACT NUMBERS AND E-
+MAIL ADDRESS 
+KINDS OF 
+GOODS 
+AMOUNT OF 
+CONTRACT 
+VALUE OF 
+OUTSTANDING 
+CONTRACT 
+REMARKS 
+(Indicate “With 
+NDA” or “Without 
+NDA”) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTE: INCLUDING PROJECTS WITH NON-DISCLOSURE AGREEMENT (NDA)
+
+[Page 52]
+52 
+ 
+FORM-06 
+ 
+ 
+STATEMENT OF SINGLE LARGEST COMPLETED CONTRACT SIMILAR TO 
+THE PROJECT TO BE BID EQUIVALENT TO AT LEAST 50% OF THE ABC 
+WITH ATTACHED CERTIFICATE OF FINAL COMPLETION 
+ 
+NAME OF CONTRACT 
+CONTRACT TERM 
+AMOUNT OF 
+CONTRACT 
+CONTACT PERSON, 
+CONTACT NO., ADDRESS, 
+AND EMAIL ADDRESS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTE: SLCC SHOULD BE PROJECTS WITHOUT NON-DISCLOSURE 
+AGREEMENT (NDA)
+
+[Page 53]
+53 
+ 
+FORM-07 
+Bid Securing Declaration Form  
+INTERNAL FIREWALL 
+_________________________________________________________________________  
+REPUBLIC OF THE PHILIPPINES) CITY OF 
+_______________________) S.S.  
+  
+BID SECURING DECLARATION  
+Project Identification No.: ITB-SSS-GOODS-2025-013  
+To: SOCIAL SECURITY SYSTEM  
+East Avenue, Diliman, Quezon City 
+ 
+   
+I/We, the undersigned, declare that:  
+1. I/We understand that, according to your conditions, bids must be supported by a Bid Security, 
+which may be in the form of a Bid Securing Declaration.  
+2. I/We accept that: (a) I/we will be automatically disqualified from bidding for any procurement 
+contract with any procuring entity for a period of two (2) years upon receipt of your Blacklisting 
+Order; and, (b) I/we will pay the applicable fine provided under Section 6 of the Guidelines on the 
+Use of Bid Securing Declaration, within fifteen (15) days from receipt of the written demand by 
+the procuring entity for the commission of acts resulting to the enforcement of the bid securing 
+declaration under Sections 23.1(b), 34.2, 40.1 and 69.1, except 69.1(f),of the IRR of RA No. 9184; 
+without prejudice to other legal action the government may undertake.  
+3. I/We understand that this Bid Securing Declaration shall cease to be valid on the following 
+circumstances:   
+a. Upon expiration of the bid validity period, or any extension thereof pursuant to your 
+request;  
+b. I am/we are declared ineligible or post-disqualified upon receipt of your notice to such 
+effect, and (i) I/we failed to timely file a request for reconsideration or (ii) I/we filed a 
+waiver to avail of said right; and  
+c. I am/we are declared the bidder with the Lowest Calculated Responsive Bid, and I/we have 
+furnished the performance security and signed the Contract.  
+IN WITNESS WHEREOF, I/We have hereunto set my/our hand/s this ____ day of [month]  
+[year] at [place of execution].                                                    
+[Insert NAME OF BIDDER OR ITS AUTHORIZED 
+REPRESENTATIVE]  
+[Insert signatory’s legal capacity] Affiant  
+  
+[Jurat]  
+[Format shall be based on the latest Rules on Notarial Practice]  
+ 
+GPPB Resolution No. 16-2020, dated 16 September 2020
+
+[Page 54]
+54 
+ 
+FORM-08 
+ 
+Contract Agreement Form for the Procurement of Goods (Revised) 
+[Not required to be submitted with the Bid, but it shall be submitted within ten (10) days 
+after receiving the Notice of Award] 
+_________________________________________________________________________ 
+ 
+CONTRACT AGREEMENT  
+  
+INTERNAL FIREWALL 
+ITB-SSS-Goods-2025-013 
+ 
+THIS AGREEMENT made between: 
+ 
+SOCIAL SECURITY SYSTEM, a government-owned and controlled corporation created 
+pursuant to Republic Act No. 11199, with principal office address at SSS Building, East 
+Avenue, Diliman, Quezon City, represented herein by its Approving Authority and (Position 
+of Approving Authority), (Name of Approving Authority) and (Position of Signatory), 
+(Name 
+of 
+signatory), 
+duly 
+authorized 
+pursuant 
+to 
+Administrative 
+Order 
+____________________, _______________ (pertaining to Approving Authority) (Annex 
+“A”) and Office Order _______________ , __________ (Annex “B”) (pertaining to 
+signatories), hereinafter referred to as the “SSS”; 
+ 
+- a n d – 
+ 
+(NAME OF SUPPLIER), of legal age, Filipino, single/married, with principal address at 
+____________________, hereinafter referred to as the “Supplier”.  
+ 
+If corporation 
+ 
+(NAME OF SUPPLIER), a corporation duly created and existing pursuant to the laws of the 
+Republic of the Philippines, with principal office address at ______________________, 
+represented herein by its (Position of Signatory), (Name of Signatory), duly authorized 
+pursuant to ____________________, _______________, hereinafter referred to as the 
+“Supplier”. 
+  
+WHEREAS, the Entity invited Bids for certain goods and ancillary services, particularly [brief 
+description of goods and services] (PROJECT) and has accepted a Bid by the Supplier for the supply of 
+those goods and services in the sum of [contract price in words and figures in specified currency] 
+(hereinafter called “the Contract Price”).  
+ NOW THIS AGREEMENT WITNESSETH AS FOLLOWS:  
+1. 
+In this Agreement words and expressions shall have the same meanings as are 
+respectively assigned to them in the Conditions of Contract referred to.
+
+[Page 55]
+55 
+ 
+2. 
+The following documents as required by the 2016 revised Implementing Rules and 
+Regulations of Republic Act No. 9184 shall be deemed to form and be read and 
+construed as integral part of this Agreement, viz.:  
+a. 
+Philippine Bidding Documents (PBDs);  
+i. 
+Schedule of Requirements;  
+ii. 
+Technical Specifications;  
+iii. 
+General and Special Conditions of Contract; and  
+iv. 
+Supplemental or Bid Bulletins, if any  
+ 
+b. 
+Supplier’s bid, including the Eligibility requirements, Technical and 
+Financial Proposals, and all other documents or statements submitted;  
+  
+Bid form, including all the documents/statements contained in the 
+Bidder’s bidding envelopes, as annexes, and all other documents 
+submitted (e.g., Bidder’s response to request for clarifications on the bid), 
+including corrections to the bid, if any, resulting from the Procuring 
+Entity’s bid evaluation;  
+ 
+c. 
+Performance Security;  
+  
+d. 
+Notice of Award of Contract; and the Bidder’s conforme thereto; and  
+ 
+e. 
+Other contract documents that may be required by existing laws and/or 
+the Procuring Entity concerned in the PBDs. Winning bidder agrees 
+that additional contract documents or information prescribed by the 
+GPPB that are subsequently required for submission after the 
+contract execution, such as the Notice to Proceed, Variation Orders, 
+and Warranty Security, shall likewise form part of the Contract.  
+ 
+3. 
+In consideration for the sum of [total contract price in words and figures] or such 
+other sums as may be ascertained, [Named of the bidder] agrees to [state the object 
+of the contract] in accordance with his/her/its Bid.  
+4. 
+SSS agrees to pay the above-mentioned sum in accordance with the terms of the 
+Bidding.  
+ 
+IN WITNESS whereof the parties hereto have caused this Agreement to be executed in 
+accordance with the laws of the Republic of the Philippines on the date and place indicated in their 
+respective acknowledgments.  
+   
+[Insert Name and Signature]  
+              [Insert Position of Signatory]                                   
+             
+for:  
+SSS  
+[Insert Name and Signature]  
+      [Insert Position of Signatory]  
+         
+ for:  
+[Insert Name of Supplier]
+
+[Page 56]
+56 
+ 
+(In case of double acknowledgment which is usually used by the SSS) 
+ 
+SIGNED IN THE PRESENCE OF: 
+______________________   
+ 
+ 
+______________________ 
+ 
+(Name of Certifying officer as to availability of funds) 
+(Position of Certifying Officer) 
+(Department/Office of Certifying Officer) 
+ 
+FUNDS AVAILABLE:  
+APP No.: _________ 
+ 
+FIRST ACKNOWLEDGMENT 
+Republic of the Philippines )  
+__________………………. ) S.S. 
+ 
+BEFORE ME, a Notary Public for and in _____________, Philippines, on this _______ 
+day of _____________________ personally appeared: 
+Name 
+Competent Evidence of Identity 
+Date/Place of Issue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+known to me to be the same person who executed the foregoing Agreement, consisting of 
+___________ (___) pages, including this page and excluding annexes, and he/she/they 
+acknowledged to me that the same is his/her/their free and voluntary act and deed as well as 
+the free and voluntary act and deed of the principal he/she /they represent/s in this instance. 
+ 
+WITNESS MY HAND AND SEAL on the date and place first above written. 
+ 
+ 
+Doc. No. _____; 
+Page No. _____; 
+Book No. _____; 
+Series of 20__.
+
+[Page 57]
+57 
+ 
+SIGNED IN THE PRESENCE OF: 
+ 
+______________________   
+ 
+ 
+______________________ 
+ 
+SECOND ACKNOWLEDGMENT 
+Republic of the Philippines )  
+__________………………. ) S.S. 
+ 
+BEFORE ME, a Notary Public for and in _____________, Philippines, on this _______ 
+day of _____________________ personally appeared: 
+Name 
+Competent Evidence of Identity 
+Date/Place of Issue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+known to me to be the same person who executed the foregoing Agreement, consisting of 
+__________ (__) pages, including this page and excluding annexes, and he/she/they 
+acknowledged to me that the same is his/her/their free and voluntary act and deed (if 
+corporation to include succeeding phrase) as well as the free and voluntary act and deed of the 
+principal he/she/they represent/s in this instance.  
+WITNESS MY HAND AND SEAL on the date and place first above written.  
+ 
+ 
+Doc. No. _____;  
+Page No. _____;  
+Book No. _____;  
+Series of 20__. 
+ 
+ 
+ 
+ 
+ 
+GPPB Resolution No. 16-2020, dated 16 September 2020
+
+[Page 58]
+58 
+ 
+FORM-09 
+  Omnibus Sworn Statement (Revised)  
+_________________________________________________________________________  
+REPUBLIC OF THE PHILIPPINES)  
+CITY/MUNICIPALITY OF ______) S.S.  
+ AFFIDAVIT  
+I, [Name of Affiant], of legal age, [Civil Status], [Nationality], and residing at [Address of Affiant], 
+after having been duly sworn in accordance with law, do hereby depose and state that: 
+ 
+1. Select one, delete the other: 
+ 
+[If a sole proprietorship:] I am the sole proprietor or authorized representative of [Name of 
+Bidder] with office address at [address of Bidder]; 
+[If a partnership, corporation, cooperative, or joint venture:] I am the duly authorized and 
+designated representative of [Name of Bidder] with office address at [address of Bidder]; 
+ 
+2. Select one, delete the other: 
+ 
+[If a sole proprietorship:] As the owner and sole proprietor, or authorized representative of 
+[Name of Bidder], I have full power and authority to do, execute and perform any and all acts 
+necessary to participate, submit the bid, and to sign and execute the ensuing contract for 
+Internal Firewall of the Social Security System as shown in the attached duly notarized 
+Special Power of Attorney; 
+ 
+[If a partnership, corporation, cooperative, or joint venture:] I am granted full power and 
+authority to do, execute and perform any and all acts necessary to participate, submit the bid, 
+and to sign and execute the ensuing contract for Internal Firewall of the Social Security 
+Systems, shown in the attached [state title of attached document showing proof of authorization 
+(e.g., duly notarized Secretary’s Certificate, Board/Partnership Resolution, or Special Power of 
+Attorney, whichever is applicable;)];   
+ 
+3. [Name of Bidder] is not “blacklisted” or barred from bidding by the Government of the 
+Philippines or any of its agencies, offices, corporations, or Local Government Units, foreign 
+government/foreign or international financing institution whose blacklisting rules have been 
+recognized by the Government Procurement Policy Board, by itself or by relation, 
+membership, association, affiliation, or controlling interest with another blacklisted 
+person or entity as defined and provided for in the Uniform Guidelines on Blacklisting; 
+ 
+4. Each of the documents submitted in satisfaction of the bidding requirements is an authentic 
+copy of the original, complete, and all statements and information provided therein are true and 
+correct; 
+ 
+5. [Name of Bidder] is authorizing the Head of the Procuring Entity or its duly authorized 
+representative(s) to verify all the documents submitted; 
+ 
+6. Select one, delete the rest: 
+ 
+[If a sole proprietorship:] The owner or sole proprietor is not related to the Head of the 
+Procuring Entity, Procurement Agent if engaged, members of the Bids and Awards 
+Committee (BAC), the Technical Working Group, and the BAC Secretariat, the head of the 
+Project Management Office or the end-user unit, and the project consultants by consanguinity 
+or affinity up to the third civil degree; 
+ 
+[If a partnership or cooperative:] None of the officers and members of [Name of Bidder] is 
+related to the Head of the Procuring Entity, Procurement Agent if engaged, members of the 
+Bids and Awards Committee (BAC), the Technical Working Group, and the BAC Secretariat, 
+the head of the Project Management Office or the end-user unit, and the project consultants by 
+consanguinity or affinity up to the third civil degree;
+
+[Page 59]
+59 
+ 
+ 
+[If a corporation or joint venture:] None of the officers, directors, and controlling stockholders 
+of [Name of Bidder] is related to the Head of the Procuring Entity, Procurement Agent if 
+engaged, members of the Bids and Awards Committee (BAC), the Technical Working Group, 
+and the BAC Secretariat, the head of the Project Management Office or the end-user unit, and 
+the project consultants by consanguinity or affinity up to the third civil degree; 
+ 
+7. [Name of Bidder] complies with existing labor laws and standards; and  
+ 
+8. [Name of Bidder] is aware of and has undertaken the responsibilities as a Bidder in compliance 
+with the Philippine Bidding Documents, which includes: 
+ 
+a) Carefully examining all of the Bidding Documents; 
+ 
+b) Acknowledging all conditions, local or otherwise, affecting the implementation of the 
+Contract; 
+ 
+c) Making an estimate of the facilities available and needed for the contract to be bid, if any; 
+and 
+ 
+d) Inquiring or securing Supplemental/Bid Bulletin(s) issued for the Internal Firewall. 
+ 
+ 
+9. [Name of Bidder] did not give or pay directly or indirectly, any commission, amount, fee, or 
+any form of consideration, pecuniary or otherwise, to any person or official, personnel or 
+representative of the government in relation to any procurement project or activity. 
+ 
+10. In case advance payment was made or given, failure to perform or deliver any of the 
+obligations and undertakings in the contract shall be sufficient grounds to constitute 
+criminal liability for Swindling (Estafa) or the commission of fraud with unfaithfulness 
+or abuse of confidence through misappropriating or converting any payment received by 
+a person or entity under an obligation involving the duty to deliver certain goods or 
+services, to the prejudice of the public and the government of the Philippines pursuant to 
+Article 315 of Act No. 3815 s.1930, as amended, or the Revised Penal Code.  
+ 
+IN WITNESS WHEREOF, I have hereunto set my hand this __ day of ___, 20__ at ____________, 
+Philippines.  
+[Insert NAME OF BIDDER OR ITS AUTHORIZED 
+REPRESENTATIVE]  
+[Insert signatory’s legal capacity]  
+                      Affiant  
+  
+ [Jurat]  
+[Format shall be based on the latest Rules on Notarial Practice]  
+ 
+ 
+GPPB Resolution No. 16-2020, dated 16 September 2020
+
+[Page 60]
+60 
+ 
+REPUBLIC OF THE PHILIPPINES] 
+NAME OF CITY] S.S 
+ 
+ 
+SECRETARY'S CERTIFICATE 
+ 
+ 
+I, <NAME OF CORPORATE SECRETARY>, of legal age, <Civil Status>, Filipino 
+citizen and with business at <Company Address>, after being duly sworn, hereby depose and 
+state that: 
+ 
+1. I am the Corporate Secretary of <COMPANY NAME>, a Corporation duly 
+organized and existing under and by virtue of the laws of the Philippines, with 
+principal office at <Office Address>. 
+ 
+2. As the Corporate Secretary, I have custody and access to the records of the Corporation.  
+ 
+3. I am familiar with the facts herein certified and duly authorized to certify the same. 
+ 
+4. I hereby certify that during a regular meeting of the Board of Directors of the 
+Corporation held on <Date of Meeting>, at which meeting a quorum was present, the 
+following Resolution/s was/were unanimously passed, approved and adopted: 
+ 
+a) RESOLVED that <COMPANY NAME>, authorized and empowered the 
+following to participate in the bidding for the INTERNAL FIREWALL of 
+the SOCIAL SECURITY SYSTEM: 
+ 
+      NAME 
+POSITION/DESIGNATION 
+SIGNATURE  
+ 
+1.  
+2.  
+ 
+b) RESOLVED FURTHER that, if awarded the Contract, the following is/are 
+granted full power and authority to enter into contract with the SOCIAL 
+SECURITY SYSTEM: 
+ 
+     NAME 
+POSITION/DESIGNATION 
+SIGNATURE  
+ 
+1.  
+2.  
+ 
+c)  RESOLVED FURTHERMORE that, the designated representative/s of the 
+Corporation has/have the full power to perform any and all acts necessary 
+and/or to represent the Corporation as fully and effectively as the Corporation 
+might do if personally present, and hereby satisfying and confirming all the 
+said representative/s shall lawfully do or cause to be done by virtue hereof.  
+ 
+ 
+IN WITNESS WHEREOF, I have hereunto set my hand this __ day of ____ at <CITY>.
+ 
+ 
+_______________________________________ 
+NAME & SIGNATURE of Corporate Secretary 
+ 
+ 
+SUBSCRIBE AND SWORN to before me this ___ day of _______ at <CITY>, 
+affiant having exhibited to me his/her <Government Issued ID and details [issued by, date and 
+place issued if applicable]). 
+ 
+Doc No. ___________ 
+Page No. __________ 
+Book No. __________ 
+Series of ___________
+
+[Page 61]
+61

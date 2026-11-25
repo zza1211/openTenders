@@ -1,0 +1,4025 @@
+Title: Network Switch, Firewall and Router Procurement for CSEIT
+Source: https://www.mea.gov.in/Portal/Tender/1430_1/1_Tender_CsEIT.pdf
+Pages: 57
+
+--- Extracted text by page ---
+
+[Page 1]
+Government of India
+Ministry of External Affairs
+Tender Document 
+For
+ Setting up Centres for Excellence in IT
+(CsEIT) 
+In
+Costa Rica, Commonwealth of Dominica and
+Panama.
+Date:  04.04.2014
+Tender No.: DP/231/18/2008
+Last date for submission of bids: 30.04.2014 at 1500 Hrs.
+ The tender document is available for downloading at  www.mea.gov.in 
+Issued to M/s
+______________________________________________________________________
+Against payment of Rs. 2000/- (Rupees Two thousand only) in form of Demand Draft
+/ Pay Order payable in the name of “Pay and Accounts Officer, Ministry of External
+Affairs, New Delhi”
+Development Partnership Administration-II
+Ministry of External Affairs
+Jawaharlal Nehru Bhawan, Janpath,
+New Delhi, INDIA
+Tel: +91 – 11 – 49015392
+1
+
+[Page 2]
+Government of India
+Ministry of External Affairs
+Development Partnership Administration- II
+TENDER NOTICE
+Development Partnership Administration-II, Ministry of External  Affairs, New Delhi
+invites sealed quotations on two bid system in two parts from the eligible bidders from
+leading  Indian IT Companies for  setting  up  a  Centre  of  Excellence  in  Information
+Technology (CEIT) in Costa Rica and Commonwealth of Dominica(CD) each, and for
+upgradation of CEIT in Panama as per the specifications given in this tender.
+The bidder(s) is required to provide IT infrastructure, Training course-ware, teaching aids
+and trainers as per the specifications provided in the tender.
+Tender document can be obtained from the Section Officer (DP), Room No. 1123,
+Jawaharlal Nehru Bhawan (JNB), New Delhi on submission of a Bank Draft/Pay Order for
+Rs. 2000/- favouring “Pay and Accounts Officer, Ministry of External Affairs, New Delhi”
+between 11.00 AM to 5.00 PM on all working days till 29.04.2014. It may also be
+downloaded  from  websites  www.mea.gov.in or  http://eprocure.gov.in. The  sealed
+quotations would be accepted till 03:00 PM on 30.04.2014.  EMD of Rs. Fifteen lakhs for
+each part of tender shall be submitted along with the bid.
+Quotations shall be submitted on two-bid system (technical and price). Both the sealed
+envelopes, clearly marked so, shall be kept inside a large sealed envelope super scribed as
+“Tender for setting up Centres of Excellence in Information Technology(CsEIT) in Costa
+Rica,Commonwealth of Dominica(CD) and Panama” and handed over to the Section
+Officer (DP), JNB, Ministry of External Affairs, Room No. 1123, New Delhi. The sealed
+quotations would be opened on the last date of submission of bids i.e. 30.04.2014 at 3.30
+PM in Room No. 1123, JNB New Delhi in the presence of the authorized representatives
+of the companies present.
+Ministry of External Affairs reserves the right to reject one or all of the bids without
+assigning any reason.
+Under Secretary(DP),
+Room No 2107, 'B' Wing
+Jawaharlar Nehru Bhawan
+MEA, New Delhi
+Tele: +91-11-49015391
+2
+
+[Page 3]
+TABLE OF CONTENTS
+S.No.
+Particulars
+Page No.
+Tender Notice
+2
+SECTION I: INVITATION FOR BIDS (IFB)
+1
+General
+5
+2
+Contact Information
+5
+3
+Two Bid System
+5
+4
+Important Dates
+7
+5
+Opening of Price Bid
+8
+Section II: Instruction to BIDDERS (ITB)
+1
+General Definitions
+9
+2
+Location for Supply, Installation & Warranty Services
+10
+3
+Order Placement & Release of payment
+10
+4
+Eligible Criteria
+10
+5 
+Cost of Bidding 
+11
+6
+Cost and availability of tender documents.
+11
+7
+Amendment of bid Documents
+11
+8
+Preparation and submission of bids 
+12
+9
+Bid Security/EMD
+12
+10
+Validity of bids
+13
+11
+Deadline for Submission of bids
+13
+12
+Late bids
+13
+13
+Opening of bids
+13
+14
+Preliminary Evaluation of bids
+14
+15
+Evaluation and Comparision of Substantively Responsive bids
+14
+16
+Award of Contract
+15
+17
+Performance Bank  Guarantee(PBG)
+15
+18
+Purchasers Right to amend the Scope of work 
+15
+19
+Corrupt or Fraudulent Practices
+15
+20
+Interpretation of the clauses in the Tender Document/Contract 
+Document
+16
+SECTION III: GENERAL CONDITIONS OF
+CONTRACTS(GCC)
+1
+Scope of Work
+17
+2
+Price
+18
+3
+Charted Engineer Certificate
+18
+4
+Completeness Responsibility
+18
+5
+Warranty
+19
+6
+Payments
+19
+7
+Delivery Timelines
+19
+8
+Penalty for delayed services
+20
+9
+Trainingof Trainers
+20
+10
+Jurisdiction
+20
+11
+Force Majeure
+20
+3
+
+[Page 4]
+12
+Termination and Suspension
+21
+13
+Arbitration
+23
+SECTION IV: SCHEDULE OF REQUIREMENT
+1
+Schedule of Requirement
+24
+SECTION V: COMMERCIAL
+1
+Price Schedule
+28
+SECTION VI
+       
+1
+Technical Specifications
+35
+Annexures
+1
+Annexure 1-proforma for submission of bids 
+1.A
+Annexure 1(A) Particulars of bidders
+1.B
+Annexure 1(B)-Technical Specifications and Compliance Statement
+2
+Annexure 2 Letter of authorisation for attending TOE
+3
+Annexure 3 Proforma for Bank Guarantee
+4
+Annexure 4 Manufacturers  authorization Format 
+4
+
+[Page 5]
+SECTION I
+ INVITATION FOR BIDS (IFB)
+ 1.
+DPA-II, Ministry of External Affairs, New Delhi invites sealed bids in two bid
+system in two parts from eligible bidders for setting up a Centre of Excellence in
+Information Technology(CEIT)  on CIF basis at San Jose, Costa Rica and Roseau,
+Commonwealth of Dominica(CD) each, and upgradation of existing CEIT in Panama as
+per Schedule of Requirements (Section IV).
+ 1.1.
+The tender is in two parts. Eligible bidders can participate in one or both of the
+parts  independently,  subject  to  the  fulfilment  of  the  specified  eligibility  criteria.
+Evaluation of proposals shall be done separately and independently for both parts.
+ 1.2.
+Part-A of tender pertains  to Training  which includes  deployment  of trainers,
+designing and supply of course content and overall management of IT centres at San
+Jose, Costa Rica; Roseau, Commonwealth of Dominica (CD) and Panama City, Panama,
+as per Schedule of Requirements (Section IV).
+ 1.3.
+Part-B of tender pertains to IT infrastructure and requires supply, installation,
+testing, commissioning and maintenance of Hardware and Software of IT centres at San
+Jose, Costa Rica; Roseau, Commonwealth of Dominica (CD) and Panama City, Panama,
+as per Schedule of Requirements (Section IV).
+2.
+Contact information:
+Under Secretary (DP)
+Development Partnership Administration-II
+Ministry of External Affairs,
+Room No. 2107, 'B' Wing
+Jawaharlal Nehru Bhawan, New Delhi,
+Tel: 011-49015391
+Mail id: usdp@mea.gov.in
+3.
+Two bid System –The two bid system will be followed for this tender. In this system
+bidder must submit offer in two separate sealed envelopes as explained below:
+3.1 Envelope No. 1: “Technical Bid” shall contain:
+ 3.1.1 Bid Form as per Annexure 1.
+ 3.1.2 Tender Fee in the form of Demand Draft of Rs. 2000/- (Rs Two Thousand Only)
+drawn on any Nationalized/ Scheduled Bank, in favour of ‘Pay & Accounts Officer,
+Ministry of External  Affairs’ payable  at  New  Delhi.   (If the Tender  Document  is
+downloaded from website).
+ 3.1.3 Earnest Money (EMD) of appropriate amount in the form of Demand Draft drawn
+on any Nationalized/ Scheduled Bank, in favour of ‘Pay & Accounts Officer, Ministry of
+External Affairs’ payable at New Delhi OR Bank Guarantee (BG) as per the prescribed
+format, as mentioned at clause 9 of Section II.
+ 3.1.4 Duly filled Technical Bid along with compliance chart given at Annexure 1, with
+proper seal and signature of authorised person on each page of the bid submitted. 
+ 3.1.5 The person signing the bid shall be the duly authorised representative of the firm/
+company,  for  which  a  certificate  of  authority  shall  be  submitted.  The  power  or
+5
+
+[Page 6]
+authorisation or any other document consisting of adequate proof of the ability of the
+signatory to bind the firm/ company shall be annexed to the bid. 
+ 3.1.6 Self-Attested copy of VAT/ CST, Service Tax Number/ Registration certificate as
+applicable .
+ 3.1.7 Audited balance sheet for the last 3 financial years  justifying that bidder has
+minimum average annual turnover as defined in eligibility conditions defined under
+Clause-4, Section-II of the tender document.
+ 3.1.8 A  copy  of  Certificate  of  incorporation,  Partnership  deed  /  Memorandum  and
+Articles of Association, as applicable.
+ 3.1.9 The bidder must submit signed Price Schedule leaving the price column blank as
+per the format given Section V of this tender document.
+ 3.1.10 Bidders participating in Part-A/both Parts of this tender must also submit :
+    3.1.10.1  Resume of the persons to be deployed as trainers and centre head, clearly
+highlighting the required qualifications.
+    3.1.10.2  Form -16 (of Income Tax), issued by bidder to the persons proposed to be
+deployed as trainers, for last financial year (2013-14). This is required to ensure that
+such persons are on the roll of the Company/firm for at least last one year.
+    3.1.10.3  Schedule of training programs.
+    3.1.10.4  Details of training program including module wise topics to be covered, post
+training assessment methodology etc.
+    3.1.10.5  Relevant ISO certificate in IT training field.
+    3.1.10.6  A copy of work orders/Purchase orders and satisfactory work completion  
+certificate(s), in support of required experience defined under Eligibility conditions.
+ 3.1.11  Bidders participating in Part-B/both Parts of this tender must also submit :
+    3.1.11.1  The bidder must submit detailed technical specifications, make & model, part 
+number and compliance to the Schedule of Requirement (Section IV) for which bid is 
+submitted.
+    3.1.11.2  Manufacturer’s authorization for major components  like  PCs,  Servers,
+Router, Switches, KVM Switches, UPS, Scanner and Printers.
+    3.1.11.3  The  installation  and  warranty  services  are  required  in  Costa  Rica,
+Commonwealth of Dominica and Panama separately, on CIF basis. The bidder must
+provide the plan/arrangement for installation and warranty services to be provided at
+site. The bidders shall either have their own branch office/service centre or shall
+provide service through local dealer/service provider in Costa Rica, Commonwealth of
+Dominica and Panama separately, on CIF basis. In either case an Undertaking to this
+effect shall be submitted along with the technical bid. The details name, address,
+contact person, telephone/Fax, email etc shall be provided along with an undertaking
+from the local dealer/service provider, before the placement of purchase order (If
+applicable).
+    3.1.11.4  Relevant ISO certificate in IT infrastructure field
+    3.1.11.5  A copy of work orders/Purchase orders and satisfactory work completion
+certificate, in support of required experience defined under eligibility conditions.
+    3.1.11.6  Bidder shall submit an undertaking that the proposed hardware and software
+are legally valid for use in the host country and shall be in name of the IT Centre (at
+host country)
+6
+
+[Page 7]
+3.1.12  Bidder  must  provide  an  undertaking  for  the  effect  that  he  is  not  under  a
+declaration of ineligibility for corrupt and fraudulent practices.
+ 3.1.13 Other related documents as mentioned in the tender document but not listed here.
+ 3.2 
+Envelope 2: “Commercial Bid” shall contain:
+Price schedule, complete in all respects with proper seal and signature of authorized
+person.
+ 3.3 
+Both the technical bid and commercial bid envelopes shall be sealed separately
+and clearly marked  as  “Envelope  No. 1 – Technical  Bid”  and “Envelope  no. 2 –
+Commercial Bid” and name of the bidder. Both the sealed envelopes shall be placed in
+third larger envelope clearly mentioning “Tender for setting up Centres of Excellence in
+Information Technology(CsEIT) in Costa Rica, Commonwealth of Dominica (CD) and
+Panama” and addressed to:
+Section Officer (DP)
+DPA II Division 
+Room No. 1123, 'B' Wing
+Ministry of External Affairs
+Jawaharlal Nehru Bhawan (JNB), New Delhi
+Tel : 49015392
+Please write tender number on each envelope and seal all the envelopes.
+4.
+Important dates.
+4.1  Last date for sale of tender document is 29.04.2014 till 5.00 PM.
+4.2  The pre-bid meeting shall be held on 16.04.2014 at 1100 hrs at: 
+Room No. 1123, 'B' Wing
+Ministry of External Affairs
+Jawaharlal Nehru Bhawan (JNB), New Delhi
+All  prospective  bidders  /  authorized  representative  of  the  bidders  who  have
+purchased / downloaded the RFP document may attend the pre bid conference to get their
+queries  and  clarification  replied,  if  any.  The  bidder  shall  depute  senior  level
+representative(s) who shall be well conversant with the subject and bid requirements. Due
+to security reasons, Bidders, willing to attend the pre-bid conference, are requested to
+convey their contact details to MEA latest by 1600 hrs on 15.04.2014 so that necessary
+arrangements are made. Details are to be conveyed through email to usdp@mea.gov.in
+and sodp@mea.gov.in The queries, if any, will have to be submitted in writing on/ before
+the day of Pre – Bid Meeting.  No queries shall be entertained after the Pre – Bid
+Meeting. 
+      
+ 4.3 Last date for submission of bids 30.04.2014 till 1500 hrs at:
+Section Officer (DP Section)
+DPA-II Division 
+Room No. 1123, 'B' Wing
+Ministry of External Affairs
+7
+
+[Page 8]
+Jawaharlal Nehru Bhawan (JNB), New Delhi
+Tel : 49015392
+The bids are to be submitted in two bid system, as detailed in the tender document
+at the above-mentioned address. Bids submitted at any other place shall not be entertained
+by MEA.
+ 4.4 Technical bid will be opened on 30.04.2014 at 1530 Hrs at:
+Room No. 1123, 'B' Wing
+Ministry of External Affairs
+Jawaharlal Nehru Bhawan (JNB), New Delhi
+Tel : 49015392
+The bidder’s authorized representative (maximum two) can attend the bid openings.
+5.
+Opening of Price bids
+Price bids of the substantially responsive bidders will be opened, in the presence of the
+bidders or their authorized representative, who choose to attend, at the time, place and
+date to be informed later.
+END OF SECTION I
+8
+
+[Page 9]
+SECTION II  
+INSTRUCTIONS TO BIDDERS (ITB)
+ 1. General definitions
+ 1.1.
+“Agreement” means the document signed between the MEA, Govt of India
+and the successful bidder, that incorporates any final corrections or modification to
+the bid, and is the legal document binding on both the parties to the agreement, with
+all terms and conditions of the contract.
+ 1.2.
+“Bid”  means the proposals submitted by the Bidder(s) in response to this
+tender in accordance with the provisions thereof including the Technical Bid/proposal
+and Financial Bid/proposal along with all other documents  forming  part and in
+support thereof.
+ 1.3.
+“Bidder” means a company/firm incorporated in India, who has submitted the
+bid  for  as  per  the  terms,  conditions,  and  technical  specifications  of  the  tender
+document.
+ 1.4.
+ “Bid Security” or “EMD”  the meaning prescribed to it in “Instructions to
+Bidders.”
+ 1.5.
+ “Bid Process” means the process of selection of the successful bidder through
+competitive bidding and includes submission of bids, scrutiny and evaluation of such
+bids  as set forth in the tender.
+ 1.6.
+“Consignee”  means the person/office to whom the services/equipments are
+required to be delivered as per the “Letter of Acceptance” .
+ 1.7.
+ “Letter of Acceptance” means the letter or memorandum communicating to
+the successful bidder the acceptance of its bid and includes an advance acceptance of
+its bid.
+ 1.8.
+“Purchaser” means Ministry of External Affairs, Govt. Of India,New Delhi.
+or its authorized representatives.
+ 1.9.
+“Period” shall mean the entire term of the agreement.
+ 1.10.
+“RFP” and / or “RFP Document” means this tender document comprises of
+the  sections  namely  Disclaimer,  Notice  Inviting  Tender  (NIT),  Definitions  and
+Abbreviations, Instructions to Bidders (ITB), General Conditions of Contract (GCC),
+Schedule of Requirements (SOR), Technical Specifications, (TS), Price Schedule
+(PS), and Bid Forms, Annexures and other formats and any applicable schedules
+thereto added/modified before the freezing of the RFP.
+ 1.11.
+The  terms  “  Successful  Bidder  ,  “  Acceptable  L1  Bidder”   and  /  or
+“Vendor”shall mean the Bidder who qualifies the Technical bid/proposal stage and
+the Financial bid/Proposal stage of this tender and to whom a Letter of Acceptance is
+consequently issued by purchaser.
+ 1.12.
+“ Works “ means all the works specified or set forth and required in and by the
+said ‘ Technical Specifications’, ‘General Conditions of Contract ‘ and  ‘Schedule of
+Requirements‘, ‘ Bid Forms, Annexures and other Formats‘ hereto annexed to be
+implied there from or incidental thereto, or to be hereafter specified or required in
+such explanatory instructions  and drawings ( being in conformity with the said
+original Specification (s), Drawing (s) and ‘ Schedule of Requirements) and also in
+such additional instructions and drawings not being in conformity as aforesaid, as
+shall from time to time, during the progress of the work hereby Contracted for, be
+supplied by the Purchaser.
+2.
+Locations for the Supply, Installation and Services
+9
+
+[Page 10]
+The equipment (Hardware & Software) have to be delivered and installed at the site for the
+proposed  training  centres  at  San  Jose,  Costa  Rica;  Roseau,  Commonwealth  of
+Dominica(CD)  and  Panama  City  and  Panama  City,  Panama  respectively. Similarly,
+trainers and centre head are to be deployed at the same centres.
+3.
+Order Placements and Release of Payment
+The Purchase Order and payment shall be processed by:
+Under Secretary(DP)
+Room No. 2107, 'B' Wing
+Ministry of External Affairs
+Jawaharlal Nehru Bhawan
+New Delhi – 110011 
+4. Eligiblity Criteria
+4.1 For Part-A ( Training)
+4.1.1.
+Bidder must be a company/firm incorporated in India. 
+4.1.2.
+The bidder shall be into the field of IT training and shall have minimum
+average annual turnover of Rs 2.5 crore during the last three financial years. 
+4.1.3.
+The bidder must have imparted training for minimum Rs 2 crore in any one
+year OR minimum Rs 1.4 crore per annum in any two years OR minimum Rs 1
+crore per annum in any three years during last seven years period. To ensure
+the verifiability of the above, revenue earned by training imparted to the Govt
+of  India/State  Govt/PSUs   only,  shall  be  considered  for  determining  the
+eligibility.
+OR
+The bidder shall have experience of setting of at least one IT Centre
+involving training also, of value not less than Rs. 8 crores or two IT Centres
+involving training also, of value not less than Rs.5 crores each or  three IT
+Centres involving training also, of value not less than Rs.4 crores each. The
+bidder must have executed at least one such project overseas. 
+4.1.4. Relevant ISO certificate in IT training field
+4.1.5. The  trainers  shall  have  good  academic  background  with  B.E/
+B.Tech/MCA/M.Sc in Computers/IT/Electronics with atleast 60% marks, and
+having  atleast  5  years  IT/Training  experience.  The  trainers  shall  be  on
+company rolls for at least last 1 year and shall be certified on at least one
+relevant technology platforms viz. Microsoft, Cisco, Oracle and Linux etc. 
+4.1.6. The  proposed  centre-head  shall  possess  BE/B.Tech/MCA/  MSc  in
+Computer/  IT/Electronics  with  at  least  60%  marks,  alongwith
+MTech/ME/MBA with at least 60% marks. The Center head sould have atleast
+7 years IT/Training experience an shall be certified on at least one relevant
+technology platform.viz. Microsoft, Cisco, Oracle and Linux etc. For Costa
+Rica IT centre, Centre head must have fluency in Spanish and English.
+4.1.7. The  bidder  shall  be  able  to  award  a certificate  of  proficiency  to  the
+participants who complete the courses.
+4.2 For Part B ( Physical IT Infrastructure )
+10
+
+[Page 11]
+4.2.1. Bidder must be a company/firm incorporated in India. 
+4.2.2. The bidders shall be in the business of IT i.e. IT Hardware, Software and
+Networking, etc. and shall have minimum average annual turnover of Rs 10
+crore during the last 3 financial years.
+4.2.3. The bidder shall have experience of supply, installation, commissioning,
+networking and maintenance of similar IT infrastructure to Govt of India/State
+Govt/PSUs . The bidder must have successfully executed one such project of
+value not less than Rs. 7 crore or two such projects of value not less than Rs. 4
+crore each or 3 such projects of not less than Rs. 2.5 core each during last 7
+years.
+4.2.4. Relevant ISO certificate in IT infrastructure field.
+4.2.5. Bidder shall be an authorised distributor/ resellers for major components
+like PCs, Servers, Router, Switches, KVM Switches, UPS, Scanner, Printers.
+4.2.6. The bidders shall have their own branch office/service centre in Costa
+Rica ,Commonwealth of Dominica and Panama, separately or arrangement to
+provide service through local dealer/service provider in these places on CIF
+basis.
+4.3 Bidders  shall  not  be  under  a  declaration  of  ineligibility  for  corrupt  and
+fraudulent practices. 
+4.4 Bidder  shall  be  registered  with  Sales  Tax/  Income  Tax  Department  of
+Government of India and shall hold a valid VAT registration certificate, as applicable.
+5. Cost of Bidding
+         The bidder shall bear all costs associated with the preparation and submission of the
+bid. The purchaser will, in no case, be responsible or liable for these costs, regardless of
+the conduct or outcome of the bidding process.
+ 6 Cost and Availability of Tender Document 
+ 6.1   The tender document can be obtained from the Section Officer (DP), Room No.
+2088, Jawaharlal Nehru Bhawan (JNB), New Delhi on submission of a Bank Draft/Pay
+Order for Rs. 2000/- (non-refundable) favouring “Pay and Accounts Officer, Ministry of
+External Affairs, New Delhi” between 1100 hrs and 1700 hrs on all working days till
+29.04.2014. 
+ 6.2  It may also be downloaded from websites www.mea.gov.in or http://eprocure.gov.in.
+However, the tender fee (non-refundable) against the tender document, has to be paid by
+the bidder in the form of DD/Pay Order for Rs. 2000/- favouring “Pay and Accounts
+Officer, Ministry of External Affairs, New Delhi”.
+ 7 Amendment of Bid Documents
+ 7.1     At any time prior to the deadline for submission of bids, MEA may, for any reason,
+whether on its own initiative or in response to the clarification request by a prospective
+bidder, modify the bid document.
+ 7.2    All prospective bidders who have purchased the bidding document will be notified
+of the amendment in writing, and such amendments/ modifications will be binding on
+them. All amendments will also be up loaded at MEA’s website and in CPP Portal. No
+11
+
+[Page 12]
+individual notification will be issued to the prospective if they have not purchased the
+tender document or have downloaded it from website.
+ 7.3    MEA at its discretion may extend the deadline for the submission of bids if the bid
+document undergoes changes during the bidding period or for any other reason, in order to
+give prospective bidders time to take into consideration the amendments, if any, while
+preparing their bids.
+ 8 Preparation and Submission of Bids.
+ 8.1  Bidder shall submit offer in two separate sealed envelopes as explained in clause 3 of
+Section – I. 
+ 8.2  Bidder shall avoid, as far as possible, corrections, overwriting, erasures or postscripts
+in the bid documents. In case, however, any corrections, alterations, changes, erasures,
+amendments and/or additions have to be made in the bids, they shall  be supported by
+dated signatures of the same authorized person signing the bid documents.
+ 8.3  All the pages of the Bid (original & copy) must be serially numbered, signed by the
+authorized person, properly stitched and kept in a file.
+ 8.4  Soft copy of the Technical & un-priced commercial bid in MS word format on CD is
+to be submitted along with the hard copy in the Tender offer submission. Similarly soft
+copy of the Price bid in MS Excel format on CD is to be submitted along with the hard
+copy in the Price Bid submission.
+ 8.5  There shall not contain any terms and conditions, printed or otherwise, which are not
+applicable  to  the  Bid.  The  conditional  bid  will  be  summarily  rejected.  Insertions,
+postscripts, additions and alterations shall not be recognized, unless confirmed by bidder’s
+signature.
+ 8.6  The bidder is expected to examine all instructions, forms, terms and specifications in
+the  tender  documents.  Failure  to  furnish all  information  required  as  per  the  tender
+document or submission of the bids not substantively responsive to the tender document in
+every respect will be at bidder’s risk and may result in rejection of the bid.
+ 8.7  The Bid shall be in English language. All correspondence and documents relating to
+the bid exchanged between the bidder and the purchaser shall also be in  ENGLISH
+language. However any technical document/ literature etc. printed in a language other than
+English  shall  be  accompanied  by  its  true  English  translation  duly  signed  for  its
+correctness.  Any document submitted with the bid but not in English language shall not
+be treated as part of the bid document. The responsibility for the correctness of the
+translations if any solely rests on the bidder and purchaser shall not be responsible for any
+loss/likely loss arising out of error in translation whatsoever. In such cases, for the purpose
+of interpretation of the bid, the English translation shall prevail.
+ 9 Bid Security/Earnest Money Deposit (EMD)
+ 9.1  Earnest Money Deposit(EMD)  for each Part of the tender is Rs 15,00,000/- (Rupees
+Fifteen Lac only).However if the bidder is participating in both Parts  of the tender , single
+EMD of Rs 30,00,000( Rs. Thirty Lac only) may be submitted.
+ 9.2  The  EMD  must  be  in  the  form  of  a  Demand  Draft  (DD),  drawn  on  any
+Nationalized/Scheduled Bank, in favour of “Pay & Accounts Officer, Ministry of External
+Affairs” payable at New Delhi or in the form of a Bank Guarantee (BG)  as per the format
+provided at Annexure  3 and shall be valid upto 45 days beyond the validity of the bid  i.e
+225 days from the last date for bid submission. 
+ 9.3  EMD shall be submitted in the envelope containing technical bid. Bid submitted
+without EMD will stand rejected. No interest shall be payable on EMD.
+12
+
+[Page 13]
+9.4   The EMD of unsuccessful Bidders will be discharged / returned as promptly as
+possible after the expiry of Bid validity period and / or within 30 days from the date of
+signing the agreement with the successful bidder. However if the return of EMD is
+delayed for any reason, no interest/ penalty shall be payable to the bidder.
+ 9.5  The EMD shall be forfeited:
+ 9.5.1 
+If the bidder withdraws the bid during the period of bid validity specified in the
+tender.
+ 9.5.2 
+In case a successful bidder, fails to furnish the Performance Bank Guarantee in
+due time. (Refer Clause 17 of Section II).
+ 9.5.3 
+If the bidder fails to furnish the acceptance in writing in due time (Refer Clause
+16 of Section II).
+ 9.6  EMD  will  be  returned/discharged  to  the  successful  bidder  on  submission  of
+Performance Bank Guarantee (Refer Clause 17 of Section II). However if the return of
+EMD is delayed for any reason, no interest/ penalty shall be payable to the bidder.
+ 10 
+Period of validity of bids.
+ 10.1  Bids shall be valid for a minimum 180 days from the date of opening of bids. A bid
+valid for a shorter period shall stand rejected.
+ 10.2  In exceptional circumstances, MEA may request the consent of the bidder for an
+extension to the period of bid validity. The request and the response thereto shall be made
+in writing. The bid security provided under clause 9 shall also be suitably extended. The
+bidder may refuse the request without forfeiting his bid security. A bidder accepting the
+request and granting extension will not be permitted to modify his bids.
+ 11 
+Deadline for Submission of Bids.
+ 11.1  Bids must be received by MEA before the due date and time at the address specified
+in the tender document. In the event of the specified date for the submission of bids being
+declared a holiday for MEA, the bid-closing deadline will stand extended to the next
+working day up to the same time.
+ 11.2  MEA  may  extend  this  deadline  for  submission  of  bids  by amending  the  bid
+documents and the same shall be suitably notified in the media.
+ 12 
+Late Bids
+   Any bid inadvertently received by MEA after the deadline for submission of bids, will
+not be accepted and returned unopened to the bidder.
+ 13 
+Opening of Bids.
+ 13.1   The purchaser shall open first the Technical & unpriced Commercial bids in the
+presence of bidders or their authorized representatives who chose to attend, at due date
+and time. The bidder’s representatives, who are present, shall sign in an attendance
+register. Authority letter to this effect shall be submitted by the bidders before they are
+allowed to participate in bid opening (A Format is given in Annexure 2).
+ 13.2  A maximum of two representatives of any bidder shall be authorized and permitted
+to attend the bid opening.
+13
+
+[Page 14]
+13.3  The date fixed for opening of bids, if subsequently declared as holiday, the revised
+date of schedule will be notified.  However, in absence of such notification, the bids will
+be opened on next working day, time and venue remaining unaltered. 
+ 13.4  Technical bids will be evaluated to shortlist the eligible bidders. The technical bids
+of  only  the  eligible  bidders  shall  be  considered  for  further  processing  (technical
+evaluation).
+ 13.5  Bidder whose technical bid is found to be acceptable and meeting the eligibility
+requirements as specified in this tender will be informed about the date and time of the
+opening of the price bid.
+ 13.6  MEA will open price bids of only the technically short listed bids, in the presence
+of the bidder or their authorized representative who choose to attend the bid opening, at
+the time and date to be informed later.
+ 13.7  The bidder’s authorized representative who attends the bid opening shall sign an
+attendance register as a proof of having attended the bid opening.
+ 13.8  The bidder’s name, bid prices, discounts and such other details considered as
+appropriate by MEA, will be announced at the time of opening of the price bids.
+ 14 
+Preliminary Evaluation of Bids
+ 14.1  Purchaser shall evaluate the bids to determine whether they are complete, whether
+any computational errors have been made, whether required sureties have been furnished,
+whether the documents have been properly signed and whether the bids are generally in
+order. 
+ 14.2  Arithmetical  errors  shall  be  rectified  on  the  following  basis:  If  there  is  a
+discrepancy between the unit price and total price that is obtained by multiplying the unit
+price and quantity, the unit price shall prevail and the total price shall be corrected by the
+purchaser. If there is a discrepancy between words and figures, the amount in words shall
+prevail. If the supplier does not accept the correction of the errors, his bid shall be
+rejected.
+ 14.3  Prior to the detailed evaluation pursuant to clause 15 below, the Purchaser will
+determine  the substantive  responsiveness  of each bid to the tender  Document.  For
+purposes of these clauses, a substantively responsive bid is one which conforms to all the
+terms and conditions of the tender documents without material deviations. 
+ 14.4  A  bid,  determined  as  substantively  non-responsive  will  be  rejected  by  the
+purchaser.
+ 14.5  The Purchaser may waive any minor infirmity or non-conformity or irregularity in
+a  bid  which  doesn’t  constitute  a  material  deviation,  provided  such  waiver  doesn’t
+prejudice or affect the relative ranking of any bidder. 
+ 15 
+Evaluation and Comparison of Substantively Responsive Bids
+ 15.1  The Purchaser shall evaluate in detail and compare the bids previously determined
+to be substantively responsive pursuant to clause 14 above.
+ 15.2  During the technical evaluation, purchaser at its discretion may call upon the bidder
+to give their presentation on their offer, to explain their capability to undertake the project
+and to respond to any question from Purchaser.
+14
+
+[Page 15]
+15.3  The evaluation of the techno-commercially responsive bids shall be carried out on
+the basis of the price offered by the bidder under Column Y of the Price Schedule in
+Section V of the Bid Document. Lowest bidders shall be determined separately for Part
+A and Part B of the tender, independent of each other.
+ 16 
+Award of Contract
+ 16.1  MEA shall award the contract to the eligible bidder/s whose technical bid has been
+accepted and determined as the lowest evaluated commercial bid based on Total price
+given in col.Y of the Price Schedule in Section V of the Bid Document separately and
+independently for each part of tender.
+ 16.2  The Purchaser will notify the successful Bidder/s in writing that his Bid/s has been
+accepted. This letter (hereinafter and in the General Conditions of Contract called ‘Letter
+of Acceptance’)  in detail the sum, which the Purchaser will pay to the Contractor.
+ 16.3  If more than one bidder happens to quote the same lowest price for indivisual Part,
+MEA reserves the right to split the order and award the contact to more than one bidder
+for that Part.
+ 16.4  Upon receipt of the ‘Letter of Acceptance’, the successful Bidder shall submit it
+duly signed and stamped by his authorized signatory to Purchaser, within 7 working days
+from the date of receipt of Letter of Acceptance.
+ 16.5  Upon return of ‘Letter of Acceptance’  from the successful Bidder, Contract in
+accordance to the terms and conditions of this tender Document,  to be signed by both the
+parties. The successful Bidder shall get the correct amount of Stamp Duty adjudicated in
+accordance with the applicable law, and submit the same in two copies duly stamped and
+executed. The Purchaser will return one copy duly sealed and signed as a token of
+acceptance of contract agreement. Stamp Duty will be paid by the successful Bidder.
+ 17 
+Performance Bank Guarantee(PBG)
+ 
+ 17.1  Within 30 working days of submission of the  ‘Letter of Acceptance’  to the
+Purchaser, the successful Bidder shall furnish to the Purchaser a Performance bank
+guarantee for an amount equivalent to 10% of the total Contract value. 
+ 17.2  The successful bidder must submit a Performance Bank Guarantee of 10% of the
+order value on award of contract / order by MEA as per the format provided at Annexure
+3. This Performance Bank Guarantee shall remain valid for three years or three months
+beyond the completion of project, whichever is later.
+ 17.3  The Performance Security will be discharged by the Purchaser after completion of
+the Supplier’s performance obligations including any warranty obligations under the
+Contract.
+ 18 
+Purchaser’s Right to amend the Scope of Work.
+ 18.1  If, for any unforeseen reasons, MEA is required to change the Scope of Supply, this
+change shall be acceptable to the bidder without change in the unit price quoted.
+ 19 
+Corrupt or Fraudulent Practices.
+ 19.1  It is expected that the bidders who wish to bid for this project have highest
+standards of ethics.
+ 19.2  MEA will reject bid if it determines that the bidder recommended for award has
+engaged in corrupt or fraudulent practices while competing for this contract.
+15
+
+[Page 16]
+19.3  MEA may declare a vendor ineligible, either indefinitely or for a stated duration, to
+be awarded or contact if it at any time determines that the vendor has engaged in corrupt
+and fraudulent practices during the execution of contact.
+ 20 
+Interpretation of the clauses in the Tender Document/ Contract Document.
+ 20.1  In case of any ambiguity/ dispute in the interpretation of any of the clauses in this
+Tender Document, MEA’s interpretation of the clauses shall be final and binding on all
+parties.
+END OF SECTION II
+16
+
+[Page 17]
+SECTION III
+GENERAL CONDITIONS OF CONTRACT (GCC)
+ 
+ 1  Scope of Work
+ 1.1  Government of India intends to set up an IT Centre for Training at San Jose, Costa
+Rica and Roseau, Commonwealth of Dominica (CD); and up gradation of existing
+CEIT at Panama City,Panama.
+ 1.1.1  The IT centre at San Jose, Costa Rica would have two class rooms for 25
+students each, equipped with necessary IT infrastructure. This centre would have
+provision of providing training to 600 students per year, for a period of two years.
+ 1.1.2  The IT centre at Roseau, Commonwealth of Dominica (CD)  would have
+three class rooms for 25 students each, equipped with necessary IT infrastructure.
+This centre would have provision of providing training to 500 students per year, for
+a period of two years.
+ 1.1.3  The IT centre at Panama is already functioning with 4 Classrooms of 25
+seats. Part of this infrastructure, as listed in SoR, needs to be upgraded .Training is
+to be provided to local trainers for a period of three months. Training to other
+students is not envisaged under the scope of this tender for this CEIT.
+ 1.1.4   It is expected that these CsEIT in time would run on self sustainable basis
+thereafter. The courses to be covered are given in Schedule of requirement.
+ 1.2  The host government would be providing the following at their cost: 
+ 1.2.1  Requisite physical infrastructure including civil and electrical works, proper AC
+power sockets in rooms, water supply and furniture. 
+ 1.2.2  Day to day management and running expenditure of the IT centre.
+ 1.2.3  Necessary technical and administrative staff.
+ 1.2.4  Security of the premises.
+ 1.2.5  Exoneration from customs and other applicable taxes insofar import of equipment
+from India or third country is concerned in connection with setting up IT Centre.
+ 1.2.6  Exemption from paying taxes etc. for Indian personnel deputed in connection with
+setting/running up of the IT Centre.
+ 1.3  The scope of work as envisaged in this tender is divided in two parts.
+ 1.3.1  PART A
+ 1.3.1.1  Designing and supply of content for course list in SoR.
+ 1.3.1.2  Provision of a Centre head and trainers (faculty) to deliver the courses as per the
+course list. Centre Head at Costa Rica IT centre must be bilingual (Spanish and
+English).
+ 1.3.1.3  MEA reserves the right to ask for change of trainer/Center Head or increase in
+number of trainers or duration of training during the course of contract by giving one
+month notice.
+ 1.3.1.4  Overall management of IT centre and coordination with host government/Indian
+Mission.
+ 1.3.1.5  Supply of courseware kits containing, notebooks, CDs, Media, training material
+prescribed  by technology  partners  and  /or  other  customised  training  material,  as
+required. This kit must also contain at least one self contained reference textbooks with
+International Standard Book Number (ISBN).
+ 1.3.1.6  After the completion of the project i.e. setting up of IT Centre as well as training
+for a period of two years, the centre will be handed over to the host government. 
+17
+
+[Page 18]
+1.3.1.7   Bidder need to empower the host country to run the centre thereafter by ensuring
+training to the trainers of host country. This training may be imparted by on-site
+trainers deployed by bidder.
+ 1.3.1.8  The books /courseware material will be property of the host government after the
+handing over of the IT centre to them. If any propriety course material is provided
+along with the prescribed books , the appropriate rights need to be transferred to host
+government to use them, including copying.
+ 1.3.2   PART B
+ 1.3.2.1  Supply  of  Hardware/Software,  as  per  SoR,  including  their  installation  and
+commissioning.
+ 1.3.2.2  On-site Warranty, Maintenance and reconfiguration of equipment for three years
+for CsEIT in Costa Rica and Roseau, Commonwealth of Dominica (CD); and one year
+for CEIT at Panama City, Panama.
+ 2  Prices
+ 2.1  The price quoted shall be considered firm and no price escalation will be permitted.
+ 2.2  Bidders must quote the price in the format given in Price Schedule at Section –V of
+this document.
+ 2.3  All items are to be quoted only in INR.
+ 2.4   The prices quoted shall be inclusive of freight, insurance & packing. The packing
+shall be transport worthy conforming to the international standard so as to prevent their
+damage or deterioration to goods during transit to their final destination as indicated in
+this document. The packing shall be sufficient to withstand, without limitation, rough
+handling during transit and exposure to extreme temperature, salt and precipitation
+during  transit  and  open  storage.  Packing  case  size  and  weights  shall  take  into
+consideration, where appropriate, and the remoteness of the Goods final destination
+and the absence of heavy handling facilities at all point in transit. However risk in
+goods shall continue with supplier till goods are delivered in good condition and
+installed at end user’s site. The goods are to be transported by sea/air/surface route
+from Indian and price bid shall be prepared accordingly.
+ 2.5  The  prices  quoted  shall  be  inclusive  of  freight  and  insurance  till  respective
+destinations  i.e  CIF at  CsEIT  San  Jose,  Costa  Rica  ;Roseau,  Commonwealth  of
+Dominica (CD) and Panama City Panama.. The items will be exempted from payment
+of customs duty by Govt. of respective recipient Governments. Necessary Custom
+Duty  Exemption  Certificate  shall  be  arranged  by  MEA/  respective  recipient
+Governments as & when required. Taxes and duties payable in India, if any, are non
+refundable and shall be included in the price.
+ 2.6  The consignment will be cleared by respective recipient Governments. However, the
+bidder shall insure the consignment till actual delivery to the end user.
+ 2.7  The basic prices and applicable taxes shall be mentioned separately. The exact rates
+of  taxes  applicable,  if  any,  as  on  the  date  of  quoting  must  be  mentioned.  No
+concessional tax form will be given by MEA.
+ 3  Chartered Engineer Certificate: 
+ 3.1  The successful bidder will be required to furnish the certificate from the Registered
+Chartered Engineer certifying that the items supplied and their specifications are in
+compliance with the requirements of the supply order issued by purchaser.
+18
+
+[Page 19]
+4  Completeness Responsibility: 
+ 4.1  Notwithstanding the scope of work, engineering, supply and services stated in the
+tender document; any equipment or material, engineering or technical services which
+might not be even specifically mentioned under the scope of supply of the supplier and
+which  are  not  expressly  excluded  there  from  but  which  are  necessary  for  the
+performance of IT centres at  Costa Rica, Commonwealth of Dominica (CD) and
+Panama in accordance with the specifications and executing the contract to establish
+achievement of performance guarantee parameters, are to be provided for and rendered
+by the vendor without any extra charge so that the said project is completed in all
+respects. 
+ 4.2  The  project  is  for  setting  up  and  operation  of  IT  centres  in  Costa  Rica,
+Commonwealth of Dominica and Panama. It shall be responsibility of the supplier(s) to
+ensure smooth integration of IT Hardware/ Software and training modules. End result
+of providing the smooth training to host country shall be ensured by the entire setup.
+This shall be done in close coordination with the supplier IT Hardware/ Software &
+Training provider(if they happens to be separate bidders) 
+ 5  Warranty:
+ 5.1  The successful bidder of Part- B is required  to provide free service, including
+repairing/rectification/replacement/configuration  required,  if  any,  during  warranty
+period of three years from the date of commissioning of IT centre CsEIT in Costa Rica
+and Roseau, Commonwealth of Dominica (CD); and one year for CEIT at Panama
+City, Panama. The bidder shall submit along with the technical bid, the detailed plan
+for providing warranty services at site.
+ 6  Payments:
+ 6.1  PART - A
+ 6.1.1  1st Payment milestone: 10% of the contract value as mobilisation advance on
+signing of the agreement between MEA and successful bidder, on submission of bank
+guarantee (BG) of an equivalent amount,valid for one year. This BG will be in addition
+to  performance  bank  guarantee  and  shall  be  released  along  with  next  payment
+milestone.
+ 6.1.2  2nd Payment milestone: 30% of contract value on completion of three (3) months of
+training including supply of courseware books, kits, etc. required for 1st year of training
+on submission of supporting document. 
+ 6.1.3  3rd Payment milestone: 20% of contract value on completion of nine (9) months of
+training.
+ 6.1.4  4th Payment milestone: 20% of contract value on completion of fifteen (15) months
+of training including supply of courseware books, kits, etc. required for 2nd year of
+training on submission of supporting document.
+ 6.1.5  5th Payment milestone: 20% of contract value on completion of twenty one (21)
+months of training.
+ 6.2  PART- B
+ 6.2.1  1st Payment milestone: 10% of the contract value as mobilisation advance on
+signing of the agreement between MEA and successful bidder, on submission of bank
+guarantee (BG) of an equivalent amount, valid for one year.  This BG will be in
+addition to performance bank guarantee and shall be released along with next payment
+milestone.
+19
+
+[Page 20]
+6.2.2  2nd Payment milestone: 70% of the contract value against successful delivery of
+hardware and software on site and submission of supporting documents, duly certified
+by Indian Embassy for Costa Rica, CD and Panama respectively.
+ 6.2.3  3rd payment milestone: 10% of the contract value against successful installation and
+commissioning of supplied Hardware and Software and on certification by Project
+Monitoring Committee.
+ 6.2.4  4th Payment milestone: 10% of the contract value on completion of one year of
+warranty period.
+ 7  Delivery Time lines
+ 7.1  PART-A: 
+ 7.1.1  The commencement of training centre depends upon the successful commissioning
+of the IT centre by the Hardware and Software supplier. Therefore, the successful
+bidder for Part-A shall depute the trainer/centre head within 30 days from the date of
+such confirmation by MEA.
+ 
+ 7.2  PART-B:
+ 7.2.1   The successful bidder(s) shall be required to furnish the following documents: 
+i. Readiness of the consignment for dispatch 
+ii. Chartered Engineer’s Certificate 
+iii. Packing List (Bill of Material)
+iv. Insurance Policy 
+v. Invoice & other relevant document(s),if any. 
+Final Dispatch Clearance Certificate (FDCC) shall be issued by MEA on receipt of above
+mentioned documents from successful bidder. Actual shipment shall be done only after
+issue of FDCC. 
+ 7.2.2  The required hardware and related software has to be delivered within 4 months
+from the date of signing of the agreement between MEA and successful bidder. The
+time is the essence of this contract. It is mandatory for the bidders who respond to this
+bid to meet these expectations, as these are tightly linked to the host country to
+completing the project within the available time frame.
+ 7.2.3  The  selected  bidder,  who  would  be  awarded  the  contract,  would  install  and
+commission the supplied hardware and software in all respect and in coordination with
+successful bidder of Part-A, within 5 months from the date of signing of the agreement.
+ 8  Penalty for delayed Services
+ 8.1  Purchaser reserves the right to levy penalty @ 1% of Contract value per week of
+delay beyond the scheduled date of supply or services, subject to maximum penalty of
+10% of the order value.
+ 8.2  MEA reserves the right to cancel the order in case the delay is more than 10 weeks.
+ 8.3  If any disruption in training for more than 7 working days, due to non availability of
+trainer  or  IT  infrastructure,  is  reported  by  Indian  Missions  for  Costa  Rica,
+Commonwealth  of Dominica  (CD) and Panama,  respectively, during  currency of
+contract, a penalty of Rs 10000/- (Rs Ten Thousand only) per day would be levied to
+concerned vendor, subject to maximum penalty of 10% of the order value. Report of
+Indian  Mission  for  Costa  Rica,  Commonwealth  of  Dominica  (CD)  and  Panama
+respectively, about quantum and responsible vendor would be final. 
+20
+
+[Page 21]
+8.4  The penalties, if any, shall be recovered form Security Deposit/ Performance Bank
+Guarantee.
+ 9  Training of Trainers
+ 9.1  After the completion of the project i.e. setting up of IT Centre as well as training for a
+period of two years (except for IT center in Panama, where it is 3 months training to
+trainers) the centre will be handed over to the host government.
+ 9.2  Successful Bidder of PART -A need to empower the host country to run the centre
+post handover by ensuring training to the trainers of host country. This training may be
+imparted by on-site trainers deployed by bidder.
+ 9.3  Bidder need to keep provision for above training for 25 such trainers in the proposed
+training  schedule  and  shall  supply  Trainers  courseware  kit,  which  must  include
+advance reference textbooks, customised course material for all the courses to be
+covered, over and above the normal composition of courseware kit.
+ 10  Jurisdiction
+The disputes, legal matters, court matters, if any shall be subject to New Delhi jurisdiction
+only.
+ 11  Force Majeure
+ 11.1  MEA may consider relaxing the penalty and delivery requirements, as specified in
+this document, if and to the extent that, the delay in performance or other failure to
+perform its obligations under the contract is the result of a Force Majeure. Force
+Majeure is defined as an event of effect that cannot reasonably be anticipated such as
+acts of God (like earthquakes, floods, storms etc.), acts of states, the direct and indirect
+consequences of wars (declared or undeclared), hostilities, national emergencies, civil
+commotion and strikes at successful Bidder’s premises
+ 12  Termination and Suspension :
+ 12.1  Termination: 
+   
+   If the bidder:
+ 12.1.1    Shall  have  voluntarily  commenced  winding-up,  bankruptcy,  insolvency,
+reorganization, stay, moratorium or similar debtor-relief proceedings, or  become
+insolvent or is unable to pay its debts as they become due, or admits in writing its
+inability to pay its debts or makes an assignment for the benefit of its creditors;
+ 12.1.2   has insolvency, receivership, reorganization or bankruptcy proceedings brought
+against him and the petition commencing such proceedings is not controverted and the
+proceedings  dismissed  or  effectively  stayed  within  30  (thirty)  days  of  such
+commencement;
+ 12.1.3  Has abandoned the Contract;
+ 12.1.4  despite previous warnings in writing from the MEA, has wrongfully refused or has
+materially failed or neglected at any time to execute the Contract or is failing to
+proceed with the Contract with due diligence or is neglecting to carry out its other
+obligations under the Contract in each case so as to affect materially and adversely the
+execution of the Contract;
+21
+
+[Page 22]
+12.1.5  offers or gives or agrees to give to any person in the MEA’s service or to any other
+person on his behalf, any gift or consideration of any kind as an inducement or reward
+for doing or for bearing to do so or for having done or forborne to do any act in relation
+to obtaining or execution of this or any other Contract for the MEA;
+ 12.1.6  shall enter into a contract with the MEA’s employee in connection with which
+commission has been paid or agreed to be paid by him or to his knowledge, unless the
+particulars of any such commission and the terms of payment thereof have previously
+been disclosed, in writing, to the MEA;
+ 12.1.7   has failed to deliver the said Works of any or all jobs as per the Scope within the
+Completion  Schedule;  then  the  MEA  may,  by notice  to  the  bidder  and  without
+prejudice to any other remedy under the Contract, terminate the Contract but without
+thereby releasing the bidder from any of his obligations or liabilities which have
+accrued as at the date of termination of the Contract and without affecting the rights
+and powers conferred by the Contract on the MEA. Upon such termination the MEA
+may itself complete the Service or may employ any other bidder to complete the job at
+the risk and cost of the bidder.
+ 12.2  Opportunity to remedy
+ 12.2.1  The MEA’s right to terminate the Contract following the occurrence of the events
+or circumstances, as described above, shall be subject to the MEA having first given
+the bidder 30 (thirty) days prior notice of its intention to terminate the Contract, during
+which period the bidder  failed to remedy or to take all reasonable steps to commence
+the remedy of the default.
+ 12.3  Payment after Termination due to bidder’s Default
+ 12.3.1  The MEA shall not be liable to make any further payments to the bidder until the
+costs of execution and all other expenses incurred by the MEA in completing the
+Services, and thereby the Facility, have been ascertained (herein called the “Cost of
+Completion”). If the Cost of Completion when added to the total amounts already paid
+to the  bidder as at the date of termination exceeds the total amount which would have
+been payable to the bidder for the execution of the complete services, the bidder shall
+upon demand, pay to the MEA the amount of such excess. Any such excess shall be
+deemed a debt due by the bidder to the MEA and shall be recoverable accordingly.
+ 12.3.2  If there is no such excess the bidder shall be paid the value of the Services
+executed after adjusting the total of all payments received by the bidder as on the date
+of termination.
+ 12.4  Termination without bidder’s Default
+MEA reserves the right to terminate the Contract at any time, without assigning any
+reason, by giving a notice of 1 (one) month. The bidder shall stop the performance of
+the Contract from the date of termination  and shall hand over all the drawings,
+documents and goods manufactured till date, including related rights, sanctions and
+approvals, to MEA. MEA shall pay to the bidder the cost incurred by the bidder till the
+date of termination, duly supported with documents, as compensation after adjusting
+payments already made till the termination. No consequential damages shall be payable
+by the MEA to the bidder in the event of such termination.
+ 12.5  Suspension:
+ 12.5.1  The MEA may suspend the work in whole or in part at any time by giving bidder
+notice in writing to such effect stating the nature, the date and the anticipated duration
+22
+
+[Page 23]
+of such suspension. On receiving the notice of suspension, the bidder shall stop all such
+work, which the MEA has directed to be suspended with immediate effect. The bidder
+shall continue to perform other work in terms of the Contract, which the MEA has not
+suspended. The bidder shall resume the suspended work as expeditiously as possible
+after receipt of such withdrawal of suspension notice.
+ 12.5.2  During suspension, the bidder shall not be entitled for any claim whatsoever
+arising out of any loss or damage or idle labour caused by such suspension.
+ 12.6   Rights of MEA after Termination:
+ 12.6.1  The MEA shall, on such termination of the Contract, have powers to :
+ 12.6.1.1  take possession of the Site and any material, Drawings, schemes, implements,
+stores etc. thereon; and / or
+ 12.6.1.2  carry out the incomplete Work by any means at the risk and cost of the bidder
+ 12.6.1.3  Any excess expenditure incurred or to be incurred by the MEA in completing the
+Work or part of the Work or the loss or damages suffered by the MEA as aforesaid
+after allowing necessary credits, shall be recovered from any money due to the bidder
+on any account and if such money is not sufficient, the bidder shall be called upon in
+writing to pay the same within 30 days.
+ 12.6.1.4  The MEA shall not be liable to make any further payments to the bidder until the
+costs of execution and all other expenses incurred by the MEA in completing the
+Works have been ascertained (herein called the “Cost of Completion”). If the Cost of
+Completion when added to the total amounts already paid to the bidder as at the date of
+termination exceeds the total amount, which would have been payable to the  bidder for
+the execution of the Works, the bidder shall upon demand, pay to the MEA the amount
+of such excess. Any such excess shall be deemed a debt due by the bidder to the MEA
+and shall be recoverable accordingly. If there is no such excess the bidder shall be
+entitled to be paid the difference (if any) between the value of the Works ascertained
+and the total of all payments received by the bidder as on the date of termination.
+ 13  Arbitration:
+ 13.1  In the event of any question, dispute or difference arising under this agreement or in
+connection therewith except as to the matter the decision to which is specifically
+provided under this agreement, the same shall be referred by either party (MEA or the
+bidder) after issuance of 30 days notice in writing to the other party clearly mentioning
+the nature of dispute to a single arbitrator acceptable to both the parties. The agreement
+to appoint an arbitrator will be in accordance with the Arbitration and Conciliation Act
+1996. The award of the arbitrator shall be final and binding on both the parties to the
+agreement. 
+ 13.2  The arbitrator may from time to time with the consent of both the parties enlarge the
+time  for  making  and  publishing  the  award.  Subject  to  aforesaid  Arbitration  and
+Conciliation Act 1996, and the rules made there under any modification thereof for the
+time being in force shall be deemed to apply to the arbitration proceeding under this
+clause. All disputes of any kind arising out of supply, commissioning, acceptance,
+warranty maintenance etc., shall be referred by either party (MEA or the bidder) after
+issuance of 30 days notice in writing to the other party clearly mentioning the nature of
+dispute to a single arbitrator acceptable to both the parties. The venue for arbitration
+shall be specified in the purchase agreement. The jurisdiction of the courts shall be
+specified in the purchase agreement.
+END OF SECTION III
+23
+
+[Page 24]
+SECTION IV
+Schedule of Requirement(SoR)
+PART- A ( TRAINING)
+S. No. Item Description
+Specification
+Unit
+Quantit
+y
+SoR 
+Remarks
+For CEIT, Costa Rica:
+1
+Bilingual Centre head 
+As per Tender 
+Per person  
+per month
+24
+2
+Trainers 
+As per  Tender
+Per person 
+per month
+48
+3
+Courseware Kit
+As per Tender
+Per set
+1200
+4
+Professional and 
+establishment Charges. 
+As per Tender
+Lump Sum 
+per month
+24
+For CEIT , Commonwealth of Dominica (CD):
+5
+Centre head 
+As per Tender 
+Per person  
+per month
+24
+6
+Trainers 
+As per  Tender
+Per person 
+per month
+48
+7
+Courseware Kit
+As per Tender
+Per set
+1000
+8
+Professional and 
+establishment Charges. 
+As per Tender
+Lump Sum 
+per month
+24
+For CEIT ,Panama:
+9
+Trainers 
+As per  Tender
+Per person 
+per month
+12
+10
+Courseware Kit
+As per Tender
+Per set
+25
+11
+Professional and 
+establishment Charges. 
+As per Tender
+Lump Sum 
+per month
+3
+PART-B(Physical IT Infrastructure)
+S. 
+No.
+Item Description
+Specification
+Unit
+Quanti
+ty
+SoR 
+Remarks
+For CEIT, Costa Rica:
+1
+Desktop Computers
+ As per Tender 
+units
+55
+2
+Servers
+-do- 
+units
+4
+3
+Tape Library
+-do-
+units
+1
+4
+Backup software
+-do-
+units
+1
+5
+KVM switch
+-do-
+units
+1
+6
+Networking Core Switch
+-do-
+units
+1
+7
+Networking Edge switch
+-do-
+units
+5
+8
+Firewall
+-do-
+units
+1
+24
+
+[Page 25]
+9
+Router
+-do-
+units
+1
+10
+Scanner
+-do-
+units
+3
+11
+Multi-function printer
+-do-
+units
+1
+12
+Laser jet printer
+-do-
+units
+3
+13
+LCD projector
+-do-
+units
+2
+14
+Video
+ 
+Conference
+System  including  TV,
+Camera  and  Sound
+System
+-do-
+units
+2
+15
+Student
+ 
+Feedback
+System
+-do-
+units
+55
+16
+UPS 1 KVA Offline with
+15 minutes backup
+-do-
+units
+55
+17
+UPS 5 KVA  Online with
+120 minutes backup
+-do-
+Units
+3
+Licensed Software
+(Academic in Nature) with 1 Year 'updates & patches
+support. Software License shall be in the name of the
+IT Centre (at host country)
+18
+Windows  Server  Std
+2012 R2
+Single OLP 64-bit,(AE) 
+-do-
+units
+4
+19
+Windows Server CAL, AE
+-do-
+units
+55
+20
+SQL Server
+Standard Edition 2012 
+Win 32 Single OLP 64-
+bit, AE
+-do-
+units
+4
+21
+SQL CAL 2012 Sngl OLP
+-do-
+units
+55
+22
+Visual Studio Pro
+2012 Single OLP 64-bit, 
+AE
+-do-
+units
+55
+23
+Office Professional Plus
+2012 Single
+OLP 64-bit, AE
+-do-
+units
+55
+24
+Oracle 
+11g 
+Standard
+Edition (1 CPU)
+-do-
+units
+1
+25
+Oracle 
+11g 
+Standard
+Edition media and ATS 
+-do-
+units
+1
+26
+Red Hat Enterprise Linux
+ES (latest)
+-do-
+units
+1
+27
+JDK 1.5 or latest
+-do-
+units
+55
+28
+Latest Anti-virus for PCs
+-do-
+units
+55
+29
+Latest 
+Anti-virus 
+for
+servers
+-do-
+units
+4
+30
+Self  Paced  Learning
+Modules- Communication
+in English 
+-do-
+Units
+55
+31
+Self  Paced  Learning
+Modules for IT 
+-do-
+units
+55
+Passive components
+32
+Material for LAN Cabling 
+-do-
+Lumpsum
+1
+33
+Networking 
+racks 
+12U
+with front glass door,
+cable manager fan, AC
+-do-
+units
+4
+25
+
+[Page 26]
+distribution box
+34
+Rack 42 U with rack kit &
+international 
+socket
+PDUs
+-do-
+units
+1 
+35
+Interactive White Board
+with stand
+units
+2
+Services
+36
+LAN Cabling 
+Lumpsum
+1
+37
+Charges  for  Installation
+and  Setup  of  IT
+infrastructure
+lumpsum
+1
+For CEIT , Commonwealth of Dominica (CD):
+38
+Desktop Computers
+ As per Tender 
+units
+80
+39
+Servers
+-do- 
+units
+4
+40
+Tape Library
+-do-
+units
+1
+41
+Backup software
+-do-
+units
+1
+42
+KVM switch
+-do-
+units
+1
+43
+Networking Core Switch
+-do-
+units
+1
+44
+Networking Edge switch
+-do-
+units
+5
+45
+Firewall
+-do-
+units
+1
+46
+Router
+-do-
+units
+1
+47
+Scanner
+-do-
+units
+4
+48
+Multi-function printer
+-do-
+units
+1
+49
+Laser jet printer
+-do-
+units
+4
+50
+LCD projector
+-do-
+units
+3
+51
+Video Confrence System
+including TV,Camera and
+Sound System
+-do-
+units
+3
+52
+Student
+ 
+Feedback
+System
+-do-
+units
+80
+53
+UPS 1 KVA Offline with
+15 minutes backup
+-do-
+units
+80
+54
+UPS 5 KVA  Online with
+120 minutes backup
+-do-
+Units
+3
+Licensed Software
+(Academic  in  Nature)  with  1  Year  'updates  &
+patches. Software License shall be in the name
+of the IT Centre (at host country)
+55
+Windows  Server  Std
+2012 R2
+Single OLP 64-bit,(AE) 
+-do-
+units
+4
+56
+Windows Server CAL, AE
+-do-
+units
+80
+57
+SQL Server
+Standard Edition 2012 
+Win 32 Single OLP 64-
+bit, AE
+-do-
+units
+4
+58
+SQL CAL 2012 Sngl OLP
+-do-
+units
+80
+59
+Visual Studio Pro
+2012 Single OLP 64-bit, 
+AE
+-do-
+units
+59
+60
+Office Professional Plus
+2012 Single
+OLP 64-bit, AE
+-do-
+units
+80
+61
+Oracle 
+11g 
+Standard
+-do-
+units
+1
+26
+
+[Page 27]
+Edition (1 CPU)
+62
+Oracle 
+11g 
+Standard
+Edition media and ATS 
+-do-
+units
+1
+63
+Red Hat Enterprise Linux
+ES (latest)
+-do-
+units
+1
+64 
+JDK 1.5 or latest
+-do-
+units
+80
+65
+Latest Anti-virus for PCs
+-do-
+units
+80
+66
+Latest 
+Anti-virus 
+for
+servers
+-do-
+units
+4
+67
+Self  Paced  Learning
+Modules for IT 
+-do-
+units
+80
+Passive components
+68
+Material for LAN Cabling 
+-do-
+Lumpsum
+1
+69
+Networking 
+racks 
+12U
+with front glass door,
+cable manager fan, AC
+distribution box
+-do-
+units
+4
+70
+Rack 42 U with rack kit &
+international 
+socket
+PDUs
+-do-
+units
+1 
+71
+Interactive White Board
+with stand
+-do-
+units
+3
+Services
+-do-
+72
+Lan Cabling 
+-do-
+Lumpsum
+1
+73
+Charges  for  Installation
+and  Setup  of  IT
+infrastructure
+-do-
+lumpsum
+1
+For CEIT ,Panama:
+74
+Desktop Computers
+ As per Tender 
+units
+60
+ 
+75
+Networking Edge switch
+-do-
+units
+2
+ 
+76
+Router
+-do-
+units
+2
+ 
+77
+Access Points
+-do-
+units
+10
+ 
+78
+Video Confrence System
+including TV,Camera and
+Sound System
+-do-
+units
+1
+79
+UPS 1 KVA Offline with
+15 minutes backup
+-do-
+units
+110
+ 
+ 
+Licensed Software
+(Academic  in  Nature)  with  1  Year  'updates  &
+patches support. Software License shall be in
+the name of the IT Centre (at host country)
+80
+Visual Studio Pro
+2012 Single OLP 64-bit, 
+AE
+-do-
+units
+107
+ 
+81
+Office Professional Plus 
+2012 Single OLP 64-bit, 
+AE
+-do-
+units
+107
+ 
+82
+Latest Anti-virus for PCs
+-do-
+units
+107
+ 
+ 
+Passive components
+ 
+ 
+ 
+ 
+83
+Material for LAN Cabling 
+-do-
+Lumpsum
+1
+ 
+ 
+Services
+ 
+ 
+ 
+ 
+84
+Lan Cabling 
+ -do-
+Lumpsum
+1
+ 
+85
+Charges  for  Installation
+and Setup of IT Infra
+ -do-
+lumpsum
+1
+ 
+27
+
+[Page 28]
+SECTION V-
+COMMERCIAL PRICE SCHEDULE
+PLEASE SUBMIT ONLY THE PART FOR WHICH BIDDING
+PART- A ( TRAINING)
+S.
+N
+o.
+Item 
+Description
+Specifi
+cation
+Unit
+Qua
+ntity
+CIF Rate 
+per unit 
+(INR)
+Taxes & 
+Duties (as 
+applicable
+) per unit*
+Unit Price 
+(INR)
+Total 
+Amount 
+(INR)
+(in figures and words)
+(X)
+(A)
+(B)
+(C=A+B)
+(Y=C*X)
+For CEIT , Costa Rica:
+1
+Bilingual 
+Centre head 
+As per
+Tender
+Per 
+person 
+per 
+month
+24
+2
+Trainers 
+As per
+the 
+Tender
+Per 
+person 
+per 
+month
+48
+3
+Coursware 
+Kit
+As per
+Tender
+Per set 1200
+4
+Professional 
+and 
+establishment 
+Charges. 
+As per
+Tender
+Lump 
+Sum 
+per 
+month
+24
+For CEIT , Commonwealth of Dominica (CD):
+5
+Centre head 
+As per
+Tender
+Per 
+person 
+per 
+month
+24
+6
+Trainers 
+As per
+the 
+Tender
+Per 
+person 
+per 
+month
+48
+7
+Coursware 
+Kit
+As per
+Tender
+Per set 1000
+8
+Professional 
+and 
+establishment 
+Charges. 
+As per
+Tender
+Lump 
+Sum 
+per 
+month
+24
+For CEIT , Panama :
+28
+
+[Page 29]
+9
+Trainers 
+As per
+the 
+Tender
+Per 
+person 
+per 
+month
+12
+10
+Coursware 
+Kit
+As per
+Tender
+Per set 25
+11
+Professional 
+and 
+establishment 
+Charges. 
+As per
+Tender
+Lump 
+Sum 
+per 
+month
+3
+Total
+________
+Rupees 
+Note
+* Except customs and other applicable taxes in so far import of equipment from India or 
+third country at host country is concerned in connection with setting up IT Centre.
+PART-B(Physical IT Infrastructure)
+S. 
+No
+.
+Item 
+Description
+Spe
+cifi
+cati
+on
+Unit
+Qty
+CIF 
+Rate 
+per unit
+(INR)
+Taxes & 
+Duties (as
+applicabl
+e) per 
+unit*
+Unit 
+Price 
+(INR)
+Total 
+Amount 
+(INR)
+          (in figures and words)
+(A)
+(B)
+(C=A+B)
+(Y=C*X)
+For CEIT , Costa Rica :
+1
+Desktop
+Computers
+ As
+per
+Ten
+der 
+units
+55
+2
+Servers
+-do- units
+4
+3
+Tape Library
+-do-
+units
+1
+4
+Backup software
+-do-
+units
+1
+5
+KVM switch
+-do-
+units
+1
+6
+Networking Core
+Switch
+-do-
+units
+1
+7
+Networking Edge
+switch
+-do-
+units
+5
+8
+Firewall
+-do-
+units
+1
+9
+Router
+-do-
+units
+1
+29
+
+[Page 30]
+10
+Scanner
+-do-
+units
+3
+11
+Multi-function
+printer
+-do-
+units
+1
+12
+Laser jet printer
+-do-
+units
+3
+13
+LCD projector
+-do-
+units
+2
+14
+Video
+Conference
+System including
+TV, Camera and
+Sound System
+-do-
+Units
+2
+15
+Student
+Feedback
+System
+-do-
+units
+55
+16
+UPS 
+1 
+KVA
+Offline with 15
+minutes backup
+-do-
+units
+55
+17
+UPS 
+5 
+KVA
+Online with 120
+minutes backup
+-do-
+Units
+3
+Licensed
+Software
+(Academic  in  Nature)  with  1  Year  'updates  &  patches.
+Software License shall be in the name of the IT Centre (at
+host country)
+18
+Windows  Server
+Std 2012 R2
+Single OLP 64-
+bit,(AE) 
+-do-
+units
+4
+19
+Windows Server
+CAL, AE
+-do-
+units
+55
+20
+SQL Server
+Standard Edition
+2012 Win 32 
+Single OLP 64-
+bit, AE
+-do-
+units
+4
+21
+SQL  CAL  2012
+Sngl OLP
+-do-
+units
+55
+22
+Visual
+ 
+Studio
+Pro
+2012 Single OLP
+64-bit, AE
+-do-
+units
+55
+23
+Office
+Professional
+Plus 2012 Single
+OLP 64-bit, AE
+-do-
+units
+55
+24
+Oracle 
+11g
+Standard Edition
+(1 CPU)
+-do-
+units
+1
+25
+Oracle 
+11g
+Standard Edition
+media and ATS 
+-do-
+units
+1
+26
+Red 
+Hat
+Enterprise Linux
+ES (latest)
+-do-
+units
+1
+27
+JDK 1.5 or latest
+-do-
+units
+55
+28
+Latest Anti-virus
+-do-
+units
+55
+30
+
+[Page 31]
+for PCs
+29
+Latest Anti-virus
+for servers
+-do-
+units
+4
+30
+Self
+ 
+Paced
+Learning
+Modules-
+Communication
+in English 
+-do-
+Units
+55
+31
+Self
+ 
+Paced
+Learning
+Modules for IT 
+-do-
+units
+55
+Passive
+components
+32
+Material for LAN
+Cabling 
+-do-
+Lum
+psum
+1
+33
+Networking
+racks 12U with
+front glass door,
+cable 
+manager
+fan, 
+AC
+distribution box
+-do-
+units
+4
+34
+Rack 42 U with
+rack 
+kit 
+&
+international
+socket PDUs
+-do-
+units
+2 
+35
+Interactive White
+Board with stand
+units
+2
+Services
+36
+Lan Cabeling 
+Lum
+psum
+1
+37
+Charges
+ 
+for
+Installation  and
+Setup  of  IT
+infrastructure
+lump
+sum
+1
+For CEIT , Commonwealth of Dominica (CD):
+38
+Desktop
+Computers
+ As
+per
+Ten
+der 
+units
+80
+39
+Servers
+-do- units
+4
+40
+Tape Library
+-do-
+units
+1
+41
+Backup software
+-do-
+units
+1
+42
+KVM switch
+-do-
+units
+1
+43
+Networking Core
+Switch
+-do-
+units
+1
+44
+Networking Edge
+switch
+-do-
+units
+5
+45
+Firewall
+-do-
+units
+1
+46
+Router
+-do-
+units
+1
+47
+Scanner
+-do-
+units
+4
+48
+Multi-function
+printer
+-do-
+units
+1
+49
+Laser jet printer
+-do-
+units
+4
+31
+
+[Page 32]
+50
+LCD projector
+-do-
+units
+3
+51
+Video Confrence
+System including
+TV,Camera  and
+Sound System 
+-do-
+units
+3
+52
+Student
+Feedback
+System
+-do-
+units
+80
+53
+UPS  1  KVA
+Offline  with  15
+minutes backup
+-do-
+units
+80
+54
+UPS  5  KVA
+Online  with  120
+minutes backup
+-do-
+Units
+3
+Licensed
+Software
+(Academic in Nature) with 1 Year 'updates & patches support.
+Software License shall be in the name of the IT Centre (at host
+country)
+55
+Windows  Server
+Std 2012 R2
+Single OLP 64-
+bit,(AE) 
+-do-
+units
+4
+56
+Windows Server
+CAL, AE
+-do-
+units
+80
+57
+SQL Server
+Standard Edition
+2012 Win 32 
+Single OLP 64-
+bit, AE
+-do-
+units
+4
+58
+SQL  CAL  2012
+Sngl OLP
+-do-
+units
+80
+59
+Visual
+ 
+Studio
+Pro
+2012 Single OLP
+64-bit, AE
+-do-
+units
+80
+60
+Office
+Professional
+Plus 2012 Single
+OLP 64-bit, AE
+-do-
+units
+80
+61
+Oracle 
+11g
+Standard Edition
+(1 CPU)
+-do-
+units
+1
+62
+Oracle 
+11g
+Standard Edition
+media and ATS 
+-do-
+units
+1
+63
+Red 
+Hat
+Enterprise Linux
+ES (latest)
+-do-
+units
+1
+64
+JDK 1.5 or latest
+-do-
+units
+80
+65
+Latest Anti-virus
+for PCs
+-do-
+units
+80
+66
+Latest Anti-virus
+for servers
+-do-
+units
+4
+67
+Self
+ 
+Paced
+Learning
+-do-
+units
+80
+32
+
+[Page 33]
+Modules for IT 
+Passive components
+68
+Material for LAN
+Cabling 
+-do-
+Lum
+psum
+1
+69
+Networking
+racks 12U with
+front glass door,
+cable 
+manager
+fan, 
+AC
+distribution box
+-do-
+units
+4
+70
+Rack 42 U with
+rack 
+kit 
+&
+international
+socket PDUs
+-do-
+units
+1 
+71
+Interactive White
+Board with stand
+-do-
+units
+3
+Services
+72
+Lan Cabling 
+-do-
+Lum
+psum
+1
+73
+Charges
+ 
+for
+Installation  and
+Setup  of  IT
+infrastructure
+-do-
+lump
+sum
+1
+For CEIT ,Panama:
+74
+Desktop
+Computers
+-do-
+units
+60
+75
+Networking Edge
+switch
+-do-
+units
+2
+76
+Router
+-do-
+units
+2
+77
+Access Points
+-do-
+units
+10
+78
+Video Confrence
+System including
+TV,Camera  and
+Sound System
+-do-
+units
+1
+79
+UPS  1  KVA
+Offline  with  15
+minutes backup
+-do-
+units
+110
+ 
+Licensed
+Software
+(Academic  in  Nature)  with  1  Year  'updates  &  patches
+support. Software License shall be in the name of the IT
+Centre (at host country)
+80
+Visual
+ 
+Studio
+Pro
+2012 Single OLP
+64-bit, AE
+-do-
+units
+107
+81
+Office 
+Professional 
+Plus 2012 Single
+OLP 64-bit, AE
+-do-
+units
+107
+82
+Latest  Anti-virus
+for PCs
+-do-
+units
+107
+Passive
+components
+83
+Material for LAN
+-do-
+units
+1
+33
+
+[Page 34]
+Cabling 
+ 
+Services
+ 
+ 
+84
+Lan Cabling 
+-do-
+Lum
+psum
+1
+85
+Charges
+ 
+for
+Installation  and
+Setup  of  IT
+infrastructure
+-do-
+Lum
+psum
+ 1
+Total
+Rupees 
+Note
+* Except customs and other applicable taxes in so far import of equipment from India or 
+third country at host country is concerned in connection with setting up IT Centre.
+34
+
+[Page 35]
+SECTION-VI
+TECHNICAL SPECIFICATIONS 
+ 1  Technical Specifications
+ 1.1  Only single make and model of Hardware/Software must be offered in the bid. Offer
+of multiple models would make bid liable for rejection.
+ 1.2  Trainer’s  qualification  requirement  and  Salient  technical  specifications  of
+Hardware/Software  are  given  as  in  Anx  1(B).  Bidders  need  to  provide  the
+compliance and actual values of model proposed in the Annexure 1(B) it self and
+shall submit it, as part of their technical Bid.
+ 1.3  Catalogues/ Brochure/Plan(i.e Training Schedule etc.) giving detailed specifications
+of each item must be attached with the technical bid.
+ 1.4  Compliance of technical specification shall be marked clearly and shall corroborate
+with the Technical Manual of the Product /Plan (  Printed Technical Manual/
+Literature  showing the technical specifications is required to be submitted by the
+bidder along with the technical bid). Vague replies or non compliance will make
+the bid liable for rejection.
+ 2  Courses to be run:
+ 2.1  Following courses are required to be run in two years at  CEIT ,Costa
+Rica:
+Sl.No
+Description of courses
+Modules
+1
+Software
+ 
+Business
+Processes
+Understanding software business process and SDLC
+Object Oriented Analysis and Design using UML 
+2
+Advanced  Web  Site
+Design
+Understanding  site  design  methodology  &  Development  –
+Developing portable Web Application Using XML 
+3
+Advanced Linux
+Linux  Networking  and  Security  administration
+ 
+Enterprise  Directory  Services  and  Authentication
+ 
+Linux Advanced administration and Troubleshooting 
+4
+Managing and Planning
+Strategic & Operational Planning
+Service Management ITIL
+ Project Management 
+5
+Trainer Training
+Training to trainers(at least 25 )for above subjects
+ 2.2  Following  courses  are  required  to  be  run  in  two  years  at  CEIT  ,
+Commonwealth of Dominica (CD):
+35
+
+[Page 36]
+Sl.No
+Description of courses
+Modules
+1
+Developing Web Site
+Web content Development
+Developing Web Based Applications using PHP  or .net 
+2
+Operating
+ 
+Systems-
+Basic Linux
+Installing managing trouble shooting Windows 7 or UBANTU 
+ TCP/IP fundamentals and concept 
+ Essentials of Linux Operating System 
+ Linux System Administration 
+3
+Free Software and basic
+Application
+Fundamental of free software 
+Legal aspects of free software
+IT Fundamentals and office productivity tools 
+4
+Database
+Introduction of relational database
+Implementing a DB design on SQL server & Postgres SQL 
+Administering database on SQL Server & Postgres SQL 
+5
+Developing with Java
+Developing object based application in Java
+Developing Enterprise wide application using j2EE 
+Developing  Enterprise  wide  Applications  using  J2EE  Web
+components and Web services 
+6
+Software
+ 
+Business
+Processes
+Understanding software business process and SDLC 
+Object Oriented Analysis and Design using UML 
+7
+Advanced  Web  Site
+Design
+Understanding  site  design  methodology  &  Development
+Developing protable Web Application Using XML 
+8
+Advanced  topics  in
+Java
+Developing  Enterprise  Wide  Application  using  EJB
+ 
+W/N-Understanding J2EE Architect 
+9
+Advanced Linux
+Linux Networking and Security administration 
+Enterprise  Directory  Services  and  Authentication
+ 
+ Linux Advanced administration and Troubleshooting 
+10
+Managing and Planning
+Strategic & Operational Planning
+IT Service Management ITIL
+Project Management
+11
+Software Engineering
+Software quality management
+Methodologies and software development standards
+Process Engineering
+Audit for information systems
+Modeling and database management
+36
+
+[Page 37]
+12
+ IT Security
+ISO 27001, ISO 27002, ISO 27003, ISO 27004, ISO 27005
+Audit of Security IT Systems
+13
+ Advance Computing
+Real time operative systems
+Language C++
+Java
+14
+ IT management
+Project management for information technologies
+IT services management
+Data center management
+Biometric recognition techniques
+15
+Trainer Training
+Training to trainers(at least 25 )for above subjects
+ 2.3  Following  courses  are  required  to  be  run  in  three  months  at  CEIT
+,Panama
+Sl.No
+Description of courses
+Modules
+1
+Trainer Training
+Training to trainers(at least 25 )on following  subjects:
+Oracle Database Administration,
+Java (Web Services application Development)
+Visual Studio (Web Services application Development)
+Designing and development of websites.
+Project management
+Linux ,Networking Implementation and administration
+Android-Mobile Tech
+Graphics Design- 3D animation.
+37
+
+[Page 38]
+ANNEXURE – 1
+PROFORMA FOR SUBMISSION OF BID 
+(Bid Form)
+(Bidders are required to fill up all the blank spaces in this Bid Proforma and its enclosures)
+Bid No._________________
+ Date of Opening:
+To __________________
+     ___________________
+     ___________________
+1. Having  examined  the  ‘Instructions  to Bidders’  ‘General  Conditions  of Contract’,
+‘Technical Specifications’, ‘Schedule of Requirements’ and the Proformas /Annexures for
+the above Bid, we the undersigned offer to supply, test and commission and guarantee the
+whole of the said Scope of Work in conformity with the said General Conditions of
+Contract  and  Technical  Specifications  for  the  sum  mentioned  in  Commercial  Bid
+submitted separately, or such other sum as may be ascertained in accordance with the
+conditions.  The details of the items/services for which we have submitted our Technical
+Bid and for which we have quoted the rates in our Financial Bid are given in required
+formats.
+2.We have independently considered each and every clause of this tender document and
+give our informed consent to them.
+3.  We  undertake,  if  our  Bid  is  accepted,  we  shall  commence  the  supply  of
+items/services/manpower as per delivery schedule offered by us so as to fulfill our
+obligations as per this Tender Document to full satisfaction of purchaser.
+4. If our Bid is accepted we will furnish a Bank Guarantee for Performance as security for
+the due performance of the Contract, as per the requirement of tender.
+5. We have  independently  considered  the  amount  shown in ‘General  Conditions  of
+Contract’ as per-estimated liquidated damages and damages and agree that they represent
+a fair estimate of the damages likely to be suffered by you in the event of the work not
+being completed in time.
+6. We agree to abide by this Bid for a minimum period of  180 days  from the date of
+opening and it shall be remain binding upon us and may be accepted at any time before the
+expiration of that period or any extended period mutually agreed to.
+7. This bid, together with any further clarification/confirmation given by us and your
+written acceptance thereof, shall constitute a binding contract between us.
+8. We understand that you are not bound to accept the lowest or any offer you may receive
+against this bid.
+9. If our Bid is accepted, we understand that we are to be held solely responsible for the
+due performance of the Contract.
+10. All enclosures and relevant documents forming a part of the proposal are complete and
+attached herewith duly verified by officials authorized to do the same.
+Dated________________ day of ________________ 2013
+Signature & Name: ____________________ in the capacity of__________________ duly
+authorised to sign tenders for and on behalf of______________(Name and Address)
+Witness Signature of Bidder
+Name ________________________________________________________
+Address_______________________________________________________
+Occupation____________________________________________________
+38
+
+[Page 39]
+Annexure- 1(A)
+Particulars of  Bidders
+( Bidders must submit this table duly filled up & signed along with the Technical
+Bid)
+Item
+Details
+Compliance
+with Tender
+(Yes/No)
+i
+Name  and  Address  of  the
+Company/firm  and  its  incorporation
+details
+ii
+Bidding for which of this tender (Part
+1/Part 2 / Both Parts)?
+iii
+ Tender fee details.
+iv
+EMD details
+v
+VAT/CST  Service  Tax  number/RC
+details.
+vi
+Last three financial years annual turn
+over  details.(If  participating  in  both
+parts, give separately for each part)
+vi
+Work  Experience  Details.  .(If
+participating  in  both  parts,  give
+separately for each part)
+vii
+Details of contact person to whom all
+references shall be made regarding this
+tender
+Signature of the Bidder with name 
+&Designation.
+39
+
+[Page 40]
+PART-A(Training)
+S.
+N
+o.
+Item 
+Description
+Specification
+Details 
+of 
+offering
+Complied
+(Y/N)
+1
+Bilingual 
+Centre 
+head/Center 
+Head 
+1.Shall  possess  BE/B.Tech/MCA/  MSc  in
+Computer/  IT/Electronics  with  at  least  60%
+marks.
+2.Shall also have Mtech/MBA with at least 60%
+marks.
+3.Shall  have  atleast  7  years  IT/Training
+experience.
+3.Shall  be  certified  on  at  least  one  relevant
+technology platform.
+4.Shall be fluent in Spanish and English, in case
+of  Costa  Rica  only.  For  Commonwealth  of
+Dominica , he/she must be fluent in English
+only.
+2
+Trainers 
+1.Shall
+ 
+possess
+ 
+BE/B.Tech/MCA/
+MSc(Computer or IT)  with at least 60% marks.
+2.Shall be on bidder’s rolls for last one year.
+(Form 16 attached)
+ 3.Shall  have  atleast  5  years  IT/Training
+experience.
+4. Shall be certified on at least one relevant
+technology platform.
+3
+Coursware 
+Kits
+Notebooks, CDs, Media and other customised
+training material as required. Each kit must
+also  contain  at  least  one  self  contained
+reference  textbook  with
+ International
+Standard Book Number (ISBN).
+40
+
+[Page 41]
+PART –B (Infrastructure)
+Annexure - 1 (B) Technical Specification and Compliance Statement
+(Bidder must submit this table duly filled up & signed along with the Technical Bid)
+Sr.
+No.
+Items
+Technical Specifications
+Offered
+Model &
+Specification
+Complied
+(Y/N)
+1
+Desktop 
+Processor
+Minimum: Intel Core i5-4570 Processor 3.6 
+GHz or higher 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cache
+Minimum: 6 MB Cache 
+Chipset
+Minimum: Intel H81 Express chipset 
+Memory
+Minimum: 4GB Memory expandable upto 16
+GB (Minimum 8GB in case of PANAMA 
+supplies)
+Hard Disk Drive
+Minimum: 500 GB SATA  (Minimum 1 TB in 
+case of PANAMA Supplies)
+Optical Drive
+DVD  Drive 
+Graphics
+Minimum: Intel HD Graphics 
+Audio 
+Integrated OEM supported Audio along with 
+headphone with mic
+Gigabit Network
+Integrated 10/100/1000 Ethernet
+Keyboard & Mouse
+PS/2 or USB - Keyboard & Optical Mouse 
+Power Supply 
+Upto 320 W aPFC power supply 
+Certification
+Desktop shall be ENERGY STAR qualified & 
+EPEAT Gold certified or better
+Monitor
+Minimum: 18.5” LED/ TFT 
+Operating System
+Microsoft  Windows 8 64 Bit 
+Note
+Computers being supplied to PANAMA 
+must have wireless card compatible to ac-
+cess point being supplied 
+2.1
+Servers
+ 
+Processor
+Minimum: Intel Xeon E5-2690 2.9 GHz 8 
+Core Processor or Higher
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cache
+Minimum :20 MB Level 3 Cache, 8.0GT/s QPI 
+or higher
+Chipset
+Intel C600 Series Chipset or higher 
+Memory
+Server shall be populated with 16 GB Mem-
+ory 1333 MHz Registered ECC DIMM. Server 
+Shall support 24 DIMM Slots or higher
+RAID Controllers
+Integrated hardware RAID Controller and 
+shall support RAID 0,1,5 and have 512MB 
+Cache
+Ethernet
+4 x 1 GB NIC or higher
+Slots
+2 x PCIe X16 + 4 x PCIe X8
+USB Ports
+Minimum: 4 USB Ports, 1 Video, 1 Serial port
+41
+
+[Page 42]
+Power Supply
+Redundant Power Supply of at least 460 W 
+(90% Efficient)
+FAN
+Hot-Swap (2+2) Redundant FAN with N+1 re-
+dundancy standard
+Additional Features & 
+Security
+Remote management, Asset Tracking includ-
+ing serial numbers of the servers & sub-com-
+ponents
+Optical Drive
+DVD RW or Higher 
+Form Factor
+Rack based (at least 2U or higher)
+Industry Standard 
+Compliance
+Minimum: ACPI 2.0b Compliant, PCIe 3.0 
+Compliant, PXE Support, WOL Support, 
+Microsoft Logo certifications, USB 2.0 Com-
+pliant, etc.
+OS Support
+Server shall support various Operating Sys-
+tems such as Windows Server, RHEL, SLES, 
+Oracle, VM Ware, Citrix Xen Server
+HDD
+3 x 300 GB SAS or higher HDD capacity
+2.2
+Monitor 
+17” LCD/ TFT Rack Based Monitor with in-
+built Keyboard & Mouse (from Same OEM of 
+Server Make) 
+3
+Tape Library 
+One LT0 6 Internal tape drive with minimum 
+1 U rack mount configuration or higher with 
+minimum 5 x LTO 6 media.  uniform com-
+patability & writing. 
+ 
+ 
+ 
+4
+Backup software 
+Back up of the Oracle 11g database server 
+through the LAN. The tape drive shall be 
+connected to the separate backup server. 
+The backup software must support LAN 
+based or LAN free backup. Backup shall be 
+agents based with one management server 
+and distributed client agents. The licensing 
+shall be unlimited number of back agents. 
+The backup software shall support online 
+backup and recovery. The backup shall be 
+supplied with 1 drive license. The backup 
+management shall be done through a win-
+dow-based server. The backup software shall
+be supplied with backup agents for Oracle 
+11g.
+ 
+ 
+5
+KVM Switch
+KVM switch
+8-ports or higher standard KVM switch with 
+Minimum 3 + 2 additional cable set
+ 
+ 
+6
+Networking Switch (Core)
+ 
+ 
+42
+
+[Page 43]
+Core switch shall have 24 RJ-45 autosensing 10/100/1000 ports (IEEE 
+802.3 Type 10BASE-T, IEEE 802.3u Type 100BASE-TX, IEEE 802.3ab 
+Type 1000BASE-T); Duplex: 10BASE-T/100BASE-TX: half or full; 
+1000BASE-T full only with 4 dual-personality ports; auto-sensing 
+10/100/1000Base-T or SFP, 1 RJ-45 serial console port & the Switch 
+shall have provision for 2 expansion module slots, Minimum:128 MB 
+SDRAM, Minimum: 16 MB flash; Packet buffer size: Minimum 1MB,  
+Performance Through Put: Minimum 100 mpps & Switching Capacity: 
+Minimum 140 Gbps, Routing Table Size: Minimum 32 Entries, MAC Ad-
+dress Size: Minimum 16k enteries, Switch shall be capable of support-
+ing Stacking in addition to the above mentioned ports (if requried) & 
+QoS: Broadcast Control, Traffic Policing & Managment features: Se-
+cure Web GUI, SNMPv1, v2c, and v3, Remote Monitoring, Switch shall 
+support iPV4 & iPV6. The Switch shall be RoHS certified.
+ 
+ 
+7
+Networking Switch (Edge)
+ 
+ 
+Edge switch shall have 24 RJ-45 auto-negotiating 10/100/1000 ports 
+(IEEE 802.3 Type 10BASE-T, IEEE 802.3u Type 100BASE-TX, IEEE 
+802.3ab Type 1000BASE-T)plus 4 1000BASE-X SFP ports, or a combi-
+nation, 1 RJ-45 console port to access limited CLI port, Flash: Mini-
+mum: 128MB, RAM: Minimum 128MB RAM, Packet Buffer Size: 256KB
+or higher, Performance Through put: Upto 40 mpps, Switching Ca-
+pactiy: Minimum: 56 Gbps, Routing Table Size: Minimum 32 enteries, 
+MAC Address Size: Minimum 8000 enteries, Management: Web 
+Browser, SNMP Manager, Limited Command line interface. Switch 
+shall support Stacking / Single IP management for multiple switches.
+ 
+ 
+8
+Firewall
+ 
+ 
+Firewall shall support: Minimum 500 Mb/s; Firewall + IPS throughput: 
+Minimum 250 Mb/s; Firewall + IPS+ Application control: Minimum 512
+bytes; IPSec VPN: Minimum 200 Mb/s; IPSec VPN tunnels: 1k or above;
+Concurrent  sessions: Minimum 1,50,000 or higher; New connections 
+per second: Minimum 10,000 or higher, Network Connectivity: Fire-
+wall shall have Eight 10/100/1000 RJ-45 ports & minimum One 
+10/100/1000 RJ-45 High Availability port; Management: Firewall shall 
+support: Manageable via Security Management System (SMS), com-
+mand-line SSH, HTTPS Web browser, Management Information Base 
+(MIB).
+ 
+ 
+9
+Router
+ 
+ 
+43
+
+[Page 44]
+Router shall support I/O ports and slots:  2 x RJ-45 autosensing 
+10/100/1000 WAN ports, 8 x RJ-45 autosensing 10/100/1000 LAN 
+ports & 3 expansion slots,  IPv6 Ready Certified, Performance 
+Throughput: Minimum 450 Kpps or higher, Routing Capacity: Mini-
+mum 160MB/s, Routing Table Size: Minimum: 1k enteries, RAM: Min-
+imum: 256MB RAM, Compact Flash: Minimum 256MB, 1 USB 2.0, 1 Rj 
+- 45 Console port, Managment: Command-line interface; Web 
+browser; out-of-band management, SNMP Manager; Telnet; RMON1, 
+FTP, IEEE 802.3 Ethernet, Protocol: Router shall support iPV4 & iPV6, 
+Static RIP, OSPF, BGP & IS-IS routing protocol. Embedded security fea-
+tures: Minimum hardware-based encryption, firewall, NAT, and VPNs, 
+QoS: Traffic Policing, Congestion Management.
+ 
+ 
+10
+Scanner with 50 sheet ADF
+ 
+ 
+Optical Scanning Resolution
+Up to 2400 dpi
+ 
+ 
+ 
+ 
+ 
+ 
+Hardware Scanning Resolution
+Up to 2400 x 2400 dpi
+Standard Connectivity
+HI-Speed USB-Compatible 
+with USB 2.0
+11
+Multifunction Printer
+ 
+ 
+Print speed black (normal, A4)
+Minimum: 33 PPM or higher
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Duty cycle (monthly, A4)
+Up to 50000 Pages
+Print technology
+Monochrome Laser
+Print quality black
+1200 x 1200 dpi (mono-
+chrome)
+Paper handling standard/input
+Minimum 250-sheet media 
+input tray,  50-sheet Auto-
+matic Document Feeder 
+(ADF)
+Paper handling standard/ output
+Minimum 150-sheet output 
+bin
+Duplex print options
+Automatic (Standard)
+Standard memory
+Minimum: 256MB
+Standard printer languages
+PCL 5e, PCL 6, Postscript 
+level 3 emulation, direct PDF 
+(v1.7) printing
+Scanner Specifications
+Scanner Specification
+Scan type
+Flatbed, ADF
+Optical scanning resolution
+Up to 1200 dpi (mono-
+chrome)
+Scanning Resolution
+Up to 1200 dpi (Enhanced), 
+Up to 1200 x 1200 Dpi 
+(Monochrome), Up to 600 x 
+600 Dpi (Color),
+Auto document feeder capacity
+Standard, 50 Pages with dual
+head scanner
+44
+
+[Page 45]
+Copy Speed (Letter, A4)
+Black: Up to 33 PPM (Letter) 
+or higher
+12
+Laser Jet Printer
+ 
+ 
+Print speed black (normal, A4)
+Minimum: 33 PPM or higher 
+A4 Black
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Print quality black (best)
+1200 x 1200 dpi or higher
+Print technology
+Monochrome Laser
+Duty cycle (monthly, A4)
+Up to 50000 pages or higher
+Standard memory
+Minimum: 256 MB
+Processor speed
+Minimum: 800 MHz
+Standard printer languages
+PCL 5e, PCL 6, Postscript 
+Level 3 emulation, direct PDF
+(v 1.7) printing
+Standard paper trays
+Minimum 1 or higher
+Paper handling input / output
+150-Sheet Output Bin, Inte-
+grated Duplex
+Duplex print options
+Automatic (Standard)
+Media sizes supported
+Minimum: A4; 
+Standard connectivity
+Hi-Speed USB 2.0 port, Fast 
+Ethernet embedded print 
+server
+13
+LCD Projector
+ 
+ 
+Technology
+LCD
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LCD Size
+0.55 inch
+Projection Lens (F-Number)
+1.44
+Focal Length
+16.7 mm
+Zoom Ratio
+1 - 1.35
+Lamp Type
+Min: 200 W 
+White Light Output
+Min: 2600 lms
+Colour Light Output
+Min: 2600 lms
+Throw Ratio
+1.45 - 1.96
+Resolution
+SVGA
+Lamp life
+Min: 4000 Hrs
+Contrast Ratio
+Min: 8000:1
+Sound output
+Max: 4 W
+USB Display
+Allow image, control and 
+sound transmission from 
+computer to projector via 
+simple USB cable
+14
+Video Conferencing System ( Specification as given below)
+45
+
+[Page 46]
+Video Conferencing System 
+The video codec (ITU standard) shall support the following at a minimum:1920x1080 resolution 
+(Native)The video conference system must support a minimum of two external Full HD  displays, 
+1920x1080p, for a crystal-clear picture and data-sharing The video conference system must have 
+automatic noise reduction, automatic  gain control and echo cancellation The video conference sys-
+tem shall support a minimum of 10 camera presets The video conference system must support a 
+Full HD Pan Tilt Zoom - 10x optical zoom camera The video conference system shall support both 
+H.323 and SIPThe video conference system must support full duplex audio for natural  conversa-
+tions
+The video conference system must support video recording and streaming of  video from video end
+point to external recording server without any port loss,  while doing video conferencing
+The video codec’s capability or quality when sending and receiving dual streams   shall not be com-
+promised when recording to an external appliance
+The video conference system shall support auto-discovery address/directory  lookup
+The video conference system shall support NAT / firewall traversal (H.460 / SIP)
+The video conference system must provide the ability for IT staff to remotely see,  via the web, 
+snapshots of an ongoing conference 
+The system shall have either DVI or HDMI input for laptop for data sharing. The  system shall sup-
+port H.239
+The video conference system shall support two possible sources of video input
+The video conference system must have the ability to make video call on ISDN if  necessary- and 
+support up to 2 mbps-PRI
+The video conference system shall support minimum  of 128kbps
+The video conference system must have the ability to disable HTTPS and Telnet  services
+The video conference system must support Microsoft OCS
+The video conference system must support easy, out-of-box setup via web  interface
+The video conference system must support single cable HDMI/DVI connectivity  to an HD display. 
+The VC end point must support only High Definitions ports like  HDMI/DVI
+The video codec shall provide support for sending and receiving two separate  streams simultane-
+ously in either a point-to-point call or multipoint calls
+The system shall support intermediate resolution i.e. resolution from Standard 
+When experiencing packet loss, the codec shall first attempt to drop the  resolution of the call and 
+maintain the frame rate
+The video codec shall support the following audio and video standards:  H.261,H.263, H.263+, 
+H.264, G.711, G.722, G.722.1c, G.728, G.729 or better
+The video codec shall support audio 
+The video codec shall support a directly connected audio conference phone  with inbuilt speakers. 
+This help to pick up better audio quality
+The video codec shall support a fast Ethernet interface.
+The video codec shall be supplied with infrared remote control
+A third party programmable control device through the following interfaces: RS-232 or USB, Inter-
+net Protocol
+The video codec shall support both IPv4 and IPv6.
+The system shall have touch panel (external device) to control the functions of  video conferencing 
+unit such as dial, directory. This external device must be connected with video conferencing codec.
+ All items such as codec, tough panel and camera supplied shall be of same make 
+All items such as codec, touch panel and camera supplied shall be of same  make
+Audio Conference Phone
+46
+
+[Page 47]
+Audio Feature
+Omni Sound HD Wideband via USB. 
+Omni directional microphone.  
+Microphone: analog line 200–3300 Hz, USB 200–7000 Hz.  
+Pickup range of up to 30 m2, < 10 persons.  
+Loudspeakers:  Maximum volume 90 db SPL 0.5 m, 150-7000 Hz.  
+Equalizer: soft, neutral and bright.
+Connections
+Power supply: AC adapter 100-240 V AC/14 V DC. 
+Expansion microphones: modular 4/4. 
+Auxiliary: Modular 4/4 for wireless headset or PA system
+Directory
+Phonebook: Upto 50 contacts.
+Call groups: Upto 20 groups or higher.
+Recording:
+Supports SD memory cards up to 2 GB 
+Anti Theft Protection
+Anti-theft protection: Kensington security slot or equivalent
+Display & Keypad
+Display: Illuminated graphics LCD, 128x64 / Keypad: Alphanumerical 0–9, *, off hook/F, on hook, 
+mute, hold, volume up, volume down, 5 buttons for menu navigation, line (line mode), and 
+conference guide.
+Certifications
+Shall have certification such as TBR21, 47 CFR Part 68/TIA, IC CS-03 Issue 1999/01/01. / EMC: 
+EN301 489-1,3. EN 300 220-1,2, FCC subparts B and C. / Electrical safety: UL 60950-1, EN 60950-
+1:200.
+Wall Display Unit
+Screen Size:Minimum: 55'' LFD or above 
+Resolution:Minimum: 1920 x 1080
+Dynamic Contrast Ratio:Minimum: 100,000:1
+Audio:Integrated Audio
+Key feature:Slim & Light LFD with Built-in Lite
+Connectivity:Shall support RGB: Analog D-SUB, DVI-D, Video: HDMI, Component(CVBS Common) &
+Audio: Stereo mini Jack
+Special features
+Magic Clone (to USB), Auto Source, Switching & Recovery, Lamp Error, Detection, Super Clear 
+Coating, Temperature Sensor, RS232C/RJ45, MDC, Plug and Play (DDC2B), PIP/PBP, Video Wall (10 x
+10), Pivot Display, Image, Rotation, Button Lock, Smart Scheduling, Smart F/W update, Clock Bat-
+tery (80 hours Clock Keeping).
+Internal Player
+Processor: Minimum 1GHz Dual Core CPU, On-Chip Cache Memory L1 (I/D): Minimum: 32KB/32KB 
+L2 (Unified): 512KB, Clock Speed: Minimum: Clock Speed 1GHz CPU Dual, Main Memory Interface: 
+Minimum 1GB Dual 32bit DDR3-667 (1333MHz) or higher, Graphic: Minimum 2D & 3D Graphics En-
+gine with support upto 1920 x 1080. 32bpp & OpenGL ES, IO Ports: USB 2.0, Multimedia: Shall sup-
+port Video Decoder with MPEG-1/2, H.264/AVC (Dual), VC-1, JPEG, PNG, Audio DSP (Decoder), 
+MPEG, DTS and etc, Operating System: Linux
+Accessories: Shall include Quick Setup Guide, Application CD, D-Sub cable, Power Cord, Remote
+Controller, Batteries  
+47
+
+[Page 48]
+14.a
+Access Point
+Frequency band / range : 2.4 / 5 GHz Standards, Minimum 3 Dipole 
+Antenna or more, Shall have Access Point (AP) based operation 
+modes. 
+ 
+14.b Student feedback system
+Instant student performance feedback on all question types like Mul-
+tiple Choice, Multiple Answer, Yes / No, True / Flase, Numeric, 140 
+Character Text Entry, Bimodal etc. Shall used wireless without need of
+Line of sight. Shall be able to capture real time assessment data.
+15
+UPS 1 KVA Line Interactive UPS 
+Minimum: 1.0 KVA with AVR for 160 V - 280 V Single Phase Input with 
+Plug & Play operation, Single PCB Design. Internal Batteries for mini-
+mum 15 minutes Backup time
+ 
+ 
+16
+UPS 5 KVA Online  
+5 KVA High Frequency IGBT based True Online UPS with double con-
+cern with inbuilt Isolation transformer. LED Display for input / output 
+parameters and low battery / Overload. Minimum 120 Minutes 
+Backup Time using 12V SMF Batteries + batteries rack & interconnect-
+ing battery cables
+ 
+Software License
+(Academic in Nature)
+17
+(Academic
+ 
+in
+ 
+Nature).
+Software license shall be in the name
+of the IT Centre (at host Country) with
+1 year update and patches support
+MS Windows Svr Std 2012 R2 Sngl OLP x64 bit 
+ 
+18
+MS Window Server CAL 2012 Sngl OLP x64 bit Device CAL 
+ 
+19
+MS SQL Svr Std Edtn 2012 Win 32 Sngl OLPX 64 bit 
+ 
+20
+MS SQL CAL 2012 Sngl OLP User CAL 
+21
+MS Visual Studio Pro 2012 Sngl OLPX 64 bit 
+22
+MS Office Professional Plus 2012 Sngl OLPX64 bit 
+23
+Oracle 11g Standard Edition 
+24
+Oracle 11g Standard Edition Media and ATS for 1 year 
+25
+Red Hat Enterprise Linux ES (Latest Version) 
+26
+JDK 1.5 or latest 
+27
+Anti Virus for Desktop Computers 
+28
+Anti Virus  for Servers
+29
+Self Paced Learning Modules - Communication in English:
+( Specification as given below)
+Self Paced Learning Modules - Communication in English:
+a)Listening, Reading and Comprehension
+b)Writing  
+c)Pronunciation (Customizable)
+d)Grammar
+e) Authoring Tools.
+f-) Pronunciation Guide (Customizable)
+g) English for beginners
+Results Tracking Software for above content as mentioned in  a)  and d).
+Specifications and pre-requisites for English  Content Software (No- a, b, c and d).
+48
+
+[Page 49]
+Content to be available in British/American as options and prepared by English Language 
+experts
+The content software shall be scalable, truly interactive and shall also track, score and cor-
+rect the learner
+The  content shall be available in three levels (Beginner, Intermediate & Advance levels) as
+an option for s.no. (a) and (c).
+The pronunciation, and listening and  comprehension content software shall allow cus-
+tomization for different learning levels
+The listening, pronunciation and grammar software shall allow to record and playback 
+learner’s voice production and compare with the native speaker
+The grammar software module shall have a dictionary- online or offline.
+The Grammar learning module shall have enhanced listening and speaking activities; and 
+learners shall generate tests on single or multiple grammar areas from a test bank of more 
+than 1,500 items. And on completing a level, learners shall be able to print a certificate
+The Writing module shall include correcting common errors in written English
+The listening, Reading and comprehension content software shall be interactive and have 
+at least 6 levels of increasing difficulty and each level with at least 10 learning units. 
+The  Pronunciation module shall allow the learner to practice the International Phonetics Al-
+phabet (IPA)
+The software shall be compatible to windows 7 OS
+The software shall provide instant feedback when attempting the exercises
+Content shall be supplied in single or different modules either through CDROMs/electroni-
+cally  but shall have a Manual and installation instructions
+The English for beginners module shall allow
+Words, Conversations in the software to be translated from Spanish to English. The module
+shall have video clips and transcripts and shall have a sound database of words on people,
+countries, food, travel, geography, culture, and other commonly used vocabulary.
+Specifications for Pronunciation Guide (f)                                                                                
+ speech recognition to give feedback via an intelligibility score
+Shall record speech and compare with original
+ at least 30 lessons built in on the pronunciation subject.
+Shall allow webcam for video recording.
+Shall contain video of mouth &lips in pronunciation & video of speech anatomy.
+ video showing tongue contact with the palette.
+ phonetic symbols (IPA) and sounds
+ wave form amplitude for viewing timing, pitch and speech intensity
+ a built in dictionary of at least 20,000words and sounds with a feature to custom create 
+word lists.
+The dictionary Shall arrange the words in alphabetical order, vowel order, consonant order 
+and word order using separate tabs  an interactive guide on pronunciation
+shall clearly depict labial sounds, dental sounds. Alveolar, palatal sounds, velar sounds and
+voiced sounds.
+ shall display clear mouth positions in English pronunciation
+shall display the tongue palate contact when producing lingual consonants.
+ a lesson on vowel sounds, and diphthongs
+Speech intensity on loudness and pitch shall be displayed in waveform amplitude.
+  a text to speech facility with a input of at least 200 characters.
+Recorder shall be voice activated. Shall Automatically stop recording when you’ve finished 
+speaking
+Text to speech facility shall support multiple male and female voices.
+Shall have the ability to adjust the speaking rate of the text to speech voices
+Shall have comprehensive help documentation.
+Specifications and pre-requisites for Authoring tools software (S.No. (e)
+The authoring tool software shall  support the following  activity types
+The authoring tool software shall  support the following  activity types
+49
+
+[Page 50]
+Multiple choice, True/False, Fill in the blanks, Dropdown ,Drag and Drop, Drag On, Read-
+ing comp. Target spotting, Proof reading Presentation, Text reconstruction ,Stop Gap fill, 
+Closing, Analyze, Countdown, Target Spotting
+It shall enable teachers to create a hierarchical course structure: Course, Units, Exercises, 
+and to link exercises together to form learning paths
+The authoring tool shall support the following optimum file formats:
+JPEG/JPG Images, MP3 Audio clips, FLV/SWF Videos, External URL links
+Multiple sources of information (audio/video/images/text) shall be allowed to be  attached to
+a single screen
+The authoring tool software shall permit for exporting the content created to others
+The content created on this software shall be SCROM compliant
+The  authoring tool shall have separate modules -1) Teachers module for content creation 
+2) Student’s module for self paced interactive learning
+The student module shall have a recorder enabling the learners to record their voices and 
+compare to the sample clips and also a progress function to analyse performance.
+The software shall permit instant marking and instant feedback
+The software shall come with a result manager and shall permit student tracking and en-
+able the teachers to monitor students progress
+The software shall allow to export the content created by the teachers
+Only internationally available copyrighted content prepared by native English Language ex-
+perts and that is certified by an English Language Testing authority or a leading En-
+glishTeaching University shall be considered. Test certificate shall be attached with the 
+technical bid. 
+31
+Self Paced E learning model for IT:
+(Specification as given below)
+Self Paced E learning model for IT:
+1.
+The service provider shall be offering a SaaS model of deployment and a package 
+that is customizable with online modules that are available 24/7.The offered modules 
+should supplement the training conducted by the trainers and should be in sync with the 
+courses offered.
+2.
+The Content will be powered by an LMS where the system can generate learner reports 
+such as tracking user progress and usage.
+3.
+The content will be multimedia based, SCORMCompliant/AICC Compliant. The Principal 
+Company should indicate compliance on their website and through a letter referencing the ten-
+der.
+4.
+The online content should be available in several foreign languages viz. Spanish and English
+5.      The modules should be interactive with multimedia content designed for basic to advanced 
+users, integrated with interactive assessment, and progress tracking features and an option for 
+mentoring support through chat, email and instant feedback. Mentoring support should help re-
+ceive clarification and help get the desired answers/understanding the learner needs.
+6.       The self paced e-learning content should be as per course requirement of centre and all 
+courses should be from the same OEM.
+32
+Passive Items ( Material for LAN Cabling) : CAT 6 Cable (box of 305 
+Mts), I/O with SMB, Jack Panel (24 Ports), UTP Patch Cords 3ft & 7ft, 
+etc.
+ 
+ 
+33
+Networking Racks 12U with lockable front glass door, cable manager,
+fan, AC distribution box 
+ 
+ 
+34
+Networking Racks 42U with rack kit, lockable front glass door, cable
+manager, fan & AC distribution box for Servers & Storage 
+ 
+ 
+50
+
+[Page 51]
+35
+Interactive White Board with Stand
+Dimension without stand 
+Minimum 1,352 x 1,637 x 74 
+mm
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(H x W x D) -
+Power Consumption
+Shall be less than 3.0 W
+Scren Board Size (H x W)
+Minimum 1175 x 1582mm
+Panel Surface
+Antiglare Coated Metal Plate
+Interface
+Minimum: USB 2.0
+Position Sensor
+Reflective Type Touch 
+panel / Ultrasonic receiver 
+System Interface Requirement
+Any PC with USB ports
+Accessories
+Electronic Pen, Operating In-
+struction with installation 
+manual, Batteries, USB Ca-
+ble, Software CD-ROM, Wall 
+Mounting Kit & stand for 
+room
+Services
+36
+Installation of LAN: Supply of Installation of PVC Conduit, Baton & 
+Flexi (1'' x 2''), Mounting & Fixing of Networking Rack 12 U, Fixing of 
+Networking Rack 42 U, Mounting & fixing of Jack Panel, Fixing of I/O & 
+SMB & Document (Lump sum)
+ 
+ 
+37
+Charges for Installation and setup of
+IT Infrastructure
+Installation and Setup of IT 
+Infrastructure including con-
+figuration of equipment as 
+per Part A vendor
+ 
+ 
+PLEASE  MENTION THE OFFERED MODEL  AND ITS SPECIFICATIONS  AGAINST  EVERY
+LINE ITEM CLEARLY. THE OFFERED SPEICIFICATIONS SHALL BE SAME OR  HIGHER
+FROM  THE  ONES  MENTIONED  IN  THE  TENDER  SPECIFICATIONS  ABOVE,  FOR
+CATEGORISING  AS  ‘COMPLIED’.  IN  CASE  IT  IS  FOUND  THAT  THE  SPECIFICATIONS
+MENTIONED  ARE  NOT  COMPLIANT  AFTER  VERIFICATION  FROM  THE  DATASHEETS
+PROVIDED, THE PROPOSAL SHALL BE AUTOMATICALLY REJECTED. 
+51
+
+[Page 52]
+Annexure 2
+LETTER OF AUTHORISATION FOR ATTENDING TOE
+[On the letterhead of the Bidder company]
+( To reach MEA before Bid Opening Date)
+To
+______________
+______________
+______________
+Subject : Authorisation for attending bid opening –TOE 
+on________________________________(date) in the Tender of_____________________
+____________________________________.
+Dear Sir,
+Following persons are hereby authorised to attend the bid opening for the Tender
+mentioned  above  on  behalf  of______________________________________________
+(Bidder) in order of preference given below.
+Order of Preference 
+Name 
+Specimen Signatures
+I.
+II.
+Signatures of bidder
+Or
+Officer authorized to sign the Bid
+Documents on behalf of the Bidder with seal.
+52
+
+[Page 53]
+ANNEXURE –3
+ PROFORMA OF PERFORMANCE BANK GUARANTEE
+(on non-judicial paper of appropriate value)
+In consideration of the President of India (hereinafter called “The Government”) having offered to
+accept  the  terms  and  conditions  of  the  proposed  agreement  between  ……………and  ……………..
+(hereinafter called “the said contractor(s)” for the work …………………………. (hereinafter called “the
+said  agreement”}  having  agreed  to  production  of  an  irrevocable  Bank  Guarantee  for  Rs……….
+(Rupees………….………only)  as  a  security/guarantee  from  the  contractor(s)  for  compliance  of  his
+obligations in accordance with the terms and conditions in the said agreement.
+1.  We  ……………………………………(hereinafter  referred  to  as  the  “Bank”)  hereby  undertake  to
+(indicate the name of the Bank)
+pay to the Government an amount not exceeding Rs ……. (Rupees……………………………..only) on
+demand by the Government.
+2. We ……………………………………(indicate the name of the Bank) do hereby undertake to pay the
+amounts  due  and  payable  under  this  Guarantee  without  any  demur,  merely  on  a  demand  from  the
+Government stating that the amount claimed is required to meet the recoveries due or likely to be due from
+the said contractor(s). Any such demand made on the Bank shall be conclusive as regards the amount due
+and payable by the Bank under this Guarantee. However, our liability under this Guarantee shall be
+restricted to an amount not exceeding Rs……………. (Rupees……………………………only).
+3. We, the said Bank, further undertake to pay to the Government any money so demanded notwithstanding
+any dispute or disputes raised by the contractor(s) in any suit or proceeding pending before any Court or
+Tribunal relating thereto, our liability under this present being absolute and unequivocal. The payment so
+made by us under this bond shall be a valid discharge of our liability for payment thereunder, and the
+contractor(s)  no claim against us for making such payment.
+4. We ……………………………………… (indicate the name of the Bank) further agree that the Guarantee
+herein contained shall remain in full force and effect during the period that would be taken for the
+performance of the said agreement, and it shall continue to be enforceable till all the dues of the Government
+under or by virtue of the said agreement have been fully paid, and its claims satisfied or discharged, or till
+the representative of MEA, on behalf of the Government, certifies that the terms and conditions of the said
+agreement have been fully and properly carried out by the said contractor(s), and accordingly discharges this
+guarantee.
+5. We ……………………………………(indicate the name of the Bank) further agree with the Government
+that the Government   the fullest liberty without our consent, and without effecting in any manner our
+obligations hereunder, to vary any of the terms and conditions of the said agreement or to extend time of
+performance by the said contractor(s) from time to time or to postpone for any time or from time to time any
+of the powers exercisable by the Government against the said contractor(s),and to forbear or enforce any of
+the terms and conditions relating to the said agreement, and we shall not be relieved from our liability by
+reason of any such variation or extension being granted to the said contractor(s) or for any forbearance, act
+of omission on the part of the Government or any indulgence by the Government to the said contractor(s) or
+by any such matter or thing whatsoever which under the law relating to sureties would, but for this
+provision, have effect of so relieving us.
+6. This Guarantee  will  not be discharged  due to the change  in the constitution of the Bank or the
+contractor(s).
+7. We …………………………………..lastly undertake not to revoke this Guarantee except with (indicate
+the name of the Bank) the previous consent of the Government in writing.
+8. This Guarantee shall be valid up to …………………unless extended on demand by the Government.
+Notwithstanding  anything  mentioned  above,  our  liability  against  this  Guarantee  is  restricted  to  Rs
+……………….. (Rupees ………………………….only), and unless a claim in writing is lodged with us
+within six months of the date of expiry or extended date of expiry of this Guarantee all our liabilities under
+this Guarantee shall stand discharged.
+Dated the ……………….day of…………………. For ……………………......................
+Granted by the Bank
+Yours faithfully,
+For (Name of Bank)
+SEAL OF THE BANK                                                                                       Authorized Signatory 
+53
+
+[Page 54]
+PROFORMA OF BANK GUARANTEE FOR BID SECURITY
+Bank Guarantee No.  ---------------------------------------
+Ref:
+To
+The Ministry of External Affairs
+Jawaharlal Nehru Bhawan
+23-D, Janpath, New Delhi,
+PIN-110011
+Dear Sirs,
+Whereas the Ministry of External Affairs having its office at Jawaharlal Nehru Bhawan, 23-D,
+Janpath, New Delhi-110011 (hereinafter called the MEA) which expression shall, unless repugnant
+to the context or the meaning thereof, include all its successors, administrators, executors and
+assignees has on behalf of the President of India invited tender No.-------------------------------------
+and
+ 
+M/s
+ 
+----------------------------------------------------------------------------------------
+ 
+having
+Registered/head  office  at  ------------------------------------------------------------------  --------------------
+(Hereinafter called the "bidder" which expression shall, unless repugnant to the context or the
+meaning thereof, mean and include alt its successors, administrators executors and assignees)
+have submitted a Proposal Reference No. -------------------------- and bidder having agree to furnish
+as  a  conditions  precedent  for  participation  in  tender  as  unconditional  and  irrevocable  bank
+guarantee of Rs----------------------(Rupees ------------------------------------------------------- Only) for the
+due performance of bidder’s obligations as contained in the tender Document supplied by the MEA
+specially the conditions that (a) bidder shall keep his Proposal open for a period of day  i.e.  from
+------------------------ to --------------------- or any extension thereof, and shall not withdraw or modify it
+in a manner not acceptable to the MEA (b) the bidder will execute the contract, if awarded, and
+shall furnish performance guarantee in the format prescribed by the MEA within the required time.
+The bidder has absolutely and unconditionally accepted these conditions. The MEA and the bidder
+have agreed that Proposal submitted by the bidder is an offer made on the condition that the
+Proposal, if submitted would be kept open in its original form without variation or modification in a
+manner not acceptable to the MEA for a period of ----------days i.e. from -------------- to ---------------
+or any, extension thereof and that submission of the Proposal itself shall be regarded as an
+unconditional and absolute acceptance of the conditions, contained in the tender document. They
+have  further agreed  that  the  contract  consisting  of  tender document  and submission  of the
+Proposal as the ACCEPTANCE shall be a separate contract distinct from the contract which will
+come into existence when the Proposal is finally accepted by the MEA. The consideration for this
+separate initial contract preceding the main contract is that the MEA is not agreeable to sell the
+tender documents to the bidder and to consider the Proposal to be made except on the condition
+that the Proposal shall be kept open for the period indicated above and the bidder desires to
+submit a Proposal on this condition after entering into this separate initial contract with the MEA
+promises to consider the Proposal on this condition and bidder agrees to keep this Propsal open
+for the required period. These reciprocal promises form the CONSIDERATION for this separate
+initial contract between the parties.
+2. Therefore, we ------------------------------------------------------------- registered (indicate the name of
+Bank)  under  the  laws  of  ------------------------------------------having  head/registered  office  at
+(hereinafter referred to as the "Bank") which expression shall, unless repugnant to the context or
+meaning thereof, include all its successors, administrators and executors hereby issue irrevocable
+and unconditional bank guarantee and undertake to pay immediately on first demand in writing
+Rupees all money to the extent of Rs------------------ (Rupees------------------------------------------ only)
+at any time immediately on such demand without any demur, reservations, recourse, contest or
+protest and/ or without any reference to the bidder and any such demand made by the MEA on the
+bank shall be conclusive and binding notwithstanding any difference between the MEA and the
+bidder or any dispute pending before any court/arbitrator or any other matter whatsoever. We also
+agree  to  give  that  Guarantee  herein  the  MEA  in  writing.  This  guarantee  shall  not  be
+determined/discharged/affected by the liquidation, winding up, dissolution or insolvency of the
+bidder and will remain valid, binding and operative against the bank.
+54
+
+[Page 55]
+3. The bank also undertakes that the MEA at the option shall be entitled to enforce this guarantee,
+against the Bank as a principal debtor, in the first instance, without proceeding against the bidder.
+4. The bank further agree that as between the bank and the MEA, purpose of the guarantee, any
+notice of the breach of the terms and conditions contained in the tender Documents as referred
+above given to the bank by the MEA shall be conclusive and binding on Bank, without any proof,
+notwithstanding any other matter or difference or dispute whatsoever. We further agree that this
+guarantee shall not be affected by any change in our constitution, in the constitution of the MEA or
+that of the bidder. We also undertake not to revoke, in any case, this Guarantee during its
+currency.
+5. The bank agree with the MEA that the MEA  the fullest liberty without our consent and without
+affecting in any manner our obligations hereunder to vary any of the terms of the tender or get
+extension of the validity period from time to time. We shall not be relieved from our liability by
+reason of any such variation or extension of the validity period or for any forbearance, act of
+omission and commission on the part of the MEA or any indulgence shown by the MEA to the said
+bidder or by any such matter or thing whatsoever which under the law relating to sureties, would,
+but for this provision, have the effect of so relieving us.
+6. Notwithstanding anything contained here in above our liability under his Guarantee is limited to
+Rs.  ----------------------------  (Rupees  ------------------------------------------------------------  only)  in
+aggregate and it shall remain in full force upto -------------------------------(225 days from the date of
+bid opening) unless extended further from time to time, for such period as may be instructed in
+writing by M/s -------------------------------------------- on whose behalf this guarantee has been given, in
+which case, it shall remain in full force upto the expiry of extended period. Any claim under this
+guarantee must be received by us before --------------------------------(date of expiry of validity period)
+or before the expiry of extended period, if any. If no such claim is received by us within the said
+date/extended date, the rights of the MEA under this guarantee will cease. However, if such a
+claim has been received by us within and upto the said date/extended date, all right of the MEA
+under this guarantee shall be valid and shall not cease until we have satisfied that claim.
+7. In case contract is awarded to the Bidder here in after referred to as "Contractor" the validity of
+this Bank Guarantee will stand automatically extended until the bidder furnished to the MEA a
+bank guarantee for requisite amount towards performance guarantee for satisfactory performance
+of the contract. In case of failure to furnish performance bank Guarantee in the format prescribed
+by the MEA by the required date the claim must be submitted to us within validity period or
+extended period, if any. If no such claim has been received by us within the said date /extended
+date, rights, of the Ministry under this guarantee will cease. However if such a claim has been
+received by us within the said date/extended date all rights of the MEA under this guarantee shall
+be valid and shall not cease until we have satisfied that claim,
+In witness where of the Bank, through its authorised officer, has sent its hand & stamp on this
+--------------------day
+ 
+of
+ 
+at__________
+ 
+of----------------------at-------------------
+of----------------------------------------- (month & year).
+Signature
+(Full name in capital Letters)
+Designation with bank stamp
+Witness No.1
+Signature
+(Full name and address in capital letters)
+55
+
+[Page 56]
+Witness No.2
+Attorney as per power of attorney
+No ----------------------------------
+Date --------------------------------
+Signature
+(Full name and address in capital letters)
+56
+
+[Page 57]
+ANNEXURE 4  
+MAUFACTURER AUTHORISATION FORMAT
+(on manufacturer’s letterhead)
+Date:
+To
+Ministry of External Affairs
+Development Partnership Administration
+New Delhi
+Subject: Manufacture authorization against tender No.____________for supply & 
+support of ____________________(Name of the product/s) at San Jose, Costa 
+Rica and Roseau, Commonwealth of Dominica(CD).
+Dear Sir,
+1.
+“We,  M/s.  (Name  of  the  manufacturer)  having  registered  office  at  (address  of  the
+manufacturer) are the principal  manufacturer(OEM) for (Name of the product/s) and are
+participating in this tender.
+We ,M/s. (Name of the manufacturer), certify that we have not issued any authorisation to
+any of our authorised dealer/agent to participate in this tender.”
+OR
+2.
+“We,  M/s.  (Name  of  the  manufacturer)  having  registered  office  at  (address  of  the
+manufacturer) hereby virtue of being manufacturer for (Name of the product/s), hereby
+authorize M/s.(Name of the bidder) having their office at (Address of bidder) to submit
+quote, negotiate, supply, install and provide after sales support for our range of products
+quoted by them to meet the above mentioned tender requirements at San Jose, Costa Rica
+and Roseau, Commonwealth of Dominica(CD).
+M/s (Name of the manufacturer)____________ within the scope of requirement as per the 
+tender mentioned above through its authorized partner M/s. (Name of the 
+bidder)_____________ shall provide support & product warranty services for a mini-
+mum period of 3year form the date of supply & installation at  San Jose, Costa Rica and 
+Roseau, Commonwealth of Dominica(CD)”
+The undersigned is authorized to issue such authorization on behalf of M/s (Name of the
+manufacturer).
+For M/s. (Name of the manufacturer)
+Signature & company seal
+Name
+Designation
+E-mail Mobile No.
+(Please strike -off the non relevant para)
+57
